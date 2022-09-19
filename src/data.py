@@ -102,10 +102,15 @@ def data_for_keyfold(model_name,inputs,targets=None,max_length=512,n_splits=3):
 
     return my_loader
 
-def data_for_test(model_name,inputs,targets=None,max_length=512,batch_size=n):
+def data_for_test(model_name,inputs,targets=None,max_length=512,batch_size=16):
     my_dataset = MyDataset(model_name=model_name,inputs=inputs, targets=targets,max_length=max_length)
     test_length = len(my_dataset)
     my_test_loader = {'test':DataLoader(dataset=my_dataset,batch_size=n,shuffle=False),
     'length':test_length}
 
     return my_test_loader
+
+def vanilla_dataset(model_name,inputs,labels=None,max_length=512):
+    my_dataset = MyDataset(model_name=model_name,inputs=inputs, targets=labels,max_length=max_length)
+
+    return my_dataset

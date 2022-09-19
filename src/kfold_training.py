@@ -43,6 +43,8 @@ def evaluate(model,loader):
 
     if use_cuda:
         model = model.cuda()
+        log.info('cuda')
+    else: log.info('cpu')
 
 
     model.eval()
@@ -222,7 +224,6 @@ texts,labels = preproc.MultiDoc4seq2seq.global_data('./timebank_tabular/',t_type
 with open('./onto_mod.json') as f:
     jsn = json.load(f)
 
-print(len(texts))
 
 
 for pair in jsn:
@@ -234,5 +235,5 @@ for pair in jsn:
 loader = data.data_for_keyfold("distilbert-base-uncased",texts,labels,n_splits=3)
 test_texts,test_labels = preproc.MultiDoc4seq2seq.global_data('./timebank_test/',t_type='sents')
 
-test_loader = data.data_for_test("distilbert-base-uncased",test_texts,test_labels)
+#test_loader = data.data_for_test("distilbert-base-uncased",test_texts,test_labels)
 training(model,loader)
