@@ -12,7 +12,7 @@ def parse_sents(a_list):
         d = dict()
 
         try:
-            d['tokens'] = [w[3] for w in a_list[idx]]
+            d['sentence'] = [w[3] for w in a_list[idx]]
             d['token_ids'] = [w[2] for w in a_list[idx]]
             d['lemma'] = [w[6] for w in a_list[idx]]
             d['pos'] = [w[4] for w in a_list[idx]]
@@ -21,7 +21,6 @@ def parse_sents(a_list):
             verbs = [(w[6],w.index(key),a_list[idx].index(w)) for w in a_list[idx] if key in w]
             if len(verbs)>0:
                 for verb in verbs:
-
                     length = len(set([a_list[idx][i][verb[-2]] for i in range(len(a_list[idx])-1)]))
                     if length==2:
                         verbs.remove(verb)
@@ -31,12 +30,13 @@ def parse_sents(a_list):
                 d['verbs'] = [v[0] for v in verbs]
                 d['verb_ids'] = [v[-1] for v in verbs]
                 id_sent_position_token = [w[:5] for w in a_list[idx]]
-                labels = ['0' for i in tokens]
+                labels = ['0' for i in d['sentence']]
+
                 for v in verbs:
                     labels[v[-1]]='EVENT'
                 d['labels'] = labels
             else:
-                labels = ['0' for i in tokens]
+                labels = ['0' for i in d['sentence']]
                 d['labels'] = labels
         except Exception as e: print(e)
 
