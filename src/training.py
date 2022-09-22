@@ -17,7 +17,7 @@ log.basicConfig(
 )
 
 class EarlyStopping():
-    def __init__(self, tolerance=2, min_delta=0.05):
+    def __init__(self, tolerance=3, min_delta=0.1):
 
         self.tolerance = tolerance
         self.min_delta = min_delta
@@ -82,7 +82,7 @@ def evaluate(model,loader):
 
     print(f"Test | Test_Loss: {total_loss_test / test_loader['length']: .3f} | Accuracy: {total_acc_test / test_loader['length']: .3f} | Precision: {total_prec_test / test_loader['length']: .3f} | Recall: {total_rec_test / test_loader['length']: .3f} | F-Score: {total_fscore_test / test_loader['length']: .3f}"
         )
-    with open('fine_tuning_output/distilbert_report.txt',mode='a') as f:
+    with open('../fine_tuning_output/distilbert_report.txt',mode='a') as f:
             f.write(f"Test | Test_Loss: {total_loss_test / test_loader['length']: .3f} | Accuracy: {total_acc_test / test_loader['length']: .3f} | Precision: {total_prec_test / test_loader['length']: .3f} | Recall: {total_rec_test / test_loader['length']: .3f} | F-Score: {total_fscore_test / test_loader['length']: .3f})\n")
 
     return total_loss_test / test_loader['length']
@@ -190,13 +190,13 @@ def training(model,loader):
         print(
         f"Epochs: {epoch_num + 1} | Val_Loss: {total_loss_val / loader['val_length']: .3f} | Accuracy: {total_acc_val / loader['val_length']: .3f} | Precision: {total_prec_val / loader['val_length']: .3f} | Recall: {total_rec_val / loader['val_length']: .3f} | F-Score: {total_fscore_val / loader['val_length']: .3f}"
         )
-        with open('fine_tuning_output/distilbert_report.txt',mode='a') as f:
+        with open('../fine_tuning_output/distilbert_report_.txt',mode='a') as f:
             f.write(f"Epochs: {epoch_num + 1} | Loss: {total_loss_train / loader['train_length']: .3f} | Accuracy: {total_acc_train / loader['train_length']: .3f} | Precision: {total_prec_train / loader['train_length']: .3f} | Recall: {total_rec_train / loader['train_length']: .3f} | F-Score: {total_fscore_train / loader['train_length']: .3f}\n")
             f.write(f"Epochs: {epoch_num + 1} | Val_Loss: {total_loss_val / loader['val_length']: .3f} | Accuracy: {total_acc_val / loader['val_length']: .3f} | Precision: {total_prec_val / loader['val_length']: .3f} | Recall: {total_rec_val / loader['val_length']: .3f} | F-Score: {total_fscore_val / loader['val_length']: .3f}\n")
 
-        early_stopping(total_loss_train,total_loss_val)
+        early_stopping(total_loss_train/loader['train_length'],total_loss_val/loader['val_length'])
         log.info(f"the delta between training and evaluation is {early_stopping.min_delta}")
-        torch.save(model.state_dict(),'fine_tuning_output/distilbert_finetuned.pth')
+        torch.save(model.state_dict(),'../fine_tuning_output/distilbert_finetuned_.pth')
         if early_stopping.early_stop: break
 
 
@@ -217,16 +217,17 @@ torch.autograd.set_detect_anomaly(True)
 model = Bert4EventExtraction(pretrained_model_name="distilbert-base-uncased",
     num_classes=2)
 
-if os.path.isfile('fine_tuning_output/distilbert_finetuned.pth'):
-    model.load_state_dict(torch.load('fine_tuning_output/distilbert_finetuned.pth'))
-    
+if os.path.isfile('../fine_tuning_output/distilbert_finetuned_.pth'):
+    model.load_state_dict(torch.load('../fine_tuning_output/distilbert_finetuned_.pth'))
+
 texts,labels = preproc.MultiDoc4seq2seq.global_data('./timebank_tabular/',t_type='sents')
-with open('./onto_mod.json') as f:
+with open('./onto_orig.json') as f:
     jsn = json.load(f)
 
 
 
 for pair in jsn:
+
     if len(pair['sentence'])>0:
         texts.append(pair['sentence'])
         lbls = [str(x) for x in pair['labels']]

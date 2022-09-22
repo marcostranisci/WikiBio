@@ -1,6 +1,7 @@
 import glob
 import itertools
 import regex as re
+import logging as log
 
 def parse_sents(a_list):
     def_d = dict()
@@ -74,6 +75,30 @@ def multi_doc_conversion(a_path):
         conv_d.append(converted)
 
     return conv_d
+
+def modify_onto(a_list):
+    light_v = []
+    for jsn in a_list:
+        for sent in jsn:
+            try:
+                for i,w in enumerate(jsn[sent]['lemma']):
+                    if w in light_w:
+                        lemmas = jsn[sent]['lemma'][i:i+4]
+                        pos = jsn[sent]['pos'][i:i+4]
+                        is_name = False
+                        for lemma in lemmas:
+                            if lemma in names and re.search('NN',pos[lemmas.index(lemma)]):
+                                jsn[sent]['labels'][i]=0
+                                jsn[sent]['labels'][i+lemmas.index(lemma)]='EVENT'
+                                is_name = True
+                        if is_name is False:
+                            for lemma in lemmas:
+                                if lemma in names and re.search('JJ',pos[lemmas.index(lemma)]):
+                                    jsn[sent]['labels'][i]=0
+                                    jsn[sent]['labels'][i+lemmas.index(lemma)]='EVENT'
+            except Exception as e:log.info(f"Houston we've got a {e}")
+
+    return None
 
 '''
 texts = list()
