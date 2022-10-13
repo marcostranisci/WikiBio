@@ -45,18 +45,63 @@ class MultiDoc4seq2seq():
     def global_data(a_path, t_type:str='sents'):
         sentences = list()
         labels = list()
-        print(sentences)
+
         if t_type=='sents':
             for doc in glob.glob('{}*.csv'.format(a_path)):
+                
                 a,b = MultiDoc4seq2seq.read_data_sent_split(doc)
                 sentences.extend(a)
                 labels.extend(b)
         elif t_type=='doc':
             for doc in glob.glob('{}*.csv'.format(a_path)):
-                
+
                 a,b = MultiDoc4seq2seq.read_data_whole_doc(doc)
 
                 sentences.append(a)
                 labels.append(b)
 
         return sentences,labels
+
+    def stack_sents(inputs:List[Tuple]):
+        stacked_ents = list()
+        for a,b in inputs:
+            tokens = list()
+            labels = list()
+            while len(a)>8:
+                for el in a[:8]:
+                    el.append('[SEP]')
+                tok = [x for y in a[:8] for x in y]
+                tokens.append(tok[:-1])
+                a = a[8:]
+            for el in a:
+                el.append('[SEP]')
+            tok = [x for y in a for x in y]
+            tokens.append(tok[:-1])
+            while len(b)>8:
+                for el in b[:8]:
+                    el.append('[SEP]')
+                tok = [x for y in b[:8] for x in y]
+                labels.append(tok[:-1])
+                b = b[8:]
+            for el in b:
+                el.append('[SEP]')
+            tok = [x for y in b for x in y]
+            labels.append(tok[:-1])
+            stacked_ents.append((tokens,labels))
+        return stacked_ents
+    def stacked_inputs(inputs:List[Tuple]):
+        stacked_ents = list()
+        for a,b in inputs:
+            tokens = list()
+            labels = list()
+            while len(a)>300:
+                tokens.append(a[:300])
+                a = a[300:]
+            tokens.append(a)
+            while len(b)>300:
+                labels.append(b[:300])
+                b = b[300:]
+            labels.append(b)
+            stacked_ents.append((tokens,labels))
+
+        return stacked_ents

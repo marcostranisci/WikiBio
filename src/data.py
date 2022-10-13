@@ -6,6 +6,7 @@ from transformers import AutoTokenizer
 import pandas as pd
 import regex as re
 from sklearn.model_selection import KFold
+from tqdm import tqdm
 
 class MyDataset(Dataset):
     def __init__(self,model_name,inputs:List[List[str]],targets:List[List[str]],tags_dict=None,num_classes=None,max_length=512):
@@ -112,5 +113,12 @@ def data_for_test(model_name,inputs,targets=None,max_length=512,batch_size=16):
 
 def vanilla_dataset(model_name,inputs,labels=None,max_length=512):
     my_dataset = MyDataset(model_name=model_name,inputs=inputs, targets=labels,max_length=max_length)
+
+    return my_dataset
+
+def stacked_dataset(model_name,inputs:List[Tuple],max_length=512):
+    my_dataset = list()
+    for texts,labels in tqdm(inputs):
+        my_dataset.append(MyDataset(model_name=model_name,inputs=texts,targets=labels))
 
     return my_dataset
