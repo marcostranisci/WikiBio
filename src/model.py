@@ -51,7 +51,7 @@ class Bert4EventExtraction(nn.Module):
         seq_output = bert_output[0]
         seq_output = self.dropout(seq_output)
         logits = self.classifier(seq_output)
-        
+
         loss = None
         if labels is not None:
             loss_fct = CrossEntropyLoss()

@@ -19,7 +19,7 @@ log.basicConfig(
 )
 
 class EarlyStopping():
-    def __init__(self, tolerance=2, min_delta=0.05):
+    def __init__(self, tolerance=3, min_delta=0.1):
 
         self.tolerance = tolerance
         self.min_delta = min_delta
