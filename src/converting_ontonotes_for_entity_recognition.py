@@ -80,22 +80,27 @@ def from_file_to_list(file):
     return x
 
 
-def multi_doc_conversion(a_path,mod=False):
+def multi_doc_conversion(a_path,mod='labels',a_file_name = None):
     conv_d = list()
 
     for doc in glob.glob(a_path):
+        
 
         converted = from_file_to_list(doc)
 
         conv_d.append(converted)
 
-    if mod is True:
-        conv_d = modify_onto(conv_d)
+    if mod == 'labels':
+        conv_d = modify_onto_labels(conv_d)
+    elif mod == 'clusters':
+        conv_d = modify_onto_clusters(conv_d)
+
+
 
     return conv_d
 
 
-def modify_onto(a_list):
+def modify_onto_labels(a_list):
     #new_l = list()
     a_list = [x for x in a_list if len(x)>0]
     for el in a_list:
@@ -128,3 +133,52 @@ def modify_onto(a_list):
                 except Exception as e:print(e)
 
     return a_list
+
+def modify_onto_clusters(a_list):
+    #new_l = list()
+    a_list = [x for x in a_list if len(x)>0]
+    for el in a_list:
+        if el['ent'] is  None:
+            continue
+        else:
+            ent = el['ent']
+            for x in el:
+                prev = 0
+                labels = list()
+                try:
+                    for i,tok in enumerate(el[x]['entity']):
+                        if re.search('\({}$'.format(ent),tok):
+                            labels.append('(ENTITY')
+                            prev = 1
+                        elif re.search('\(.*(?<![0-9]){}\)'.format(ent),tok):
+                            labels.append('(ENTITY)')
+                            prev = 0
+                        elif prev==1 and  el[x]['tree'][i].endswith('*)'):
+                            labels.append('ENTITY)')
+                            prev=0
+                        elif tok =='-' and prev == 1 and el[x]['tree'][i]=='*':
+                            labels.append('0')
+                        else:
+                            labels.append('0')
+                            prev=0
+                except Exception as e:print(e)
+                try:
+                    el[x]['labels'] = labels
+                except Exception as e:print(e)
+
+    return a_list
+
+
+'''
+new_l = list()
+    ...: for item in jsn:
+    ...:     d = dict()
+    ...:     tokens = [x for y in item['sentences'] for x in y]
+    ...:     sentences = [item['sentences'].index(y) for y in item['sentences']
+    ...: for x in y]
+    ...:     labels = [x for y in item['labels'] for x in y]
+    ...:     d['tokens'] = tokens
+    ...:     d['sentences'] = sentences
+    ...:     d['labels'] = labels
+    ...:     new_l.append(d)
+'''
