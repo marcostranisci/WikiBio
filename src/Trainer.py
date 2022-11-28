@@ -45,13 +45,13 @@ class Report():
         self.fields = fields
 
     def make_report(self,values:Dict):
-        if os.path.exists('./report/{}'.format(self.file)):
-            with open('./report/{}'.format(self.file),mode='a') as f:
+        if os.path.exists('../report/{}'.format(self.file)):
+            with open('../report/{}'.format(self.file),mode='a') as f:
                 writer = csv.DictWriter(f,self.fields)
                 writer.writerow(values)
 
         else:
-            with open('./report/{}'.format(self.file),mode='a') as f:
+            with open('../report/{}'.format(self.file),mode='a') as f:
                 writer = csv.DictWriter(f,self.fields)
                 writer.writeheader()
                 writer.writerow(values)
@@ -217,6 +217,3 @@ class Trainer():
             if early_stopping.early_stop:
 
                 break'''
-
-
-            
