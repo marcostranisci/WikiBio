@@ -63,31 +63,28 @@ for onto in onto_settings:
 
     tr.do_train()'''
 
-onto_settings = ['4_entities','4_entities_wide','4_entities_strict']
-for onto in onto_settings:
+training_sets = ['onto_4_event','timelines_4_event','timebank_4_event']
+for tr_set in training_sets:
     model = Bert4EventExtraction(pretrained_model_name="distilbert-base-uncased",
         num_classes=2)
 
-    with open('./onto_def_{}.json'.format(onto)) as f:
+    with open('../data/{}.json'.format(tr_set)) as f:
         jsn = json.load(f)
 
-    train_txt = [x['sentences'] for x in jsn]
+    train_txt = [x['sentence'] for x in jsn]
     train_labels = [x['labels'] for x in jsn]
-    shuffle(train_txt,random_state=r)
-    shuffle(train_labels,random_state=r)
     train_txt = [x for y in train_txt for x in y]
     train_labels = [x for y in train_labels for x in y]
+    shuffle(train_txt,random_state=r)
+    shuffle(train_labels,random_state=r)
 
-    with open('./onto_gum_preproc_sents.json') as f:
+    with open('../data/wiki_bio_4_event.json') as f:
         jsn = json.load(f)
 
-    texts = list()
-    labels = list()
-    for item in jsn:
-        for el in item:
-            for x in item[el]:
-                texts.append(x[0])
-                labels.append(x[1])
+    texts = [x['sentence'] for x in jsn]
+    labels = [x['labels'] for x in jsn]
+    texts = [x for y in texts for x in y]
+    labels = [x for y in labels for x in y]
 
     validate = data.vanilla_dataset("distilbert-base-uncased",texts,labels)
     eval = DataLoader(validate,batch_size=10,shuffle=False)
@@ -95,5 +92,5 @@ for onto in onto_settings:
     train = data.vanilla_dataset("distilbert-base-uncased",train_txt[:len(validate)*3],train_labels[:len(validate)*3])
     training = DataLoader(train,batch_size=10,shuffle=True)
 
-    tr = Trainer(model,training,eval,'{}_report_{}.csv'.format(onto,r))
+    tr = Trainer(model,training,eval,'{}_report_{}.csv'.format(tr_set,r))
     tr.do_train()
