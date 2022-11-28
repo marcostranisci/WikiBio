@@ -1,0 +1,633 @@
+bc/msnbc/00/msnbc_0003   5   0     Welcome   VBP  (TOP(S(VP*    welcome  01   2    Chris_Matthews              *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   1        back    RP       (PRT*)        -    -   -    Chris_Matthews              *    (ARGM-DIR*)      -
+bc/msnbc/00/msnbc_0003   5   2          to    IN        (PP*         -    -   -    Chris_Matthews              *        (ARG2*       -
+bc/msnbc/00/msnbc_0003   5   3    Hardball   NNP      (NP*)))        -    -   -    Chris_Matthews   (WORK_OF_ART)            *)   (126)
+bc/msnbc/00/msnbc_0003   5   4          /.     .          *))        -    -   -    Chris_Matthews              *             *       -
+
+bc/msnbc/00/msnbc_0003   5    0        President   NNP  (TOP(S(NP(NP(NP*            -    -   -    Chris_Matthews         *        (ARG1*   (16|(207
+bc/msnbc/00/msnbc_0003   5    1             Bush   NNP                 *            -    -   -    Chris_Matthews   (PERSON)            *          -
+bc/msnbc/00/msnbc_0003   5    2               's   POS                 *)           -    -   -    Chris_Matthews         *             *         16)
+bc/msnbc/00/msnbc_0003   5    3           recess    NN                 *        recess   -   -    Chris_Matthews         *             *          -
+bc/msnbc/00/msnbc_0003   5    4      appointment    NN                 *)           -    -   -    Chris_Matthews         *             *          -
+bc/msnbc/00/msnbc_0003   5    5               of    IN              (PP*            -    -   -    Chris_Matthews         *             *          -
+bc/msnbc/00/msnbc_0003   5    6             John   NNP              (NP*            -    -   -    Chris_Matthews  (PERSON*             *       (202
+bc/msnbc/00/msnbc_0003   5    7           Bolton   NNP                *))           -    -   -    Chris_Matthews         *)            *        202)
+bc/msnbc/00/msnbc_0003   5    8               as    IN              (PP*            -    -   -    Chris_Matthews         *             *          -
+bc/msnbc/00/msnbc_0003   5    9               UN   NNP              (NP*            -    -   -    Chris_Matthews      (ORG)            *       (195)
+bc/msnbc/00/msnbc_0003   5   10       ambassador    NN               *)))   ambassador   -   1    Chris_Matthews         *             *)       207)
+bc/msnbc/00/msnbc_0003   5   11              may    MD              (VP*            -    -   -    Chris_Matthews         *    (ARGM-MOD*)         -
+bc/msnbc/00/msnbc_0003   5   12               be    VB              (VP*            be  01   1    Chris_Matthews         *           (V*)         -
+bc/msnbc/00/msnbc_0003   5   13    controversial    JJ            (ADJP*            -    -   -    Chris_Matthews         *        (ARG2*          -
+bc/msnbc/00/msnbc_0003   5   14            among    IN              (PP*            -    -   -    Chris_Matthews         *             *          -
+bc/msnbc/00/msnbc_0003   5   15        Democrats   NNS          (NP*)))))           -    -   -    Chris_Matthews     (NORP)            *)         -
+bc/msnbc/00/msnbc_0003   5   16               /.     .                *))           -    -   -    Chris_Matthews         *             *          -
+
+bc/msnbc/00/msnbc_0003   5   0          but    CC  (TOP(S*    -    -   -    Chris_Matthews  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   5   1           it   PRP     (NP*)   -    -   -    Chris_Matthews  *        (ARG1*)   (207)
+bc/msnbc/00/msnbc_0003   5   2           's   VBZ     (VP*    be  01   1    Chris_Matthews  *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   3          not    RB        *    -    -   -    Chris_Matthews  *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   5   4      without    IN     (PP*    -    -   -    Chris_Matthews  *        (ARG2*       -
+bc/msnbc/00/msnbc_0003   5   5    precedent    NN   (NP*)))   -    -   -    Chris_Matthews  *             *)      -
+bc/msnbc/00/msnbc_0003   5   6           /.     .       *))   -    -   -    Chris_Matthews  *             *       -
+
+bc/msnbc/00/msnbc_0003   5    0          and    CC   (TOP(S*          -    -   -    Chris_Matthews  *      *      *    (ARGM-DIS*)        *             *       -
+bc/msnbc/00/msnbc_0003   5    1          the    DT      (NP*          -    -   -    Chris_Matthews  *      *      *        (ARG0*         *             *    (207
+bc/msnbc/00/msnbc_0003   5    2         move    NN         *)       move  02   2    Chris_Matthews  *    (V*)     *             *)        *             *     207)
+bc/msnbc/00/msnbc_0003   5    3          has   VBZ      (VP*        have  01   -    Chris_Matthews  *      *    (V*)            *         *             *       -
+bc/msnbc/00/msnbc_0003   5    4    energized   VBN      (VP*    energize  01   1    Chris_Matthews  *      *      *           (V*)        *             *       -
+bc/msnbc/00/msnbc_0003   5    5         both    DT      (NP*          -    -   -    Chris_Matthews  *      *      *        (ARG1*         *             *    (150
+bc/msnbc/00/msnbc_0003   5    6        sides   NNS         *)       side   -   3    Chris_Matthews  *      *      *             *)        *             *     150)
+bc/msnbc/00/msnbc_0003   5    7           as    IN    (SBAR*          -    -   -    Chris_Matthews  *      *      *    (ARGM-TMP*         *             *       -
+bc/msnbc/00/msnbc_0003   5    8         they   PRP    (S(NP*)         -    -   -    Chris_Matthews  *      *      *             *    (ARG0*)            *    (150)
+bc/msnbc/00/msnbc_0003   5    9      prepare   VBP      (VP*     prepare  02   2    Chris_Matthews  *      *      *             *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   5   10          for    IN      (PP*          -    -   -    Chris_Matthews  *      *      *             *    (ARG2*             *       -
+bc/msnbc/00/msnbc_0003   5   11          the    DT      (NP*          -    -   -    Chris_Matthews  *      *      *             *         *             *       -
+bc/msnbc/00/msnbc_0003   5   12         next    JJ         *          -    -   -    Chris_Matthews  *      *      *             *         *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0003   5   13       battle    NN   *)))))))     battle  01   3    Chris_Matthews  *      *      *             *)        *)          (V*)      -
+bc/msnbc/00/msnbc_0003   5   14           /.     .        *))         -    -   -    Chris_Matthews  *      *      *             *         *             *       -
+
+bc/msnbc/00/msnbc_0003   5   0         Hardball   NNP  (TOP(S(NP(NML*        -    -   -    Chris_Matthews   (WORK_OF_ART)  (ARG0*    (49|(126)
+bc/msnbc/00/msnbc_0003   5   1    correspondent    NN               *)       -    -   -    Chris_Matthews              *        *           -
+bc/msnbc/00/msnbc_0003   5   2            David   NNP               *        -    -   -    Chris_Matthews       (PERSON*        *           -
+bc/msnbc/00/msnbc_0003   5   3          Shuster   NNP               *)       -    -   -    Chris_Matthews              *)       *)         49)
+bc/msnbc/00/msnbc_0003   5   4          reports   VBZ            (VP*)   report  01   1    Chris_Matthews              *      (V*)          -
+bc/msnbc/00/msnbc_0003   5   5               /.     .              *))       -    -   -    Chris_Matthews              *        *           -
+
+bc/msnbc/00/msnbc_0003   5    0          After     IN  (TOP(S(PP*             -    -    -    David_Shuster         *        *             *             *   (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0003   5    1         urging    VBG      (S(VP*           urge  01    1    David_Shuster         *      (V*)            *             *            *      -
+bc/msnbc/00/msnbc_0003   5    2      President    NNP        (NP*             -    -    -    David_Shuster         *   (ARG1*        (ARG0*             *            *    (16
+bc/msnbc/00/msnbc_0003   5    3           Bush    NNP           *)            -    -    -    David_Shuster   (PERSON)       *)            *)            *            *     16)
+bc/msnbc/00/msnbc_0003   5    4            not     RB         (S*             -    -    -    David_Shuster         *   (ARG2*    (ARGM-NEG*)            *            *      -
+bc/msnbc/00/msnbc_0003   5    5             to     TO        (VP*             -    -    -    David_Shuster         *        *             *             *            *      -
+bc/msnbc/00/msnbc_0003   5    6             go     VB        (VP*             go  06   15    David_Shuster         *        *           (V*)            *            *      -
+bc/msnbc/00/msnbc_0003   5    7        through     RP       (PRT*)            -    -    -    David_Shuster         *        *        (ARG2*)            *            *      -
+bc/msnbc/00/msnbc_0003   5    8           with     IN        (PP*             -    -    -    David_Shuster         *        *        (ARG1*             *            *      -
+bc/msnbc/00/msnbc_0003   5    9           this     DT        (NP*             -    -    -    David_Shuster         *        *             *             *            *   (207
+bc/msnbc/00/msnbc_0003   5   10         recess     NN           *         recess   -    -    David_Shuster         *        *             *    (ARGM-TMP*)           *      -
+bc/msnbc/00/msnbc_0003   5   11    appointment     NN    *))))))))   appointment  01    1    David_Shuster         *        *)            *)          (V*)           *)   207)
+bc/msnbc/00/msnbc_0003   5   12            the     DT     (NP(NP*             -    -    -    David_Shuster         *        *             *             *       (ARG1*      -
+bc/msnbc/00/msnbc_0003   5   13       reaction     NN           *)            -    -    -    David_Shuster         *        *             *             *            *      -
+bc/msnbc/00/msnbc_0003   5   14          today     NN        (NP*)         today   -    2    David_Shuster     (DATE)       *             *             *            *      -
+bc/msnbc/00/msnbc_0003   5   15           from     IN        (PP*             -    -    -    David_Shuster         *        *             *             *            *      -
+bc/msnbc/00/msnbc_0003   5   16      Democrats   NNPS      (NP*)))            -    -    -    David_Shuster     (NORP)       *             *             *            *)     -
+bc/msnbc/00/msnbc_0003   5   17            was    VBD        (VP*             be  01    1    David_Shuster         *        *             *             *          (V*)     -
+bc/msnbc/00/msnbc_0003   5   18          harsh     JJ     (ADJP*))            -    -    -    David_Shuster         *        *             *             *       (ARG2*)     -
+bc/msnbc/00/msnbc_0003   5   19             /.      .          *))            -    -    -    David_Shuster         *        *             *             *            *      -
+
+bc/msnbc/00/msnbc_0003   5    0        This    DT  (TOP(S(NP*         -    -   -    Dick_Durbin      *         *      *        (ARG1*   (202
+bc/msnbc/00/msnbc_0003   5    1         man    NN           *)       man   -   1    Dick_Durbin      *         *      *             *)   202)
+bc/msnbc/00/msnbc_0003   5    2          uh    UH      (INTJ*)        -    -   -    Dick_Durbin      *         *      *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0003   5    3       sadly    RB      (ADVP*)        -    -   -    Dick_Durbin      *         *      *    (ARGM-ADV*)     -
+bc/msnbc/00/msnbc_0003   5    4          if    IN      (SBAR*         -    -   -    Dick_Durbin      *         *      *    (ARGM-ADV*      -
+bc/msnbc/00/msnbc_0003   5    5          we   PRP      (S(NP*)        -    -   -    Dick_Durbin      *    (ARG0*)     *             *      -
+bc/msnbc/00/msnbc_0003   5    6         had   VBD        (VP*       have  03   8    Dick_Durbin      *       (V*)     *             *      -
+bc/msnbc/00/msnbc_0003   5    7           a    DT        (NP*         -    -   -    Dick_Durbin      *    (ARG1*      *             *      -
+bc/msnbc/00/msnbc_0003   5    8      secret    JJ           *         -    -   -    Dick_Durbin      *         *      *             *      -
+bc/msnbc/00/msnbc_0003   5    9        roll    NN           *       roll   -   2    Dick_Durbin      *         *      *             *      -
+bc/msnbc/00/msnbc_0003   5   10        call    NN        *))))      call   -   2    Dick_Durbin      *         *)     *             *)     -
+bc/msnbc/00/msnbc_0003   5   11       would    MD        (VP*         -    -   -    Dick_Durbin      *         *      *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0003   5   12         not    RB           *         -    -   -    Dick_Durbin      *         *      *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0003   5   13          be    VB        (VP*         be  03   -    Dick_Durbin      *         *    (V*)            *      -
+bc/msnbc/00/msnbc_0003   5   14    approved   VBN        (VP*    approve  01   1    Dick_Durbin      *         *      *           (V*)     -
+bc/msnbc/00/msnbc_0003   5   15          by    IN        (PP*         -    -   -    Dick_Durbin      *         *      *        (ARG0*      -
+bc/msnbc/00/msnbc_0003   5   16         the    DT        (NP*         -    -   -    Dick_Durbin      *         *      *             *   (122
+bc/msnbc/00/msnbc_0003   5   17      Senate   NNP       *)))))        -    -   -    Dick_Durbin   (ORG)        *      *             *)   122)
+bc/msnbc/00/msnbc_0003   5   18          /.     .          *))        -    -   -    Dick_Durbin      *         *      *             *      -
+
+bc/msnbc/00/msnbc_0003   5    0              both    CC  (TOP(FRAG(PP*            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5    1                in    IN              *            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5    2               the    DT           (NP*            -    -   -    Dick_Durbin       *         *             *    (150
+bc/msnbc/00/msnbc_0003   5    3        Democratic    JJ         (ADJP*            -    -   -    Dick_Durbin   (NORP)        *             *       -
+bc/msnbc/00/msnbc_0003   5    4               and    CC              *            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5    5       Republicans    JJ              *)           -    -   -    Dick_Durbin   (NORP)        *             *       -
+bc/msnbc/00/msnbc_0003   5    6             sides   NNS             *))         side   -   3    Dick_Durbin       *         *             *     150)
+bc/msnbc/00/msnbc_0003   5    7           serious    JJ        (NP(NP*            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5    8        misgivings   NNS              *)           -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5    9             about    IN           (PP*            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5   10           whether    IN         (SBAR*            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5   11                he   PRP         (S(NP*)           -    -   -    Dick_Durbin       *    (ARG0*)            *    (202)
+bc/msnbc/00/msnbc_0003   5   12               has   VBZ           (VP*          have  03   2    Dick_Durbin       *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   5   13               the    DT        (NP(NP*            -    -   -    Dick_Durbin       *    (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   5   14    qualifications   NNS              *)           -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5   15               for    IN           (PP*            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5   16              this    DT           (NP*            -    -   -    Dick_Durbin       *         *             *       -
+bc/msnbc/00/msnbc_0003   5   17         important    JJ              *            -    -   -    Dick_Durbin       *         *    (ARGM-ADJ*)      -
+bc/msnbc/00/msnbc_0003   5   18        assignment    NN       *))))))))   assignment  01   1    Dick_Durbin       *         *)          (V*)      -
+bc/msnbc/00/msnbc_0003   5   19                /.     .             *))           -    -   -    Dick_Durbin       *         *             *       -
+
+bc/msnbc/00/msnbc_0003   5    0             And     CC           (TOP(S*           -    -   -    David_Shuster         *    (ARGM-DIS*)       *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5    1            some     DT              (NP*           -    -   -    David_Shuster         *        (ARG0*        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5    2       Democrats   NNPS                 *)          -    -   -    David_Shuster     (NORP)            *)       *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5    3            said    VBD              (VP*          say  01   1    David_Shuster         *           (V*)       *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5    4             the     DT    (SBAR(S(NP(NP*           -    -   -    David_Shuster         *        (ARG1*   (ARG0*       (ARG1*      *        *         *    (16
+bc/msnbc/00/msnbc_0003   5    5       president    NNP                 *           -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5    6              's    POS                 *)          -    -   -    David_Shuster         *             *        *)           *      *        *         *     16)
+bc/msnbc/00/msnbc_0003   5    7          action     NN                 *)      action  01   1    David_Shuster         *             *      (V*)           *)     *        *         *      -
+bc/msnbc/00/msnbc_0003   5    8              is    VBZ              (VP*           be  01   1    David_Shuster         *             *        *          (V*)     *        *         *      -
+bc/msnbc/00/msnbc_0003   5    9               a     DT           (NP(NP*           -    -   -    David_Shuster         *             *        *       (ARG2*      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   10           stick     NN                 *)       stick   -   1    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   11              in     IN              (PP*           -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   12             the     DT              (NP*           -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   13             eye     NN               *)))         eye   -   1    David_Shuster         *             *        *            *)     *        *         *      -
+bc/msnbc/00/msnbc_0003   5   14            just     RB       (SBAR(ADVP*)          -    -   -    David_Shuster         *             *        *   (ARGM-TMP*      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   15              as     IN                 *           -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   16             the     DT            (S(NP*           -    -   -    David_Shuster         *             *        *            *      *   (ARG0*         *   (122
+bc/msnbc/00/msnbc_0003   5   17          Senate    NNP                 *)          -    -   -    David_Shuster      (ORG)            *        *            *      *        *)        *    122)
+bc/msnbc/00/msnbc_0003   5   18              is    VBZ              (VP*           be  03   -    David_Shuster         *             *        *            *    (V*)       *         *      -
+bc/msnbc/00/msnbc_0003   5   19       preparing    VBG              (VP*      prepare  02   2    David_Shuster         *             *        *            *      *      (V*)        *      -
+bc/msnbc/00/msnbc_0003   5   20             for     IN              (PP*           -    -   -    David_Shuster         *             *        *            *      *   (ARG2*         *      -
+bc/msnbc/00/msnbc_0003   5   21    confirmation     NN           (NP(NP*           -    -   -    David_Shuster         *             *        *            *      *        *    (ARG2*)     -
+bc/msnbc/00/msnbc_0003   5   22        hearings    NNS                 *)     hearing  01   1    David_Shuster         *             *        *            *      *        *       (V*)     -
+bc/msnbc/00/msnbc_0003   5   23              of     IN              (PP*           -    -   -    David_Shuster         *             *        *            *      *        *    (ARG1*      -
+bc/msnbc/00/msnbc_0003   5   24            John    NNP           (NP(NP*           -    -   -    David_Shuster  (PERSON*             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   25         Roberts    NNP                 *)          -    -   -    David_Shuster         *)            *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   26             the     DT        (NP(NP(NP*           -    -   -    David_Shuster         *             *        *            *      *        *         *    (16
+bc/msnbc/00/msnbc_0003   5   27       president     NN                 *    president   -   3    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   28              's    POS                 *)          -    -   -    David_Shuster         *             *        *            *      *        *         *     16)
+bc/msnbc/00/msnbc_0003   5   29         nominee     NN                 *)          -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   30             for     IN              (PP*           -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   31             the     DT              (NP*           -    -   -    David_Shuster     (ORG*             *        *            *      *        *         *   (123
+bc/msnbc/00/msnbc_0003   5   32         Supreme    NNP                 *           -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+bc/msnbc/00/msnbc_0003   5   33           Court    NNP   *)))))))))))))))          -    -   -    David_Shuster         *)            *)       *            *)     *        *)        *)   123)
+bc/msnbc/00/msnbc_0003   5   34              /.      .                *))          -    -   -    David_Shuster         *             *        *            *      *        *         *      -
+
+bc/msnbc/00/msnbc_0003   5    0         This     DT         (TOP(S(NP*           -    -    -    Tom_Harkin       *   (ARG0*      *            *    (16
+bc/msnbc/00/msnbc_0003   5    1    president     NN                  *)   president   -    3    Tom_Harkin       *        *)     *            *     16)
+bc/msnbc/00/msnbc_0003   5    2          has    VBZ               (VP*         have  03    4    Tom_Harkin       *      (V*)     *            *      -
+bc/msnbc/00/msnbc_0003   5    3         more    JJR            (NP(NP*           -    -    -    Tom_Harkin       *   (ARG1*      *            *      -
+bc/msnbc/00/msnbc_0003   5    4      disdain     NN                  *)     disdain   -    -    Tom_Harkin       *        *      *            *      -
+bc/msnbc/00/msnbc_0003   5    5          for     IN               (PP*           -    -    -    Tom_Harkin       *        *      *            *      -
+bc/msnbc/00/msnbc_0003   5    6          the     DT               (NP*           -    -    -    Tom_Harkin       *        *      *            *      -
+bc/msnbc/00/msnbc_0003   5    7       United    NNP              (NML*           -    -    -    Tom_Harkin   (GPE*        *      *            *      -
+bc/msnbc/00/msnbc_0003   5    8       States    NNP                  *)          -    -    -    Tom_Harkin       *)       *      *            *      -
+bc/msnbc/00/msnbc_0003   5    9     Congress    NNP                 *))          -    -    -    Tom_Harkin    (ORG)       *      *            *      -
+bc/msnbc/00/msnbc_0003   5   10         than     IN             (SBAR*           -    -    -    Tom_Harkin       *        *      *            *      -
+bc/msnbc/00/msnbc_0003   5   11          any     DT            (NP(NP*           -    -    -    Tom_Harkin       *        *      *       (ARG1*      -
+bc/msnbc/00/msnbc_0003   5   12    president     NN                  *)   president   -    3    Tom_Harkin       *        *      *            *)     -
+bc/msnbc/00/msnbc_0003   5   13            I    PRP        (SBAR(S(NP*)          -    -    -    Tom_Harkin       *        *      *       (ARG0*)   (26)
+bc/msnbc/00/msnbc_0003   5   14          've    VBP               (VP*         have  01   12    Tom_Harkin       *        *    (V*)           *      -
+bc/msnbc/00/msnbc_0003   5   15         seen    VBN               (VP*          see  01    3    Tom_Harkin       *        *      *          (V*)     -
+bc/msnbc/00/msnbc_0003   5   16           in     IN               (PP*           -    -    -    Tom_Harkin       *        *      *   (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0003   5   17           my   PRP$            (NP(NP*           -    -    -    Tom_Harkin       *        *      *            *    (26)
+bc/msnbc/00/msnbc_0003   5   18       thirty     JJ                  *           -    -    -    Tom_Harkin  (DATE*        *      *            *      -
+bc/msnbc/00/msnbc_0003   5   19        years    NNS                  *)          -    -    -    Tom_Harkin       *)       *      *            *      -
+bc/msnbc/00/msnbc_0003   5   20        there     RB   (ADVP*)))))))))))          -    -    -    Tom_Harkin       *        *)     *            *)     -
+bc/msnbc/00/msnbc_0003   5   21           /.      .                 *))          -    -    -    Tom_Harkin       *        *      *            *      -
+
+bc/msnbc/00/msnbc_0003   5    0             The    DT  (TOP(S(NP(NP*             -    -   -    David_Shuster      *             *   (ARG1*   (16|(203
+bc/msnbc/00/msnbc_0003   5    1       president   NNP              *             -    -   -    David_Shuster      *             *        *          -
+bc/msnbc/00/msnbc_0003   5    2              's   POS              *)            -    -   -    David_Shuster      *             *        *         16)
+bc/msnbc/00/msnbc_0003   5    3           power    NN              *          power   -   1    David_Shuster      *             *        *          -
+bc/msnbc/00/msnbc_0003   5    4              to    TO         (S(VP*             -    -   -    David_Shuster      *             *        *          -
+bc/msnbc/00/msnbc_0003   5    5            make    VB           (VP*           make   -   1    David_Shuster      *    (ARGM-LVB*)       *          -
+bc/msnbc/00/msnbc_0003   5    6          recess    NN           (NP*         recess   -   -    David_Shuster      *    (ARGM-TMP*)       *          -
+bc/msnbc/00/msnbc_0003   5    7    appointments   NNS          *)))))   appointment  01   1    David_Shuster      *           (V*)       *)       203)
+bc/msnbc/00/msnbc_0003   5    8           comes   VBZ           (VP*           come  03   5    David_Shuster      *             *      (V*)         -
+bc/msnbc/00/msnbc_0003   5    9            from    IN           (PP*             -    -   -    David_Shuster      *             *   (ARG2*          -
+bc/msnbc/00/msnbc_0003   5   10             the    DT           (NP*             -    -   -    David_Shuster      *             *        *          -
+bc/msnbc/00/msnbc_0003   5   11    Constitution   NNP            *)))            -    -   -    David_Shuster   (LAW)            *        *)         -
+bc/msnbc/00/msnbc_0003   5   12              /.     .             *))            -    -   -    David_Shuster      *             *        *          -
+
+bc/msnbc/00/msnbc_0003   5    0           And    CC       (TOP(S*       -    -   -    David_Shuster         *    (ARGM-DIS*)          *       -
+bc/msnbc/00/msnbc_0003   5    1            it   PRP          (NP*)      -    -   -    David_Shuster         *        (ARG1*)          *    (203)
+bc/msnbc/00/msnbc_0003   5    2            's   VBZ          (VP*       be  01   1    David_Shuster         *           (V*)          *       -
+bc/msnbc/00/msnbc_0003   5    3             a    DT       (NP(NP*       -    -   -    David_Shuster         *        (ARG2*      (ARG1*       -
+bc/msnbc/00/msnbc_0003   5    4         power    NN             *)   power   -   1    David_Shuster         *             *           *)      -
+bc/msnbc/00/msnbc_0003   5    5          that   WDT   (SBAR(WHNP*)      -    -   -    David_Shuster         *             *    (R-ARG1*)      -
+bc/msnbc/00/msnbc_0003   5    6         dates   VBZ        (S(VP*     date  01   3    David_Shuster         *             *         (V*)      -
+bc/msnbc/00/msnbc_0003   5    7          back    RB        (ADVP*       -    -   -    David_Shuster         *             *      (ARG2*       -
+bc/msnbc/00/msnbc_0003   5    8            to    IN          (PP*       -    -   -    David_Shuster         *             *           *       -
+bc/msnbc/00/msnbc_0003   5    9        George   NNP          (NP*       -    -   -    David_Shuster  (PERSON*             *           *    (187
+bc/msnbc/00/msnbc_0003   5   10    Washington   NNP      *))))))))      -    -   -    David_Shuster         *)            *)          *)    187)
+bc/msnbc/00/msnbc_0003   5   11            /.     .            *))      -    -   -    David_Shuster         *             *           *       -
+
+bc/msnbc/00/msnbc_0003   5    0         Our   PRP$  (TOP(S(NP(NP*        -    -   -    David_Shuster           *         *       (ARG0*        (ARG0*             *   (185|(187
+bc/msnbc/00/msnbc_0003   5    1      nation     NN              *    nation   -   1    David_Shuster           *         *            *             *             *           -
+bc/msnbc/00/msnbc_0003   5    2          's    POS              *)       -    -   -    David_Shuster           *         *            *             *             *         185)
+bc/msnbc/00/msnbc_0003   5    3    founding    VBG              *     found  01   -    David_Shuster           *       (V*)           *             *             *           -
+bc/msnbc/00/msnbc_0003   5    4      father     NN              *)   father   -   -    David_Shuster           *    (ARG0*)           *)            *)            *         187)
+bc/msnbc/00/msnbc_0003   5    5    recessed    VBD           (VP*    recess  01   -    David_Shuster           *         *          (V*)            *             *           -
+bc/msnbc/00/msnbc_0003   5    6        John    NNP           (NP*        -    -   -    David_Shuster    (PERSON*         *       (ARG1*             *             *        (230
+bc/msnbc/00/msnbc_0003   5    7    Rutledge    NNP              *)       -    -   -    David_Shuster           *)        *            *)            *             *         230)
+bc/msnbc/00/msnbc_0003   5    8          on     IN           (PP*        -    -   -    David_Shuster           *         *   (ARGM-DIR*             *             *           -
+bc/msnbc/00/msnbc_0003   5    9          to     IN           (PP*        -    -   -    David_Shuster           *         *            *             *             *           -
+bc/msnbc/00/msnbc_0003   5   10         the     DT           (NP*        -    -   -    David_Shuster       (ORG*         *            *             *             *        (123
+bc/msnbc/00/msnbc_0003   5   11     Supreme    NNP              *        -    -   -    David_Shuster           *         *            *             *             *           -
+bc/msnbc/00/msnbc_0003   5   12       Court    NNP            *)))       -    -   -    David_Shuster           *)        *            *)            *             *         123)
+bc/msnbc/00/msnbc_0003   5   13        only     RB       (S(ADVP*)       -    -   -    David_Shuster           *         *   (ARGM-ADV*    (ARGM-ADV*)            *           -
+bc/msnbc/00/msnbc_0003   5   14          to     TO           (VP*        -    -   -    David_Shuster           *         *            *             *             *           -
+bc/msnbc/00/msnbc_0003   5   15         see     VB           (VP*       see  01   3    David_Shuster           *         *            *           (V*)            *           -
+bc/msnbc/00/msnbc_0003   5   16         him    PRP         (S(NP*)       -    -   -    David_Shuster           *         *            *        (ARG1*        (ARG1*)       (230)
+bc/msnbc/00/msnbc_0003   5   17    formally     RB         (ADVP*)       -    -   -    David_Shuster           *         *            *             *    (ARGM-MNR*)          -
+bc/msnbc/00/msnbc_0003   5   18    rejected    VBN           (VP*    reject  01   1    David_Shuster           *         *            *             *           (V*)          -
+bc/msnbc/00/msnbc_0003   5   19          by     IN           (PP*        -    -   -    David_Shuster           *         *            *             *        (ARG0*           -
+bc/msnbc/00/msnbc_0003   5   20         the     DT           (NP*        -    -   -    David_Shuster           *         *            *             *             *        (122
+bc/msnbc/00/msnbc_0003   5   21      Senate    NNP             *))       -    -   -    David_Shuster        (ORG)        *            *             *             *)        122)
+bc/msnbc/00/msnbc_0003   5   22       after     IN           (PP*        -    -   -    David_Shuster           *         *            *             *    (ARGM-TMP*           -
+bc/msnbc/00/msnbc_0003   5   23         one     CD           (NP*        -    -   -    David_Shuster   (CARDINAL)        *            *             *             *           -
+bc/msnbc/00/msnbc_0003   5   24        term     NN       *))))))))     term   -   2    David_Shuster           *         *            *)            *)            *)          -
+bc/msnbc/00/msnbc_0003   5   25          /.      .             *))       -    -   -    David_Shuster           *         *            *             *             *           -
+
+bc/msnbc/00/msnbc_0003   5    0       President    NNP  (TOP(S(NP*             -    -   -    David_Shuster           *   (ARG0*        (ARG0*   (183
+bc/msnbc/00/msnbc_0003   5    1          Reagan    NNP           *)            -    -   -    David_Shuster     (PERSON)       *)            *)   183)
+bc/msnbc/00/msnbc_0003   5    2            made    VBD        (VP*           make  01   1    David_Shuster           *      (V*)   (ARGM-LVB*)     -
+bc/msnbc/00/msnbc_0003   5    3             two     CD     (NP(QP*             -    -   -    David_Shuster  (CARDINAL*   (ARG1*    (ARGM-ADJ*      -
+bc/msnbc/00/msnbc_0003   5    4         hundred     CD           *             -    -   -    David_Shuster           *        *             *      -
+bc/msnbc/00/msnbc_0003   5    5             and     CC           *             -    -   -    David_Shuster           *        *             *      -
+bc/msnbc/00/msnbc_0003   5    6           forty     CD           *             -    -   -    David_Shuster           *        *             *      -
+bc/msnbc/00/msnbc_0003   5    7              -    HYPH           *             -    -   -    David_Shuster           *        *             *      -
+bc/msnbc/00/msnbc_0003   5    8           three     CD           *)            -    -   -    David_Shuster           *)       *             *)     -
+bc/msnbc/00/msnbc_0003   5    9          recess     NN           *         recess   -   -    David_Shuster           *        *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   5   10    appointments    NNS          *))   appointment  01   1    David_Shuster           *        *)          (V*)     -
+bc/msnbc/00/msnbc_0003   5   11              /.      .          *))            -    -   -    David_Shuster           *        *             *      -
+
+bc/msnbc/00/msnbc_0003   5   0    President   NNP  (TOP(S(NP*      -    -   -    David_Shuster           *   (ARG0*   (220
+bc/msnbc/00/msnbc_0003   5   1      Clinton   NNP           *)     -    -   -    David_Shuster     (PERSON)       *)   220)
+bc/msnbc/00/msnbc_0003   5   2         made   VBD        (VP*    make  01   1    David_Shuster           *      (V*)     -
+bc/msnbc/00/msnbc_0003   5   3            a    DT     (NP(QP*      -    -   -    David_Shuster  (CARDINAL*   (ARG1*      -
+bc/msnbc/00/msnbc_0003   5   4      hundred    CD           *      -    -   -    David_Shuster           *        *      -
+bc/msnbc/00/msnbc_0003   5   5          and    CC           *      -    -   -    David_Shuster           *        *      -
+bc/msnbc/00/msnbc_0003   5   6        forty    CD         *)))     -    -   -    David_Shuster           *)       *)     -
+bc/msnbc/00/msnbc_0003   5   7           /.     .          *))     -    -   -    David_Shuster           *        *      -
+
+bc/msnbc/00/msnbc_0003   5    0          And    CC  (TOP(S*      -    -   -    David_Shuster           *      *    (ARGM-DIS*)    -
+bc/msnbc/00/msnbc_0003   5    1           to    IN     (PP*      -    -   -    David_Shuster           *      *    (ARGM-TMP*     -
+bc/msnbc/00/msnbc_0003   5    2         date    NN    (NP*))   date   -   5    David_Shuster           *      *             *)    -
+bc/msnbc/00/msnbc_0003   5    3    President   NNP     (NP*      -    -   -    David_Shuster           *      *        (ARG0*   (16
+bc/msnbc/00/msnbc_0003   5    4         Bush   NNP        *)     -    -   -    David_Shuster     (PERSON)     *             *)   16)
+bc/msnbc/00/msnbc_0003   5    5          has   VBZ     (VP*    have  01   -    David_Shuster           *    (V*)            *     -
+bc/msnbc/00/msnbc_0003   5    6         made   VBN     (VP*    make  01   1    David_Shuster           *      *           (V*)    -
+bc/msnbc/00/msnbc_0003   5    7            a    DT  (NP(QP*      -    -   -    David_Shuster  (CARDINAL*      *        (ARG1*     -
+bc/msnbc/00/msnbc_0003   5    8      hundred    CD        *      -    -   -    David_Shuster           *      *             *     -
+bc/msnbc/00/msnbc_0003   5    9          and    CC        *      -    -   -    David_Shuster           *      *             *     -
+bc/msnbc/00/msnbc_0003   5   10         five    CD     *))))     -    -   -    David_Shuster           *)     *             *)    -
+bc/msnbc/00/msnbc_0003   5   11           /.     .       *))     -    -   -    David_Shuster           *      *             *     -
+
+bc/msnbc/00/msnbc_0003   5    0       President    NNP  (TOP(S(NP(NP*             -    -   -    David_Shuster         *        (ARG0*   (ARG2*         *        *   (220
+bc/msnbc/00/msnbc_0003   5    1         Clinton    NNP              *             -    -   -    David_Shuster   (PERSON)            *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5    2              's    POS              *)            -    -   -    David_Shuster         *             *)       *         *        *    220)
+bc/msnbc/00/msnbc_0003   5    3          recess     NN              *         recess   -   -    David_Shuster         *    (ARGM-TMP*)       *         *        *      -
+bc/msnbc/00/msnbc_0003   5    4    appointments    NNS              *)   appointment  01   1    David_Shuster         *           (V*)       *)        *        *      -
+bc/msnbc/00/msnbc_0003   5    5        included    VBD           (VP*        include  01   2    David_Shuster         *             *      (V*)        *        *      -
+bc/msnbc/00/msnbc_0003   5    6           James    NNP  (NP(NP(NP(NP*             -    -   -    David_Shuster  (PERSON*             *   (ARG1*         *   (ARG1*      -
+bc/msnbc/00/msnbc_0003   5    7          Hormel    NNP              *)            -    -   -    David_Shuster         *)            *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5    8              an     DT        (NP(NP*             -    -   -    David_Shuster         *             *        *    (ARG1*        *      -
+bc/msnbc/00/msnbc_0003   5    9          openly     RB         (ADJP*             -    -   -    David_Shuster         *             *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5   10             gay     JJ              *)            -    -   -    David_Shuster         *             *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5   11             man     NN              *)           man   -   1    David_Shuster         *             *        *         *)       *      -
+bc/msnbc/00/msnbc_0003   5   12     Republicans   NNPS    (SBAR(S(NP*)            -    -   -    David_Shuster     (NORP)            *        *    (ARG0*)       *      -
+bc/msnbc/00/msnbc_0003   5   13         opposed    VBD       (VP*)))))        oppose  01   -    David_Shuster         *             *        *       (V*)       *)     -
+bc/msnbc/00/msnbc_0003   5   14              to     TO    (SBAR(S(VP*             -    -   -    David_Shuster         *             *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5   15              be     VB           (VP*             be  01   1    David_Shuster         *             *        *         *      (V*)     -
+bc/msnbc/00/msnbc_0003   5   16      ambassador     NN        (NP(NP*)    ambassador   -   1    David_Shuster         *             *        *         *   (ARG2*      -
+bc/msnbc/00/msnbc_0003   5   17              to     IN           (PP*             -    -   -    David_Shuster         *             *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5   18      Luxembourg    NNP    (NP*))))))))            -    -   -    David_Shuster      (GPE)            *        *         *        *)     -
+bc/msnbc/00/msnbc_0003   5   19             and     CC              *             -    -   -    David_Shuster         *             *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5   20           Judge    NNP           (NP*             -    -   -    David_Shuster         *             *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5   21           Roger    NNP              *             -    -   -    David_Shuster  (PERSON*             *        *         *        *      -
+bc/msnbc/00/msnbc_0003   5   22         Gregory    NNP            *)))            -    -   -    David_Shuster         *)            *        *)        *        *      -
+bc/msnbc/00/msnbc_0003   5   23              /.      .             *))            -    -   -    David_Shuster         *             *        *         *        *      -
+
+bc/msnbc/00/msnbc_0003   5    0           I    PRP   (TOP(S(NP*)     -    -   -    William_Clinton       *      *       (ARG0*)   (ARG0*)   (220)
+bc/msnbc/00/msnbc_0003   5    1        have    VBP         (VP*    have  01   -    William_Clinton       *    (V*)           *         *       -
+bc/msnbc/00/msnbc_0003   5    2       tried    VBN         (VP*     try  01   1    William_Clinton       *      *          (V*)        *       -
+bc/msnbc/00/msnbc_0003   5    3         for     IN         (PP*      -    -   -    William_Clinton       *      *   (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0003   5    4        five     CD         (NP*      -    -   -    William_Clinton  (DATE*      *            *         *       -
+bc/msnbc/00/msnbc_0003   5    5       years    NNS           *))     -    -   -    William_Clinton       *)     *            *)        *       -
+bc/msnbc/00/msnbc_0003   5    6          to     TO       (S(VP*      -    -   -    William_Clinton       *      *       (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   5    7         put     VB         (VP*     put  01   1    William_Clinton       *      *            *       (V*)    (51)
+bc/msnbc/00/msnbc_0003   5    8          an     DT         (NP*      -    -   -    William_Clinton  (NORP*      *            *    (ARG1*       -
+bc/msnbc/00/msnbc_0003   5    9     African    NNP            *      -    -   -    William_Clinton       *      *            *         *       -
+bc/msnbc/00/msnbc_0003   5   10          -    HYPH            *      -    -   -    William_Clinton       *      *            *         *       -
+bc/msnbc/00/msnbc_0003   5   11    American    NNP            *)     -    -   -    William_Clinton       *)     *            *         *)      -
+bc/msnbc/00/msnbc_0003   5   12          on     IN         (PP*      -    -   -    William_Clinton       *      *            *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   5   13         the     DT         (NP*      -    -   -    William_Clinton   (ORG*      *            *         *       -
+bc/msnbc/00/msnbc_0003   5   14      fourth    NNP            *      -    -   -    William_Clinton       *      *            *         *       -
+bc/msnbc/00/msnbc_0003   5   15     Circuit    NNP        *)))))     -    -   -    William_Clinton       *)     *            *)        *)      -
+bc/msnbc/00/msnbc_0003   5   16         for     IN         (PP*      -    -   -    William_Clinton       *      *   (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0003   5   17        five     CD         (NP*      -    -   -    William_Clinton  (DATE*      *            *         *       -
+bc/msnbc/00/msnbc_0003   5   18       years    NNS         *))))     -    -   -    William_Clinton       *)     *            *)        *       -
+bc/msnbc/00/msnbc_0003   5   19          /.      .           *))     -    -   -    William_Clinton       *      *            *         *       -
+
+bc/msnbc/00/msnbc_0003   5    0            Now     RB      (TOP(S(ADVP*)       -    -   -    William_Clinton  *            *    (ARGM-TMP*)       *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    1             uh     UH            (INTJ*)       -    -   -    William_Clinton  *            *    (ARGM-DIS*)       *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    2             uh     UH            (INTJ*)       -    -   -    William_Clinton  *            *    (ARGM-DIS*)       *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    3            for     IN              (PP*        -    -   -    William_Clinton  *            *    (ARGM-CAU*        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    4            all    PDT           (NP(NP*        -    -   -    William_Clinton  *       (ARG1*             *        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    5            the     DT                 *        -    -   -    William_Clinton  *            *             *        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    6        reasons    NNS                 *)   reason   -   1    William_Clinton  *            *)            *        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    7           that    WDT       (SBAR(WHNP*)       -    -   -    William_Clinton  *     (R-ARG1*)            *        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5    8              I    PRP            (S(NP*)       -    -   -    William_Clinton  *       (ARG0*)            *        *      *      *             *    (220)
+bc/msnbc/00/msnbc_0003   5    9           made    VBD              (VP*      make  01   1    William_Clinton  *          (V*)            *        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   10             in     IN              (PP*        -    -   -    William_Clinton  *   (ARGM-LOC*             *        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   11             my   PRP$              (NP*        -    -   -    William_Clinton  *            *             *        *      *      *             *    (220)
+bc/msnbc/00/msnbc_0003   5   12        remarks    NNS           *)))))))   remark   -   1    William_Clinton  *            *)            *)       *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   13             uh     UH            (INTJ*)       -    -   -    William_Clinton  *            *    (ARGM-DIS*)       *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   14              I    PRP              (NP*)       -    -   -    William_Clinton  *            *        (ARG0*)       *      *      *             *    (220)
+bc/msnbc/00/msnbc_0003   5   15          think    VBP              (VP*     think  01   1    William_Clinton  *            *           (V*)       *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   16             it    PRP   (SBAR(S(NP(NP*))       -    -   -    William_Clinton  *            *        (ARG1*        *      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   17             is    VBZ              (VP*        be  01   1    William_Clinton  *            *             *      (V*)     *      *             *       -
+bc/msnbc/00/msnbc_0003   5   18           most    RBS            (ADJP*        -    -   -    William_Clinton  *            *             *   (ARG2*      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   19    unfortunate     JJ                 *)       -    -   -    William_Clinton  *            *             *        *)     *      *             *       -
+bc/msnbc/00/msnbc_0003   5   20           that     IN            (SBAR*        -    -   -    William_Clinton  *            *      (C-ARG1*   (ARG1*      *      *             *       -
+bc/msnbc/00/msnbc_0003   5   21             it    PRP            (S(NP*)       -    -   -    William_Clinton  *            *             *        *      *      *        (ARG1*)    (51)
+bc/msnbc/00/msnbc_0003   5   22            has    VBZ              (VP*      have  01   -    William_Clinton  *            *             *        *    (V*)     *             *       -
+bc/msnbc/00/msnbc_0003   5   23            not     RB                 *        -    -   -    William_Clinton  *            *             *        *      *      *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   5   24           been    VBN              (VP*        be  03   -    William_Clinton  *            *             *        *      *    (V*)            *       -
+bc/msnbc/00/msnbc_0003   5   25           done    VBN      (VP*)))))))))       do  02   -    William_Clinton  *            *            *))       *)     *      *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   26             /.      .                *))       -    -   -    William_Clinton  *            *             *        *      *      *             *       -
+
+bc/msnbc/00/msnbc_0003   5   0           and    CC     (TOP(S*    -    -   -    William_Clinton  *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0003   5   1             I   PRP        (NP*)   -    -   -    William_Clinton  *        (ARG1*)   (ARG0*)   (220)
+bc/msnbc/00/msnbc_0003   5   2            am   VBP        (VP*    be  01   1    William_Clinton  *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   5   3          just    RB      (ADVP*)   -    -   -    William_Clinton  *    (ARGM-ADV*)        *       -
+bc/msnbc/00/msnbc_0003   5   4    determined    JJ      (ADJP*    -    -   -    William_Clinton  *        (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   5   5            to    TO      (S(VP*    -    -   -    William_Clinton  *             *         *       -
+bc/msnbc/00/msnbc_0003   5   6            do    VB        (VP*    do  02   1    William_Clinton  *             *       (V*)      -
+bc/msnbc/00/msnbc_0003   5   7            it   PRP   (NP*))))))   -    -   -    William_Clinton  *             *)   (ARG1*)    (51)
+bc/msnbc/00/msnbc_0003   5   8            /.     .          *))   -    -   -    William_Clinton  *             *         *       -
+
+bc/msnbc/00/msnbc_0003   5   0      It   PRP   (TOP(S(NP*)     -    -   -    William_Clinton  *        (ARG1*)            *      -
+bc/msnbc/00/msnbc_0003   5   1      's   VBZ         (VP*      be  01   1    William_Clinton  *           (V*)            *      -
+bc/msnbc/00/msnbc_0003   5   2    just    RB       (ADVP*)     -    -   -    William_Clinton  *    (ARGM-ADV*)            *      -
+bc/msnbc/00/msnbc_0003   5   3    time    NN      (NP(NP*)   time   -   1    William_Clinton  *        (ARG2*    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   5   4      to    TO  (SBAR(S(VP*      -    -   -    William_Clinton  *             *             *      -
+bc/msnbc/00/msnbc_0003   5   5      do    VB         (VP*      do  02   1    William_Clinton  *             *           (V*)     -
+bc/msnbc/00/msnbc_0003   5   6      it   PRP   (NP*)))))))     -    -   -    William_Clinton  *             *)       (ARG1*)   (51)
+bc/msnbc/00/msnbc_0003   5   7      /.     .           *))     -    -   -    William_Clinton  *             *             *      -
+
+bc/msnbc/00/msnbc_0003   5    0               For    IN        (TOP(S(PP*                -    -   -    David_Shuster         *             *      *   (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0003   5    1         President   NNP              (NP*                -    -   -    David_Shuster         *             *      *            *     (16
+bc/msnbc/00/msnbc_0003   5    2              Bush   NNP                *))               -    -   -    David_Shuster   (PERSON)            *      *            *)     16)
+bc/msnbc/00/msnbc_0003   5    3            recess    NN              (NP*            recess   -   -    David_Shuster         *    (ARGM-TMP*)     *       (ARG1*       -
+bc/msnbc/00/msnbc_0003   5    4      appointments   NNS                 *)      appointment  01   1    David_Shuster         *           (V*)     *            *)      -
+bc/msnbc/00/msnbc_0003   5    5              have   VBP              (VP*              have  01   -    David_Shuster         *             *    (V*)           *       -
+bc/msnbc/00/msnbc_0003   5    6              gone   VBN              (VP*                go  01   5    David_Shuster         *             *      *          (V*)      -
+bc/msnbc/00/msnbc_0003   5    7                to    IN              (PP*                -    -   -    David_Shuster         *             *      *       (ARG4*       -
+bc/msnbc/00/msnbc_0003   5    8      conservative    JJ           (NP(NP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5    9            Judges   NNS                 *             judge   -   1    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   10           Charles   NNP         (NML(NML*                -    -   -    David_Shuster  (PERSON*             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   11         Pickering   NNP                 *)               -    -   -    David_Shuster         *)            *      *            *       -
+bc/msnbc/00/msnbc_0003   5   12               and    CC                 *                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   13           William   NNP             (NML*                -    -   -    David_Shuster  (PERSON*             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   14             Pryor   NNP               *)))               -    -   -    David_Shuster         *)            *      *            *       -
+bc/msnbc/00/msnbc_0003   5   15             Labor   NNP       (NP(NP(NML*                -    -   -    David_Shuster     (ORG*             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   16        Department   NNP                 *                -    -   -    David_Shuster         *)            *      *            *       -
+bc/msnbc/00/msnbc_0003   5   17         Solicitor   NNP                 *)               -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   18            Eugene   NNP                 *                -    -   -    David_Shuster  (PERSON*             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   19            Scalia   NNP                 *)               -    -   -    David_Shuster         *)            *      *            *       -
+bc/msnbc/00/msnbc_0003   5   20               the    DT           (NP(NP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   21               son    NN                 *)               -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   22                of    IN              (PP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   23           Justice   NNP              (NP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   24           Antonin   NNP                 *                -    -   -    David_Shuster  (PERSON*             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   25            Scalia   NNP              *))))               -    -   -    David_Shuster         *)            *      *            *       -
+bc/msnbc/00/msnbc_0003   5   26               and    CC                 *                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   27    Undersecretary   NNP   (NP(NP(NML(NML*)               -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   28                of    IN              (PP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   29             State   NNP            (NP*)))               -    -   -    David_Shuster      (ORG)            *      *            *       -
+bc/msnbc/00/msnbc_0003   5   30              Otto   NNP                 *                -    -   -    David_Shuster  (PERSON*             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   31             Reich   NNP                 *)               -    -   -    David_Shuster         *)            *      *            *       -
+bc/msnbc/00/msnbc_0003   5   32                 a    DT           (NP(NP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   33               key    JJ                 *                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   34            figure    NN                 *)           figure   -   5    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   35                in    IN              (PP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   36               the    DT        (NP(NP(NP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   37            Reagan   NNP                 *                -    -   -    David_Shuster   (PERSON)            *      *            *    (183)
+bc/msnbc/00/msnbc_0003   5   38    administration    NN                 *    administration   -   1    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   39                's   POS                 *)               -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   40          policies   NNS                 *)           policy   -   1    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   41            toward    IN              (PP*                -    -   -    David_Shuster         *             *      *            *       -
+bc/msnbc/00/msnbc_0003   5   42         Nicaragua   NNP     (NP*))))))))))               -    -   -    David_Shuster      (GPE)            *      *            *)      -
+bc/msnbc/00/msnbc_0003   5   43                /.     .                *))               -    -   -    David_Shuster         *             *      *            *       -
+
+bc/msnbc/00/msnbc_0003   5    0           But    CC           (TOP(S*         -    -   -    David_Shuster       *    (ARGM-DIS*)            *      *            *      -
+bc/msnbc/00/msnbc_0003   5    1     political    JJ              (NP*         -    -   -    David_Shuster       *        (ARG0*             *      *            *      -
+bc/msnbc/00/msnbc_0003   5    2      analysts   NNS                 *)   analyst   -   1    David_Shuster       *             *)            *      *            *      -
+bc/msnbc/00/msnbc_0003   5    3           say   VBP              (VP*        say  01   1    David_Shuster       *           (V*)            *      *            *      -
+bc/msnbc/00/msnbc_0003   5    4    Washington   NNP       (SBAR(S(NP*)        -    -   -    David_Shuster    (ORG)       (ARG1*        (ARG1*)     *            *    (73)
+bc/msnbc/00/msnbc_0003   5    5            is   VBZ              (VP*         be  01   1    David_Shuster       *             *           (V*)     *            *      -
+bc/msnbc/00/msnbc_0003   5    6          more   RBR  (ADJP(ADVP(ADVP*         -    -   -    David_Shuster       *             *        (ARG2*      *            *      -
+bc/msnbc/00/msnbc_0003   5    7      bitterly    RB                *))        -    -   -    David_Shuster       *             *             *      *            *      -
+bc/msnbc/00/msnbc_0003   5    8       divided    JJ                 *)        -    -   -    David_Shuster       *             *             *)     *            *      -
+bc/msnbc/00/msnbc_0003   5    9           now    RB            (ADVP*)        -    -   -    David_Shuster       *             *    (ARGM-TMP*)     *            *      -
+bc/msnbc/00/msnbc_0003   5   10          than    IN            (SBAR*         -    -   -    David_Shuster       *      (C-ARG1*      (C-ARG2*      *            *      -
+bc/msnbc/00/msnbc_0003   5   11            it   PRP            (S(NP*)        -    -   -    David_Shuster       *             *             *      *       (ARG1*)   (73)
+bc/msnbc/00/msnbc_0003   5   12           has   VBZ              (VP*       have  01   -    David_Shuster       *             *             *    (V*)           *      -
+bc/msnbc/00/msnbc_0003   5   13          been   VBN              (VP*         be  01   1    David_Shuster       *             *             *      *          (V*)     -
+bc/msnbc/00/msnbc_0003   5   14            in    IN              (PP*         -    -   -    David_Shuster       *             *             *      *   (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0003   5   15         years   NNS     (NP*))))))))))        -    -   -    David_Shuster   (DATE)           *))            *)     *            *)     -
+bc/msnbc/00/msnbc_0003   5   16            /.     .                *))        -    -   -    David_Shuster       *             *             *      *            *      -
+
+bc/msnbc/00/msnbc_0003   5   0             And    CC  (TOP(S*       -    -   -    David_Shuster         *           *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   5   1             the    DT     (NP*       -    -   -    David_Shuster         *           *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   5   2          Bolton   NNP        *       -    -   -    David_Shuster   (PERSON)     (ARG2*)            *    (202)
+bc/msnbc/00/msnbc_0003   5   3      nomination    NN        *       -    -   -    David_Shuster         *    (C-ARG2*)            *       -
+bc/msnbc/00/msnbc_0003   5   4           fight    NN        *)   fight  01   2    David_Shuster         *         (V*)            *)      -
+bc/msnbc/00/msnbc_0003   5   5             was   VBD     (VP*       be  01   1    David_Shuster         *           *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   6    particularly    RB   (ADJP*       -    -   -    David_Shuster         *           *        (ARG2*       -
+bc/msnbc/00/msnbc_0003   5   7         intense    JJ       *))      -    -   -    David_Shuster         *           *             *)      -
+bc/msnbc/00/msnbc_0003   5   8              /.     .       *))      -    -   -    David_Shuster         *           *             *       -
+
+bc/msnbc/00/msnbc_0003   5    0              He   PRP          (TOP(S(NP*)         -    -   -    Barbara_Boxer  *    (ARG0*)   (ARG0*)   (ARG0*)          *    (202)
+bc/msnbc/00/msnbc_0003   5    1             has   VBZ                (VP*        have  03   2    Barbara_Boxer  *       (V*)        *         *           *       -
+bc/msnbc/00/msnbc_0003   5    2               a    DT             (NP(NP*          -    -   -    Barbara_Boxer  *    (ARG1*         *         *           *       -
+bc/msnbc/00/msnbc_0003   5    3          record    NN                   *)     record   -   1    Barbara_Boxer  *         *         *         *           *       -
+bc/msnbc/00/msnbc_0003   5    4              of    IN                (PP*          -    -   -    Barbara_Boxer  *         *         *         *           *       -
+bc/msnbc/00/msnbc_0003   5    5          trying   VBG              (S(VP*         try  01   1    Barbara_Boxer  *         *       (V*)        *           *       -
+bc/msnbc/00/msnbc_0003   5    6              to    TO              (S(VP*          -    -   -    Barbara_Boxer  *         *    (ARG1*         *           *       -
+bc/msnbc/00/msnbc_0003   5    7          remove    VB                (VP*      remove  01   1    Barbara_Boxer  *         *         *       (V*)          *       -
+bc/msnbc/00/msnbc_0003   5    8    intelligence    NN             (NP(NP*          -    -   -    Barbara_Boxer  *         *         *    (ARG1*      (ARG0*       -
+bc/msnbc/00/msnbc_0003   5    9        analysts   NNS                   *)    analyst   -   1    Barbara_Boxer  *         *         *         *           *)      -
+bc/msnbc/00/msnbc_0003   5   10             who    WP         (SBAR(WHNP*)         -    -   -    Barbara_Boxer  *         *         *         *    (R-ARG0*)      -
+bc/msnbc/00/msnbc_0003   5   11       disagreed   VBD              (S(VP*    disagree  01   1    Barbara_Boxer  *         *         *         *         (V*)      -
+bc/msnbc/00/msnbc_0003   5   12            with    IN                (PP*          -    -   -    Barbara_Boxer  *         *         *         *      (ARG1*       -
+bc/msnbc/00/msnbc_0003   5   13             him   PRP   (NP*))))))))))))))         -    -   -    Barbara_Boxer  *         *)        *)        *)          *)   (202)
+bc/msnbc/00/msnbc_0003   5   14              /.     .                  *))         -    -   -    Barbara_Boxer  *         *         *         *           *       -
+
+bc/msnbc/00/msnbc_0003   5    0             and     CC    (TOP(S*            -    -   -    Barbara_Boxer  *    (ARGM-DIS*)           *         *       -
+bc/msnbc/00/msnbc_0003   5    1              he    PRP       (NP*)           -    -   -    Barbara_Boxer  *        (ARG0*)      (ARG0*)   (ARG0*)   (202)
+bc/msnbc/00/msnbc_0003   5    2            also     RB     (ADVP*)           -    -   -    Barbara_Boxer  *    (ARGM-ADV*)           *         *       -
+bc/msnbc/00/msnbc_0003   5    3       attempted    VBD       (VP*       attempt  01   1    Barbara_Boxer  *           (V*)           *         *       -
+bc/msnbc/00/msnbc_0003   5    4              to     TO     (S(VP*            -    -   -    Barbara_Boxer  *        (ARG1*            *         *       -
+bc/msnbc/00/msnbc_0003   5    5      exaggerate     VB       (VP*    exaggerate  01   1    Barbara_Boxer  *             *          (V*)        *       -
+bc/msnbc/00/msnbc_0003   5    6    intelligence     NN       (NP*)           -    -   -    Barbara_Boxer  *             *       (ARG1*)        *       -
+bc/msnbc/00/msnbc_0003   5    7              to     TO     (S(VP*            -    -   -    Barbara_Boxer  *             *   (ARGM-PRP*         *       -
+bc/msnbc/00/msnbc_0003   5    8             fit     VB       (VP*           fit  01   1    Barbara_Boxer  *             *            *       (V*)      -
+bc/msnbc/00/msnbc_0003   5    9             his   PRP$       (NP*            -    -   -    Barbara_Boxer  *             *            *    (ARG1*       -
+bc/msnbc/00/msnbc_0003   5   10           views    NNS   *))))))))         view   -   4    Barbara_Boxer  *             *)           *)        *)      -
+bc/msnbc/00/msnbc_0003   5   11              /.      .         *))           -    -   -    Barbara_Boxer  *             *            *         *       -
+
+bc/msnbc/00/msnbc_0003   5    0           This     DT    (TOP(S(NP*           -    -   -    David_Shuster    (DATE*    (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0003   5    1         spring     NN             *)      spring   -   1    David_Shuster         *)            *)        *       -
+bc/msnbc/00/msnbc_0003   5    2      Democrats   NNPS          (NP*)          -    -   -    David_Shuster     (NORP)       (ARG0*)        *       -
+bc/msnbc/00/msnbc_0003   5    3           also     RB        (ADVP*)          -    -   -    David_Shuster         *    (ARGM-ADV*)        *       -
+bc/msnbc/00/msnbc_0003   5    4         played    VBD          (VP*         play  01   4    David_Shuster         *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   5    5         decade     NN  (NP(NP(ADJP*       decade   -   1    David_Shuster         *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   5    6            old     JJ             *)          -    -   -    David_Shuster         *             *         *       -
+bc/msnbc/00/msnbc_0003   5    7          tapes    NNS             *)        tape   -   -    David_Shuster         *             *         *       -
+bc/msnbc/00/msnbc_0003   5    8             of     IN          (PP*           -    -   -    David_Shuster         *             *         *       -
+bc/msnbc/00/msnbc_0003   5    9         Bolton    NNP        (S(NP*)          -    -   -    David_Shuster   (PERSON)            *    (ARG0*)   (202)
+bc/msnbc/00/msnbc_0003   5   10    disparaging    VBG          (VP*    disparage  01   -    David_Shuster         *             *       (V*)      -
+bc/msnbc/00/msnbc_0003   5   11            the     DT          (NP*           -    -   -    David_Shuster         *             *    (ARG1*    (195
+bc/msnbc/00/msnbc_0003   5   12             UN    NNP        *))))))          -    -   -    David_Shuster      (ORG)            *)        *)    195)
+bc/msnbc/00/msnbc_0003   5   13             /.      .            *))          -    -   -    David_Shuster         *             *         *       -
+
+bc/msnbc/00/msnbc_0003   5    0            The     DT  (TOP(S(NP(NP*       -    -   -    John_Bolton       (FAC*   (ARG0*   -
+bc/msnbc/00/msnbc_0003   5    1    Secretariat    NNP              *       -    -   -    John_Bolton           *        *   -
+bc/msnbc/00/msnbc_0003   5    2       Building    NNP              *)      -    -   -    John_Bolton           *)       *   -
+bc/msnbc/00/msnbc_0003   5    3             in     IN           (PP*       -    -   -    John_Bolton           *        *   -
+bc/msnbc/00/msnbc_0003   5    4            New    NNP           (NP*       -    -   -    John_Bolton       (GPE*        *   -
+bc/msnbc/00/msnbc_0003   5    5           York    NNP            *)))      -    -   -    John_Bolton           *)       *)  -
+bc/msnbc/00/msnbc_0003   5    6            has    VBZ           (VP*     have  03   2    John_Bolton           *      (V*)  -
+bc/msnbc/00/msnbc_0003   5    7         thirty     CD        (NP(QP*       -    -   -    John_Bolton  (CARDINAL*   (ARG1*   -
+bc/msnbc/00/msnbc_0003   5    8             -    HYPH              *       -    -   -    John_Bolton           *        *   -
+bc/msnbc/00/msnbc_0003   5    9          eight     CD              *)      -    -   -    John_Bolton           *)       *   -
+bc/msnbc/00/msnbc_0003   5   10        stories    NNS             *))   story   -   3    John_Bolton           *        *)  -
+bc/msnbc/00/msnbc_0003   5   11             /.      .             *))      -    -   -    John_Bolton           *        *   -
+
+bc/msnbc/00/msnbc_0003   5    0            If    IN  (TOP(S(SBAR*            -    -   -    John_Bolton           *             *    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0003   5    1           you   PRP        (S(NP*)           -    -   -    John_Bolton           *        (ARG0*)            *       -
+bc/msnbc/00/msnbc_0003   5    2          lost   VBD          (VP*          lose  02   4    John_Bolton           *           (V*)            *    (135)
+bc/msnbc/00/msnbc_0003   5    3           ten    CD          (NP*            -    -   -    John_Bolton   (CARDINAL)       (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   5    4       stories   NNS             *)        story   -   3    John_Bolton           *             *)            *       -
+bc/msnbc/00/msnbc_0003   5    5         today    NN       (NP*))))        today   -   2    John_Bolton       (DATE)   (ARGM-TMP*)            *)      -
+bc/msnbc/00/msnbc_0003   5    6            it   PRP          (NP*)           -    -   -    John_Bolton           *             *        (ARG0*)   (135)
+bc/msnbc/00/msnbc_0003   5    7         would    MD          (VP*            -    -   -    John_Bolton           *             *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   5    8           n't    RB             *            -    -   -    John_Bolton           *             *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   5    9          make    VB          (VP*          make  01   6    John_Bolton           *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   10             a    DT       (NP(NP*            -    -   -    John_Bolton           *             *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   5   11           bit    NN             *)         bite   -   -    John_Bolton           *             *             *       -
+bc/msnbc/00/msnbc_0003   5   12            of    IN          (PP*            -    -   -    John_Bolton           *             *             *       -
+bc/msnbc/00/msnbc_0003   5   13    difference    NN      (NP*)))))   difference   -   4    John_Bolton           *             *             *)      -
+bc/msnbc/00/msnbc_0003   5   14            /.     .            *))           -    -   -    John_Bolton           *             *             *       -
+
+bc/msnbc/00/msnbc_0003   5    0    Republicans   NNPS         (TOP(S(NP*)        -    -   -    David_Shuster     (NORP)   (ARG0*)           *             *             *       -
+bc/msnbc/00/msnbc_0003   5    1           said    VBD               (VP*        say  01   1    David_Shuster         *       (V*)           *             *             *       -
+bc/msnbc/00/msnbc_0003   5    2         Bolton    NNP  (SBAR(S(NP(NP(NP*         -    -   -    David_Shuster   (PERSON)   (ARG1*       (ARG1*             *        (ARG0*    (202
+bc/msnbc/00/msnbc_0003   5    3             's    POS                  *)        -    -   -    David_Shuster         *         *            *             *             *     202)
+bc/msnbc/00/msnbc_0003   5    4     skepticism     NN                  *)        -    -   -    David_Shuster         *         *            *)            *             *       -
+bc/msnbc/00/msnbc_0003   5    5             of     IN               (PP*         -    -   -    David_Shuster         *         *   (ARGM-ADV*             *             *       -
+bc/msnbc/00/msnbc_0003   5    6            the     DT               (NP*         -    -   -    David_Shuster         *         *            *             *             *    (195
+bc/msnbc/00/msnbc_0003   5    7             UN    NNP                 *))        -    -   -    David_Shuster      (ORG)        *            *)            *             *     195)
+bc/msnbc/00/msnbc_0003   5    8       combined    VBN               (PP*    combine  01   -    David_Shuster         *         *          (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   5    9           with     IN               (PP*         -    -   -    David_Shuster         *         *       (ARG2*             *             *       -
+bc/msnbc/00/msnbc_0003   5   10            his   PRP$               (NP*         -    -   -    David_Shuster         *         *            *             *             *    (202)
+bc/msnbc/00/msnbc_0003   5   11           hard     RB             (ADJP*         -    -   -    David_Shuster         *         *            *    (ARGM-MNR*)            *       -
+bc/msnbc/00/msnbc_0003   5   12        working    VBG                  *)      work  01   -    David_Shuster         *         *            *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   5   13          style     NN               *))))     style   -   1    David_Shuster         *         *            *)            *             *)      -
+bc/msnbc/00/msnbc_0003   5   14          would     MD               (VP*         -    -   -    David_Shuster         *         *            *             *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   5   15           make     VB               (VP*       make  02   3    David_Shuster         *         *            *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   16            him    PRP             (S(NP*)        -    -   -    David_Shuster         *         *            *             *        (ARG1*    (202)
+bc/msnbc/00/msnbc_0003   5   17              a     DT               (NP*         -    -   -    David_Shuster         *         *            *             *             *       -
+bc/msnbc/00/msnbc_0003   5   18        perfect     JJ                  *         -    -   -    David_Shuster         *         *            *             *             *       -
+bc/msnbc/00/msnbc_0003   5   19         choice     NN            *)))))))    choice   -   1    David_Shuster         *         *)           *             *             *)      -
+bc/msnbc/00/msnbc_0003   5   20             /.      .                 *))        -    -   -    David_Shuster         *         *            *             *             *       -
+
+bc/msnbc/00/msnbc_0003   5   0        The    DT  (TOP(S(NP*         -    -   -    Karl_Rove  (ORG*   (ARG1*   (195
+bc/msnbc/00/msnbc_0003   5   1     United   NNP           *         -    -   -    Karl_Rove      *        *      -
+bc/msnbc/00/msnbc_0003   5   2    Nations   NNP           *)        -    -   -    Karl_Rove      *)       *)   195)
+bc/msnbc/00/msnbc_0003   5   3         is   VBZ        (VP*         be  01   1    Karl_Rove      *      (V*)     -
+bc/msnbc/00/msnbc_0003   5   4         in    IN        (PP*         -    -   -    Karl_Rove      *   (ARG2*      -
+bc/msnbc/00/msnbc_0003   5   5    trouble    NN      (NP*)))   trouble   -   4    Karl_Rove      *        *)     -
+bc/msnbc/00/msnbc_0003   5   6         /.     .          *))        -    -   -    Karl_Rove      *        *      -
+
+bc/msnbc/00/msnbc_0003   5    0             It   PRP             (TOP(S(NP*)            -    -   -    Karl_Rove      *    (ARG0*)       *        *        *             *    (195)
+bc/msnbc/00/msnbc_0003   5    1          needs   VBZ                   (VP*           need  01   1    Karl_Rove      *       (V*)       *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5    2              a    DT             (NP(NP(NP*             -    -   -    Karl_Rove      *    (ARG1*   (ARG0*        *        *             *       -
+bc/msnbc/00/msnbc_0003   5    3         strong    JJ                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5    4          voice    NN                      *)         voice   -   4    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5    5           from    IN                   (PP*             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5    6            the    DT                   (NP*             -    -   -    Karl_Rove  (GPE*         *        *        *        *             *    (185
+bc/msnbc/00/msnbc_0003   5    7         United   NNP                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5    8         States   NNP                    *)))            -    -   -    Karl_Rove      *)        *        *)       *        *             *     185)
+bc/msnbc/00/msnbc_0003   5    9             to    TO            (SBAR(S(VP*             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   10           help    VB                   (VP*           help  01   1    Karl_Rove      *         *      (V*)       *        *             *       -
+bc/msnbc/00/msnbc_0003   5   11         reform    VB              (S(VP(VP*         reform  01   1    Karl_Rove      *         *   (ARG1*      (V*)       *             *       -
+bc/msnbc/00/msnbc_0003   5   12           this    DT                   (NP*             -    -   -    Karl_Rove      *         *        *   (ARG1*        *             *    (195
+bc/msnbc/00/msnbc_0003   5   13          vital    JJ                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   14    institution    NN                     *))   institution   -   1    Karl_Rove      *         *        *        *)       *             *     195)
+bc/msnbc/00/msnbc_0003   5   15            and    CC                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   16           make   VBP                   (VP*           make  02   3    Karl_Rove      *         *        *        *      (V*)            *       -
+bc/msnbc/00/msnbc_0003   5   17             it   PRP                 (S(NP*)            -    -   -    Karl_Rove      *         *        *        *   (ARG1*             *    (195)
+bc/msnbc/00/msnbc_0003   5   18             uh    UH                 (INTJ*)            -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   19       relevant    JJ                 (ADJP*             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   20            and    CC                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   21     meaningful    JJ                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   22            and    CC                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   23       powerful    JJ                      *             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   24            for    IN                   (PP*             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   25            the    DT                (NP(NP*             -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   26           time    NN                      *)          time   -   2    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   27           that   WDT            (SBAR(WHNP*)            -    -   -    Karl_Rove      *         *        *        *        *             *       -
+bc/msnbc/00/msnbc_0003   5   28             we   PRP                 (S(NP*)            -    -   -    Karl_Rove      *         *        *        *        *        (ARG0*)    (96)
+bc/msnbc/00/msnbc_0003   5   29           find   VBP                   (VP*           find  01   1    Karl_Rove      *         *        *        *        *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   30      ourselves   PRP                   (NP*)            -    -   -    Karl_Rove      *         *        *        *        *        (ARG1*)    (96)
+bc/msnbc/00/msnbc_0003   5   31             in    IN   (PP*)))))))))))))))))            -    -   -    Karl_Rove      *         *)       *)       *        *)   (ARGM-LOC*)      -
+bc/msnbc/00/msnbc_0003   5   32             /.     .                     *))            -    -   -    Karl_Rove      *         *        *        *        *             *       -
+
+bc/msnbc/00/msnbc_0003   5    0           John   NNP   (TOP(S(NP*             -    -   -    David_Shuster  (PERSON*        (ARG1*      *            *             *   (202
+bc/msnbc/00/msnbc_0003   5    1         Bolton   NNP            *)            -    -   -    David_Shuster         *)            *)     *            *             *    202)
+bc/msnbc/00/msnbc_0003   5    2             is   VBZ         (VP*             be  01   2    David_Shuster         *           (V*)     *            *             *      -
+bc/msnbc/00/msnbc_0003   5    3            now    RB       (ADVP*)            -    -   -    David_Shuster         *    (ARGM-TMP*)     *            *             *      -
+bc/msnbc/00/msnbc_0003   5    4            the    DT      (NP(NP*             -    -   -    David_Shuster         *        (ARG2*      *            *             *      -
+bc/msnbc/00/msnbc_0003   5    5          first    JJ            *             -    -   -    David_Shuster         *             *      *            *             *      -
+bc/msnbc/00/msnbc_0003   5    6             US   NNP            *             -    -   -    David_Shuster      (GPE)            *      *            *             *      -
+bc/msnbc/00/msnbc_0003   5    7     ambassador    NN            *)    ambassador   -   1    David_Shuster         *             *      *            *             *      -
+bc/msnbc/00/msnbc_0003   5    8             to    IN         (PP*             -    -   -    David_Shuster         *             *      *            *             *      -
+bc/msnbc/00/msnbc_0003   5    9            the    DT         (NP*             -    -   -    David_Shuster         *             *      *            *             *   (195
+bc/msnbc/00/msnbc_0003   5   10             UN   NNP           *))            -    -   -    David_Shuster      (ORG)            *      *            *             *    195)
+bc/msnbc/00/msnbc_0003   5   11             to    TO  (SBAR(S(VP*             -    -   -    David_Shuster         *             *      *            *             *      -
+bc/msnbc/00/msnbc_0003   5   12             be    VB         (VP*             be  03   -    David_Shuster         *             *    (V*)           *             *      -
+bc/msnbc/00/msnbc_0003   5   13          named   VBN         (VP*           name  01   3    David_Shuster         *             *      *          (V*)            *      -
+bc/msnbc/00/msnbc_0003   5   14        through    IN         (PP*             -    -   -    David_Shuster         *             *      *   (ARGM-MNR*             *      -
+bc/msnbc/00/msnbc_0003   5   15              a    DT         (NP*             -    -   -    David_Shuster         *             *      *            *             *      -
+bc/msnbc/00/msnbc_0003   5   16         recess    NN            *         recess   -   -    David_Shuster         *             *      *            *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   5   17    appointment    NN    *)))))))))   appointment  01   1    David_Shuster         *             *)     *            *)          (V*)     -
+bc/msnbc/00/msnbc_0003   5   18             /.     .           *))            -    -   -    David_Shuster         *             *      *            *             *      -
+
+bc/msnbc/00/msnbc_0003   5    0              The    DT      (TOP(S(NP*              -    -    -    David_Shuster       *   (ARG1*             *      *             *       -
+bc/msnbc/00/msnbc_0003   5    1         question    NN               *)       question   -    2    David_Shuster       *        *)            *      *             *       -
+bc/msnbc/00/msnbc_0003   5    2               is   VBZ            (VP*              be  01    2    David_Shuster       *      (V*)            *      *             *       -
+bc/msnbc/00/msnbc_0003   5    3             will    MD            (SQ*              -    -    -    David_Shuster       *   (ARG2*    (ARGM-MOD*)     *             *       -
+bc/msnbc/00/msnbc_0003   5    4            there    EX            (NP*)             -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5    5               be    VB            (VP*              be  02    3    David_Shuster       *        *           (V*)     *             *       -
+bc/msnbc/00/msnbc_0003   5    6              any    DT      (NP(NP(NP*              -    -    -    David_Shuster       *        *        (ARG1*      *             *       -
+bc/msnbc/00/msnbc_0003   5    7          fallout    NN               *)             -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5    8               at    IN            (PP*              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5    9              the    DT            (NP*              -    -    -    David_Shuster       *        *             *      *             *    (195
+bc/msnbc/00/msnbc_0003   5   10               UN   NNP             *)))             -    -    -    David_Shuster    (ORG)       *             *      *             *     195)
+bc/msnbc/00/msnbc_0003   5   11               or    CC               *              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   12              any    DT         (NP(NP*              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   13    repercussions   NNS               *)   repercussion   -    1    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   14             here    RB          (ADVP*              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   15               in    IN            (PP*              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   16       Washington   NNP        (NP*)))))             -    -    -    David_Shuster    (GPE)       *             *)     *             *    (193)
+bc/msnbc/00/msnbc_0003   5   17             when   WRB   (SBAR(WHADVP*)             -    -    -    David_Shuster       *        *    (ARGM-TMP*      *             *       -
+bc/msnbc/00/msnbc_0003   5   18              the    DT       (S(NP(NP*              -    -    -    David_Shuster   (ORG*        *             *      *        (ARG0*       -
+bc/msnbc/00/msnbc_0003   5   19            White   NNP               *              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   20            House   NNP               *)             -    -    -    David_Shuster       *)       *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   21              and    CC               *              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   22              the    DT            (NP*              -    -    -    David_Shuster       *        *             *      *             *    (122
+bc/msnbc/00/msnbc_0003   5   23           Senate   NNP              *))             -    -    -    David_Shuster    (ORG)       *             *      *             *)    122)
+bc/msnbc/00/msnbc_0003   5   24             have   VBP            (VP*            have  02   12    David_Shuster       *        *             *    (V*)            *       -
+bc/msnbc/00/msnbc_0003   5   25               to    TO          (S(VP*              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   26             deal    VB            (VP*            deal  01    2    David_Shuster       *        *             *      *           (V*)      -
+bc/msnbc/00/msnbc_0003   5   27             with    IN            (PP*              -    -    -    David_Shuster       *        *             *      *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   5   28             each    DT            (NP*              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   29            other    JJ              *))             -    -    -    David_Shuster       *        *             *      *             *)      -
+bc/msnbc/00/msnbc_0003   5   30            again    RB          (ADVP*)             -    -    -    David_Shuster       *        *             *      *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0003   5   31            later    RB       (NP(ADVP*)             -    -    -    David_Shuster  (DATE*        *             *      *    (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0003   5   32             this    DT               *              -    -    -    David_Shuster       *        *             *      *             *       -
+bc/msnbc/00/msnbc_0003   5   33             fall    NN      *))))))))))           fall   -    1    David_Shuster       *)       *)            *)     *             *)      -
+bc/msnbc/00/msnbc_0003   5   34               /?     .              *))             -    -    -    David_Shuster       *        *             *      *             *       -
+
+bc/msnbc/00/msnbc_0003   5   0             I   PRP   (TOP(S(NP*)   -    -   -    David_Shuster              *    (ARG1*)    (49)
+bc/msnbc/00/msnbc_0003   5   1            'm   VBP         (VP*    be  01   2    David_Shuster              *       (V*)      -
+bc/msnbc/00/msnbc_0003   5   2         David   NNP      (NP(NP*    -    -   -    David_Shuster       (PERSON*    (ARG2*       -
+bc/msnbc/00/msnbc_0003   5   3       Shuster   NNP            *)   -    -   -    David_Shuster              *)        *       -
+bc/msnbc/00/msnbc_0003   5   4           for    IN         (PP*    -    -   -    David_Shuster              *         *       -
+bc/msnbc/00/msnbc_0003   5   5      Hardball   NNP        (NP*))   -    -   -    David_Shuster   (WORK_OF_ART)        *    (126)
+bc/msnbc/00/msnbc_0003   5   6            in    IN         (PP*    -    -   -    David_Shuster              *         *       -
+bc/msnbc/00/msnbc_0003   5   7    Washington   NNP      (NP*))))   -    -   -    David_Shuster           (GPE)        *)   (193)
+bc/msnbc/00/msnbc_0003   5   8            /.     .           *))   -    -   -    David_Shuster              *         *       -

@@ -1,0 +1,568 @@
+bc/cnn/00/cnn_0002   10    0        And    CC        (TOP(S*       -    -   -    Anderson_Cooper  *         *      *             *    (ARGM-DIS*)          *       -
+bc/cnn/00/cnn_0002   10    1          I   PRP     (PRN(S(NP*)      -    -   -    Anderson_Cooper  *    (ARG0*)     *             *             *           *     (38)
+bc/cnn/00/cnn_0002   10    2       mean   VBP         (VP*)))    mean  01   1    Anderson_Cooper  *       (V*)     *             *             *           *       -
+bc/cnn/00/cnn_0002   10    3       some    DT           (NP*       -    -   -    Anderson_Cooper  *         *      *             *        (ARG1*           *       -
+bc/cnn/00/cnn_0002   10    4         of    IN           (PP*       -    -   -    Anderson_Cooper  *         *      *             *             *           *       -
+bc/cnn/00/cnn_0002   10    5        the    DT        (NP(NP*       -    -   -    Anderson_Cooper  *         *      *        (ARG1*             *           *       -
+bc/cnn/00/cnn_0002   10    6    footage    NN             *))      -    -   -    Anderson_Cooper  *         *      *             *)            *           *       -
+bc/cnn/00/cnn_0002   10    7       that   WDT    (SBAR(WHNP*)      -    -   -    Anderson_Cooper  *         *      *      (R-ARG1*)            *           *       -
+bc/cnn/00/cnn_0002   10    8         we   PRP         (S(NP*)      -    -   -    Anderson_Cooper  *         *      *        (ARG0*)            *           *       -
+bc/cnn/00/cnn_0002   10    9        're   VBP           (VP*       be  03   -    Anderson_Cooper  *         *    (V*)            *             *           *       -
+bc/cnn/00/cnn_0002   10   10    showing    VB           (VP*     show  01   1    Anderson_Cooper  *         *      *           (V*)            *           *       -
+bc/cnn/00/cnn_0002   10   11        now    RB   (ADVP*)))))))      -    -   -    Anderson_Cooper  *         *      *    (ARGM-TMP*)            *)          *       -
+bc/cnn/00/cnn_0002   10   12         is   VBZ           (VP*       be  01   2    Anderson_Cooper  *         *      *             *           (V*)          *       -
+bc/cnn/00/cnn_0002   10   13    footage    NN        (NP(NP*)      -    -   -    Anderson_Cooper  *         *      *             *        (ARG2*      (ARG1*)   (208
+bc/cnn/00/cnn_0002   10   14       that   WDT    (SBAR(WHNP*)      -    -   -    Anderson_Cooper  *         *      *             *             *    (R-ARG1*)      -
+bc/cnn/00/cnn_0002   10   15        you   PRP         (S(NP*)      -    -   -    Anderson_Cooper  *         *      *             *             *      (ARG0*)   (231)
+bc/cnn/00/cnn_0002   10   16       shot   VBD       (VP*)))))   shoot  03   3    Anderson_Cooper  *         *      *             *             *)        (V*)    208)
+bc/cnn/00/cnn_0002   10   17         /.     .             *))      -    -   -    Anderson_Cooper  *         *      *             *             *           *       -
+
+bc/cnn/00/cnn_0002   10   0           and    CC   (TOP(S*    -    -   -    Anderson_Cooper  *         *       -
+bc/cnn/00/cnn_0002   10   1            it   PRP      (NP*)   -    -   -    Anderson_Cooper  *    (ARG1*)   (208)
+bc/cnn/00/cnn_0002   10   2            's   VBZ      (VP*    be  01   1    Anderson_Cooper  *       (V*)      -
+bc/cnn/00/cnn_0002   10   3    incredible    JJ   (ADJP*))   -    -   -    Anderson_Cooper  *    (ARG2*)      -
+bc/cnn/00/cnn_0002   10   4            /.     .        *))   -    -   -    Anderson_Cooper  *         *       -
+
+bc/cnn/00/cnn_0002   10   0       You   PRP  (TOP(S(NP*    -    -   -    Anderson_Cooper  *        (ARG0*   -
+bc/cnn/00/cnn_0002   10   1       and    CC           *    -    -   -    Anderson_Cooper  *             *   -
+bc/cnn/00/cnn_0002   10   2    anyone    NN           *)   -    -   -    Anderson_Cooper  *             *)  -
+bc/cnn/00/cnn_0002   10   3       can    MD        (VP*    -    -   -    Anderson_Cooper  *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0002   10   4        go    VB       (VP*))   go  02   1    Anderson_Cooper  *           (V*)  -
+bc/cnn/00/cnn_0002   10   5        /.     .          *))   -    -   -    Anderson_Cooper  *             *   -
+
+bc/cnn/00/cnn_0002   10    0               a    DT    (TOP(S(NP*      -    -   -    Anderson_Cooper  *        (ARG0*         *             *        (ARG1*        (ARG1*      *    (192
+bc/cnn/00/cnn_0002   10    1         tourist    NN             *)     -    -   -    Anderson_Cooper  *             *)        *             *             *)            *)     *     192)
+bc/cnn/00/cnn_0002   10    2             can    MD       (VP(VP*      -    -   -    Anderson_Cooper  *    (ARGM-MOD*)        *             *             *             *      *       -
+bc/cnn/00/cnn_0002   10    3              go    VB         (VP*))     go  02   1    Anderson_Cooper  *           (V*)        *             *             *             *      *       -
+bc/cnn/00/cnn_0002   10    4             and    CC             *      -    -   -    Anderson_Cooper  *             *         *             *             *             *      *       -
+bc/cnn/00/cnn_0002   10    5              as    RB   (ADVP(ADVP*      -    -   -    Anderson_Cooper  *             *         *             *    (ARGM-TMP*    (ARGM-ADV*      *       -
+bc/cnn/00/cnn_0002   10    6            long    RB             *)     -    -   -    Anderson_Cooper  *             *         *             *             *             *      *       -
+bc/cnn/00/cnn_0002   10    7              as    IN        (SBAR*      -    -   -    Anderson_Cooper  *             *         *             *             *             *      *       -
+bc/cnn/00/cnn_0002   10    8            they   PRP        (S(NP*)     -    -   -    Anderson_Cooper  *             *         *        (ARG0*)            *             *      *    (192)
+bc/cnn/00/cnn_0002   10    9             you   PRP    (PRN(S(NP*)     -    -   -    Anderson_Cooper  *             *    (ARG0*)            *             *             *      *       -
+bc/cnn/00/cnn_0002   10   10            know   VBP        (VP*)))   know  01   1    Anderson_Cooper  *             *       (V*)            *             *             *      *       -
+bc/cnn/00/cnn_0002   10   11              do   VBP          (VP*      do  02   1    Anderson_Cooper  *             *         *           (V*)            *             *      *       -
+bc/cnn/00/cnn_0002   10   12              it   PRP          (NP*)     -    -   -    Anderson_Cooper  *             *         *        (ARG1*)            *             *      *    (230)
+bc/cnn/00/cnn_0002   10   13    respectfully    RB    (ADVP*)))))     -    -   -    Anderson_Cooper  *             *         *    (ARGM-MNR*)            *)            *)     *       -
+bc/cnn/00/cnn_0002   10   14             can    MD          (VP*      -    -   -    Anderson_Cooper  *             *         *             *    (ARGM-MOD*)   (ARGM-MOD*)     *       -
+bc/cnn/00/cnn_0002   10   15              go    VB       (VP(VP*)     go  02   1    Anderson_Cooper  *             *         *             *           (V*)            *      *       -
+bc/cnn/00/cnn_0002   10   16             and    CC             *      -    -   -    Anderson_Cooper  *             *         *             *             *             *      *       -
+bc/cnn/00/cnn_0002   10   17             sit    VB          (VP*     sit  01   1    Anderson_Cooper  *             *         *             *             *           (V*)     *    (230)
+bc/cnn/00/cnn_0002   10   18            with    IN          (PP*      -    -   -    Anderson_Cooper  *             *         *             *             *        (ARG2*      *       -
+bc/cnn/00/cnn_0002   10   19           these    DT          (NP*      -    -   -    Anderson_Cooper  *             *         *             *             *             *      *    (122
+bc/cnn/00/cnn_0002   10   20         gorilas   NNS            *))     -    -   -    Anderson_Cooper  *             *         *             *             *             *)     *     122)
+bc/cnn/00/cnn_0002   10   21            just    RB   (SBAR(ADVP*)     -    -   -    Anderson_Cooper  *             *         *             *             *    (ARGM-MNR*      *       -
+bc/cnn/00/cnn_0002   10   22              as    IN             *      -    -   -    Anderson_Cooper  *             *         *             *             *             *      *       -
+bc/cnn/00/cnn_0002   10   23             you   PRP        (S(NP*)     -    -   -    Anderson_Cooper  *             *         *             *             *             *      *    (231)
+bc/cnn/00/cnn_0002   10   24             are   VBP    (VP*)))))))     be  03   -    Anderson_Cooper  *             *         *             *             *             *)   (V*)      -
+bc/cnn/00/cnn_0002   10   25              /.     .            *))     -    -   -    Anderson_Cooper  *             *         *             *             *             *      *       -
+
+bc/cnn/00/cnn_0002   10   0    Exactly   RB  (TOP(ADJP*   -   -   -    Jack_Hannah  *   -
+bc/cnn/00/cnn_0002   10   1      right   JJ           *   -   -   -    Jack_Hannah  *   -
+bc/cnn/00/cnn_0002   10   2         /.    .          *))  -   -   -    Jack_Hannah  *   -
+
+bc/cnn/00/cnn_0002   10   0    Right   RB  (TOP(FRAG*   -   -   -    Jack_Hannah  *   -
+bc/cnn/00/cnn_0002   10   1    there   RB           *   -   -   -    Jack_Hannah  *   -
+bc/cnn/00/cnn_0002   10   2       /.    .          *))  -   -   -    Jack_Hannah  *   -
+
+bc/cnn/00/cnn_0002   10   0     one   CD  (TOP(NP*      -   -   -    Jack_Hannah  (TIME*   -
+bc/cnn/00/cnn_0002   10   1    hour   NN         *    hour  -   1    Jack_Hannah       *   -
+bc/cnn/00/cnn_0002   10   2      /.    .        *))     -   -   -    Jack_Hannah       *)  -
+
+bc/cnn/00/cnn_0002   10    0         and    CC     (TOP(S*          -    -    -    Jack_Hannah  *      *    (ARGM-DIS*)        *       -
+bc/cnn/00/cnn_0002   10    1          of    IN        (PP*          -    -    -    Jack_Hannah  *      *    (ARGM-DIS*         *       -
+bc/cnn/00/cnn_0002   10    2      course    NN       (NP*))     course   -   13    Jack_Hannah  *      *             *)        *       -
+bc/cnn/00/cnn_0002   10    3         you   PRP        (NP*)         -    -    -    Jack_Hannah  *      *        (ARG1*)   (ARG1*)      -
+bc/cnn/00/cnn_0002   10    4         're   VBP        (VP*          be  03    -    Jack_Hannah  *    (V*)            *         *       -
+bc/cnn/00/cnn_0002   10    5         not    RB           *          -    -    -    Jack_Hannah  *      *    (ARGM-NEG*)        *       -
+bc/cnn/00/cnn_0002   10    6     allowed   VBN        (VP*       allow  01    1    Jack_Hannah  *      *           (V*)        *       -
+bc/cnn/00/cnn_0002   10    7          to    TO      (S(VP*          -    -    -    Jack_Hannah  *      *        (ARG1*         *       -
+bc/cnn/00/cnn_0002   10    8    approach    VB        (VP*    approach  01    1    Jack_Hannah  *      *             *       (V*)      -
+bc/cnn/00/cnn_0002   10    9        them   PRP   (NP*))))))         -    -    -    Jack_Hannah  *      *             *)   (ARG2*)   (122)
+bc/cnn/00/cnn_0002   10   10          /.     .          *))         -    -    -    Jack_Hannah  *      *             *         *       -
+
+bc/cnn/00/cnn_0002   10   0        they   PRP   (TOP(S(NP*)         -    -   -    Jack_Hannah  *    (ARG1*)   (122)
+bc/cnn/00/cnn_0002   10   1    approach   VBP         (VP*    approach  01   1    Jack_Hannah  *       (V*)    (73)
+bc/cnn/00/cnn_0002   10   2         you   PRP        (NP*))         -    -   -    Jack_Hannah  *    (ARG2*)      -
+bc/cnn/00/cnn_0002   10   3          /.     .           *))         -    -   -    Jack_Hannah  *         *       -
+
+bc/cnn/00/cnn_0002   10   0     and    CC       (TOP(S*     -    -   -    Jack_Hannah  *    (ARGM-DIS*)            *      -
+bc/cnn/00/cnn_0002   10   1    that    DT          (NP*)    -    -   -    Jack_Hannah  *        (ARG1*)            *    (73)
+bc/cnn/00/cnn_0002   10   2      's   VBZ          (VP*     be  01   2    Jack_Hannah  *           (V*)            *      -
+bc/cnn/00/cnn_0002   10   3    what    WP   (SBAR(WHNP*)    -    -   -    Jack_Hannah  *        (ARG2*        (ARG1*)     -
+bc/cnn/00/cnn_0002   10   4     you   PRP        (S(NP*)    -    -   -    Jack_Hannah  *             *        (ARG0*)     -
+bc/cnn/00/cnn_0002   10   5     see   VBP          (VP*    see  01   1    Jack_Hannah  *             *           (V*)     -
+bc/cnn/00/cnn_0002   10   6    here    RB    (ADVP*)))))    -    -   -    Jack_Hannah  *             *)   (ARGM-LOC*)     -
+bc/cnn/00/cnn_0002   10   7      /.     .            *))    -    -   -    Jack_Hannah  *             *             *      -
+
+bc/cnn/00/cnn_0002   10   0       these    DT  (TOP(S(NP*          -    -   -    Jack_Hannah  *       (ARG1*   (122
+bc/cnn/00/cnn_0002   10   1     animals   NNS           *)         -    -   -    Jack_Hannah  *            *)   122)
+bc/cnn/00/cnn_0002   10   2          uh    UH      (INTJ*          -    -   -    Jack_Hannah  *   (ARGM-DIS*      -
+bc/cnn/00/cnn_0002   10   3          uh    UH           *)         -    -   -    Jack_Hannah  *            *)     -
+bc/cnn/00/cnn_0002   10   4    approach   VBP        (VP*    approach  01   1    Jack_Hannah  *          (V*)     -
+bc/cnn/00/cnn_0002   10   5         you   PRP       (NP*))         -    -   -    Jack_Hannah  *       (ARG2*)     -
+bc/cnn/00/cnn_0002   10   6          /.     .          *))         -    -   -    Jack_Hannah  *            *      -
+
+bc/cnn/00/cnn_0002   10    0             Now    UH       (TOP(S(INTJ*)      -    -   -    Jack_Hannah  *    (ARGM-DIS*)     *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10    1            this    DT               (NP*)      -    -   -    Jack_Hannah  *        (ARG1*)     *             *           *         *         *    (61)
+bc/cnn/00/cnn_0002   10    2              is   VBZ               (VP*       be  01   2    Jack_Hannah  *           (V*)     *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10    3             one    CD            (NP(NP*)      -    -   -    Jack_Hannah  *        (ARG2*      *        (ARG1*)     (ARG1*)        *         *      -
+bc/cnn/00/cnn_0002   10    4        actually    RB             (ADVP*)      -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10    5            that   WDT        (SBAR(WHNP*)      -    -   -    Jack_Hannah  *             *      *      (R-ARG1*)   (R-ARG1*)        *         *      -
+bc/cnn/00/cnn_0002   10    6             was   VBD             (S(VP*       be  03   -    Jack_Hannah  *             *    (V*)            *           *         *         *      -
+bc/cnn/00/cnn_0002   10    7              uh    UH             (INTJ*       -    -   -    Jack_Hannah  *             *      *    (ARGM-DIS*           *         *         *      -
+bc/cnn/00/cnn_0002   10    8              uh    UH                  *)      -    -   -    Jack_Hannah  *             *      *             *)          *         *         *      -
+bc/cnn/00/cnn_0002   10    9           taken   VBN            (VP(VP*     take  01   -    Jack_Hannah  *             *      *           (V*)          *         *         *      -
+bc/cnn/00/cnn_0002   10   10              uh    UH             (INTJ*)      -    -   -    Jack_Hannah  *             *      *    (ARGM-DIS*)          *         *         *      -
+bc/cnn/00/cnn_0002   10   11             out    IN               (PP*       -    -   -    Jack_Hannah  *             *      *    (ARGM-DIR*           *         *         *      -
+bc/cnn/00/cnn_0002   10   12              of    IN               (PP*       -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   13             the    DT               (NP*       -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   14            wild    NN               *))))      -    -   -    Jack_Hannah  *             *      *             *)          *         *         *      -
+bc/cnn/00/cnn_0002   10   15             and    CC                  *       -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   16         brought   VBN               (VP*    bring  01   1    Jack_Hannah  *             *      *             *         (V*)        *         *      -
+bc/cnn/00/cnn_0002   10   17              to    IN               (PP*       -    -   -    Jack_Hannah  *             *      *             *      (ARG2*         *         *      -
+bc/cnn/00/cnn_0002   10   18               a    DT         (NP(NP(NP*       -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   19    veteranarian    NN                  *       -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   20              's   POS                  *)      -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   21           place    NN                  *)   place   -   2    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   22           right    RB             (ADVP*       -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   23           there    RB                  *)      -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   24           below    IN               (PP*       -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   25              uh    UH             (INTJ*)      -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+bc/cnn/00/cnn_0002   10   26             you   PRP         (PRN(S(NP*)      -    -   -    Jack_Hannah  *             *      *             *           *    (ARG0*)        *      -
+bc/cnn/00/cnn_0002   10   27            know   VBP             (VP*)))    know  01   1    Jack_Hannah  *             *      *             *           *       (V*)        *      -
+bc/cnn/00/cnn_0002   10   28           where   WRB      (SBAR(WHADVP*)      -    -   -    Jack_Hannah  *             *      *             *           *         *    (ARG2*)     -
+bc/cnn/00/cnn_0002   10   29             the    DT             (S(NP*       -    -   -    Jack_Hannah  *             *      *             *           *         *    (ARG1*   (122
+bc/cnn/00/cnn_0002   10   30        gorillas   NNS                  *)      -    -   -    Jack_Hannah  *             *      *             *           *         *         *)   122)
+bc/cnn/00/cnn_0002   10   31             are   VBP   (VP*)))))))))))))      be  01   4    Jack_Hannah  *             *)     *             *           *)        *       (V*)     -
+bc/cnn/00/cnn_0002   10   32              /.     .                 *))      -    -   -    Jack_Hannah  *             *      *             *           *         *         *      -
+
+bc/cnn/00/cnn_0002   10    0       That    DT   (TOP(S(S(NP*)      -    -   -    Jack_Hannah  *     (ARG1*)       (ARG1*      *             *      *           *    (61)
+bc/cnn/00/cnn_0002   10    1         's   VBZ           (VP*       be  01   1    Jack_Hannah  *        (V*)            *      *             *      *           *      -
+bc/cnn/00/cnn_0002   10    2          a    DT        (NP(NP*       -    -   -    Jack_Hannah  *     (ARG2*             *      *             *      *           *      -
+bc/cnn/00/cnn_0002   10    3    lowland    NN              *       -    -   -    Jack_Hannah  *          *             *      *             *      *           *      -
+bc/cnn/00/cnn_0002   10    4    gorilla    NN           *))))      -    -   -    Jack_Hannah  *          *)            *)     *             *      *           *      -
+bc/cnn/00/cnn_0002   10    5         is   VBZ           (VP*       be  01   2    Jack_Hannah  *          *           (V*)     *             *      *           *      -
+bc/cnn/00/cnn_0002   10    6       what    WP    (SBAR(WHNP*)      -    -   -    Jack_Hannah  *          *        (ARG2*      *        (ARG1*)     *           *      -
+bc/cnn/00/cnn_0002   10    7        you   PRP         (S(NP*)      -    -   -    Jack_Hannah  *          *             *      *        (ARG0*)     *           *      -
+bc/cnn/00/cnn_0002   10    8        're   VBP           (VP*       be  03   -    Jack_Hannah  *          *             *    (V*)            *      *           *      -
+bc/cnn/00/cnn_0002   10    9     seeing   VBG           (VP*      see  01   1    Jack_Hannah  *          *             *      *           (V*)     *           *      -
+bc/cnn/00/cnn_0002   10   10      there    RB     (ADVP*)))))      -    -   -    Jack_Hannah  *          *             *)     *    (ARGM-LOC*)     *           *      -
+bc/cnn/00/cnn_0002   10   11         uh    UH         (INTJ*)      -    -   -    Jack_Hannah  *          *    (ARGM-DIS*)     *             *      *           *      -
+bc/cnn/00/cnn_0002   10   12        one    NN        (NP(NP*)     one   -   2    Jack_Hannah  *   (C-ARG2*      (C-ARG1*      *             *      *      (ARG1*)   (61
+bc/cnn/00/cnn_0002   10   13       that   WDT    (SBAR(WHNP*)      -    -   -    Jack_Hannah  *          *             *      *             *      *    (R-ARG1*)     -
+bc/cnn/00/cnn_0002   10   14        was   VBD         (S(VP*       be  03   -    Jack_Hannah  *          *             *      *             *    (V*)          *      -
+bc/cnn/00/cnn_0002   10   15    brought   VBN      (VP*))))))   bring  01   1    Jack_Hannah  *          *)            *)     *             *      *         (V*)    61)
+bc/cnn/00/cnn_0002   10   16        /-      .             *))      -    -   -    Jack_Hannah  *          *             *      *             *      *           *      -
+
+bc/cnn/00/cnn_0002   10    0       and    CC    (TOP(S*        -    -    -    Jack_Hannah  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   10    1        of    IN       (PP*        -    -    -    Jack_Hannah  *    (ARGM-ADV*      -
+bc/cnn/00/cnn_0002   10    2    course    NN      (NP*))   course   -   13    Jack_Hannah  *             *)     -
+bc/cnn/00/cnn_0002   10    3        we   PRP       (NP*)       -    -    -    Jack_Hannah  *        (ARG0*)     -
+bc/cnn/00/cnn_0002   10    4      just    RB     (ADVP*)       -    -    -    Jack_Hannah  *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0002   10    5        ca    MD       (VP*        -    -    -    Jack_Hannah  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0002   10    6       n't    RB          *        -    -    -    Jack_Hannah  *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0002   10    7       put    VB       (VP*       put  01    1    Jack_Hannah  *           (V*)     -
+bc/cnn/00/cnn_0002   10    8        it   PRP       (NP*)       -    -    -    Jack_Hannah  *        (ARG1*)   (61)
+bc/cnn/00/cnn_0002   10    9      back    RB     (ADVP*        -    -    -    Jack_Hannah  *        (ARG2*      -
+bc/cnn/00/cnn_0002   10   10       out    IN       (PP*        -    -    -    Jack_Hannah  *             *      -
+bc/cnn/00/cnn_0002   10   11        in    IN       (PP*        -    -    -    Jack_Hannah  *             *      -
+bc/cnn/00/cnn_0002   10   12       the    DT       (NP*        -    -    -    Jack_Hannah  *             *      -
+bc/cnn/00/cnn_0002   10   13      wild    NN       *))))       -    -    -    Jack_Hannah  *             *)     -
+bc/cnn/00/cnn_0002   10   14       yet    RB   (ADVP*)))       -    -    -    Jack_Hannah  *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0002   10   15        /.     .         *))       -    -    -    Jack_Hannah  *             *      -
+
+bc/cnn/00/cnn_0002   10    0          Uh    UH   (TOP(S(INTJ*)     -    -   -    Jack_Hannah           *         *    (ARGM-DIS*)           *      -
+bc/cnn/00/cnn_0002   10    1         the    DT           (NP*      -    -   -    Jack_Hannah           *         *        (ARG1*            *      -
+bc/cnn/00/cnn_0002   10    2    mountain    NN              *      -    -   -    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10    3     gorilla    NN              *)     -    -   -    Jack_Hannah           *         *             *)           *      -
+bc/cnn/00/cnn_0002   10    4          as    IN         (SBAR*      -    -   -    Jack_Hannah           *         *    (ARGM-ADV*            *      -
+bc/cnn/00/cnn_0002   10    5         you   PRP         (S(NP*)     -    -   -    Jack_Hannah           *    (ARG0*)            *            *    (38)
+bc/cnn/00/cnn_0002   10    6        know   VBP         (VP*)))   know  01   2    Jack_Hannah           *       (V*)            *)           *      -
+bc/cnn/00/cnn_0002   10    7         are   VBP           (VP*      be  01   2    Jack_Hannah           *         *           (V*)           *      -
+bc/cnn/00/cnn_0002   10    8         the    DT     (NP(NP(NP*      -    -   -    Jack_Hannah           *         *        (ARG2*       (ARG0*      -
+bc/cnn/00/cnn_0002   10    9        ones   NNS              *)    one   -   2    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10   10        with    IN           (PP*      -    -   -    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10   11         the    DT           (NP*      -    -   -    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10   12        much    RB         (ADJP*      -    -   -    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10   13      longer   JJR              *)     -    -   -    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10   14        hair    NN            *)))     -    -   -    Jack_Hannah           *         *             *            *)     -
+bc/cnn/00/cnn_0002   10   15        live   VBP    (SBAR(S(VP*    live  01   2    Jack_Hannah           *         *             *          (V*)     -
+bc/cnn/00/cnn_0002   10   16          up    RB         (ADVP*      -    -   -    Jack_Hannah           *         *             *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0002   10   17       about    RB        (NP(QP*      -    -   -    Jack_Hannah  (QUANTITY*         *             *            *      -
+bc/cnn/00/cnn_0002   10   18       eight    CD              *      -    -   -    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10   19    thousand    CD              *)     -    -   -    Jack_Hannah           *         *             *            *      -
+bc/cnn/00/cnn_0002   10   20        feet   NNS        *)))))))   foot   -   2    Jack_Hannah           *)        *             *)           *)     -
+bc/cnn/00/cnn_0002   10   21          /.     .             *))     -    -   -    Jack_Hannah           *         *             *            *      -
+
+bc/cnn/00/cnn_0002   10   0       It   PRP      (TOP(S(NP*)      -    -   -    Jack_Hannah  *    (ARG1*)           *         *    (152)
+bc/cnn/00/cnn_0002   10   1       's   VBZ            (VP*       be  01   1    Jack_Hannah  *       (V*)           *         *       -
+bc/cnn/00/cnn_0002   10   2    where   WRB   (SBAR(WHADVP*)      -    -   -    Jack_Hannah  *    (ARG2*            *    (ARG1*)      -
+bc/cnn/00/cnn_0002   10   3      you   PRP          (S(NP*)      -    -   -    Jack_Hannah  *         *       (ARG0*)   (ARG0*)    (38)
+bc/cnn/00/cnn_0002   10   4     went   VBD            (VP*       go  05   1    Jack_Hannah  *         *          (V*)        *       -
+bc/cnn/00/cnn_0002   10   5       to    TO          (S(VP*       -    -   -    Jack_Hannah  *         *   (ARGM-PRP*         *       -
+bc/cnn/00/cnn_0002   10   6    visit    VB      (VP*)))))))   visit  01   1    Jack_Hannah  *         *)           *)      (V*)      -
+bc/cnn/00/cnn_0002   10   7       /.     .              *))      -    -   -    Jack_Hannah  *         *            *         *       -
+
+bc/cnn/00/cnn_0002   10   0        Yeah    UH   (TOP(S(INTJ*)         -    -   -    Anderson_Cooper  *    (ARGM-DIS*)     *      -
+bc/cnn/00/cnn_0002   10   1           I   PRP           (NP*)         -    -   -    Anderson_Cooper  *        (ARG0*)     *    (38)
+bc/cnn/00/cnn_0002   10   2        went   VBD           (VP*          go  02   -    Anderson_Cooper  *           (V*)     *      -
+bc/cnn/00/cnn_0002   10   3       there    RB         (ADVP*)         -    -   -    Anderson_Cooper  *        (ARG4*)     *      -
+bc/cnn/00/cnn_0002   10   4          on    IN           (PP*          -    -   -    Anderson_Cooper  *    (ARGM-ADV*      *      -
+bc/cnn/00/cnn_0002   10   5    vacation    NN          (NP*))   vacation  01   1    Anderson_Cooper  *             *)   (V*)     -
+bc/cnn/00/cnn_0002   10   6        this    DT           (NP*          -    -   -    Anderson_Cooper  *    (ARGM-TMP*      *      -
+bc/cnn/00/cnn_0002   10   7      summer    NN             *))     summer   -   -    Anderson_Cooper  *             *)     *      -
+bc/cnn/00/cnn_0002   10   8          /.     .             *))         -    -   -    Anderson_Cooper  *             *      *      -
+
+bc/cnn/00/cnn_0002   10   0           and    CC  (TOP(S*    -    -   -    Anderson_Cooper  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   10   1            it   PRP     (NP*)   -    -   -    Anderson_Cooper  *        (ARG1*)   (152)
+bc/cnn/00/cnn_0002   10   2            's   VBZ     (VP*    be  01   1    Anderson_Cooper  *           (V*)      -
+bc/cnn/00/cnn_0002   10   3          just    RB   (ADJP*    -    -   -    Anderson_Cooper  *        (ARG2*       -
+bc/cnn/00/cnn_0002   10   4    incredible    JJ       *))   -    -   -    Anderson_Cooper  *             *)      -
+bc/cnn/00/cnn_0002   10   5            /.     .       *))   -    -   -    Anderson_Cooper  *             *       -
+
+bc/cnn/00/cnn_0002   10   0    There    RB   (TOP(S(ADVP*)   -    -   -    Jack_Hannah  *       (ARG2*)      -
+bc/cnn/00/cnn_0002   10   1     they   PRP           (NP*)   -    -   -    Jack_Hannah  *       (ARG1*)   (122)
+bc/cnn/00/cnn_0002   10   2      are   VBP           (VP*    be  01   4    Jack_Hannah  *          (V*)      -
+bc/cnn/00/cnn_0002   10   3    right    RB         (ADVP*    -    -   -    Jack_Hannah  *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   10   4    there    RB             *))   -    -   -    Jack_Hannah  *            *)      -
+bc/cnn/00/cnn_0002   10   5       /.     .             *))   -    -   -    Jack_Hannah  *            *       -
+
+bc/cnn/00/cnn_0002   10   0        They   PRP   (TOP(S(NP*)      -    -   -    Anderson_Cooper  *      *       (ARG0*)   (122)
+bc/cnn/00/cnn_0002   10   1         're   VBP         (VP*       be  03   -    Anderson_Cooper  *    (V*)           *       -
+bc/cnn/00/cnn_0002   10   2    climbing   VBG         (VP*    climb  01   3    Anderson_Cooper  *      *          (V*)      -
+bc/cnn/00/cnn_0002   10   3         all    RB    (PP(ADVP*)      -    -   -    Anderson_Cooper  *      *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   10   4      around    IN            *       -    -   -    Anderson_Cooper  *      *            *       -
+bc/cnn/00/cnn_0002   10   5         you   PRP      (NP*))))      -    -   -    Anderson_Cooper  *      *            *)      -
+bc/cnn/00/cnn_0002   10   6          /.     .           *))      -    -   -    Anderson_Cooper  *      *            *       -
+
+bc/cnn/00/cnn_0002   10   0         they   PRP   (TOP(S(NP*)      -    -   -    Anderson_Cooper  *        (ARG0*)   (122)
+bc/cnn/00/cnn_0002   10   1    literally    RB       (ADVP*)      -    -   -    Anderson_Cooper  *    (ARGM-ADV*)      -
+bc/cnn/00/cnn_0002   10   2        brush   VBP         (VP*    brush  01   2    Anderson_Cooper  *           (V*)      -
+bc/cnn/00/cnn_0002   10   3           by    IN         (PP*       -    -   -    Anderson_Cooper  *        (ARG1*       -
+bc/cnn/00/cnn_0002   10   4          you   PRP        (NP*))      -    -   -    Anderson_Cooper  *             *)      -
+bc/cnn/00/cnn_0002   10   5           at    IN         (PP*       -    -   -    Anderson_Cooper  *    (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   10   6        times   NNS       (NP*)))    time   -   1    Anderson_Cooper  *             *)      -
+bc/cnn/00/cnn_0002   10   7           /.     .           *))      -    -   -    Anderson_Cooper  *             *       -
+
+bc/cnn/00/cnn_0002   10   0            What    WP   (TOP(SBARQ(WHNP*)   -    -   -    Anderson_Cooper  *    (ARG2*)     -
+bc/cnn/00/cnn_0002   10   1             are   VBP               (SQ*    be  01   1    Anderson_Cooper  *       (V*)     -
+bc/cnn/00/cnn_0002   10   2             the    DT            (NP(NP*    -    -   -    Anderson_Cooper  *    (ARG1*   (118
+bc/cnn/00/cnn_0002   10   3    similarities   NNS                  *)   -    -   -    Anderson_Cooper  *         *      -
+bc/cnn/00/cnn_0002   10   4              to    IN               (PP*    -    -   -    Anderson_Cooper  *         *      -
+bc/cnn/00/cnn_0002   10   5          humans   NNS            (NP*))))   -    -   -    Anderson_Cooper  *         *)   118)
+bc/cnn/00/cnn_0002   10   6              /?     .                 *))   -    -   -    Anderson_Cooper  *         *      -
+
+bc/cnn/00/cnn_0002   10    0           I   PRP   (TOP(S(PRN(S(NP*)       -    -   -    Anderson_Cooper  *    (ARG0*)            *         *         *     (38)
+bc/cnn/00/cnn_0002   10    1        mean   VBP             (VP*)))     mean  01   1    Anderson_Cooper  *       (V*)            *         *         *       -
+bc/cnn/00/cnn_0002   10    2    everyone    NN               (NP*)       -    -   -    Anderson_Cooper  *         *        (ARG0*)        *         *       -
+bc/cnn/00/cnn_0002   10    3      always    RB             (ADVP*)       -    -   -    Anderson_Cooper  *         *    (ARGM-TMP*)        *         *       -
+bc/cnn/00/cnn_0002   10    4        says   VBZ               (VP*       say  01   1    Anderson_Cooper  *         *           (V*)        *         *       -
+bc/cnn/00/cnn_0002   10    5         how   WRB      (SBAR(WHADJP*        -    -   -    Anderson_Cooper  *         *        (ARG1*         *         *       -
+bc/cnn/00/cnn_0002   10    6         you   PRP         (PRN(S(NP*)       -    -   -    Anderson_Cooper  *         *             *    (ARG0*)        *       -
+bc/cnn/00/cnn_0002   10    7        know   VBP             (VP*)))     know  01   1    Anderson_Cooper  *         *             *       (V*)        *       -
+bc/cnn/00/cnn_0002   10    8        much    JJ                  *        -    -   -    Anderson_Cooper  *         *             *         *         *       -
+bc/cnn/00/cnn_0002   10    9        like    IN               (PP*        -    -   -    Anderson_Cooper  *         *             *         *         *       -
+bc/cnn/00/cnn_0002   10   10      humans   NNS             (NP*)))       -    -   -    Anderson_Cooper  *         *             *         *         *       -
+bc/cnn/00/cnn_0002   10   11        they   PRP             (S(NP*)       -    -   -    Anderson_Cooper  *         *             *         *    (ARG1*)   (122)
+bc/cnn/00/cnn_0002   10   12      appear   VBP            (VP*))))   appear  02   1    Anderson_Cooper  *         *             *)        *       (V*)      -
+bc/cnn/00/cnn_0002   10   13          /.     .                 *))       -    -   -    Anderson_Cooper  *         *             *         *         *       -
+
+bc/cnn/00/cnn_0002   10    0            Well    UH   (TOP(S(INTJ*)          -    -   -    Jack_Hannah  *    (ARGM-DIS*)        *      -
+bc/cnn/00/cnn_0002   10    1            well    UH         (INTJ*)          -    -   -    Jack_Hannah  *    (ARGM-DIS*)        *      -
+bc/cnn/00/cnn_0002   10    2             the    DT           (NP*           -    -   -    Jack_Hannah  *        (ARG1*         *   (118
+bc/cnn/00/cnn_0002   10    3    similarities   NNS              *)          -    -   -    Jack_Hannah  *             *)        *    118)
+bc/cnn/00/cnn_0002   10    4             are   VBP           (VP*           be  01   1    Jack_Hannah  *           (V*)        *      -
+bc/cnn/00/cnn_0002   10    5              it   PRP    (SBAR(S(NP*)          -    -   -    Jack_Hannah  *        (ARG2*    (ARG1*)     -
+bc/cnn/00/cnn_0002   10    6              's   VBZ           (VP*           be  01   1    Jack_Hannah  *             *       (V*)     -
+bc/cnn/00/cnn_0002   10    7               a    DT           (NP*           -    -   -    Jack_Hannah  *             *    (ARG2*      -
+bc/cnn/00/cnn_0002   10    8          family    NN              *           -    -   -    Jack_Hannah  *             *         *      -
+bc/cnn/00/cnn_0002   10    9       structure    NN          *)))))   structure   -   -    Jack_Hannah  *             *)        *)     -
+bc/cnn/00/cnn_0002   10   10              /.     .             *))          -    -   -    Jack_Hannah  *             *         *      -
+
+bc/cnn/00/cnn_0002   10    0       and     CC         (TOP(S*        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10    1       you    PRP            (NP*)       -    -   -    Jack_Hannah       *    (ARG0*)           *         *             *             *      -
+bc/cnn/00/cnn_0002   10    2     watch    VBP            (VP*     watch  01   1    Jack_Hannah       *       (V*)           *         *             *             *      -
+bc/cnn/00/cnn_0002   10    3       the     DT          (S(NP*        -    -   -    Jack_Hannah  (DATE*    (ARG1*       (ARG0*         *             *             *      -
+bc/cnn/00/cnn_0002   10    4      four     CD   (ADJP(NML(QP*        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10    5       and     CC               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10    6     three     CD               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10    7       and     CC               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10    8      four     CD               *)       -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10    9     years    NNS               *)       -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   10       old     JJ              *))       -    -   -    Jack_Hannah       *)        *            *)        *             *             *      -
+bc/cnn/00/cnn_0002   10   11      play     VB            (VP*      play  01   1    Jack_Hannah       *         *          (V*)        *             *             *      -
+bc/cnn/00/cnn_0002   10   12      with     IN            (PP*        -    -   -    Jack_Hannah       *         *   (ARGM-ADV*         *             *             *      -
+bc/cnn/00/cnn_0002   10   13       the     DT            (NP*        -    -   -    Jack_Hannah       *         *            *         *             *             *    (41
+bc/cnn/00/cnn_0002   10   14    little     JJ               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   15        uh     UH               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   16     eight     CD   (ADJP(NML(QP*        -    -   -    Jack_Hannah  (DATE*         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   17        to     TO               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   18       ten     CD               *)       -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   19      week     NN               *)       -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   20       old     JJ               *)       -    -   -    Jack_Hannah       *)        *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   21    babies    NNS              *))     baby   -   -    Jack_Hannah       *         *            *)        *             *             *     41)
+bc/cnn/00/cnn_0002   10   22       you    PRP      (PRN(S(NP*)       -    -   -    Jack_Hannah       *         *   (ARGM-DIS*    (ARG0*)            *             *      -
+bc/cnn/00/cnn_0002   10   23      know    VBP          (VP*)))     know  01   2    Jack_Hannah       *         *            *)      (V*)            *             *      -
+bc/cnn/00/cnn_0002   10   24      when    WRB   (SBAR(WHADVP*)       -    -   -    Jack_Hannah       *         *   (ARGM-TMP*         *    (ARGM-TMP*)            *      -
+bc/cnn/00/cnn_0002   10   25     their   PRP$          (S(NP*        -    -   -    Jack_Hannah       *         *            *         *        (ARG0*             *    (41)
+bc/cnn/00/cnn_0002   10   26    mother     NN               *)   mother   -   -    Jack_Hannah       *         *            *         *             *)            *      -
+bc/cnn/00/cnn_0002   10   27     might     MD            (VP*        -    -   -    Jack_Hannah       *         *            *         *    (ARGM-MOD*)            *      -
+bc/cnn/00/cnn_0002   10   28       let     VB            (VP*       let  01   1    Jack_Hannah       *         *            *         *           (V*)            *      -
+bc/cnn/00/cnn_0002   10   29      them    PRP          (S(NP*)       -    -   -    Jack_Hannah       *         *            *         *        (ARG1*        (ARG0*)   (41)
+bc/cnn/00/cnn_0002   10   30        go     VB            (VP*        go  02   1    Jack_Hannah       *         *            *         *             *           (V*)     -
+bc/cnn/00/cnn_0002   10   31      away     RB          (ADVP*)       -    -   -    Jack_Hannah       *         *            *         *             *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0002   10   32      just     RB            (NP*        -    -   -    Jack_Hannah       *         *            *         *             *    (ARGM-EXT*      -
+bc/cnn/00/cnn_0002   10   33         a     DT               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   34    little     JJ               *        -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+bc/cnn/00/cnn_0002   10   35       bit     NN      *))))))))))     bite   -   -    Jack_Hannah       *         *)           *)        *             *)            *)     -
+bc/cnn/00/cnn_0002   10   36        /.      .              *))       -    -   -    Jack_Hannah       *         *            *         *             *             *      -
+
+bc/cnn/00/cnn_0002   10   0    Right   UH  (TOP(INTJ*   -   -   -    Anderson_Cooper  *   -
+bc/cnn/00/cnn_0002   10   1       /.    .          *))  -   -   -    Anderson_Cooper  *   -
+
+bc/cnn/00/cnn_0002   10   0            and    CC  (TOP(S*     -    -   -    Jack_Hannah  *         *   -
+bc/cnn/00/cnn_0002   10   1            you   PRP     (NP*)    -    -   -    Jack_Hannah  *    (ARG0*)  -
+bc/cnn/00/cnn_0002   10   2            see   VBP     (VP*    see  01   3    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   10   3            the    DT     (NP*     -    -   -    Jack_Hannah  *    (ARG1*   -
+bc/cnn/00/cnn_0002   10   4    proctection    NN       *))    -    -   -    Jack_Hannah  *         *)  -
+bc/cnn/00/cnn_0002   10   5             /.     .       *))    -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   10   0      they   PRP   (TOP(S(NP*)     -    -   -    Jack_Hannah  *        (ARG1*)   (122)
+bc/cnn/00/cnn_0002   10   1       're   VBP         (VP*      be  01   1    Jack_Hannah  *           (V*)      -
+bc/cnn/00/cnn_0002   10   2       not    RB            *      -    -   -    Jack_Hannah  *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0002   10   3         a    DT      (NP(NP*      -    -   -    Jack_Hannah  *        (ARG2*       -
+bc/cnn/00/cnn_0002   10   4      King   NNP            *      -    -   -    Jack_Hannah  *             *       -
+bc/cnn/00/cnn_0002   10   5      Kong   NNP            *      -    -   -    Jack_Hannah  *             *       -
+bc/cnn/00/cnn_0002   10   6      type    NN            *)   type   -   1    Jack_Hannah  *             *       -
+bc/cnn/00/cnn_0002   10   7        of    IN         (PP*      -    -   -    Jack_Hannah  *             *       -
+bc/cnn/00/cnn_0002   10   8    animal    NN      (NP*))))     -    -   -    Jack_Hannah  *             *)      -
+bc/cnn/00/cnn_0002   10   9        /.     .           *))     -    -   -    Jack_Hannah  *             *       -
+
+bc/cnn/00/cnn_0002   10    0       And    CC       (TOP(S*       -    -   -    Jack_Hannah  *    (ARGM-DIS*)            *   -
+bc/cnn/00/cnn_0002   10    1       the    DT       (NP(NP*       -    -   -    Jack_Hannah  *        (ARG1*             *   -
+bc/cnn/00/cnn_0002   10    2      neat    JJ             *       -    -   -    Jack_Hannah  *             *             *   -
+bc/cnn/00/cnn_0002   10    3     thing    NN             *)   thing   -   1    Jack_Hannah  *             *             *   -
+bc/cnn/00/cnn_0002   10    4     about    IN          (PP*       -    -   -    Jack_Hannah  *             *             *   -
+bc/cnn/00/cnn_0002   10    5        it   PRP        (NP*)))      -    -   -    Jack_Hannah  *             *)            *   -
+bc/cnn/00/cnn_0002   10    6        is   VBZ          (VP*       be  01   2    Jack_Hannah  *           (V*)            *   -
+bc/cnn/00/cnn_0002   10    7     there    EX   (SBAR(S(NP*)      -    -   -    Jack_Hannah  *        (ARG2*             *   -
+bc/cnn/00/cnn_0002   10    8      will    MD          (VP*       -    -   -    Jack_Hannah  *             *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0002   10    9        be    VB          (VP*       be  02   4    Jack_Hannah  *             *           (V*)  -
+bc/cnn/00/cnn_0002   10   10         a    DT          (NP*       -    -   -    Jack_Hannah  *             *        (ARG1*   -
+bc/cnn/00/cnn_0002   10   11       web    NN             *      web   -   4    Jack_Hannah  *             *             *   -
+bc/cnn/00/cnn_0002   10   12    camera    NN             *)      -    -   -    Jack_Hannah  *             *             *)  -
+bc/cnn/00/cnn_0002   10   13        up    RB        (ADVP*       -    -   -    Jack_Hannah  *             *    (ARGM-LOC*   -
+bc/cnn/00/cnn_0002   10   14     there    RB        *))))))      -    -   -    Jack_Hannah  *             *)            *)  -
+bc/cnn/00/cnn_0002   10   15        /.     .            *))      -    -   -    Jack_Hannah  *             *             *   -
+
+bc/cnn/00/cnn_0002   10    0          Uh    UH   (TOP(S(INTJ*)       -    -   -    Jack_Hannah         *      *    (ARGM-DIS*)            *             *      -
+bc/cnn/00/cnn_0002   10    1        John   NNP           (NP*        -    -   -    Jack_Hannah  (PERSON*      *        (ARG0*             *             *      -
+bc/cnn/00/cnn_0002   10    2        Dick   NNP              *)       -    -   -    Jack_Hannah         *)     *             *)            *             *      -
+bc/cnn/00/cnn_0002   10    3         has   VBZ           (VP*      have  01   -    Jack_Hannah         *    (V*)            *             *             *      -
+bc/cnn/00/cnn_0002   10    4         got   VBN           (VP*       get  02   1    Jack_Hannah         *      *           (V*)            *             *      -
+bc/cnn/00/cnn_0002   10    5         the    DT           (NP*        -    -   -    Jack_Hannah         *      *        (ARG1*             *             *      -
+bc/cnn/00/cnn_0002   10    6       tower    NN              *)    tower   -   1    Jack_Hannah         *      *             *)            *             *      -
+bc/cnn/00/cnn_0002   10    7          up    RB         (ADVP*        -    -   -    Jack_Hannah         *      *    (ARGM-LOC*             *             *      -
+bc/cnn/00/cnn_0002   10    8       there    RB              *)       -    -   -    Jack_Hannah         *      *             *)            *             *      -
+bc/cnn/00/cnn_0002   10    9          so    IN         (SBAR*        -    -   -    Jack_Hannah         *      *    (ARGM-PRP*             *             *      -
+bc/cnn/00/cnn_0002   10   10      people   NNS         (S(NP*)   people   -   1    Jack_Hannah         *      *             *        (ARG0*)       (ARG0*)     -
+bc/cnn/00/cnn_0002   10   11         can    MD           (VP*        -    -   -    Jack_Hannah         *      *             *    (ARGM-MOD*)   (ARGM-MOD*)     -
+bc/cnn/00/cnn_0002   10   12       click    VB        (VP(VP*     click  01   1    Jack_Hannah         *      *             *           (V*)            *      -
+bc/cnn/00/cnn_0002   10   13          on    IN           (PP*        -    -   -    Jack_Hannah         *      *             *    (ARGM-LOC*             *      -
+bc/cnn/00/cnn_0002   10   14          it   PRP          (NP*))       -    -   -    Jack_Hannah         *      *             *             *)            *      -
+bc/cnn/00/cnn_0002   10   15      within    IN           (PP*        -    -   -    Jack_Hannah         *      *             *    (ARGM-TMP*             *      -
+bc/cnn/00/cnn_0002   10   16           a    DT        (NP(NP*        -    -   -    Jack_Hannah    (DATE*      *             *             *             *      -
+bc/cnn/00/cnn_0002   10   17        year    NN              *)       -    -   -    Jack_Hannah         *      *             *             *             *      -
+bc/cnn/00/cnn_0002   10   18        from    IN           (PP*        -    -   -    Jack_Hannah         *      *             *             *             *      -
+bc/cnn/00/cnn_0002   10   19         now    RB     (ADVP*)))))       -    -   -    Jack_Hannah         *)     *             *             *)            *      -
+bc/cnn/00/cnn_0002   10   20         and    CC              *        -    -   -    Jack_Hannah         *      *             *             *             *      -
+bc/cnn/00/cnn_0002   10   21       watch    VB           (VP*     watch  01   1    Jack_Hannah         *      *             *             *           (V*)     -
+bc/cnn/00/cnn_0002   10   22         the    DT        (NP(NP*        -    -   -    Jack_Hannah         *      *             *             *        (ARG1*   (122
+bc/cnn/00/cnn_0002   10   23    gorillas   NNS              *)       -    -   -    Jack_Hannah         *      *             *             *             *      -
+bc/cnn/00/cnn_0002   10   24          in    IN           (PP*        -    -   -    Jack_Hannah         *      *             *             *             *      -
+bc/cnn/00/cnn_0002   10   25         the    DT           (NP*        -    -   -    Jack_Hannah         *      *             *             *             *      -
+bc/cnn/00/cnn_0002   10   26        wild    NN     *))))))))))       -    -   -    Jack_Hannah         *      *             *)            *             *)   122)
+bc/cnn/00/cnn_0002   10   27          /.     .             *))       -    -   -    Jack_Hannah         *      *             *             *             *      -
+
+bc/cnn/00/cnn_0002   10   0         No   DT  (TOP(FRAG(NP*     -   -   -    Anderson_Cooper  *   -
+bc/cnn/00/cnn_0002   10   1    kidding   NN              *)   kid  -   -    Anderson_Cooper  *   -
+bc/cnn/00/cnn_0002   10   2     really   RB         (ADVP*)    -   -   -    Anderson_Cooper  *   -
+bc/cnn/00/cnn_0002   10   3         /?    .             *))    -   -   -    Anderson_Cooper  *   -
+
+bc/cnn/00/cnn_0002   10   0               Be   VB  (TOP(VP*    be  01   1    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   10   1    unbelieveable   JJ    (ADJP*)   -    -   -    Jack_Hannah  *    (ARG2*)  -
+bc/cnn/00/cnn_0002   10   2               /.    .        *))   -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   10   0       That    DT   (TOP(S(NP*)   -    -   -    Anderson_Cooper  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   10   1         's   VBZ         (VP*    be  01   1    Anderson_Cooper  *       (V*)  -
+bc/cnn/00/cnn_0002   10   2    amazing    JJ      (ADJP*))   -    -   -    Anderson_Cooper  *    (ARG2*)  -
+bc/cnn/00/cnn_0002   10   3         /.     .           *))   -    -   -    Anderson_Cooper  *         *   -
+
+bc/cnn/00/cnn_0002   10   0    Unbelieveable   JJ  (TOP(ADJP*   -   -   -    Jack_Hannah  *   -
+bc/cnn/00/cnn_0002   10   1               /.    .          *))  -   -   -    Jack_Hannah  *   -
+
+bc/cnn/00/cnn_0002   10    0           Wow    UH   (TOP(S(INTJ*)         -    -   -    Anderson_Cooper      *         *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   10    1            eh    UH         (INTJ*)         -    -   -    Anderson_Cooper      *         *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   10    2           the    DT           (NP*          -    -   -    Anderson_Cooper      *         *             *    (237
+bc/cnn/00/cnn_0002   10    3      genocide    NN              *)         -    -   -    Anderson_Cooper      *         *             *     237)
+bc/cnn/00/cnn_0002   10    4             I   PRP     (PRN(S(NP*)         -    -   -    Anderson_Cooper      *    (ARG0*)   (ARGM-DIS*     (38)
+bc/cnn/00/cnn_0002   10    5          mean   VBP         (VP*)))       mean  01   1    Anderson_Cooper      *       (V*)            *)      -
+bc/cnn/00/cnn_0002   10    6            it   PRP           (NP*)         -    -   -    Anderson_Cooper      *         *        (ARG0*)   (237)
+bc/cnn/00/cnn_0002   10    7     permeates   VBZ           (VP*    permeate  01   -    Anderson_Cooper      *         *           (V*)      -
+bc/cnn/00/cnn_0002   10    8    everything    NN           (NP*)         -    -   -    Anderson_Cooper      *         *        (ARG1*)      -
+bc/cnn/00/cnn_0002   10    9         still    RB         (ADVP*)         -    -   -    Anderson_Cooper      *         *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   10   10            in    IN           (PP*          -    -   -    Anderson_Cooper      *         *    (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   10   11        Rwanda   NNP         (NP*)))         -    -   -    Anderson_Cooper   (GPE)        *             *)    (36)
+bc/cnn/00/cnn_0002   10   12            /.     .             *))         -    -   -    Anderson_Cooper      *         *             *       -
+
+bc/cnn/00/cnn_0002   10    0             I   PRP   (TOP(S(PRN(S(NP*)        -    -   -    Anderson_Cooper         *    (ARG0*)     *         *    (38)
+bc/cnn/00/cnn_0002   10    1          mean   VBP             (VP*)))      mean  01   1    Anderson_Cooper         *       (V*)     *         *      -
+bc/cnn/00/cnn_0002   10    2        Kagame   NNP               (NP*)        -    -   -    Anderson_Cooper   (PERSON)        *      *    (ARG0*)   (82)
+bc/cnn/00/cnn_0002   10    3           has   VBZ               (VP*       have  01   -    Anderson_Cooper         *         *    (V*)        *      -
+bc/cnn/00/cnn_0002   10    4          done   VBN               (VP*         do  02   1    Anderson_Cooper         *         *      *       (V*)     -
+bc/cnn/00/cnn_0002   10    5             a    DT            (NP(NP*         -    -   -    Anderson_Cooper         *         *      *    (ARG1*      -
+bc/cnn/00/cnn_0002   10    6    remarkable    JJ                  *         -    -   -    Anderson_Cooper         *         *      *         *      -
+bc/cnn/00/cnn_0002   10    7           job    NN                  *)       job   -   2    Anderson_Cooper         *         *      *         *      -
+bc/cnn/00/cnn_0002   10    8          with    IN               (PP*         -    -   -    Anderson_Cooper         *         *      *         *      -
+bc/cnn/00/cnn_0002   10    9           the    DT               (NP*         -    -   -    Anderson_Cooper         *         *      *         *    (36
+bc/cnn/00/cnn_0002   10   10       country    NN              *)))))   country   -   3    Anderson_Cooper         *         *      *         *)    36)
+bc/cnn/00/cnn_0002   10   11            /.     .                 *))        -    -   -    Anderson_Cooper         *         *      *         *      -
+
+bc/cnn/00/cnn_0002   10    0          Um    UH   (TOP(SBARQ(INTJ*)       -    -    -    Anderson_Cooper  *         *      *             *       -
+bc/cnn/00/cnn_0002   10    1           I   PRP         (PRN(S(NP*)       -    -    -    Anderson_Cooper  *    (ARG0*)     *             *     (38)
+bc/cnn/00/cnn_0002   10    2        mean    VB             (VP*)))     mean  01    1    Anderson_Cooper  *       (V*)     *             *       -
+bc/cnn/00/cnn_0002   10    3         how   WRB           (WHADVP*)       -    -    -    Anderson_Cooper  *         *      *    (ARGM-MNR*)      -
+bc/cnn/00/cnn_0002   10    4         has   VBZ               (SQ*      have  01   12    Anderson_Cooper  *         *    (V*)            *       -
+bc/cnn/00/cnn_0002   10    5          it   PRP               (NP*)       -    -    -    Anderson_Cooper  *         *      *        (ARG0*)   (237)
+bc/cnn/00/cnn_0002   10    6    impacted   VBN               (VP*    impact  01    1    Anderson_Cooper  *         *      *           (V*)      -
+bc/cnn/00/cnn_0002   10    7          on    IN               (PP*        -    -    -    Anderson_Cooper  *         *      *        (ARG1*       -
+bc/cnn/00/cnn_0002   10    8         the    DT               (NP*        -    -    -    Anderson_Cooper  *         *      *             *       -
+bc/cnn/00/cnn_0002   10    9     animals   NNS               *))))       -    -    -    Anderson_Cooper  *         *      *             *)      -
+bc/cnn/00/cnn_0002   10   10          /?     .                 *))       -    -    -    Anderson_Cooper  *         *      *             *       -
+
+bc/cnn/00/cnn_0002   10    0        Well    UH   (TOP(S(INTJ*)     -    -   -    Jack_Hannah  *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0002   10    1          uh    UH         (INTJ*)     -    -   -    Jack_Hannah  *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0002   10    2          uh    UH              *      -    -   -    Jack_Hannah  *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0002   10    3           a    DT        (NP(NP*      -    -   -    Jack_Hannah  *        (ARG1*     -
+bc/cnn/00/cnn_0002   10    4         lot    NN              *)    lot   -   1    Jack_Hannah  *             *     -
+bc/cnn/00/cnn_0002   10    5          of    IN           (PP*      -    -   -    Jack_Hannah  *             *     -
+bc/cnn/00/cnn_0002   10    6         the    DT           (NP*      -    -   -    Jack_Hannah  *             *   (56
+bc/cnn/00/cnn_0002   10    7    refugees   NNS            *)))     -    -   -    Jack_Hannah  *             *)   56)
+bc/cnn/00/cnn_0002   10    8        came   VBD           (VP*    come  01   1    Jack_Hannah  *           (V*)    -
+bc/cnn/00/cnn_0002   10    9        back    RB         (ADVP*      -    -   -    Jack_Hannah  *        (ARG4*     -
+bc/cnn/00/cnn_0002   10   10          in    RB             *))     -    -   -    Jack_Hannah  *             *)    -
+bc/cnn/00/cnn_0002   10   11          /.     .             *))     -    -   -    Jack_Hannah  *             *     -
+
+bc/cnn/00/cnn_0002   10   0     Some    DT   (TOP(S(NP(NP*)     -    -      -    Jack_Hannah  *   (ARG1*      -
+bc/cnn/00/cnn_0002   10   1       of    IN            (PP*      -    -      -    Jack_Hannah  *        *      -
+bc/cnn/00/cnn_0002   10   2     them   PRP          (NP*)))     -    -      -    Jack_Hannah  *        *)   (56)
+bc/cnn/00/cnn_0002   10   3      got   VBD            (VP*     get  05   11.2    Jack_Hannah  *      (V*)     -
+bc/cnn/00/cnn_0002   10   4     into    IN            (PP*      -    -      -    Jack_Hannah  *   (ARG2*      -
+bc/cnn/00/cnn_0002   10   5      the    DT            (NP*      -    -      -    Jack_Hannah  *        *   (107
+bc/cnn/00/cnn_0002   10   6    parks   NNS             *)))   park   -      1    Jack_Hannah  *        *)   107)
+bc/cnn/00/cnn_0002   10   7       /.     .              *))     -    -      -    Jack_Hannah  *        *      -
+
+bc/cnn/00/cnn_0002   10    0           but    CC          (TOP(FRAG*          -    -   -    Jack_Hannah  *      *         *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10    1           now    RB              (ADVP*)         -    -   -    Jack_Hannah  *      *         *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10    2          what    WP         (SBAR(WHNP*)         -    -   -    Jack_Hannah  *      *    (ARG1*)     *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10    3            he   PRP              (S(NP*)         -    -   -    Jack_Hannah  *      *    (ARG0*)     *         *      *               *             *    (82)
+bc/cnn/00/cnn_0002   10    4            's   VBZ                (VP*          be  03   9    Jack_Hannah  *    (V*)        *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10    5          done   VBN             (VP*))))         do  02   1    Jack_Hannah  *      *       (V*)     *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10    6             ,     ,                   *          -    -   -    Jack_Hannah  *      *         *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10    7            he   PRP              (S(NP*)         -    -   -    Jack_Hannah  *      *         *      *    (ARG0*)     *               *             *    (82)
+bc/cnn/00/cnn_0002   10    8            's   VBZ                (VP*          be  03   9    Jack_Hannah  *      *         *    (V*)        *      *               *             *      -
+bc/cnn/00/cnn_0002   10    9     protected   VBN                (VP*     protect  01   1    Jack_Hannah  *      *         *      *       (V*)     *               *             *      -
+bc/cnn/00/cnn_0002   10   10         those    DT             (NP(NP*          -    -   -    Jack_Hannah  *      *         *      *    (ARG1*      *      (ARGM-LOC*             *   (107
+bc/cnn/00/cnn_0002   10   11         parks   NNS                   *)       park   -   1    Jack_Hannah  *      *         *      *         *      *               *)            *    107)
+bc/cnn/00/cnn_0002   10   12         where   WRB       (SBAR(WHADVP*)         -    -   -    Jack_Hannah  *      *         *      *         *      *    (R-ARGM-LOC*)            *      -
+bc/cnn/00/cnn_0002   10   13            no    DT           (S(NP(NP*          -    -   -    Jack_Hannah  *      *         *      *         *      *          (ARG1*        (ARG0*      -
+bc/cnn/00/cnn_0002   10   14           one    NN                   *)        one   -   2    Jack_Hannah  *      *         *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10   15    absolutely    RB                (NP*          -    -   -    Jack_Hannah  *      *         *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10   16        nobody    NN                  *))         -    -   -    Jack_Hannah  *      *         *      *         *      *               *)            *)     -
+bc/cnn/00/cnn_0002   10   17            's   VBZ                (VP*          be  03   1    Jack_Hannah  *      *         *      *         *    (V*)              *             *      -
+bc/cnn/00/cnn_0002   10   18       allowed   VBN                (VP*       allow  01   1    Jack_Hannah  *      *         *      *         *      *             (V*)            *      -
+bc/cnn/00/cnn_0002   10   19            to    TO              (S(VP*          -    -   -    Jack_Hannah  *      *         *      *         *      *          (ARG1*             *      -
+bc/cnn/00/cnn_0002   10   20            go    VB                (VP*          go  02   1    Jack_Hannah  *      *         *      *         *      *               *           (V*)     -
+bc/cnn/00/cnn_0002   10   21        inside    IN                (PP*          -    -   -    Jack_Hannah  *      *         *      *         *      *               *    (ARGM-DIR*      -
+bc/cnn/00/cnn_0002   10   22           the    DT                (NP*          -    -   -    Jack_Hannah  *      *         *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10   23          park    NN                   *        park   -   1    Jack_Hannah  *      *         *      *         *      *               *             *      -
+bc/cnn/00/cnn_0002   10   24    boundaries   NNS                  *))   boundary   -   1    Jack_Hannah  *      *         *      *         *      *               *             *)     -
+bc/cnn/00/cnn_0002   10   25           now    RB   (ADVP*))))))))))))         -    -   -    Jack_Hannah  *      *         *      *         *)     *               *)   (ARGM-TMP*)     -
+bc/cnn/00/cnn_0002   10   26            /.     .                  *))         -    -   -    Jack_Hannah  *      *         *      *         *      *               *             *      -
+
+bc/cnn/00/cnn_0002   10   0           Uh    UH   (TOP(S(INTJ*)     -    -   -    Jack_Hannah          *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   10   1          the    DT           (NP*      -    -   -    Jack_Hannah          *      *        (ARG1*   (122
+bc/cnn/00/cnn_0002   10   2     gorillas   NNS              *)     -    -   -    Jack_Hannah          *      *             *)   122)
+bc/cnn/00/cnn_0002   10   3          are   VBP           (VP*      be  03   -    Jack_Hannah          *    (V*)            *      -
+bc/cnn/00/cnn_0002   10   4       coming   VBG           (VP*    come  01   1    Jack_Hannah          *      *           (V*)     -
+bc/cnn/00/cnn_0002   10   5         back    RB         (ADVP*)     -    -   -    Jack_Hannah          *      *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0002   10   6    seventeen    CD           (NP*      -    -   -    Jack_Hannah  (PERCENT*      *        (ARG2*      -
+bc/cnn/00/cnn_0002   10   7      percent    NN            *)))     -    -   -    Jack_Hannah          *)     *             *)     -
+bc/cnn/00/cnn_0002   10   8           /.     .             *))     -    -   -    Jack_Hannah          *      *             *      -
+
+bc/cnn/00/cnn_0002   10   0    tourism    NN   (TOP(S(NP*)   -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   10   1         is   VBZ         (VP*    be  01   1    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   10   2         up    RB      (ADVP*))   -    -   -    Jack_Hannah  *    (ARG2*)  -
+bc/cnn/00/cnn_0002   10   3         /.     .           *))   -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   10   0            as    IN  (TOP(S(SBAR*     -    -   -    Jack_Hannah      *         *   (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   10   1             I   PRP        (S(NP*)    -    -   -    Jack_Hannah      *    (ARG0*)           *    (231)
+bc/cnn/00/cnn_0002   10   2          said   VBD        (VP*)))   say  01   1    Jack_Hannah      *       (V*)           *)      -
+bc/cnn/00/cnn_0002   10   3          Lake   NNP      (NP(NML*     -    -   -    Jack_Hannah  (FAC*         *       (ARG1*       -
+bc/cnn/00/cnn_0002   10   4       Akagera   NNP             *)    -    -   -    Jack_Hannah      *         *            *       -
+bc/cnn/00/cnn_0002   10   5      National   NNP             *     -    -   -    Jack_Hannah      *         *            *       -
+bc/cnn/00/cnn_0002   10   6          Park   NNP             *)    -    -   -    Jack_Hannah      *)        *            *)      -
+bc/cnn/00/cnn_0002   10   7            is   VBZ          (VP*     be  01   1    Jack_Hannah      *         *          (V*)      -
+bc/cnn/00/cnn_0002   10   8    incredible    JJ       (ADJP*))    -    -   -    Jack_Hannah      *         *       (ARG2*)      -
+bc/cnn/00/cnn_0002   10   9            /.     .            *))    -    -   -    Jack_Hannah      *         *            *       -
+
+bc/cnn/00/cnn_0002   10   0           they   PRP   (TOP(S(NP*)     -    -   -    Jack_Hannah  *       (ARG0*)  -
+bc/cnn/00/cnn_0002   10   1           even    RB       (ADVP*      -    -   -    Jack_Hannah  *   (ARGM-TMP*   -
+bc/cnn/00/cnn_0002   10   2            now    RB            *)     -    -   -    Jack_Hannah  *            *)  -
+bc/cnn/00/cnn_0002   10   3           have   VBP         (VP*    have  03   4    Jack_Hannah  *          (V*)  -
+bc/cnn/00/cnn_0002   10   4            the    DT      (NP(NP*      -    -   -    Jack_Hannah  *       (ARG1*   -
+bc/cnn/00/cnn_0002   10   5    habituation    NN            *)     -    -   -    Jack_Hannah  *            *   -
+bc/cnn/00/cnn_0002   10   6             of    IN         (PP*      -    -   -    Jack_Hannah  *            *   -
+bc/cnn/00/cnn_0002   10   7    chimpanzees   NNS      (NP*))))     -    -   -    Jack_Hannah  *            *)  -
+bc/cnn/00/cnn_0002   10   8             /.     .           *))     -    -   -    Jack_Hannah  *            *   -
+
+bc/cnn/00/cnn_0002   10    0         I   PRP       (TOP(S(NP*)       -    -   -    Jack_Hannah           *        (ARG1*)            *    (231)
+bc/cnn/00/cnn_0002   10    1      just    RB           (ADVP*)       -    -   -    Jack_Hannah           *    (ARGM-ADV*)            *       -
+bc/cnn/00/cnn_0002   10    2       was   VBD             (VP*        be  01   2    Jack_Hannah           *           (V*)            *       -
+bc/cnn/00/cnn_0002   10    3       one    CD          (NP(NP*)       -    -   -    Jack_Hannah   (CARDINAL)       (ARG2*             *       -
+bc/cnn/00/cnn_0002   10    4        of    IN             (PP*        -    -   -    Jack_Hannah           *             *             *       -
+bc/cnn/00/cnn_0002   10    5       the    DT          (NP(NP*        -    -   -    Jack_Hannah           *             *        (ARG0*       -
+bc/cnn/00/cnn_0002   10    6     first    JJ                *        -    -   -    Jack_Hannah    (ORDINAL)            *             *       -
+bc/cnn/00/cnn_0002   10    7    people   NNS                *)   people   -   1    Jack_Hannah           *             *             *)      -
+bc/cnn/00/cnn_0002   10    8        to    TO      (SBAR(S(VP*        -    -   -    Jack_Hannah           *             *             *       -
+bc/cnn/00/cnn_0002   10    9        go    VB             (VP*        go  02   1    Jack_Hannah           *             *           (V*)      -
+bc/cnn/00/cnn_0002   10   10     there    RB   (ADVP*)))))))))       -    -   -    Jack_Hannah           *             *)   (ARGM-DIR*)      -
+bc/cnn/00/cnn_0002   10   11        /.     .               *))       -    -   -    Jack_Hannah           *             *             *       -
+
+bc/cnn/00/cnn_0002   10    0            and    CC      (TOP(S*         -    -   -    Jack_Hannah           *    (ARGM-DIS*)   (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   10    1             so    RB       (ADVP*)        -    -   -    Jack_Hannah           *    (ARGM-ADV*)   (ARGM-ADV*)     -
+bc/cnn/00/cnn_0002   10    2            you   PRP         (NP*)        -    -   -    Jack_Hannah           *        (ARG0*)       (ARG0*)     -
+bc/cnn/00/cnn_0002   10    3            can    MD         (VP*         -    -   -    Jack_Hannah           *    (ARGM-MOD*)   (ARGM-MOD*)     -
+bc/cnn/00/cnn_0002   10    4             go    VB      (VP(VP*         go  02   1    Jack_Hannah           *           (V*)            *      -
+bc/cnn/00/cnn_0002   10    5             to    IN         (PP*         -    -   -    Jack_Hannah           *    (ARGM-DIR*             *      -
+bc/cnn/00/cnn_0002   10    6            one    CD      (NP(NP*)        -    -   -    Jack_Hannah   (CARDINAL)            *             *    (36
+bc/cnn/00/cnn_0002   10    7             of    IN         (PP*         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10    8            the    DT      (NP(NP*         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10    9           only    JJ            *         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   10      countries   NNS            *)   country   -   3    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   11             in    IN         (PP*         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   12         Africa   NNP   (NP*)))))))        -    -   -    Jack_Hannah        (LOC)            *)            *     36)
+bc/cnn/00/cnn_0002   10   13            and    CC            *         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   14            see    VB         (VP*        see  01   1    Jack_Hannah           *             *           (V*)     -
+bc/cnn/00/cnn_0002   10   15            the    DT   (NP(NP(NP*         -    -   -    Jack_Hannah           *             *        (ARG1*      -
+bc/cnn/00/cnn_0002   10   16    chimpanzees   NNS            *)        -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   17             in    IN         (PP*         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   18            the    DT         (NP*         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   19           wild    NN          *)))        -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   20             as    RB      (CONJP*         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   21           well    RB            *         -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   22             as    IN            *)        -    -   -    Jack_Hannah           *             *             *      -
+bc/cnn/00/cnn_0002   10   23            the    DT         (NP*         -    -   -    Jack_Hannah           *             *             *   (122
+bc/cnn/00/cnn_0002   10   24       gorillas   NNS        *)))))        -    -   -    Jack_Hannah           *             *             *)   122)
+bc/cnn/00/cnn_0002   10   25             /.     .           *))        -    -   -    Jack_Hannah           *             *             *      -

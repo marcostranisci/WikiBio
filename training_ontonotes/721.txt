@@ -1,0 +1,854 @@
+bc/cnn/00/cnn_0006   2    0            With    IN  (TOP(S(SBAR*          -    -   -    Wolf_Blitzer       *        *   (ARGM-ADV*        *             *          -
+bc/cnn/00/cnn_0006   2    1             the    DT     (S(NP(NP*          -    -   -    Wolf_Blitzer       *        *            *        *             *       (177
+bc/cnn/00/cnn_0006   2    2        deadline    NN             *)         -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2    3              to    TO        (S(VP*          -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2    4        complete    VB          (VP*    complete  01   1    Wolf_Blitzer       *      (V*)           *        *             *        (46)
+bc/cnn/00/cnn_0006   2    5              an    DT          (NP*          -    -   -    Wolf_Blitzer       *   (ARG1*            *        *             *        (75
+bc/cnn/00/cnn_0006   2    6           Iraqi    JJ             *          -    -   -    Wolf_Blitzer   (NORP)       *            *        *             *          -
+bc/cnn/00/cnn_0006   2    7    constitution    NN         *)))))         -    -   -    Wolf_Blitzer       *        *)           *        *             *    177)|75)
+bc/cnn/00/cnn_0006   2    8            just    RB     (ADVP(NP*          -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2    9           three    CD             *          -    -   -    Wolf_Blitzer  (DATE*        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   10           weeks   NNS             *)         -    -   -    Wolf_Blitzer       *)       *            *        *             *          -
+bc/cnn/00/cnn_0006   2   11            away    RB           *)))         -    -   -    Wolf_Blitzer       *        *            *)       *             *          -
+bc/cnn/00/cnn_0006   2   12           there    EX          (NP*)         -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   13             are   VBP          (VP*          be  02   3    Wolf_Blitzer       *        *          (V*)       *             *          -
+bc/cnn/00/cnn_0006   2   14         serious    JJ          (NP*          -    -   -    Wolf_Blitzer       *        *       (ARG1*        *             *          -
+bc/cnn/00/cnn_0006   2   15        concerns   NNS             *     concern   -   2    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   16            that    IN        (SBAR*          -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   17              an    DT     (S(NP(NP*          -    -   -    Wolf_Blitzer       *        *            *        *        (ARG0*          -
+bc/cnn/00/cnn_0006   2   18     unrelenting    JJ             *          -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   19      insurgency    NN             *)         -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   20             and    CC             *          -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   21        disputes   NNS       (NP(NP*)    dispute  01   1    Wolf_Blitzer       *        *            *      (V*)            *          -
+bc/cnn/00/cnn_0006   2   22            over    IN          (PP*          -    -   -    Wolf_Blitzer       *        *            *   (ARG2*             *          -
+bc/cnn/00/cnn_0006   2   23             the    DT       (NP(NP*          -    -   -    Wolf_Blitzer       *        *            *        *             *       (128
+bc/cnn/00/cnn_0006   2   24            role    NN             *)       role   -   1    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   25              of    IN          (PP*          -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+bc/cnn/00/cnn_0006   2   26        religion    NN     (NP*))))))         -    -   -    Wolf_Blitzer       *        *            *        *)            *)       128)
+bc/cnn/00/cnn_0006   2   27           could    MD          (VP*          -    -   -    Wolf_Blitzer       *        *            *        *    (ARGM-MOD*)         -
+bc/cnn/00/cnn_0006   2   28          derail    VB          (VP*      derail  01   -    Wolf_Blitzer       *        *            *        *           (V*)         -
+bc/cnn/00/cnn_0006   2   29            that    DT          (NP*          -    -   -    Wolf_Blitzer       *        *            *        *        (ARG1*        (46
+bc/cnn/00/cnn_0006   2   30            goal    NN       *)))))))       goal   -   1    Wolf_Blitzer       *        *            *)       *             *)        46)
+bc/cnn/00/cnn_0006   2   31              /.     .            *))         -    -   -    Wolf_Blitzer       *        *            *        *             *          -
+
+bc/cnn/00/cnn_0006   2    0          Just     RB  (TOP(S(ADVP(NP*           -    -   -    Wolf_Blitzer         *   (ARGM-TMP*        *             *             *           -
+bc/cnn/00/cnn_0006   2    1             a     DT                *           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2    2         short     JJ                *           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2    3         while     NN                *)          -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2    4           ago     RB                *)          -    -   -    Wolf_Blitzer         *            *)       *             *             *           -
+bc/cnn/00/cnn_0006   2    5             I    PRP             (NP*)          -    -   -    Wolf_Blitzer         *       (ARG0*)       *             *             *         (36)
+bc/cnn/00/cnn_0006   2    6         spoke    VBD             (VP*        speak  01   1    Wolf_Blitzer         *          (V*)       *             *             *           -
+bc/cnn/00/cnn_0006   2    7          with     IN             (PP*           -    -   -    Wolf_Blitzer         *       (ARG2*        *             *             *           -
+bc/cnn/00/cnn_0006   2    8          Iraq    NNP       (NP(NP(NP*           -    -   -    Wolf_Blitzer      (GPE)           *        *             *             *   (101|(188
+bc/cnn/00/cnn_0006   2    9            's    POS                *)          -    -   -    Wolf_Blitzer         *            *        *             *             *         101)
+bc/cnn/00/cnn_0006   2   10      national     JJ            (NML*           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   11      security     NN                *)    security   -   3    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   12       adviser     NN                *)          -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   13      Mowaffak    NNP             (NP*           -    -   -    Wolf_Blitzer  (PERSON*            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   14            al    NNP                *           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   15            -    HYPH                *           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   16        Rubaie    NNP              *)))          -    -   -    Wolf_Blitzer         *)           *)       *             *             *         188)
+bc/cnn/00/cnn_0006   2   17         about     IN             (PP*           -    -   -    Wolf_Blitzer         *       (ARG1*        *             *             *           -
+bc/cnn/00/cnn_0006   2   18           the     DT       (NP(NP(NP*           -    -   -    Wolf_Blitzer         *            *        *        (ARG0*             *           -
+bc/cnn/00/cnn_0006   2   19     political     JJ            (UCP*           -    -   -    Wolf_Blitzer         *            *   (ARG2*             *             *           -
+bc/cnn/00/cnn_0006   2   20           and     CC                *           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   21      security     NN                *)    security   -   3    Wolf_Blitzer         *            *        *)            *             *           -
+bc/cnn/00/cnn_0006   2   22    challenges    NNS                *)   challenge  01   1    Wolf_Blitzer         *            *      (V*)            *)            *           -
+bc/cnn/00/cnn_0006   2   23         still     RB        (VP(ADVP*)          -    -   -    Wolf_Blitzer         *            *        *    (ARGM-TMP*)            *           -
+bc/cnn/00/cnn_0006   2   24        facing    VBG                *         face  01   1    Wolf_Blitzer         *            *        *           (V*)            *           -
+bc/cnn/00/cnn_0006   2   25           his   PRP$             (NP*           -    -   -    Wolf_Blitzer         *            *        *        (ARG1*             *        (101
+bc/cnn/00/cnn_0006   2   26       country     NN              *)))     country   -   3    Wolf_Blitzer         *            *        *             *)            *         101)
+bc/cnn/00/cnn_0006   2   27           the     DT          (NP(NP*           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   28      upcoming     JJ                *           -    -   -    Wolf_Blitzer         *            *        *             *    (ARGM-TMP*)          -
+bc/cnn/00/cnn_0006   2   29         trial     NN                *)       trial  02   3    Wolf_Blitzer         *            *        *             *           (V*)          -
+bc/cnn/00/cnn_0006   2   30            of     IN             (PP*           -    -   -    Wolf_Blitzer         *            *        *             *        (ARG1*           -
+bc/cnn/00/cnn_0006   2   31        Saddam    NNP             (NP*           -    -   -    Wolf_Blitzer  (PERSON*            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   32       Hussein    NNP              *)))          -    -   -    Wolf_Blitzer         *)           *        *             *             *)          -
+bc/cnn/00/cnn_0006   2   33           and     CC                *           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   34          much     RB        (NP(ADJP*           -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+bc/cnn/00/cnn_0006   2   35          more    JJR            *)))))          -    -   -    Wolf_Blitzer         *            *)       *             *             *           -
+bc/cnn/00/cnn_0006   2   36            /.      .               *))          -    -   -    Wolf_Blitzer         *            *        *             *             *           -
+
+bc/cnn/00/cnn_0006   2    0    Mowaffak    NNP  (TOP(FRAG(NP*        -    -   -    Wolf_Blitzer  (PERSON*   (ARGM-DIS*            *   (188
+bc/cnn/00/cnn_0006   2    1          al    NNP              *        -    -   -    Wolf_Blitzer         *            *            *      -
+bc/cnn/00/cnn_0006   2    2          -    HYPH              *        -    -   -    Wolf_Blitzer         *            *            *      -
+bc/cnn/00/cnn_0006   2    3      Rubaie    NNP              *)       -    -   -    Wolf_Blitzer         *)           *)           *    188)
+bc/cnn/00/cnn_0006   2    4      thanks    NNS       (NP(NP*))   thanks  01   1    Wolf_Blitzer         *          (V*)           *      -
+bc/cnn/00/cnn_0006   2    5        very     RB         (ADVP*        -    -   -    Wolf_Blitzer         *   (ARGM-EXT*            *      -
+bc/cnn/00/cnn_0006   2    6        much     RB              *)       -    -   -    Wolf_Blitzer         *            *)           *      -
+bc/cnn/00/cnn_0006   2    7         for     IN           (PP*        -    -   -    Wolf_Blitzer         *       (ARG2*            *      -
+bc/cnn/00/cnn_0006   2    8     joining    VBG         (S(VP*      join  04   -    Wolf_Blitzer         *            *          (V*)     -
+bc/cnn/00/cnn_0006   2    9          us    PRP           (NP*)       -    -   -    Wolf_Blitzer         *            *       (ARG1*)     -
+bc/cnn/00/cnn_0006   2   10        from     IN           (PP*        -    -   -    Wolf_Blitzer         *            *   (ARGM-DIR*      -
+bc/cnn/00/cnn_0006   2   11     Baghdad    NNP       (NP*)))))       -    -   -    Wolf_Blitzer      (GPE)           *)           *)     -
+bc/cnn/00/cnn_0006   2   12          /.      .             *))       -    -   -    Wolf_Blitzer         *            *            *      -
+
+bc/cnn/00/cnn_0006   2    0           There    EX        (TOP(S(NP*)        -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    1              is   VBZ              (VP*         be  02    3    Wolf_Blitzer       *           (V*)     *        *        *           *      -
+bc/cnn/00/cnn_0006   2    2            word    NN              (NP*)      word   -    3    Wolf_Blitzer       *        (ARG1*)     *        *        *           *      -
+bc/cnn/00/cnn_0006   2    3             now    RB            (ADVP*)        -    -    -    Wolf_Blitzer       *    (ARGM-TMP*)     *        *        *           *      -
+bc/cnn/00/cnn_0006   2    4            that    IN            (SBAR*         -    -    -    Wolf_Blitzer       *      (C-ARG1*      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    5           there    EX            (S(NP*)        -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    6             may    MD              (VP*         -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    7            have    VB              (VP*       have  02   12    Wolf_Blitzer       *             *    (V*)       *        *           *      -
+bc/cnn/00/cnn_0006   2    8              to    TO            (S(VP*         -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    9              be    VB              (VP*         be  02    3    Wolf_Blitzer       *             *      *      (V*)       *           *      -
+bc/cnn/00/cnn_0006   2   10               a    DT           (NP(NP*         -    -    -    Wolf_Blitzer       *             *      *   (ARG1*        *           *      -
+bc/cnn/00/cnn_0006   2   11           delay    NN                 *)     delay   -    1    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   12              of    IN              (PP*         -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   13            what    WP            (INTJ*)        -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   14          thirty    NN              (NP*         -    -    -    Wolf_Blitzer  (DATE*             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   15            days   NNS                *))       day   -    2    Wolf_Blitzer       *)            *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   16              in    IN              (PP*         -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   17           terms   NNS           (NP(NP*)      term   -    9    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   18              of    IN              (PP*         -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   19        drafting   VBG            (S(VP*      draft  01    -    Wolf_Blitzer       *             *      *        *      (V*)          *    (37)
+bc/cnn/00/cnn_0006   2   20             the    DT              (NP*         -    -    -    Wolf_Blitzer       *             *      *        *   (ARG1*           *    (75
+bc/cnn/00/cnn_0006   2   21        proposed   VBN                 *    propose  01    -    Wolf_Blitzer       *             *      *        *        *         (V*)     -
+bc/cnn/00/cnn_0006   2   22           Iraqi    JJ                 *         -    -    -    Wolf_Blitzer   (NORP)            *      *        *        *      (ARG1*)     -
+bc/cnn/00/cnn_0006   2   23    constitution    NN   *)))))))))))))))        -    -    -    Wolf_Blitzer       *             *)     *        *)       *)   (C-ARG1*)    75)
+bc/cnn/00/cnn_0006   2   24              /.     .                *))        -    -    -    Wolf_Blitzer       *             *      *        *        *           *      -
+
+bc/cnn/00/cnn_0006   2    0          The    DT  (TOP(S(NP*         -    -   -    Wolf_Blitzer       *      *   (ARG1*   (ARG1*   (177
+bc/cnn/00/cnn_0006   2    1     deadline    NN           *)        -    -   -    Wolf_Blitzer       *      *        *)       *)   177)
+bc/cnn/00/cnn_0006   2    2          was   VBD        (VP*         be  03   -    Wolf_Blitzer       *    (V*)       *        *      -
+bc/cnn/00/cnn_0006   2    3     supposed   VBN        (VP*    suppose  02   -    Wolf_Blitzer       *      *      (V*)       *      -
+bc/cnn/00/cnn_0006   2    4           to    TO      (S(VP*         -    -   -    Wolf_Blitzer       *      *   (ARG2*        *      -
+bc/cnn/00/cnn_0006   2    5           be    VB        (VP*         be  01   2    Wolf_Blitzer       *      *        *      (V*)     -
+bc/cnn/00/cnn_0006   2    6          mid    JJ     (NP(NP*         -    -   -    Wolf_Blitzer  (DATE*      *        *   (ARG2*      -
+bc/cnn/00/cnn_0006   2    7       August   NNP           *)        -    -   -    Wolf_Blitzer       *)     *        *        *      -
+bc/cnn/00/cnn_0006   2    8       August   NNP        (NP*         -    -   -    Wolf_Blitzer  (DATE*      *        *        *   (123
+bc/cnn/00/cnn_0006   2    9    fifteenth    NN     *)))))))        -    -   -    Wolf_Blitzer       *)     *        *)       *)   123)
+bc/cnn/00/cnn_0006   2   10           /.     .          *))        -    -   -    Wolf_Blitzer       *      *        *        *      -
+
+bc/cnn/00/cnn_0006   2   0         What    WP   (TOP(SBARQ(WHNP*)          -    -   -    Wolf_Blitzer  *       (ARG2*)  -
+bc/cnn/00/cnn_0006   2   1           's   VBZ               (SQ*           be  01   1    Wolf_Blitzer  *          (V*)  -
+bc/cnn/00/cnn_0006   2   2          the    DT               (NP*           -    -   -    Wolf_Blitzer  *       (ARG1*   -
+bc/cnn/00/cnn_0006   2   3    situation    NN                  *)   situation   -   1    Wolf_Blitzer  *            *)  -
+bc/cnn/00/cnn_0006   2   4        right    RB             (ADVP*           -    -   -    Wolf_Blitzer  *   (ARGM-TMP*   -
+bc/cnn/00/cnn_0006   2   5          now    RB                 *))          -    -   -    Wolf_Blitzer  *            *)  -
+bc/cnn/00/cnn_0006   2   6           /?     .                 *))          -    -   -    Wolf_Blitzer  *            *   -
+
+bc/cnn/00/cnn_0006   2    0          Uh    UH        (TOP(S(INTJ*)        -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)            *        *      *        *       -
+bc/cnn/00/cnn_0006   2    1           I   PRP                (NP*)        -    -   -    Mowaffak_Al-Rubaie  *        (ARG0*)            *        *      *        *    (188)
+bc/cnn/00/cnn_0006   2    2       think   VBP                (VP*      think  01   1    Mowaffak_Al-Rubaie  *           (V*)            *        *      *        *       -
+bc/cnn/00/cnn_0006   2    3       there    EX         (SBAR(S(NP*)        -    -   -    Mowaffak_Al-Rubaie  *        (ARG1*             *        *      *        *       -
+bc/cnn/00/cnn_0006   2    4         are   VBP                (VP*         be  02   3    Mowaffak_Al-Rubaie  *             *           (V*)       *      *        *       -
+bc/cnn/00/cnn_0006   2    5          uh    UH              (INTJ*)        -    -   -    Mowaffak_Al-Rubaie  *             *    (ARGM-DIS*)       *      *        *       -
+bc/cnn/00/cnn_0006   2    6          uh    UH              (INTJ*)        -    -   -    Mowaffak_Al-Rubaie  *             *    (ARGM-DIS*)       *      *        *       -
+bc/cnn/00/cnn_0006   2    7        some    DT             (NP(NP*         -    -   -    Mowaffak_Al-Rubaie  *             *        (ARG1*   (ARG0*      *   (ARG1*       -
+bc/cnn/00/cnn_0006   2    8      little    JJ                   *         -    -   -    Mowaffak_Al-Rubaie  *             *             *        *      *        *       -
+bc/cnn/00/cnn_0006   2    9    problems   NNS                   *)   problem   -   1    Mowaffak_Al-Rubaie  *             *             *        *)     *        *)      -
+bc/cnn/00/cnn_0006   2   10          uh    UH              (INTJ*)        -    -   -    Mowaffak_Al-Rubaie  *             *             *        *      *        *       -
+bc/cnn/00/cnn_0006   2   11        need   VBP         (SBAR(S(VP*       need  01   2    Mowaffak_Al-Rubaie  *             *             *      (V*)     *        *       -
+bc/cnn/00/cnn_0006   2   12          to    TO              (S(VP*         -    -   -    Mowaffak_Al-Rubaie  *             *             *   (ARG1*      *        *       -
+bc/cnn/00/cnn_0006   2   13          be    VB                (VP*         be  03   -    Mowaffak_Al-Rubaie  *             *             *        *    (V*)       *       -
+bc/cnn/00/cnn_0006   2   14      ironed   VBN                (VP*       iron  01   -    Mowaffak_Al-Rubaie  *             *             *        *      *      (V*)      -
+bc/cnn/00/cnn_0006   2   15         out    RP   (PRT*)))))))))))))        -    -   -    Mowaffak_Al-Rubaie  *             *)            *)       *)     *        *       -
+bc/cnn/00/cnn_0006   2   16          /.     .                  *))        -    -   -    Mowaffak_Al-Rubaie  *             *             *        *      *        *       -
+
+bc/cnn/00/cnn_0006   2    0            And     CC       (TOP(S*            -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)            *         *         *         *       -
+bc/cnn/00/cnn_0006   2    1              I    PRP          (NP*)           -    -   -    Mowaffak_Al-Rubaie  *        (ARG0*)            *         *         *         *    (188)
+bc/cnn/00/cnn_0006   2    2        believe    VBP          (VP*       believe  01   1    Mowaffak_Al-Rubaie  *           (V*)            *         *         *         *       -
+bc/cnn/00/cnn_0006   2    3             we    PRP   (SBAR(S(NP*)           -    -   -    Mowaffak_Al-Rubaie  *        (ARG1*        (ARG0*)   (ARG1*)        *         *    (185)
+bc/cnn/00/cnn_0006   2    4           will     MD          (VP*            -    -   -    Mowaffak_Al-Rubaie  *             *    (ARGM-MOD*)        *         *         *       -
+bc/cnn/00/cnn_0006   2    5             uh     UH        (INTJ*)           -    -   -    Mowaffak_Al-Rubaie  *             *    (ARGM-DIS*)        *         *         *       -
+bc/cnn/00/cnn_0006   2    6            try     VB          (VP*           try  01   1    Mowaffak_Al-Rubaie  *             *           (V*)        *         *         *       -
+bc/cnn/00/cnn_0006   2    7            our   PRP$          (NP*            -    -   -    Mowaffak_Al-Rubaie  *             *    (ARGM-MNR*         *         *         *    (185)
+bc/cnn/00/cnn_0006   2    8          level     NN             *         level   -   2    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2    9           best     JJ             *)           -    -   -    Mowaffak_Al-Rubaie  *             *             *)        *         *         *       -
+bc/cnn/00/cnn_0006   2   10             to     TO        (S(VP*            -    -   -    Mowaffak_Al-Rubaie  *             *        (ARG1*         *         *         *       -
+bc/cnn/00/cnn_0006   2   11          stick     VB          (VP*         stick  01   3    Mowaffak_Al-Rubaie  *             *             *       (V*)        *         *       -
+bc/cnn/00/cnn_0006   2   12             to     IN          (PP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *    (ARG2*         *         *       -
+bc/cnn/00/cnn_0006   2   13            the     DT          (NP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *    (168
+bc/cnn/00/cnn_0006   2   14      timetable     NN         *)))))           -    -   -    Mowaffak_Al-Rubaie  *             *             *)        *)        *         *     168)
+bc/cnn/00/cnn_0006   2   15        because     IN        (SBAR*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   16             uh     UH        (INTJ*)           -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   17             it    PRP        (S(NP*)           -    -   -    Mowaffak_Al-Rubaie  *             *             *         *    (ARG1*)        *    (168)
+bc/cnn/00/cnn_0006   2   18             is    VBZ          (VP*            be  01   1    Mowaffak_Al-Rubaie  *             *             *         *       (V*)        *       -
+bc/cnn/00/cnn_0006   2   19           very     RB        (ADJP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *    (ARG2*         *       -
+bc/cnn/00/cnn_0006   2   20      important     JJ             *            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   21             eh     UH        (INTJ*)           -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   22            for     IN       (PP(PP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   23            the     DT       (NP(NP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   24    credibility     NN             *)           -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   25             of     IN          (PP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   26            the     DT          (NP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *     (25
+bc/cnn/00/cnn_0006   2   27     government     NN          *))))   government   -   1    Mowaffak_Al-Rubaie  *             *             *         *         *         *      25)
+bc/cnn/00/cnn_0006   2   28             uh     UH        (INTJ*)           -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   29            and     CC             *            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   30            for     IN          (PP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   31            the     DT          (NP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *    (116
+bc/cnn/00/cnn_0006   2   32      political     JJ             *            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *    (ARG1*)      -
+bc/cnn/00/cnn_0006   2   33        process     NN            *))      process  01   1    Mowaffak_Al-Rubaie  *             *             *         *         *       (V*)    116)
+bc/cnn/00/cnn_0006   2   34             as     RB        (ADVP*            -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+bc/cnn/00/cnn_0006   2   35           well     RB   *)))))))))))           -    -   -    Mowaffak_Al-Rubaie  *             *)            *         *         *)        *       -
+bc/cnn/00/cnn_0006   2   36             /.      .            *))           -    -   -    Mowaffak_Al-Rubaie  *             *             *         *         *         *       -
+
+bc/cnn/00/cnn_0006   2    0           Uh    UH   (TOP(S(INTJ*)     -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)            *       -
+bc/cnn/00/cnn_0006   2    1           so    RB         (ADVP*)     -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-ADV*)            *       -
+bc/cnn/00/cnn_0006   2    2            I   PRP           (NP*)     -    -   -    Mowaffak_Al-Rubaie  *        (ARG1*)            *    (188)
+bc/cnn/00/cnn_0006   2    3           am   VBP           (VP*      be  01   1    Mowaffak_Al-Rubaie  *           (V*)            *       -
+bc/cnn/00/cnn_0006   2    4         very    RB    (ADJP(ADVP*      -    -   -    Mowaffak_Al-Rubaie  *        (ARG2*             *       -
+bc/cnn/00/cnn_0006   2    5         much    RB              *)     -    -   -    Mowaffak_Al-Rubaie  *             *             *       -
+bc/cnn/00/cnn_0006   2    6      hopeful    JJ              *      -    -   -    Mowaffak_Al-Rubaie  *             *             *       -
+bc/cnn/00/cnn_0006   2    7         that    IN         (SBAR*      -    -   -    Mowaffak_Al-Rubaie  *             *             *       -
+bc/cnn/00/cnn_0006   2    8           we   PRP         (S(NP*)     -    -   -    Mowaffak_Al-Rubaie  *             *        (ARG0*)   (185)
+bc/cnn/00/cnn_0006   2    9         will    MD           (VP*      -    -   -    Mowaffak_Al-Rubaie  *             *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0006   2   10         meet    VB           (VP*    meet  01   4    Mowaffak_Al-Rubaie  *             *           (V*)      -
+bc/cnn/00/cnn_0006   2   11          all   PDT           (NP*      -    -   -    Mowaffak_Al-Rubaie  *             *        (ARG1*       -
+bc/cnn/00/cnn_0006   2   12        these    DT              *      -    -   -    Mowaffak_Al-Rubaie  *             *             *       -
+bc/cnn/00/cnn_0006   2   13    deadlines   NNS        *)))))))     -    -   -    Mowaffak_Al-Rubaie  *             *)            *)      -
+bc/cnn/00/cnn_0006   2   14           /.     .             *))     -    -   -    Mowaffak_Al-Rubaie  *             *             *       -
+
+bc/cnn/00/cnn_0006   2    0         Well    UH   (TOP(SQ(INTJ*)        -    -   -    Wolf_Blitzer       *    (ARGM-DIS*)            *          -
+bc/cnn/00/cnn_0006   2    1          can    MD               *         -    -   -    Wolf_Blitzer       *    (ARGM-MOD*)            *          -
+bc/cnn/00/cnn_0006   2    2          you   PRP            (NP*)        -    -   -    Wolf_Blitzer       *        (ARG0*)            *       (188)
+bc/cnn/00/cnn_0006   2    3      confirm    VB            (VP*    confirm  01   1    Wolf_Blitzer       *           (V*)            *          -
+bc/cnn/00/cnn_0006   2    4         that    IN          (SBAR*         -    -   -    Wolf_Blitzer       *        (ARG1*             *          -
+bc/cnn/00/cnn_0006   2    5          you   PRP          (S(NP*)        -    -   -    Wolf_Blitzer       *             *        (ARG0*)      (185)
+bc/cnn/00/cnn_0006   2    6         will    MD            (VP*         -    -   -    Wolf_Blitzer       *             *    (ARGM-MOD*)         -
+bc/cnn/00/cnn_0006   2    7         seek    VB            (VP*       seek  01   1    Wolf_Blitzer       *             *           (V*)      (139)
+bc/cnn/00/cnn_0006   2    8            a    DT         (NP(NP*         -    -   -    Wolf_Blitzer       *             *        (ARG1*        (41
+bc/cnn/00/cnn_0006   2    9       thirty    CD           (NML*         -    -   -    Wolf_Blitzer  (DATE*             *             *          -
+bc/cnn/00/cnn_0006   2   10          day    NN               *)        -    -   -    Wolf_Blitzer       *)            *             *          -
+bc/cnn/00/cnn_0006   2   11    extension    NN               *)        -    -   -    Wolf_Blitzer       *             *             *          -
+bc/cnn/00/cnn_0006   2   12       beyond    IN            (PP*         -    -   -    Wolf_Blitzer       *             *             *          -
+bc/cnn/00/cnn_0006   2   13       August   NNP            (NP*         -    -   -    Wolf_Blitzer  (DATE*             *             *       (123
+bc/cnn/00/cnn_0006   2   14    fifteenth    NN        *))))))))        -    -   -    Wolf_Blitzer       *)            *)            *)   123)|41)
+bc/cnn/00/cnn_0006   2   15           /?     .              *))        -    -   -    Wolf_Blitzer       *             *             *          -
+
+bc/cnn/00/cnn_0006   2   0          Is   VBZ  (TOP(SQ*    be  01   1    Wolf_Blitzer  *           (V*)      -
+bc/cnn/00/cnn_0006   2   1        that    DT      (NP*)   -    -   -    Wolf_Blitzer  *        (ARG1*)   (139)
+bc/cnn/00/cnn_0006   2   2     already    RB    (ADVP*)   -    -   -    Wolf_Blitzer  *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0006   2   3    official    JJ    (ADJP*)   -    -   -    Wolf_Blitzer  *        (ARG2*)      -
+bc/cnn/00/cnn_0006   2   4          /?     .        *))   -    -   -    Wolf_Blitzer  *             *       -
+
+bc/cnn/00/cnn_0006   2    0                Uh    UH   (TOP(S(INTJ*)         -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2    1              well    UH         (INTJ*)         -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2    2                uh    UH         (INTJ*)         -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2    3               the    DT           (NP*          -    -   -    Mowaffak_Al-Rubaie  *      *        (ARG0*    (185
+bc/cnn/00/cnn_0006   2    4    constitutional    JJ              *          -    -   -    Mowaffak_Al-Rubaie  *      *             *       -
+bc/cnn/00/cnn_0006   2    5         committee    NN              *)         -    -   -    Mowaffak_Al-Rubaie  *      *             *)    185)
+bc/cnn/00/cnn_0006   2    6               has   VBZ           (VP*        have  01   -    Mowaffak_Al-Rubaie  *    (V*)            *       -
+bc/cnn/00/cnn_0006   2    7               not    RB              *          -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0006   2    8         finalized   VBN           (VP*    finalize  01   -    Mowaffak_Al-Rubaie  *      *           (V*)      -
+bc/cnn/00/cnn_0006   2    9              this    DT           (NP*)         -    -   -    Mowaffak_Al-Rubaie  *      *        (ARG1*)   (139)
+bc/cnn/00/cnn_0006   2   10               yet    RB       (ADVP*)))         -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0006   2   11                /.     .             *))         -    -   -    Mowaffak_Al-Rubaie  *      *             *       -
+
+bc/cnn/00/cnn_0006   2    0           And    CC           (TOP(S*           -    -      -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)     *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2    1            uh    UH            (INTJ*)          -    -      -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)     *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2    2             I   PRP              (NP*)          -    -      -    Mowaffak_Al-Rubaie  *        (ARG0*)     *         *             *             *        *      *             *    (188)
+bc/cnn/00/cnn_0006   2    3       believe   VBP              (VP*      believe  01      1    Mowaffak_Al-Rubaie  *           (V*)     *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2    4            uh    UH            (INTJ*)          -    -      -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)     *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2    5            uh    UH     (SBAR(S(INTJ*)          -    -      -    Mowaffak_Al-Rubaie  *        (ARG1*      *         *             *    (ARGM-DIS*)       *      *             *       -
+bc/cnn/00/cnn_0006   2    6            uh    UH            (INTJ*)          -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *    (ARGM-DIS*)       *      *             *       -
+bc/cnn/00/cnn_0006   2    7            if    IN            (SBAR*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *    (ARGM-ADV*        *      *             *       -
+bc/cnn/00/cnn_0006   2    8            it   PRP            (S(NP*)          -    -      -    Mowaffak_Al-Rubaie  *             *      *    (ARG1*)            *             *        *      *             *     (47)
+bc/cnn/00/cnn_0006   2    9            is   VBZ              (VP*           be  03      -    Mowaffak_Al-Rubaie  *             *    (V*)        *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2   10       delayed   VBN           (VP*))))       delay  01      -    Mowaffak_Al-Rubaie  *             *      *       (V*)            *             *)       *      *             *     (41)
+bc/cnn/00/cnn_0006   2   11           the    DT           (NP(NP*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *        (ARG1*        *      *             *       -
+bc/cnn/00/cnn_0006   2   12            uh    UH                 *           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *    (ARGM-DIS*)            *        *      *             *       -
+bc/cnn/00/cnn_0006   2   13     intention    NN                 *)   intention  01      1    Mowaffak_Al-Rubaie  *             *      *         *           (V*)            *        *      *             *       -
+bc/cnn/00/cnn_0006   2   14            of    IN              (PP*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *        (ARG0*             *        *      *             *       -
+bc/cnn/00/cnn_0006   2   15            it   PRP            (NP*)))          -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *)            *)       *      *             *     (41)
+bc/cnn/00/cnn_0006   2   16            is   VBZ              (VP*           be  01      2    Mowaffak_Al-Rubaie  *             *      *         *             *           (V*)       *      *             *       -
+bc/cnn/00/cnn_0006   2   17            to    TO            (S(VP*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *        (ARG2*        *      *             *       -
+bc/cnn/00/cnn_0006   2   18       include    VB              (VP*      include  01      2    Mowaffak_Al-Rubaie  *             *      *         *             *             *      (V*)     *             *       -
+bc/cnn/00/cnn_0006   2   19           all    DT           (NP(NP*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *   (ARG1*      *             *       -
+bc/cnn/00/cnn_0006   2   20       parties   NNS                 *)          -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2   21    especially    RB         (NP(ADVP*)          -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2   22         those    DT              (NP*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *        (ARG0*       -
+bc/cnn/00/cnn_0006   2   23     political    JJ                 *           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2   24       parties   NNS                 *)          -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *             *)      -
+bc/cnn/00/cnn_0006   2   25           who    WP       (SBAR(WHNP*)          -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *      (R-ARG0*)      -
+bc/cnn/00/cnn_0006   2   26          have   VBP            (S(VP*         have  01      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *    (V*)            *       -
+bc/cnn/00/cnn_0006   2   27           not    RB                 *           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0006   2   28         taken   VBN              (VP*         take  01   14.1    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *           (V*)      -
+bc/cnn/00/cnn_0006   2   29          part    NN              (NP*)        part   -      3    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *        (ARG1*)      -
+bc/cnn/00/cnn_0006   2   30            in    IN              (PP*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *        (ARG2*       -
+bc/cnn/00/cnn_0006   2   31           the    DT              (NP*           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2   32          last    JJ                 *           -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *             *       -
+bc/cnn/00/cnn_0006   2   33      election    NN   *)))))))))))))))    election   -      1    Mowaffak_Al-Rubaie  *             *)     *         *             *             *)       *)     *             *)      -
+bc/cnn/00/cnn_0006   2   34            /.     .                *))          -    -      -    Mowaffak_Al-Rubaie  *             *      *         *             *             *        *      *             *       -
+
+bc/cnn/00/cnn_0006   2    0          You    PRP   (TOP(S(NP*)      -    -   -    Wolf_Blitzer       *      *    (ARG0*)       (188)
+bc/cnn/00/cnn_0006   2    1          're    VBP         (VP*       be  03   -    Wolf_Blitzer       *    (V*)        *           -
+bc/cnn/00/cnn_0006   2    2    referring    VBG         (VP*    refer  01   2    Wolf_Blitzer       *      *       (V*)          -
+bc/cnn/00/cnn_0006   2    3           to     IN         (PP*       -    -   -    Wolf_Blitzer       *      *    (ARG1*           -
+bc/cnn/00/cnn_0006   2    4          the     DT      (NP(NP*       -    -   -    Wolf_Blitzer  (NORP*      *         *         (65
+bc/cnn/00/cnn_0006   2    5        Iraqi     JJ            *       -    -   -    Wolf_Blitzer       *      *         *           -
+bc/cnn/00/cnn_0006   2    6       Sunnis   NNPS            *)      -    -   -    Wolf_Blitzer       *)     *         *           -
+bc/cnn/00/cnn_0006   2    7          The     DT      (NP(NP*       -    -   -    Wolf_Blitzer       *      *         *           -
+bc/cnn/00/cnn_0006   2    8     minority     NN            *)      -    -   -    Wolf_Blitzer       *      *         *           -
+bc/cnn/00/cnn_0006   2    9           uh     UH       (INTJ*)      -    -   -    Wolf_Blitzer       *      *         *           -
+bc/cnn/00/cnn_0006   2   10           in     IN         (PP*       -    -   -    Wolf_Blitzer       *      *         *           -
+bc/cnn/00/cnn_0006   2   11         Iraq    NNP   (NP*)))))))      -    -   -    Wolf_Blitzer    (GPE)     *         *)   (101)|65)
+bc/cnn/00/cnn_0006   2   12           /.      .           *))      -    -   -    Wolf_Blitzer       *      *         *           -
+
+bc/cnn/00/cnn_0006   2    0         Uh    UH   (TOP(SBARQ(INTJ*)        -    -   -    Wolf_Blitzer  *         *      *           *      *     -
+bc/cnn/00/cnn_0006   2    1       what    WP             (WHNP*)        -    -   -    Wolf_Blitzer  *    (ARG2*)     *           *      *     -
+bc/cnn/00/cnn_0006   2    2         is   VBZ               (SQ*         be  01   2    Wolf_Blitzer  *       (V*)     *           *      *     -
+bc/cnn/00/cnn_0006   2    3        the    DT            (NP(NP*         -    -   -    Wolf_Blitzer  *    (ARG1*      *      (ARG0*      *     -
+bc/cnn/00/cnn_0006   2    4      major    JJ                  *         -    -   -    Wolf_Blitzer  *         *      *           *      *     -
+bc/cnn/00/cnn_0006   2    5    problem    NN                  *)   problem   -   1    Wolf_Blitzer  *         *      *           *)     *     -
+bc/cnn/00/cnn_0006   2    6       that   WDT        (SBAR(WHNP*)        -    -   -    Wolf_Blitzer  *         *      *    (R-ARG0*)     *     -
+bc/cnn/00/cnn_0006   2    7         's   VBZ             (S(VP*         be  03   9    Wolf_Blitzer  *         *    (V*)          *      *     -
+bc/cnn/00/cnn_0006   2    8    forcing   VBG               (VP*      force  02   1    Wolf_Blitzer  *         *      *         (V*)     *     -
+bc/cnn/00/cnn_0006   2    9       this    DT               (NP*         -    -   -    Wolf_Blitzer  *         *      *      (ARG1*      *   (41
+bc/cnn/00/cnn_0006   2   10      delay    NN            *)))))))     delay  01   2    Wolf_Blitzer  *         *)     *           *)   (V*)   41)
+bc/cnn/00/cnn_0006   2   11         /?     .                 *))        -    -   -    Wolf_Blitzer  *         *      *           *      *     -
+
+bc/cnn/00/cnn_0006   2    0           Uh     UH    (TOP(S(INTJ*)          -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2    1         well     UH          (INTJ*)          -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2    2           uh     UH          (INTJ*)          -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2    3         Wolf    NNP            (NP*)          -    -   -    Mowaffak_Al-Rubaie   (PERSON)     *            *      *     (36)
+bc/cnn/00/cnn_0006   2    4         they    PRP            (NP*)          -    -   -    Mowaffak_Al-Rubaie         *      *            *      *    (185)
+bc/cnn/00/cnn_0006   2    5          are    VBP            (VP*           be  03   9    Mowaffak_Al-Rubaie         *    (V*)           *      *       -
+bc/cnn/00/cnn_0006   2    6         fine     RB            (VP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2    7           -    HYPH               *           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2    8       tuning    VBG               *       tuning   -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2    9           on     IN            (PP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   10          the     DT         (NP(NP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   11        issue     NN               *)       issue   -   1    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   12           of     IN            (PP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   13           uh     UH          (INTJ*)          -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   14          the     DT      (NP(NP(NP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   15       extent     NN               *)      extent   -   3    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   16           of     IN            (PP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   17          the     DT         (NP(NP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   18    authority     NN               *)   authority   -   1    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   19           of     IN            (PP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   20          the     DT            (NP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   21      federal     JJ               *           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   22        state     NN           *)))))       state   -   2    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   23          and     CC               *           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   24         what     WP    (SBARQ(WHNP*)          -    -   -    Mowaffak_Al-Rubaie         *      *       (ARG2*)     *       -
+bc/cnn/00/cnn_0006   2   25          are    VBP            (SQ*           be  01   1    Mowaffak_Al-Rubaie         *      *          (V*)     *       -
+bc/cnn/00/cnn_0006   2   26          the     DT         (NP(NP*           -    -   -    Mowaffak_Al-Rubaie         *      *       (ARG1*      *       -
+bc/cnn/00/cnn_0006   2   27         role     NN               *)        role   -   1    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   28           of     IN            (PP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   29          the     DT            (NP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   30       center     NN             *)))      center   -   2    Mowaffak_Al-Rubaie         *      *            *)     *       -
+bc/cnn/00/cnn_0006   2   31           as     IN          (SBAR*           -    -   -    Mowaffak_Al-Rubaie         *      *   (ARGM-ADV*      *       -
+bc/cnn/00/cnn_0006   2   32      opposed    VBN          (S(VP*       oppose  01   -    Mowaffak_Al-Rubaie         *      *            *    (V*)      -
+bc/cnn/00/cnn_0006   2   33           to     IN            (PP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   34          the     DT            (NP*           -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+bc/cnn/00/cnn_0006   2   35      regions    NNS   *)))))))))))))      region   -   7    Mowaffak_Al-Rubaie         *      *            *)     *       -
+bc/cnn/00/cnn_0006   2   36           /.      .              *))          -    -   -    Mowaffak_Al-Rubaie         *      *            *      *       -
+
+bc/cnn/00/cnn_0006   2    0         And    CC   (TOP(S*      -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0006   2    1        also    RB    (ADVP*)     -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0006   2    2         the    DT   (NP(NP*      -    -   -    Mowaffak_Al-Rubaie  *        (ARG1*   (128
+bc/cnn/00/cnn_0006   2    3        role    NN         *)   role   -   1    Mowaffak_Al-Rubaie  *             *      -
+bc/cnn/00/cnn_0006   2    4          of    IN      (PP*      -    -   -    Mowaffak_Al-Rubaie  *             *      -
+bc/cnn/00/cnn_0006   2    5          uh    UH    (INTJ*)     -    -   -    Mowaffak_Al-Rubaie  *             *      -
+bc/cnn/00/cnn_0006   2    6          uh    UH    (INTJ*)     -    -   -    Mowaffak_Al-Rubaie  *             *      -
+bc/cnn/00/cnn_0006   2    7    religion    NN    (NP*)))     -    -   -    Mowaffak_Al-Rubaie  *             *)   128)
+bc/cnn/00/cnn_0006   2    8          is   VBZ      (VP*      be  01   -    Mowaffak_Al-Rubaie  *           (V*)     -
+bc/cnn/00/cnn_0006   2    9       still    RB   (ADVP*))     -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0006   2   10         /-      .        *))     -    -   -    Mowaffak_Al-Rubaie  *             *      -
+
+bc/cnn/00/cnn_0006   2    0       There     EX   (TOP(S(NP*)       -    -     -    Mowaffak_Al-Rubaie  *            *         *            -
+bc/cnn/00/cnn_0006   2    1          's    VBZ         (VP*        be  02     3    Mowaffak_Al-Rubaie  *          (V*)        *            -
+bc/cnn/00/cnn_0006   2    2        some     DT      (NP(NP*        -    -     -    Mowaffak_Al-Rubaie  *       (ARG1*         *            -
+bc/cnn/00/cnn_0006   2    3        fine     JJ            *        -    -     -    Mowaffak_Al-Rubaie  *            *         *            -
+bc/cnn/00/cnn_0006   2    4      tuning     NN            *)     tune   -     -    Mowaffak_Al-Rubaie  *            *         *            -
+bc/cnn/00/cnn_0006   2    5          on     IN         (PP*        -    -     -    Mowaffak_Al-Rubaie  *            *         *            -
+bc/cnn/00/cnn_0006   2    6         the     DT         (NP*        -    -     -    Mowaffak_Al-Rubaie  *            *         *          (37
+bc/cnn/00/cnn_0006   2    7    drafting     NN          *)))    draft   -     -    Mowaffak_Al-Rubaie  *            *)        *           37)
+bc/cnn/00/cnn_0006   2    8      before     IN       (SBAR*        -    -     -    Mowaffak_Al-Rubaie  *   (ARGM-TMP*         *            -
+bc/cnn/00/cnn_0006   2    9          we    PRP       (S(NP*)       -    -     -    Mowaffak_Al-Rubaie  *            *    (ARG0*)        (185)
+bc/cnn/00/cnn_0006   2   10         put    VBD         (VP*       put  01   7.1    Mowaffak_Al-Rubaie  *            *       (V*)           -
+bc/cnn/00/cnn_0006   2   11          it    PRP         (NP*)       -    -     -    Mowaffak_Al-Rubaie  *            *    (ARG1*)         (75)
+bc/cnn/00/cnn_0006   2   12     forward     RB       (ADVP*        -    -     -    Mowaffak_Al-Rubaie  *            *    (ARG2*            -
+bc/cnn/00/cnn_0006   2   13          to     IN         (PP*        -    -     -    Mowaffak_Al-Rubaie  *            *         *            -
+bc/cnn/00/cnn_0006   2   14         our   PRP$         (NP*        -    -     -    Mowaffak_Al-Rubaie  *            *         *    (173|(101)
+bc/cnn/00/cnn_0006   2   15      people    NNS      *)))))))   people   -     2    Mowaffak_Al-Rubaie  *            *)        *)         173)
+bc/cnn/00/cnn_0006   2   16          /.      .           *))       -    -     -    Mowaffak_Al-Rubaie  *            *         *            -
+
+bc/cnn/00/cnn_0006   2    0           And    CC     (TOP(S*            -    -   -    Mowaffak_Al-Rubaie       *      *             *        *   -
+bc/cnn/00/cnn_0006   2    1             a    DT  (NP(NP(NP*            -    -   -    Mowaffak_Al-Rubaie  (DATE*      *             *   (ARG0*   -
+bc/cnn/00/cnn_0006   2    2        couple    NN           *)       couple   -   1    Mowaffak_Al-Rubaie       *      *             *        *   -
+bc/cnn/00/cnn_0006   2    3            of    IN        (PP*            -    -   -    Mowaffak_Al-Rubaie       *      *             *        *   -
+bc/cnn/00/cnn_0006   2    4          days   NNS      (NP*)))          day   -   2    Mowaffak_Al-Rubaie       *)     *             *        *   -
+bc/cnn/00/cnn_0006   2    5             a    DT        (NP*            -    -   -    Mowaffak_Al-Rubaie  (DATE*      *             *        *   -
+bc/cnn/00/cnn_0006   2    6           few    JJ           *            -    -   -    Mowaffak_Al-Rubaie       *      *             *        *   -
+bc/cnn/00/cnn_0006   2    7          days   NNS          *))          day   -   2    Mowaffak_Al-Rubaie       *)     *             *        *)  -
+bc/cnn/00/cnn_0006   2    8            is   VBZ        (VP*            be  03   -    Mowaffak_Al-Rubaie       *    (V*)            *        *   -
+bc/cnn/00/cnn_0006   2    9           not    RB           *            -    -   -    Mowaffak_Al-Rubaie       *      *    (ARGM-NEG*)       *   -
+bc/cnn/00/cnn_0006   2   10         going   VBG        (VP*            go  04   7    Mowaffak_Al-Rubaie       *      *           (V*)       *   -
+bc/cnn/00/cnn_0006   2   11            to    TO      (S(VP*            -    -   -    Mowaffak_Al-Rubaie       *      *             *        *   -
+bc/cnn/00/cnn_0006   2   12          make    VB        (VP*          make  01   6    Mowaffak_Al-Rubaie       *      *             *      (V*)  -
+bc/cnn/00/cnn_0006   2   13             a    DT        (NP*            -    -   -    Mowaffak_Al-Rubaie       *      *             *   (ARG1*   -
+bc/cnn/00/cnn_0006   2   14          huge    JJ           *            -    -   -    Mowaffak_Al-Rubaie       *      *             *        *   -
+bc/cnn/00/cnn_0006   2   15    difference    NN      *))))))   difference   -   4    Mowaffak_Al-Rubaie       *      *             *        *)  -
+bc/cnn/00/cnn_0006   2   16            /.     .          *))           -    -   -    Mowaffak_Al-Rubaie       *      *             *        *   -
+
+bc/cnn/00/cnn_0006   2    0            I    PRP    (TOP(S(NP*)        -    -   -    Mowaffak_Al-Rubaie       *    (ARG0*)        *             *        *         *        (188)
+bc/cnn/00/cnn_0006   2    1        think    VBP          (VP*      think  01   1    Mowaffak_Al-Rubaie       *       (V*)        *             *        *         *           -
+bc/cnn/00/cnn_0006   2    2           we    PRP   (SBAR(S(NP*)        -    -   -    Mowaffak_Al-Rubaie       *    (ARG1*    (ARG0*)       (ARG0*)       *         *        (101)
+bc/cnn/00/cnn_0006   2    3         need    VBP          (VP*       need  01   2    Mowaffak_Al-Rubaie       *         *       (V*)            *        *         *           -
+bc/cnn/00/cnn_0006   2    4           to     TO        (S(VP*         -    -   -    Mowaffak_Al-Rubaie       *         *    (ARG1*             *        *         *           -
+bc/cnn/00/cnn_0006   2    5           uh     UH        (INTJ*)        -    -   -    Mowaffak_Al-Rubaie       *         *         *    (ARGM-DIS*)       *         *           -
+bc/cnn/00/cnn_0006   2    6          get     VB          (VP*        get  04   3    Mowaffak_Al-Rubaie       *         *         *           (V*)       *         *           -
+bc/cnn/00/cnn_0006   2    7          our   PRP$        (S(NP*         -    -   -    Mowaffak_Al-Rubaie       *         *         *        (ARG1*   (ARG1*         *    (65|(101)
+bc/cnn/00/cnn_0006   2    8        Sunni    NNP             *         -    -   -    Mowaffak_Al-Rubaie  (NORP*         *         *             *        *         *           -
+bc/cnn/00/cnn_0006   2    9           uh     UH             *         -    -   -    Mowaffak_Al-Rubaie       *         *         *             *        *         *           -
+bc/cnn/00/cnn_0006   2   10        Arabs   NNPS             *)        -    -   -    Mowaffak_Al-Rubaie       *)        *         *             *        *)        *          65)
+bc/cnn/00/cnn_0006   2   11     included    VBN          (VP*    include  01   2    Mowaffak_Al-Rubaie       *         *         *             *      (V*)        *           -
+bc/cnn/00/cnn_0006   2   12           in     IN          (PP*         -    -   -    Mowaffak_Al-Rubaie       *         *         *             *   (ARG2*         *           -
+bc/cnn/00/cnn_0006   2   13          the     DT          (NP*         -    -   -    Mowaffak_Al-Rubaie       *         *         *             *        *         *        (116
+bc/cnn/00/cnn_0006   2   14    political     JJ             *         -    -   -    Mowaffak_Al-Rubaie       *         *         *             *        *    (ARG1*)          -
+bc/cnn/00/cnn_0006   2   15      process     NN   *)))))))))))   process  01   1    Mowaffak_Al-Rubaie       *         *)        *)            *)       *)      (V*)        116)
+bc/cnn/00/cnn_0006   2   16           /.      .            *))        -    -   -    Mowaffak_Al-Rubaie       *         *         *             *        *         *           -
+
+bc/cnn/00/cnn_0006   2    0         It   PRP   (TOP(S(NP*)        -    -   -    Mowaffak_Al-Rubaie       *    (ARG1*)   (65)
+bc/cnn/00/cnn_0006   2    1         is   VBZ         (VP*         be  01   1    Mowaffak_Al-Rubaie       *       (V*)     -
+bc/cnn/00/cnn_0006   2    2    pivotal    JJ      (NP(NP*         -    -   -    Mowaffak_Al-Rubaie       *    (ARG2*      -
+bc/cnn/00/cnn_0006   2    3       part    NN            *)      part   -   1    Mowaffak_Al-Rubaie       *         *      -
+bc/cnn/00/cnn_0006   2    4         of    IN         (PP*         -    -   -    Mowaffak_Al-Rubaie       *         *      -
+bc/cnn/00/cnn_0006   2    5        the    DT         (NP*         -    -   -    Mowaffak_Al-Rubaie       *         *      -
+bc/cnn/00/cnn_0006   2    6         uh    UH            *         -    -   -    Mowaffak_Al-Rubaie       *         *      -
+bc/cnn/00/cnn_0006   2    7         uh    UH            *         -    -   -    Mowaffak_Al-Rubaie       *         *      -
+bc/cnn/00/cnn_0006   2    8      Iraqi    JJ            *         -    -   -    Mowaffak_Al-Rubaie   (NORP)        *      -
+bc/cnn/00/cnn_0006   2    9    society    NN         *))))   society   -   1    Mowaffak_Al-Rubaie       *         *)     -
+bc/cnn/00/cnn_0006   2   10         /.     .           *))        -    -   -    Mowaffak_Al-Rubaie       *         *      -
+
+bc/cnn/00/cnn_0006   2    0             and     CC      (TOP(S*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2    1              if     IN       (SBAR*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *   (ARGM-ADV*         *          -
+bc/cnn/00/cnn_0006   2    2              we    PRP       (S(NP*)        -    -   -    Mowaffak_Al-Rubaie      *    (ARG0*)   (ARG0*)            *            *         *          -
+bc/cnn/00/cnn_0006   2    3            want    VBP         (VP*       want  01   1    Mowaffak_Al-Rubaie      *       (V*)        *             *            *         *          -
+bc/cnn/00/cnn_0006   2    4              to     TO     (S(S(VP*         -    -   -    Mowaffak_Al-Rubaie      *    (ARG1*         *             *            *         *          -
+bc/cnn/00/cnn_0006   2    5             get     VB         (VP*        get  01   3    Mowaffak_Al-Rubaie      *         *       (V*)            *            *         *          -
+bc/cnn/00/cnn_0006   2    6             the     DT         (NP*         -    -   -    Mowaffak_Al-Rubaie      *         *    (ARG1*             *            *         *          -
+bc/cnn/00/cnn_0006   2    7      referendum     NN         *))))        -    -   -    Mowaffak_Al-Rubaie      *         *         *)            *            *         *          -
+bc/cnn/00/cnn_0006   2    8              uh     UH       (INTJ*)        -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2    9              uh     UH       (INTJ*)        -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   10             and     CC            *         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   11             our   PRP$       (S(NP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *        (ARG0*            *         *       (173
+bc/cnn/00/cnn_0006   2   12          people    NNS            *)    people   -   2    Mowaffak_Al-Rubaie      *         *         *             *)           *         *        173)
+bc/cnn/00/cnn_0006   2   13              to     TO         (VP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   14          ratify     VB         (VP*     ratify  01   1    Mowaffak_Al-Rubaie      *         *         *           (V*)           *         *          -
+bc/cnn/00/cnn_0006   2   15              uh     UH       (INTJ*)        -    -   -    Mowaffak_Al-Rubaie      *         *         *    (ARGM-DIS*)           *         *          -
+bc/cnn/00/cnn_0006   2   16             our   PRP$      (NP(NP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *        (ARG1*            *         *        (47
+bc/cnn/00/cnn_0006   2   17           draft     NN            *)     draft   -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   18              of     IN         (PP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   19    constitution     NN       (NP*)))        -    -   -    Mowaffak_Al-Rubaie      *         *         *             *)           *         *    (75)|47)
+bc/cnn/00/cnn_0006   2   20              in     IN         (PP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *    (ARGM-TMP*            *         *          -
+bc/cnn/00/cnn_0006   2   21             the     DT         (NP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   22            next     JJ            *         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   23      referendum     NN    *)))))))))        -    -   -    Mowaffak_Al-Rubaie      *         *)        *             *)           *)        *          -
+bc/cnn/00/cnn_0006   2   24              we    PRP         (NP*)        -    -   -    Mowaffak_Al-Rubaie      *         *         *             *       (ARG0*)   (ARG0*)      (185)
+bc/cnn/00/cnn_0006   2   25            need    VBP         (VP*       need  01   2    Mowaffak_Al-Rubaie      *         *         *             *          (V*)        *          -
+bc/cnn/00/cnn_0006   2   26              to     TO       (S(VP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *       (ARG1*         *          -
+bc/cnn/00/cnn_0006   2   27         include     VB         (VP*    include  01   2    Mowaffak_Al-Rubaie      *         *         *             *            *       (V*)         -
+bc/cnn/00/cnn_0006   2   28           every     DT      (NP(NP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *    (ARG1*          -
+bc/cnn/00/cnn_0006   2   29            part     NN            *)      part   -   1    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   30              of     IN         (PP*         -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+bc/cnn/00/cnn_0006   2   31            Iraq    NNP   (NP*)))))))        -    -   -    Mowaffak_Al-Rubaie   (GPE)        *         *             *            *)        *)      (101)
+bc/cnn/00/cnn_0006   2   32              /.      .           *))        -    -   -    Mowaffak_Al-Rubaie      *         *         *             *            *         *          -
+
+bc/cnn/00/cnn_0006   2    0              As    IN  (TOP(SQ(SBAR*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2    1             you   PRP         (S(NP*)       -    -   -    Wolf_Blitzer       *    (ARG0*)            *      *         *             *      (188)
+bc/cnn/00/cnn_0006   2    2            know   VBP           (VP*      know  01   1    Wolf_Blitzer       *       (V*)            *      *         *             *         -
+bc/cnn/00/cnn_0006   2    3            that    IN         (SBAR*        -    -   -    Wolf_Blitzer       *    (ARG1*             *      *         *             *         -
+bc/cnn/00/cnn_0006   2    4           under    IN         (S(PP*        -    -   -    Wolf_Blitzer       *         *    (ARGM-LOC*      *         *             *         -
+bc/cnn/00/cnn_0006   2    5             the    DT        (NP(NP*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2    6           terms   NNS              *)     term   -   3    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2    7              of    IN           (PP*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2    8              uh    UH         (INTJ*)       -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2    9             the    DT           (NP*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2   10             law    NN           *))))      law   -   1    Wolf_Blitzer       *         *             *)     *         *             *         -
+bc/cnn/00/cnn_0006   2   11             you   PRP           (NP*)       -    -   -    Wolf_Blitzer       *         *        (ARG0*)     *         *             *         -
+bc/cnn/00/cnn_0006   2   12           could    MD           (VP*        -    -   -    Wolf_Blitzer       *         *    (ARGM-MOD*)     *         *             *         -
+bc/cnn/00/cnn_0006   2   13          extend    VB           (VP*    extend  01   2    Wolf_Blitzer       *         *           (V*)     *         *             *      (148)
+bc/cnn/00/cnn_0006   2   14            this    DT        (NP(NP*        -    -   -    Wolf_Blitzer       *         *        (ARG1*      *         *             *       (37
+bc/cnn/00/cnn_0006   2   15        drafting    NN              *)    draft   -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2   16              of    IN           (PP*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2   17             the    DT           (NP*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *       (75
+bc/cnn/00/cnn_0006   2   18    constitution    NN            *)))       -    -   -    Wolf_Blitzer       *         *             *)     *         *             *    75)|37)
+bc/cnn/00/cnn_0006   2   19             for    IN           (PP*        -    -   -    Wolf_Blitzer       *         *        (ARG2*      *         *             *         -
+bc/cnn/00/cnn_0006   2   20             six    CD        (NP(NP*        -    -   -    Wolf_Blitzer  (DATE*         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2   21          months   NNS              *)    month   -   2    Wolf_Blitzer       *)        *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2   22          beyond    IN           (PP*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2   23             the    DT           (NP*        -    -   -    Wolf_Blitzer       *         *             *      *         *             *      (177
+bc/cnn/00/cnn_0006   2   24          August   NNP          (NML*        -    -   -    Wolf_Blitzer  (DATE*         *             *      *         *             *      (123
+bc/cnn/00/cnn_0006   2   25       fifteenth    NN              *)       -    -   -    Wolf_Blitzer       *)        *             *      *         *             *       123)
+bc/cnn/00/cnn_0006   2   26        deadline    NN    *)))))))))))       -    -   -    Wolf_Blitzer       *         *)            *)     *         *             *       177)
+bc/cnn/00/cnn_0006   2   27              do   VBP              *        do  01   -    Wolf_Blitzer       *         *             *    (V*)        *             *         -
+bc/cnn/00/cnn_0006   2   28             you   PRP           (NP*)       -    -   -    Wolf_Blitzer       *         *             *      *    (ARG0*)            *      (188)
+bc/cnn/00/cnn_0006   2   29           think    VB           (VP*     think  01   1    Wolf_Blitzer       *         *             *      *       (V*)            *         -
+bc/cnn/00/cnn_0006   2   30            that    DT    (SBAR(S(NP*)       -    -   -    Wolf_Blitzer       *         *             *      *    (ARG1*        (ARG1*)     (148)
+bc/cnn/00/cnn_0006   2   31           might    MD           (VP*        -    -   -    Wolf_Blitzer       *         *             *      *         *    (ARGM-MOD*)        -
+bc/cnn/00/cnn_0006   2   32              be    VB           (VP*        be  01   1    Wolf_Blitzer       *         *             *      *         *           (V*)        -
+bc/cnn/00/cnn_0006   2   33       necessary    JJ         (ADJP*)       -    -   -    Wolf_Blitzer       *         *             *      *         *        (ARG2*)        -
+bc/cnn/00/cnn_0006   2   34          beyond    IN           (PP*        -    -   -    Wolf_Blitzer       *         *             *      *         *    (ARGM-TMP*         -
+bc/cnn/00/cnn_0006   2   35             the    DT           (NP*        -    -   -    Wolf_Blitzer  (DATE*         *             *      *         *             *       (41
+bc/cnn/00/cnn_0006   2   36          thirty    CD              *        -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+bc/cnn/00/cnn_0006   2   37            days   NNS        *)))))))      day   -   2    Wolf_Blitzer       *)        *             *      *         *)            *)       41)
+bc/cnn/00/cnn_0006   2   38              /?     .             *))       -    -   -    Wolf_Blitzer       *         *             *      *         *             *         -
+
+bc/cnn/00/cnn_0006   2    0            Uh    UH   (TOP(S(INTJ*)        -    -   -    Wolf_Blitzer       *    (ARGM-DIS*)     *          *      *             *       -
+bc/cnn/00/cnn_0006   2    1             I   PRP           (NP*)        -    -   -    Wolf_Blitzer       *        (ARG0*)     *          *      *             *     (36)
+bc/cnn/00/cnn_0006   2    2        assume   VBP           (VP*     assume  02   1    Wolf_Blitzer       *           (V*)     *          *      *             *       -
+bc/cnn/00/cnn_0006   2    3           you   PRP    (SBAR(S(NP*)        -    -   -    Wolf_Blitzer       *        (ARG1*      *     (ARG0*)     *             *    (188)
+bc/cnn/00/cnn_0006   2    4           're   VBP           (VP*         be  03   -    Wolf_Blitzer       *             *    (V*)         *      *             *       -
+bc/cnn/00/cnn_0006   2    5    confirming   VBG           (VP*    confirm  01   1    Wolf_Blitzer       *             *      *        (V*)     *             *       -
+bc/cnn/00/cnn_0006   2    6          that    IN         (SBAR*         -    -   -    Wolf_Blitzer       *             *      *     (ARG1*      *             *       -
+bc/cnn/00/cnn_0006   2    7           the    DT      (S(NP(NP*         -    -   -    Wolf_Blitzer  (DATE*             *      *          *      *        (ARG1*     (41
+bc/cnn/00/cnn_0006   2    8        thirty    CD              *         -    -   -    Wolf_Blitzer       *             *      *          *      *             *       -
+bc/cnn/00/cnn_0006   2    9          days   NNS             *))       day   -   2    Wolf_Blitzer       *)            *      *          *      *             *)     41)
+bc/cnn/00/cnn_0006   2   10            uh    UH         (INTJ*)        -    -   -    Wolf_Blitzer       *             *      *          *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2   11          will    MD           (VP*         -    -   -    Wolf_Blitzer       *             *      *          *      *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0006   2   12            be    VB           (VP*         be  03   -    Wolf_Blitzer       *             *      *          *    (V*)            *       -
+bc/cnn/00/cnn_0006   2   13      required   VBN         (VP*)))   require  01   -    Wolf_Blitzer       *             *      *          *      *           (V*)      -
+bc/cnn/00/cnn_0006   2   14            an    DT           (NP*         -    -   -    Wolf_Blitzer  (DATE*      (C-ARG1*      *   (C-ARG1*      *             *     (41
+bc/cnn/00/cnn_0006   2   15    additional    JJ              *         -    -   -    Wolf_Blitzer       *             *      *          *      *             *       -
+bc/cnn/00/cnn_0006   2   16        thirty    CD              *         -    -   -    Wolf_Blitzer       *             *      *          *      *             *       -
+bc/cnn/00/cnn_0006   2   17          days   NNS       *))))))))       day   -   2    Wolf_Blitzer       *)           *))     *         *))     *             *      41)
+bc/cnn/00/cnn_0006   2   18            /.     .             *))        -    -   -    Wolf_Blitzer       *             *      *          *      *             *       -
+
+bc/cnn/00/cnn_0006   2    0          but    CC   (TOP(SQ*       -    -    -    Wolf_Blitzer       *    (ARGM-DIS*)       *   -
+bc/cnn/00/cnn_0006   2    1        would    MD          *       -    -    -    Wolf_Blitzer       *    (ARGM-MOD*)       *   -
+bc/cnn/00/cnn_0006   2    2           it   PRP   (NP(NP*))      -    -    -    Wolf_Blitzer       *             *        *   -
+bc/cnn/00/cnn_0006   2    3           be    VB       (VP*       be  01    1    Wolf_Blitzer       *           (V*)       *   -
+bc/cnn/00/cnn_0006   2    4    necessary    JJ     (ADJP*)      -    -    -    Wolf_Blitzer       *        (ARG2*)       *   -
+bc/cnn/00/cnn_0006   2    5           to    TO     (S(VP*       -    -    -    Wolf_Blitzer       *        (ARG1*        *   -
+bc/cnn/00/cnn_0006   2    6           go    VB       (VP*       go  01   10    Wolf_Blitzer       *             *      (V*)  -
+bc/cnn/00/cnn_0006   2    7           an    DT       (NP*       -    -    -    Wolf_Blitzer  (DATE*             *   (ARG2*   -
+bc/cnn/00/cnn_0006   2    8        extra    JJ          *       -    -    -    Wolf_Blitzer       *             *        *   -
+bc/cnn/00/cnn_0006   2    9          six    CD          *       -    -    -    Wolf_Blitzer       *             *        *   -
+bc/cnn/00/cnn_0006   2   10       months   NNS      *)))))   month   -    2    Wolf_Blitzer       *)            *)       *)  -
+bc/cnn/00/cnn_0006   2   11           /?     .         *))      -    -    -    Wolf_Blitzer       *             *        *   -
+
+bc/cnn/00/cnn_0006   2    0         No    UH   (TOP(S(INTJ*)        -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2    1          I   PRP           (NP*)        -    -   -    Mowaffak_Al-Rubaie       *        (ARG0*)   (188)
+bc/cnn/00/cnn_0006   2    2         ca    MD           (VP*         -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0006   2    3        n't    RB              *         -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0006   2    4         uh    UH         (INTJ*)        -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2    5    confirm    VB           (VP*    confirm  01   1    Mowaffak_Al-Rubaie       *           (V*)      -
+bc/cnn/00/cnn_0006   2    6        the    DT           (NP*         -    -   -    Mowaffak_Al-Rubaie  (DATE*        (ARG1*       -
+bc/cnn/00/cnn_0006   2    7     thirty    CD              *         -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2    8       days   NNS              *)       day   -   2    Mowaffak_Al-Rubaie       *)            *)      -
+bc/cnn/00/cnn_0006   2    9        now    RB       (ADVP*)))        -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0006   2   10         /.     .             *))        -    -   -    Mowaffak_Al-Rubaie       *             *       -
+
+bc/cnn/00/cnn_0006   2    0             But     CC                 (TOP(S*              -    -       -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)        *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2    1               I    PRP                    (NP*)             -    -       -    Mowaffak_Al-Rubaie       *        (ARG0*)        *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *    (188)
+bc/cnn/00/cnn_0006   2    2             can     MD                    (VP*              -    -       -    Mowaffak_Al-Rubaie       *    (ARGM-MOD*)        *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2    3            tell     VB                    (VP*            tell  01       1    Mowaffak_Al-Rubaie       *           (V*)        *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2    4             you    PRP                    (NP*)             -    -       -    Mowaffak_Al-Rubaie       *        (ARG2*)        *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *     (36)
+bc/cnn/00/cnn_0006   2    5           every     DT        (SBAR(S(S(NP(NP*              -    -       -    Mowaffak_Al-Rubaie       *        (ARG1*         *         *       (ARG1*        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2    6              uh     UH                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2    7            body     NN                       *)           body   -       4    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2    8              in     IN                    (PP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2    9             the     DT                    (NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *    (116
+bc/cnn/00/cnn_0006   2   10       political     JJ                       *              -    -       -    Mowaffak_Al-Rubaie       *             *    (ARG1*)        *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   11         process     NN                     *)))        process  01       1    Mowaffak_Al-Rubaie       *             *       (V*)        *            *)       *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *     116)
+bc/cnn/00/cnn_0006   2   12              be     VB                  (SINV*              be  01       1    Mowaffak_Al-Rubaie       *             *         *       (V*)  (ARGM-ADV*        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   13              it    PRP                    (NP*)             -    -       -    Mowaffak_Al-Rubaie       *             *         *    (ARG1*)           *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   14            Shia    NNP                 (NP(NP*              -    -       -    Mowaffak_Al-Rubaie   (NORP)            *         *    (ARG2*            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   15              or     CC                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   16           Sunni    NNP                       *)             -    -       -    Mowaffak_Al-Rubaie   (NORP)            *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   17           Kurds   NNPS                    (NP*              -    -       -    Mowaffak_Al-Rubaie   (NORP)            *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   18              or     CC                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   19            Arab    NNP                       *)             -    -       -    Mowaffak_Al-Rubaie   (NORP)            *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   20           Kaldo    NNP                (NP(NML*              -    -       -    Mowaffak_Al-Rubaie  (NORP*             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   21              -    HYPH                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   22       Assyrians   NNPS                    *))))             -    -       -    Mowaffak_Al-Rubaie       *)            *         *         *)           *)       *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   23             are    VBP                    (VP*              be  01       1    Mowaffak_Al-Rubaie       *             *         *         *          (V*)       *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   24              so     RB                  (ADJP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *       (ARG2*        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   25      determined     JJ                     *)))             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *)       *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   26             and     CC                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   27             the     DT                  (S(NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *   (ARG1*        *        (ARG0*        *         *         *         *      *      *            *      *           *             *      *         *         *         *     (25
+bc/cnn/00/cnn_0006   2   28      government     NN                       *)     government   -       1    Mowaffak_Al-Rubaie       *             *         *         *            *        *)       *             *)       *         *         *         *      *      *            *      *           *             *      *         *         *         *      25)
+bc/cnn/00/cnn_0006   2   29              is    VBZ                    (VP*              be  01       1    Mowaffak_Al-Rubaie       *             *         *         *            *      (V*)       *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   30              so     RB                  (ADJP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *   (ARG2*        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   31      determined     JJ                     *)))             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *)       *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   32               ,      ,                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   33              to     TO               (S(VP(VP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   34            meet     VB                    (VP*            meet  01       4    Mowaffak_Al-Rubaie       *             *         *         *            *        *      (V*)            *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   35             all    PDT                    (NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *   (ARG1*             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   36             the     DT                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   37       deadlines    NNS                     *)))             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *)            *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   38             and     CC                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   39              to     TO                    (VP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   40             not     RB                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *    (ARGM-NEG*)       *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   41             get     VB                    (VP*             get  01       1    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *           (V*)       *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   42             any     DT                 (NP(NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *        (ARG1*        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   43    postponement     NN                       *)   postponement  01       2    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *      (V*)        *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   44              of     IN                    (PP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *   (ARG1*         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   45            this     DT                    (NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *    (116
+bc/cnn/00/cnn_0006   2   46              uh     UH                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   47       political     JJ                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *    (ARG1*)        *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   48         process     NN                 *)))))))        process  01       1    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *)       *)      (V*)        *         *      *      *            *      *           *             *      *         *         *         *     116)
+bc/cnn/00/cnn_0006   2   49         because     IN                  (SBAR*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   50              we    PRP                  (S(NP*)             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *    (ARG0*)        *      *      *            *      *           *             *      *         *         *         *    (185)
+bc/cnn/00/cnn_0006   2   51         believe    VBP                    (VP*         believe  01       1    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *       (V*)        *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   52            that     IN                  (SBAR*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *    (ARG1*         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   53             any     DT             (S(S(NP(NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *       (ARG0*      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   54        delaying     NN                       *)          delay   -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   55              of     IN                    (PP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   56             the     DT                    (NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *    (116
+bc/cnn/00/cnn_0006   2   57       political     JJ                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *    (ARG1*)     *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   58         process     NN                     *)))        process  01       1    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *       (V*)     *      *            *)     *           *             *      *         *         *         *     116)
+bc/cnn/00/cnn_0006   2   59              is    VBZ                    (VP*              be  03       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *    (V*)     *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   60           going    VBG                    (VP*              go  04       7    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *    (V*)           *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   61              to     TO                  (S(VP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   62            play     VB                    (VP*            play  01   12.13    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *          (V*)     *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   63            into     IN                    (PP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *   (ARGM-DIR*      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   64             the     DT                 (NP(NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   65           hands    NNS                       *)           hand   -      12    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   66              of     IN                 (PP(PP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   67             the     DT                    (NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   68      terrorists    NNS                      *))             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   69             and     CC                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   70              of     IN                    (PP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   71           those     DT                 (NP(NP*)             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *      (ARG0*)            *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   72             who     WP             (SBAR(WHNP*)             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *    (R-ARG0*)            *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   73             are    VBP                  (S(VP*              be  03       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *    (V*)          *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   74        adopting    VBG                    (VP*           adopt  01       1    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *         (V*)            *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   75        violence     NN     (NP*))))))))))))))))             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *)     *      (ARG1*)            *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   76             and     CC                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   77            they    PRP                  (S(NP*)             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *        (ARG0*)     *         *         *         *    (106)
+bc/cnn/00/cnn_0006   2   78            will     MD                    (VP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *    (ARGM-MOD*)     *         *         *         *       -
+bc/cnn/00/cnn_0006   2   79           claim     VB                    (VP*           claim  02       2    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *           (V*)     *         *         *         *       -
+bc/cnn/00/cnn_0006   2   80         victory     NN                 (NP(NP*)             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *        (ARG1*      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   81            that     IN                  (SBAR*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+bc/cnn/00/cnn_0006   2   82            they    PRP                  (S(NP*)             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *    (ARG0*)   (ARG0*)        *    (106)
+bc/cnn/00/cnn_0006   2   83            have    VBP                    (VP*            have  01       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *    (V*)        *         *         *       -
+bc/cnn/00/cnn_0006   2   84       succeeded    VBN                    (VP*         succeed  01       1    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *       (V*)        *         *       -
+bc/cnn/00/cnn_0006   2   85              in     IN                    (PP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *    (ARG1*         *         *       -
+bc/cnn/00/cnn_0006   2   86        delaying    VBG                  (S(VP*           delay  01       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *       (V*)        *       -
+bc/cnn/00/cnn_0006   2   87             the     DT                    (NP*              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *    (ARG1*         *    (116
+bc/cnn/00/cnn_0006   2   88       political     JJ                       *              -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *    (ARG1*)      -
+bc/cnn/00/cnn_0006   2   89         process     NN   *)))))))))))))))))))))        process  01       1    Mowaffak_Al-Rubaie       *             *)        *         *            *        *        *             *        *         *         *)        *      *      *            *      *           *             *)     *         *)        *)      (V*)    116)
+bc/cnn/00/cnn_0006   2   90              /.      .                      *))             -    -       -    Mowaffak_Al-Rubaie       *             *         *         *            *        *        *             *        *         *         *         *      *      *            *      *           *             *      *         *         *         *       -
+
+bc/cnn/00/cnn_0006   2    0             The     DT          (TOP(S(NP*             -    -   -    Wolf_Blitzer   (ORG*        (ARG0*             *        *         *         *         *      *        *        *           *   (181
+bc/cnn/00/cnn_0006   2    1             Los    NNP               (NML*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    2         Angeles    NNP                   *)            -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    3           Times    NNP                   *)            -    -   -    Wolf_Blitzer       *)            *)            *        *         *         *         *      *        *        *           *    181)
+bc/cnn/00/cnn_0006   2    4            this     DT                (NP*             -    -   -    Wolf_Blitzer  (DATE*    (ARGM-TMP*             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    5            week     NN                   *)            -    -   -    Wolf_Blitzer       *)            *)            *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    6              uh     UH              (INTJ*)            -    -   -    Wolf_Blitzer       *    (ARGM-DIS*)            *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    7       suggested    VBD                (VP*        suggest  01   2    Wolf_Blitzer       *           (V*)            *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    8            that     IN              (SBAR*             -    -   -    Wolf_Blitzer       *        (ARG1*             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2    9             the     DT              (S(NP*             -    -   -    Wolf_Blitzer       *             *        (ARG2*        *         *         *         *      *        *        *           *    (47
+bc/cnn/00/cnn_0006   2   10           draft     NN                   *          draft   -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   11           Iraqi     JJ                   *             -    -   -    Wolf_Blitzer   (NORP)            *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   12    constitution     NN                   *)            -    -   -    Wolf_Blitzer       *             *             *)       *         *         *         *      *        *        *           *     47)
+bc/cnn/00/cnn_0006   2   13           would     MD                (VP*             -    -   -    Wolf_Blitzer       *             *    (ARGM-MOD*)       *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   14         include     VB                (VP*        include  01   1    Wolf_Blitzer       *             *           (V*)       *         *         *         *      *        *        *           *    (54)
+bc/cnn/00/cnn_0006   2   15             and     CC               (PRN*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   16             let     VB              (S(VP*            let  01   1    Wolf_Blitzer       *             *             *      (V*)        *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   17              me    PRP              (S(NP*)            -    -   -    Wolf_Blitzer       *             *             *   (ARG1*    (ARG0*)        *         *      *        *        *           *    (36)
+bc/cnn/00/cnn_0006   2   18            read     VB                (VP*           read  01   4    Wolf_Blitzer       *             *             *        *       (V*)        *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   19            from     IN                (PP*             -    -   -    Wolf_Blitzer       *             *             *        *    (ARG3*         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   20             the     DT             (NP(NP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   21           story     NN                   *)         story   -   1    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   22              in     IN                (PP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   23             the     DT                (NP*             -    -   -    Wolf_Blitzer   (ORG*             *             *        *         *         *         *      *        *        *           *   (181
+bc/cnn/00/cnn_0006   2   24             Los    NNP               (NML*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   25         Angeles    NNP                   *)            -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   26           Times    NNP           *)))))))))            -    -   -    Wolf_Blitzer       *)            *             *        *)        *)        *         *      *        *        *           *    181)
+bc/cnn/00/cnn_0006   2   27           Islam    NNP            (S(S(NP*)            -    -   -    Wolf_Blitzer   (NORP)            *        (ARG1*        *         *    (ARG1*)        *      *        *        *           *    (94)
+bc/cnn/00/cnn_0006   2   28              is    VBZ                (VP*             be  01   2    Wolf_Blitzer       *             *             *        *         *       (V*)        *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   29             the     DT             (NP(NP*             -    -   -    Wolf_Blitzer       *             *             *        *         *    (ARG2*         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   30        official     JJ                   *             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   31        religion     NN                   *)            -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   32              of     IN                (PP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   33             the     DT                (NP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *   (101
+bc/cnn/00/cnn_0006   2   34           state     NN               *)))))         state   -   2    Wolf_Blitzer       *             *             *        *         *         *)        *      *        *        *           *    101)
+bc/cnn/00/cnn_0006   2   35              It    PRP              (S(NP*)            -    -   -    Wolf_Blitzer       *             *             *        *         *         *    (ARG1*)     *        *        *           *    (94)
+bc/cnn/00/cnn_0006   2   36              is    VBZ                (VP*             be  01   2    Wolf_Blitzer       *             *             *        *         *         *       (V*)     *        *        *           *      -
+bc/cnn/00/cnn_0006   2   37             the     DT             (NP(NP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *    (ARG2*      *        *        *           *   (137
+bc/cnn/00/cnn_0006   2   38           basic     JJ                   *             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   39          source     NN                   *)        source   -   6    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   40             for     IN                (PP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   41     legislation     NN            (NP*)))))   legislation   -   1    Wolf_Blitzer       *             *             *        *         *         *         *)     *        *        *           *    137)
+bc/cnn/00/cnn_0006   2   42              It    PRP          (S(NP(NP*))            -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   43              is    VBZ                (VP*             be  03   -    Wolf_Blitzer       *             *             *        *         *         *         *    (V*)       *        *           *      -
+bc/cnn/00/cnn_0006   2   44       forbidden    VBN                (VP*         forbid  01   -    Wolf_Blitzer       *             *             *        *         *         *         *      *      (V*)       *           *      -
+bc/cnn/00/cnn_0006   2   45              to     TO              (S(VP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *   (ARG1*        *           *      -
+bc/cnn/00/cnn_0006   2   46            pass     VB                (VP*           pass  01   2    Wolf_Blitzer       *             *             *        *         *         *         *      *        *      (V*)          *      -
+bc/cnn/00/cnn_0006   2   47               a     DT             (NP(NP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *   (ARG2*      (ARG0*      -
+bc/cnn/00/cnn_0006   2   48             law     NN                   *)           law   -   1    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *)     -
+bc/cnn/00/cnn_0006   2   49            that    WDT         (SBAR(WHNP*)            -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *    (R-ARG0*)     -
+bc/cnn/00/cnn_0006   2   50     contradicts    VBZ              (S(VP*     contradict  01   1    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *         (V*)     -
+bc/cnn/00/cnn_0006   2   51             its   PRP$                (NP*             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *      (ARG1*    (94)
+bc/cnn/00/cnn_0006   2   52           fixed     JJ                   *             -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+bc/cnn/00/cnn_0006   2   53         rulings    NNS   *)))))))))))))))))            -    -   -    Wolf_Blitzer       *             *)            *)       *         *         *         *      *        *)       *)          *)     -
+bc/cnn/00/cnn_0006   2   54              /.      .                  *))            -    -   -    Wolf_Blitzer       *             *             *        *         *         *         *      *        *        *           *      -
+
+bc/cnn/00/cnn_0006   2   0      Is   VBZ  (TOP(SQ*    be  01   1    Wolf_Blitzer  *       (V*)     -
+bc/cnn/00/cnn_0006   2   1    that    DT      (NP*)   -    -   -    Wolf_Blitzer  *    (ARG1*)   (54)
+bc/cnn/00/cnn_0006   2   2    true    JJ    (ADJP*)   -    -   -    Wolf_Blitzer  *    (ARG2*)     -
+bc/cnn/00/cnn_0006   2   3      /?     .        *))   -    -   -    Wolf_Blitzer  *         *      -
+
+bc/cnn/00/cnn_0006   2    0        Will    MD    (TOP(SQ*        -    -   -    Wolf_Blitzer       *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0006   2    1       Islam   NNP        (NP*)       -    -   -    Wolf_Blitzer   (NORP)       (ARG1*)    (94)
+bc/cnn/00/cnn_0006   2    2          be    VB        (VP*        be  01   2    Wolf_Blitzer       *           (V*)      -
+bc/cnn/00/cnn_0006   2    3         the    DT  (NP(NP(NP*        -    -   -    Wolf_Blitzer       *        (ARG2*       -
+bc/cnn/00/cnn_0006   2    4    official    JJ           *        -    -   -    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2    5    religion    NN           *)       -    -   -    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2    6          of    IN        (PP*        -    -   -    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2    7         the    DT        (NP*        -    -   -    Wolf_Blitzer       *             *    (101
+bc/cnn/00/cnn_0006   2    8       state    NN         *)))    state   -   2    Wolf_Blitzer       *             *     101)
+bc/cnn/00/cnn_0006   2    9         and    CC           *        -    -   -    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2   10         the    DT     (NP(NP*        -    -   -    Wolf_Blitzer       *             *     (57
+bc/cnn/00/cnn_0006   2   11      source    NN           *)   source   -   6    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2   12          of    IN        (PP*        -    -   -    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2   13         all    DT        (NP*        -    -   -    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2   14         law    NN         *)))      law   -   2    Wolf_Blitzer       *             *      57)
+bc/cnn/00/cnn_0006   2   15          in    IN        (PP*        -    -   -    Wolf_Blitzer       *             *       -
+bc/cnn/00/cnn_0006   2   16        Iraq   NNP     (NP*))))       -    -   -    Wolf_Blitzer    (GPE)            *)   (101)
+bc/cnn/00/cnn_0006   2   17          /?     .          *))       -    -   -    Wolf_Blitzer       *             *       -
+
+bc/cnn/00/cnn_0006   2    0        Uh    UH   (TOP(S(INTJ*)       -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0006   2    1      well    UH         (INTJ*)       -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0006   2    2        it   PRP           (NP*)       -    -   -    Mowaffak_Al-Rubaie  *      *        (ARG0*)   (75)
+bc/cnn/00/cnn_0006   2    3      does   VBZ           (VP*        do  01   -    Mowaffak_Al-Rubaie  *    (V*)            *      -
+bc/cnn/00/cnn_0006   2    4       n't    RB              *        -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0006   2    5       say    VB           (VP*       say  01   4    Mowaffak_Al-Rubaie  *      *           (V*)     -
+bc/cnn/00/cnn_0006   2    6       the    DT        (NP(NP*        -    -   -    Mowaffak_Al-Rubaie  *      *        (ARG1*    (57
+bc/cnn/00/cnn_0006   2    7    source    NN              *)   source   -   6    Mowaffak_Al-Rubaie  *      *             *      -
+bc/cnn/00/cnn_0006   2    8        of    IN           (PP*        -    -   -    Mowaffak_Al-Rubaie  *      *             *      -
+bc/cnn/00/cnn_0006   2    9       all    DT           (NP*        -    -   -    Mowaffak_Al-Rubaie  *      *             *      -
+bc/cnn/00/cnn_0006   2   10      laws   NNS          *)))))      law   -   2    Mowaffak_Al-Rubaie  *      *             *)    57)
+bc/cnn/00/cnn_0006   2   11        /.     .             *))       -    -   -    Mowaffak_Al-Rubaie  *      *             *      -
+
+bc/cnn/00/cnn_0006   2   0        It   PRP   (TOP(S(NP*)       -    -   -    Mowaffak_Al-Rubaie  *    (ARG0*)   (75)
+bc/cnn/00/cnn_0006   2   1      says   VBZ         (VP*       say  01   4    Mowaffak_Al-Rubaie  *       (V*)     -
+bc/cnn/00/cnn_0006   2   2       the    DT      (NP(NP*        -    -   -    Mowaffak_Al-Rubaie  *    (ARG1*   (137
+bc/cnn/00/cnn_0006   2   3     basic    JJ            *        -    -   -    Mowaffak_Al-Rubaie  *         *      -
+bc/cnn/00/cnn_0006   2   4    source    NN            *)   source   -   6    Mowaffak_Al-Rubaie  *         *      -
+bc/cnn/00/cnn_0006   2   5        of    IN         (PP*        -    -   -    Mowaffak_Al-Rubaie  *         *      -
+bc/cnn/00/cnn_0006   2   6      laws   NNS      (NP*))))      law   -   2    Mowaffak_Al-Rubaie  *         *)   137)
+bc/cnn/00/cnn_0006   2   7        /.     .           *))       -    -   -    Mowaffak_Al-Rubaie  *         *      -
+
+bc/cnn/00/cnn_0006   2   0         And   CC  (TOP(S*          -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0006   2   1    remember   VB     (VP*)   remember  01   1    Mowaffak_Al-Rubaie  *           (V*)  -
+bc/cnn/00/cnn_0006   2   2          /.    .       *))         -    -   -    Mowaffak_Al-Rubaie  *             *   -
+
+bc/cnn/00/cnn_0006   2   0       this    DT   (TOP(S(NP*)        -    -   -    Mowaffak_Al-Rubaie       *    (ARG1*)   (101)
+bc/cnn/00/cnn_0006   2   1         is   VBZ         (VP*         be  01   1    Mowaffak_Al-Rubaie       *       (V*)      -
+bc/cnn/00/cnn_0006   2   2         an    DT         (NP*         -    -   -    Mowaffak_Al-Rubaie       *    (ARG2*       -
+bc/cnn/00/cnn_0006   2   3    Islamic    JJ            *         -    -   -    Mowaffak_Al-Rubaie   (NORP)        *       -
+bc/cnn/00/cnn_0006   2   4    country    NN           *))   country   -   3    Mowaffak_Al-Rubaie       *         *)      -
+bc/cnn/00/cnn_0006   2   5         /.     .           *))        -    -   -    Mowaffak_Al-Rubaie       *         *       -
+
+bc/cnn/00/cnn_0006   2    0           The   DT  (TOP(NP(NP*         -   -   -    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    1    background   NN            *)        -   -   -    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    2           the   DT         (NP*         -   -   -    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    3       culture   NN            *)   culture  -   1    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    4           the   DT         (NP*         -   -   -    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    5       history   NN            *)   history  -   1    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    6           the   DT      (NP(NP*         -   -   -    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    7      identity   NN            *)        -   -   -    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    8            of   IN         (PP*         -   -   -    Mowaffak_Al-Rubaie  *      -
+bc/cnn/00/cnn_0006   2    9           the   DT         (NP*         -   -   -    Mowaffak_Al-Rubaie  *   (101
+bc/cnn/00/cnn_0006   2   10       country   NN          *)))   country  -   2    Mowaffak_Al-Rubaie  *    101)
+bc/cnn/00/cnn_0006   2   11           /-     .           *))        -   -   -    Mowaffak_Al-Rubaie  *      -
+
+bc/cnn/00/cnn_0006   2    0              uh     UH   (TOP(S(INTJ*)           -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0006   2    1              uh     UH         (INTJ*)           -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0006   2    2              um     UH         (INTJ*)           -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0006   2    3              um     UH         (INTJ*)           -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0006   2    4              an     DT        (NP(NP*            -    -   -    Mowaffak_Al-Rubaie       *        (ARG1*      -
+bc/cnn/00/cnn_0006   2    5    overwhelming     JJ              *            -    -   -    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2    6        majority     NN              *)     majority   -   1    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2    7              of     IN           (PP*            -    -   -    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2    8              uh     UH         (INTJ*)           -    -   -    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2    9              uh     UH         (INTJ*)           -    -   -    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2   10             the     DT        (NP(NP*            -    -   -    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2   11      population     NN              *)   population   -   2    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2   12              in     IN           (PP*            -    -   -    Mowaffak_Al-Rubaie       *             *      -
+bc/cnn/00/cnn_0006   2   13            this     DT           (NP*            -    -   -    Mowaffak_Al-Rubaie       *             *   (101
+bc/cnn/00/cnn_0006   2   14         country     NN          *)))))      country   -   3    Mowaffak_Al-Rubaie       *             *)   101)
+bc/cnn/00/cnn_0006   2   15             are    VBP           (VP*            be  01   2    Mowaffak_Al-Rubaie       *           (V*)     -
+bc/cnn/00/cnn_0006   2   16         Muslims   NNPS          (NP*))           -    -   -    Mowaffak_Al-Rubaie   (NORP)       (ARG2*)     -
+bc/cnn/00/cnn_0006   2   17              /.      .             *))           -    -   -    Mowaffak_Al-Rubaie       *             *      -
+
+bc/cnn/00/cnn_0006   2   0        so    RB   (TOP(S(ADVP*)   -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0006   2   1        uh    UH         (INTJ*)   -    -   -    Mowaffak_Al-Rubaie  *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0006   2   2        it   PRP           (NP*)   -    -   -    Mowaffak_Al-Rubaie  *        (ARG1*)  -
+bc/cnn/00/cnn_0006   2   3        's   VBZ           (VP*    be  01   1    Mowaffak_Al-Rubaie  *           (V*)  -
+bc/cnn/00/cnn_0006   2   4      very    RB         (ADJP*    -    -   -    Mowaffak_Al-Rubaie  *        (ARG2*   -
+bc/cnn/00/cnn_0006   2   5    normal    JJ             *))   -    -   -    Mowaffak_Al-Rubaie  *             *)  -
+bc/cnn/00/cnn_0006   2   6        /.     .             *))   -    -   -    Mowaffak_Al-Rubaie  *             *   -
+
+bc/cnn/00/cnn_0006   2    0                it   PRP     (TOP(S(NP*)     -    -   -    Mowaffak_Al-Rubaie  *      *        (ARG0*)     *      *        *   -
+bc/cnn/00/cnn_0006   2    1              does   VBZ           (VP*      do  01   -    Mowaffak_Al-Rubaie  *    (V*)            *      *      *        *   -
+bc/cnn/00/cnn_0006   2    2               not    RB              *      -    -   -    Mowaffak_Al-Rubaie  *      *    (ARGM-NEG*)     *      *        *   -
+bc/cnn/00/cnn_0006   2    3              mean    VB           (VP*    mean  01   4    Mowaffak_Al-Rubaie  *      *           (V*)     *      *        *   -
+bc/cnn/00/cnn_0006   2    4              that    IN         (SBAR*      -    -   -    Mowaffak_Al-Rubaie  *      *        (ARG1*      *      *        *   -
+bc/cnn/00/cnn_0006   2    5             there    EX         (S(NP*)     -    -   -    Mowaffak_Al-Rubaie  *      *             *      *      *        *   -
+bc/cnn/00/cnn_0006   2    6                's   VBZ           (VP*      be  03   9    Mowaffak_Al-Rubaie  *      *             *    (V*)     *        *   -
+bc/cnn/00/cnn_0006   2    7             going   VBG           (VP*      go  04   7    Mowaffak_Al-Rubaie  *      *             *      *    (V*)       *   -
+bc/cnn/00/cnn_0006   2    8                to    TO         (S(VP*      -    -   -    Mowaffak_Al-Rubaie  *      *             *      *      *        *   -
+bc/cnn/00/cnn_0006   2    9                be    VB           (VP*      be  02   3    Mowaffak_Al-Rubaie  *      *             *      *      *      (V*)  -
+bc/cnn/00/cnn_0006   2   10                 a    DT        (NP(NP*      -    -   -    Mowaffak_Al-Rubaie  *      *             *      *      *   (ARG1*   -
+bc/cnn/00/cnn_0006   2   11    discrimination    NN              *)     -    -   -    Mowaffak_Al-Rubaie  *      *             *      *      *        *   -
+bc/cnn/00/cnn_0006   2   12           against    IN           (PP*      -    -   -    Mowaffak_Al-Rubaie  *      *             *      *      *        *   -
+bc/cnn/00/cnn_0006   2   13             other    JJ           (NP*      -    -   -    Mowaffak_Al-Rubaie  *      *             *      *      *        *   -
+bc/cnn/00/cnn_0006   2   14         religions   NNS   *))))))))))))     -    -   -    Mowaffak_Al-Rubaie  *      *             *)     *      *        *)  -
+bc/cnn/00/cnn_0006   2   15                /.     .             *))     -    -   -    Mowaffak_Al-Rubaie  *      *             *      *      *        *   -
+
+bc/cnn/00/cnn_0006   2    0           uh    UH   (TOP(S(INTJ*)          -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2    1           we   PRP           (NP*)          -    -   -    Mowaffak_Al-Rubaie       *        (ARG0*)   (101)
+bc/cnn/00/cnn_0006   2    2         have   VBP           (VP*         have  03   2    Mowaffak_Al-Rubaie       *           (V*)      -
+bc/cnn/00/cnn_0006   2    3           uh    UH         (INTJ*)          -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   2    4            a    DT     (NP(NP(NP*           -    -   -    Mowaffak_Al-Rubaie       *        (ARG1*    (115
+bc/cnn/00/cnn_0006   2    5      sizable    JJ              *)          -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2    6          and    CC              *           -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2    7            a    DT           (NP*           -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2    8        large    JJ         (ADJP*           -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2    9           uh    UH              *           -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2   10         size    NN             *))        size   -   1    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2   11    community    NN         (NML*))          -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2   12            a    DT           (NP*           -    -   -    Mowaffak_Al-Rubaie       *             *       -
+bc/cnn/00/cnn_0006   2   13    Christian    JJ              *           -    -   -    Mowaffak_Al-Rubaie   (NORP)            *       -
+bc/cnn/00/cnn_0006   2   14    community    NN            *)))   community   -   1    Mowaffak_Al-Rubaie       *             *)    115)
+bc/cnn/00/cnn_0006   2   15           /.     .             *))          -    -   -    Mowaffak_Al-Rubaie       *             *       -
+
+bc/cnn/00/cnn_0006   2   0          and    CC      (TOP(S*    -    -   -    Mowaffak_Al-Rubaie  *      *      *         *       -
+bc/cnn/00/cnn_0006   2   1         they   PRP         (NP*)   -    -   -    Mowaffak_Al-Rubaie  *      *      *    (ARG1*)   (115)
+bc/cnn/00/cnn_0006   2   2          're   VBP         (VP*    be  03   -    Mowaffak_Al-Rubaie  *    (V*)     *         *       -
+bc/cnn/00/cnn_0006   2   3        going   VBG            *    go  04   7    Mowaffak_Al-Rubaie  *      *    (V*)        *       -
+bc/cnn/00/cnn_0006   2   4           to    TO       (S(VP*    -    -   -    Mowaffak_Al-Rubaie  *      *      *         *       -
+bc/cnn/00/cnn_0006   2   5           be    VB         (VP*)   be  01   1    Mowaffak_Al-Rubaie  *      *      *       (V*)      -
+bc/cnn/00/cnn_0006   2   6         very    RB  (ADJP(ADVP*    -    -   -    Mowaffak_Al-Rubaie  *      *      *    (ARG2*       -
+bc/cnn/00/cnn_0006   2   7         well    RB            *)   -    -   -    Mowaffak_Al-Rubaie  *      *      *         *       -
+bc/cnn/00/cnn_0006   2   8    respected    JJ         *))))   -    -   -    Mowaffak_Al-Rubaie  *      *      *         *)      -
+bc/cnn/00/cnn_0006   2   9           /.     .           *))   -    -   -    Mowaffak_Al-Rubaie  *      *      *         *       -
+
+bc/cnn/00/cnn_0006   2    0         Also     RB   (TOP(S(ADVP*)   -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-ADV*)  -
+bc/cnn/00/cnn_0006   2    1           uh     UH         (INTJ*)   -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0006   2    2           uh     UH         (INTJ*)   -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0006   2    3           uh     UH         (INTJ*)   -    -   -    Mowaffak_Al-Rubaie       *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0006   2    4        there     EX           (NP*)   -    -   -    Mowaffak_Al-Rubaie       *             *   -
+bc/cnn/00/cnn_0006   2    5          are    VBP           (VP*    be  02   1    Mowaffak_Al-Rubaie       *           (V*)  -
+bc/cnn/00/cnn_0006   2    6      Sabians   NNPS        (NP(NP*)   -    -   -    Mowaffak_Al-Rubaie   (NORP)       (ARG1*   -
+bc/cnn/00/cnn_0006   2    7      Yazidis   NNPS           (NP*)   -    -   -    Mowaffak_Al-Rubaie   (NORP)            *   -
+bc/cnn/00/cnn_0006   2    8          and     CC              *    -    -   -    Mowaffak_Al-Rubaie       *             *   -
+bc/cnn/00/cnn_0006   2    9        other     JJ           (NP*    -    -   -    Mowaffak_Al-Rubaie       *             *   -
+bc/cnn/00/cnn_0006   2   10    religions    NNS            *)))   -    -   -    Mowaffak_Al-Rubaie       *             *)  -
+bc/cnn/00/cnn_0006   2   11           /.      .             *))   -    -   -    Mowaffak_Al-Rubaie       *             *   -
+
+bc/cnn/00/cnn_0006   2    0            So    RB   (TOP(S(ADVP*)        -    -   -    Mowaffak_Al-Rubaie  *      *      *         *      -
+bc/cnn/00/cnn_0006   2    1          they   PRP           (NP*)        -    -   -    Mowaffak_Al-Rubaie  *      *      *    (ARG1*)     -
+bc/cnn/00/cnn_0006   2    2           're   VBP           (VP*         be  03   -    Mowaffak_Al-Rubaie  *    (V*)     *         *      -
+bc/cnn/00/cnn_0006   2    3         going   VBG           (VP*         go  04   7    Mowaffak_Al-Rubaie  *      *    (V*)        *      -
+bc/cnn/00/cnn_0006   2    4            to    TO         (S(VP*         -    -   -    Mowaffak_Al-Rubaie  *      *      *         *      -
+bc/cnn/00/cnn_0006   2    5            be    VB           (VP*         be  01   1    Mowaffak_Al-Rubaie  *      *      *       (V*)     -
+bc/cnn/00/cnn_0006   2    6           all    DT              *         -    -   -    Mowaffak_Al-Rubaie  *      *      *         *      -
+bc/cnn/00/cnn_0006   2    7     respected    JJ        (NP(NP*         -    -   -    Mowaffak_Al-Rubaie  *      *      *    (ARG2*      -
+bc/cnn/00/cnn_0006   2    8            uh    UH              *         -    -   -    Mowaffak_Al-Rubaie  *      *      *         *      -
+bc/cnn/00/cnn_0006   2    9    minorities   NNS              *)        -    -   -    Mowaffak_Al-Rubaie  *      *      *         *      -
+bc/cnn/00/cnn_0006   2   10            in    IN           (PP*         -    -   -    Mowaffak_Al-Rubaie  *      *      *         *      -
+bc/cnn/00/cnn_0006   2   11           the    DT           (NP*         -    -   -    Mowaffak_Al-Rubaie  *      *      *         *   (101
+bc/cnn/00/cnn_0006   2   12       country    NN       *))))))))   country   -   3    Mowaffak_Al-Rubaie  *      *      *         *)   101)
+bc/cnn/00/cnn_0006   2   13            /.     .             *))        -    -   -    Mowaffak_Al-Rubaie  *      *      *         *      -

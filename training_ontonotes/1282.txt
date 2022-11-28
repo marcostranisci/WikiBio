@@ -1,0 +1,258 @@
+bc/cnn/00/cnn_0004   7   0    Bakersfield   NNP   (TOP(FRAG(NP(NP*)  -   -   -    Larry_King   (GPE)  -
+bc/cnn/00/cnn_0004   7   1     California   NNP              (NP*))  -   -   -    Larry_King   (GPE)  -
+bc/cnn/00/cnn_0004   7   2          hello    UH             (INTJ*)  -   -   -    Larry_King      *   -
+bc/cnn/00/cnn_0004   7   3             /.     .                 *))  -   -   -    Larry_King      *   -
+
+bc/cnn/00/cnn_0004   7    0           Hello    UH   (TOP(S(INTJ*)             -    -   -   caller_2   *    (ARGM-DIS*)            *      -
+bc/cnn/00/cnn_0004   7    1         between    IN           (PP*              -    -   -   caller_2   *    (ARGM-ADV*             *      -
+bc/cnn/00/cnn_0004   7    2             you   PRP           (NP*              -    -   -   caller_2   *             *             *      -
+bc/cnn/00/cnn_0004   7    3             and    CC              *              -    -   -   caller_2   *             *             *      -
+bc/cnn/00/cnn_0004   7    4              me   PRP             *))             -    -   -   caller_2   *             *)            *    (10)
+bc/cnn/00/cnn_0004   7    5             you   PRP        (NP(NP*)             -    -   -   caller_2   *        (ARG0*        (ARG0*    (57
+bc/cnn/00/cnn_0004   7    6       gentlemen   NNS          (NP*))             -    -   -   caller_2   *             *)            *)    57)
+bc/cnn/00/cnn_0004   7    7        continue   VBP           (VP*        continue  01   1   caller_2   *           (V*)            *      -
+bc/cnn/00/cnn_0004   7    8              to    TO         (S(VP*              -    -   -   caller_2   *        (ARG1*             *      -
+bc/cnn/00/cnn_0004   7    9            make    VB           (VP*            make   -   1   caller_2   *             *    (ARGM-LVB*)     -
+bc/cnn/00/cnn_0004   7   10               a    DT        (NP(NP*              -    -   -   caller_2   *             *             *      -
+bc/cnn/00/cnn_0004   7   11           major    JJ              *              -    -   -   caller_2   *             *    (ARGM-ADJ*)     -
+bc/cnn/00/cnn_0004   7   12    contribution    NN              *)   contribution  01   1   caller_2   *             *           (V*)     -
+bc/cnn/00/cnn_0004   7   13              to    IN           (PP*              -    -   -   caller_2   *             *        (ARG2*      -
+bc/cnn/00/cnn_0004   7   14             the    DT        (NP(NP*              -    -   -   caller_2   *             *             *      -
+bc/cnn/00/cnn_0004   7   15        citizens   NNS              *)             -    -   -   caller_2   *             *             *      -
+bc/cnn/00/cnn_0004   7   16              of    IN           (PP*              -    -   -   caller_2   *             *             *      -
+bc/cnn/00/cnn_0004   7   17            this    DT           (NP*              -    -   -   caller_2   *             *             *    (70
+bc/cnn/00/cnn_0004   7   18         country    NN      *)))))))))        country   -   3   caller_2   *             *)            *)    70)
+bc/cnn/00/cnn_0004   7   19              /.     .             *))             -    -   -   caller_2   *             *             *      -
+
+bc/cnn/00/cnn_0004   7    0          So    RB       (TOP(S(ADVP*)         -    -    -   caller_2            *    (ARGM-DIS*)           *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7    1           I   PRP               (NP*)         -    -    -   caller_2            *        (ARG0*)           *        *            *      *         *         *          *        (10)
+bc/cnn/00/cnn_0004   7    2          'd    MD               (VP*          -    -    -   caller_2            *    (ARGM-MOD*)           *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7    3        like    VB               (VP*        like  02    1   caller_2            *           (V*)           *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7    4         the    DT          (S(NP(NP*          -    -    -   caller_2            *        (ARG1*       (ARG1*   (ARG0*            *      *         *         *          *        (57
+bc/cnn/00/cnn_0004   7    5         two    CD                  *          -    -    -   caller_2    (CARDINAL)            *            *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7    6      brains   NNS                  *)      brain   -    -   caller_2            *             *            *)       *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7    7        that   WDT        (SBAR(WHNP*)         -    -    -   caller_2            *             *     (R-ARG1*)       *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7    8           I   PRP             (S(NP*)         -    -    -   caller_2            *             *       (ARG0*)       *            *      *         *         *          *        (10)
+bc/cnn/00/cnn_0004   7    9         see   VBP               (VP*         see  01    1   caller_2            *             *          (V*)       *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7   10          in    IN               (PP*          -    -    -   caller_2            *             *   (ARGM-LOC*        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7   11       front    NN            (NP(NP*)      front   -    1   caller_2            *             *            *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7   12          of    IN               (PP*          -    -    -   caller_2            *             *            *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7   13          me   PRP        (NP*))))))))         -    -    -   caller_2            *             *            *)       *)           *      *         *         *          *    (10)|57)
+bc/cnn/00/cnn_0004   7   14          to    TO               (VP*          -    -    -   caller_2            *             *            *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7   15      answer    VB               (VP*      answer  01    1   caller_2            *             *            *      (V*)           *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7   16        this    DT            (NP(NP*          -    -    -   caller_2            *             *            *   (ARG1*            *      *         *         *     (ARG1*       (128
+bc/cnn/00/cnn_0004   7   17    question    NN                  *)   question  01    1   caller_2            *             *            *        *          (V*)     *         *         *          *)         -
+bc/cnn/00/cnn_0004   7   18          to    TO        (SBAR(WHPP*          -    -    -   caller_2            *             *            *        *   (ARGM-ADJ*      *         *         *   (R-ARG1*          -
+bc/cnn/00/cnn_0004   7   19       which   WDT            (WHNP*))         -    -    -   caller_2            *             *            *        *            *      *         *         *          *)         -
+bc/cnn/00/cnn_0004   7   20           I   PRP             (S(NP*)         -    -    -   caller_2            *             *            *        *            *      *    (ARG1*)   (ARG0*)         *        (10)
+bc/cnn/00/cnn_0004   7   21         've   VBP               (VP*        have  01   12   caller_2            *             *            *        *            *    (V*)        *         *          *          -
+bc/cnn/00/cnn_0004   7   22        been   VBN               (VP*          be  01    1   caller_2            *             *            *        *            *      *       (V*)        *          *          -
+bc/cnn/00/cnn_0004   7   23      unable    JJ             (ADJP*          -    -    -   caller_2            *             *            *        *            *      *    (ARG2*         *          *          -
+bc/cnn/00/cnn_0004   7   24          to    TO             (S(VP*          -    -    -   caller_2            *             *            *        *            *      *         *         *          *          -
+bc/cnn/00/cnn_0004   7   25        find    VB               (VP*        find  01    1   caller_2            *             *            *        *            *      *         *       (V*)         *          -
+bc/cnn/00/cnn_0004   7   26          an    DT            (NP(NP*          -    -    -   caller_2            *             *            *        *            *      *         *    (ARG1*          *          -
+bc/cnn/00/cnn_0004   7   27      answer    NN   *))))))))))))))))     answer  01    1   caller_2            *             *)           *        *)           *)     *         *)        *)       (V*)       128)
+bc/cnn/00/cnn_0004   7   28          /.     .                 *))         -    -    -   caller_2            *             *            *        *            *      *         *         *          *          -
+
+bc/cnn/00/cnn_0004   7    0             If    IN  (TOP(SBARQ(SBAR*         -    -   -   caller_2        *             *        *      *    (ARGM-ADV*      -
+bc/cnn/00/cnn_0004   7    1             we   PRP            (S(NP*)        -    -   -   caller_2        *        (ARG0*)       *      *             *    (70)
+bc/cnn/00/cnn_0004   7    2          truly    RB            (ADVP*)        -    -   -   caller_2        *    (ARGM-ADV*)       *      *             *      -
+bc/cnn/00/cnn_0004   7    3           even    RB         (PP(ADVP*)        -    -   -   caller_2        *    (ARGM-TMP*        *      *             *      -
+bc/cnn/00/cnn_0004   7    4            for    IN                 *         -    -   -   caller_2        *             *        *      *             *      -
+bc/cnn/00/cnn_0004   7    5              a    DT              (NP*         -    -   -   caller_2   (TIME*             *        *      *             *      -
+bc/cnn/00/cnn_0004   7    6         moment    NN                *))    moment   -   1   caller_2        *)            *)       *      *             *      -
+bc/cnn/00/cnn_0004   7    7       believed   VBD              (VP*    believe  01   1   caller_2        *           (V*)       *      *             *      -
+bc/cnn/00/cnn_0004   7    8           that    IN            (SBAR*         -    -   -   caller_2        *        (ARG1*        *      *             *      -
+bc/cnn/00/cnn_0004   7    9          there    EX            (S(NP*)        -    -   -   caller_2        *             *        *      *             *      -
+bc/cnn/00/cnn_0004   7   10           were   VBD              (VP*         be  02   3   caller_2        *             *      (V*)     *             *      -
+bc/cnn/00/cnn_0004   7   11        weapons   NNS           (NP(NP*)    weapon   -   1   caller_2        *             *   (ARG1*      *             *      -
+bc/cnn/00/cnn_0004   7   12             of    IN              (PP*         -    -   -   caller_2        *             *        *      *             *      -
+bc/cnn/00/cnn_0004   7   13           mass    JJ              (NP*         -    -   -   caller_2        *             *        *      *             *      -
+bc/cnn/00/cnn_0004   7   14    destruction    NN         *)))))))))        -    -   -   caller_2        *             *)       *)     *             *)     -
+bc/cnn/00/cnn_0004   7   15            why   WRB          (WHADVP*)        -    -   -   caller_2        *             *        *      *    (ARGM-CAU*)     -
+bc/cnn/00/cnn_0004   7   16            did   VBD              (SQ*         do  01   -   caller_2        *             *        *    (V*)            *      -
+bc/cnn/00/cnn_0004   7   17             we   PRP              (NP*)        -    -   -   caller_2        *             *        *      *        (ARG0*)   (70)
+bc/cnn/00/cnn_0004   7   18           send    VB              (VP*       send  01   2   caller_2        *             *        *      *           (V*)     -
+bc/cnn/00/cnn_0004   7   19             in    RB            (ADVP*)        -    -   -   caller_2        *             *        *      *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0004   7   20         ground    NN              (NP*     ground   -   1   caller_2        *             *        *      *        (ARG1*      -
+bc/cnn/00/cnn_0004   7   21         forces   NNS               *)))     force   -   2   caller_2        *             *        *      *             *)     -
+bc/cnn/00/cnn_0004   7   22             /?     .                *))        -    -   -   caller_2        *             *        *      *             *      -
+
+bc/cnn/00/cnn_0004   7   0    Thank   VBP  (TOP(S(VP*    thank  01   1   caller_2   *       (V*)     -
+bc/cnn/00/cnn_0004   7   1      you   PRP       (NP*))      -    -   -   caller_2   *    (ARG1*)   (57)
+bc/cnn/00/cnn_0004   7   2       /.     .          *))      -    -   -   caller_2   *         *      -
+
+bc/cnn/00/cnn_0004   7   0       You   PRP   (TOP(FRAG(PRN(S(NP*)     -    -   -    Larry_King  *    (ARG0*)   (10)
+bc/cnn/00/cnn_0004   7   1      mean   VBP                (VP*)))   mean  01   1    Larry_King  *       (V*)     -
+bc/cnn/00/cnn_0004   7   2    rather    RB                  (PP*      -    -   -    Larry_King  *         *      -
+bc/cnn/00/cnn_0004   7   3      than    IN                     *      -    -   -    Larry_King  *         *      -
+bc/cnn/00/cnn_0004   7   4      what    WP                 (NP*))     -    -   -    Larry_King  *         *      -
+bc/cnn/00/cnn_0004   7   5        /?     .                    *))     -    -   -    Larry_King  *         *      -
+
+bc/cnn/00/cnn_0004   7    0             if    IN  (TOP(SBARQ(SBAR*         -    -   -   caller_2   *         *        *    (ARGM-ADV*      -
+bc/cnn/00/cnn_0004   7    1             we   PRP            (S(NP*)        -    -   -   caller_2   *    (ARG0*)       *             *    (70)
+bc/cnn/00/cnn_0004   7    2        believe   VBP              (VP*    believe  01   1   caller_2   *       (V*)       *             *      -
+bc/cnn/00/cnn_0004   7    3          there    EX       (SBAR(S(NP*)        -    -   -   caller_2   *    (ARG1*        *             *      -
+bc/cnn/00/cnn_0004   7    4           were   VBD              (VP*         be  02   3   caller_2   *         *      (V*)            *      -
+bc/cnn/00/cnn_0004   7    5        weapons   NNS           (NP(NP*)    weapon   -   1   caller_2   *         *   (ARG1*             *      -
+bc/cnn/00/cnn_0004   7    6             of    IN              (PP*         -    -   -   caller_2   *         *        *             *      -
+bc/cnn/00/cnn_0004   7    7           mass    JJ              (NP*         -    -   -   caller_2   *         *        *             *      -
+bc/cnn/00/cnn_0004   7    8    destruction    NN         *)))))))))        -    -   -   caller_2   *         *)       *)            *)     -
+bc/cnn/00/cnn_0004   7    9            why   WRB          (WHADVP*)        -    -   -   caller_2   *         *        *    (ARGM-CAU*)     -
+bc/cnn/00/cnn_0004   7   10          would    MD              (SQ*         -    -   -   caller_2   *         *        *             *      -
+bc/cnn/00/cnn_0004   7   11             we   PRP              (NP*)        -    -   -   caller_2   *         *        *        (ARG0*)   (70)
+bc/cnn/00/cnn_0004   7   12           send    VB              (VP*       send  01   2   caller_2   *         *        *           (V*)     -
+bc/cnn/00/cnn_0004   7   13             in    RB            (ADVP*)        -    -   -   caller_2   *         *        *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0004   7   14         ground    NN              (NP*     ground   -   1   caller_2   *         *        *        (ARG1*    (22
+bc/cnn/00/cnn_0004   7   15         forces   NNS               *)))     force   -   2   caller_2   *         *        *             *)    22)
+bc/cnn/00/cnn_0004   7   16             /?     .                *))        -    -   -   caller_2   *         *        *             *      -
+
+bc/cnn/00/cnn_0004   7   0     Oh    UH   (TOP(S(INTJ*)    -    -   -    Larry_King  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0004   7   1      I   PRP           (NP*)    -    -   -    Larry_King  *        (ARG0*)   (141)
+bc/cnn/00/cnn_0004   7   2    see   VBP           (VP*)   see  01   2    Larry_King  *           (V*)      -
+bc/cnn/00/cnn_0004   7   3     /.     .             *))    -    -   -    Larry_King  *             *       -
+
+bc/cnn/00/cnn_0004   7   0      Why   WRB   (TOP(SBARQ(WHADVP*)      -    -   -    Larry_King  *    (ARGM-CAU*)     -
+bc/cnn/00/cnn_0004   7   1    would    MD                 (SQ*       -    -   -    Larry_King  *             *      -
+bc/cnn/00/cnn_0004   7   2       we   PRP                 (NP*)      -    -   -    Larry_King  *        (ARG0*)   (70)
+bc/cnn/00/cnn_0004   7   3      put    VB                 (VP*      put  01   6    Larry_King  *           (V*)     -
+bc/cnn/00/cnn_0004   7   4     them   PRP                 (NP*)      -    -   -    Larry_King  *        (ARG1*)   (22)
+bc/cnn/00/cnn_0004   7   5       at    IN                 (PP*       -    -   -    Larry_King  *        (ARG2*      -
+bc/cnn/00/cnn_0004   7   6    peril    NN              (NP*))))   peril   -   2    Larry_King  *             *)     -
+bc/cnn/00/cnn_0004   7   7       /?     .                   *))      -    -   -    Larry_King  *             *      -
+
+bc/cnn/00/cnn_0004   7   0          You   PRP   (TOP(SQ(NP*)          -    -   -    Mike_Wallace  *    (ARG0*)  -
+bc/cnn/00/cnn_0004   7   1         know    VB          (VP*         know  01   1    Mike_Wallace  *       (V*)  -
+bc/cnn/00/cnn_0004   7   2    something    NN         (NP*))   something   -   4    Mike_Wallace  *    (ARG1*)  -
+bc/cnn/00/cnn_0004   7   3           /?     .            *))          -    -   -    Mike_Wallace  *         *   -
+
+bc/cnn/00/cnn_0004   7   0          uh    UH   (TOP(S(INTJ*)         -    -   -    Mike_Wallace  *      *    (ARGM-DIS*)            *       -
+bc/cnn/00/cnn_0004   7   1      listen    VB   (PRN(S(VP*)))     listen  01   1    Mike_Wallace  *    (V*)            *             *       -
+bc/cnn/00/cnn_0004   7   2        that    DT           (NP*)         -    -   -    Mike_Wallace  *      *        (ARG1*)            *    (128)
+bc/cnn/00/cnn_0004   7   3          's   VBZ           (VP*          be  01   1    Mike_Wallace  *      *           (V*)            *       -
+bc/cnn/00/cnn_0004   7   4           a    DT           (NP*          -    -   -    Mike_Wallace  *      *        (ARG2*             *       -
+bc/cnn/00/cnn_0004   7   5        good    JJ              *          -    -   -    Mike_Wallace  *      *             *    (ARGM-ADJ*)      -
+bc/cnn/00/cnn_0004   7   6    question    NN             *))   question  01   1    Mike_Wallace  *      *             *)          (V*)      -
+bc/cnn/00/cnn_0004   7   7          /.     .             *))         -    -   -    Mike_Wallace  *      *             *             *       -
+
+bc/cnn/00/cnn_0004   7   0    Very   RB  (TOP(FRAG(ADJP*   -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0004   7   1    good   JJ                *)  -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0004   7   2     huh   UH           (INTJ*   -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0004   7   3      uh   UH                *)  -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0004   7   4      /.    .               *))  -   -   -    Larry_King  *   -
+
+bc/cnn/00/cnn_0004   7   0         And    CC       (TOP(S*          -    -   -    Mike_Wallace  *         *    (ARGM-DIS*)        *      -
+bc/cnn/00/cnn_0004   7   1        what    WP   (SBAR(WHNP*)         -    -   -    Mike_Wallace  *    (ARG1*)       (ARG1*         *      -
+bc/cnn/00/cnn_0004   7   2        they   PRP        (S(NP*)         -    -   -    Mike_Wallace  *    (ARG0*)            *         *    (38)
+bc/cnn/00/cnn_0004   7   3         did   VBD        (VP*)))         do  02   1    Mike_Wallace  *       (V*)            *)        *      -
+bc/cnn/00/cnn_0004   7   4         was   VBD          (VP*          be  01   1    Mike_Wallace  *         *           (V*)        *      -
+bc/cnn/00/cnn_0004   7   5          as    IN        (SBAR*          -    -   -    Mike_Wallace  *         *    (ARGM-ADV*         *      -
+bc/cnn/00/cnn_0004   7   6         you   PRP        (S(NP*)         -    -   -    Mike_Wallace  *         *             *    (ARG0*)     -
+bc/cnn/00/cnn_0004   7   7    remember   VBP       (VP*))))   remember  01   1    Mike_Wallace  *         *             *)      (V*)     -
+bc/cnn/00/cnn_0004   7   8         /-      .            *))         -    -   -    Mike_Wallace  *         *             *         *      -
+
+bc/cnn/00/cnn_0004   7   0           And    CC         (TOP(S*          -    -   -    Mike_Wallace  *      *    (ARGM-DIS*)            *      -
+bc/cnn/00/cnn_0004   7   1             I   PRP            (NP*)         -    -   -    Mike_Wallace  *      *        (ARG1*)            *    (90)
+bc/cnn/00/cnn_0004   7   2           was   VBD            (VP*          be  03   -    Mike_Wallace  *    (V*)            *             *      -
+bc/cnn/00/cnn_0004   7   3    astonished   VBN            (VP*    astonish  01   -    Mike_Wallace  *      *           (V*)            *      -
+bc/cnn/00/cnn_0004   7   4          when   WRB   (SBAR(WHADVP*)         -    -   -    Mike_Wallace  *      *    (ARGM-TMP*    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0004   7   5             I   PRP          (S(NP*)         -    -   -    Mike_Wallace  *      *             *        (ARG0*)   (90)
+bc/cnn/00/cnn_0004   7   6           saw   VBD            (VP*         see  01   1    Mike_Wallace  *      *             *           (V*)     -
+bc/cnn/00/cnn_0004   7   7          that    IN          (SBAR*          -    -   -    Mike_Wallace  *      *             *        (ARG1*      -
+bc/cnn/00/cnn_0004   7   8          they   PRP   (S(NP*))))))))         -    -   -    Mike_Wallace  *      *             *)            *)   (38)
+bc/cnn/00/cnn_0004   7   9           /-      .              *))         -    -   -    Mike_Wallace  *      *             *             *      -
+
+bc/cnn/00/cnn_0004   7   0         You   PRP   (TOP(SQ(NP*)         -    -   -    Mike_Wallace  *    (ARG0*)   (141)
+bc/cnn/00/cnn_0004   7   1    remember    VB          (VP*    remember  01   1    Mike_Wallace  *       (V*)      -
+bc/cnn/00/cnn_0004   7   2       Shock   NNP          (NP*          -    -   -    Mike_Wallace  *    (ARG1*       -
+bc/cnn/00/cnn_0004   7   3         and    CC             *          -    -   -    Mike_Wallace  *         *       -
+bc/cnn/00/cnn_0004   7   4         Awe   NNP            *))         -    -   -    Mike_Wallace  *         *)      -
+bc/cnn/00/cnn_0004   7   5          /?     .            *))         -    -   -    Mike_Wallace  *         *       -
+
+bc/cnn/00/cnn_0004   7   0    Yeah   UH  (TOP(INTJ*   -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0004   7   1      /.    .          *))  -   -   -    Larry_King  *   -
+
+bc/cnn/00/cnn_0004   7    0          The    DT            (TOP(FRAG(NP*        -    -   -    Mike_Wallace  (GPE*    (ARG0*   (ARG0*      *      *         *         *      *      *     (70
+bc/cnn/00/cnn_0004   7    1       United   NNP                        *        -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7    2       States   NNP                        *)       -    -   -    Mike_Wallace      *)        *)       *)     *      *         *         *      *      *      70)
+bc/cnn/00/cnn_0004   7    3    attacking   VBG                  (VP(VP*    attack  01   1    Mike_Wallace      *       (V*)       *      *      *         *         *      *      *    (129)
+bc/cnn/00/cnn_0004   7    4         Iraq   NNP                    (NP*))       -    -   -    Mike_Wallace   (GPE)   (ARG1*)       *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7    5          and    CC                        *        -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7    6      telling   VBG                     (VP*      tell  01   1    Mike_Wallace      *         *      (V*)     *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7    7          the    DT                     (NP*        -    -   -    Mike_Wallace      *         *   (ARG2*      *      *         *         *      *      *      (2
+bc/cnn/00/cnn_0004   7    8        world    NN                        *)       -    -   -    Mike_Wallace      *         *        *)     *      *         *         *      *      *       2)
+bc/cnn/00/cnn_0004   7    9         that    IN                   (SBAR*        -    -   -    Mike_Wallace      *         *   (ARG1*      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   10           we   PRP                   (S(NP*)       -    -   -    Mike_Wallace      *         *        *      *      *    (ARG0*)   (ARG0*)     *      *     (70)
+bc/cnn/00/cnn_0004   7   11         were   VBD                     (VP*        be  03   -    Mike_Wallace      *         *        *    (V*)     *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   12        going   VBG                     (VP*        go  04   7    Mike_Wallace      *         *        *      *    (V*)        *         *      *      *       -
+bc/cnn/00/cnn_0004   7   13           to    TO                   (S(VP*        -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   14        shock    VB                     (VP*     shock  01   1    Mike_Wallace      *         *        *      *      *       (V*)        *      *      *       -
+bc/cnn/00/cnn_0004   7   15          and    CC                        *        -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   16          awe    VB                        *       awe  01   -    Mike_Wallace      *         *        *      *      *         *       (V*)     *      *       -
+bc/cnn/00/cnn_0004   7   17          the    DT                     (NP*        -    -   -    Mike_Wallace      *         *        *      *      *    (ARG1*    (ARG1*      *      *      (2
+bc/cnn/00/cnn_0004   7   18        world    NN                        *)       -    -   -    Mike_Wallace      *         *        *      *      *         *)        *)     *      *       2)
+bc/cnn/00/cnn_0004   7   19         with    IN                     (PP*        -    -   -    Mike_Wallace      *         *        *      *      *    (ARG2*    (ARG2*      *      *       -
+bc/cnn/00/cnn_0004   7   20          the    DT                  (NP(NP*        -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *    (129
+bc/cnn/00/cnn_0004   7   21       attack    NN                        *)   attack   -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   22         that   WDT              (SBAR(WHNP*)       -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   23           we   PRP                   (S(NP*)       -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *     (70)
+bc/cnn/00/cnn_0004   7   24         were   VBD                     (VP*        be  03   -    Mike_Wallace      *         *        *      *      *         *         *    (V*)     *       -
+bc/cnn/00/cnn_0004   7   25        going   VBG                     (VP*        go  04   7    Mike_Wallace      *         *        *      *      *         *         *      *    (V*)      -
+bc/cnn/00/cnn_0004   7   26           to    TO                   (S(VP*        -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   27         make    VB                     (VP*      make   -   1    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+bc/cnn/00/cnn_0004   7   28           on    IN   (PP*)))))))))))))))))))       -    -   -    Mike_Wallace      *         *        *)     *      *         *)        *)     *      *     129)
+bc/cnn/00/cnn_0004   7   29          /-      .                       *))       -    -   -    Mike_Wallace      *         *        *      *      *         *         *      *      *       -
+
+bc/cnn/00/cnn_0004   7    0         I   PRP   (TOP(S(PRN(S(NP*)     -    -   -    Mike_Wallace         *    (ARG0*)               *             *           *         *    (90)
+bc/cnn/00/cnn_0004   7    1      mean   VBP             (VP*)))   mean  01   1    Mike_Wallace         *       (V*)               *             *           *         *      -
+bc/cnn/00/cnn_0004   7    2       and    CC                  *      -    -   -    Mike_Wallace         *         *                *             *           *         *      -
+bc/cnn/00/cnn_0004   7    3        it   PRP               (NP*)     -    -   -    Mike_Wallace         *         *                *             *           *         *      -
+bc/cnn/00/cnn_0004   7    4       was   VBD               (VP*      be  01   1    Mike_Wallace         *         *              (V*)            *           *         *      -
+bc/cnn/00/cnn_0004   7    5    George   NNP               (NP*      -    -   -    Mike_Wallace  (PERSON*         *           (ARG2*             *      (ARG0*         *      -
+bc/cnn/00/cnn_0004   7    6    Tennet   NNP                  *)     -    -   -    Mike_Wallace         *)        *                *)            *           *)        *      -
+bc/cnn/00/cnn_0004   7    7       was   VBD           (PRN(SQ*      be  01   1    Mike_Wallace         *         *       (ARGM-DIS*           (V*)          *         *      -
+bc/cnn/00/cnn_0004   7    8        it   PRP               (NP*)     -    -   -    Mike_Wallace         *         *                *        (ARG1*)          *         *      -
+bc/cnn/00/cnn_0004   7    9       not    RB                 *))     -    -   -    Mike_Wallace         *         *                *)   (ARGM-NEG*)          *         *      -
+bc/cnn/00/cnn_0004   7   10       who    WP        (SBAR(WHNP*)     -    -   -    Mike_Wallace         *         *    (ARG1(R-ARG2*)            *    (R-ARG0*)        *      -
+bc/cnn/00/cnn_0004   7   11      said   VBD             (S(VP*     say  01   1    Mike_Wallace         *         *                *             *         (V*)        *      -
+bc/cnn/00/cnn_0004   7   12        it   PRP             (S(NP*)     -    -   -    Mike_Wallace         *         *                *             *      (ARG1*    (ARG1*)     -
+bc/cnn/00/cnn_0004   7   13        's   VBZ               (VP*      be  01   1    Mike_Wallace         *         *                *             *           *       (V*)     -
+bc/cnn/00/cnn_0004   7   14         a    DT               (NP*      -    -   -    Mike_Wallace         *         *                *             *           *    (ARG2*      -
+bc/cnn/00/cnn_0004   7   15      slam    NN                  *    slam   -   -    Mike_Wallace         *         *                *             *           *         *      -
+bc/cnn/00/cnn_0004   7   16      dunk    NN            *)))))))   dunk   -   -    Mike_Wallace         *         *                *)            *           *)        *)     -
+bc/cnn/00/cnn_0004   7   17        /.     .                 *))     -    -   -    Mike_Wallace         *         *                *             *           *         *      -
+
+bc/cnn/00/cnn_0004   7   0    Yep   UH  (TOP(INTJ*   -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0004   7   1     /.    .          *))  -   -   -    Larry_King  *   -
+
+bc/cnn/00/cnn_0004   7   0           That    IN  (TOP(SBAR*        -    -   -    Mike_Wallace  *             *   -
+bc/cnn/00/cnn_0004   7   1          there    EX      (S(NP*)       -    -   -    Mike_Wallace  *             *   -
+bc/cnn/00/cnn_0004   7   2           were   VBD        (VP*        be  02   3    Mike_Wallace  *           (V*)  -
+bc/cnn/00/cnn_0004   7   3        weapons   NNS     (NP(NP*)   weapon   -   1    Mike_Wallace  *        (ARG1*   -
+bc/cnn/00/cnn_0004   7   4             of    IN        (PP*        -    -   -    Mike_Wallace  *             *   -
+bc/cnn/00/cnn_0004   7   5           mass    JJ        (NP*        -    -   -    Mike_Wallace  *             *   -
+bc/cnn/00/cnn_0004   7   6    destruction    NN         *)))       -    -   -    Mike_Wallace  *             *)  -
+bc/cnn/00/cnn_0004   7   7          there    RB    (ADVP*)))       -    -   -    Mike_Wallace  *    (ARGM-LOC*)  -
+bc/cnn/00/cnn_0004   7   8             /.     .          *))       -    -   -    Mike_Wallace  *             *   -
+
+bc/cnn/00/cnn_0004   7    0        That     DT   (TOP(S(NP*)         -    -   -    Larry_King  *    (ARG1*)            *      *         *    (128)
+bc/cnn/00/cnn_0004   7    1          's    VBZ         (VP*          be  01   1    Larry_King  *       (V*)            *      *         *       -
+bc/cnn/00/cnn_0004   7    2           a     DT      (NP(NP*          -    -   -    Larry_King  *    (ARG2*             *      *         *       -
+bc/cnn/00/cnn_0004   7    3        good     JJ            *          -    -   -    Larry_King  *         *    (ARGM-ADJ*)     *         *       -
+bc/cnn/00/cnn_0004   7    4    question     NN            *)   question  01   1    Larry_King  *         *           (V*)     *         *       -
+bc/cnn/00/cnn_0004   7    5         did    VBD         (SQ*          do  01   -    Larry_King  *         *        (ARG1*    (V*)        *       -
+bc/cnn/00/cnn_0004   7    6          we    PRP         (NP*)         -    -   -    Larry_King  *         *             *      *    (ARG0*)    (70)
+bc/cnn/00/cnn_0004   7    7         put     VB         (VP*         put  01   6    Larry_King  *         *             *      *       (V*)      -
+bc/cnn/00/cnn_0004   7    8         our   PRP$   (NP(NP(NP*          -    -   -    Larry_King  *         *             *      *    (ARG1*     (70)
+bc/cnn/00/cnn_0004   7    9        boys    NNS            *)         -    -   -    Larry_King  *         *             *      *         *       -
+bc/cnn/00/cnn_0004   7   10        male     JJ      (ADJP*))         -    -   -    Larry_King  *         *             *      *         *       -
+bc/cnn/00/cnn_0004   7   11         and     CC            *          -    -   -    Larry_King  *         *             *      *         *       -
+bc/cnn/00/cnn_0004   7   12       girls    NNS         (NP*)         -    -   -    Larry_King  *         *             *      *         *       -
+bc/cnn/00/cnn_0004   7   13         and     CC            *          -    -   -    Larry_King  *         *             *      *         *       -
+bc/cnn/00/cnn_0004   7   14       women    NNS        (NP*))      woman   -   1    Larry_King  *         *             *      *         *)      -
+bc/cnn/00/cnn_0004   7   15          at     IN         (PP*          -    -   -    Larry_King  *         *             *      *    (ARG2*       -
+bc/cnn/00/cnn_0004   7   16       peril     NN    (NP*))))))      peril   -   2    Larry_King  *         *)            *)     *         *)      -
+bc/cnn/00/cnn_0004   7   17          /.      .           *))         -    -   -    Larry_King  *         *             *      *         *       -
+
+bc/cnn/00/cnn_0004   7   0    Mhm   UH  (TOP(INTJ*   -   -   -    Mike_Wallace  *   -
+bc/cnn/00/cnn_0004   7   1     /.    .          *))  -   -   -    Mike_Wallace  *   -

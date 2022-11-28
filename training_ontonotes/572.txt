@@ -1,0 +1,1056 @@
+bc/cnn/00/cnn_0001   2    0        And     CC          (TOP(S*       -    -   -    Rick_Sanchez       *    (ARGM-DIS*)           *        *      -
+bc/cnn/00/cnn_0001   2    1         we    PRP             (NP*)      -    -   -    Rick_Sanchez       *        (ARG0*)           *        *    (93)
+bc/cnn/00/cnn_0001   2    2      begin    VBP             (VP*    begin  01   2    Rick_Sanchez       *           (V*)           *        *      -
+bc/cnn/00/cnn_0001   2    3    tonight     NN             (NP*)      -    -   -    Rick_Sanchez   (TIME)   (ARGM-TMP*)           *        *      -
+bc/cnn/00/cnn_0001   2    4       with     IN             (PP*       -    -   -    Rick_Sanchez       *        (ARG2*            *        *      -
+bc/cnn/00/cnn_0001   2    5        Wal    NNP          (NP(NP*       -    -   -    Rick_Sanchez   (ORG*             *            *        *   (107
+bc/cnn/00/cnn_0001   2    6         -    HYPH                *       -    -   -    Rick_Sanchez       *             *            *        *      -
+bc/cnn/00/cnn_0001   2    7       Mart    NNP                *)      -    -   -    Rick_Sanchez       *)            *            *        *      -
+bc/cnn/00/cnn_0001   2    8          a     DT          (NP(NP*       -    -   -    Rick_Sanchez       *             *   (ARGM-LOC*        *      -
+bc/cnn/00/cnn_0001   2    9      place     NN                *)   place   -   1    Rick_Sanchez       *             *            *)       *      -
+bc/cnn/00/cnn_0001   2   10         no     RB    (SBAR(S(ADVP*       -    -   -    Rick_Sanchez       *             *   (ARGM-DIS*        *      -
+bc/cnn/00/cnn_0001   2   11      doubt     RB                *)      -    -   -    Rick_Sanchez       *             *            *)       *      -
+bc/cnn/00/cnn_0001   2   12       many     JJ          (NP(NP*)      -    -   -    Rick_Sanchez       *             *       (ARG1*   (ARG0*      -
+bc/cnn/00/cnn_0001   2   13         of     IN             (PP*       -    -   -    Rick_Sanchez       *             *            *        *      -
+bc/cnn/00/cnn_0001   2   14        you    PRP           (NP*)))      -    -   -    Rick_Sanchez       *             *            *)       *)     -
+bc/cnn/00/cnn_0001   2   15        are    VBP             (VP*       be  01   1    Rick_Sanchez       *             *          (V*)       *      -
+bc/cnn/00/cnn_0001   2   16     likely     JJ           (ADJP*       -    -   -    Rick_Sanchez       *             *       (ARG2*        *      -
+bc/cnn/00/cnn_0001   2   17         to     TO           (S(VP*       -    -   -    Rick_Sanchez       *             *            *        *      -
+bc/cnn/00/cnn_0001   2   18       shop     VB   (VP*)))))))))))    shop  01   2    Rick_Sanchez       *             *)           *)     (V*)   107)
+bc/cnn/00/cnn_0001   2   19         /.      .               *))      -    -   -    Rick_Sanchez       *             *            *        *      -
+
+bc/cnn/00/cnn_0001   2    0       When    WRB   (TOP(S(SBAR(WHADVP*)       -    -    -    Rick_Sanchez      *    (ARGM-TMP*)  (ARGM-TMP*      -
+bc/cnn/00/cnn_0001   2    1         it    PRP                (S(NP*)       -    -    -    Rick_Sanchez      *             *            *      -
+bc/cnn/00/cnn_0001   2    2      comes    VBZ                  (VP*      come  12   11    Rick_Sanchez      *           (V*)           *      -
+bc/cnn/00/cnn_0001   2    3         to     IN                  (PP*        -    -    -    Rick_Sanchez      *        (ARG1*            *      -
+bc/cnn/00/cnn_0001   2    4     retail     NN              (NP*)))))   retail   -    -    Rick_Sanchez      *             *)           *)     -
+bc/cnn/00/cnn_0001   2    5        Wal    NNP                  (NP*        -    -    -    Rick_Sanchez  (ORG*             *       (ARG1*   (107
+bc/cnn/00/cnn_0001   2    6         -    HYPH                     *        -    -    -    Rick_Sanchez      *             *            *      -
+bc/cnn/00/cnn_0001   2    7       Mart    NNP                     *)       -    -    -    Rick_Sanchez      *)            *            *)   107)
+bc/cnn/00/cnn_0001   2    8         is    VBZ                  (VP*        be  01    2    Rick_Sanchez      *             *          (V*)   (24)
+bc/cnn/00/cnn_0001   2    9        the     DT               (NP(NP*        -    -    -    Rick_Sanchez      *             *       (ARG2*      -
+bc/cnn/00/cnn_0001   2   10    biggest    JJS                     *)       -    -    -    Rick_Sanchez      *             *            *      -
+bc/cnn/00/cnn_0001   2   11         of     IN                  (PP*        -    -    -    Rick_Sanchez      *             *            *      -
+bc/cnn/00/cnn_0001   2   12        the     DT                  (NP*        -    -    -    Rick_Sanchez      *             *            *      -
+bc/cnn/00/cnn_0001   2   13        big     JJ                  *))))       -    -    -    Rick_Sanchez      *             *            *)     -
+bc/cnn/00/cnn_0001   2   14         /.      .                    *))       -    -    -    Rick_Sanchez      *             *            *      -
+
+bc/cnn/00/cnn_0001   2   0       and    CC  (TOP(S*        -    -   -    Rick_Sanchez  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   2   1      that    DT     (NP*)       -    -   -    Rick_Sanchez  *        (ARG0*)    (24)
+bc/cnn/00/cnn_0001   2   2     makes   VBZ     (VP*      make  02   3    Rick_Sanchez  *           (V*)      -
+bc/cnn/00/cnn_0001   2   3        it   PRP   (S(NP*)       -    -   -    Rick_Sanchez  *        (ARG1*    (107)
+bc/cnn/00/cnn_0001   2   4         a    DT     (NP*        -    -   -    Rick_Sanchez  *             *       -
+bc/cnn/00/cnn_0001   2   5       big    JJ        *        -    -   -    Rick_Sanchez  *             *       -
+bc/cnn/00/cnn_0001   2   6    target    NN        *)   target   -   2    Rick_Sanchez  *             *       -
+bc/cnn/00/cnn_0001   2   7        as    RB   (ADVP*        -    -   -    Rick_Sanchez  *             *       -
+bc/cnn/00/cnn_0001   2   8      well    RB      *)))       -    -   -    Rick_Sanchez  *             *)      -
+bc/cnn/00/cnn_0001   2   9        /.     .       *))       -    -   -    Rick_Sanchez  *             *       -
+
+bc/cnn/00/cnn_0001   2    0          Its   PRP$  (TOP(S(NP(NP*         -    -   -    Rick_Sanchez           *             *             *            *        *        (ARG1*             *    (107)
+bc/cnn/00/cnn_0001   2    1    corporate     JJ              *         -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2    2     policies    NNS              *)    policy   -   1    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2    3         from     IN        (PP(PP*         -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2    4       buying    VBG         (S(VP*        buy  01   -    Rick_Sanchez           *           (V*)            *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2    5        cheap     RB      (ADVP*))))        -    -   -    Rick_Sanchez           *    (ARGM-MNR*)            *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2    6           to     IN           (PP*         -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2    7      selling    VBG         (S(VP*       sell  01   -    Rick_Sanchez           *             *           (V*)           *        *             *             *       -
+bc/cnn/00/cnn_0001   2    8        cheap     RB      (ADVP*))))        -    -   -    Rick_Sanchez           *             *    (ARGM-MNR*)           *        *             *             *       -
+bc/cnn/00/cnn_0001   2    9           to     IN           (PP*         -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2   10    providing    VBG         (S(VP*    provide  01   1    Rick_Sanchez           *             *             *          (V*)       *             *             *       -
+bc/cnn/00/cnn_0001   2   11         jobs    NNS           (NP*)       job   -   1    Rick_Sanchez           *             *             *       (ARG1*)       *             *             *       -
+bc/cnn/00/cnn_0001   2   12          for     IN           (PP*         -    -   -    Rick_Sanchez           *             *             *       (ARG2*        *             *             *       -
+bc/cnn/00/cnn_0001   2   13         tens    NNS     (NP(NP(QP*         -    -   -    Rick_Sanchez  (CARDINAL*             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2   14           of     IN              *         -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2   15    thousands    NNS             *))        -    -   -    Rick_Sanchez           *)            *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2   16           of     IN           (PP*         -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2   17       people    NNS        (NP*))))    people   -   1    Rick_Sanchez           *             *             *            *)       *             *             *       -
+bc/cnn/00/cnn_0001   2   18        while     IN         (SBAR*         -    -   -    Rick_Sanchez           *             *             *   (ARGM-TMP*        *             *             *       -
+bc/cnn/00/cnn_0001   2   19       paying    VBG         (S(VP*        pay  01   1    Rick_Sanchez           *             *             *            *      (V*)            *             *       -
+bc/cnn/00/cnn_0001   2   20         rock     NN       (NP(NML*       rock   -   -    Rick_Sanchez           *             *             *            *   (ARG1*             *             *       -
+bc/cnn/00/cnn_0001   2   21       bottom     NN              *)    bottom   -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2   22     salaries    NNS      *)))))))))        -    -   -    Rick_Sanchez           *             *             *            *)       *)            *)            *       -
+bc/cnn/00/cnn_0001   2   23          are    VBP           (VP*         be  01   1    Rick_Sanchez           *             *             *            *        *           (V*)            *       -
+bc/cnn/00/cnn_0001   2   24         also     RB         (ADVP*)        -    -   -    Rick_Sanchez           *             *             *            *        *    (ARGM-ADV*)            *       -
+bc/cnn/00/cnn_0001   2   25      reasons    NNS        (NP(NP*)    reason   -   1    Rick_Sanchez           *             *             *            *        *        (ARG2*    (ARGM-CAU*)      -
+bc/cnn/00/cnn_0001   2   26           it    PRP    (SBAR(S(NP*)        -    -   -    Rick_Sanchez           *             *             *            *        *             *        (ARG1*)   (107)
+bc/cnn/00/cnn_0001   2   27           's    VBZ           (VP*         be  01   2    Rick_Sanchez           *             *             *            *        *             *           (V*)      -
+bc/cnn/00/cnn_0001   2   28            a     DT           (NP*         -    -   -    Rick_Sanchez           *             *             *            *        *             *        (ARG2*       -
+bc/cnn/00/cnn_0001   2   29          big     JJ              *         -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+bc/cnn/00/cnn_0001   2   30       target     NN         *))))))    target   -   2    Rick_Sanchez           *             *             *            *        *             *)            *)      -
+bc/cnn/00/cnn_0001   2   31           /.      .             *))        -    -   -    Rick_Sanchez           *             *             *            *        *             *             *       -
+
+bc/cnn/00/cnn_0001   2    0               In     IN     (TOP(S(PP*         -    -   -    Rick_Sanchez           *   (ARGM-DIS*      *      *      -
+bc/cnn/00/cnn_0001   2    1             fact     NN          (NP*))      fact   -   5    Rick_Sanchez           *            *)     *      *      -
+bc/cnn/00/cnn_0001   2    2            right     RB         (ADVP*         -    -   -    Rick_Sanchez           *   (ARGM-TMP*      *      *      -
+bc/cnn/00/cnn_0001   2    3              now     RB              *)        -    -   -    Rick_Sanchez           *            *)     *      *      -
+bc/cnn/00/cnn_0001   2    4              Wal    NNP           (NP*         -    -   -    Rick_Sanchez       (ORG*       (ARG1*      *      *   (107
+bc/cnn/00/cnn_0001   2    5               -    HYPH              *         -    -   -    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2    6             Mart    NNP              *)        -    -   -    Rick_Sanchez           *)           *)     *      *    107)
+bc/cnn/00/cnn_0001   2    7               is    VBZ           (VP*         be  01   2    Rick_Sanchez           *          (V*)     *      *      -
+bc/cnn/00/cnn_0001   2    8              the     DT        (NP(NP*         -    -   -    Rick_Sanchez           *       (ARG2*      *      *      -
+bc/cnn/00/cnn_0001   2    9          subject     NN              *)   subject   -   1    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2   10               of     IN           (PP*         -    -   -    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2   11              not     RB  (NP(NP(NP(QP*         -    -   -    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2   12              one     CD              *         -    -   -    Rick_Sanchez   (CARDINAL)           *      *      *      -
+bc/cnn/00/cnn_0001   2   13              but     CC              *         -    -   -    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2   14              two     CD              *)        -    -   -    Rick_Sanchez   (CARDINAL)           *      *      *      -
+bc/cnn/00/cnn_0001   2   15    documentaries    NNS              *)        -    -   -    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2   16            about     JJ         (ADJP*         -    -   -    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2   17               to     TO         (S(VP*         -    -   -    Rick_Sanchez           *            *      *      *      -
+bc/cnn/00/cnn_0001   2   18               be     VB           (VP*         be  03   -    Rick_Sanchez           *            *    (V*)     *      -
+bc/cnn/00/cnn_0001   2   19         released    VBN      (VP*))))))   release  01   2    Rick_Sanchez           *            *      *    (V*)     -
+bc/cnn/00/cnn_0001   2   20              one     NN     (NP(NP(NP*)       one   -   2    Rick_Sanchez   (CARDINAL)           *      *      *    (22
+bc/cnn/00/cnn_0001   2   21              for     IN          (PP*))        -    -   -    Rick_Sanchez           *            *      *      *     22)
+bc/cnn/00/cnn_0001   2   22              one     NN        (NP(NP*)       one   -   2    Rick_Sanchez   (CARDINAL)           *      *      *   (105
+bc/cnn/00/cnn_0001   2   23          against     IN     (PP*)))))))        -    -   -    Rick_Sanchez           *            *)     *      *    105)
+bc/cnn/00/cnn_0001   2   24               /.      .             *))        -    -   -    Rick_Sanchez           *            *      *      *      -
+
+bc/cnn/00/cnn_0001   2   0        Two    CD  (TOP(SINV(NP(NP*       -    -   -    Rick_Sanchez   (CARDINAL)  (ARGM-ADV*      *   -
+bc/cnn/00/cnn_0001   2   1    stories   NNS                 *)   story   -   1    Rick_Sanchez           *            *      *   -
+bc/cnn/00/cnn_0001   2   2        one    CD              (NP*       -    -   -    Rick_Sanchez   (CARDINAL)           *      *   -
+bc/cnn/00/cnn_0001   2   3      giant    JJ                 *       -    -   -    Rick_Sanchez           *            *      *   -
+bc/cnn/00/cnn_0001   2   4      store    NN                *))   store   -   1    Rick_Sanchez           *            *)     *   -
+bc/cnn/00/cnn_0001   2   5       here    RB            (ADVP*)      -    -   -    Rick_Sanchez           *       (ARG1*)     *   -
+bc/cnn/00/cnn_0001   2   6         's   VBZ              (VP*)      be  01   4    Rick_Sanchez           *          (V*)     *   -
+bc/cnn/00/cnn_0001   2   7          a    DT              (NP*       -    -   -    Rick_Sanchez           *       (ARG2*      *   -
+bc/cnn/00/cnn_0001   2   8       look    NN                 *)    look  01   2    Rick_Sanchez           *            *)   (V*)  -
+bc/cnn/00/cnn_0001   2   9         /.     .                *))      -    -   -    Rick_Sanchez           *            *      *   -
+
+bc/cnn/00/cnn_0001   2    0      You   PRP    (TOP(S(NP*)      -    -   -    Unidentified_Male      *       (ARG0*)  -
+bc/cnn/00/cnn_0001   2    1    drive   VBP          (VP*    drive  01   1    Unidentified_Male      *          (V*)  -
+bc/cnn/00/cnn_0001   2    2       up    RB   (ADVP(ADVP*)      -    -   -    Unidentified_Male      *       (ARG1*   -
+bc/cnn/00/cnn_0001   2    3      all   PDT     (ADVP(NP*       -    -   -    Unidentified_Male      *            *   -
+bc/cnn/00/cnn_0001   2    4      the    DT             *       -    -   -    Unidentified_Male      *            *   -
+bc/cnn/00/cnn_0001   2    5      way    NN             *)     way   -   7    Unidentified_Male      *            *   -
+bc/cnn/00/cnn_0001   2    6       up    RB             *       -    -   -    Unidentified_Male      *            *   -
+bc/cnn/00/cnn_0001   2    7       to    IN          (PP*       -    -   -    Unidentified_Male      *            *   -
+bc/cnn/00/cnn_0001   2    8      New   NNP          (NP*       -    -   -    Unidentified_Male  (GPE*            *   -
+bc/cnn/00/cnn_0001   2    9     York   NNP             *       -    -   -    Unidentified_Male      *            *   -
+bc/cnn/00/cnn_0001   2   10     City   NNP          *))))      -    -   -    Unidentified_Male      *)           *)  -
+bc/cnn/00/cnn_0001   2   11       on    IN          (PP*       -    -   -    Unidentified_Male      *   (ARGM-LOC*   -
+bc/cnn/00/cnn_0001   2   12    Route   NNP          (NP*       -    -   -    Unidentified_Male  (FAC*            *   -
+bc/cnn/00/cnn_0001   2   13      80     CD           *)))      -    -   -    Unidentified_Male      *)           *)  -
+bc/cnn/00/cnn_0001   2   14       /.     .            *))      -    -   -    Unidentified_Male      *            *   -
+
+bc/cnn/00/cnn_0001   2    0     and     CC  (TOP(S*      -    -   -    Unidentified_Male      *             *   -
+bc/cnn/00/cnn_0001   2    1     you    PRP     (NP*)     -    -   -    Unidentified_Male      *        (ARG0*)  -
+bc/cnn/00/cnn_0001   2    2     'll     MD     (VP*      -    -   -    Unidentified_Male      *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   2    3     see     VB     (VP*     see  01   1    Unidentified_Male      *           (V*)  -
+bc/cnn/00/cnn_0001   2    4       a     DT  (NP(NP*      -    -   -    Unidentified_Male  (ORG*        (ARG1*   -
+bc/cnn/00/cnn_0001   2    5     Wal    NNP        *      -    -   -    Unidentified_Male      *             *   -
+bc/cnn/00/cnn_0001   2    6      -    HYPH        *      -    -   -    Unidentified_Male      *             *   -
+bc/cnn/00/cnn_0001   2    7    Mart    NNP        *)     -    -   -    Unidentified_Male      *)            *   -
+bc/cnn/00/cnn_0001   2    8      up     RB   (ADVP*      -    -   -    Unidentified_Male      *             *   -
+bc/cnn/00/cnn_0001   2    9      on     IN     (PP*      -    -   -    Unidentified_Male      *             *   -
+bc/cnn/00/cnn_0001   2   10     the     DT     (NP*      -    -   -    Unidentified_Male      *             *   -
+bc/cnn/00/cnn_0001   2   11    hill     NN   *))))))   hill   -   -    Unidentified_Male      *             *)  -
+bc/cnn/00/cnn_0001   2   12      /.      .       *))     -    -   -    Unidentified_Male      *             *   -
+
+bc/cnn/00/cnn_0001   2   0        and    CC     (TOP(S*       -    -   -    Unidentified_Male  *             *      -
+bc/cnn/00/cnn_0001   2   1       then    RB      (ADVP*)      -    -   -    Unidentified_Male  *             *      -
+bc/cnn/00/cnn_0001   2   2        you   PRP      (S(NP*)      -    -   -    Unidentified_Male  *        (ARG0*)     -
+bc/cnn/00/cnn_0001   2   3        'll    MD        (VP*       -    -   -    Unidentified_Male  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   2   4      drive    VB        (VP*    drive  01   1    Unidentified_Male  *           (V*)     -
+bc/cnn/00/cnn_0001   2   5    farther    RB   (PP(ADVP*)      -    -   -    Unidentified_Male  *        (ARG1*      -
+bc/cnn/00/cnn_0001   2   6       into    IN           *       -    -   -    Unidentified_Male  *             *      -
+bc/cnn/00/cnn_0001   2   7        the    DT        (NP*       -    -   -    Unidentified_Male  *             *   (126
+bc/cnn/00/cnn_0001   2   8       town    NN       *)))))    town   -   1    Unidentified_Male  *             *)   126)
+bc/cnn/00/cnn_0001   2   9         /.     .          *))      -    -   -    Unidentified_Male  *             *      -
+
+bc/cnn/00/cnn_0001   2   0      and    CC  (TOP(S*      -    -   -    Unidentified_Male  *             *      -
+bc/cnn/00/cnn_0001   2   1      you   PRP     (NP*)     -    -   -    Unidentified_Male  *        (ARG0*)     -
+bc/cnn/00/cnn_0001   2   2      'll    MD     (VP*      -    -   -    Unidentified_Male  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   2   3      see    VB     (VP*     see  01   1    Unidentified_Male  *           (V*)     -
+bc/cnn/00/cnn_0001   2   4       uh    UH   (INTJ*)     -    -   -    Unidentified_Male  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   2   5       an    DT     (NP*      -    -   -    Unidentified_Male  *        (ARG1*   (126
+bc/cnn/00/cnn_0001   2   6    empty    JJ        *      -    -   -    Unidentified_Male  *             *      -
+bc/cnn/00/cnn_0001   2   7     town    NN      *)))   town   -   1    Unidentified_Male  *             *)   126)
+bc/cnn/00/cnn_0001   2   8       /.     .       *))     -    -   -    Unidentified_Male  *             *      -
+
+bc/cnn/00/cnn_0001   2   0       Just    RB   (TOP(S(ADVP*)     -    -   -    Unidentified_Male  *    (ARGM-ADV*)        *       -
+bc/cnn/00/cnn_0001   2   1      looks   VBZ           (VP*    look  02   2    Unidentified_Male  *           (V*)        *       -
+bc/cnn/00/cnn_0001   2   2       like    IN         (SBAR*      -    -   -    Unidentified_Male  *        (ARG1*         *       -
+bc/cnn/00/cnn_0001   2   3          a    DT         (S(NP*      -    -   -    Unidentified_Male  *             *    (ARG2*       -
+bc/cnn/00/cnn_0001   2   4    neutron    NN              *      -    -   -    Unidentified_Male  *             *         *       -
+bc/cnn/00/cnn_0001   2   5       bomb    NN              *)   bomb   -   -    Unidentified_Male  *             *         *)      -
+bc/cnn/00/cnn_0001   2   6        hit   VBD           (VP*     hit  01   1    Unidentified_Male  *             *       (V*)      -
+bc/cnn/00/cnn_0001   2   7         it   PRP       (NP*)))))     -    -   -    Unidentified_Male  *             *)   (ARG1*)   (126)
+bc/cnn/00/cnn_0001   2   8         /.     .             *))     -    -   -    Unidentified_Male  *             *         *       -
+
+bc/cnn/00/cnn_0001   2    0             It    PRP            (TOP(S(NP*)         -    -   -    Rick_Sanchez      *    (ARG1*)          *        *        *           *    (105)
+bc/cnn/00/cnn_0001   2    1             's    VBZ                  (VP*          be  01   1    Rick_Sanchez      *       (V*)          *        *        *           *       -
+bc/cnn/00/cnn_0001   2    2             an     DT               (NP(NP*          -    -   -    Rick_Sanchez      *    (ARG2*      (ARG0*        *        *           *       -
+bc/cnn/00/cnn_0001   2    3      explosive     JJ                     *          -    -   -    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2    4    documentary     NN                     *)         -    -   -    Rick_Sanchez      *         *           *)       *        *           *       -
+bc/cnn/00/cnn_0001   2    5           that    WDT           (SBAR(WHNP*)         -    -   -    Rick_Sanchez      *         *    (R-ARG0*)       *        *           *       -
+bc/cnn/00/cnn_0001   2    6        alleges    VBZ                (S(VP*      allege  01   1    Rick_Sanchez      *         *         (V*)       *        *           *       -
+bc/cnn/00/cnn_0001   2    7            Wal    NNP           (SBAR(S(NP*          -    -   -    Rick_Sanchez  (ORG*         *      (ARG1*   (ARG0*        *           *    (107
+bc/cnn/00/cnn_0001   2    8             -    HYPH                     *          -    -   -    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2    9           Mart    NNP                     *)         -    -   -    Rick_Sanchez      *)        *           *        *)       *           *     107)
+bc/cnn/00/cnn_0001   2   10            has    VBZ                  (VP*        have  03   2    Rick_Sanchez      *         *           *      (V*)       *           *       -
+bc/cnn/00/cnn_0001   2   11              a     DT               (NP(NP*          -    -   -    Rick_Sanchez      *         *           *   (ARG1*        *      (ARG1*       -
+bc/cnn/00/cnn_0001   2   12           take     VB                (S(VP*        take  01   5    Rick_Sanchez      *         *           *        *      (V*)          *       -
+bc/cnn/00/cnn_0001   2   13             no     DT                  (NP*          -    -   -    Rick_Sanchez      *         *           *        *   (ARG1*           *       -
+bc/cnn/00/cnn_0001   2   14      prisoners    NNS                   *)))         -    -   -    Rick_Sanchez      *         *           *        *        *)          *       -
+bc/cnn/00/cnn_0001   2   15       business     NN                     *    business   -   2    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2   16     philosophy     NN                     *)         -    -   -    Rick_Sanchez      *         *           *        *        *           *)      -
+bc/cnn/00/cnn_0001   2   17           that    WDT           (SBAR(WHNP*)         -    -   -    Rick_Sanchez      *         *           *        *        *    (R-ARG1*)      -
+bc/cnn/00/cnn_0001   2   18             is    VBZ                (S(VP*          be  01   1    Rick_Sanchez      *         *           *        *        *         (V*)      -
+bc/cnn/00/cnn_0001   2   19           good     JJ           (ADJP(ADJP*          -    -   -    Rick_Sanchez      *         *           *        *        *      (ARG2*       -
+bc/cnn/00/cnn_0001   2   20            for     IN                  (PP*          -    -   -    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2   21        profits    NNS                (NP*)))     profit   -   1    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2   22            but     CC                     *          -    -   -    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2   23            bad     JJ                (ADJP*          -    -   -    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2   24            for     IN                  (PP*          -    -   -    Rick_Sanchez      *         *           *        *        *           *       -
+bc/cnn/00/cnn_0001   2   25        America    NNP   (NP*))))))))))))))))         -    -   -    Rick_Sanchez   (GPE)        *)          *)       *)       *           *)   (151)
+bc/cnn/00/cnn_0001   2   26             /.      .                    *))         -    -   -    Rick_Sanchez      *         *           *        *        *           *       -
+
+bc/cnn/00/cnn_0001   2   0    They   PRP   (TOP(S(NP*)    -    -       -   Unidentified_Male_2   *      *        (ARG0*)   (107)
+bc/cnn/00/cnn_0001   2   1      do   VBP         (VP*     do  01       -   Unidentified_Male_2   *    (V*)            *       -
+bc/cnn/00/cnn_0001   2   2     n't    RB            *     -    -       -   Unidentified_Male_2   *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   2   3     get    VB         (VP*    get  02   11.12   Unidentified_Male_2   *      *           (V*)      -
+bc/cnn/00/cnn_0001   2   4      it   PRP       (NP*)))    -    -       -   Unidentified_Male_2   *      *        (ARG1*)      -
+bc/cnn/00/cnn_0001   2   5      /.     .           *))    -    -       -   Unidentified_Male_2   *      *             *       -
+
+bc/cnn/00/cnn_0001   2    0         When   WRB   (TOP(S(SBAR(WHADVP*)        -    -   -   Unidentified_Male_2   *         *         *   (ARGM-TMP*         *       -
+bc/cnn/00/cnn_0001   2    1           we   PRP                (S(NP*)        -    -   -   Unidentified_Male_2   *    (ARG0*)   (ARG0*)           *         *       -
+bc/cnn/00/cnn_0001   2    2        start   VBP                  (VP*      start  01   2   Unidentified_Male_2   *       (V*)        *            *         *       -
+bc/cnn/00/cnn_0001   2    3      talking   VBG                (S(VP*       talk  01   1   Unidentified_Male_2   *    (ARG1*       (V*)           *         *       -
+bc/cnn/00/cnn_0001   2    4        about    IN                  (PP*         -    -   -   Unidentified_Male_2   *         *    (ARG1*            *         *       -
+bc/cnn/00/cnn_0001   2    5      quality    NN                  (NP*    quality   -   1   Unidentified_Male_2   *         *         *            *         *       -
+bc/cnn/00/cnn_0001   2    6     reliance    NN               *)))))))        -    -   -   Unidentified_Male_2   *         *)        *)           *)        *       -
+bc/cnn/00/cnn_0001   2    7         they   PRP                  (NP*)        -    -   -   Unidentified_Male_2   *         *         *       (ARG0*)   (ARG0*)   (107)
+bc/cnn/00/cnn_0001   2    8        start   VBP                  (VP*      start  01   2   Unidentified_Male_2   *         *         *          (V*)        *       -
+bc/cnn/00/cnn_0001   2    9      talking   VBG                (S(VP*       talk  01   1   Unidentified_Male_2   *         *         *       (ARG1*       (V*)      -
+bc/cnn/00/cnn_0001   2   10        about    IN                  (PP*         -    -   -   Unidentified_Male_2   *         *         *            *    (ARG1*       -
+bc/cnn/00/cnn_0001   2   11        cheap    JJ                  (NP*         -    -   -   Unidentified_Male_2   *         *         *            *         *       -
+bc/cnn/00/cnn_0001   2   12    underwear    NN                 *)))))        -    -   -   Unidentified_Male_2   *         *         *            *)        *)      -
+bc/cnn/00/cnn_0001   2   13           /.     .                    *))        -    -   -   Unidentified_Male_2   *         *         *            *         *       -
+
+bc/cnn/00/cnn_0001   2    0           At    IN    (TOP(S(PP*           -    -   -    Rick_Sanchez  *   (ARGM-TMP*             *      -
+bc/cnn/00/cnn_0001   2    1         this    DT          (NP*           -    -   -    Rick_Sanchez  *            *             *      -
+bc/cnn/00/cnn_0001   2    2        point    NN            *))       point   -   5    Rick_Sanchez  *            *)            *      -
+bc/cnn/00/cnn_0001   2    3        there    EX          (NP*)          -    -   -    Rick_Sanchez  *            *             *      -
+bc/cnn/00/cnn_0001   2    4           's   VBZ          (VP*           be  02   3    Rick_Sanchez  *          (V*)            *      -
+bc/cnn/00/cnn_0001   2    5    something    NN       (NP(NP*)   something   -   4    Rick_Sanchez  *       (ARG1*        (ARG1*)     -
+bc/cnn/00/cnn_0001   2    6            I   PRP   (SBAR(S(NP*)          -    -   -    Rick_Sanchez  *            *        (ARG0*)   (79)
+bc/cnn/00/cnn_0001   2    7       should    MD          (VP*           -    -   -    Rick_Sanchez  *            *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   2    8         tell    VB          (VP*         tell  01   1    Rick_Sanchez  *            *           (V*)     -
+bc/cnn/00/cnn_0001   2    9          you   PRP    (NP*)))))))          -    -   -    Rick_Sanchez  *            *)       (ARG2*)     -
+bc/cnn/00/cnn_0001   2   10           /.     .            *))          -    -   -    Rick_Sanchez  *            *             *      -
+
+bc/cnn/00/cnn_0001   2    0        When    WRB   (TOP(S(SBAR(WHADVP*)         -    -   -    Rick_Sanchez      *    (ARGM-TMP*)          *        *   (ARGM-TMP*   (ARGM-TMP*         *         *       -
+bc/cnn/00/cnn_0001   2    1         you    PRP                (S(NP*)         -    -   -    Rick_Sanchez      *        (ARG0*)          *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    2          do    VBP                  (VP*          do  02   1    Rick_Sanchez      *           (V*)          *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    3           a     DT               (NP(NP*          -    -   -    Rick_Sanchez      *        (ARG1*           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    4       story     NN                     *)      story   -   1    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    5          on     IN                  (PP*          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    6           a     DT               (NP(NP*          -    -   -    Rick_Sanchez      *             *      (ARG1*        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    7        film     NN                     *)       film   -   1    Rick_Sanchez      *             *           *)       *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    8        that    WDT           (SBAR(WHNP*)         -    -   -    Rick_Sanchez      *             *    (R-ARG1*)       *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2    9          's    VBZ                (S(VP*          be  01   1    Rick_Sanchez      *             *         (V*)       *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   10          as     RB           (ADJP(ADJP*          -    -   -    Rick_Sanchez      *             *      (ARG2*        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   11    critical     JJ                     *          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   12          of     IN                  (PP*          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   13           a     DT                  (NP*          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   14     company     NN                   *)))    company   -   1    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   15          as     IN                (SBAR*          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   16        this     DT                (S(NP*          -    -   -    Rick_Sanchez      *             *           *   (ARG1*            *            *         *         *    (105
+bc/cnn/00/cnn_0001   2   17         one     NN                     *)        one   -   2    Rick_Sanchez      *             *           *        *)           *            *         *         *     105)
+bc/cnn/00/cnn_0001   2   18          is    VBZ                  (VP*          be  01   1    Rick_Sanchez      *             *           *      (V*)           *            *         *         *       -
+bc/cnn/00/cnn_0001   2   19       about     IN             (ADJP(PP*          -    -   -    Rick_Sanchez      *             *           *   (ARG2*            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   20         Wal    NNP                  (NP*          -    -   -    Rick_Sanchez  (ORG*             *           *        *            *            *         *         *    (107
+bc/cnn/00/cnn_0001   2   21          -    HYPH                     *          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   22        Mart    NNP      *))))))))))))))))         -    -   -    Rick_Sanchez      *)            *)          *)       *)           *)           *)        *         *     107)
+bc/cnn/00/cnn_0001   2   23           I    PRP                  (NP*)         -    -   -    Rick_Sanchez      *             *           *        *       (ARG0*)      (ARG0*)   (ARG0*)        *     (79)
+bc/cnn/00/cnn_0001   2   24        want    VBP                  (VP*        want  01   1    Rick_Sanchez      *             *           *        *          (V*)           *         *         *       -
+bc/cnn/00/cnn_0001   2   25          to     TO                (S(VP*          -    -   -    Rick_Sanchez      *             *           *        *       (ARG1*            *         *         *       -
+bc/cnn/00/cnn_0001   2   26        talk     VB                  (VP*        talk  01   1    Rick_Sanchez      *             *           *        *            *          (V*)        *         *       -
+bc/cnn/00/cnn_0001   2   27          to     IN                  (PP*          -    -   -    Rick_Sanchez      *             *           *        *            *       (ARG2*         *         *       -
+bc/cnn/00/cnn_0001   2   28        that     DT               (NP(NP*          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *    (107
+bc/cnn/00/cnn_0001   2   29     company     NN                     *)    company   -   1    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   30         Wal    NNP                  (NP*          -    -   -    Rick_Sanchez  (ORG*             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   31          -    HYPH                     *          -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+bc/cnn/00/cnn_0001   2   32        Mart    NNP                   *)))         -    -   -    Rick_Sanchez      *)            *           *        *            *            *)        *         *     107)
+bc/cnn/00/cnn_0001   2   33          to     TO                (S(VP*          -    -   -    Rick_Sanchez      *             *           *        *            *   (ARGM-PRP*         *         *       -
+bc/cnn/00/cnn_0001   2   34         get     VB                  (VP*         get  01   1    Rick_Sanchez      *             *           *        *            *            *       (V*)        *       -
+bc/cnn/00/cnn_0001   2   35       their   PRP$                  (NP*          -    -   -    Rick_Sanchez      *             *           *        *            *            *    (ARG1*    (ARG0*)   (107)
+bc/cnn/00/cnn_0001   2   36    reaction     NN              *))))))))   reaction  01   2    Rick_Sanchez      *             *           *        *            *)           *)        *)      (V*)      -
+bc/cnn/00/cnn_0001   2   37          /.      .                    *))         -    -   -    Rick_Sanchez      *             *           *        *            *            *         *         *       -
+
+bc/cnn/00/cnn_0001   2    0        Wal    NNP   (TOP(S(NP*    -    -   -    Rick_Sanchez  (ORG*        (ARG1*   (ARG0*   (107
+bc/cnn/00/cnn_0001   2    1         -    HYPH            *    -    -   -    Rick_Sanchez      *             *        *      -
+bc/cnn/00/cnn_0001   2    2       Mart    NNP            *)   -    -   -    Rick_Sanchez      *)            *)       *)   107)
+bc/cnn/00/cnn_0001   2    3         is    VBZ         (VP*    be  01   1    Rick_Sanchez      *           (V*)       *      -
+bc/cnn/00/cnn_0001   2    4        not     RB            *    -    -   -    Rick_Sanchez      *    (ARGM-NEG*)       *      -
+bc/cnn/00/cnn_0001   2    5    willing     JJ       (ADJP*    -    -   -    Rick_Sanchez      *        (ARG2*        *      -
+bc/cnn/00/cnn_0001   2    6         to     TO       (S(VP*    -    -   -    Rick_Sanchez      *             *        *      -
+bc/cnn/00/cnn_0001   2    7         go     VB         (VP*    go  02   1    Rick_Sanchez      *             *      (V*)     -
+bc/cnn/00/cnn_0001   2    8         on     IN         (PP*    -    -   -    Rick_Sanchez      *             *   (ARG4*      -
+bc/cnn/00/cnn_0001   2    9     camera     NN   (NP*)))))))   -    -   -    Rick_Sanchez      *             *)       *)     -
+bc/cnn/00/cnn_0001   2   10         /.      .           *))   -    -   -    Rick_Sanchez      *             *        *      -
+
+bc/cnn/00/cnn_0001   2    0           But     CC                (TOP(S*           -    -    -    Rick_Sanchez  *      *    (ARGM-DIS*)        *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2    1            it    PRP                   (NP*)          -    -    -    Rick_Sanchez  *      *        (ARG0*)        *             *        *             *         *         *    (107)
+bc/cnn/00/cnn_0001   2    2           did    VBD                   (VP*           do  01    -    Rick_Sanchez  *    (V*)            *         *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2    3       provide     VB                   (VP*      provide  01    1    Rick_Sanchez  *      *           (V*)        *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2    4            us    PRP                   (NP*)          -    -    -    Rick_Sanchez  *      *        (ARG2*)        *             *        *             *         *         *     (93)
+bc/cnn/00/cnn_0001   2    5          with     IN                   (PP*           -    -    -    Rick_Sanchez  *      *        (ARG1*         *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2    6             a     DT                (NP(NP*           -    -    -    Rick_Sanchez  *      *             *         *             *   (ARG0*             *         *         *       -
+bc/cnn/00/cnn_0001   2    7       written    VBN                      *        write  01    -    Rick_Sanchez  *      *             *       (V*)   (ARGM-PRD*)       *             *         *         *       -
+bc/cnn/00/cnn_0001   2    8     statement     NN                      *)   statement  01    1    Rick_Sanchez  *      *             *    (ARG1*)          (V*)       *)            *         *         *       -
+bc/cnn/00/cnn_0001   2    9        saying    VBG                   (VP*          say  01    4    Rick_Sanchez  *      *             *         *             *      (V*)            *         *         *       -
+bc/cnn/00/cnn_0001   2   10         quote     UH               (S(INTJ*)          -    -    -    Rick_Sanchez  *      *             *         *             *   (ARG1*    (ARGM-DIS*)        *         *       -
+bc/cnn/00/cnn_0001   2   11          like     IN                   (PP*           -    -    -    Rick_Sanchez  *      *             *         *             *        *    (ARGM-MNR*         *         *       -
+bc/cnn/00/cnn_0001   2   12           any     DT                   (NP*           -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2   13       company     NN                     *))     company   -    1    Rick_Sanchez  *      *             *         *             *        *             *)        *         *       -
+bc/cnn/00/cnn_0001   2   14            we    PRP                   (NP*)          -    -    -    Rick_Sanchez  *      *             *         *             *        *        (ARG0*)   (ARG0*)        *    (107)
+bc/cnn/00/cnn_0001   2   15          want    VBP                   (VP*         want  01    1    Rick_Sanchez  *      *             *         *             *        *           (V*)        *         *       -
+bc/cnn/00/cnn_0001   2   16            to     TO                 (S(VP*           -    -    -    Rick_Sanchez  *      *             *         *             *        *        (ARG1*         *         *       -
+bc/cnn/00/cnn_0001   2   17          make     VB                   (VP*         make  02   16    Rick_Sanchez  *      *             *         *             *        *             *       (V*)        *       -
+bc/cnn/00/cnn_0001   2   18          sure     JJ               (S(ADJP*)          -    -    -    Rick_Sanchez  *      *             *         *             *        *             *    (ARG1*         *       -
+bc/cnn/00/cnn_0001   2   19           our   PRP$            (SBAR(S(NP*           -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *    (ARG0*    (107)
+bc/cnn/00/cnn_0001   2   20    associates    NNS              (NML(NML*)   associate   -    1    Rick_Sanchez  *      *             *         *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2   21     customers    NNS                  (NML*)          -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2   22           and     CC                      *           -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2   23         local     JJ                  (NML*           -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *         *       -
+bc/cnn/00/cnn_0001   2   24     community     NN                    *)))   community   -    1    Rick_Sanchez  *      *             *         *             *        *             *         *         *)      -
+bc/cnn/00/cnn_0001   2   25          feel    VBP                   (VP*         feel  01    1    Rick_Sanchez  *      *             *         *             *        *             *         *       (V*)      -
+bc/cnn/00/cnn_0001   2   26          good     JJ                 (ADJP*           -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *    (ARG1*)      -
+bc/cnn/00/cnn_0001   2   27         about     IN                   (PP*           -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *    (ARG2*       -
+bc/cnn/00/cnn_0001   2   28            us    PRP   (NP*)))))))))))))))))          -    -    -    Rick_Sanchez  *      *             *)        *             *        *)            *)        *)        *)   (107)
+bc/cnn/00/cnn_0001   2   29            /.      .                     *))          -    -    -    Rick_Sanchez  *      *             *         *             *        *             *         *         *       -
+
+bc/cnn/00/cnn_0001   2    0          Wal    NNP      (TOP(S(NP*         -    -   -    Rick_Sanchez  (ORG*       (ARG0*   (ARG0*           *   (107
+bc/cnn/00/cnn_0001   2    1           -    HYPH               *         -    -   -    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2    2         Mart    NNP               *)        -    -   -    Rick_Sanchez      *)           *)       *)          *    107)
+bc/cnn/00/cnn_0001   2    3        makes    VBZ            (VP*       make  02   3    Rick_Sanchez      *          (V*)       *           *      -
+bc/cnn/00/cnn_0001   2    4         life     NN          (S(NP*)      life   -   2    Rick_Sanchez      *       (ARG1*        *           *      -
+bc/cnn/00/cnn_0001   2    5       better    JJR         (ADJP*))        -    -   -    Rick_Sanchez      *            *)       *           *      -
+bc/cnn/00/cnn_0001   2    6          for     IN            (PP*         -    -   -    Rick_Sanchez      *   (ARGM-GOL*        *           *      -
+bc/cnn/00/cnn_0001   2    7           an     DT         (NP(NP*         -    -   -    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2    8        awful     JJ               *         -    -   -    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2    9          lot     NN               *)       lot   -   1    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2   10           of     IN            (PP*         -    -   -    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2   11       people    NNS         (NP*))))    people   -   1    Rick_Sanchez      *            *)       *           *      -
+bc/cnn/00/cnn_0001   2   12           by     IN            (PP*         -    -   -    Rick_Sanchez      *   (ARGM-MNR*        *           *      -
+bc/cnn/00/cnn_0001   2   13    providing    VBG          (S(VP*    provide  01   1    Rick_Sanchez      *            *      (V*)          *      -
+bc/cnn/00/cnn_0001   2   14          low     JJ         (NP(NP*         -    -   -    Rick_Sanchez      *            *   (ARG1*           *    (25
+bc/cnn/00/cnn_0001   2   15       prices    NNS               *)     price   -   1    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2   16          and     CC               *         -    -   -    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2   17         good     JJ            (NP*         -    -   -    Rick_Sanchez      *            *        *           *      -
+bc/cnn/00/cnn_0001   2   18         jobs    NNS              *))       job   -   1    Rick_Sanchez      *            *        *)          *     25)
+bc/cnn/00/cnn_0001   2   19           to     IN            (PP*         -    -   -    Rick_Sanchez      *            *   (ARG2*           *      -
+bc/cnn/00/cnn_0001   2   20        those     DT         (NP(NP*)        -    -   -    Rick_Sanchez      *            *        *      (ARG0*)     -
+bc/cnn/00/cnn_0001   2   21          who     WP     (SBAR(WHNP*)        -    -   -    Rick_Sanchez      *            *        *    (R-ARG0*)     -
+bc/cnn/00/cnn_0001   2   22         need    VBP          (S(VP*       need  01   1    Rick_Sanchez      *            *        *         (V*)     -
+bc/cnn/00/cnn_0001   2   23         them    PRP   (NP*))))))))))        -    -   -    Rick_Sanchez      *            *)       *)     (ARG1*)   (25)
+bc/cnn/00/cnn_0001   2   24           /.      .              *))        -    -   -    Rick_Sanchez      *            *        *           *      -
+
+bc/cnn/00/cnn_0001   2    0        However    RB           (TOP(S(ADVP*)         -    -   -    Rick_Sanchez          *    (ARGM-DIS*)       *             *      *    (ARGM-DIS*)              *       -
+bc/cnn/00/cnn_0001   2    1             we   PRP                   (NP*)         -    -   -    Rick_Sanchez          *        (ARG1*)       *             *      *        (ARG0*)              *    (107)
+bc/cnn/00/cnn_0001   2    2            're   VBP                (VP(VP*          be  01   2    Rick_Sanchez          *           (V*)       *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2    3            the    DT                (NP(NP*          -    -   -    Rick_Sanchez          *        (ARG2*   (ARG0*             *      *             *               *       -
+bc/cnn/00/cnn_0001   2    4          first    JJ                      *)         -    -   -    Rick_Sanchez   (ORDINAL)            *        *)            *      *             *               *       -
+bc/cnn/00/cnn_0001   2    5             to    TO            (SBAR(S(VP*          -    -   -    Rick_Sanchez          *             *        *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2    6          admit    VB                   (VP*       admit  01   1    Rick_Sanchez          *             *      (V*)            *      *             *               *       -
+bc/cnn/00/cnn_0001   2    7             we   PRP            (SBAR(S(NP*)         -    -   -    Rick_Sanchez          *             *   (ARG1*        (ARG1*)     *             *               *    (107)
+bc/cnn/00/cnn_0001   2    8            're   VBP                   (VP*          be  01   1    Rick_Sanchez          *             *        *           (V*)     *             *               *       -
+bc/cnn/00/cnn_0001   2    9            not    RB                      *          -    -   -    Rick_Sanchez          *             *        *    (ARGM-NEG*)     *             *               *       -
+bc/cnn/00/cnn_0001   2   10        perfect    JJ        (ADJP*))))))))))         -    -   -    Rick_Sanchez          *             *)       *)       (ARG2*)     *             *               *       -
+bc/cnn/00/cnn_0001   2   11            and    CC                      *          -    -   -    Rick_Sanchez          *             *        *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2   12           have   VBP                   (VP*        have  01   -    Rick_Sanchez          *             *        *             *    (V*)            *               *       -
+bc/cnn/00/cnn_0001   2   13         worked   VBN                   (VP*        work  01   1    Rick_Sanchez          *             *        *             *      *           (V*)              *       -
+bc/cnn/00/cnn_0001   2   14           hard    RB                 (ADVP*)         -    -   -    Rick_Sanchez          *             *        *             *      *    (ARGM-MNR*)              *       -
+bc/cnn/00/cnn_0001   2   15             to    TO                 (S(VP*          -    -   -    Rick_Sanchez          *             *        *             *      *        (ARG1*               *       -
+bc/cnn/00/cnn_0001   2   16           make    VB                   (VP*        make   -   1    Rick_Sanchez          *             *        *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2   17    substantive    JJ                   (NP*          -    -   -    Rick_Sanchez          *             *        *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2   18       business    NN                      *    business   -   2    Rick_Sanchez          *             *        *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2   19        changes   NNS                      *)     change   -   1    Rick_Sanchez          *             *        *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2   20             in    IN                   (PP*          -    -   -    Rick_Sanchez          *             *        *             *      *             *               *       -
+bc/cnn/00/cnn_0001   2   21          areas   NNS                (NP(NP*)       area   -   2    Rick_Sanchez          *             *        *             *      *             *      (ARGM-LOC*)      -
+bc/cnn/00/cnn_0001   2   22          where   WRB          (SBAR(WHADVP*)         -    -   -    Rick_Sanchez          *             *        *             *      *             *    (R-ARGM-LOC*)      -
+bc/cnn/00/cnn_0001   2   23             we   PRP                 (S(NP*)         -    -   -    Rick_Sanchez          *             *        *             *      *             *          (ARG1*)   (107)
+bc/cnn/00/cnn_0001   2   24           fall   VBP                   (VP*        fall  01   3    Rick_Sanchez          *             *        *             *      *             *             (V*)      -
+bc/cnn/00/cnn_0001   2   25          short    JJ   (S(ADJP*)))))))))))))         -    -   -    Rick_Sanchez          *             *        *             *      *             *)         (ARG4*)      -
+bc/cnn/00/cnn_0001   2   26             /.     .                     *))         -    -   -    Rick_Sanchez          *             *        *             *      *             *               *       -
+
+bc/cnn/00/cnn_0001   2    0        Wal    NNP   (TOP(S(NP*       -    -   -    Unidentified_Male  (ORG*         *      *        (ARG0*        *    (107
+bc/cnn/00/cnn_0001   2    1         -    HYPH            *       -    -   -    Unidentified_Male      *         *      *             *        *       -
+bc/cnn/00/cnn_0001   2    2       Mart    NNP            *)      -    -   -    Unidentified_Male      *)        *      *             *)       *     107)
+bc/cnn/00/cnn_0001   2    3          I    PRP   (PRN(S(NP*)      -    -   -    Unidentified_Male      *    (ARG0*)     *             *        *     (52)
+bc/cnn/00/cnn_0001   2    4      think    VBP       (VP*)))   think  01   1    Unidentified_Male      *       (V*)     *             *        *       -
+bc/cnn/00/cnn_0001   2    5       does    VBZ         (VP*       do  01   -    Unidentified_Male      *         *    (V*)            *        *       -
+bc/cnn/00/cnn_0001   2    6        n't     RB            *       -    -   -    Unidentified_Male      *         *      *    (ARGM-NEG*)       *       -
+bc/cnn/00/cnn_0001   2    7         do     VB         (VP*       do  02   1    Unidentified_Male      *         *      *           (V*)       *       -
+bc/cnn/00/cnn_0001   2    8          a     DT      (NP(NP*       -    -   -    Unidentified_Male      *         *      *        (ARG1*        *       -
+bc/cnn/00/cnn_0001   2    9       good     JJ       (ADJP*       -    -   -    Unidentified_Male      *         *      *             *        *       -
+bc/cnn/00/cnn_0001   2   10     enough     RB            *)      -    -   -    Unidentified_Male      *         *      *             *        *       -
+bc/cnn/00/cnn_0001   2   11        job     NN            *)     job   -   2    Unidentified_Male      *         *      *             *        *       -
+bc/cnn/00/cnn_0001   2   12    telling    VBG       (S(VP*     tell  01   1    Unidentified_Male      *         *      *             *      (V*)      -
+bc/cnn/00/cnn_0001   2   13        its   PRP$         (NP*       -    -   -    Unidentified_Male      *         *      *             *   (ARG1*    (107)
+bc/cnn/00/cnn_0001   2   14      story     NN       *))))))   story   -   1    Unidentified_Male      *         *      *             *)       *)      -
+bc/cnn/00/cnn_0001   2   15         /.      .           *))      -    -   -    Unidentified_Male      *         *      *             *        *       -
+
+bc/cnn/00/cnn_0001   2   0          So     RB   (TOP(SBARQ(ADVP*)      -    -   -    Rick_Sanchez      *      *            *      -
+bc/cnn/00/cnn_0001   2   1         who     WP             (WHNP*)      -    -   -    Rick_Sanchez      *      *       (ARG0*)     -
+bc/cnn/00/cnn_0001   2   2          is    VBZ               (SQ*       be  03   -    Rick_Sanchez      *    (V*)           *      -
+bc/cnn/00/cnn_0001   2   3    speaking    VBG               (VP*    speak  02   4    Rick_Sanchez      *      *          (V*)     -
+bc/cnn/00/cnn_0001   2   4          up     RP              (PRT*)      -    -   -    Rick_Sanchez      *      *            *      -
+bc/cnn/00/cnn_0001   2   5         for     IN               (PP*       -    -   -    Rick_Sanchez      *      *   (ARGM-ADV*      -
+bc/cnn/00/cnn_0001   2   6         Wal    NNP               (NP*       -    -   -    Rick_Sanchez  (ORG*      *            *   (107
+bc/cnn/00/cnn_0001   2   7          -    HYPH                  *       -    -   -    Rick_Sanchez      *      *            *      -
+bc/cnn/00/cnn_0001   2   8        Mart    NNP               *))))      -    -   -    Rick_Sanchez      *)     *            *)   107)
+bc/cnn/00/cnn_0001   2   9          /?      .                 *))      -    -   -    Rick_Sanchez      *      *            *      -
+
+bc/cnn/00/cnn_0001   2   0    This   DT  (TOP(NP*     -   -   -    Rick_Sanchez  *   (17
+bc/cnn/00/cnn_0001   2   1     man   NN         *    man  -   1    Rick_Sanchez  *     -
+bc/cnn/00/cnn_0001   2   2      /.    .        *))    -   -   -    Rick_Sanchez  *    17)
+
+bc/cnn/00/cnn_0001   2    0           But     CC   (TOP(S*          -    -   -    Ron_Galloway      *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   2    1            uh     UH    (INTJ*)         -    -   -    Ron_Galloway      *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   2    2           Wal    NNP      (NP*          -    -   -    Ron_Galloway  (ORG*      *        (ARG0*   (107
+bc/cnn/00/cnn_0001   2    3            -    HYPH         *          -    -   -    Ron_Galloway      *      *             *      -
+bc/cnn/00/cnn_0001   2    4          Mart    NNP         *)         -    -   -    Ron_Galloway      *)     *             *)   107)
+bc/cnn/00/cnn_0001   2    5           has    VBZ      (VP*        have  01   -    Ron_Galloway      *    (V*)            *      -
+bc/cnn/00/cnn_0001   2    6        closed    VBN      (VP*       close  04   1    Ron_Galloway      *      *           (V*)     -
+bc/cnn/00/cnn_0001   2    7          some     DT      (NP*          -    -   -    Ron_Galloway      *      *        (ARG1*      -
+bc/cnn/00/cnn_0001   2    8    businesses    NNS         *)   business   -   2    Ron_Galloway      *      *             *)     -
+bc/cnn/00/cnn_0001   2    9          down     RP   (PRT*)))         -    -   -    Ron_Galloway      *      *             *      -
+bc/cnn/00/cnn_0001   2   10            /.      .        *))         -    -   -    Ron_Galloway      *      *             *      -
+
+bc/cnn/00/cnn_0001   2   0        but    CC  (TOP(S*        -    -   -    Ron_Galloway  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   2   1         it   PRP     (NP*)       -    -   -    Ron_Galloway  *      *        (ARG0*)   (107)
+bc/cnn/00/cnn_0001   2   2         's   VBZ     (VP*        be  03   9    Ron_Galloway  *    (V*)            *       -
+bc/cnn/00/cnn_0001   2   3    created   VBN     (VP*    create  01   1    Ron_Galloway  *      *           (V*)      -
+bc/cnn/00/cnn_0001   2   4     others   NNS   (NP*)))       -    -   -    Ron_Galloway  *      *        (ARG1*)      -
+bc/cnn/00/cnn_0001   2   5         /.     .       *))       -    -   -    Ron_Galloway  *      *             *       -
+
+bc/cnn/00/cnn_0001   2   0      In   IN  (TOP(S(PP*      -   -   -    Ron_Galloway  *   -
+bc/cnn/00/cnn_0001   2   1    fact   NN       (NP*))   fact  -   5    Ron_Galloway  *   -
+bc/cnn/00/cnn_0001   2   2     /-     .          *))     -   -   -    Ron_Galloway  *   -
+
+bc/cnn/00/cnn_0001   2    0          In    IN  (TOP(S(PP*       -    -   -    Rick_Sanchez         *      *    (ARGM-DIS*      -
+bc/cnn/00/cnn_0001   2    1        fact    NN       (NP*))    fact   -   5    Rick_Sanchez         *      *             *)     -
+bc/cnn/00/cnn_0001   2    2         Ron   NNP        (NP*       -    -   -    Rick_Sanchez  (PERSON*      *        (ARG0*    (17
+bc/cnn/00/cnn_0001   2    3    Galloway   NNP           *)      -    -   -    Rick_Sanchez         *)     *             *)    17)
+bc/cnn/00/cnn_0001   2    4          is   VBZ        (VP*       be  03   -    Rick_Sanchez         *    (V*)            *      -
+bc/cnn/00/cnn_0001   2    5         not    RB     (CONJP*       -    -   -    Rick_Sanchez         *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   2    6        only    RB           *)      -    -   -    Rick_Sanchez         *      *             *      -
+bc/cnn/00/cnn_0001   2    7    speaking   VBG        (VP*    speak  02   4    Rick_Sanchez         *      *           (V*)     -
+bc/cnn/00/cnn_0001   2    8          up    RP       (PRT*)      -    -   -    Rick_Sanchez         *      *             *      -
+bc/cnn/00/cnn_0001   2    9         for    IN        (PP*       -    -   -    Rick_Sanchez         *      *    (ARGM-ADV*      -
+bc/cnn/00/cnn_0001   2   10         the    DT        (NP*       -    -   -    Rick_Sanchez         *      *             *   (107
+bc/cnn/00/cnn_0001   2   11      retail    JJ           *       -    -   -    Rick_Sanchez         *      *             *      -
+bc/cnn/00/cnn_0001   2   12       giant    NN        *))))      -    -   -    Rick_Sanchez         *      *             *)   107)
+bc/cnn/00/cnn_0001   2   13          /.     .          *))      -    -   -    Rick_Sanchez         *      *             *      -
+
+bc/cnn/00/cnn_0001   2    0             he    PRP           (TOP(S(NP*)         -    -   -    Rick_Sanchez      *      *        (ARG0*)          *           *         (17)
+bc/cnn/00/cnn_0001   2    1             's    VBZ                 (VP*          be  03   9    Rick_Sanchez      *    (V*)            *           *           *           -
+bc/cnn/00/cnn_0001   2    2           also     RB               (ADVP*)         -    -   -    Rick_Sanchez      *      *    (ARGM-ADV*)          *           *           -
+bc/cnn/00/cnn_0001   2    3      producing    VBG                 (VP*     produce  01   2    Rick_Sanchez      *      *           (V*)          *           *           -
+bc/cnn/00/cnn_0001   2    4              a     DT           (NP(NP(NP*          -    -   -    Rick_Sanchez      *      *        (ARG1*           *           *         (22
+bc/cnn/00/cnn_0001   2    5    documentary     NN                    *)         -    -   -    Rick_Sanchez      *      *             *           *           *           -
+bc/cnn/00/cnn_0001   2    6             in     IN                 (PP*          -    -   -    Rick_Sanchez      *      *             *           *           *           -
+bc/cnn/00/cnn_0001   2    7          their   PRP$                 (NP*          -    -   -    Rick_Sanchez      *      *             *           *           *        (107)
+bc/cnn/00/cnn_0001   2    8        defense     NN                  *)))    defense   -   2    Rick_Sanchez      *      *             *           *           *           -
+bc/cnn/00/cnn_0001   2    9            one     NN              (NP(NP*)        one   -   2    Rick_Sanchez      *      *             *      (ARG0*)          *           -
+bc/cnn/00/cnn_0001   2   10           that    WDT          (SBAR(WHNP*)         -    -   -    Rick_Sanchez      *      *             *    (R-ARG0*)          *           -
+bc/cnn/00/cnn_0001   2   11        depicts    VBZ               (S(VP*      depict  01   1    Rick_Sanchez      *      *             *         (V*)          *           -
+bc/cnn/00/cnn_0001   2   12            Wal    NNP                 (NP*          -    -   -    Rick_Sanchez  (ORG*      *             *      (ARG1*           *        (107
+bc/cnn/00/cnn_0001   2   13             -    HYPH                    *          -    -   -    Rick_Sanchez      *      *             *           *           *           -
+bc/cnn/00/cnn_0001   2   14           Mart    NNP                    *)         -    -   -    Rick_Sanchez      *)     *             *           *)          *         107)
+bc/cnn/00/cnn_0001   2   15             as     IN                 (PP*          -    -   -    Rick_Sanchez      *      *             *      (ARG2*           *           -
+bc/cnn/00/cnn_0001   2   16             an     DT              (NP(NP*          -    -   -    Rick_Sanchez      *      *             *           *      (ARG1*           -
+bc/cnn/00/cnn_0001   2   17      ingenious     JJ                    *          -    -   -    Rick_Sanchez      *      *             *           *           *           -
+bc/cnn/00/cnn_0001   2   18       business     NN                    *    business   -   2    Rick_Sanchez      *      *             *           *           *           -
+bc/cnn/00/cnn_0001   2   19           plan     NN                    *)       plan   -   2    Rick_Sanchez      *      *             *           *           *)          -
+bc/cnn/00/cnn_0001   2   20           that    WDT          (SBAR(WHNP*)         -    -   -    Rick_Sanchez      *      *             *           *    (R-ARG1*)          -
+bc/cnn/00/cnn_0001   2   21             is    VBZ               (S(VP*          be  01   1    Rick_Sanchez      *      *             *           *         (V*)          -
+bc/cnn/00/cnn_0001   2   22           good     JJ               (ADJP*          -    -   -    Rick_Sanchez      *      *             *           *      (ARG2*           -
+bc/cnn/00/cnn_0001   2   23            for     IN                 (PP*          -    -   -    Rick_Sanchez      *      *             *           *           *           -
+bc/cnn/00/cnn_0001   2   24        America    NNP   (NP*)))))))))))))))         -    -   -    Rick_Sanchez   (GPE)     *             *)          *)          *)   (151)|22)
+bc/cnn/00/cnn_0001   2   25             /.      .                   *))         -    -   -    Rick_Sanchez      *      *             *           *           *           -
+
+bc/cnn/00/cnn_0001   2    0          So    RB  (TOP(S(NP(ADJP*        -    -   -    Unidentified_Female  *   (ARG0*        *       -
+bc/cnn/00/cnn_0001   2    1        many    JJ                *)       -    -   -    Unidentified_Female  *        *        *       -
+bc/cnn/00/cnn_0001   2    2      people   NNS                *)   people   -   1    Unidentified_Female  *        *)       *       -
+bc/cnn/00/cnn_0001   2    3        have   VBP             (VP*      have  03   2    Unidentified_Female  *      (V*)       *       -
+bc/cnn/00/cnn_0001   2    4          so    RB     (NP(NP(ADJP*        -    -   -    Unidentified_Female  *   (ARG1*   (ARG1*       -
+bc/cnn/00/cnn_0001   2    5        many    JJ                *)       -    -   -    Unidentified_Female  *        *        *       -
+bc/cnn/00/cnn_0001   2    6    negative    JJ                *        -    -   -    Unidentified_Female  *        *        *       -
+bc/cnn/00/cnn_0001   2    7      things   NNS                *)    thing   -   1    Unidentified_Female  *        *        *)      -
+bc/cnn/00/cnn_0001   2    8          to    TO      (SBAR(S(VP*        -    -   -    Unidentified_Female  *        *        *       -
+bc/cnn/00/cnn_0001   2    9         say    VB             (VP*       say  01   1    Unidentified_Female  *        *      (V*)      -
+bc/cnn/00/cnn_0001   2   10       about    IN             (PP*        -    -   -    Unidentified_Female  *        *   (ARG3*       -
+bc/cnn/00/cnn_0001   2   11          it   PRP      (NP*))))))))       -    -   -    Unidentified_Female  *        *)       *)   (107)
+bc/cnn/00/cnn_0001   2   12          /.     .               *))       -    -   -    Unidentified_Female  *        *        *       -
+
+bc/cnn/00/cnn_0001   2   0         but    CC  (TOP(SBARQ*       -   -   -    Unidentified_Female  *   -
+bc/cnn/00/cnn_0001   2   1        what    WP       (WHNP*)      -   -   -    Unidentified_Female  *   -
+bc/cnn/00/cnn_0001   2   2       about    IN    (FRAG(PP*       -   -   -    Unidentified_Female  *   -
+bc/cnn/00/cnn_0001   2   3         the    DT         (NP*       -   -   -    Unidentified_Female  *   -
+bc/cnn/00/cnn_0001   2   4    positive    JJ            *       -   -   -    Unidentified_Female  *   -
+bc/cnn/00/cnn_0001   2   5      things   NNS          *)))   thing  -   1    Unidentified_Female  *   -
+bc/cnn/00/cnn_0001   2   6          /?     .           *))      -   -   -    Unidentified_Female  *   -
+
+bc/cnn/00/cnn_0001   2    0           While    IN  (TOP(S(SBAR*           -    -   -    Rick_Sanchez         *         *         -
+bc/cnn/00/cnn_0001   2    1        Galloway   NNP     (S(NP(NP*           -    -   -    Rick_Sanchez   (PERSON)   (ARG0*   (17|(22
+bc/cnn/00/cnn_0001   2    2              's   POS             *)          -    -   -    Rick_Sanchez         *         *        17)
+bc/cnn/00/cnn_0001   2    3    pro-Wal-Mart    JJ             *           -    -   -    Rick_Sanchez      (ORG)        *      (107)
+bc/cnn/00/cnn_0001   2    4            film    NN             *)        film   -   1    Rick_Sanchez         *         *)       22)
+bc/cnn/00/cnn_0001   2    5      introduces   VBZ          (VP*    introduce  01   1    Rick_Sanchez         *       (V*)        -
+bc/cnn/00/cnn_0001   2    6              us   PRP          (NP*)          -    -   -    Rick_Sanchez         *    (ARG1*)        -
+bc/cnn/00/cnn_0001   2    7              to    IN          (PP*           -    -   -    Rick_Sanchez         *    (ARG2*         -
+bc/cnn/00/cnn_0001   2    8        grateful    JJ          (NP*           -    -   -    Rick_Sanchez         *         *         -
+bc/cnn/00/cnn_0001   2    9       employees   NNS         *)))))          -    -   -    Rick_Sanchez         *         *)        -
+bc/cnn/00/cnn_0001   2   10             /-      .            *))          -    -   -    Rick_Sanchez         *         *         -
+
+bc/cnn/00/cnn_0001   2    0    Somebody     NN      (TOP(S(NP*)     -    -    -   Unidentified_Female_2   *       (ARG0*)            *       -
+bc/cnn/00/cnn_0001   2    1         did    VBD            (VP*      do  02    1   Unidentified_Female_2   *          (V*)            *       -
+bc/cnn/00/cnn_0001   2    2          it    PRP            (NP*)     -    -    -   Unidentified_Female_2   *       (ARG1*)            *       -
+bc/cnn/00/cnn_0001   2    3         for     IN            (PP*      -    -    -   Unidentified_Female_2   *       (ARG2*             *       -
+bc/cnn/00/cnn_0001   2    4          me    PRP           (NP*))     -    -    -   Unidentified_Female_2   *            *)            *    (162)
+bc/cnn/00/cnn_0001   2    5          at     IN            (PP*      -    -    -   Unidentified_Female_2   *   (ARGM-TMP*             *       -
+bc/cnn/00/cnn_0001   2    6           a     DT         (NP(NP*      -    -    -   Unidentified_Female_2   *            *             *       -
+bc/cnn/00/cnn_0001   2    7        time     NN               *)   time   -    2   Unidentified_Female_2   *            *             *       -
+bc/cnn/00/cnn_0001   2    8          in     IN            (PP*      -    -    -   Unidentified_Female_2   *            *             *       -
+bc/cnn/00/cnn_0001   2    9          my   PRP$            (NP*      -    -    -   Unidentified_Female_2   *            *             *    (162)
+bc/cnn/00/cnn_0001   2   10        life     NN            *))))   life   -   10   Unidentified_Female_2   *            *)            *       -
+bc/cnn/00/cnn_0001   2   11        when    WRB   (SBAR(WHADVP*)     -    -    -   Unidentified_Female_2   *   (ARGM-TMP*    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0001   2   12           I    PRP          (S(NP*)     -    -    -   Unidentified_Female_2   *            *        (ARG1*)   (162)
+bc/cnn/00/cnn_0001   2   13         was    VBD            (VP*      be  01    1   Unidentified_Female_2   *            *           (V*)      -
+bc/cnn/00/cnn_0001   2   14     totally     RB          (ADJP*      -    -    -   Unidentified_Female_2   *            *        (ARG2*       -
+bc/cnn/00/cnn_0001   2   15    hopeless     JJ           *)))))     -    -    -   Unidentified_Female_2   *            *)            *)      -
+bc/cnn/00/cnn_0001   2   16          /.      .              *))     -    -    -   Unidentified_Female_2   *            *             *       -
+
+bc/cnn/00/cnn_0001   2    0          the     DT   (TOP(S(NP*           -    -   -    Rick_Sanchez        *   (ARG0*            *        *    (105
+bc/cnn/00/cnn_0001   2    1     anti-Wal     JJ       (ADJP*           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2    2           -    HYPH            *           -    -   -    Rick_Sanchez    (ORG*        *            *        *    (107
+bc/cnn/00/cnn_0001   2    3         mart     JJ            *)          -    -   -    Rick_Sanchez        *)       *            *        *     107)
+bc/cnn/00/cnn_0001   2    4         film     NN            *)        film   -   1    Rick_Sanchez        *        *)           *        *     105)
+bc/cnn/00/cnn_0001   2    5       points    VBZ         (VP*        point  02   1    Rick_Sanchez        *      (V*)           *        *       -
+bc/cnn/00/cnn_0001   2    6          out     RP        (PRT*)          -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2    7         that     IN  (SBAR(SBAR*           -    -   -    Rick_Sanchez        *   (ARG1*            *        *       -
+bc/cnn/00/cnn_0001   2    8           in     IN       (S(PP*           -    -   -    Rick_Sanchez        *        *   (ARGM-TMP*        *       -
+bc/cnn/00/cnn_0001   2    9          two     CD         (NP*           -    -   -    Rick_Sanchez   (DATE*        *            *        *       -
+bc/cnn/00/cnn_0001   2   10     thousand     CD            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   11          one     CD           *))          -    -   -    Rick_Sanchez        *)       *            *)       *       -
+bc/cnn/00/cnn_0001   2   12    according    VBG         (PP*    according   -   -    Rick_Sanchez        *        *   (ARGM-ADV*        *       -
+bc/cnn/00/cnn_0001   2   13           to     IN         (PP*           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   14        court     NN         (NP*        court   -   2    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   15    documents    NNS          *)))    document   -   1    Rick_Sanchez        *        *            *)       *       -
+bc/cnn/00/cnn_0001   2   16      workers    NNS         (NP*)      worker   -   1    Rick_Sanchez        *        *       (ARG0*)       *    (119)
+bc/cnn/00/cnn_0001   2   17         made    VBD         (VP*         make  05   7    Rick_Sanchez        *        *          (V*)       *       -
+bc/cnn/00/cnn_0001   2   18           on     IN         (PP*           -    -   -    Rick_Sanchez        *        *   (ARGM-ADV*        *       -
+bc/cnn/00/cnn_0001   2   19      average     JJ      (ADJP*))          -    -   -    Rick_Sanchez        *        *            *)       *       -
+bc/cnn/00/cnn_0001   2   20         less    JJR   (NP(NP(QP*           -    -   -    Rick_Sanchez  (MONEY*        *       (ARG1*        *       -
+bc/cnn/00/cnn_0001   2   21         than     IN            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   22     fourteen     CD            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   23     thousand     CD            *)          -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   24      dollars    NNS            *)          -    -   -    Rick_Sanchez        *)       *            *        *       -
+bc/cnn/00/cnn_0001   2   25            a     DT         (NP*           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   26         year     NN        *)))))          -    -   -    Rick_Sanchez        *        *            *)       *       -
+bc/cnn/00/cnn_0001   2   27            ,      ,            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   28         that     IN       (SBAR*           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   29          Wal    NNP    (S(NP(NP*           -    -   -    Rick_Sanchez    (ORG*        *            *   (ARG0*    (107
+bc/cnn/00/cnn_0001   2   30           -    HYPH            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   31         Mart    NNP            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   32           's    POS            *)          -    -   -    Rick_Sanchez        *)       *            *        *     107)
+bc/cnn/00/cnn_0001   2   33          CEO     NN            *)          -    -   -    Rick_Sanchez        *        *            *        *)      -
+bc/cnn/00/cnn_0001   2   34         made    VBD         (VP*         make  05   7    Rick_Sanchez        *        *            *      (V*)      -
+bc/cnn/00/cnn_0001   2   35       twenty     CD   (NP(NP(QP*           -    -   -    Rick_Sanchez  (MONEY*        *            *   (ARG1*       -
+bc/cnn/00/cnn_0001   2   36           -    HYPH            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   37        seven     CD            *           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   38      million     CD            *)          -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   39      dollars    NNS            *)          -    -   -    Rick_Sanchez        *)       *            *        *       -
+bc/cnn/00/cnn_0001   2   40            a     DT         (NP*           -    -   -    Rick_Sanchez        *        *            *        *       -
+bc/cnn/00/cnn_0001   2   41         year     NN      *)))))))          -    -   -    Rick_Sanchez        *        *)           *        *)      -
+bc/cnn/00/cnn_0001   2   42           /.      .           *))          -    -   -    Rick_Sanchez        *        *            *        *       -
+
+bc/cnn/00/cnn_0001   2    0           It    PRP        (TOP(S(NP*)       -    -   -    Rick_Sanchez           *        (ARG0*)       *            *            *        *    (105)
+bc/cnn/00/cnn_0001   2    1         also     RB            (ADVP*)       -    -   -    Rick_Sanchez           *    (ARGM-ADV*)       *            *            *        *       -
+bc/cnn/00/cnn_0001   2    2     revealed    VBD              (VP*    reveal  01   2    Rick_Sanchez           *           (V*)       *            *            *        *       -
+bc/cnn/00/cnn_0001   2    3         that     IN            (SBAR*        -    -   -    Rick_Sanchez           *        (ARG1*        *            *            *        *       -
+bc/cnn/00/cnn_0001   2    4          the     DT      (S(NP(NP(NP*        -    -   -    Rick_Sanchez           *             *   (ARG0*            *            *        *    (144
+bc/cnn/00/cnn_0001   2    5       owners    NNS                 *)    owner   -   1    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2    6           of     IN              (PP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2    7          Wal    NNP              (NP*        -    -   -    Rick_Sanchez       (ORG*             *        *            *            *        *    (107
+bc/cnn/00/cnn_0001   2    8           -    HYPH                 *        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2    9         Mart    NNP               *)))       -    -   -    Rick_Sanchez           *)            *        *            *            *        *     107)
+bc/cnn/00/cnn_0001   2   10          the     DT              (NP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   11       Walton    NNP                 *        -    -   -    Rick_Sanchez     (PERSON)            *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   12       family     NN                *))   family   -   1    Rick_Sanchez           *             *        *)           *            *        *     144)
+bc/cnn/00/cnn_0001   2   13          has    VBZ              (VP*      have  03   1    Rick_Sanchez           *             *      (V*)           *            *        *       -
+bc/cnn/00/cnn_0001   2   14           an     DT           (NP(NP*        -    -   -    Rick_Sanchez           *             *   (ARG1*            *            *        *       -
+bc/cnn/00/cnn_0001   2   15      average     JJ                 *        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   16          net     NN                 *       net   -   3    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   17        worth     NN                 *)    worth   -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   18           at     IN              (PP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   19           or     CC                 *        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   20         near     IN                 *        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   21          one     CD        (NP(NP(QP*        -    -   -    Rick_Sanchez     (MONEY*             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   22      hundred     CD                 *        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   23      billion     CD                 *)       -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   24      dollars    NNS                 *)       -    -   -    Rick_Sanchez           *)            *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   25         give     VB        (PRN(S(VP*      give  01   -    Rick_Sanchez           *             *        *          (V*)           *        *       -
+bc/cnn/00/cnn_0001   2   26           or     CC                 *        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   27         take     VB                 *      take  01   5    Rick_Sanchez           *             *        *            *          (V*)       *       -
+bc/cnn/00/cnn_0001   2   28            a     DT           (NP(QP*        -    -   -    Rick_Sanchez  (CARDINAL*             *        *       (ARG1*       (ARG1*        *       -
+bc/cnn/00/cnn_0001   2   29      billion     CD                *))       -    -   -    Rick_Sanchez           *)            *        *            *)           *)       *       -
+bc/cnn/00/cnn_0001   2   30         here     RB            (ADVP*        -    -   -    Rick_Sanchez           *             *        *   (ARGM-LOC*   (ARGM-LOC*        *       -
+bc/cnn/00/cnn_0001   2   31           or     CC                 *        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   32        there     RB                 *)       -    -   -    Rick_Sanchez           *             *        *            *)           *)       *       -
+bc/cnn/00/cnn_0001   2   33    depending    VBG              (PP*    depend  01   1    Rick_Sanchez           *             *        *   (ARGM-ADV*   (ARGM-ADV*      (V*)      -
+bc/cnn/00/cnn_0001   2   34           on     IN              (PP*        -    -   -    Rick_Sanchez           *             *        *            *            *   (ARG1*       -
+bc/cnn/00/cnn_0001   2   35          the     DT           (NP(NP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   36        price     NN                 *)    price   -   1    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   37           of     IN              (PP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   38        their   PRP$              (NP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *    (144)
+bc/cnn/00/cnn_0001   2   39        stock     NN                *))    stock   -   1    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   40           at     IN              (PP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   41          the     DT              (NP*        -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+bc/cnn/00/cnn_0001   2   42         time     NN   *)))))))))))))))     time   -   1    Rick_Sanchez           *             *)       *)           *)           *)       *)      -
+bc/cnn/00/cnn_0001   2   43           /.      .                *))       -    -   -    Rick_Sanchez           *             *        *            *            *        *       -
+
+bc/cnn/00/cnn_0001   2    0           Now     UH   (TOP(S(INTJ*)           -    -   -    Rick_Sanchez      *      *         *    (ARGM-DIS*)        *           -
+bc/cnn/00/cnn_0001   2    1            as     IN           (PP*            -    -   -    Rick_Sanchez      *      *         *    (ARGM-ADV*         *           -
+bc/cnn/00/cnn_0001   2    2           for     IN           (PP*            -    -   -    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2    3           the     DT           (NP*            -    -   -    Rick_Sanchez      *      *         *             *         *        (119
+bc/cnn/00/cnn_0001   2    4       workers    NNS      (NML(NML*)       worker   -   1    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2    5            or     CC              *            -    -   -    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2    6    associates    NNS      (NML(NML*)    associate   -   1    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2    7            as     IN         (SBAR*            -    -   -    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2    8          they    PRP         (S(NP*)           -    -   -    Rick_Sanchez      *      *    (ARG1*)            *         *        (119)
+bc/cnn/00/cnn_0001   2    9           're    VBP           (VP*            be  03   -    Rick_Sanchez      *    (V*)        *             *         *           -
+bc/cnn/00/cnn_0001   2   10        called    VBN           (VP*          call  01   5    Rick_Sanchez      *      *       (V*)            *         *           -
+bc/cnn/00/cnn_0001   2   11            by     IN           (PP*            -    -   -    Rick_Sanchez      *      *    (ARG0*             *         *           -
+bc/cnn/00/cnn_0001   2   12           Wal    NNP           (NP*            -    -   -    Rick_Sanchez  (ORG*      *         *             *         *        (107
+bc/cnn/00/cnn_0001   2   13            -    HYPH              *            -    -   -    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2   14          Mart    NNP    *)))))))))))           -    -   -    Rick_Sanchez      *)     *         *)            *)        *    119)|107)
+bc/cnn/00/cnn_0001   2   15         their   PRP$           (NP*            -    -   -    Rick_Sanchez      *      *         *        (ARG1*         *        (119)
+bc/cnn/00/cnn_0001   2   16       average     JJ              *            -    -   -    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2   17        salary     NN              *)           -    -   -    Rick_Sanchez      *      *         *             *)        *           -
+bc/cnn/00/cnn_0001   2   18            is    VBZ           (VP*            be  01   7    Rick_Sanchez      *      *         *           (V*)        *           -
+bc/cnn/00/cnn_0001   2   19         below     IN           (PP*            -    -   -    Rick_Sanchez      *      *         *        (ARG2*         *           -
+bc/cnn/00/cnn_0001   2   20          what     WP    (SBAR(WHNP*)           -    -   -    Rick_Sanchez      *      *         *             *    (ARG1*)          -
+bc/cnn/00/cnn_0001   2   21           the     DT         (S(NP*            -    -   -    Rick_Sanchez      *      *         *             *    (ARG0*           -
+bc/cnn/00/cnn_0001   2   22    government     NN              *)   government   -   1    Rick_Sanchez      *      *         *             *         *)          -
+bc/cnn/00/cnn_0001   2   23     considers    VBZ           (VP*      consider  02   1    Rick_Sanchez      *      *         *             *       (V*)          -
+bc/cnn/00/cnn_0001   2   24           the     DT         (S(NP*            -    -   -    Rick_Sanchez      *      *         *             *    (ARG2*           -
+bc/cnn/00/cnn_0001   2   25       federal     JJ              *            -    -   -    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2   26       poverty     NN              *            -    -   -    Rick_Sanchez      *      *         *             *         *           -
+bc/cnn/00/cnn_0001   2   27          line     NN        *)))))))         line   -   6    Rick_Sanchez      *      *         *             *)        *)          -
+bc/cnn/00/cnn_0001   2   28            /.      .             *))           -    -   -    Rick_Sanchez      *      *         *             *         *           -
+
+bc/cnn/00/cnn_0001   2    0      There    EX    (TOP(S(NP*)        -    -   -    Unidentified_Male  *        *             *      *             *      -
+bc/cnn/00/cnn_0001   2    1       were   VBD          (VP*         be  02   3    Unidentified_Male  *      (V*)            *      *             *      -
+bc/cnn/00/cnn_0001   2    2     people   NNS    (NP(NP(NP*)    people   -   1    Unidentified_Male  *   (ARG1*        (ARG1*)     *        (ARG0*    (91
+bc/cnn/00/cnn_0001   2    3          I   PRP   (SBAR(S(NP*)        -    -   -    Unidentified_Male  *        *        (ARG0*)     *             *    (52)
+bc/cnn/00/cnn_0001   2    4         'd    MD          (VP*         -    -   -    Unidentified_Male  *        *    (ARGM-MOD*)     *             *      -
+bc/cnn/00/cnn_0001   2    5        see    VB      (VP*)))))       see  01   1    Unidentified_Male  *        *           (V*)     *             *)     -
+bc/cnn/00/cnn_0001   2    6       that   WDT   (SBAR(WHNP*)        -    -   -    Unidentified_Male  *        *             *      *      (R-ARG0*)     -
+bc/cnn/00/cnn_0001   2    7        did   VBD        (S(VP*         do  01   -    Unidentified_Male  *        *             *    (V*)            *      -
+bc/cnn/00/cnn_0001   2    8        n't    RB             *         -    -   -    Unidentified_Male  *        *             *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   2    9        eat    VB          (VP*        eat  01   1    Unidentified_Male  *        *             *      *           (V*)     -
+bc/cnn/00/cnn_0001   2   10    nothing    NN    (NP*)))))))   nothing   -   2    Unidentified_Male  *        *)            *      *        (ARG1*)    91)
+bc/cnn/00/cnn_0001   2   11         /.     .            *))        -    -   -    Unidentified_Male  *        *             *      *             *      -
+
+bc/cnn/00/cnn_0001   2    0     they   PRP   (TOP(S(NP*)      -    -   -    Unidentified_Male       *        (ARG0*)       (ARG1*)   (91)
+bc/cnn/00/cnn_0001   2    1       'd    MD         (VP*       -    -   -    Unidentified_Male       *    (ARGM-MOD*)   (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   2    2     take    VB      (VP(VP*     take  01   1    Unidentified_Male       *           (V*)            *      -
+bc/cnn/00/cnn_0001   2    3       an    DT         (NP*       -    -   -    Unidentified_Male       *        (ARG1*             *      -
+bc/cnn/00/cnn_0001   2    4     hour    NN            *     hour   -   1    Unidentified_Male   (TIME)            *             *      -
+bc/cnn/00/cnn_0001   2    5    lunch    NN           *))   lunch   -   -    Unidentified_Male       *             *)            *      -
+bc/cnn/00/cnn_0001   2    6      and    CC            *       -    -   -    Unidentified_Male       *             *             *      -
+bc/cnn/00/cnn_0001   2    7     just    RB       (ADVP*)      -    -   -    Unidentified_Male       *             *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   2    8      sit    VB         (VP*      sit  01   1    Unidentified_Male       *             *           (V*)     -
+bc/cnn/00/cnn_0001   2    9    there    RB    (ADVP*))))      -    -   -    Unidentified_Male       *             *        (ARG2*)     -
+bc/cnn/00/cnn_0001   2   10       /.     .           *))      -    -   -    Unidentified_Male       *             *             *      -
+
+bc/cnn/00/cnn_0001   2    0      This     DT  (TOP(S(NP(NP*        -    -   -    Ron_Galloway      *            *   (ARG1*   (159
+bc/cnn/00/cnn_0001   2    1     young     JJ              *        -    -   -    Ron_Galloway      *            *        *      -
+bc/cnn/00/cnn_0001   2    2    mother     NN              *)   mother   -   -    Ron_Galloway      *            *        *      -
+bc/cnn/00/cnn_0001   2    3      that    WDT    (SBAR(WHNP*)       -    -   -    Ron_Galloway      *            *        *      -
+bc/cnn/00/cnn_0001   2    4         I    PRP         (S(NP*)       -    -   -    Ron_Galloway      *       (ARG0*)       *    (17)
+bc/cnn/00/cnn_0001   2    5    talked    VBD           (VP*      talk  01   1    Ron_Galloway      *          (V*)       *      -
+bc/cnn/00/cnn_0001   2    6        to     IN           (PP*)       -    -   -    Ron_Galloway      *       (ARG2*)       *      -
+bc/cnn/00/cnn_0001   2    7        in     IN           (PP*        -    -   -    Ron_Galloway      *   (ARGM-LOC*        *      -
+bc/cnn/00/cnn_0001   2    8        LA    NNP      (NP*))))))       -    -   -    Ron_Galloway   (GPE)           *)       *)   159)
+bc/cnn/00/cnn_0001   2    9       was    VBD           (VP*        be  01   1    Ron_Galloway      *            *      (V*)     -
+bc/cnn/00/cnn_0001   2   10        on     IN           (PP*        -    -   -    Ron_Galloway      *            *   (ARG2*      -
+bc/cnn/00/cnn_0001   2   11      Medi    NNP           (NP*        -    -   -    Ron_Galloway  (ORG*            *        *      -
+bc/cnn/00/cnn_0001   2   12        -    HYPH              *        -    -   -    Ron_Galloway      *            *        *      -
+bc/cnn/00/cnn_0001   2   13       Cal    NNP            *)))       -    -   -    Ron_Galloway      *)           *        *)     -
+bc/cnn/00/cnn_0001   2   14        /.      .             *))       -    -   -    Ron_Galloway      *            *        *      -
+
+bc/cnn/00/cnn_0001   2   0     she    PRP   (TOP(S(NP*)     -    -      -    Ron_Galloway      *    (ARG1*)   (159)
+bc/cnn/00/cnn_0001   2   1     got    VBD         (VP*     get  03   11.2    Ron_Galloway      *       (V*)      -
+bc/cnn/00/cnn_0001   2   2      on     IN         (PP*      -    -      -    Ron_Galloway      *    (ARG2*       -
+bc/cnn/00/cnn_0001   2   3     the     DT         (NP*      -    -      -    Ron_Galloway      *         *       -
+bc/cnn/00/cnn_0001   2   4     Wal    NNP            *      -    -      -    Ron_Galloway  (ORG*         *    (107
+bc/cnn/00/cnn_0001   2   5      -    HYPH            *      -    -      -    Ron_Galloway      *         *       -
+bc/cnn/00/cnn_0001   2   6    Mart    NNP            *      -    -      -    Ron_Galloway      *)        *     107)
+bc/cnn/00/cnn_0001   2   7    plan     NN          *)))   plan   -      2    Ron_Galloway      *         *)      -
+bc/cnn/00/cnn_0001   2   8      /.      .           *))     -    -      -    Ron_Galloway      *         *       -
+
+bc/cnn/00/cnn_0001   2   0       she   PRP   (TOP(S(NP*)       -    -   -    Ron_Galloway          *       (ARG0*)   (159)
+bc/cnn/00/cnn_0001   2   1       saw   VBD         (VP*       see  01   6    Ron_Galloway          *          (V*)      -
+bc/cnn/00/cnn_0001   2   2         a    DT         (NP*        -    -   -    Ron_Galloway          *       (ARG1*       -
+bc/cnn/00/cnn_0001   2   3    doctor    NN            *)   doctor   -   -    Ron_Galloway          *            *)      -
+bc/cnn/00/cnn_0001   2   4       for    IN         (PP*        -    -   -    Ron_Galloway          *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0001   2   5       the    DT         (NP*        -    -   -    Ron_Galloway          *            *       -
+bc/cnn/00/cnn_0001   2   6     first    JJ            *        -    -   -    Ron_Galloway   (ORDINAL)           *       -
+bc/cnn/00/cnn_0001   2   7      time    NN          *)))     time   -   1    Ron_Galloway          *            *)      -
+bc/cnn/00/cnn_0001   2   8        /.     .           *))       -    -   -    Ron_Galloway          *            *       -
+
+bc/cnn/00/cnn_0001   2    0              The     DT                    (TOP(S(NP*          -    -   -    Rick_Sanchez      *   (ARG0*        *            *             *            *            *        *      *             *    (105
+bc/cnn/00/cnn_0001   2    1    anti-Wal-Mart     JJ                             *          -    -   -    Rick_Sanchez   (ORG)       *        *            *             *            *            *        *      *             *    (107)
+bc/cnn/00/cnn_0001   2    2             film     NN                             *)       film   -   1    Rick_Sanchez      *        *)       *            *             *            *            *        *      *             *     105)
+bc/cnn/00/cnn_0001   2    3          depicts    VBZ                          (VP*      depict  01   1    Rick_Sanchez      *      (V*)       *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2    4              Wal    NNP                          (NP*          -    -   -    Rick_Sanchez  (ORG*   (ARG1*   (ARG1*       (ARG0*        (ARG0*            *            *        *      *             *    (107
+bc/cnn/00/cnn_0001   2    5               -    HYPH                             *          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2    6             Mart    NNP                             *)         -    -   -    Rick_Sanchez      *)       *)       *)           *)            *)           *            *        *      *             *     107)
+bc/cnn/00/cnn_0001   2    7               as     IN                          (PP*          -    -   -    Rick_Sanchez      *   (ARG2*        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2    8         consumed    VBN                        (S(VP*     consume  01   -    Rick_Sanchez      *        *      (V*)           *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2    9             with     IN                          (PP*          -    -   -    Rick_Sanchez      *        *   (ARG0*            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   10          keeping    VBG                     (S(VP(VP*        keep  02   1    Rick_Sanchez      *        *        *          (V*)            *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   11            wages    NNS                          (NP*        wage   -   -    Rick_Sanchez      *        *        *       (ARG1*             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   12              and     CC                             *          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   13         benefits    NNS                             *)    benefit   -   3    Rick_Sanchez      *        *        *            *)            *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   14             down     RP                        (PRT*))         -    -   -    Rick_Sanchez      *        *        *     (C-ARG1*)            *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   15              and     CC                             *          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   16           unions    NNS                       (VP(NP*)      union   -   1    Rick_Sanchez      *        *        *       (ARG1*             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   17              out     RP                        (PRT*))         -    -   -    Rick_Sanchez      *        *        *            *)            *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   18               by     IN                          (PP*          -    -   -    Rick_Sanchez      *        *        *   (ARGM-MNR*             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   19           flying    VBG                     (S(VP(VP*         fly  01   1    Rick_Sanchez      *        *        *            *           (V*)           *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   20               in     RP                         (PRT*)         -    -   -    Rick_Sanchez      *        *        *            *    (ARGM-DIR*)           *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   21       executives    NNS                         (NP*))         -    -   -    Rick_Sanchez      *        *        *            *        (ARG1*)           *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   22              and     CC                             *          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   23       installing    VBG                          (VP*     install  01   1    Rick_Sanchez      *        *        *            *             *          (V*)           *        *      *             *       -
+bc/cnn/00/cnn_0001   2   24          cameras    NNS                          (NP*)         -    -   -    Rick_Sanchez      *        *        *            *             *       (ARG1*)           *        *      *             *       -
+bc/cnn/00/cnn_0001   2   25               to     TO                        (S(VP*          -    -   -    Rick_Sanchez      *        *        *            *             *   (ARGM-PRP*            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   26          monitor     VB                          (VP*     monitor  01   1    Rick_Sanchez      *        *        *            *             *            *          (V*)       *      *             *       -
+bc/cnn/00/cnn_0001   2   27        employees    NNS                          (NP*)         -    -   -    Rick_Sanchez      *        *        *            *             *            *       (ARG1*)       *      *             *       -
+bc/cnn/00/cnn_0001   2   28               as     RB                   (ADVP(ADVP*          -    -   -    Rick_Sanchez      *        *        *            *             *            *   (ARGM-TMP*        *      *             *       -
+bc/cnn/00/cnn_0001   2   29             soon     RB                             *)         -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   30               as     IN                        (SBAR*          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   31            there     EX                        (S(NP*)         -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   32               's    VBZ                          (VP*          be  02   3    Rick_Sanchez      *        *        *            *             *            *            *      (V*)     *             *       -
+bc/cnn/00/cnn_0001   2   33                a     DT                          (NP*          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *   (ARG1*      *             *       -
+bc/cnn/00/cnn_0001   2   34             hint     NN                             *        hint   -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   35             that     IN                        (SBAR*          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+bc/cnn/00/cnn_0001   2   36          workers    NNS                        (S(NP*)     worker   -   1    Rick_Sanchez      *        *        *            *             *            *            *        *      *        (ARG0*)      -
+bc/cnn/00/cnn_0001   2   37              may     MD                          (VP*          -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0001   2   38               be     VB                          (VP*          be  03   -    Rick_Sanchez      *        *        *            *             *            *            *        *    (V*)            *       -
+bc/cnn/00/cnn_0001   2   39       organizing    VBG   (VP*))))))))))))))))))))))))   organize  01   2    Rick_Sanchez      *        *)       *)           *)            *            *)           *)       *)     *           (V*)      -
+bc/cnn/00/cnn_0001   2   40               /.      .                            *))         -    -   -    Rick_Sanchez      *        *        *            *             *            *            *        *      *             *       -
+
+bc/cnn/00/cnn_0001   2    0            The     DT      (TOP(S(NP*           -    -   -    Rick_Sanchez        *   (ARG0*             *             *    (107
+bc/cnn/00/cnn_0001   2    1         retail     JJ               *           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2    2          giant     NN               *)          -    -   -    Rick_Sanchez        *        *)            *             *     107)
+bc/cnn/00/cnn_0001   2    3           gets    VBZ            (VP*          get  01   1    Rick_Sanchez        *      (V*)            *             *       -
+bc/cnn/00/cnn_0001   2    4           most    JJS         (NP(NP*)          -    -   -    Rick_Sanchez        *   (ARG1*             *             *       -
+bc/cnn/00/cnn_0001   2    5             of     IN            (PP*           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2    6            its   PRP$            (NP*           -    -   -    Rick_Sanchez        *        *             *             *    (107)
+bc/cnn/00/cnn_0001   2    7    merchandise     NN             *)))          -    -   -    Rick_Sanchez        *        *)            *             *       -
+bc/cnn/00/cnn_0001   2    8           from     IN            (PP*           -    -   -    Rick_Sanchez        *   (ARG2*             *             *       -
+bc/cnn/00/cnn_0001   2    9        outside     IN         (PP(PP*           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   10            the     DT            (NP*           -    -   -    Rick_Sanchez    (GPE*        *             *             *    (151
+bc/cnn/00/cnn_0001   2   11         United    NNP               *           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   12         States    NNP              *))          -    -   -    Rick_Sanchez        *)       *             *             *     151)
+bc/cnn/00/cnn_0001   2   13             in     IN            (PP*           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   14         places    NNS         (NP(NP*)       place   -   1    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   15           like     IN            (PP*           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   16       Honduras    NNP         (NP(NP*           -    -   -    Rick_Sanchez     (GPE)       *             *             *       -
+bc/cnn/00/cnn_0001   2   17            and     CC               *           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   18     Bangladesh    NNP               *)          -    -   -    Rick_Sanchez     (GPE)       *             *             *       -
+bc/cnn/00/cnn_0001   2   19          where    WRB   (SBAR(WHADVP*)          -    -   -    Rick_Sanchez        *        *    (ARGM-LOC*)   (ARGM-LOC*)      -
+bc/cnn/00/cnn_0001   2   20      according    VBG          (S(PP*    according   -   -    Rick_Sanchez        *        *    (ARGM-ADV*    (ARGM-ADV*       -
+bc/cnn/00/cnn_0001   2   21             to     IN            (PP*           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   22            the     DT            (NP*           -    -   -    Rick_Sanchez        *        *             *             *    (105
+bc/cnn/00/cnn_0001   2   23           film     NN             *)))        film   -   1    Rick_Sanchez        *        *             *)            *)    105)
+bc/cnn/00/cnn_0001   2   24        workers    NNS            (NP*)      worker   -   1    Rick_Sanchez        *        *        (ARG0*)       (ARG0*)      -
+bc/cnn/00/cnn_0001   2   25           make    VBP         (VP(VP*         make  05   7    Rick_Sanchez        *        *           (V*)            *       -
+bc/cnn/00/cnn_0001   2   26             as     RB      (NP(NP(QP*           -    -   -    Rick_Sanchez  (MONEY*        *        (ARG1*             *       -
+bc/cnn/00/cnn_0001   2   27         little     JJ               *           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   28             as     IN               *           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   29        fifteen     CD               *)          -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   30          cents    NNS               *)        cent   -   1    Rick_Sanchez        *)       *             *             *       -
+bc/cnn/00/cnn_0001   2   31             an     DT            (NP*           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   32           hour     NN             *)))        hour   -   1    Rick_Sanchez        *        *             *)            *       -
+bc/cnn/00/cnn_0001   2   33            and     CC               *           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   34           work    VBP            (VP*         work  01   1    Rick_Sanchez        *        *             *           (V*)      -
+bc/cnn/00/cnn_0001   2   35          seven     CD         (NP(NP*           -    -   -    Rick_Sanchez   (DATE*        *             *    (ARGM-TMP*       -
+bc/cnn/00/cnn_0001   2   36           days    NNS               *)         day   -   2    Rick_Sanchez        *)       *             *             *       -
+bc/cnn/00/cnn_0001   2   37              a     DT            (NP*           -    -   -    Rick_Sanchez        *        *             *             *       -
+bc/cnn/00/cnn_0001   2   38           week     NN   *)))))))))))))          -    -   -    Rick_Sanchez        *        *)            *             *)      -
+bc/cnn/00/cnn_0001   2   39             /.      .              *))          -    -   -    Rick_Sanchez        *        *             *             *       -
+
+bc/cnn/00/cnn_0001   2    0         but     CC     (TOP(S*    -    -   -    Rick_Sanchez      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   2    1          by     IN  (NP(NP(PP*    -    -   -    Rick_Sanchez      *        (ARG1*      -
+bc/cnn/00/cnn_0001   2    2         far     RB     (ADVP*))   -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2    3         the     DT        (NP*    -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2    4     largest    JJS           *    -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2    5    provider     NN          *))   -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2    6          of     IN        (PP*    -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2    7       goods    NNS       (NP*))   -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2    8          to     IN        (PP*    -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2    9         Wal    NNP        (NP*    -    -   -    Rick_Sanchez  (ORG*             *   (107
+bc/cnn/00/cnn_0001   2   10          -    HYPH           *    -    -   -    Rick_Sanchez      *             *      -
+bc/cnn/00/cnn_0001   2   11        Mart    NNP         *)))   -    -   -    Rick_Sanchez      *)            *)   107)
+bc/cnn/00/cnn_0001   2   12          is    VBZ        (VP*    be  01   2    Rick_Sanchez      *           (V*)     -
+bc/cnn/00/cnn_0001   2   13       China    NNP       (NP*))   -    -   -    Rick_Sanchez   (GPE)       (ARG2*)   (54)
+bc/cnn/00/cnn_0001   2   14          /.      .          *))   -    -   -    Rick_Sanchez      *             *      -
+
+bc/cnn/00/cnn_0001   2   0       How    WRB  (TOP(SBARQ(WHADVP*        -    -   -    Rick_Sanchez      *      *   (ARGM-EXT*      -
+bc/cnn/00/cnn_0001   2   1      much     RB                   *)       -    -   -    Rick_Sanchez      *      *            *)     -
+bc/cnn/00/cnn_0001   2   2      does    VBZ                (SQ*        do  01   -    Rick_Sanchez      *    (V*)           *      -
+bc/cnn/00/cnn_0001   2   3       Wal    NNP                (NP*        -    -   -    Rick_Sanchez  (ORG*      *       (ARG0*   (107
+bc/cnn/00/cnn_0001   2   4        -    HYPH                   *        -    -   -    Rick_Sanchez      *      *            *      -
+bc/cnn/00/cnn_0001   2   5      Mart    NNP                   *)       -    -   -    Rick_Sanchez      *)     *            *)   107)
+bc/cnn/00/cnn_0001   2   6    depend     VB                (VP*    depend  01   2    Rick_Sanchez      *      *          (V*)     -
+bc/cnn/00/cnn_0001   2   7        on     IN                (PP*        -    -   -    Rick_Sanchez      *      *       (ARG1*      -
+bc/cnn/00/cnn_0001   2   8     China    NNP             (NP*))))       -    -   -    Rick_Sanchez   (GPE)     *            *)   (54)
+bc/cnn/00/cnn_0001   2   9        /?      .                  *))       -    -   -    Rick_Sanchez      *      *            *      -
+
+bc/cnn/00/cnn_0001   2    0      Company     NN  (TOP(S(NP*     company   -   1    Rick_Sanchez        *   (ARG0*            *       -
+bc/cnn/00/cnn_0001   2    1    officials    NNS           *)   official   -   1    Rick_Sanchez        *        *)           *       -
+bc/cnn/00/cnn_0001   2    2    announced    VBD        (VP*    announce  01   1    Rick_Sanchez        *      (V*)           *       -
+bc/cnn/00/cnn_0001   2    3         that     IN      (SBAR*          -    -   -    Rick_Sanchez        *   (ARG1*            *       -
+bc/cnn/00/cnn_0001   2    4           in     IN      (S(PP*          -    -   -    Rick_Sanchez        *        *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0001   2    5          two     CD        (NP*          -    -   -    Rick_Sanchez   (DATE*        *            *       -
+bc/cnn/00/cnn_0001   2    6     thousand     CD           *          -    -   -    Rick_Sanchez        *        *            *       -
+bc/cnn/00/cnn_0001   2    7         four     CD          *))         -    -   -    Rick_Sanchez        *)       *            *)      -
+bc/cnn/00/cnn_0001   2    8         they    PRP        (NP*)         -    -   -    Rick_Sanchez        *        *       (ARG0*)   (107)
+bc/cnn/00/cnn_0001   2    9     imported    VBD        (VP*      import  01   1    Rick_Sanchez        *        *          (V*)      -
+bc/cnn/00/cnn_0001   2   10         more    JJR  (NP(NP(QP*          -    -   -    Rick_Sanchez  (MONEY*        *       (ARG1*       -
+bc/cnn/00/cnn_0001   2   11         than     IN           *          -    -   -    Rick_Sanchez        *        *            *       -
+bc/cnn/00/cnn_0001   2   12     eighteen     CD           *          -    -   -    Rick_Sanchez        *        *            *       -
+bc/cnn/00/cnn_0001   2   13      billion     CD           *)         -    -   -    Rick_Sanchez        *        *            *       -
+bc/cnn/00/cnn_0001   2   14      dollars    NNS           *)         -    -   -    Rick_Sanchez        *)       *            *       -
+bc/cnn/00/cnn_0001   2   15           in     IN        (PP*          -    -   -    Rick_Sanchez        *        *            *       -
+bc/cnn/00/cnn_0001   2   16        goods    NNS      (NP*)))         -    -   -    Rick_Sanchez        *        *            *)      -
+bc/cnn/00/cnn_0001   2   17         from     IN        (PP*          -    -   -    Rick_Sanchez        *        *       (ARG2*       -
+bc/cnn/00/cnn_0001   2   18          the     DT     (NP(NP*          -    -   -    Rick_Sanchez    (GPE*        *            *     (54
+bc/cnn/00/cnn_0001   2   19       People   NNPS           *          -    -   -    Rick_Sanchez        *        *            *       -
+bc/cnn/00/cnn_0001   2   20           's    POS           *)         -    -   -    Rick_Sanchez        *        *            *       -
+bc/cnn/00/cnn_0001   2   21     Republic    NNP      *))))))         -    -   -    Rick_Sanchez        *)       *)           *)     54)
+bc/cnn/00/cnn_0001   2   22           /.      .          *))         -    -   -    Rick_Sanchez        *        *            *       -
+
+bc/cnn/00/cnn_0001   2    0            I    PRP        (TOP(S(NP*)         -    -    -    Ron_Galloway       *    (ARG0*)       *      *            *    (17)
+bc/cnn/00/cnn_0001   2    1        think    VBP              (VP*       think  01    1    Ron_Galloway       *       (V*)       *      *            *      -
+bc/cnn/00/cnn_0001   2    2          Wal    NNP       (SBAR(S(NP*          -    -    -    Ron_Galloway   (ORG*    (ARG1*   (ARG1*      *            *   (107
+bc/cnn/00/cnn_0001   2    3           -    HYPH                 *          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2    4         Mart    NNP                 *)         -    -    -    Ron_Galloway       *)        *        *)     *            *    107)
+bc/cnn/00/cnn_0001   2    5           is    VBZ              (VP*          be  01    1    Ron_Galloway       *         *      (V*)     *            *      -
+bc/cnn/00/cnn_0001   2    6            a     DT           (NP(NP*          -    -    -    Ron_Galloway       *         *   (ARG2*      *            *      -
+bc/cnn/00/cnn_0001   2    7        straw     NN                 *       straw   -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2    8          man     NN                 *)        man   -   12    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2    9          for     IN              (PP*          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   10            a     DT        (NP(NP(NP*          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   11          set     NN                 *)        set   -    1    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   12           of     IN              (PP*          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   13       issues    NNS            (NP*)))      issue   -    1    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   14         that    WDT       (SBAR(WHNP*)         -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   15            a     DT      (S(NP(NP(NP*          -    -    -    Ron_Galloway       *         *        *      *       (ARG0*      -
+bc/cnn/00/cnn_0001   2   16      certain     JJ                 *          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   17        group     NN                 *)      group   -    1    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   18           of     IN              (PP*          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   19       people    NNS            (NP*)))     people   -    1    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   20      special     JJ          (NP(NML*          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   21    interests    NNS                 *)   interest   -    7    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   22       groups    NNS                *))      group   -    1    Ron_Galloway       *         *        *      *            *)     -
+bc/cnn/00/cnn_0001   2   23         have    VBP              (VP*        have  02   12    Ron_Galloway       *         *        *    (V*)           *      -
+bc/cnn/00/cnn_0001   2   24           to     TO            (S(VP*          -    -    -    Ron_Galloway       *         *        *      *            *      -
+bc/cnn/00/cnn_0001   2   25         deal     VB              (VP*        deal  01    1    Ron_Galloway       *         *        *      *          (V*)     -
+bc/cnn/00/cnn_0001   2   26         with     IN              (PP*)         -    -    -    Ron_Galloway       *         *        *      *       (ARG1*)     -
+bc/cnn/00/cnn_0001   2   27           in     IN              (PP*          -    -    -    Ron_Galloway       *         *        *      *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0001   2   28     American     JJ              (NP*          -    -    -    Ron_Galloway   (NORP)        *        *      *            *      -
+bc/cnn/00/cnn_0001   2   29      society     NN   *)))))))))))))))    society   -    1    Ron_Galloway       *         *)       *)     *            *)     -
+bc/cnn/00/cnn_0001   2   30           /.      .                *))         -    -    -    Ron_Galloway       *         *        *      *            *      -
+
+bc/cnn/00/cnn_0001   2   0          Now    UH   (TOP(S(INTJ*)   -    -   -    Rick_Sanchez  *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0001   2   1         this    DT           (NP*)   -    -   -    Rick_Sanchez  *        (ARG1*)  -
+bc/cnn/00/cnn_0001   2   2           is   VBZ           (VP*    be  01   1    Rick_Sanchez  *           (V*)  -
+bc/cnn/00/cnn_0001   2   3    important    JJ        (ADJP*))   -    -   -    Rick_Sanchez  *        (ARG2*)  -
+bc/cnn/00/cnn_0001   2   4           /.     .             *))   -    -   -    Rick_Sanchez  *             *   -
+
+bc/cnn/00/cnn_0001   2    0    Officials    NNS   (TOP(S(NP(NP*)   official   -   1    Rick_Sanchez      *    (ARG0*)  (ARG0*      *             *      -
+bc/cnn/00/cnn_0001   2    1       making    VBG            (VP*        make  01   2    Rick_Sanchez      *       (V*)       *      *             *      -
+bc/cnn/00/cnn_0001   2    2          the     DT            (NP*          -    -   -    Rick_Sanchez      *    (ARG1*        *      *             *   (105
+bc/cnn/00/cnn_0001   2    3         anti    AFX          (ADJP*          -    -   -    Rick_Sanchez      *         *        *      *             *      -
+bc/cnn/00/cnn_0001   2    4           uh     UH               *          -    -   -    Rick_Sanchez      *         *        *      *             *      -
+bc/cnn/00/cnn_0001   2    5          Wal    NNP               *          -    -   -    Rick_Sanchez  (ORG*         *        *      *             *      -
+bc/cnn/00/cnn_0001   2    6           -    HYPH               *          -    -   -    Rick_Sanchez      *         *        *      *             *      -
+bc/cnn/00/cnn_0001   2    7         Mart    NNP               *)         -    -   -    Rick_Sanchez      *)        *        *      *             *      -
+bc/cnn/00/cnn_0001   2    8         film     NN             *)))       film   -   1    Rick_Sanchez      *         *)       *)     *             *    105)
+bc/cnn/00/cnn_0001   2    9          say    VBP            (VP*         say  01   1    Rick_Sanchez      *         *      (V*)     *             *      -
+bc/cnn/00/cnn_0001   2   10          the     DT     (SBAR(S(NP*          -    -   -    Rick_Sanchez      *         *   (ARG1*      *             *   (105
+bc/cnn/00/cnn_0001   2   11         film     NN               *)       film   -   1    Rick_Sanchez      *         *        *      *             *    105)
+bc/cnn/00/cnn_0001   2   12           is    VBZ            (VP*          be  03   -    Rick_Sanchez      *         *        *    (V*)            *      -
+bc/cnn/00/cnn_0001   2   13          not     RB               *          -    -   -    Rick_Sanchez      *         *        *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   2   14         paid    VBN            (VP*         pay  01   1    Rick_Sanchez      *         *        *      *           (V*)     -
+bc/cnn/00/cnn_0001   2   15          for     IN            (PP*)         -    -   -    Rick_Sanchez      *         *        *      *        (ARG3*)     -
+bc/cnn/00/cnn_0001   2   16         with     IN            (PP*          -    -   -    Rick_Sanchez      *         *        *      *        (ARG1*      -
+bc/cnn/00/cnn_0001   2   17        union     NN            (NP*       union   -   1    Rick_Sanchez      *         *        *      *             *      -
+bc/cnn/00/cnn_0001   2   18         dues    NNS         *)))))))         -    -   -    Rick_Sanchez      *         *        *)     *             *)     -
+bc/cnn/00/cnn_0001   2   19           /.      .              *))         -    -   -    Rick_Sanchez      *         *        *      *             *      -
+
+bc/cnn/00/cnn_0001   2   0       We   PRP   (TOP(S(NP*)    -    -   -    Rick_Sanchez  *    (ARG0*)   (93)
+bc/cnn/00/cnn_0001   2   1    asked   VBD         (VP*)   ask  01   1    Rick_Sanchez  *       (V*)     -
+bc/cnn/00/cnn_0001   2   2       /.     .           *))    -    -   -    Rick_Sanchez  *         *      -
+
+bc/cnn/00/cnn_0001   2    0            Also     RB   (TOP(S(ADVP*)        -    -   -    Rick_Sanchez         *         *    (ARGM-ADV*)     *         *             *            -
+bc/cnn/00/cnn_0001   2    1        Galloway    NNP        (NP(NP*)        -    -   -    Rick_Sanchez   (PERSON)   (ARG0*)       (ARG0*      *         *             *          (17
+bc/cnn/00/cnn_0001   2    2          making    VBG           (VP*       make  01   2    Rick_Sanchez         *       (V*)            *      *         *             *            -
+bc/cnn/00/cnn_0001   2    3             the     DT           (NP*         -    -   -    Rick_Sanchez         *    (ARG1*             *      *         *             *          (22
+bc/cnn/00/cnn_0001   2    4    pro-Wal-Mart     JJ              *         -    -   -    Rick_Sanchez      (ORG)        *             *      *         *             *            -
+bc/cnn/00/cnn_0001   2    5            film     NN            *)))      film   -   1    Rick_Sanchez         *         *)            *)     *         *             *       22)|17)
+bc/cnn/00/cnn_0001   2    6           tells    VBZ           (VP*       tell  01   1    Rick_Sanchez         *         *           (V*)     *         *             *            -
+bc/cnn/00/cnn_0001   2    7              me    PRP           (NP*)        -    -   -    Rick_Sanchez         *         *        (ARG2*)     *         *             *          (79)
+bc/cnn/00/cnn_0001   2    8            that     IN         (SBAR*         -    -   -    Rick_Sanchez         *         *        (ARG1*      *         *             *            -
+bc/cnn/00/cnn_0001   2    9              he    PRP         (S(NP*)        -    -   -    Rick_Sanchez         *         *             *      *    (ARG0*)            *          (17)
+bc/cnn/00/cnn_0001   2   10              's    VBZ           (VP*         be  03   9    Rick_Sanchez         *         *             *    (V*)        *             *            -
+bc/cnn/00/cnn_0001   2   11        received    VBN           (VP*    receive  01   1    Rick_Sanchez         *         *             *      *       (V*)            *            -
+bc/cnn/00/cnn_0001   2   12              no     DT        (NP(NP*         -    -   -    Rick_Sanchez         *         *             *      *    (ARG1*             *            -
+bc/cnn/00/cnn_0001   2   13           money     NN              *)     money   -   2    Rick_Sanchez         *         *             *      *         *             *            -
+bc/cnn/00/cnn_0001   2   14             and     CC              *         -    -   -    Rick_Sanchez         *         *             *      *         *             *            -
+bc/cnn/00/cnn_0001   2   15          little     JJ        (NP(NP*         -    -   -    Rick_Sanchez         *         *             *      *         *    (ARGM-EXT*)           -
+bc/cnn/00/cnn_0001   2   16         support     NN              *)   support  01   3    Rick_Sanchez         *         *             *      *         *           (V*)           -
+bc/cnn/00/cnn_0001   2   17              in     IN           (PP*         -    -   -    Rick_Sanchez         *         *             *      *         *    (ARGM-DIS*            -
+bc/cnn/00/cnn_0001   2   18            fact     NN        (NP*))))      fact   -   5    Rick_Sanchez         *         *             *      *         *)            *)           -
+bc/cnn/00/cnn_0001   2   19            from     IN           (PP*         -    -   -    Rick_Sanchez         *         *             *      *    (ARG2*             *            -
+bc/cnn/00/cnn_0001   2   20             Wal    NNP        (NP(NP*         -    -   -    Rick_Sanchez     (ORG*         *             *      *         *             *         (107
+bc/cnn/00/cnn_0001   2   21              -    HYPH              *         -    -   -    Rick_Sanchez         *         *             *      *         *             *            -
+bc/cnn/00/cnn_0001   2   22            Mart    NNP              *)        -    -   -    Rick_Sanchez         *)        *             *      *         *             *            -
+bc/cnn/00/cnn_0001   2   23          itself    PRP    (NP*))))))))        -    -   -    Rick_Sanchez         *         *             *)     *         *)            *    (107)|107)
+bc/cnn/00/cnn_0001   2   24              /.      .             *))        -    -   -    Rick_Sanchez         *         *             *      *         *             *            -
+
+bc/cnn/00/cnn_0001   2    0        In     IN  (TOP(S(PP*       -    -   -    Rick_Sanchez      *   (ARGM-DIS*             *          -
+bc/cnn/00/cnn_0001   2    1      fact     NN       (NP*))    fact   -   5    Rick_Sanchez      *            *)            *          -
+bc/cnn/00/cnn_0001   2    2       Wal    NNP        (NP*       -    -   -    Rick_Sanchez  (ORG*       (ARG0*        (ARG0*       (107
+bc/cnn/00/cnn_0001   2    3        -    HYPH           *       -    -   -    Rick_Sanchez      *            *             *          -
+bc/cnn/00/cnn_0001   2    4      Mart    NNP           *)      -    -   -    Rick_Sanchez      *)           *)            *)       107)
+bc/cnn/00/cnn_0001   2    5       has    VBZ        (VP*     have  03   2    Rick_Sanchez      *          (V*)            *          -
+bc/cnn/00/cnn_0001   2    6        no     DT        (NP*       -    -   -    Rick_Sanchez      *       (ARG1*             *          -
+bc/cnn/00/cnn_0001   2    7     plans    NNS           *)    plan   -   1    Rick_Sanchez      *            *)            *          -
+bc/cnn/00/cnn_0001   2    8        at     IN        (PP*       -    -   -    Rick_Sanchez      *   (ARGM-TMP*             *          -
+bc/cnn/00/cnn_0001   2    9      this     DT        (NP*       -    -   -    Rick_Sanchez      *            *             *          -
+bc/cnn/00/cnn_0001   2   10      time     NN          *))    time   -   1    Rick_Sanchez      *            *)            *          -
+bc/cnn/00/cnn_0001   2   11        to     TO      (S(VP*       -    -   -    Rick_Sanchez      *     (C-ARG1*             *          -
+bc/cnn/00/cnn_0001   2   12      even     RB      (ADVP*)      -    -   -    Rick_Sanchez      *            *    (ARGM-ADV*)         -
+bc/cnn/00/cnn_0001   2   13     carry     VB        (VP*    carry  01   2    Rick_Sanchez      *            *           (V*)         -
+bc/cnn/00/cnn_0001   2   14       his   PRP$        (NP*       -    -   -    Rick_Sanchez      *            *        (ARG1*    (22|(17)
+bc/cnn/00/cnn_0001   2   15     video     NN           *)      -    -   -    Rick_Sanchez      *            *             *)        22)
+bc/cnn/00/cnn_0001   2   16        in     IN        (PP*       -    -   -    Rick_Sanchez      *            *    (ARGM-LOC*          -
+bc/cnn/00/cnn_0001   2   17       the     DT        (NP*       -    -   -    Rick_Sanchez      *            *             *          -
+bc/cnn/00/cnn_0001   2   18    stores    NNS      *))))))   store   -   1    Rick_Sanchez      *            *)            *)         -
+bc/cnn/00/cnn_0001   2   19        /.      .          *))      -    -   -    Rick_Sanchez      *            *             *          -
+
+bc/cnn/00/cnn_0001   2   0    Kyra   NNP  (TOP(NP*   -   -   -    Rick_Sanchez   (PERSON)  -
+bc/cnn/00/cnn_0001   2   1      /?     .        *))  -   -   -    Rick_Sanchez         *   -
+
+bc/cnn/00/cnn_0001   2    0          Well     UH   (TOP(S(INTJ*)     -    -   -    Kyra_Phillips      *         *    (ARGM-DIS*)         *       -
+bc/cnn/00/cnn_0001   2    1      whatever     WP    (SBAR(WHNP*)     -    -   -    Kyra_Phillips      *    (ARG1*)   (ARGM-ADV*          *       -
+bc/cnn/00/cnn_0001   2    2            it    PRP         (S(NP*)     -    -   -    Kyra_Phillips      *    (ARG0*)            *          *    (107)
+bc/cnn/00/cnn_0001   2    3          does    VBZ         (VP*)))     do  02   1    Kyra_Phillips      *       (V*)            *)         *       -
+bc/cnn/00/cnn_0001   2    4           Wal    NNP           (NP*      -    -   -    Kyra_Phillips  (ORG*         *        (ARG1*   (R-ARG1*    (107
+bc/cnn/00/cnn_0001   2    5            -    HYPH              *      -    -   -    Kyra_Phillips      *         *             *          *       -
+bc/cnn/00/cnn_0001   2    6          Mart    NNP              *)     -    -   -    Kyra_Phillips      *)        *             *)         *)    107)
+bc/cnn/00/cnn_0001   2    7        always     RB         (ADVP*)     -    -   -    Kyra_Phillips      *         *    (ARGM-TMP*)         *       -
+bc/cnn/00/cnn_0001   2    8         seems    VBZ           (VP*    seem  01   1    Kyra_Phillips      *         *           (V*)         *       -
+bc/cnn/00/cnn_0001   2    9            to     TO         (S(VP*      -    -   -    Kyra_Phillips      *         *      (C-ARG1*   (R-ARG1*       -
+bc/cnn/00/cnn_0001   2   10            be     VB           (VP*      be  01   4    Kyra_Phillips      *         *             *        (V*)      -
+bc/cnn/00/cnn_0001   2   11         under     IN           (PP*      -    -   -    Kyra_Phillips      *         *             *     (ARG2*       -
+bc/cnn/00/cnn_0001   2   12             a     DT           (NP*      -    -   -    Kyra_Phillips      *         *             *          *       -
+bc/cnn/00/cnn_0001   2   13    microscope     NN         *))))))     -    -   -    Kyra_Phillips      *         *             *)        *))      -
+bc/cnn/00/cnn_0001   2   14            /.      .             *))     -    -   -    Kyra_Phillips      *         *             *          *       -
+
+bc/cnn/00/cnn_0001   2   0    Why   WRB   (TOP(SBARQ(WHADVP*)  -   -   -    Kyra_Phillips  *   -
+bc/cnn/00/cnn_0001   2   1     /?     .                   *))  -   -   -    Kyra_Phillips  *   -
+
+bc/cnn/00/cnn_0001   2    0       Because     IN   (TOP(SBAR*         -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2    1             a     DT  (S(S(NP(NP*         -    -   -    Kyra_Phillips  *      *        (ARG1*             *      -
+bc/cnn/00/cnn_0001   2    2       company     NN            *)   company   -   1    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2    3          that     RB  (ADJP(ADJP*         -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2    4           big     JJ            *)        -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2    5          that     RB       (ADJP*         -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2    6    profitable     JJ          *)))        -    -   -    Kyra_Phillips  *      *             *)            *      -
+bc/cnn/00/cnn_0001   2    7            is    VBZ         (VP*         be  03   -    Kyra_Phillips  *    (V*)            *             *      -
+bc/cnn/00/cnn_0001   2    8         often     RB       (ADVP*)        -    -   -    Kyra_Phillips  *      *    (ARGM-TMP*)            *      -
+bc/cnn/00/cnn_0001   2    9      imitated    VBN         (VP*    imitate  01   1    Kyra_Phillips  *      *           (V*)            *    (16)
+bc/cnn/00/cnn_0001   2   10            by     IN         (PP*         -    -   -    Kyra_Phillips  *      *        (ARG0*             *      -
+bc/cnn/00/cnn_0001   2   11         other     JJ         (NP*         -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2   12     companies    NNS        *)))))   company   -   1    Kyra_Phillips  *      *             *)            *      -
+bc/cnn/00/cnn_0001   2   13           and     CC            *         -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2   14          that     DT       (S(NP*)        -    -   -    Kyra_Phillips  *      *             *        (ARG2*)   (16)
+bc/cnn/00/cnn_0001   2   15           may     MD         (VP*         -    -   -    Kyra_Phillips  *      *             *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   2   16          well     RB       (ADVP*)        -    -   -    Kyra_Phillips  *      *             *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   2   17        affect     VB         (VP*     affect  01   1    Kyra_Phillips  *      *             *           (V*)     -
+bc/cnn/00/cnn_0001   2   18          your   PRP$      (NP(NP*         -    -   -    Kyra_Phillips  *      *             *        (ARG1*      -
+bc/cnn/00/cnn_0001   2   19      benefits    NNS            *)   benefit   -   3    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2   20           and     CC            *         -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2   21          your   PRP$         (NP*         -    -   -    Kyra_Phillips  *      *             *             *      -
+bc/cnn/00/cnn_0001   2   22        career     NN       *))))))    career   -   -    Kyra_Phillips  *      *             *             *)     -
+bc/cnn/00/cnn_0001   2   23            /.      .           *))        -    -   -    Kyra_Phillips  *      *             *             *      -
+
+bc/cnn/00/cnn_0001   2   0       Take   VB  (TOP(S(VP*       take  01   7    Kyra_Phillips  *          (V*)  -
+bc/cnn/00/cnn_0001   2   1     health   NN     (NP(NP*     health   -   1    Kyra_Phillips  *       (ARG1*   -
+bc/cnn/00/cnn_0001   2   2       care   NN           *)      care   -   -    Kyra_Phillips  *            *)  -
+bc/cnn/00/cnn_0001   2   3        for   IN        (PP*         -    -   -    Kyra_Phillips  *   (ARGM-ADV*   -
+bc/cnn/00/cnn_0001   2   4    example   NN     (NP*))))   example   -   1    Kyra_Phillips  *            *)  -
+bc/cnn/00/cnn_0001   2   5         /.    .          *))        -    -   -    Kyra_Phillips  *            *   -
+
+bc/cnn/00/cnn_0001   2    0           A     DT       (TOP(S(NP(NP*        -    -   -    Kyra_Phillips      *        (ARG0*   (ARG0*             *        *           *       -
+bc/cnn/00/cnn_0001   2    1         Wal    NNP               (NML*        -    -   -    Kyra_Phillips  (ORG*             *        *             *        *           *    (107
+bc/cnn/00/cnn_0001   2    2          -    HYPH                   *        -    -   -    Kyra_Phillips      *             *        *             *        *           *       -
+bc/cnn/00/cnn_0001   2    3        Mart    NNP                   *)       -    -   -    Kyra_Phillips      *)            *        *             *        *           *     107)
+bc/cnn/00/cnn_0001   2    4    internal     JJ                   *        -    -   -    Kyra_Phillips      *             *        *             *        *           *       -
+bc/cnn/00/cnn_0001   2    5        memo     NN                   *)       -    -   -    Kyra_Phillips      *             *)       *             *        *           *       -
+bc/cnn/00/cnn_0001   2    6    recently     RB           (VP(ADVP*)       -    -   -    Kyra_Phillips      *    (ARGM-TMP*)       *             *        *           *       -
+bc/cnn/00/cnn_0001   2    7      leaked    VBN                  *))     leak  01   1    Kyra_Phillips      *           (V*)       *)            *        *           *       -
+bc/cnn/00/cnn_0001   2    8     spelled    VBD                (VP*     spell  03   5    Kyra_Phillips      *             *      (V*)            *        *           *       -
+bc/cnn/00/cnn_0001   2    9         out     RP               (PRT*)       -    -   -    Kyra_Phillips      *             *        *             *        *           *       -
+bc/cnn/00/cnn_0001   2   10        just     RB       (SBAR(WHADVP*        -    -   -    Kyra_Phillips      *             *   (ARG1*             *   (ARG1*           *       -
+bc/cnn/00/cnn_0001   2   11         how    WRB                   *        -    -   -    Kyra_Phillips      *             *        *             *        *           *       -
+bc/cnn/00/cnn_0001   2   12         far     RB                   *)       -    -   -    Kyra_Phillips      *             *        *             *        *)          *       -
+bc/cnn/00/cnn_0001   2   13         the     DT              (S(NP*        -    -   -    Kyra_Phillips      *             *        *        (ARG1*   (ARG0*      (ARG0*    (107
+bc/cnn/00/cnn_0001   2   14      retail     JJ                   *        -    -   -    Kyra_Phillips      *             *        *             *        *           *       -
+bc/cnn/00/cnn_0001   2   15       giant     NN                   *)       -    -   -    Kyra_Phillips      *             *        *             *)       *)          *)    107)
+bc/cnn/00/cnn_0001   2   16         may     MD                (VP*        -    -   -    Kyra_Phillips      *             *        *    (ARGM-MOD*)       *           *       -
+bc/cnn/00/cnn_0001   2   17          be     VB                (VP*        be  01   1    Kyra_Phillips      *             *        *           (V*)       *           *       -
+bc/cnn/00/cnn_0001   2   18     willing     JJ              (ADJP*        -    -   -    Kyra_Phillips      *             *        *        (ARG2*        *           *       -
+bc/cnn/00/cnn_0001   2   19          to     TO              (S(VP*        -    -   -    Kyra_Phillips      *             *        *             *        *           *       -
+bc/cnn/00/cnn_0001   2   20          go     VB             (VP*))))       go  02   1    Kyra_Phillips      *             *        *             *)     (V*)          *       -
+bc/cnn/00/cnn_0001   2   21          to     TO              (S(VP*        -    -   -    Kyra_Phillips      *             *        *    (ARGM-PRP*        *           *       -
+bc/cnn/00/cnn_0001   2   22        keep     VB                (VP*      keep  02   1    Kyra_Phillips      *             *        *             *        *         (V*)      -
+bc/cnn/00/cnn_0001   2   23         its   PRP$                (NP*        -    -   -    Kyra_Phillips      *             *        *             *        *      (ARG1*    (107)
+bc/cnn/00/cnn_0001   2   24      health     NN                   *    health   -   1    Kyra_Phillips      *             *        *             *        *           *       -
+bc/cnn/00/cnn_0001   2   25       costs    NNS                   *)     cost   -   1    Kyra_Phillips      *             *        *             *        *           *)      -
+bc/cnn/00/cnn_0001   2   26         low     JJ   (S(ADJP*))))))))))       -    -   -    Kyra_Phillips      *             *        *)            *)       *    (C-ARG1*)      -
+bc/cnn/00/cnn_0001   2   27          /.      .                  *))       -    -   -    Kyra_Phillips      *             *        *             *        *           *       -
+
+bc/cnn/00/cnn_0001   2    0          The    DT       (TOP(S(NP*          -    -   -    Kyra_Phillips  *   (ARG1*             *             *      -
+bc/cnn/00/cnn_0001   2    1     question    NN                *)   question   -   2    Kyra_Phillips  *        *)            *             *      -
+bc/cnn/00/cnn_0001   2    2           is   VBZ             (VP*          be  01   2    Kyra_Phillips  *      (V*)            *             *      -
+bc/cnn/00/cnn_0001   2    3         will    MD         (UCP(SQ*          -    -   -    Kyra_Phillips  *   (ARG2*    (ARGM-MOD*)            *      -
+bc/cnn/00/cnn_0001   2    4        other    JJ             (NP*          -    -   -    Kyra_Phillips  *        *        (ARG0*             *      -
+bc/cnn/00/cnn_0001   2    5    companies   NNS                *)    company   -   1    Kyra_Phillips  *        *             *)            *      -
+bc/cnn/00/cnn_0001   2    6       follow    VB             (VP*      follow  06   3    Kyra_Phillips  *        *           (V*)            *    (10)
+bc/cnn/00/cnn_0001   2    7         suit    NN           (NP*)))       suit   -   6    Kyra_Phillips  *        *             *             *      -
+bc/cnn/00/cnn_0001   2    8          and    CC                *          -    -   -    Kyra_Phillips  *        *             *             *      -
+bc/cnn/00/cnn_0001   2    9          how   WRB   (SBARQ(WHADVP*)         -    -   -    Kyra_Phillips  *        *             *    (ARGM-MNR*)     -
+bc/cnn/00/cnn_0001   2   10        might    MD             (SQ*          -    -   -    Kyra_Phillips  *        *             *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   2   11         that    DT             (NP*)         -    -   -    Kyra_Phillips  *        *             *        (ARG2*)   (10)
+bc/cnn/00/cnn_0001   2   12       affect    VB             (VP*      affect  01   1    Kyra_Phillips  *        *             *           (V*)     -
+bc/cnn/00/cnn_0001   2   13          you   PRP        (NP*))))))         -    -   -    Kyra_Phillips  *        *)            *        (ARG1*)     -
+bc/cnn/00/cnn_0001   2   14           /.     .               *))         -    -   -    Kyra_Phillips  *        *             *             *      -
+
+bc/cnn/00/cnn_0001   2   0       Here    RB   (TOP(SINV(ADVP*)   -    -   -    Kyra_Phillips         *    (ARG1*)  -
+bc/cnn/00/cnn_0001   2   1         's   VBZ              (VP*)   be  01   4    Kyra_Phillips         *       (V*)  -
+bc/cnn/00/cnn_0001   2   2        CNN   NNP           (NP(NP*    -    -   -    Kyra_Phillips      (ORG)   (ARG2*   -
+bc/cnn/00/cnn_0001   2   3         's   POS                 *)   -    -   -    Kyra_Phillips         *         *   -
+bc/cnn/00/cnn_0001   2   4        Tom   NNP                 *    -    -   -    Kyra_Phillips  (PERSON*         *   -
+bc/cnn/00/cnn_0001   2   5    Foreman   NNP                 *)   -    -   -    Kyra_Phillips         *)        *)  -
+bc/cnn/00/cnn_0001   2   6         /.     .                *))   -    -   -    Kyra_Phillips         *         *   -

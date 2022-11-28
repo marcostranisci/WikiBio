@@ -1,0 +1,52 @@
+bc/cnn/00/cnn_0004   0   0      Tonight    NN   (TOP(FRAG(NP*)  -   -   -    Larry_King     (TIME)    -
+bc/cnn/00/cnn_0004   0   1          the    DT            (NP*   -   -   -    Larry_King         *   (30
+bc/cnn/00/cnn_0004   0   2    legendary    JJ               *   -   -   -    Larry_King         *     -
+bc/cnn/00/cnn_0004   0   3         Mike   NNP               *   -   -   -    Larry_King  (PERSON*     -
+bc/cnn/00/cnn_0004   0   4      Wallace   NNP               *)  -   -   -    Larry_King         *)   30)
+bc/cnn/00/cnn_0004   0   5           /.     .              *))  -   -   -    Larry_King         *     -
+
+bc/cnn/00/cnn_0004   0    0              And    CC   (TOP(S*               -    -   -    Larry_King      *    (ARGM-DIS*)       *        *         *      -
+bc/cnn/00/cnn_0004   0    1             this    DT      (NP*               -    -   -    Larry_King      *    (ARGM-TMP*        *        *         *      -
+bc/cnn/00/cnn_0004   0    2             time    NN         *)            time   -   1    Larry_King      *             *)       *        *         *      -
+bc/cnn/00/cnn_0004   0    3               he   PRP      (NP*)              -    -   -    Larry_King      *        (ARG0*)       *        *         *    (30)
+bc/cnn/00/cnn_0004   0    4          answers   VBZ      (VP*           answer  01   1    Larry_King      *           (V*)       *        *         *      -
+bc/cnn/00/cnn_0004   0    5              the    DT   (NP(NP*               -    -   -    Larry_King      *        (ARG1*        *        *         *      -
+bc/cnn/00/cnn_0004   0    6        questions   NNS         *)        question  01   1    Larry_King      *             *      (V*)       *         *      -
+bc/cnn/00/cnn_0004   0    7               on    IN      (PP*               -    -   -    Larry_King      *             *   (ARG1*        *         *      -
+bc/cnn/00/cnn_0004   0    8       everything    NN   (NP(NP*)              -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0    9             from    IN   (PP(PP*               -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   10              the    DT   (NP(NP*               -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   11       indictment    NN         *)      indictment  01   2    Larry_King      *             *        *      (V*)        *      -
+bc/cnn/00/cnn_0004   0   12               on    IN      (PP*               -    -   -    Larry_King      *             *        *   (ARG2*         *      -
+bc/cnn/00/cnn_0004   0   13              the    DT      (NP*               -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   14              CIA   NNP     (NML*               -    -   -    Larry_King   (ORG)            *        *        *    (ARG0*)     -
+bc/cnn/00/cnn_0004   0   15             leak    NN         *)            leak  01   3    Larry_King      *             *        *        *       (V*)     -
+bc/cnn/00/cnn_0004   0   16    investigation    NN      *))))   investigation   -   1    Larry_King      *             *        *        *)        *      -
+bc/cnn/00/cnn_0004   0   17               to    IN      (PP*               -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   18              the    DT   (NP(NP*               -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   19        President   NNP         *               -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   20               's   POS         *)              -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   21              new    JJ         *               -    -   -    Larry_King      *             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   22          supreme   NNP     (NML*               -    -   -    Larry_King  (ORG*             *        *        *         *      -
+bc/cnn/00/cnn_0004   0   23            court   NNP         *)              -    -   -    Larry_King      *)            *        *        *         *      -
+bc/cnn/00/cnn_0004   0   24          nominee    NN   *)))))))              -    -   -    Larry_King      *             *)       *)       *         *      -
+bc/cnn/00/cnn_0004   0   25               /.     .        *))              -    -   -    Larry_King      *             *        *        *         *      -
+
+bc/cnn/00/cnn_0004   0   0      and     CC    (TOP(S*       -    -   -    Larry_King  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0004   0   1       he    PRP       (NP*)      -    -   -    Larry_King  *        (ARG0*)   (30)
+bc/cnn/00/cnn_0004   0   2      'll     MD       (VP*       -    -   -    Larry_King  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0004   0   3     take     VB       (VP*     take  01   5    Larry_King  *           (V*)     -
+bc/cnn/00/cnn_0004   0   4     your   PRP$       (NP*       -    -   -    Larry_King  *        (ARG1*      -
+bc/cnn/00/cnn_0004   0   5    phone     NN          *    phone   -   1    Larry_King  *             *      -
+bc/cnn/00/cnn_0004   0   6    calls    NNS          *)    call   -   4    Larry_King  *             *)     -
+bc/cnn/00/cnn_0004   0   7      too     RB   (ADVP*)))      -    -   -    Larry_King  *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0004   0   8       /.      .         *))      -    -   -    Larry_King  *             *      -
+
+bc/cnn/00/cnn_0004   0   0     Mike   NNP   (TOP(S(NP*)   -    -   -    Larry_King        (PERSON)      (ARG1*)   (30)
+bc/cnn/00/cnn_0004   0   1       's   VBZ         (VP*    be  01   4    Larry_King              *          (V*)     -
+bc/cnn/00/cnn_0004   0   2     next    RB       (ADVP*)   -    -   -    Larry_King              *       (ARG2*)     -
+bc/cnn/00/cnn_0004   0   3       on    IN         (PP*    -    -   -    Larry_King              *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0004   0   4    Larry   NNP    (FRAG(NP*    -    -   -    Larry_King  (WORK_OF_ART*            *      -
+bc/cnn/00/cnn_0004   0   5     King   NNP            *)   -    -   -    Larry_King              *            *      -
+bc/cnn/00/cnn_0004   0   6     Live    RB    (ADVP*))))   -    -   -    Larry_King              *)           *)     -
+bc/cnn/00/cnn_0004   0   7       /.     .           *))   -    -   -    Larry_King              *            *      -

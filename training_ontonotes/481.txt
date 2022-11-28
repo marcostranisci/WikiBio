@@ -1,0 +1,619 @@
+bc/msnbc/00/msnbc_0002   0    0             If    IN    (TOP(S(SBAR*        -    -   -   speaker1   *         *         *    (ARGM-ADV*             *       -
+bc/msnbc/00/msnbc_0002   0    1           they   PRP          (S(NP*)       -    -   -   speaker1   *    (ARG0*)   (ARG0*)            *             *       -
+bc/msnbc/00/msnbc_0002   0    2         decide   VBP            (VP*    decide  01   1   speaker1   *       (V*)        *             *             *       -
+bc/msnbc/00/msnbc_0002   0    3             to    TO          (S(VP*        -    -   -   speaker1   *    (ARG1*         *             *             *       -
+bc/msnbc/00/msnbc_0002   0    4           make    VB            (VP*      make  02   3   speaker1   *         *       (V*)            *             *    (108)
+bc/msnbc/00/msnbc_0002   0    5             it   PRP          (S(NP*)       -    -   -   speaker1   *         *    (ARG1*             *             *    (164)
+bc/msnbc/00/msnbc_0002   0    6              a    DT            (NP*        -    -   -   speaker1   *         *         *             *             *       -
+bc/msnbc/00/msnbc_0002   0    7    centerpiece    NN        *))))))))       -    -   -   speaker1   *         *)        *)            *)            *       -
+bc/msnbc/00/msnbc_0002   0    8             we   PRP            (NP*)       -    -   -   speaker1   *         *         *        (ARG0*)            *    (135)
+bc/msnbc/00/msnbc_0002   0    9            'll    MD            (VP*        -    -   -   speaker1   *         *         *    (ARGM-MOD*)            *       -
+bc/msnbc/00/msnbc_0002   0   10           know    VB            (VP*      know  01   2   speaker1   *         *         *           (V*)            *       -
+bc/msnbc/00/msnbc_0002   0   11             it   PRP            (NP*)       -    -   -   speaker1   *         *         *        (ARG1*)            *    (108)
+bc/msnbc/00/msnbc_0002   0   12           when   WRB   (SBAR(WHADVP*)       -    -   -   speaker1   *         *         *    (ARGM-TMP*    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0002   0   13             we   PRP          (S(NP*)       -    -   -   speaker1   *         *         *             *        (ARG0*)   (135)
+bc/msnbc/00/msnbc_0002   0   14            see   VBP            (VP*       see  01   2   speaker1   *         *         *             *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   15             it   PRP       (NP*))))))       -    -   -   speaker1   *         *         *             *)       (ARG1*)   (108)
+bc/msnbc/00/msnbc_0002   0   16             /.     .              *))       -    -   -   speaker1   *         *         *             *             *       -
+
+bc/msnbc/00/msnbc_0002   0    0       What    WP   (TOP(S(SBAR(WHNP*)     -    -   -   speaker1          *      *         *    (ARG1*)  (ARG1*             *             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0    1       Bush   NNP              (S(NP*)     -    -   -   speaker1    (PERSON)     *    (ARG0*)   (ARG0*)       *             *             *      *             *             *    (119)
+bc/msnbc/00/msnbc_0002   0    2         is   VBZ                (VP*      be  03   -   speaker1          *    (V*)        *         *        *             *             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0    3     trying   VBG                (VP*     try  01   1   speaker1          *      *       (V*)        *        *             *             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0    4         to    TO              (S(VP*      -    -   -   speaker1          *      *    (ARG1*         *        *             *             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0    5         do    VB          (VP*)))))))     do  02   1   speaker1          *      *         *)      (V*)       *)            *             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0    6         is   VBZ                (VP*      be  01   1   speaker1          *      *         *         *      (V*)            *             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0    7        not    RB           (S(VP(VP*      -    -   -   speaker1          *      *         *         *   (ARG2*    (ARGM-NEG*)            *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0    8        run    VB                   *     run  02   7   speaker1          *      *         *         *        *           (V*)            *      *             *             *    (133)
+bc/msnbc/00/msnbc_0002   0    9         as    IN                (PP*      -    -   -   speaker1          *      *         *         *        *    (ARGM-PRD*             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0   10        Tom   NNP                (NP*      -    -   -   speaker1   (PERSON*      *         *         *        *             *             *      *             *             *    (144
+bc/msnbc/00/msnbc_0002   0   11     Cruise   NNP                  *))     -    -   -   speaker1          *)     *         *         *        *             *)            *      *             *             *     144)
+bc/msnbc/00/msnbc_0002   0   12    anymore    RB             (ADVP*))     -    -   -   speaker1          *      *         *         *        *    (ARGM-TMP*)            *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0   13        not    RB                (VP*      -    -   -   speaker1          *      *         *         *        *             *    (ARGM-NEG*)     *             *             *       -
+bc/msnbc/00/msnbc_0002   0   14        run   VBN                   *     run  02   7   speaker1          *      *         *         *        *             *           (V*)     *             *             *    (133)
+bc/msnbc/00/msnbc_0002   0   15         as    IN                (PP*      -    -   -   speaker1          *      *         *         *        *             *    (ARGM-PRD*      *             *             *       -
+bc/msnbc/00/msnbc_0002   0   16        Top   NNP                (NP*      -    -   -   speaker1          *      *         *         *        *             *             *      *             *             *    (144
+bc/msnbc/00/msnbc_0002   0   17        Gun   NNP                 *)))     -    -   -   speaker1          *      *         *         *        *             *             *)     *             *             *     144)
+bc/msnbc/00/msnbc_0002   0   18    because    IN              (SBAR*      -    -   -   speaker1          *      *         *         *        *             *    (ARGM-CAU*      *             *             *       -
+bc/msnbc/00/msnbc_0002   0   19       that    DT              (S(NP*)     -    -   -   speaker1          *      *         *         *        *             *             *      *             *        (ARG0*)   (133)
+bc/msnbc/00/msnbc_0002   0   20         's   VBZ                (VP*      be  03   -   speaker1          *      *         *         *        *             *             *    (V*)            *             *       -
+bc/msnbc/00/msnbc_0002   0   21        not    RB                   *      -    -   -   speaker1          *      *         *         *        *             *             *      *    (ARGM-NEG*)            *       -
+bc/msnbc/00/msnbc_0002   0   22      going   VBG                (VP*      go  04   7   speaker1          *      *         *         *        *             *             *      *           (V*)            *       -
+bc/msnbc/00/msnbc_0002   0   23         to    TO              (S(VP*      -    -   -   speaker1          *      *         *         *        *             *             *      *             *             *       -
+bc/msnbc/00/msnbc_0002   0   24       work    VB                (VP*    work  09   2   speaker1          *      *         *         *        *             *             *      *             *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   25    anymore    RB    (ADVP*)))))))))))     -    -   -   speaker1          *      *         *         *        *)            *             *)     *             *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0002   0   26         /.     .                  *))     -    -   -   speaker1          *      *         *         *        *             *             *      *             *             *       -
+
+bc/msnbc/00/msnbc_0002   0    0           I   PRP    (TOP(S(NP*)         -    -   -   speaker1          *    (ARG0*)     *         *            *         *    (114)
+bc/msnbc/00/msnbc_0002   0    1       think   VBP          (VP*       think  01   1   speaker1          *       (V*)     *         *            *         *       -
+bc/msnbc/00/msnbc_0002   0    2          he   PRP   (SBAR(S(NP*)         -    -   -   speaker1          *    (ARG1*      *    (ARG0*)      (ARG0*)        *    (119)
+bc/msnbc/00/msnbc_0002   0    3          's   VBZ          (VP*          be  03   -   speaker1          *         *    (V*)        *            *         *       -
+bc/msnbc/00/msnbc_0002   0    4      trying   VBG          (VP*         try  01   1   speaker1          *         *      *       (V*)           *         *       -
+bc/msnbc/00/msnbc_0002   0    5          to    TO        (S(VP*          -    -   -   speaker1          *         *      *    (ARG1*            *         *       -
+bc/msnbc/00/msnbc_0002   0    6         run    VB          (VP*         run  02   7   speaker1          *         *      *         *          (V*)        *       -
+bc/msnbc/00/msnbc_0002   0    7          as    IN          (PP*          -    -   -   speaker1          *         *      *         *   (ARGM-PRD*         *       -
+bc/msnbc/00/msnbc_0002   0    8        Jack   NNP          (NP*          -    -   -   speaker1   (PERSON*         *      *         *            *         *    (117
+bc/msnbc/00/msnbc_0002   0    9       Bauer   NNP            *))         -    -   -   speaker1          *)        *      *         *            *)        *     117)
+bc/msnbc/00/msnbc_0002   0   10         you   PRP    (PRN(S(NP*)         -    -   -   speaker1          *         *      *         *            *    (ARG0*)      -
+bc/msnbc/00/msnbc_0002   0   11        know   VBP        (VP*)))       know  01   1   speaker1          *         *      *         *            *       (V*)      -
+bc/msnbc/00/msnbc_0002   0   12          on    IN          (PP*          -    -   -   speaker1          *         *      *         *   (ARGM-ADV*         *       -
+bc/msnbc/00/msnbc_0002   0   13    domestic    JJ          (NP*          -    -   -   speaker1          *         *      *         *            *         *       -
+bc/msnbc/00/msnbc_0002   0   14    security    NN    *))))))))))   security   -   3   speaker1          *         *)     *         *)           *)        *       -
+bc/msnbc/00/msnbc_0002   0   15          /.     .            *))         -    -   -   speaker1          *         *      *         *            *         *       -
+
+bc/msnbc/00/msnbc_0002   0    0              If     IN  (TOP(S(SBAR*             -    -   -   speaker1       *      *      *      *            *   (ARGM-ADV*         *       -
+bc/msnbc/00/msnbc_0002   0    1              it    PRP        (S(NP*)            -    -   -   speaker1       *      *      *      *       (ARG1*)           *         *    (164)
+bc/msnbc/00/msnbc_0002   0    2              's    VBZ          (VP*             be  03   -   speaker1       *    (V*)     *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0    3           going    VBG          (VP*             go  04   7   speaker1       *      *    (V*)     *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0    4              to     TO        (S(VP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0    5              be     VB          (VP*             be  03   -   speaker1       *      *      *    (V*)           *            *         *       -
+bc/msnbc/00/msnbc_0002   0    6    nationalized    VBN          (VP*    nationalize  01   -   speaker1       *      *      *      *          (V*)           *         *       -
+bc/msnbc/00/msnbc_0002   0    7              on     IN          (PP*             -    -   -   speaker1       *      *      *      *   (ARGM-MNR*            *         *       -
+bc/msnbc/00/msnbc_0002   0    8             the     DT       (NP(NP*             -    -   -   speaker1       *      *      *      *            *            *         *    (147
+bc/msnbc/00/msnbc_0002   0    9     Republicans   NNPS             *             -    -   -   speaker1    (ORG)     *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   10               '    POS             *)            -    -   -   speaker1       *      *      *      *            *            *         *     147)
+bc/msnbc/00/msnbc_0002   0   11           terms    NNS    *))))))))))          term   -   3   speaker1       *      *      *      *            *)           *)        *       -
+bc/msnbc/00/msnbc_0002   0   12            they    PRP          (NP*)            -    -   -   speaker1       *      *      *      *            *       (ARG0*)        *    (147)
+bc/msnbc/00/msnbc_0002   0   13            want    VBP          (VP*           want  01   1   speaker1       *      *      *      *            *          (V*)        *       -
+bc/msnbc/00/msnbc_0002   0   14              it    PRP        (S(NP*)            -    -   -   speaker1       *      *      *      *            *       (ARG1*    (ARG1*)   (164)
+bc/msnbc/00/msnbc_0002   0   15              to     TO          (VP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   16              be     VB          (VP*             be  01   1   speaker1       *      *      *      *            *            *       (V*)      -
+bc/msnbc/00/msnbc_0002   0   17           about     IN       (PP(PP*             -    -   -   speaker1       *      *      *      *            *            *    (ARG2*       -
+bc/msnbc/00/msnbc_0002   0   18        domestic     JJ          (NP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   19        security     NN            *))      security   -   3   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   20           about     IN          (PP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   21             the     DT          (NP*             -    -   -   speaker1   (LAW*      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   22         Patriot    NNP             *             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   23             Act    NNP            *))            -    -   -   speaker1       *)     *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   24           about     IN          (PP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   25             the     DT       (NP(NP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   26    surveillance     NN             *)            -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   27              of     IN          (PP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   28      terrorists    NNS       (NP*))))            -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   29              et     NN          (NP*             -    -   -   speaker1       *      *      *      *            *            *         *       -
+bc/msnbc/00/msnbc_0002   0   30          cetera     NN        *))))))            -    -   -   speaker1       *      *      *      *            *            *)        *)      -
+bc/msnbc/00/msnbc_0002   0   31              /.      .            *))            -    -   -   speaker1       *      *      *      *            *            *         *       -
+
+bc/msnbc/00/msnbc_0002   0    0           Is    VBZ        (TOP(SQ*          be  01   1    Chris_Matthews       *           (V*)       *             *             *      -
+bc/msnbc/00/msnbc_0002   0    1          n't     RB               *          -    -   -    Chris_Matthews       *    (ARGM-NEG*)       *             *             *      -
+bc/msnbc/00/msnbc_0002   0    2           it    PRP        (NP(NP*))         -    -   -    Chris_Matthews       *             *        *             *             *      -
+bc/msnbc/00/msnbc_0002   0    3    wonderful     JJ          (ADJP*)         -    -   -    Chris_Matthews       *        (ARG2*)       *             *             *      -
+bc/msnbc/00/msnbc_0002   0    4           to     TO          (S(VP*          -    -   -    Chris_Matthews       *        (ARG1*        *             *             *      -
+bc/msnbc/00/msnbc_0002   0    5          see     VB            (VP*         see  01   4    Chris_Matthews       *             *      (V*)            *             *      -
+bc/msnbc/00/msnbc_0002   0    6          how    WRB   (SBAR(WHADVP*)         -    -   -    Chris_Matthews       *             *   (ARG1*    (ARGM-MNR*)            *      -
+bc/msnbc/00/msnbc_0002   0    7    Democrats   NNPS          (S(NP*)         -    -   -    Chris_Matthews   (NORP)            *        *        (ARG1*)            *    (66)
+bc/msnbc/00/msnbc_0002   0    8          are    VBP            (VP*          be  01   1    Chris_Matthews       *             *        *           (V*)            *      -
+bc/msnbc/00/msnbc_0002   0    9           so     RB          (ADJP*          -    -   -    Chris_Matthews       *             *        *        (ARG2*             *      -
+bc/msnbc/00/msnbc_0002   0   10        clear     RB               *          -    -   -    Chris_Matthews       *             *        *             *    (ARGM-MNR*)     -
+bc/msnbc/00/msnbc_0002   0   11          cut    VBN               *)        cut  03   -    Chris_Matthews       *             *        *             *)          (V*)     -
+bc/msnbc/00/msnbc_0002   0   12           on     IN            (PP*          -    -   -    Chris_Matthews       *             *        *    (ARGM-LOC*             *      -
+bc/msnbc/00/msnbc_0002   0   13       issues    NNS         (NP(NP*)      issue   -   1    Chris_Matthews       *             *        *             *             *      -
+bc/msnbc/00/msnbc_0002   0   14         like     IN            (PP*          -    -   -    Chris_Matthews       *             *        *             *             *      -
+bc/msnbc/00/msnbc_0002   0   15     abortion     NN            (NP*    abortion   -   1    Chris_Matthews       *             *        *             *             *    (63
+bc/msnbc/00/msnbc_0002   0   16       rights    NNS      *))))))))))      right   -   -    Chris_Matthews       *             *)       *)            *)            *     63)
+bc/msnbc/00/msnbc_0002   0   17           /?      .              *))         -    -   -    Chris_Matthews       *             *        *             *             *      -
+
+bc/msnbc/00/msnbc_0002   0   0      We   PRP   (TOP(S(NP*)   -    -   -    Chris_Matthews  *    (ARG1*)   (66)
+bc/msnbc/00/msnbc_0002   0   1     're   VBP         (VP*    be  01   1    Chris_Matthews  *       (V*)     -
+bc/msnbc/00/msnbc_0002   0   2     for    IN         (PP*    -    -   -    Chris_Matthews  *    (ARG2*      -
+bc/msnbc/00/msnbc_0002   0   3    them   PRP       (NP*)))   -    -   -    Chris_Matthews  *         *)   (63)
+bc/msnbc/00/msnbc_0002   0   4      /.     .           *))   -    -   -    Chris_Matthews  *         *      -
+
+bc/msnbc/00/msnbc_0002   0   0               No    DT  (TOP(NP*              -    -   -    Chris_Matthews  *    (ARGM-NEG*)  -
+bc/msnbc/00/msnbc_0002   0   1    complications   NNS         *    complication  01   1    Chris_Matthews  *           (V*)  -
+bc/msnbc/00/msnbc_0002   0   2               /.     .        *))             -    -   -    Chris_Matthews  *             *   -
+
+bc/msnbc/00/msnbc_0002   0   0     Yeah   UH   (TOP(FRAG(INTJ*)  -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   1    right   UH            (INTJ*)  -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   2    right   UH            (INTJ*)  -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   3       /.    .                *))  -   -   -   speaker1   *   -
+
+bc/msnbc/00/msnbc_0002   0   0     War    NN   (TOP(NP(NP*)   war  01   1    Chris_Matthews      *          (V*)  (68
+bc/msnbc/00/msnbc_0002   0   1      in    IN          (PP*     -    -   -    Chris_Matthews      *   (ARGM-LOC*     -
+bc/msnbc/00/msnbc_0002   0   2    Iraq   NNP         (NP*))    -    -   -    Chris_Matthews   (GPE)           *)    -
+bc/msnbc/00/msnbc_0002   0   3      /.     .            *))    -    -   -    Chris_Matthews      *            *    68)
+
+bc/msnbc/00/msnbc_0002   0   0    well    UH   (TOP(S(INTJ*)     -    -   -    Chris_Matthews  *      *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0002   0   1       I   PRP           (NP*)     -    -   -    Chris_Matthews  *      *        (ARG0*)   (39)
+bc/msnbc/00/msnbc_0002   0   2      do   VBP           (VP*      do  01   -    Chris_Matthews  *    (V*)            *      -
+bc/msnbc/00/msnbc_0002   0   3     n't    RB              *      -    -   -    Chris_Matthews  *      *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0002   0   4    know    VB          (VP*))   know  01   1    Chris_Matthews  *      *           (V*)     -
+bc/msnbc/00/msnbc_0002   0   5      /.     .             *))     -    -   -    Chris_Matthews  *      *             *      -
+
+bc/msnbc/00/msnbc_0002   0   0         Let    VB  (TOP(S(VP*    let  01   1    Chris_Matthews       *      (V*)        *       -
+bc/msnbc/00/msnbc_0002   0   1          me   PRP      (S(NP*)    -    -   -    Chris_Matthews       *   (ARG1*    (ARG0*)    (39)
+bc/msnbc/00/msnbc_0002   0   2         ask    VB        (VP*    ask  01   1    Chris_Matthews       *        *       (V*)      -
+bc/msnbc/00/msnbc_0002   0   3         you   PRP        (NP*)    -    -   -    Chris_Matthews       *        *    (ARG2*)   (114)
+bc/msnbc/00/msnbc_0002   0   4       about    IN        (PP*     -    -   -    Chris_Matthews       *        *    (ARG1*       -
+bc/msnbc/00/msnbc_0002   0   5         two    CD        (NP*     -    -   -    Chris_Matthews  (DATE*        *         *       -
+bc/msnbc/00/msnbc_0002   0   6    thousand    CD           *     -    -   -    Chris_Matthews       *        *         *       -
+bc/msnbc/00/msnbc_0002   0   7         and    CC           *     -    -   -    Chris_Matthews       *        *         *       -
+bc/msnbc/00/msnbc_0002   0   8       eight    CD       *)))))    -    -   -    Chris_Matthews       *)       *)        *)      -
+bc/msnbc/00/msnbc_0002   0   9          /.     .          *))    -    -   -    Chris_Matthews       *        *         *       -
+
+bc/msnbc/00/msnbc_0002   0    0         One    CD   (TOP(S(NP(NP*)      -    -   -    Chris_Matthews   (CARDINAL)        *   (ARG1*   (192
+bc/msnbc/00/msnbc_0002   0    1          of    IN            (PP*       -    -   -    Chris_Matthews           *         *        *      -
+bc/msnbc/00/msnbc_0002   0    2         the    DT         (NP(NP*       -    -   -    Chris_Matthews           *    (ARG1*        *      -
+bc/msnbc/00/msnbc_0002   0    3        guys   NNS               *)     guy   -   -    Chris_Matthews           *         *)       *      -
+bc/msnbc/00/msnbc_0002   0    4         I"m   PRP     (SBAR(S(NP*)      -    -   -    Chris_Matthews           *    (ARG0*)       *    (39)
+bc/msnbc/00/msnbc_0002   0    5    watching   VBG       (VP*))))))   watch  01   1    Chris_Matthews           *       (V*)       *)   192)
+bc/msnbc/00/msnbc_0002   0    6          is   VBZ            (VP*       be  01   1    Chris_Matthews           *         *      (V*)     -
+bc/msnbc/00/msnbc_0002   0    7           a    DT            (NP*       -    -   -    Chris_Matthews           *         *   (ARG2*      -
+bc/msnbc/00/msnbc_0002   0    8        dark    JJ               *       -    -   -    Chris_Matthews           *         *        *      -
+bc/msnbc/00/msnbc_0002   0    9       horse    NN              *))   horse   -   -    Chris_Matthews           *         *        *)     -
+bc/msnbc/00/msnbc_0002   0   10          /.     .              *))      -    -   -    Chris_Matthews           *         *        *      -
+
+bc/msnbc/00/msnbc_0002   0    0             And    CC       (TOP(S*         -    -   -    Chris_Matthews      *      *    (ARGM-DIS*)     *             *      *         *         *       -
+bc/msnbc/00/msnbc_0002   0    1               I   PRP          (NP*)        -    -   -    Chris_Matthews      *      *        (ARG0*)     *             *      *         *         *     (39)
+bc/msnbc/00/msnbc_0002   0    2              do   VBP          (VP*         do  01   -    Chris_Matthews      *    (V*)            *      *             *      *         *         *       -
+bc/msnbc/00/msnbc_0002   0    3             n't    RB             *         -    -   -    Chris_Matthews      *      *    (ARGM-NEG*)     *             *      *         *         *       -
+bc/msnbc/00/msnbc_0002   0    4           think    VB          (VP*      think  01   1    Chris_Matthews      *      *           (V*)     *             *      *         *         *       -
+bc/msnbc/00/msnbc_0002   0    5              he   PRP   (SBAR(S(NP*)        -    -   -    Chris_Matthews      *      *        (ARG1*      *        (ARG1*)     *         *         *    (192)
+bc/msnbc/00/msnbc_0002   0    6           would    MD          (VP*         -    -   -    Chris_Matthews      *      *             *      *    (ARGM-MOD*)     *         *         *       -
+bc/msnbc/00/msnbc_0002   0    7            have    VB          (VP*       have  01   -    Chris_Matthews      *      *             *    (V*)            *      *         *         *       -
+bc/msnbc/00/msnbc_0002   0    8          passed   VBN          (VP*       pass  07   2    Chris_Matthews      *      *             *      *           (V*)     *         *         *       -
+bc/msnbc/00/msnbc_0002   0    9          muster    NN          (NP*)    muster   -   -    Chris_Matthews      *      *             *      *        (ARG2*)     *         *         *       -
+bc/msnbc/00/msnbc_0002   0   10              at    IN          (PP*         -    -   -    Chris_Matthews      *      *             *      *    (ARGM-LOC*      *         *         *       -
+bc/msnbc/00/msnbc_0002   0   11             the    DT       (NP(NP*         -    -   -    Chris_Matthews      *      *             *      *             *      *    (ARG1*         *       -
+bc/msnbc/00/msnbc_0002   0   12         Memphis   NNP             *         -    -   -    Chris_Matthews   (LOC)     *             *      *             *      *         *         *       -
+bc/msnbc/00/msnbc_0002   0   13         meeting    NN             *)   meeting   -   1    Chris_Matthews      *      *             *      *             *      *         *)        *       -
+bc/msnbc/00/msnbc_0002   0   14              we   PRP   (SBAR(S(NP*)        -    -   -    Chris_Matthews      *      *             *      *             *      *    (ARG0*)        *    (126)
+bc/msnbc/00/msnbc_0002   0   15            were   VBD          (VP*         be  03   -    Chris_Matthews      *      *             *      *             *    (V*)        *         *       -
+bc/msnbc/00/msnbc_0002   0   16        covering   VBG     (VP*))))))     cover  03   2    Chris_Matthews      *      *             *      *             *)     *       (V*)        *       -
+bc/msnbc/00/msnbc_0002   0   17         because    IN        (SBAR*         -    -   -    Chris_Matthews      *      *             *      *    (ARGM-CAU*      *         *         *       -
+bc/msnbc/00/msnbc_0002   0   18              he   PRP        (S(NP*)        -    -   -    Chris_Matthews      *      *             *      *             *      *         *    (ARG1*)   (192)
+bc/msnbc/00/msnbc_0002   0   19             was   VBD          (VP*         be  01   1    Chris_Matthews      *      *             *      *             *      *         *       (V*)      -
+bc/msnbc/00/msnbc_0002   0   20              so    RB        (ADJP*         -    -   -    Chris_Matthews      *      *             *      *             *      *         *    (ARG2*       -
+bc/msnbc/00/msnbc_0002   0   21      culturally    RB             *         -    -   -    Chris_Matthews      *      *             *      *             *      *         *         *       -
+bc/msnbc/00/msnbc_0002   0   22    conservative    JJ   *)))))))))))        -    -   -    Chris_Matthews      *      *             *)     *             *)     *         *         *)      -
+bc/msnbc/00/msnbc_0002   0   23              /.     .            *))        -    -   -    Chris_Matthews      *      *             *      *             *      *         *         *       -
+
+bc/msnbc/00/msnbc_0002   0    0           Is   VBZ    (TOP(S(VP*         be  01   2    Chris_Matthews  *      (V*)        *             *      *             *       -
+bc/msnbc/00/msnbc_0002   0    1          the    DT       (NP(NP*         -    -   -    Chris_Matthews  *   (ARG2*         *             *      *             *    (192
+bc/msnbc/00/msnbc_0002   0    2          guy    NN             *)       guy   -   -    Chris_Matthews  *        *         *             *      *             *       -
+bc/msnbc/00/msnbc_0002   0    3            I   PRP    (PRN(S(NP*)        -    -   -    Chris_Matthews  *        *    (ARG0*)            *      *             *     (39)
+bc/msnbc/00/msnbc_0002   0    4      believe   VBP        (VP*)))   believe  01   1    Chris_Matthews  *        *       (V*)            *      *             *       -
+bc/msnbc/00/msnbc_0002   0    5          who    WP   (SBAR(WHNP*)        -    -   -    Chris_Matthews  *        *    (ARG1*        (ARG0*)     *             *       -
+bc/msnbc/00/msnbc_0002   0    6        would    MD        (S(VP*         -    -   -    Chris_Matthews  *        *         *    (ARGM-MOD*)     *             *       -
+bc/msnbc/00/msnbc_0002   0    7          win    VB          (VP*        win  01   1    Chris_Matthews  *        *         *           (V*)     *             *       -
+bc/msnbc/00/msnbc_0002   0    8           if    IN        (SBAR*         -    -   -    Chris_Matthews  *        *         *    (ARGM-ADV*      *             *       -
+bc/msnbc/00/msnbc_0002   0    9           we   PRP        (S(NP*)        -    -   -    Chris_Matthews  *        *         *             *      *        (ARG0*)   (111)
+bc/msnbc/00/msnbc_0002   0   10          did   VBD          (VP*         do  01   -    Chris_Matthews  *        *         *             *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   0   11          n't    RB             *         -    -   -    Chris_Matthews  *        *         *             *      *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0002   0   12         have    VB          (VP*       have  03   4    Chris_Matthews  *        *         *             *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   13    political    JJ          (NP*         -    -   -    Chris_Matthews  *        *         *             *      *        (ARG1*       -
+bc/msnbc/00/msnbc_0002   0   14      parties   NNS   *)))))))))))        -    -   -    Chris_Matthews  *        *)        *)            *)     *             *)    192)
+bc/msnbc/00/msnbc_0002   0   15           /.     .            *))        -    -   -    Chris_Matthews  *        *         *             *      *             *       -
+
+bc/msnbc/00/msnbc_0002   0    0             If    IN     (TOP(S(SBAR*       -    -   -    Chris_Matthews         *      *             *      *             *             *   (ARGM-ADV*             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    1             we   PRP         (S(S(NP*)      -    -   -    Chris_Matthews         *      *        (ARG0*)     *             *             *            *             *         *         *    (111)
+bc/msnbc/00/msnbc_0002   0    2            did   VBD             (VP*       do  01   -    Chris_Matthews         *    (V*)            *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    3            n't    RB                *       -    -   -    Chris_Matthews         *      *    (ARGM-NEG*)     *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    4           have    VB             (VP*     have  03   4    Chris_Matthews         *      *           (V*)     *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    5              a    DT             (NP*       -    -   -    Chris_Matthews     (ORG*      *        (ARG1*      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    6     Democratic    JJ                *       -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    7          party    NN             *))))      -    -   -    Chris_Matthews         *)     *             *)     *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    8            and    CC                *       -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0    9             we   PRP           (S(NP*)      -    -   -    Chris_Matthews         *      *             *      *        (ARG0*)            *            *             *         *         *    (111)
+bc/msnbc/00/msnbc_0002   0   10            did   VBD             (VP*       do  01   -    Chris_Matthews         *      *             *    (V*)            *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   11            n't    RB                *       -    -   -    Chris_Matthews         *      *             *      *    (ARGM-NEG*)            *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   12           have    VB             (VP*     have  03   4    Chris_Matthews         *      *             *      *           (V*)            *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   13              a    DT             (NP*       -    -   -    Chris_Matthews     (ORG*      *             *      *        (ARG1*             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   14     Republican    JJ                *       -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   15          party    NN           *))))))      -    -   -    Chris_Matthews         *)     *             *      *             *)            *            *)            *         *         *       -
+bc/msnbc/00/msnbc_0002   0   16              ,     ,                *       -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   17             if    IN           (SBAR*       -    -   -    Chris_Matthews         *      *             *      *             *             *   (ARGM-ADV*             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   18             we   PRP           (S(NP*)      -    -   -    Chris_Matthews         *      *             *      *             *        (ARG0*)           *             *         *         *    (111)
+bc/msnbc/00/msnbc_0002   0   19           just    RB           (ADVP*)      -    -   -    Chris_Matthews         *      *             *      *             *    (ARGM-ADV*)           *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   20            had   VBD             (VP*     have  03   1    Chris_Matthews         *      *             *      *             *           (V*)           *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   21              a    DT             (NP*       -    -   -    Chris_Matthews         *      *             *      *             *        (ARG1*            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   22            big    JJ                *       -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   23           boat    NN             *))))    boat   -   -    Chris_Matthews         *      *             *      *             *             *)           *)            *         *         *       -
+bc/msnbc/00/msnbc_0002   0   24              I   PRP             (NP*)      -    -   -    Chris_Matthews         *      *             *      *             *             *       (ARG0*)            *         *         *     (39)
+bc/msnbc/00/msnbc_0002   0   25          think   VBP             (VP*    think  01   1    Chris_Matthews         *      *             *      *             *             *          (V*)            *         *         *       -
+bc/msnbc/00/msnbc_0002   0   26       Giuliani   NNP      (SBAR(S(NP*)      -    -   -    Chris_Matthews   (PERSON)     *             *      *             *             *       (ARG1*        (ARG1*)        *         *    (192)
+bc/msnbc/00/msnbc_0002   0   27          would    MD             (VP*       -    -   -    Chris_Matthews         *      *             *      *             *             *            *    (ARGM-MOD*)        *         *       -
+bc/msnbc/00/msnbc_0002   0   28             be    VB             (VP*       be  01   1    Chris_Matthews         *      *             *      *             *             *            *           (V*)        *         *       -
+bc/msnbc/00/msnbc_0002   0   29    unstoppable    JJ           (ADJP*)      -    -   -    Chris_Matthews         *      *             *      *             *             *            *        (ARG2*)        *         *       -
+bc/msnbc/00/msnbc_0002   0   30        because    IN           (SBAR*       -    -   -    Chris_Matthews         *      *             *      *             *             *            *    (ARGM-CAU*         *         *       -
+bc/msnbc/00/msnbc_0002   0   31             he   PRP           (S(NP*)      -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *    (ARG1*)        *    (192)
+bc/msnbc/00/msnbc_0002   0   32             's   VBZ             (VP*       be  01   1    Chris_Matthews         *      *             *      *             *             *            *             *       (V*)        *       -
+bc/msnbc/00/msnbc_0002   0   33              a    DT             (NP*       -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *    (ARG2*         *       -
+bc/msnbc/00/msnbc_0002   0   34            big    JJ           (ADJP*       -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   35           city    NN                *)    city   -   1    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+bc/msnbc/00/msnbc_0002   0   36            guy    NN                *)     guy   -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *)        *       -
+bc/msnbc/00/msnbc_0002   0   37            you   PRP       (PRN(S(NP*)      -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *    (ARG0*)      -
+bc/msnbc/00/msnbc_0002   0   38           know   VBP   (VP*)))))))))))    know  01   1    Chris_Matthews         *      *             *      *             *             *            *)            *)        *       (V*)      -
+bc/msnbc/00/msnbc_0002   0   39             /.     .               *))      -    -   -    Chris_Matthews         *      *             *      *             *             *            *             *         *         *       -
+
+bc/msnbc/00/msnbc_0002   0    0       And    CC       (TOP(S*      -    -   -    Chris_Matthews  *    (ARGM-DIS*)     *           *       -
+bc/msnbc/00/msnbc_0002   0    1        he   PRP          (NP*)     -    -   -    Chris_Matthews  *        (ARG1*)     *           *    (192)
+bc/msnbc/00/msnbc_0002   0    2        's   VBZ          (VP*      be  01   1    Chris_Matthews  *           (V*)     *           *       -
+bc/msnbc/00/msnbc_0002   0    3         a    DT       (NP(NP*      -    -   -    Chris_Matthews  *        (ARG2*      *      (ARG0*       -
+bc/msnbc/00/msnbc_0002   0    4       guy    NN             *)    guy   -   -    Chris_Matthews  *             *      *           *)      -
+bc/msnbc/00/msnbc_0002   0    5      that   WDT   (SBAR(WHNP*)     -    -   -    Chris_Matthews  *             *      *    (R-ARG0*)      -
+bc/msnbc/00/msnbc_0002   0    6        's   VBZ        (S(VP*      be  03   -    Chris_Matthews  *             *    (V*)          *       -
+bc/msnbc/00/msnbc_0002   0    7     dealt   VBN          (VP*    deal  01   1    Chris_Matthews  *             *      *         (V*)      -
+bc/msnbc/00/msnbc_0002   0    8      with    IN          (PP*      -    -   -    Chris_Matthews  *             *      *      (ARG1*       -
+bc/msnbc/00/msnbc_0002   0    9    horror    NN   (NP*))))))))     -    -   -    Chris_Matthews  *             *)     *           *)      -
+bc/msnbc/00/msnbc_0002   0   10        /.     .            *))     -    -   -    Chris_Matthews  *             *      *           *       -
+
+bc/msnbc/00/msnbc_0002   0   0      And    CC   (TOP(S*       -    -   -    Chris_Matthews  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   0   1       he   PRP      (NP*)      -    -   -    Chris_Matthews  *        (ARG1*)   (192)
+bc/msnbc/00/msnbc_0002   0   2       's   VBZ      (VP*       be  01   1    Chris_Matthews  *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   3    tough    JJ    (ADJP*       -    -   -    Chris_Matthews  *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   0   4       on    IN      (PP*       -    -   -    Chris_Matthews  *             *       -
+bc/msnbc/00/msnbc_0002   0   5    crime    NN   (NP*))))   crime   -   1    Chris_Matthews  *             *)      -
+bc/msnbc/00/msnbc_0002   0   6       /.     .        *))      -    -   -    Chris_Matthews  *             *       -
+
+bc/msnbc/00/msnbc_0002   0   0      And    CC   (TOP(S*    -    -   -    Chris_Matthews  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   0   1       he   PRP      (NP*)   -    -   -    Chris_Matthews  *        (ARG1*)   (192)
+bc/msnbc/00/msnbc_0002   0   2       's   VBZ      (VP*    be  01   1    Chris_Matthews  *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   3    smart    JJ   (ADJP*))   -    -   -    Chris_Matthews  *        (ARG2*)      -
+bc/msnbc/00/msnbc_0002   0   4       /.     .        *))   -    -   -    Chris_Matthews  *             *       -
+
+bc/msnbc/00/msnbc_0002   0    0       And    CC  (TOP(S*        -    -   -    Chris_Matthews  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   0    1        he   PRP     (NP*)       -    -   -    Chris_Matthews  *        (ARG1*)   (192)
+bc/msnbc/00/msnbc_0002   0    2        's   VBZ     (VP*        be  01   1    Chris_Matthews  *           (V*)      -
+bc/msnbc/00/msnbc_0002   0    3      with    IN     (PP*        -    -   -    Chris_Matthews  *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   0    4      most   JJS     (NP*        -    -   -    Chris_Matthews  *             *       -
+bc/msnbc/00/msnbc_0002   0    5    people   NNS       *))   people   -   1    Chris_Matthews  *             *)      -
+bc/msnbc/00/msnbc_0002   0    6        on    IN     (PP*        -    -   -    Chris_Matthews  *    (ARGM-LOC*       -
+bc/msnbc/00/msnbc_0002   0    7       the    DT     (NP*        -    -   -    Chris_Matthews  *             *       -
+bc/msnbc/00/msnbc_0002   0    8    social    JJ        *        -    -   -    Chris_Matthews  *             *       -
+bc/msnbc/00/msnbc_0002   0    9    issues   NNS      *)))    issue   -   1    Chris_Matthews  *             *)      -
+bc/msnbc/00/msnbc_0002   0   10        /.     .       *))       -    -   -    Chris_Matthews  *             *       -
+
+bc/msnbc/00/msnbc_0002   0    0        Well    UH           (TOP(S(INTJ*)         -    -   -   speaker1          *    (ARGM-DIS*)        *      *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0    1           I   PRP                   (NP*)         -    -   -   speaker1          *        (ARG1*)   (ARG0*)     *            *        *           *        (114)
+bc/msnbc/00/msnbc_0002   0    2      happen   VBP                   (VP*      happen  02   2   speaker1          *           (V*)        *      *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0    3          to    TO                 (S(VP*          -    -   -   speaker1          *      (C-ARG1*         *      *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0    4       think    VB                   (VP*       think  01   1   speaker1          *             *       (V*)     *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0    5        that    IN                 (SBAR*          -    -   -   speaker1          *             *    (ARG1*      *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0    6         the    DT              (S(NP(NP*          -    -   -   speaker1          *             *         *      *   (ARGM-MNR*        *           *           -
+bc/msnbc/00/msnbc_0002   0    7         way    NN                      *)        way   -   1   speaker1          *             *         *      *            *)       *           *           -
+bc/msnbc/00/msnbc_0002   0    8        Karl   NNP         (SBAR(S(NP(NP*          -    -   -   speaker1   (PERSON*             *         *      *       (ARG0*   (ARG0*           *        (186
+bc/msnbc/00/msnbc_0002   0    9        Rove   NNP                      *)         -    -   -   speaker1          *)            *         *      *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0   10         and    CC                      *          -    -   -   speaker1          *             *         *      *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0   11      George   NNP                   (NP*          -    -   -   speaker1   (PERSON*             *         *      *            *        *           *        (119
+bc/msnbc/00/msnbc_0002   0   12        Bush   NNP                     *))         -    -   -   speaker1          *)            *         *      *            *)       *)          *    186)|119)
+bc/msnbc/00/msnbc_0002   0   13         are   VBP                   (VP*          be  03   -   speaker1          *             *         *    (V*)           *        *           *           -
+bc/msnbc/00/msnbc_0002   0   14      trying   VBG                   (VP*         try  01   1   speaker1          *             *         *      *          (V*)       *           *           -
+bc/msnbc/00/msnbc_0002   0   15          to    TO                 (S(VP*          -    -   -   speaker1          *             *         *      *       (ARG1*        *           *           -
+bc/msnbc/00/msnbc_0002   0   16    redefine    VB                   (VP*    redefine  01   -   speaker1          *             *         *      *            *      (V*)          *           -
+bc/msnbc/00/msnbc_0002   0   17         the    DT                (NP(NP*          -    -   -   speaker1          *             *         *      *            *   (ARG1*      (ARG1*           -
+bc/msnbc/00/msnbc_0002   0   18       issue    NN                      *)      issue   -   1   speaker1          *             *         *      *            *        *           *)          -
+bc/msnbc/00/msnbc_0002   0   19       which   WDT            (SBAR(WHNP*)         -    -   -   speaker1          *             *         *      *            *        *    (R-ARG1*)          -
+bc/msnbc/00/msnbc_0002   0   20          is   VBZ                 (S(VP*          be  01   1   speaker1          *             *         *      *            *        *         (V*)          -
+bc/msnbc/00/msnbc_0002   0   21       about    IN                   (PP*          -    -   -   speaker1          *             *         *      *            *        *      (ARG2*           -
+bc/msnbc/00/msnbc_0002   0   22    domestic    JJ                   (NP*          -    -   -   speaker1          *             *         *      *            *        *           *           -
+bc/msnbc/00/msnbc_0002   0   23    security    NN   *))))))))))))))))))))   security   -   3   speaker1          *             *)        *)     *            *)       *)          *)          -
+bc/msnbc/00/msnbc_0002   0   24         /-      .                     *))         -    -   -   speaker1          *             *         *      *            *        *           *           -
+
+bc/msnbc/00/msnbc_0002   0    0       They   PRP   (TOP(S(NP*)     -    -   -   speaker1   *      *        (ARG0*)   (ARG0*)     *      *        *    (186)
+bc/msnbc/00/msnbc_0002   0    1         do   VBP         (VP*      do  01   -   speaker1   *    (V*)            *         *      *      *        *       -
+bc/msnbc/00/msnbc_0002   0    2        n't    RB            *      -    -   -   speaker1   *      *    (ARGM-NEG*)        *      *      *        *       -
+bc/msnbc/00/msnbc_0002   0    3       want    VB         (VP*    want  01   1   speaker1   *      *           (V*)        *      *      *        *       -
+bc/msnbc/00/msnbc_0002   0    4         to    TO       (S(VP*      -    -   -   speaker1   *      *        (ARG1*         *      *      *        *       -
+bc/msnbc/00/msnbc_0002   0    5       talk    VB         (VP*    talk  01   1   speaker1   *      *             *       (V*)     *      *        *       -
+bc/msnbc/00/msnbc_0002   0    6      about    IN         (PP*      -    -   -   speaker1   *      *             *    (ARG1*      *      *        *       -
+bc/msnbc/00/msnbc_0002   0    7        the    DT         (NP*      -    -   -   speaker1   *      *             *         *      *      *        *     (68
+bc/msnbc/00/msnbc_0002   0    8        war    NN        *)))))    war  01   1   speaker1   *      *             *)        *)   (V*)     *        *      68)
+bc/msnbc/00/msnbc_0002   0    9    because    IN       (SBAR*      -    -   -   speaker1   *      *    (ARGM-CAU*         *      *      *        *       -
+bc/msnbc/00/msnbc_0002   0   10        the    DT       (S(NP*      -    -   -   speaker1   *      *             *         *      *      *   (ARG1*     (68
+bc/msnbc/00/msnbc_0002   0   11        war    NN            *)    war  01   1   speaker1   *      *             *         *      *    (V*)       *)     68)
+bc/msnbc/00/msnbc_0002   0   12         's   VBZ         (VP*      be  01   1   speaker1   *      *             *         *      *      *      (V*)      -
+bc/msnbc/00/msnbc_0002   0   13          a    DT         (NP*      -    -   -   speaker1   *      *             *         *      *      *   (ARG2*       -
+bc/msnbc/00/msnbc_0002   0   14       mess    NN       *))))))   mess   -   1   speaker1   *      *             *)        *      *      *        *)      -
+bc/msnbc/00/msnbc_0002   0   15         /.     .           *))     -    -   -   speaker1   *      *             *         *      *      *        *       -
+
+bc/msnbc/00/msnbc_0002   0   0          They   PRP   (TOP(S(NP*)        -    -   -   speaker1   *    (ARG0*)   (ARG0*)       *    (186)
+bc/msnbc/00/msnbc_0002   0   1          want   VBP         (VP*       want  01   1   speaker1   *       (V*)        *        *       -
+bc/msnbc/00/msnbc_0002   0   2            to    TO       (S(VP*         -    -   -   speaker1   *    (ARG1*         *        *       -
+bc/msnbc/00/msnbc_0002   0   3          talk    VB         (VP*       talk  01   1   speaker1   *         *       (V*)       *       -
+bc/msnbc/00/msnbc_0002   0   4         about    IN         (PP*         -    -   -   speaker1   *         *    (ARG1*        *       -
+bc/msnbc/00/msnbc_0002   0   5    protecting   VBG       (S(VP*    protect  01   1   speaker1   *         *         *      (V*)      -
+bc/msnbc/00/msnbc_0002   0   6           the    DT         (NP*         -    -   -   speaker1   *         *         *   (ARG1*       -
+bc/msnbc/00/msnbc_0002   0   7      homeland    NN     *))))))))        -    -   -   speaker1   *         *)        *)       *)      -
+bc/msnbc/00/msnbc_0002   0   8            /.     .           *))        -    -   -   speaker1   *         *         *        *       -
+
+bc/msnbc/00/msnbc_0002   0   0           The   DT  (TOP(S(NP(NP*            -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   1       natural   JJ              *            -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   2     inheritor   NN              *)           -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   3            of   IN           (PP*            -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   4          that   DT        (NP(NP*            -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   5    definition   NN              *)   definition  -   1   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   6            of   IN           (PP*            -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   7           the   DT           (NP*            -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   8    presidency   NN          *)))))           -   -   -   speaker1   *   -
+bc/msnbc/00/msnbc_0002   0   9           /-     .             *))           -   -   -   speaker1   *   -
+
+bc/msnbc/00/msnbc_0002   0   0      The    DT  (TOP(S(NP*   -   -   -   speaker1   (PERSON*   (117
+bc/msnbc/00/msnbc_0002   0   1     Jack   NNP           *   -   -   -   speaker1          *      -
+bc/msnbc/00/msnbc_0002   0   2    Bauer   NNP           *)  -   -   -   speaker1          *)   117)
+bc/msnbc/00/msnbc_0002   0   3      /-      .          *))  -   -   -   speaker1          *      -
+
+bc/msnbc/00/msnbc_0002   0   0           Is   VBZ  (TOP(FRAG*    be  01   -    Chris_Matthews         *      (V*)     -
+bc/msnbc/00/msnbc_0002   0   1      Winston   NNP        (NP*    -    -   -    Chris_Matthews  (PERSON*   (ARG2*   (192
+bc/msnbc/00/msnbc_0002   0   2     Giuliani   NNP           *    -    -   -    Chris_Matthews         *        *      -
+bc/msnbc/00/msnbc_0002   0   3    Churchill   NNP           *)   -    -   -    Chris_Matthews         *)       *)   192)
+bc/msnbc/00/msnbc_0002   0   4           /.     .          *))   -    -   -    Chris_Matthews         *        *      -
+
+bc/msnbc/00/msnbc_0002   0    0         the    DT  (TOP(S(NP(NP*        -    -   -   speaker1   *   (ARG1*   (117
+bc/msnbc/00/msnbc_0002   0    1        Jack   NNP          (NML*        -    -   -   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    2       Bauer   NNP              *)       -    -   -   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    3      figure    NN              *)   figure   -   7   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    4          in    IN           (PP*        -    -   -   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    5       other    JJ           (NP*        -    -   -   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    6       words   NNS             *))     word   -   1   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    7        from    IN           (PP*        -    -   -   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    8      twenty   NNP           (NP*        -    -   -   speaker1   *        *      -
+bc/msnbc/00/msnbc_0002   0    9        four   NNP            *)))       -    -   -   speaker1   *        *)   117)
+bc/msnbc/00/msnbc_0002   0   10          is   VBZ           (VP*        be  01   2   speaker1   *      (V*)     -
+bc/msnbc/00/msnbc_0002   0   11        Rudy   NNP           (NP*        -    -   -   speaker1   *   (ARG2*   (192
+bc/msnbc/00/msnbc_0002   0   12    Giuliani   NNP             *))       -    -   -   speaker1   *        *)   192)
+bc/msnbc/00/msnbc_0002   0   13          /.     .             *))       -    -   -   speaker1   *        *      -
+
+bc/msnbc/00/msnbc_0002   0   0    Right   UH  (TOP(INTJ*   -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   1       /.    .          *))  -   -   -    Chris_Matthews  *   -
+
+bc/msnbc/00/msnbc_0002   0    0           The     DT  (TOP(UCP(NP(NP*   -   -   -   speaker1   *   (192
+bc/msnbc/00/msnbc_0002   0    1           big     JJ            (NML*   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0    2          city     NN                *)  -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0    3         mayor     NN                *)  -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0    4           the     DT             (NP*   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0    5         crime     NN                *   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0    6       fighter     NN               *))  -   -   -   speaker1   *    192)
+bc/msnbc/00/msnbc_0002   0    7           BUT     CC                *   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0    8    pro-choice     JJ      (ADJP(ADJP*)  -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0    9       pro-gun     JJ           (ADJP*   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0   10            -    HYPH                *   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0   11       control     JJ                *)  -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0   12       pro-gay     JJ           (ADJP*   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0   13            -    HYPH                *   -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0   14        rights     JJ               *))  -   -   -   speaker1   *      -
+bc/msnbc/00/msnbc_0002   0   15            /.      .               *))  -   -   -   speaker1   *      -
+
+bc/msnbc/00/msnbc_0002   0   0         BUT   CC  (TOP(FRAG*      -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   1           .    ,           *      -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   2        gang   NN        (NP*    gang  -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   3    landlord   NN           *)     -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   4          /.    .          *))     -   -   -    Chris_Matthews  *   -
+
+bc/msnbc/00/msnbc_0002   0   0     You   PRP   (TOP(S(NP*)     -    -   -   speaker1   *    (ARG0*)  -
+bc/msnbc/00/msnbc_0002   0   1    name   VBP         (VP*    name  01   -   speaker1   *       (V*)  -
+bc/msnbc/00/msnbc_0002   0   2      it   PRP        (NP*))     -    -   -   speaker1   *    (ARG1*)  -
+bc/msnbc/00/msnbc_0002   0   3      /.     .           *))     -    -   -   speaker1   *         *   -
+
+bc/msnbc/00/msnbc_0002   0   0    Married   VBN   (TOP(FRAG(ADJP*)   marry  01   1    Chris_Matthews  *          (V*)  -
+bc/msnbc/00/msnbc_0002   0   1      three    CD              (NP*       -    -   -    Chris_Matthews  *   (ARGM-TMP*   -
+bc/msnbc/00/msnbc_0002   0   2      times   NNS                 *)    time   -   1    Chris_Matthews  *            *)  -
+bc/msnbc/00/msnbc_0002   0   3         /.     .                *))      -    -   -    Chris_Matthews  *            *   -
+
+bc/msnbc/00/msnbc_0002   0   0    Yeah    UH   (TOP(S(INTJ*)   -    -   -   speaker1   *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0002   0   1      it   PRP           (NP*)   -    -   -   speaker1   *        (ARG1*)  -
+bc/msnbc/00/msnbc_0002   0   2     may    MD           (VP*    -    -   -   speaker1   *    (ARGM-MOD*)  -
+bc/msnbc/00/msnbc_0002   0   3    just    RB         (ADVP*)   -    -   -   speaker1   *    (ARGM-ADV*)  -
+bc/msnbc/00/msnbc_0002   0   4      be    VB           (VP*    be  01   1   speaker1   *           (V*)  -
+bc/msnbc/00/msnbc_0002   0   5     too    RB         (ADJP*    -    -   -   speaker1   *        (ARG2*   -
+bc/msnbc/00/msnbc_0002   0   6    much    JJ            *)))   -    -   -   speaker1   *             *)  -
+bc/msnbc/00/msnbc_0002   0   7      /.     .             *))   -    -   -   speaker1   *             *   -
+
+bc/msnbc/00/msnbc_0002   0    0        Plus    CC       (TOP(S*          -    -   -   speaker1   *      *    (ARGM-DIS*)     *         *       -
+bc/msnbc/00/msnbc_0002   0    1          he   PRP          (NP*)         -    -   -   speaker1   *      *        (ARG0*)     *         *    (192)
+bc/msnbc/00/msnbc_0002   0    2          's   VBZ          (VP*          be  03   -   speaker1   *    (V*)            *      *         *       -
+bc/msnbc/00/msnbc_0002   0    3         got   VBN          (VP*         get  02   1   speaker1   *      *           (V*)     *         *       -
+bc/msnbc/00/msnbc_0002   0    4           a    DT    (NP(NP(NP*          -    -   -   speaker1   *      *        (ARG1*      *         *       -
+bc/msnbc/00/msnbc_0002   0    5         lot    NN             *)        lot   -   1   speaker1   *      *             *      *         *       -
+bc/msnbc/00/msnbc_0002   0    6          of    IN          (PP*          -    -   -   speaker1   *      *             *      *         *       -
+bc/msnbc/00/msnbc_0002   0    7    business    NN          (NP*    business   -   2   speaker1   *      *             *      *         *       -
+bc/msnbc/00/msnbc_0002   0    8    interest    NN           *)))   interest   -   4   speaker1   *      *             *      *         *       -
+bc/msnbc/00/msnbc_0002   0    9        that   WDT   (SBAR(WHNP*)         -    -   -   speaker1   *      *             *      *         *       -
+bc/msnbc/00/msnbc_0002   0   10          he   PRP        (S(NP*)         -    -   -   speaker1   *      *             *      *    (ARG0*)   (192)
+bc/msnbc/00/msnbc_0002   0   11          's   VBZ          (VP*          be  03   -   speaker1   *      *             *    (V*)        *       -
+bc/msnbc/00/msnbc_0002   0   12      making   VBG          (VP*        make  05   7   speaker1   *      *             *      *       (V*)      -
+bc/msnbc/00/msnbc_0002   0   13           a    DT       (NP(NP*          -    -   -   speaker1   *      *             *      *    (ARG1*       -
+bc/msnbc/00/msnbc_0002   0   14         lot    NN             *)        lot   -   1   speaker1   *      *             *      *         *       -
+bc/msnbc/00/msnbc_0002   0   15          of    IN          (PP*          -    -   -   speaker1   *      *             *      *         *       -
+bc/msnbc/00/msnbc_0002   0   16       money    NN        (NP*)))      money   -   2   speaker1   *      *             *      *         *)      -
+bc/msnbc/00/msnbc_0002   0   17          at    IN   (PP*))))))))         -    -   -   speaker1   *      *             *)     *    (ARG2*)      -
+bc/msnbc/00/msnbc_0002   0   18          /.     .            *))         -    -   -   speaker1   *      *             *      *         *       -
+
+bc/msnbc/00/msnbc_0002   0    0       And    CC       (TOP(S*        -    -   -   speaker1   *    (ARGM-DIS*)          *      *            *       -
+bc/msnbc/00/msnbc_0002   0    1     there    EX          (NP*)       -    -   -   speaker1   *             *           *      *            *       -
+bc/msnbc/00/msnbc_0002   0    2        's   VBZ          (VP*        be  02   3   speaker1   *           (V*)          *      *            *       -
+bc/msnbc/00/msnbc_0002   0    3      some    DT       (NP(NP*        -    -   -   speaker1   *        (ARG1*      (ARG0*      *            *       -
+bc/msnbc/00/msnbc_0002   0    4    people   NNS             *)   people   -   1   speaker1   *             *           *)     *            *       -
+bc/msnbc/00/msnbc_0002   0    5       who    WP   (SBAR(WHNP*)       -    -   -   speaker1   *             *    (R-ARG0*)     *            *       -
+bc/msnbc/00/msnbc_0002   0    6     think   VBP        (S(VP*     think  01   1   speaker1   *             *         (V*)     *            *       -
+bc/msnbc/00/msnbc_0002   0    7        he   PRP   (SBAR(S(NP*)       -    -   -   speaker1   *             *      (ARG1*      *       (ARG0*)   (192)
+bc/msnbc/00/msnbc_0002   0    8        's   VBZ          (VP*        be  03   -   speaker1   *             *           *    (V*)           *       -
+bc/msnbc/00/msnbc_0002   0    9     doing   VBG          (VP*        do  02   1   speaker1   *             *           *      *          (V*)      -
+bc/msnbc/00/msnbc_0002   0   10      this    DT          (NP*)       -    -   -   speaker1   *             *           *      *       (ARG1*)      -
+bc/msnbc/00/msnbc_0002   0   11        as    IN          (PP*        -    -   -   speaker1   *             *           *      *   (ARGM-PRD*       -
+bc/msnbc/00/msnbc_0002   0   12         a    DT          (NP*        -    -   -   speaker1   *             *           *      *            *       -
+bc/msnbc/00/msnbc_0002   0   13      loss    NN             *      loss   -   3   speaker1   *             *           *      *            *       -
+bc/msnbc/00/msnbc_0002   0   14    leader    NN   *)))))))))))   leader   -   4   speaker1   *             *)          *)     *            *)      -
+bc/msnbc/00/msnbc_0002   0   15        /.     .            *))       -    -   -   speaker1   *             *           *      *            *       -
+
+bc/msnbc/00/msnbc_0002   0    0             He    PRP   (TOP(S(NP*)            -    -   -   speaker1   *      *       (ARG0*)     *    (192)
+bc/msnbc/00/msnbc_0002   0    1             's    VBZ         (VP*             be  03   -   speaker1   *    (V*)           *      *       -
+bc/msnbc/00/msnbc_0002   0    2        keeping    VBG         (VP*           keep  04   3   speaker1   *      *          (V*)     *       -
+bc/msnbc/00/msnbc_0002   0    3            his   PRP$         (NP*             -    -   -   speaker1   *      *       (ARG1*      *    (192)
+bc/msnbc/00/msnbc_0002   0    4           name     NN            *)          name   -   1   speaker1   *      *            *)     *       -
+bc/msnbc/00/msnbc_0002   0    5             in     IN         (PP*             -    -   -   speaker1   *      *       (ARG2*      *       -
+bc/msnbc/00/msnbc_0002   0    6    circulation     NN        (NP*))   circulation  01   5   speaker1   *      *            *)   (V*)      -
+bc/msnbc/00/msnbc_0002   0    7             as     IN         (PP*             -    -   -   speaker1   *      *   (ARGM-PRD*      *       -
+bc/msnbc/00/msnbc_0002   0    8              a     DT         (NP*             -    -   -   speaker1   *      *            *      *       -
+bc/msnbc/00/msnbc_0002   0    9           loss     NN            *           loss   -   3   speaker1   *      *            *      *       -
+bc/msnbc/00/msnbc_0002   0   10         leader     NN         *))))        leader   -   4   speaker1   *      *            *)     *       -
+bc/msnbc/00/msnbc_0002   0   11             /.      .           *))            -    -   -   speaker1   *      *            *      *       -
+
+bc/msnbc/00/msnbc_0002   0   0        I   PRP   (TOP(S(NP*)      -    -   -   speaker1   *      *        (ARG0*)   (114)
+bc/msnbc/00/msnbc_0002   0   1       do   VBP         (VP*       do  01   -   speaker1   *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   0   2      n't    RB            *       -    -   -   speaker1   *      *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0002   0   3    think    VB         (VP*    think  01   1   speaker1   *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   4       so    RB     (ADVP*)))      -    -   -   speaker1   *      *        (ARG2*)      -
+bc/msnbc/00/msnbc_0002   0   5       /.     .           *))      -    -   -   speaker1   *      *             *       -
+
+bc/msnbc/00/msnbc_0002   0    0          I   PRP     (TOP(S(NP*)       -    -   -   speaker1   *    (ARG0*)     *         *         *        *    (114)
+bc/msnbc/00/msnbc_0002   0    1      think   VBP           (VP*     think  01   1   speaker1   *       (V*)     *         *         *        *       -
+bc/msnbc/00/msnbc_0002   0    2         he   PRP    (SBAR(S(NP*)       -    -   -   speaker1   *    (ARG1*      *    (ARG1*)   (ARG0*)       *    (192)
+bc/msnbc/00/msnbc_0002   0    3         's   VBZ           (VP*        be  03   -   speaker1   *         *    (V*)        *         *        *       -
+bc/msnbc/00/msnbc_0002   0    4    waiting   VBG           (VP*      wait  01   1   speaker1   *         *      *       (V*)        *        *       -
+bc/msnbc/00/msnbc_0002   0    5         to    TO         (S(VP*        -    -   -   speaker1   *         *      *    (ARG2*         *        *       -
+bc/msnbc/00/msnbc_0002   0    6        see    VB           (VP*       see  01   4   speaker1   *         *      *         *       (V*)       *       -
+bc/msnbc/00/msnbc_0002   0    7         if    IN         (SBAR*        -    -   -   speaker1   *         *      *         *    (ARG1*        *       -
+bc/msnbc/00/msnbc_0002   0    8      there    EX         (S(NP*)       -    -   -   speaker1   *         *      *         *         *        *       -
+bc/msnbc/00/msnbc_0002   0    9         's   VBZ           (VP*        be  02   3   speaker1   *         *      *         *         *      (V*)      -
+bc/msnbc/00/msnbc_0002   0   10          a    DT           (NP*        -    -   -   speaker1   *         *      *         *         *   (ARG1*       -
+bc/msnbc/00/msnbc_0002   0   11     moment    NN   *))))))))))))   moment   -   1   speaker1   *         *)     *         *)        *)       *)      -
+bc/msnbc/00/msnbc_0002   0   12         /.     .             *))       -    -   -   speaker1   *         *      *         *         *        *       -
+
+bc/msnbc/00/msnbc_0002   0    0           I   PRP      (TOP(S(NP*)         -    -   -    Chris_Matthews         *    (ARG0*)     *         *         *             *     (39)
+bc/msnbc/00/msnbc_0002   0    1       think   VBP            (VP*       think  01   1    Chris_Matthews         *       (V*)     *         *         *             *       -
+bc/msnbc/00/msnbc_0002   0    2          he   PRP     (SBAR(S(NP*)         -    -   -    Chris_Matthews         *    (ARG1*      *    (ARG1*)   (ARG0*)            *    (192)
+bc/msnbc/00/msnbc_0002   0    3          's   VBZ            (VP*          be  03   -    Chris_Matthews         *         *    (V*)        *         *             *       -
+bc/msnbc/00/msnbc_0002   0    4     waiting   VBG            (VP*        wait  01   1    Chris_Matthews         *         *      *       (V*)        *             *       -
+bc/msnbc/00/msnbc_0002   0    5          to    TO          (S(VP*          -    -   -    Chris_Matthews         *         *      *    (ARG2*         *             *       -
+bc/msnbc/00/msnbc_0002   0    6         see    VB            (VP*         see  01   4    Chris_Matthews         *         *      *         *       (V*)            *       -
+bc/msnbc/00/msnbc_0002   0    7     whether    IN          (SBAR*          -    -   -    Chris_Matthews         *         *      *         *    (ARG1*             *       -
+bc/msnbc/00/msnbc_0002   0    8        John   NNP          (S(NP*          -    -   -    Chris_Matthews  (PERSON*         *      *         *         *        (ARG0*     (88
+bc/msnbc/00/msnbc_0002   0    9      McCain   NNP               *)         -    -   -    Chris_Matthews         *)        *      *         *         *             *)     88)
+bc/msnbc/00/msnbc_0002   0   10         can    MD            (VP*          -    -   -    Chris_Matthews         *         *      *         *         *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0002   0   11        make    VB            (VP*        make  18   8    Chris_Matthews         *         *      *         *         *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   12         the    DT            (NP*          -    -   -    Chris_Matthews         *         *      *         *         *        (ARG1*       -
+bc/msnbc/00/msnbc_0002   0   13    distance    NN   *)))))))))))))   distance   -   -    Chris_Matthews         *         *)     *         *)        *)            *)      -
+bc/msnbc/00/msnbc_0002   0   14          /.     .              *))         -    -   -    Chris_Matthews         *         *      *         *         *             *       -
+
+bc/msnbc/00/msnbc_0002   0   0       If    IN  (TOP(S(SBAR*    -    -   -    Chris_Matthews  *      *    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0002   0   1       he   PRP        (S(NP*)   -    -   -    Chris_Matthews  *      *             *     (88)
+bc/msnbc/00/msnbc_0002   0   2       ca    MD          (VP*    -    -   -    Chris_Matthews  *      *             *       -
+bc/msnbc/00/msnbc_0002   0   3      n't    RB           *)))   -    -   -    Chris_Matthews  *      *             *)      -
+bc/msnbc/00/msnbc_0002   0   4       he   PRP          (NP*)   -    -   -    Chris_Matthews  *      *        (ARG0*)   (192)
+bc/msnbc/00/msnbc_0002   0   5       's   VBZ          (VP*    be  03   -    Chris_Matthews  *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   0   6    going   VBG          (VP*    go  02   1    Chris_Matthews  *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   7       in    RB      (ADVP*)))   -    -   -    Chris_Matthews  *      *    (ARGM-DIR*)      -
+bc/msnbc/00/msnbc_0002   0   8       /.     .            *))   -    -   -    Chris_Matthews  *      *             *       -
+
+bc/msnbc/00/msnbc_0002   0    0            By    IN   (TOP(S(PP*            -    -    -    Chris_Matthews  *   (ARGM-DIS*      *         *       -
+bc/msnbc/00/msnbc_0002   0    1           the    DT         (NP*            -    -    -    Chris_Matthews  *            *      *         *       -
+bc/msnbc/00/msnbc_0002   0    2           way    NN           *))          way   -   10    Chris_Matthews  *            *)     *         *       -
+bc/msnbc/00/msnbc_0002   0    3            he   PRP         (NP*)           -    -    -    Chris_Matthews  *       (ARG1*)     *         *    (192)
+bc/msnbc/00/msnbc_0002   0    4            's   VBZ         (VP*            be  01    1    Chris_Matthews  *          (V*)     *         *       -
+bc/msnbc/00/msnbc_0002   0    5           the    DT      (NP(NP*            -    -    -    Chris_Matthews  *       (ARG2*      *         *       -
+bc/msnbc/00/msnbc_0002   0    6          most   RBS       (ADJP*            -    -    -    Chris_Matthews  *            *      *         *       -
+bc/msnbc/00/msnbc_0002   0    7     imperfect    JJ            *)           -    -    -    Chris_Matthews  *            *      *         *       -
+bc/msnbc/00/msnbc_0002   0    8     candidate    NN           *))           -    -    -    Chris_Matthews  *            *)     *         *       -
+bc/msnbc/00/msnbc_0002   0    9            by    IN         (PP*            -    -    -    Chris_Matthews  *   (ARGM-ADV*      *         *       -
+bc/msnbc/00/msnbc_0002   0   10          that    DT         (NP*            -    -    -    Chris_Matthews  *            *      *         *       -
+bc/msnbc/00/msnbc_0002   0   11    accounting    NN           *))   accounting  01    1    Chris_Matthews  *            *)   (V*)        *       -
+bc/msnbc/00/msnbc_0002   0   12             I   PRP   (PRN(S(NP*)           -    -    -    Chris_Matthews  *            *      *    (ARG0*)    (39)
+bc/msnbc/00/msnbc_0002   0   13         agree   VBP       (VP*)))        agree  01    1    Chris_Matthews  *            *      *       (V*)      -
+bc/msnbc/00/msnbc_0002   0   14           and    CC        (NAC*            -    -    -    Chris_Matthews  *     (C-ARG2*      *         *       -
+bc/msnbc/00/msnbc_0002   0   15          also    RB            *            -    -    -    Chris_Matthews  *            *      *         *       -
+bc/msnbc/00/msnbc_0002   0   16           the    DT         (NP*            -    -    -    Chris_Matthews  *            *      *         *       -
+bc/msnbc/00/msnbc_0002   0   17          most   RBS       (ADJP*            -    -    -    Chris_Matthews  *            *      *         *       -
+bc/msnbc/00/msnbc_0002   0   18       perfect    JJ         *))))           -    -    -    Chris_Matthews  *            *)     *         *       -
+bc/msnbc/00/msnbc_0002   0   19            /.     .           *))           -    -    -    Chris_Matthews  *            *      *         *       -
+
+bc/msnbc/00/msnbc_0002   0   0           What   WP  (TOP(WHNP*             -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   1              a   DT           *             -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   2      wonderful   JJ           *             -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   3    combination   NN           *    combination  -   1    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0002   0   4             /.    .          *))            -   -   -    Chris_Matthews  *   -
+
+bc/msnbc/00/msnbc_0002   0    0            He   PRP    (TOP(S(NP*)         -    -   -   speaker1        *    (ARG1*)   (192)
+bc/msnbc/00/msnbc_0002   0    1            's   VBZ          (VP*          be  01   1   speaker1        *       (V*)      -
+bc/msnbc/00/msnbc_0002   0    2      powerful    JJ        (ADJP*          -    -   -   speaker1        *    (ARG2*       -
+bc/msnbc/00/msnbc_0002   0    3            at    IN          (PP*          -    -   -   speaker1        *         *       -
+bc/msnbc/00/msnbc_0002   0    4           any    DT       (NP(NP*          -    -   -   speaker1        *         *       -
+bc/msnbc/00/msnbc_0002   0    5      audience    NN             *)   audience   -   1   speaker1        *         *       -
+bc/msnbc/00/msnbc_0002   0    6    Republican    JJ   (ADJP(ADJP*)         -    -   -   speaker1    (NORP)        *       -
+bc/msnbc/00/msnbc_0002   0    7      Democrat    JJ        (ADJP*)         -    -   -   speaker1    (NORP)        *       -
+bc/msnbc/00/msnbc_0002   0    8            or    CC             *          -    -   -   speaker1        *         *       -
+bc/msnbc/00/msnbc_0002   0    9     otherwise    RB   (ADVP*))))))         -    -   -   speaker1        *         *)      -
+bc/msnbc/00/msnbc_0002   0   10            /.     .            *))         -    -   -   speaker1        *         *       -
+
+bc/msnbc/00/msnbc_0002   0   0      Biggest   JJS  (TOP(S(NP(NP*          -    -   -    Chris_Matthews  *   (ARG1*      -
+bc/msnbc/00/msnbc_0002   0   1    audiences   NNS              *)   audience   -   1    Chris_Matthews  *        *      -
+bc/msnbc/00/msnbc_0002   0   2           in    IN           (PP*          -    -   -    Chris_Matthews  *        *      -
+bc/msnbc/00/msnbc_0002   0   3          the    DT           (NP*          -    -   -    Chris_Matthews  *        *      -
+bc/msnbc/00/msnbc_0002   0   4      country    NN            *)))    country   -   3    Chris_Matthews  *        *)     -
+bc/msnbc/00/msnbc_0002   0   5         this    DT           (NP*          -    -   -    Chris_Matthews  *   (ARG0*   (192
+bc/msnbc/00/msnbc_0002   0   6          guy    NN              *)        guy   -   -    Chris_Matthews  *        *)   192)
+bc/msnbc/00/msnbc_0002   0   7        draws   VBZ           (VP*)       draw  02   2    Chris_Matthews  *      (V*)     -
+bc/msnbc/00/msnbc_0002   0   8           /.     .             *))         -    -   -    Chris_Matthews  *        *      -
+
+bc/msnbc/00/msnbc_0002   0   0     Thank   VBP  (TOP(S(VP*    thank  01   1    Chris_Matthews         *           (V*)      -
+bc/msnbc/00/msnbc_0002   0   1       you   PRP        (NP*)      -    -   -    Chris_Matthews         *        (ARG1*)   (114)
+bc/msnbc/00/msnbc_0002   0   2    Howard   NNP       (NP*))      -    -   -    Chris_Matthews   (PERSON)   (ARGM-DIS*)   (114)
+bc/msnbc/00/msnbc_0002   0   3        /.     .          *))      -    -   -    Chris_Matthews         *             *       -
+
+bc/msnbc/00/msnbc_0002   0   0         I   PRP   (TOP(S(NP*)      -    -   -    Chris_Matthews  *    (ARG1*)        *    (39)
+bc/msnbc/00/msnbc_0002   0   1        'm   VBP         (VP*       be  01   1    Chris_Matthews  *       (V*)        *      -
+bc/msnbc/00/msnbc_0002   0   2    scared    JJ       (ADJP*       -    -   -    Chris_Matthews  *    (ARG2*         *      -
+bc/msnbc/00/msnbc_0002   0   3      that    IN       (SBAR*       -    -   -    Chris_Matthews  *         *         *      -
+bc/msnbc/00/msnbc_0002   0   4        we   PRP       (S(NP*)      -    -   -    Chris_Matthews  *         *    (ARG0*)     -
+bc/msnbc/00/msnbc_0002   0   5     agree   VBP     (VP*)))))   agree  01   1    Chris_Matthews  *         *)      (V*)     -
+bc/msnbc/00/msnbc_0002   0   6        /.     .           *))      -    -   -    Chris_Matthews  *         *         *      -
+
+bc/msnbc/00/msnbc_0002   0    0        Join    VB  (TOP(S(VP*    join  04   4    Chris_Matthews       *           (V*)      -
+bc/msnbc/00/msnbc_0002   0    1          us   PRP        (NP*)     -    -   -    Chris_Matthews       *        (ARG1*)   (126)
+bc/msnbc/00/msnbc_0002   0    2       again    RB      (ADVP*)     -    -   -    Chris_Matthews       *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0002   0    3    tomorrow    NN     (NP(NP*      -    -   -    Chris_Matthews  (TIME*    (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0002   0    4       night    NN           *)     -    -   -    Chris_Matthews       *)            *       -
+bc/msnbc/00/msnbc_0002   0    5          at    IN        (PP*      -    -   -    Chris_Matthews       *             *       -
+bc/msnbc/00/msnbc_0002   0    6        five    CD     (NP(NP*      -    -   -    Chris_Matthews  (TIME*             *       -
+bc/msnbc/00/msnbc_0002   0    7         and    CC           *      -    -   -    Chris_Matthews       *             *       -
+bc/msnbc/00/msnbc_0002   0    8       seven    CD           *)     -    -   -    Chris_Matthews       *             *       -
+bc/msnbc/00/msnbc_0002   0    9     eastern    JJ     (NP*))))     -    -   -    Chris_Matthews       *)            *)      -
+bc/msnbc/00/msnbc_0002   0   10         for    IN        (PP*      -    -   -    Chris_Matthews       *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   0   11         the    DT        (NP*      -    -   -    Chris_Matthews       *             *       -
+bc/msnbc/00/msnbc_0002   0   12    hardball   NNP           *      -    -   -    Chris_Matthews       *             *       -
+bc/msnbc/00/msnbc_0002   0   13         hot   NNP           *      -    -   -    Chris_Matthews       *             *       -
+bc/msnbc/00/msnbc_0002   0   14        shot   NNP         *)))     -    -   -    Chris_Matthews       *             *)      -
+bc/msnbc/00/msnbc_0002   0   15          /.     .          *))     -    -   -    Chris_Matthews       *             *       -
+
+bc/msnbc/00/msnbc_0002   0   0        It   PRP   (TOP(S(NP*)   -    -   -    Chris_Matthews       *        (ARG1*)  -
+bc/msnbc/00/msnbc_0002   0   1        's   VBZ         (VP*    be  01   1    Chris_Matthews       *           (V*)  -
+bc/msnbc/00/msnbc_0002   0   2    always    RB       (ADVP*)   -    -   -    Chris_Matthews       *    (ARGM-TMP*)  -
+bc/msnbc/00/msnbc_0002   0   3       fun    JJ       (ADJP*)   -    -   -    Chris_Matthews       *        (ARG2*)  -
+bc/msnbc/00/msnbc_0002   0   4        on    IN         (PP*    -    -   -    Chris_Matthews       *    (ARGM-TMP*   -
+bc/msnbc/00/msnbc_0002   0   5    Friday   NNP         (NP*    -    -   -    Chris_Matthews   (DATE)            *   -
+bc/msnbc/00/msnbc_0002   0   6     night    NN           *))   -    -   -    Chris_Matthews   (TIME)            *)  -
+bc/msnbc/00/msnbc_0002   0   7      here    RB      (ADVP*))   -    -   -    Chris_Matthews       *    (ARGM-LOC*)  -
+bc/msnbc/00/msnbc_0002   0   8        /.     .           *))   -    -   -    Chris_Matthews       *             *   -
+
+bc/msnbc/00/msnbc_0002   0    0     Right    RB  (TOP(S(ADVP*        -    -   -    Chris_Matthews              *   (ARGM-TMP*   -
+bc/msnbc/00/msnbc_0002   0    1       now    RB             *)       -    -   -    Chris_Matthews              *            *)  -
+bc/msnbc/00/msnbc_0002   0    2        it   PRP          (NP*)       -    -   -    Chris_Matthews              *       (ARG1*)  -
+bc/msnbc/00/msnbc_0002   0    3        's   VBZ          (VP*        be  01   1    Chris_Matthews              *          (V*)  -
+bc/msnbc/00/msnbc_0002   0    4      time    NN       (NP(NP*)     time   -   1    Chris_Matthews              *       (ARG2*   -
+bc/msnbc/00/msnbc_0002   0    5       for    IN          (PP*        -    -   -    Chris_Matthews              *            *   -
+bc/msnbc/00/msnbc_0002   0    6       the    DT       (NP(NP*        -    -   -    Chris_Matthews  (WORK_OF_ART*            *   -
+bc/msnbc/00/msnbc_0002   0    7    Abrams   NNP             *        -    -   -    Chris_Matthews              *            *   -
+bc/msnbc/00/msnbc_0002   0    8    report    NN             *)   report   -   1    Chris_Matthews              *)           *   -
+bc/msnbc/00/msnbc_0002   0    9      with    IN          (PP*        -    -   -    Chris_Matthews              *            *   -
+bc/msnbc/00/msnbc_0002   0   10       Dan   NNP     (NP*))))))       -    -   -    Chris_Matthews        (PERSON)           *)  -
+bc/msnbc/00/msnbc_0002   0   11        /.     .            *))       -    -   -    Chris_Matthews              *            *   -

@@ -1,0 +1,694 @@
+bc/cnn/00/cnn_0005   3    0         There    EX   (TOP(S(NP*)           -    -   -    Wolf_Blitzer      *      *             *             *            *       -
+bc/cnn/00/cnn_0005   3    1            's   VBZ         (VP*            be  03   9    Wolf_Blitzer      *    (V*)            *             *            *       -
+bc/cnn/00/cnn_0005   3    2          been   VBN         (VP*            be  02   3    Wolf_Blitzer      *      *           (V*)            *            *       -
+bc/cnn/00/cnn_0005   3    3    discussion    NN     (NP(NP*))   discussion   -   2    Wolf_Blitzer      *      *        (ARG1*)            *            *       -
+bc/cnn/00/cnn_0005   3    4       already    RB       (ADVP*)           -    -   -    Wolf_Blitzer      *      *    (ARGM-TMP*)            *            *       -
+bc/cnn/00/cnn_0005   3    5            as    IN       (SBAR*            -    -   -    Wolf_Blitzer      *      *    (ARGM-ADV*             *            *       -
+bc/cnn/00/cnn_0005   3    6           you   PRP       (S(NP*)           -    -   -    Wolf_Blitzer      *      *             *        (ARG0*)           *     (35)
+bc/cnn/00/cnn_0005   3    7          well    RB       (ADVP*)           -    -   -    Wolf_Blitzer      *      *             *    (ARGM-EXT*)           *       -
+bc/cnn/00/cnn_0005   3    8          know   VBP       (VP*)))         know  01   1    Wolf_Blitzer      *      *             *)          (V*)           *       -
+bc/cnn/00/cnn_0005   3    9            of    IN         (PP*            -    -   -    Wolf_Blitzer      *      *      (C-ARG1*             *            *       -
+bc/cnn/00/cnn_0005   3   10             a    DT       (S(NP*            -    -   -    Wolf_Blitzer      *      *             *             *       (ARG0*       -
+bc/cnn/00/cnn_0005   3   11      quagmire    NN            *)           -    -   -    Wolf_Blitzer      *      *             *             *            *)      -
+bc/cnn/00/cnn_0005   3   12      emerging   VBG         (VP*        emerge  01   2    Wolf_Blitzer      *      *             *             *          (V*)      -
+bc/cnn/00/cnn_0005   3   13            in    IN         (PP*            -    -   -    Wolf_Blitzer      *      *             *             *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0005   3   14          Iraq   NNP   (NP*)))))))           -    -   -    Wolf_Blitzer   (GPE)     *             *)            *            *)   (132)
+bc/cnn/00/cnn_0005   3   15            /.     .           *))           -    -   -    Wolf_Blitzer      *      *             *             *            *       -
+
+bc/cnn/00/cnn_0005   3   0      Senator   NNP    (TOP(S(NP*         -    -   -    Wolf_Blitzer         *   (ARG0*        *   (0
+bc/cnn/00/cnn_0005   3   1      Kennedy   NNP             *)        -    -   -    Wolf_Blitzer   (PERSON)       *)       *    0)
+bc/cnn/00/cnn_0005   3   2    suggested   VBD          (VP*    suggest  01   2    Wolf_Blitzer         *      (V*)       *    -
+bc/cnn/00/cnn_0005   3   3        there    EX   (SBAR(S(NP*)        -    -   -    Wolf_Blitzer         *   (ARG1*        *    -
+bc/cnn/00/cnn_0005   3   4          was   VBD          (VP*         be  02   3    Wolf_Blitzer         *        *      (V*)   -
+bc/cnn/00/cnn_0005   3   5            a    DT          (NP*         -    -   -    Wolf_Blitzer         *        *   (ARG1*    -
+bc/cnn/00/cnn_0005   3   6     quagmire    NN         *)))))        -    -   -    Wolf_Blitzer         *        *)       *)   -
+bc/cnn/00/cnn_0005   3   7           /.     .            *))        -    -   -    Wolf_Blitzer         *        *        *    -
+
+bc/cnn/00/cnn_0005   3    0          the    DT  (TOP(S(NP(NP*        -    -   -    Wolf_Blitzer         *   (ARG0*        *   -
+bc/cnn/00/cnn_0005   3    1      defense    NN              *        -    -   -    Wolf_Blitzer         *        *        *   -
+bc/cnn/00/cnn_0005   3    2    secretary    NN              *)       -    -   -    Wolf_Blitzer         *        *        *   -
+bc/cnn/00/cnn_0005   3    3       Donald   NNP           (NP*        -    -   -    Wolf_Blitzer  (PERSON*        *        *   -
+bc/cnn/00/cnn_0005   3    4     Rumsfeld   NNP             *))       -    -   -    Wolf_Blitzer         *)       *)       *   -
+bc/cnn/00/cnn_0005   3    5      insists   VBZ           (VP*    insist  01   2    Wolf_Blitzer         *      (V*)       *   -
+bc/cnn/00/cnn_0005   3    6        there    EX    (SBAR(S(NP*)       -    -   -    Wolf_Blitzer         *   (ARG1*        *   -
+bc/cnn/00/cnn_0005   3    7           is   VBZ           (VP*        be  02   3    Wolf_Blitzer         *        *      (V*)  -
+bc/cnn/00/cnn_0005   3    8           no    DT           (NP*        -    -   -    Wolf_Blitzer         *        *   (ARG1*   -
+bc/cnn/00/cnn_0005   3    9     quagmire    NN          *)))))       -    -   -    Wolf_Blitzer         *        *)       *)  -
+bc/cnn/00/cnn_0005   3   10           /.     .             *))       -    -   -    Wolf_Blitzer         *        *        *   -
+
+bc/cnn/00/cnn_0005   3   0      listen    VB    (TOP(S(VP*      listen  01   1    Wolf_Blitzer  *      (V*)           *           *   -
+bc/cnn/00/cnn_0005   3   1          to    IN          (PP*          -    -   -    Wolf_Blitzer  *   (ARG1*            *           *   -
+bc/cnn/00/cnn_0005   3   2        this    DT       (NP(NP*          -    -   -    Wolf_Blitzer  *        *            *      (ARG1*   -
+bc/cnn/00/cnn_0005   3   3    exchange    NN             *)   exchange  01   2    Wolf_Blitzer  *        *          (V*)          *)  -
+bc/cnn/00/cnn_0005   3   4        that   WDT   (SBAR(WHNP*)         -    -   -    Wolf_Blitzer  *        *   (ARGM-ADJ*    (R-ARG1*)  -
+bc/cnn/00/cnn_0005   3   5        they   PRP        (S(NP*)         -    -   -    Wolf_Blitzer  *        *            *      (ARG0*)  -
+bc/cnn/00/cnn_0005   3   6         had   VBD     (VP*))))))       have  03   2    Wolf_Blitzer  *        *)           *)        (V*)  -
+bc/cnn/00/cnn_0005   3   7          /.     .            *))         -    -   -    Wolf_Blitzer  *        *            *           *   -
+
+bc/cnn/00/cnn_0005   3   0         We   PRP   (TOP(S(NP*)        -    -   -    Senator_Kennedy      *       (ARG1*)    (90)
+bc/cnn/00/cnn_0005   3   1        are   VBP         (VP*         be  01   1    Senator_Kennedy      *          (V*)      -
+bc/cnn/00/cnn_0005   3   2         in    IN         (PP*         -    -   -    Senator_Kennedy      *       (ARG2*       -
+bc/cnn/00/cnn_0005   3   3    serious    JJ         (NP*         -    -   -    Senator_Kennedy      *            *       -
+bc/cnn/00/cnn_0005   3   4    trouble    NN           *))   trouble   -   4    Senator_Kennedy      *            *)      -
+bc/cnn/00/cnn_0005   3   5         in    IN         (PP*         -    -   -    Senator_Kennedy      *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0005   3   6       Iraq   NNP       (NP*)))        -    -   -    Senator_Kennedy   (GPE)           *)   (132)
+bc/cnn/00/cnn_0005   3   7         /.     .           *))        -    -   -    Senator_Kennedy      *            *       -
+
+bc/cnn/00/cnn_0005   3   0             and    CC  (TOP(S*           -    -   -    Senator_Kennedy  *      *      *      *            *   -
+bc/cnn/00/cnn_0005   3   1            this    DT     (NP*           -    -   -    Senator_Kennedy  *      *      *      *       (ARG1*   -
+bc/cnn/00/cnn_0005   3   2             war    NN        *)         war  01   1    Senator_Kennedy  *    (V*)     *      *            *)  -
+bc/cnn/00/cnn_0005   3   3             has   VBZ     (VP*         have  01   -    Senator_Kennedy  *      *    (V*)     *            *   -
+bc/cnn/00/cnn_0005   3   4            been   VBN     (VP*           be  03   -    Senator_Kennedy  *      *      *    (V*)           *   -
+bc/cnn/00/cnn_0005   3   5    consistently    RB   (ADVP*           -    -   -    Senator_Kennedy  *      *      *      *   (ARGM-MNR*   -
+bc/cnn/00/cnn_0005   3   6             and    CC        *           -    -   -    Senator_Kennedy  *      *      *      *            *   -
+bc/cnn/00/cnn_0005   3   7         grossly    RB        *)          -    -   -    Senator_Kennedy  *      *      *      *            *)  -
+bc/cnn/00/cnn_0005   3   8      mismanaged   VBN   (VP*)))   mismanage  01   -    Senator_Kennedy  *      *      *      *          (V*)  -
+bc/cnn/00/cnn_0005   3   9              /.     .       *))          -    -   -    Senator_Kennedy  *      *      *      *            *   -
+
+bc/cnn/00/cnn_0005   3   0            And    CC  (TOP(S*    -    -   -    Senator_Kennedy  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0005   3   1             we   PRP     (NP*)   -    -   -    Senator_Kennedy  *        (ARG1*)   (90)
+bc/cnn/00/cnn_0005   3   2            are   VBP     (VP*    be  01   1    Senator_Kennedy  *           (V*)     -
+bc/cnn/00/cnn_0005   3   3            now    RB   (ADVP*)   -    -   -    Senator_Kennedy  *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0005   3   4             in    IN     (PP*    -    -   -    Senator_Kennedy  *        (ARG2*      -
+bc/cnn/00/cnn_0005   3   5              a    DT     (NP*    -    -   -    Senator_Kennedy  *             *      -
+bc/cnn/00/cnn_0005   3   6      seemingly    RB   (ADJP*    -    -   -    Senator_Kennedy  *             *      -
+bc/cnn/00/cnn_0005   3   7    intractable    JJ        *)   -    -   -    Senator_Kennedy  *             *      -
+bc/cnn/00/cnn_0005   3   8       quagmire    NN      *)))   -    -   -    Senator_Kennedy  *             *)     -
+bc/cnn/00/cnn_0005   3   9             /.     .       *))   -    -   -    Senator_Kennedy  *             *      -
+
+bc/cnn/00/cnn_0005   3   0       Our   PRP$  (TOP(S(NP*       -    -   -    Senator_Kennedy  *      *   (ARG1*    (90)
+bc/cnn/00/cnn_0005   3   1    troops    NNS           *)   troop   -   -    Senator_Kennedy  *      *        *)     -
+bc/cnn/00/cnn_0005   3   2       are    VBP        (VP*       be  03   -    Senator_Kennedy  *    (V*)       *      -
+bc/cnn/00/cnn_0005   3   3     dying    VBG       (VP*))     die  01   1    Senator_Kennedy  *      *      (V*)     -
+bc/cnn/00/cnn_0005   3   4        /.      .          *))      -    -   -    Senator_Kennedy  *      *        *      -
+
+bc/cnn/00/cnn_0005   3   0       And    CC   (TOP(S*       -    -   -    Senator_Kennedy  *    (ARGM-DIS*)            *   -
+bc/cnn/00/cnn_0005   3   1     there    EX      (NP*)      -    -   -    Senator_Kennedy  *             *             *   -
+bc/cnn/00/cnn_0005   3   2    really    RB    (ADVP*)      -    -   -    Senator_Kennedy  *    (ARGM-ADV*)            *   -
+bc/cnn/00/cnn_0005   3   3        is   VBZ      (VP*       be  02   3    Senator_Kennedy  *           (V*)            *   -
+bc/cnn/00/cnn_0005   3   4        no    DT   (NP(NP*       -    -   -    Senator_Kennedy  *        (ARG1*    (ARGM-NEG*)  -
+bc/cnn/00/cnn_0005   3   5       end    NN         *)     end  01   3    Senator_Kennedy  *             *           (V*)  -
+bc/cnn/00/cnn_0005   3   6        in    IN      (PP*       -    -   -    Senator_Kennedy  *             *    (ARGM-LOC*   -
+bc/cnn/00/cnn_0005   3   7     sight    NN   (NP*))))   sight   -   3    Senator_Kennedy  *             *)            *)  -
+bc/cnn/00/cnn_0005   3   8        /.     .        *))      -    -   -    Senator_Kennedy  *             *             *   -
+
+bc/cnn/00/cnn_0005   3    0       There    EX        (TOP(S(NP*)       -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3    1          is   VBZ              (VP*        be  02   -    Donald_Rumsfeld  *           (V*)          *         *        *             *     -
+bc/cnn/00/cnn_0005   3    2         n't    RB                 *        -    -   -    Donald_Rumsfeld  *    (ARGM-NEG*)          *         *        *             *     -
+bc/cnn/00/cnn_0005   3    3           a    DT        (NP(NP(NP*        -    -   -    Donald_Rumsfeld  *        (ARG1*      (ARG0*         *        *             *     -
+bc/cnn/00/cnn_0005   3    4      person    NN                 *)   person   -   1    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3    5          at    IN              (PP*        -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3    6        this    DT              (NP*        -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3    7       table    NN               *)))    table   -   2    Donald_Rumsfeld  *             *           *)        *        *             *     -
+bc/cnn/00/cnn_0005   3    8         who    WP       (SBAR(WHNP*)       -    -   -    Donald_Rumsfeld  *             *    (R-ARG0*)        *        *             *     -
+bc/cnn/00/cnn_0005   3    9      agrees   VBZ            (S(VP*     agree  01   1    Donald_Rumsfeld  *             *         (V*)        *        *             *     -
+bc/cnn/00/cnn_0005   3   10        with    IN              (PP*        -    -   -    Donald_Rumsfeld  *             *      (ARG2*         *        *             *     -
+bc/cnn/00/cnn_0005   3   11         you   PRP             (NP*))       -    -   -    Donald_Rumsfeld  *             *           *)        *        *             *    (0)
+bc/cnn/00/cnn_0005   3   12        that    IN       (SBAR(SBAR*        -    -   -    Donald_Rumsfeld  *             *      (ARG1*         *        *             *     -
+bc/cnn/00/cnn_0005   3   13          we   PRP            (S(NP*)       -    -   -    Donald_Rumsfeld  *             *           *    (ARG1*)       *             *     -
+bc/cnn/00/cnn_0005   3   14         're   VBP              (VP*        be  01   1    Donald_Rumsfeld  *             *           *       (V*)       *             *     -
+bc/cnn/00/cnn_0005   3   15          in    IN              (PP*        -    -   -    Donald_Rumsfeld  *             *           *    (ARG2*        *             *     -
+bc/cnn/00/cnn_0005   3   16           a    DT              (NP*        -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3   17    quagmire    NN             *)))))       -    -   -    Donald_Rumsfeld  *             *           *         *)       *             *     -
+bc/cnn/00/cnn_0005   3   18         and    CC                 *        -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3   19        that    IN            (SBAR*        -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3   20       there    EX            (S(NP*)       -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+bc/cnn/00/cnn_0005   3   21          's   VBZ              (VP*        be  02   3    Donald_Rumsfeld  *             *           *         *      (V*)            *     -
+bc/cnn/00/cnn_0005   3   22          no    DT           (NP(NP*        -    -   -    Donald_Rumsfeld  *             *           *         *   (ARG1*    (ARGM-NEG*)    -
+bc/cnn/00/cnn_0005   3   23         end    NN                 *)      end  01   3    Donald_Rumsfeld  *             *           *         *        *           (V*)    -
+bc/cnn/00/cnn_0005   3   24          in    IN              (PP*        -    -   -    Donald_Rumsfeld  *             *           *         *        *    (ARGM-LOC*     -
+bc/cnn/00/cnn_0005   3   25       sight    NN   (NP*))))))))))))    sight   -   3    Donald_Rumsfeld  *             *)          *)        *        *)            *)    -
+bc/cnn/00/cnn_0005   3   26          /.     .                *))       -    -   -    Donald_Rumsfeld  *             *           *         *        *             *     -
+
+bc/cnn/00/cnn_0005   3   0          Give     VB  (TOP(S(VP*          give  01   2    Wolf_Blitzer  *       (V*)        *      -
+bc/cnn/00/cnn_0005   3   1            us    PRP        (NP*)           -    -   -    Wolf_Blitzer  *    (ARG2*)        *      -
+bc/cnn/00/cnn_0005   3   2          your   PRP$        (NP*            -    -   -    Wolf_Blitzer  *    (ARG1*    (ARG0*)   (35)
+bc/cnn/00/cnn_0005   3   3    assessment     NN          *))   assessment  01   1    Wolf_Blitzer  *         *)      (V*)     -
+bc/cnn/00/cnn_0005   3   4            /.      .          *))           -    -   -    Wolf_Blitzer  *         *         *      -
+
+bc/cnn/00/cnn_0005   3    0             It   PRP   (TOP(S(NP(NP*))         -    -    -    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3    1             's   VBZ             (VP*          be  01    1    General_Abizaid       *        (V*)           *          *           *      -
+bc/cnn/00/cnn_0005   3    2           very    RB           (ADJP*          -    -    -    General_Abizaid       *     (ARG2*            *          *           *      -
+bc/cnn/00/cnn_0005   3    3    interesting    JJ                *)         -    -    -    General_Abizaid       *          *)           *          *           *      -
+bc/cnn/00/cnn_0005   3    4           that    IN           (SBAR*          -    -    -    General_Abizaid       *     (ARG1*            *          *           *      -
+bc/cnn/00/cnn_0005   3    5             we   PRP         (S(S(NP*)         -    -    -    General_Abizaid       *          *       (ARG0*)         *           *    (75)
+bc/cnn/00/cnn_0005   3    6      testified   VBD             (VP*     testify  01    1    General_Abizaid       *          *          (V*)         *           *    (69)
+bc/cnn/00/cnn_0005   3    7             on    IN             (PP*          -    -    -    General_Abizaid       *          *   (ARGM-LOC*          *           *      -
+bc/cnn/00/cnn_0005   3    8        Capital   NNP             (NP*          -    -    -    General_Abizaid   (LOC*          *            *          *           *      -
+bc/cnn/00/cnn_0005   3    9           Hill   NNP               *))         -    -    -    General_Abizaid       *)         *            *)         *           *      -
+bc/cnn/00/cnn_0005   3   10            for    IN             (PP*          -    -    -    General_Abizaid       *          *   (ARGM-TMP*          *           *      -
+bc/cnn/00/cnn_0005   3   11          about    RB          (NP(QP*          -    -    -    General_Abizaid  (TIME*          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   12           nine    CD                *)         -    -    -    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   13          hours   NNS             *))))       hour   -    1    General_Abizaid       *)         *            *)         *           *      -
+bc/cnn/00/cnn_0005   3   14            and    CC                *          -    -    -    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   15             we   PRP           (S(NP*)         -    -    -    General_Abizaid       *          *            *     (ARG0*)          *      -
+bc/cnn/00/cnn_0005   3   16           take   VBP             (VP*        take  11   11    General_Abizaid       *          *            *        (V*)          *      -
+bc/cnn/00/cnn_0005   3   17            the    DT          (NP(NP*          -    -    -    General_Abizaid       *          *            *     (ARG1*      (ARG0*      -
+bc/cnn/00/cnn_0005   3   18           nine    CD            (NML*          -    -    -    General_Abizaid  (TIME*          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   19         second    NN                *)     second   -    -    General_Abizaid       *)         *            *          *           *      -
+bc/cnn/00/cnn_0005   3   20          sound    NN                *       sound   -    2    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   21          bites   NNS               *))       bite   -   10    General_Abizaid       *          *            *          *)          *)     -
+bc/cnn/00/cnn_0005   3   22            out    RP            (PRT*)         -    -    -    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   23           that   WDT      (SBAR(WHNP*)         -    -    -    General_Abizaid       *   (C-ARG1*            *   (C-ARG1*    (R-ARG0*)     -
+bc/cnn/00/cnn_0005   3   24           seem   VBP           (S(VP*        seem   -    1    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   25             to    TO           (S(VP*          -    -    -    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   26            get    VB             (VP*         get  01    1    General_Abizaid       *          *            *          *         (V*)     -
+bc/cnn/00/cnn_0005   3   27            the    DT             (NP*          -    -    -    General_Abizaid       *          *            *          *      (ARG1*      -
+bc/cnn/00/cnn_0005   3   28           most   JJS                *          -    -    -    General_Abizaid       *          *            *          *           *      -
+bc/cnn/00/cnn_0005   3   29      headlines   NNS     *))))))))))))   headline   -    -    General_Abizaid       *         *))           *          *)          *)     -
+bc/cnn/00/cnn_0005   3   30             /.     .               *))         -    -    -    General_Abizaid       *          *            *          *           *      -
+
+bc/cnn/00/cnn_0005   3   0        But     CC  (TOP(S*         -    -   -    General_Abizaid  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0005   3   1        our   PRP$     (NP*         -    -   -    General_Abizaid  *        (ARG1*    (75)
+bc/cnn/00/cnn_0005   3   2    message     NN        *)   message   -   1    General_Abizaid  *             *)     -
+bc/cnn/00/cnn_0005   3   3        was    VBD     (VP*         be  01   1    General_Abizaid  *           (V*)     -
+bc/cnn/00/cnn_0005   3   4     pretty     RB   (ADJP*         -    -   -    General_Abizaid  *        (ARG2*      -
+bc/cnn/00/cnn_0005   3   5      clear     JJ        *)        -    -   -    General_Abizaid  *             *)     -
+bc/cnn/00/cnn_0005   3   6     across     IN     (PP*         -    -   -    General_Abizaid  *    (ARGM-LOC*      -
+bc/cnn/00/cnn_0005   3   7        the     DT     (NP*         -    -   -    General_Abizaid  *             *      -
+bc/cnn/00/cnn_0005   3   8      board     NN      *)))     board   -   7    General_Abizaid  *             *)     -
+bc/cnn/00/cnn_0005   3   9         /.      .       *))        -    -   -    General_Abizaid  *             *      -
+
+bc/cnn/00/cnn_0005   3   0          We   PRP   (TOP(S(NP*)         -    -   -    General_Abizaid  *      *        (ARG1*)  -
+bc/cnn/00/cnn_0005   3   1         're   VBP         (VP*          be  03   -    General_Abizaid  *    (V*)            *   -
+bc/cnn/00/cnn_0005   3   2      making   VBG         (VP*        make   -   1    General_Abizaid  *      *    (ARGM-LVB*)  -
+bc/cnn/00/cnn_0005   3   3    progress    NN       (NP*)))   progress  01   1    General_Abizaid  *      *           (V*)  -
+bc/cnn/00/cnn_0005   3   4          /.     .           *))         -    -   -    General_Abizaid  *      *             *   -
+
+bc/cnn/00/cnn_0005   3   0           The    DT  (TOP(S(NP*     -    -   -    General_Abizaid  *        (ARG0*   -
+bc/cnn/00/cnn_0005   3   1    insurgents   NNS           *)    -    -   -    General_Abizaid  *             *)  -
+bc/cnn/00/cnn_0005   3   2            ca    MD        (VP*     -    -   -    General_Abizaid  *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0005   3   3           n't    RB           *     -    -   -    General_Abizaid  *    (ARGM-NEG*)  -
+bc/cnn/00/cnn_0005   3   4           win    VB       (VP*))   win  01   1    General_Abizaid  *           (V*)  -
+bc/cnn/00/cnn_0005   3   5            /.     .          *))    -    -   -    General_Abizaid  *             *   -
+
+bc/cnn/00/cnn_0005   3    0             We   PRP      (TOP(S(NP*)            -    -      -    General_Abizaid       *    (ARG1*)             *              *         *    (168)
+bc/cnn/00/cnn_0005   3    1            're   VBP            (VP*             be  01      2    General_Abizaid       *       (V*)             *              *         *       -
+bc/cnn/00/cnn_0005   3    2            the    DT         (NP(NP*             -    -      -    General_Abizaid       *    (ARG2*     (ARGM-LOC*     (ARGM-LOC*         *       -
+bc/cnn/00/cnn_0005   3    3         shield    NN               *)        shield   -      -    General_Abizaid       *         *              *)             *)        *       -
+bc/cnn/00/cnn_0005   3    4         behind    IN     (SBAR(WHPP*             -    -      -    General_Abizaid       *         *   (R-ARGM-LOC*   (R-ARGM-LOC*         *       -
+bc/cnn/00/cnn_0005   3    5          which   WDT         (WHNP*))            -    -      -    General_Abizaid       *         *              *)             *)        *       -
+bc/cnn/00/cnn_0005   3    6       politics   NNS       (S(NP(NP*)            -    -      -    General_Abizaid       *         *         (ARG1*         (ARG1*         *       -
+bc/cnn/00/cnn_0005   3    7            and    CC               *             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3    8            the    DT         (NP(NP*             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3    9        develop    NN               *)       develop   -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   10             of    IN            (PP*             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   11          Iraqi    JJ            (NP*             -    -      -    General_Abizaid   (NORP)        *              *              *         *     (58
+bc/cnn/00/cnn_0005   3   12       security    NN               *       security   -      4    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   13         forces   NNS            *))))         force   -      2    General_Abizaid       *         *              *)             *)        *      58)
+bc/cnn/00/cnn_0005   3   14           will    MD            (VP*             -    -      -    General_Abizaid       *         *     (ARGM-MOD*)    (ARGM-MOD*)        *       -
+bc/cnn/00/cnn_0005   3   15           take    VB         (VP(VP*           take  14   14.1    General_Abizaid       *         *            (V*)             *         *       -
+bc/cnn/00/cnn_0005   3   16          place    NN           (NP*))         place   -      9    General_Abizaid       *         *         (ARG2*)             *         *       -
+bc/cnn/00/cnn_0005   3   17            and    CC               *             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   18     eventually    RB          (ADVP*)            -    -      -    General_Abizaid       *         *              *     (ARGM-ADV*)        *       -
+bc/cnn/00/cnn_0005   3   19             be    VB            (VP*             be  01      1    General_Abizaid       *         *              *            (V*)        *       -
+bc/cnn/00/cnn_0005   3   20       decisive    JJ         (ADJP*))            -    -      -    General_Abizaid       *         *              *         (ARG2*)        *       -
+bc/cnn/00/cnn_0005   3   21             in    IN          (SBAR*             -    -      -    General_Abizaid       *         *     (ARGM-PRP*     (ARGM-ADV*         *       -
+bc/cnn/00/cnn_0005   3   22           that    IN               *             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   23             we   PRP          (S(NP*)            -    -      -    General_Abizaid       *         *              *              *    (ARG1*)   (168)
+bc/cnn/00/cnn_0005   3   24            're   VBP            (VP*             be  01      1    General_Abizaid       *         *              *              *       (V*)      -
+bc/cnn/00/cnn_0005   3   25             in    IN            (PP*             -    -      -    General_Abizaid       *         *              *              *    (ARG2*       -
+bc/cnn/00/cnn_0005   3   26              a    DT         (NP(NP*             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   27    partnership    NN               *)   partnership   -      2    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   28           with    IN            (PP*             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   29            the    DT            (NP*             -    -      -    General_Abizaid       *         *              *              *         *       -
+bc/cnn/00/cnn_0005   3   30          Iraqi    JJ               *             -    -      -    General_Abizaid   (NORP)        *              *              *         *       -
+bc/cnn/00/cnn_0005   3   31         people   NNS   *)))))))))))))        people   -      5    General_Abizaid       *         *)             *)             *)        *)      -
+bc/cnn/00/cnn_0005   3   32             /.     .              *))            -    -      -    General_Abizaid       *         *              *              *         *       -
+
+bc/cnn/00/cnn_0005   3   0      People    NNS      (TOP(S(NP*)   people   -   1    General_Abizaid       *     (ARG1*)   (ARG0*)     *         *       -
+bc/cnn/00/cnn_0005   3   1        seem    VBP            (VP*      seem  01   1    General_Abizaid       *        (V*)        *      *         *       -
+bc/cnn/00/cnn_0005   3   2          to     TO          (S(VP*        -    -   -    General_Abizaid       *   (C-ARG1*         *      *         *       -
+bc/cnn/00/cnn_0005   3   3       think     VB            (VP*     think  01   1    General_Abizaid       *          *       (V*)     *         *       -
+bc/cnn/00/cnn_0005   3   4          we    PRP     (SBAR(S(NP*)       -    -   -    General_Abizaid       *          *    (ARG1*      *    (ARG0*)   (168)
+bc/cnn/00/cnn_0005   3   5         're    VBP            (VP*        be  03   -    General_Abizaid       *          *         *    (V*)        *       -
+bc/cnn/00/cnn_0005   3   6    fighting    VBG            (VP*     fight  01   1    General_Abizaid       *          *         *      *       (V*)      -
+bc/cnn/00/cnn_0005   3   7     against     IN            (PP*        -    -   -    General_Abizaid       *          *         *      *    (ARG1*       -
+bc/cnn/00/cnn_0005   3   8      Iraqis   NNPS   (NP*))))))))))       -    -   -    General_Abizaid   (NORP)         *)        *)     *         *)      -
+bc/cnn/00/cnn_0005   3   9          /.      .              *))       -    -   -    General_Abizaid       *          *         *      *         *       -
+
+bc/cnn/00/cnn_0005   3    0          Well    UH   (TOP(S(INTJ*)       -    -   -    General_Abizaid  *    (ARGM-DIS*)     *         *       -
+bc/cnn/00/cnn_0005   3    1         there    EX           (NP*)       -    -   -    General_Abizaid  *             *      *         *       -
+bc/cnn/00/cnn_0005   3    2           are   VBP           (VP*        be  02   3    General_Abizaid  *           (V*)     *         *       -
+bc/cnn/00/cnn_0005   3    3          some    DT     (NP(NP(NP*        -    -   -    General_Abizaid  *        (ARG1*      *         *       -
+bc/cnn/00/cnn_0005   3    4         small    JJ              *        -    -   -    General_Abizaid  *             *      *         *       -
+bc/cnn/00/cnn_0005   3    5        number    NN              *)   number   -   1    General_Abizaid  *             *      *         *       -
+bc/cnn/00/cnn_0005   3    6            of    IN           (PP*        -    -   -    General_Abizaid  *             *      *         *       -
+bc/cnn/00/cnn_0005   3    7    insurgents   NNS         (NP*)))       -    -   -    General_Abizaid  *             *      *         *       -
+bc/cnn/00/cnn_0005   3    8          that   WDT    (SBAR(WHNP*)       -    -   -    General_Abizaid  *             *      *         *       -
+bc/cnn/00/cnn_0005   3    9            we   PRP         (S(NP*)       -    -   -    General_Abizaid  *             *      *    (ARG0*)   (168)
+bc/cnn/00/cnn_0005   3   10           're   VBP           (VP*        be  03   -    General_Abizaid  *             *    (V*)        *       -
+bc/cnn/00/cnn_0005   3   11      fighting   VBG           (VP*     fight  01   1    General_Abizaid  *             *      *       (V*)      -
+bc/cnn/00/cnn_0005   3   12       against    IN     (PP*)))))))       -    -   -    General_Abizaid  *             *)     *    (ARG1*)      -
+bc/cnn/00/cnn_0005   3   13            /.     .             *))       -    -   -    General_Abizaid  *             *      *         *       -
+
+bc/cnn/00/cnn_0005   3    0         But     CC       (TOP(S*       -    -   -    General_Abizaid       *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0005   3    1          we    PRP          (NP*)      -    -   -    General_Abizaid       *      *        (ARG0*)   (168)
+bc/cnn/00/cnn_0005   3    2         're    VBP          (VP*       be  03   -    General_Abizaid       *    (V*)            *       -
+bc/cnn/00/cnn_0005   3    3    fighting    VBG          (VP*    fight  01   1    General_Abizaid       *      *           (V*)      -
+bc/cnn/00/cnn_0005   3    4        with     IN          (PP*       -    -   -    General_Abizaid       *      *        (ARG1*       -
+bc/cnn/00/cnn_0005   3    5           a     DT  (NP(ADJP(NP*       -    -   -    General_Abizaid       *      *             *    (105
+bc/cnn/00/cnn_0005   3    6         lot     NN             *)     lot   -   1    General_Abizaid       *      *             *       -
+bc/cnn/00/cnn_0005   3    7        more    JJR             *)      -    -   -    General_Abizaid       *      *             *       -
+bc/cnn/00/cnn_0005   3    8      Iraqis   NNPS            *))      -    -   -    General_Abizaid   (NORP)     *             *)    105)
+bc/cnn/00/cnn_0005   3    9         day     NN       (NP(NP*)     day   -   2    General_Abizaid       *      *    (ARGM-TMP*       -
+bc/cnn/00/cnn_0005   3   10          by     IN          (PP*       -    -   -    General_Abizaid       *      *             *       -
+bc/cnn/00/cnn_0005   3   11         day     NN      (NP*)))))     day   -   2    General_Abizaid       *      *             *)      -
+bc/cnn/00/cnn_0005   3   12          /.      .            *))      -    -   -    General_Abizaid       *      *             *       -
+
+bc/cnn/00/cnn_0005   3    0        And     CC  (TOP(S*         -    -   -    General_Abizaid  *      *    (ARGM-DIS*)           -
+bc/cnn/00/cnn_0005   3    1       they    PRP     (NP*)        -    -   -    General_Abizaid  *      *        (ARG0*)        (105)
+bc/cnn/00/cnn_0005   3    2        're    VBP     (VP*         be  03   -    General_Abizaid  *    (V*)            *            -
+bc/cnn/00/cnn_0005   3    3     giving    VBG     (VP*       give  01   2    General_Abizaid  *      *           (V*)           -
+bc/cnn/00/cnn_0005   3    4      their   PRP$     (NP*         -    -   -    General_Abizaid  *      *        (ARG1*         (105)
+bc/cnn/00/cnn_0005   3    5      lives    NNS        *)      life   -   3    General_Abizaid  *      *             *)           -
+bc/cnn/00/cnn_0005   3    6         in     IN     (PP*         -    -   -    General_Abizaid  *      *    (ARGM-PRP*            -
+bc/cnn/00/cnn_0005   3    7        the     DT  (NP(NP*         -    -   -    General_Abizaid  *      *             *            -
+bc/cnn/00/cnn_0005   3    8    defense     NN        *)   defense   -   2    General_Abizaid  *      *             *            -
+bc/cnn/00/cnn_0005   3    9         of     IN     (PP*         -    -   -    General_Abizaid  *      *             *            -
+bc/cnn/00/cnn_0005   3   10      their   PRP$     (NP*         -    -   -    General_Abizaid  *      *             *    (132|(105)
+bc/cnn/00/cnn_0005   3   11    country     NN   *))))))   country   -   3    General_Abizaid  *      *             *)         132)
+bc/cnn/00/cnn_0005   3   12         /.      .       *))        -    -   -    General_Abizaid  *      *             *            -
+
+bc/cnn/00/cnn_0005   3   0        This    DT   (TOP(S(NP*)   -    -   -    General_Abizaid  *        (ARG1*)   (150)
+bc/cnn/00/cnn_0005   3   1          is   VBZ         (VP*    be  01   2    General_Abizaid  *           (V*)      -
+bc/cnn/00/cnn_0005   3   2         not    RB            *    -    -   -    General_Abizaid  *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0005   3   3           a    DT         (NP*    -    -   -    General_Abizaid  *        (ARG2*       -
+bc/cnn/00/cnn_0005   3   4    quagmire    NN           *))   -    -   -    General_Abizaid  *             *)      -
+bc/cnn/00/cnn_0005   3   5          /.     .           *))   -    -   -    General_Abizaid  *             *       -
+
+bc/cnn/00/cnn_0005   3   0          it   PRP   (TOP(S(NP*)   -    -   -    General_Abizaid  *    (ARG1*)   (150)
+bc/cnn/00/cnn_0005   3   1          is   VBZ         (VP*    be  01   1    General_Abizaid  *       (V*)      -
+bc/cnn/00/cnn_0005   3   2           a    DT         (NP*    -    -   -    General_Abizaid  *    (ARG2*       -
+bc/cnn/00/cnn_0005   3   3    marathon    NN           *))   -    -   -    General_Abizaid  *         *)      -
+bc/cnn/00/cnn_0005   3   4          /.     .           *))   -    -   -    General_Abizaid  *         *       -
+
+bc/cnn/00/cnn_0005   3    0       and     CC  (TOP(S*    -    -   -    General_Abizaid          *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0005   3    1        we    PRP     (NP*)   -    -   -    General_Abizaid          *        (ARG1*)   (138)
+bc/cnn/00/cnn_0005   3    2       're    VBP     (VP*    be  01   4    General_Abizaid          *           (V*)      -
+bc/cnn/00/cnn_0005   3    3        at     IN     (PP*    -    -   -    General_Abizaid          *        (ARG2*       -
+bc/cnn/00/cnn_0005   3    4     about     RB     (NP*    -    -   -    General_Abizaid          *             *       -
+bc/cnn/00/cnn_0005   3    5       the     DT        *    -    -   -    General_Abizaid          *             *       -
+bc/cnn/00/cnn_0005   3    6    twenty     CD   (ADJP*    -    -   -    General_Abizaid  (ORDINAL*             *       -
+bc/cnn/00/cnn_0005   3    7        -    HYPH        *    -    -   -    General_Abizaid          *             *       -
+bc/cnn/00/cnn_0005   3    8     first     JJ        *)   -    -   -    General_Abizaid          *)            *       -
+bc/cnn/00/cnn_0005   3    9      mile     NN      *)))   -    -   -    General_Abizaid          *             *)      -
+bc/cnn/00/cnn_0005   3   10        /.      .       *))   -    -   -    General_Abizaid          *             *       -
+
+bc/cnn/00/cnn_0005   3   0     and    CC  (TOP(S*      -    -   -    General_Abizaid  *    (ARGM-DIS*)            *       -
+bc/cnn/00/cnn_0005   3   1      we   PRP     (NP*)     -    -   -    General_Abizaid  *        (ARG0*)       (ARG0*)   (138)
+bc/cnn/00/cnn_0005   3   2    just    RB   (ADVP*)     -    -   -    General_Abizaid  *    (ARGM-ADV*)            *       -
+bc/cnn/00/cnn_0005   3   3    need   VBP     (VP*    need  01   2    General_Abizaid  *           (V*)            *       -
+bc/cnn/00/cnn_0005   3   4      to    TO   (S(VP*      -    -   -    General_Abizaid  *        (ARG1*             *       -
+bc/cnn/00/cnn_0005   3   5     not    RB        *      -    -   -    General_Abizaid  *             *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0005   3   6     hit    VB     (VP*     hit  01   2    General_Abizaid  *             *           (V*)      -
+bc/cnn/00/cnn_0005   3   7     the    DT     (NP*      -    -   -    General_Abizaid  *             *        (ARG1*       -
+bc/cnn/00/cnn_0005   3   8    wall    NN    *)))))   wall   -   -    General_Abizaid  *             *)            *)      -
+bc/cnn/00/cnn_0005   3   9      /.     .       *))     -    -   -    General_Abizaid  *             *             *       -
+
+bc/cnn/00/cnn_0005   3   0         We   PRP   (TOP(S(NP*)     -    -      -    General_Abizaid  *    (ARG0*)   (ARG1*)     *    (138)
+bc/cnn/00/cnn_0005   3   1       need   VBP         (VP*    need  01      2    General_Abizaid  *       (V*)        *      *       -
+bc/cnn/00/cnn_0005   3   2         to    TO       (S(VP*      -    -      -    General_Abizaid  *    (ARG1*         *      *       -
+bc/cnn/00/cnn_0005   3   3        get    VB         (VP*     get  05   11.7    General_Abizaid  *         *       (V*)     *       -
+bc/cnn/00/cnn_0005   3   4    through    RB       (ADVP*      -    -      -    General_Abizaid  *         *    (ARG2*      *       -
+bc/cnn/00/cnn_0005   3   5       till    IN         (PP*      -    -      -    General_Abizaid  *         *         *      *       -
+bc/cnn/00/cnn_0005   3   6        the    DT         (NP*      -    -      -    General_Abizaid  *         *         *      *       -
+bc/cnn/00/cnn_0005   3   7        end    NN      *)))))))    end  01      3    General_Abizaid  *         *)        *)   (V*)      -
+bc/cnn/00/cnn_0005   3   8         /.     .           *))     -    -      -    General_Abizaid  *         *         *      *       -
+
+bc/cnn/00/cnn_0005   3   0           How   WRB  (TOP(SBARQ(WHNP(WHADJP*    -    -   -    Wolf_Blitzer  *   (ARG1*   -
+bc/cnn/00/cnn_0005   3   1          many    JJ                        *)   -    -   -    Wolf_Blitzer  *        *   -
+bc/cnn/00/cnn_0005   3   2    insurgents   NNS                        *)   -    -   -    Wolf_Blitzer  *        *)  -
+bc/cnn/00/cnn_0005   3   3           are   VBP                     (SQ*    be  02   3    Wolf_Blitzer  *      (V*)  -
+bc/cnn/00/cnn_0005   3   4         there    EX                    (NP*))   -    -   -    Wolf_Blitzer  *        *   -
+bc/cnn/00/cnn_0005   3   5            /?     .                       *))   -    -   -    Wolf_Blitzer  *        *   -
+
+bc/cnn/00/cnn_0005   3    0       During    IN  (TOP(S(PP*        -    -   -    General_Abizaid           *   (ARGM-TMP*        *     -
+bc/cnn/00/cnn_0005   3    1          the    DT        (NP*        -    -   -    General_Abizaid           *            *        *   (69
+bc/cnn/00/cnn_0005   3    2    testimony    NN          *))       -    -   -    General_Abizaid           *            *)       *    69)
+bc/cnn/00/cnn_0005   3    3          you   PRP        (NP*)       -    -   -    General_Abizaid           *       (ARG0*)       *     -
+bc/cnn/00/cnn_0005   3    4        heard   VBD        (VP*      hear  01   1    General_Abizaid           *          (V*)       *     -
+bc/cnn/00/cnn_0005   3    5         that    IN      (SBAR*        -    -   -    General_Abizaid           *       (ARG1*        *     -
+bc/cnn/00/cnn_0005   3    6          the    DT      (S(NP*        -    -   -    General_Abizaid           *            *   (ARG1*     -
+bc/cnn/00/cnn_0005   3    7      maximum    JJ           *        -    -   -    General_Abizaid           *            *        *     -
+bc/cnn/00/cnn_0005   3    8       number    NN           *)   number   -   1    General_Abizaid           *            *        *)    -
+bc/cnn/00/cnn_0005   3    9          was   VBD        (VP*        be  01   1    General_Abizaid           *            *      (V*)    -
+bc/cnn/00/cnn_0005   3   10        about    RB     (NP(QP*        -    -   -    General_Abizaid  (CARDINAL*            *   (ARG2*     -
+bc/cnn/00/cnn_0005   3   11       twenty    CD           *        -    -   -    General_Abizaid           *            *        *     -
+bc/cnn/00/cnn_0005   3   12     thousand    CD      *))))))       -    -   -    General_Abizaid           *)           *)       *)    -
+bc/cnn/00/cnn_0005   3   13           /.     .          *))       -    -   -    General_Abizaid           *            *        *     -
+
+bc/cnn/00/cnn_0005   3   0     George    NNP  (TOP(S(NP*     -    -   -    General_Abizaid   (PERSON*   (ARG0*   -
+bc/cnn/00/cnn_0005   3   1      Casey    NNP           *)    -    -   -    General_Abizaid          *)       *)  -
+bc/cnn/00/cnn_0005   3   2       said    VBD        (VP*    say  01   1    General_Abizaid          *      (V*)  -
+bc/cnn/00/cnn_0005   3   3        one     CD     (NP(QP*     -    -   -    General_Abizaid  (PERCENT*   (ARG1*   -
+bc/cnn/00/cnn_0005   3   4         -    HYPH           *     -    -   -    General_Abizaid          *        *   -
+bc/cnn/00/cnn_0005   3   5      tenth     NN           *     -    -   -    General_Abizaid          *        *   -
+bc/cnn/00/cnn_0005   3   6         of     IN           *     -    -   -    General_Abizaid          *        *   -
+bc/cnn/00/cnn_0005   3   7        one     CD           *)    -    -   -    General_Abizaid          *        *   -
+bc/cnn/00/cnn_0005   3   8    percent     NN          *))    -    -   -    General_Abizaid          *)       *)  -
+bc/cnn/00/cnn_0005   3   9         /.      .          *))    -    -   -    General_Abizaid          *        *   -
+
+bc/cnn/00/cnn_0005   3   0           But    CC       (TOP(S*            -    -   -    General_Abizaid  *    (ARGM-DIS*)        *        *         *   -
+bc/cnn/00/cnn_0005   3   1           you   PRP          (NP*)           -    -   -    General_Abizaid  *        (ARG0*)   (ARG0*)       *         *   -
+bc/cnn/00/cnn_0005   3   2           got   VBP          (VP*           get  06   -    General_Abizaid  *           (V*)        *        *         *   -
+bc/cnn/00/cnn_0005   3   3            to    TO        (S(VP*            -    -   -    General_Abizaid  *        (ARG1*         *        *         *   -
+bc/cnn/00/cnn_0005   3   4    understand    VB          (VP*    understand  01   1    General_Abizaid  *             *       (V*)       *         *   -
+bc/cnn/00/cnn_0005   3   5         there    EX   (SBAR(S(NP*)           -    -   -    General_Abizaid  *             *    (ARG1*        *         *   -
+bc/cnn/00/cnn_0005   3   6          were   VBD          (VP*            be  02   -    General_Abizaid  *             *         *      (V*)        *   -
+bc/cnn/00/cnn_0005   3   7     committed   VBN          (NP*        commit  01   -    General_Abizaid  *             *         *   (ARG1*       (V*)  -
+bc/cnn/00/cnn_0005   3   8        people   NNS      *))))))))       people   -   1    General_Abizaid  *             *)        *)       *)   (ARG1*)  -
+bc/cnn/00/cnn_0005   3   9            /.     .            *))           -    -   -    General_Abizaid  *             *         *        *         *   -
+
+bc/cnn/00/cnn_0005   3   0         There    EX    (TOP(S(NP*)        -    -   -    General_Abizaid  *        *           *     -
+bc/cnn/00/cnn_0005   3   1           are   VBP          (VP*         be  02   3    General_Abizaid  *      (V*)          *     -
+bc/cnn/00/cnn_0005   3   2        people   NNS       (NP(NP*)    people   -   1    General_Abizaid  *   (ARG1*      (ARG0*)    -
+bc/cnn/00/cnn_0005   3   3          that   WDT   (SBAR(WHNP*)        -    -   -    General_Abizaid  *        *    (R-ARG0*)    -
+bc/cnn/00/cnn_0005   3   4       support   VBP        (S(VP*    support  01   2    General_Abizaid  *        *         (V*)    -
+bc/cnn/00/cnn_0005   3   5           the    DT          (NP*         -    -   -    General_Abizaid  *        *      (ARG1*   (20
+bc/cnn/00/cnn_0005   3   6    insurgency    NN        *))))))        -    -   -    General_Abizaid  *        *)          *)   20)
+bc/cnn/00/cnn_0005   3   7            /.     .            *))        -    -   -    General_Abizaid  *        *           *     -
+
+bc/cnn/00/cnn_0005   3    0          When   WRB   (TOP(S(SBAR(WHADVP*)          -    -   -    General_Abizaid  *    (ARGM-TMP*)   (ARGM-TMP*      -
+bc/cnn/00/cnn_0005   3    1      politics   NNS                (S(NP*)          -    -   -    General_Abizaid  *        (ARG1*)            *      -
+bc/cnn/00/cnn_0005   3    2          move   VBP                  (VP*         move  01   2    General_Abizaid  *           (V*)            *      -
+bc/cnn/00/cnn_0005   3    3            in    IN                  (PP*           -    -   -    General_Abizaid  *    (ARGM-DIR*             *      -
+bc/cnn/00/cnn_0005   3    4     different    JJ                  (NP*           -    -   -    General_Abizaid  *             *             *      -
+bc/cnn/00/cnn_0005   3    5    directions   NNS                 *)))))   direction   -   2    General_Abizaid  *             *)            *)     -
+bc/cnn/00/cnn_0005   3    6           the    DT                  (NP*           -    -   -    General_Abizaid  *             *        (ARG1*   (178
+bc/cnn/00/cnn_0005   3    7       numbers   NNS                     *)      number   -   1    General_Abizaid  *             *             *)   178)
+bc/cnn/00/cnn_0005   3    8            go   VBP                  (VP*           go  01   1    General_Abizaid  *             *           (V*)     -
+bc/cnn/00/cnn_0005   3    9            up    RB               (ADVP*))          -    -   -    General_Abizaid  *             *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0005   3   10            /.     .                    *))          -    -   -    General_Abizaid  *             *             *      -
+
+bc/cnn/00/cnn_0005   3   0    they   PRP   (TOP(S(NP*)   -    -   -    General_Abizaid  *        (ARG1*)   (178)
+bc/cnn/00/cnn_0005   3   1      go   VBP         (VP*    go  01   1    General_Abizaid  *           (V*)      -
+bc/cnn/00/cnn_0005   3   2    down    RB      (ADVP*))   -    -   -    General_Abizaid  *    (ARGM-DIR*)      -
+bc/cnn/00/cnn_0005   3   3      /.     .           *))   -    -   -    General_Abizaid  *             *       -
+
+bc/cnn/00/cnn_0005   3    0            uh    UH      (TOP(S(INTJ*)        -    -   -    General_Abizaid           *    (ARGM-DIS*)         *           -
+bc/cnn/00/cnn_0005   3    1           but    CC                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3    2         there    EX              (NP*)        -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3    3            's   VBZ              (VP*         be  02   3    General_Abizaid           *           (V*)         *           -
+bc/cnn/00/cnn_0005   3    4      probably    RB            (ADVP*)        -    -   -    General_Abizaid           *    (ARGM-ADV*)         *           -
+bc/cnn/00/cnn_0005   3    5         about    RB  (NP(NP(NP(NP(QP*         -    -   -    General_Abizaid  (CARDINAL*        (ARG1*     (ARG1*         (70
+bc/cnn/00/cnn_0005   3    6             a    DT                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3    7      thousand    CD                 *)        -    -   -    General_Abizaid           *)            *          *           -
+bc/cnn/00/cnn_0005   3    8       foreign    JJ                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3    9      fighters   NNS                 *)   fighter   -   1    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   10           and    CC                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   11         about    RB           (NP(QP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   12     somewhere    RB                 *         -    -   -    General_Abizaid  (CARDINAL*             *          *           -
+bc/cnn/00/cnn_0005   3   13          less   JJR                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   14          than    IN                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   15           ten    CD                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   16      thousand    CD                 *)        -    -   -    General_Abizaid           *)            *          *           -
+bc/cnn/00/cnn_0005   3   17     committed    JJ                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   18    insurgents   NNS                *))        -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   19            in    IN              (PP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   20           the    DT              (NP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   21         field    NN               *)))     field   -   4    General_Abizaid           *             *          *)          -
+bc/cnn/00/cnn_0005   3   22          most   JJS       (SBAR(WHNP*         -    -   -    General_Abizaid           *             *   (R-ARG1*           -
+bc/cnn/00/cnn_0005   3   23            of    IN            (WHPP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   24         which   WDT          (WHNP*)))        -    -   -    General_Abizaid           *             *          *)          -
+bc/cnn/00/cnn_0005   3   25           are   VBP         (S(VP(VP*         be  01   4    General_Abizaid           *             *        (V*)          -
+bc/cnn/00/cnn_0005   3   26            in    IN              (PP*         -    -   -    General_Abizaid           *             *     (ARG2*           -
+bc/cnn/00/cnn_0005   3   27           the    DT           (NP(NP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   28            uh    UH                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   29        mostly    RB            (ADJP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   30       western    JJ                 *)        -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   31          part    NN                 *)      part   -   1    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   32            of    IN              (PP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   33          Iraq   NNP              (NP*         -    -   -    General_Abizaid        (GPE)            *          *        (132)
+bc/cnn/00/cnn_0005   3   34          area    NN             *)))))      area   -   1    General_Abizaid           *             *          *)          -
+bc/cnn/00/cnn_0005   3   35           and    CC                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   36            uh    UH            (INTJ*)        -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   37            to    IN           (VP(PP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   38             a    DT              (NP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   39       certain    JJ                 *         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   40        extent    NN                *))    extent   -   2    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   41            in    IN              (PP*         -    -   -    General_Abizaid           *             *          *           -
+bc/cnn/00/cnn_0005   3   42       Baghdad   NNP       (NP*))))))))        -    -   -    General_Abizaid        (GPE)            *)         *    (130)|70)
+bc/cnn/00/cnn_0005   3   43            /.     .                *))        -    -   -    General_Abizaid           *             *          *           -
+
+bc/cnn/00/cnn_0005   3   0        They   PRP   (TOP(S(NP*)         -    -   -    General_Abizaid       *        (ARG0*)   (70)
+bc/cnn/00/cnn_0005   3   1          ca    MD         (VP*          -    -   -    General_Abizaid       *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0005   3   2         n't    RB            *          -    -   -    General_Abizaid       *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0005   3   3        beat    VB         (VP*        beat  03   1    General_Abizaid       *           (V*)     -
+bc/cnn/00/cnn_0005   3   4         the    DT         (NP*          -    -   -    General_Abizaid       *        (ARG1*    (58
+bc/cnn/00/cnn_0005   3   5       Iraqi    JJ            *          -    -   -    General_Abizaid   (NORP)            *      -
+bc/cnn/00/cnn_0005   3   6    security    NN            *    security   -   4    General_Abizaid       *             *      -
+bc/cnn/00/cnn_0005   3   7      forces   NNS          *)))      force   -   2    General_Abizaid       *             *)    58)
+bc/cnn/00/cnn_0005   3   8          /.     .           *))         -    -   -    General_Abizaid       *             *      -
+
+bc/cnn/00/cnn_0005   3   0          They   PRP   (TOP(S(NP*)      -    -   -    General_Abizaid  *        (ARG0*)   (70)
+bc/cnn/00/cnn_0005   3   1           can    MD         (VP*       -    -   -    General_Abizaid  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0005   3   2         cause    VB         (VP*    cause  01   1    General_Abizaid  *           (V*)     -
+bc/cnn/00/cnn_0005   3   3    casualties   NNS       (NP*)))      -    -   -    General_Abizaid  *        (ARG1*)     -
+bc/cnn/00/cnn_0005   3   4            /.     .           *))      -    -   -    General_Abizaid  *             *      -
+
+bc/cnn/00/cnn_0005   3    0        They   PRP   (TOP(S(NP*)         -    -   -    General_Abizaid       *      *        (ARG0*)   (70)
+bc/cnn/00/cnn_0005   3    1          do   VBP         (VP*          do  01   -    General_Abizaid       *    (V*)            *      -
+bc/cnn/00/cnn_0005   3    2         n't    RB            *          -    -   -    General_Abizaid       *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0005   3    3      really    RB       (ADVP*)         -    -   -    General_Abizaid       *      *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0005   3    4          go    VB         (VP*          go  02   1    General_Abizaid       *      *           (V*)     -
+bc/cnn/00/cnn_0005   3    5       after    IN         (PP*          -    -   -    General_Abizaid       *      *        (ARG1*      -
+bc/cnn/00/cnn_0005   3    6         the    DT         (NP*          -    -   -    General_Abizaid       *      *             *    (58
+bc/cnn/00/cnn_0005   3    7       Iraqi    JJ            *          -    -   -    General_Abizaid   (NORP)     *             *      -
+bc/cnn/00/cnn_0005   3    8    security    NN            *    security   -   4    General_Abizaid       *      *             *      -
+bc/cnn/00/cnn_0005   3    9      forces   NNS         *))))      force   -   2    General_Abizaid       *      *             *)    58)
+bc/cnn/00/cnn_0005   3   10          /.     .           *))         -    -   -    General_Abizaid       *      *             *      -
+
+bc/cnn/00/cnn_0005   3   0         they   PRP   (TOP(S(NP*)   -    -   -    General_Abizaid  *    (ARG0*)   (70)
+bc/cnn/00/cnn_0005   3   1           go   VBP         (VP*    go  02   1    General_Abizaid  *       (V*)     -
+bc/cnn/00/cnn_0005   3   2        after    IN         (PP*    -    -   -    General_Abizaid  *    (ARG1*      -
+bc/cnn/00/cnn_0005   3   3    civilians   NNS       (NP*)))   -    -   -    General_Abizaid  *         *)     -
+bc/cnn/00/cnn_0005   3   4           /.     .           *))   -    -   -    General_Abizaid  *         *      -
+
+bc/cnn/00/cnn_0005   3    0           I   PRP   (TOP(S(PRN(S(NP*)         -    -    -    General_Abizaid  *    (ARG0*)        *      *             *    (35)
+bc/cnn/00/cnn_0005   3    1        mean   VBP             (VP*)))       mean  01    1    General_Abizaid  *       (V*)        *      *             *      -
+bc/cnn/00/cnn_0005   3    2        this    DT               (NP*)         -    -    -    General_Abizaid  *         *    (ARG1*)     *             *      -
+bc/cnn/00/cnn_0005   3    3          is   VBZ               (VP*          be  01    2    General_Abizaid  *         *       (V*)     *             *      -
+bc/cnn/00/cnn_0005   3    4         the    DT            (NP(NP*          -    -    -    General_Abizaid  *         *    (ARG2*      *        (ARG1*      -
+bc/cnn/00/cnn_0005   3    5        most   RBS             (ADJP*          -    -    -    General_Abizaid  *         *         *      *             *      -
+bc/cnn/00/cnn_0005   3    6     cynical    JJ                  *)         -    -    -    General_Abizaid  *         *         *      *             *      -
+bc/cnn/00/cnn_0005   3    7    strategy    NN                  *)   strategy   -    1    General_Abizaid  *         *         *      *             *)     -
+bc/cnn/00/cnn_0005   3    8           I   PRP        (SBAR(S(NP*)         -    -    -    General_Abizaid  *         *         *      *        (ARG0*)   (35)
+bc/cnn/00/cnn_0005   3    9         've   VBP               (VP*        have  01   12    General_Abizaid  *         *         *    (V*)            *      -
+bc/cnn/00/cnn_0005   3   10        ever    RB             (ADVP*)         -    -    -    General_Abizaid  *         *         *      *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0005   3   11        seen   VBN          (VP*))))))        see  01    3    General_Abizaid  *         *         *)     *           (V*)     -
+bc/cnn/00/cnn_0005   3   12          /.     .                 *))         -    -    -    General_Abizaid  *         *         *      *             *      -
+
+bc/cnn/00/cnn_0005   3   0          They   PRP   (TOP(S(NP*)   -    -   -    General_Abizaid  *        (ARG1*)   (70)
+bc/cnn/00/cnn_0005   3   1            ca    MD         (VP*    -    -   -    General_Abizaid  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0005   3   2           n't    RB            *    -    -   -    General_Abizaid  *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0005   3   3            be    VB         (VP*    be  01   1    General_Abizaid  *           (V*)     -
+bc/cnn/00/cnn_0005   3   4    successful    JJ     (ADJP*)))   -    -   -    General_Abizaid  *        (ARG2*)     -
+bc/cnn/00/cnn_0005   3   5            /.     .           *))   -    -   -    General_Abizaid  *             *      -
+
+bc/cnn/00/cnn_0005   3   0    they   PRP   (TOP(S(NP*)    -    -   -    General_Abizaid  *        (ARG0*)   (70)
+bc/cnn/00/cnn_0005   3   1      ca    MD         (VP*     -    -   -    General_Abizaid  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0005   3   2     n't    RB            *     -    -   -    General_Abizaid  *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0005   3   3     win    VB        (VP*))   win  01   1    General_Abizaid  *           (V*)     -
+bc/cnn/00/cnn_0005   3   4      /.     .           *))    -    -   -    General_Abizaid  *             *      -
+
+bc/cnn/00/cnn_0005   3    0          The     DT  (TOP(S(NP(NP(NP*      -    -   -    Wolf_Blitzer         *        (ARG1*    (176
+bc/cnn/00/cnn_0005   3    1           uh     UH                 *      -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3    2      ranking     NN                 *    rank   -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3    3     democrat     NN                 *)     -    -   -    Wolf_Blitzer     (NORP)            *       -
+bc/cnn/00/cnn_0005   3    4           on     IN              (PP*      -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3    5          the     DT              (NP*      -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3    6       senate    NNP                 *      -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3    7      foreign    NNP             (NML*      -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3    8    relations   NNPS                 *)     -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3    9    committee    NNP               *)))     -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0005   3   10          Joe    NNP              (NP*      -    -   -    Wolf_Blitzer  (PERSON*             *       -
+bc/cnn/00/cnn_0005   3   11        Biden    NNP                *))     -    -   -    Wolf_Blitzer         *)            *)    176)
+bc/cnn/00/cnn_0005   3   12          was    VBD              (VP*      be  01   4    Wolf_Blitzer         *           (V*)      -
+bc/cnn/00/cnn_0005   3   13         just     RB            (ADJP*)     -    -   -    Wolf_Blitzer         *    (ARGM-ADV*)      -
+bc/cnn/00/cnn_0005   3   14           in     IN              (PP*      -    -   -    Wolf_Blitzer         *        (ARG2*       -
+bc/cnn/00/cnn_0005   3   15         Iraq    NNP            (NP*)))     -    -   -    Wolf_Blitzer      (GPE)            *)   (132)
+bc/cnn/00/cnn_0005   3   16           /.      .                *))     -    -   -    Wolf_Blitzer         *             *       -
+
+bc/cnn/00/cnn_0005   3    0            He   PRP   (TOP(S(NP*)       -    -   -    Wolf_Blitzer       *        (ARG1*)      (ARG0*)     *    (176)
+bc/cnn/00/cnn_0005   3    1          came   VBD      (VP(VP*      come  01   1    Wolf_Blitzer       *           (V*)           *      *       -
+bc/cnn/00/cnn_0005   3    2          back    RB      (ADVP*))       -    -   -    Wolf_Blitzer       *    (ARGM-DIR*)           *      *       -
+bc/cnn/00/cnn_0005   3    3          gave   VBD         (VP*      give  01   2    Wolf_Blitzer       *             *          (V*)     *       -
+bc/cnn/00/cnn_0005   3    4             a    DT         (NP*        -    -   -    Wolf_Blitzer       *             *       (ARG1*      *       -
+bc/cnn/00/cnn_0005   3    5        speech    NN            *)   speech  01   4    Wolf_Blitzer       *             *            *)   (V*)      -
+bc/cnn/00/cnn_0005   3    6            in    IN         (PP*        -    -   -    Wolf_Blitzer       *             *   (ARGM-LOC*      *       -
+bc/cnn/00/cnn_0005   3    7    Washington   NNP        (NP*))       -    -   -    Wolf_Blitzer    (GPE)            *            *)     *       -
+bc/cnn/00/cnn_0005   3    8          this    DT         (NP*        -    -   -    Wolf_Blitzer  (DATE*             *   (ARGM-TMP*      *       -
+bc/cnn/00/cnn_0005   3    9          week    NN          *)))       -    -   -    Wolf_Blitzer       *)            *            *)     *       -
+bc/cnn/00/cnn_0005   3   10            /.     .           *))       -    -   -    Wolf_Blitzer       *             *            *      *       -
+
+bc/cnn/00/cnn_0005   3    0            He   PRP    (TOP(S(NP*)       -    -   -    Wolf_Blitzer           *    (ARG0*)     *           *            *      *            *    (176)
+bc/cnn/00/cnn_0005   3    1          said   VBD          (VP*       say  01   1    Wolf_Blitzer           *       (V*)     *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3    2            of    IN   (SBAR(S(PP*        -    -   -    Wolf_Blitzer           *    (ARG1*      *           *       (ARG1*      *       (ARG1*       -
+bc/cnn/00/cnn_0005   3    3           the    DT       (NP(NP*        -    -   -    Wolf_Blitzer           *         *      *      (ARG2*            *      *            *    (122
+bc/cnn/00/cnn_0005   3    4       hundred    CD          (QP*        -    -   -    Wolf_Blitzer  (CARDINAL*         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3    5            or    CC             *        -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3    6            so    RB             *)       -    -   -    Wolf_Blitzer           *)        *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3    7         Iraqi    JJ             *        -    -   -    Wolf_Blitzer       (NORP)        *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3    8    battalions   NNS             *)       -    -   -    Wolf_Blitzer           *         *      *           *)           *      *            *       -
+bc/cnn/00/cnn_0005   3    9          that   WDT   (SBAR(WHNP*)       -    -   -    Wolf_Blitzer           *         *      *    (R-ARG2*)           *      *            *       -
+bc/cnn/00/cnn_0005   3   10           you   PRP        (S(NP*)       -    -   -    Wolf_Blitzer           *         *      *      (ARG0*)           *      *            *       -
+bc/cnn/00/cnn_0005   3   11           're   VBP          (VP*        be  03   -    Wolf_Blitzer           *         *    (V*)          *            *      *            *       -
+bc/cnn/00/cnn_0005   3   12      training   VBG     (VP*))))))    train  01   1    Wolf_Blitzer           *         *      *         (V*)           *)     *            *)    122)
+bc/cnn/00/cnn_0005   3   13          only    RB    (NP(NP(QP*        -    -   -    Wolf_Blitzer           *         *      *           *     (R-ARG1*      *     (R-ARG1*       -
+bc/cnn/00/cnn_0005   3   14         three    CD            *))       -    -   -    Wolf_Blitzer   (CARDINAL)        *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   15            of    IN          (PP*        -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   16          them   PRP        (NP*)))       -    -   -    Wolf_Blitzer           *         *      *           *            *)     *            *)   (122)
+bc/cnn/00/cnn_0005   3   17         right    RB        (ADVP*        -    -   -    Wolf_Blitzer           *         *      *           *   (ARGM-TMP*      *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0005   3   18           now    RB             *)       -    -   -    Wolf_Blitzer           *         *      *           *            *)     *            *)      -
+bc/cnn/00/cnn_0005   3   19           are   VBP       (VP(VP*        be  01   1    Wolf_Blitzer           *         *      *           *          (V*)     *            *    (144)
+bc/cnn/00/cnn_0005   3   20         fully    RB        (ADJP*        -    -   -    Wolf_Blitzer           *         *      *           *       (ARG2*      *            *       -
+bc/cnn/00/cnn_0005   3   21       capable    JJ             *        -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   22            of    IN          (PP*        -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   23         going   VBG        (S(VP*        go  17   2    Wolf_Blitzer           *         *      *           *            *    (V*)           *       -
+bc/cnn/00/cnn_0005   3   24           out    RB   (ADVP*))))))       -    -   -    Wolf_Blitzer           *         *      *           *            *)     *            *       -
+bc/cnn/00/cnn_0005   3   25           and    CC             *        -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   26           are   VBP          (VP*        be  01   1    Wolf_Blitzer           *         *      *           *            *      *          (V*)      -
+bc/cnn/00/cnn_0005   3   27        battle    NN   (ADJP(ADJP*    battle   -   1    Wolf_Blitzer           *         *      *           *            *      *       (ARG2*       -
+bc/cnn/00/cnn_0005   3   28        tested    JJ             *)       -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   29           and    CC             *        -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   30        battle    NN        (ADJP*    battle   -   1    Wolf_Blitzer           *         *      *           *            *      *            *       -
+bc/cnn/00/cnn_0005   3   31         ready    JJ       *)))))))       -    -   -    Wolf_Blitzer           *         *)     *           *            *      *            *)      -
+bc/cnn/00/cnn_0005   3   32            /.     .            *))       -    -   -    Wolf_Blitzer           *         *      *           *            *      *            *       -
+
+bc/cnn/00/cnn_0005   3   0      is   VBZ  (TOP(SQ*    be  01   1    Wolf_Blitzer  *       (V*)      -
+bc/cnn/00/cnn_0005   3   1    that    DT      (NP*)   -    -   -    Wolf_Blitzer  *    (ARG1*)   (144)
+bc/cnn/00/cnn_0005   3   2    true    JJ    (ADJP*)   -    -   -    Wolf_Blitzer  *    (ARG2*)      -
+bc/cnn/00/cnn_0005   3   3      /?     .        *))   -    -   -    Wolf_Blitzer  *         *       -
+
+bc/cnn/00/cnn_0005   3   0     Well    UH   (TOP(S(INTJ*)      -    -   -    General_Abizaid  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0005   3   1       he   PRP           (NP*)      -    -   -    General_Abizaid  *      *        (ARG2*)   (176)
+bc/cnn/00/cnn_0005   3   2      was   VBD           (VP*       be  03   -    General_Abizaid  *    (V*)            *       -
+bc/cnn/00/cnn_0005   3   3    shown   VBN           (VP*     show  01   1    General_Abizaid  *      *           (V*)      -
+bc/cnn/00/cnn_0005   3   4        a    DT           (NP*       -    -   -    General_Abizaid  *      *        (ARG1*     (49
+bc/cnn/00/cnn_0005   3   5    chart    NN            *)))   chart   -   -    General_Abizaid  *      *             *)     49)
+bc/cnn/00/cnn_0005   3   6       /.     .             *))      -    -   -    General_Abizaid  *      *             *       -
+
+bc/cnn/00/cnn_0005   3   0            and    CC    (TOP(S*       -    -   -    General_Abizaid  *             *   -
+bc/cnn/00/cnn_0005   3   1            you   PRP       (NP*)      -    -   -    General_Abizaid  *        (ARG0*)  -
+bc/cnn/00/cnn_0005   3   2            can    MD       (VP*       -    -   -    General_Abizaid  *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0005   3   3         always    RB     (ADVP*)      -    -   -    General_Abizaid  *    (ARGM-TMP*)  -
+bc/cnn/00/cnn_0005   3   4           look    VB       (VP*     look  01   1    General_Abizaid  *           (V*)  -
+bc/cnn/00/cnn_0005   3   5             at    IN       (PP*       -    -   -    General_Abizaid  *        (ARG1*   -
+bc/cnn/00/cnn_0005   3   6              a    DT       (NP*       -    -   -    General_Abizaid  *             *   -
+bc/cnn/00/cnn_0005   3   7          chart    NN         *))   chart   -   -    General_Abizaid  *             *)  -
+bc/cnn/00/cnn_0005   3   8    differently    RB   (ADVP*)))      -    -   -    General_Abizaid  *    (ARGM-MNR*)  -
+bc/cnn/00/cnn_0005   3   9             /.     .         *))      -    -   -    General_Abizaid  *             *   -
+
+bc/cnn/00/cnn_0005   3    0              And    CC      (TOP(S*           -    -   -    General_Abizaid           *    (ARGM-DIS*)       *      -
+bc/cnn/00/cnn_0005   3    1              the    DT         (NP*           -    -   -    General_Abizaid           *        (ARG0*        *    (49
+bc/cnn/00/cnn_0005   3    2            chart    NN            *)       chart   -   -    General_Abizaid           *             *)       *     49)
+bc/cnn/00/cnn_0005   3    3             said   VBD         (VP*          say  01   4    General_Abizaid           *           (V*)       *    (51)
+bc/cnn/00/cnn_0005   3    4             that    IN       (SBAR*           -    -   -    General_Abizaid           *        (ARG1*        *      -
+bc/cnn/00/cnn_0005   3    5            three    CD       (S(NP*           -    -   -    General_Abizaid   (CARDINAL)            *   (ARG1*      -
+bc/cnn/00/cnn_0005   3    6       battalions   NNS            *)          -    -   -    General_Abizaid           *             *        *)     -
+bc/cnn/00/cnn_0005   3    7             were   VBD         (VP*           be  01   1    General_Abizaid           *             *      (V*)     -
+bc/cnn/00/cnn_0005   3    8    theoretically    RB  (ADJP(ADJP*           -    -   -    General_Abizaid           *             *   (ARG2*      -
+bc/cnn/00/cnn_0005   3    9      independent    JJ            *)          -    -   -    General_Abizaid           *             *        *      -
+bc/cnn/00/cnn_0005   3   10          capable    JJ       (ADJP*           -    -   -    General_Abizaid           *             *        *      -
+bc/cnn/00/cnn_0005   3   11               of    IN         (PP*           -    -   -    General_Abizaid           *             *        *      -
+bc/cnn/00/cnn_0005   3   12      independent    JJ         (NP*           -    -   -    General_Abizaid           *             *        *      -
+bc/cnn/00/cnn_0005   3   13       operations   NNS     *))))))))   operation   -   1    General_Abizaid           *             *)       *)     -
+bc/cnn/00/cnn_0005   3   14               /.     .           *))          -    -   -    General_Abizaid           *             *        *      -
+
+bc/cnn/00/cnn_0005   3    0           that    DT    (TOP(S(NP*)            -    -   -    General_Abizaid       *        (ARG1*)            *      *         *    (51)
+bc/cnn/00/cnn_0005   3    1             's   VBZ          (VP*             be  01   1    General_Abizaid       *           (V*)            *      *         *      -
+bc/cnn/00/cnn_0005   3    2            not    RB             *             -    -   -    General_Abizaid       *    (ARGM-NEG*)            *      *         *      -
+bc/cnn/00/cnn_0005   3    3         really    RB        (ADVP*)            -    -   -    General_Abizaid       *    (ARGM-ADV*)            *      *         *      -
+bc/cnn/00/cnn_0005   3    4              a    DT       (NP(NP*             -    -   -    General_Abizaid       *        (ARG2*             *      *         *      -
+bc/cnn/00/cnn_0005   3    5           good    JJ             *             -    -   -    General_Abizaid       *             *    (ARGM-ADJ*)     *         *      -
+bc/cnn/00/cnn_0005   3    6    description    NN             *)   description  01   1    General_Abizaid       *             *           (V*)     *         *      -
+bc/cnn/00/cnn_0005   3    7             of    IN          (PP*             -    -   -    General_Abizaid       *             *        (ARG1*      *         *      -
+bc/cnn/00/cnn_0005   3    8           what    WP   (SBAR(WHNP*)            -    -   -    General_Abizaid       *             *             *      *    (ARG1*)     -
+bc/cnn/00/cnn_0005   3    9            the    DT        (S(NP*             -    -   -    General_Abizaid       *             *             *      *    (ARG0*      -
+bc/cnn/00/cnn_0005   3   10          Iraqi    JJ             *             -    -   -    General_Abizaid   (NORP)            *             *      *         *      -
+bc/cnn/00/cnn_0005   3   11          armed    JJ             *             -    -   -    General_Abizaid       *             *             *      *         *      -
+bc/cnn/00/cnn_0005   3   12         forces   NNS             *)         force   -   2    General_Abizaid       *             *             *      *         *)     -
+bc/cnn/00/cnn_0005   3   13            are   VBP          (VP*             be  03   -    General_Abizaid       *             *             *    (V*)        *      -
+bc/cnn/00/cnn_0005   3   14          doing   VBG    (VP*)))))))            do  02   1    General_Abizaid       *             *)            *)     *       (V*)     -
+bc/cnn/00/cnn_0005   3   15             /.     .            *))            -    -   -    General_Abizaid       *             *             *      *         *      -
+
+bc/cnn/00/cnn_0005   3    0           Up    IN    (TOP(S(PP*          -    -   -    General_Abizaid           *   (ARGM-LOC*      *            *   -
+bc/cnn/00/cnn_0005   3    1           in    IN          (PP*          -    -   -    General_Abizaid           *            *      *            *   -
+bc/cnn/00/cnn_0005   3    2          the    DT          (NP*          -    -   -    General_Abizaid           *            *      *            *   -
+bc/cnn/00/cnn_0005   3    3        North    NN           *)))         -    -   -    General_Abizaid        (LOC)           *)     *            *   -
+bc/cnn/00/cnn_0005   3    4        there    EX          (NP*)         -    -   -    General_Abizaid           *            *      *            *   -
+bc/cnn/00/cnn_0005   3    5           's   VBZ          (VP*          be  02   3    General_Abizaid           *          (V*)     *            *   -
+bc/cnn/00/cnn_0005   3    6          two    CD       (NP(NP*          -    -   -    General_Abizaid   (CARDINAL)      (ARG1*      *       (ARG0*   -
+bc/cnn/00/cnn_0005   3    7    divisions   NNS             *)   division   -   1    General_Abizaid           *            *      *            *)  -
+bc/cnn/00/cnn_0005   3    8         that   WDT   (SBAR(WHNP*)         -    -   -    General_Abizaid           *            *      *     (R-ARG0*)  -
+bc/cnn/00/cnn_0005   3    9          are   VBP        (S(VP*          be  03   -    General_Abizaid           *            *    (V*)           *   -
+bc/cnn/00/cnn_0005   3   10     fighting   VBG          (VP*       fight  01   1    General_Abizaid           *            *      *          (V*)  -
+bc/cnn/00/cnn_0005   3   11           in    IN          (PP*          -    -   -    General_Abizaid           *            *      *   (ARGM-LOC*   -
+bc/cnn/00/cnn_0005   3   12          the    DT          (NP*          -    -   -    General_Abizaid           *            *      *            *   -
+bc/cnn/00/cnn_0005   3   13         area    NN      *))))))))       area   -   1    General_Abizaid           *            *)     *            *)  -
+bc/cnn/00/cnn_0005   3   14           /.     .            *))         -    -   -    General_Abizaid           *            *      *            *   -
+
+bc/cnn/00/cnn_0005   3    0       there    EX    (TOP(S(NP*)         -    -   -    General_Abizaid      *        *      *            *       -
+bc/cnn/00/cnn_0005   3    1          's   VBZ          (VP*          be  01   3    General_Abizaid      *      (V*)     *            *       -
+bc/cnn/00/cnn_0005   3    2           a    DT       (NP(NP*          -    -   -    General_Abizaid      *   (ARG1*      *       (ARG0*       -
+bc/cnn/00/cnn_0005   3    3    division    NN             *)   division   -   1    General_Abizaid      *        *      *            *)      -
+bc/cnn/00/cnn_0005   3    4        that   WDT   (SBAR(WHNP*)         -    -   -    General_Abizaid      *        *      *     (R-ARG0*)      -
+bc/cnn/00/cnn_0005   3    5          is   VBZ        (S(VP*          be  03   -    General_Abizaid      *        *    (V*)           *       -
+bc/cnn/00/cnn_0005   3    6    fighting   VBG          (VP*       fight  01   1    General_Abizaid      *        *      *          (V*)      -
+bc/cnn/00/cnn_0005   3    7        down    RB        (ADVP*          -    -   -    General_Abizaid      *        *      *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0005   3    8          in    IN          (PP*          -    -   -    General_Abizaid      *        *      *            *       -
+bc/cnn/00/cnn_0005   3    9         the    DT          (NP*          -    -   -    General_Abizaid      *        *      *            *       -
+bc/cnn/00/cnn_0005   3   10     Baghdad   NNP             *          -    -   -    General_Abizaid   (GPE)       *      *            *    (130)
+bc/cnn/00/cnn_0005   3   11        area    NN     *)))))))))       area   -   1    General_Abizaid      *        *)     *            *)      -
+bc/cnn/00/cnn_0005   3   12          /.     .            *))         -    -   -    General_Abizaid      *        *      *            *       -
+
+bc/cnn/00/cnn_0005   3    0         there    EX   (TOP(S(NP*)           -    -   -    General_Abizaid       *          *         *        *     -
+bc/cnn/00/cnn_0005   3    1            is   VBZ         (VP*            be  02   3    General_Abizaid       *        (V*)        *        *     -
+bc/cnn/00/cnn_0005   3    2             a    DT      (NP(NP*            -    -   -    General_Abizaid       *     (ARG1*         *        *     -
+bc/cnn/00/cnn_0005   3    3       growing   VBG            *          grow  01   -    General_Abizaid       *          *       (V*)       *     -
+bc/cnn/00/cnn_0005   3    4    capability    NN            *)   capability   -   1    General_Abizaid       *          *    (ARG1*)       *     -
+bc/cnn/00/cnn_0005   3    5            of    IN         (PP*            -    -   -    General_Abizaid       *          *         *        *     -
+bc/cnn/00/cnn_0005   3    6           the    DT         (NP*            -    -   -    General_Abizaid       *          *         *        *   (58
+bc/cnn/00/cnn_0005   3    7         Iraqi    JJ            *            -    -   -    General_Abizaid   (NORP)         *         *        *     -
+bc/cnn/00/cnn_0005   3    8      security    NN            *      security   -   4    General_Abizaid       *          *         *        *     -
+bc/cnn/00/cnn_0005   3    9        forces   NNS           *))        force   -   2    General_Abizaid       *          *         *        *    58)
+bc/cnn/00/cnn_0005   3   10            to    TO       (S(VP*            -    -   -    General_Abizaid       *   (C-ARG1*         *        *     -
+bc/cnn/00/cnn_0005   3   11            be    VB         (VP*            be  01   1    General_Abizaid       *          *         *      (V*)    -
+bc/cnn/00/cnn_0005   3   12          more   RBR  (ADJP(ADVP*            -    -   -    General_Abizaid       *          *         *   (ARG2*     -
+bc/cnn/00/cnn_0005   3   13           and    CC            *            -    -   -    General_Abizaid       *          *         *        *     -
+bc/cnn/00/cnn_0005   3   14          more   RBR            *)           -    -   -    General_Abizaid       *          *         *        *     -
+bc/cnn/00/cnn_0005   3   15     effective    JJ            *            -    -   -    General_Abizaid       *          *         *        *     -
+bc/cnn/00/cnn_0005   3   16       against    IN         (PP*            -    -   -    General_Abizaid       *          *         *        *     -
+bc/cnn/00/cnn_0005   3   17           the    DT         (NP*            -    -   -    General_Abizaid       *          *         *        *   (20
+bc/cnn/00/cnn_0005   3   18    insurgency    NN     *))))))))           -    -   -    General_Abizaid       *         *))        *        *)   20)
+bc/cnn/00/cnn_0005   3   19            /.     .           *))           -    -   -    General_Abizaid       *          *         *        *     -
+
+bc/cnn/00/cnn_0005   3   0              and     CC  (TOP(S*               -    -   -    General_Abizaid  *    (ARGM-DIS*)        *      -
+bc/cnn/00/cnn_0005   3   1               we    PRP     (NP*)              -    -   -    General_Abizaid  *        (ARG0*)        *      -
+bc/cnn/00/cnn_0005   3   2           should     MD     (VP*               -    -   -    General_Abizaid  *    (ARGM-MOD*)        *      -
+bc/cnn/00/cnn_0005   3   3              not     RB        *               -    -   -    General_Abizaid  *    (ARGM-NEG*)        *      -
+bc/cnn/00/cnn_0005   3   4    underestimate     VB     (VP*    underestimate  01   1    General_Abizaid  *           (V*)        *      -
+bc/cnn/00/cnn_0005   3   5            their   PRP$     (NP*               -    -   -    General_Abizaid  *        (ARG1*    (ARG1*)   (58)
+bc/cnn/00/cnn_0005   3   6      improvement     NN      *)))     improvement  01   1    General_Abizaid  *             *)      (V*)     -
+bc/cnn/00/cnn_0005   3   7               /.      .       *))              -    -   -    General_Abizaid  *             *         *      -
+
+bc/cnn/00/cnn_0005   3    0       On    IN    (TOP(S(PP*       -    -   -    General_Abizaid  *    (ARGM-DIS*             *      -
+bc/cnn/00/cnn_0005   3    1      the    DT          (NP*       -    -   -    General_Abizaid  *             *             *      -
+bc/cnn/00/cnn_0005   3    2    other    JJ             *       -    -   -    General_Abizaid  *             *             *      -
+bc/cnn/00/cnn_0005   3    3     hand    NN            *))    hand   -   7    General_Abizaid  *             *)            *      -
+bc/cnn/00/cnn_0005   3    4     they   PRP          (NP*)      -    -   -    General_Abizaid  *        (ARG1*)       (ARG1*)   (58)
+bc/cnn/00/cnn_0005   3    5      're   VBP          (VP*       be  01   1    General_Abizaid  *           (V*)            *      -
+bc/cnn/00/cnn_0005   3    6      not    RB             *       -    -   -    General_Abizaid  *    (ARGM-NEG*)            *      -
+bc/cnn/00/cnn_0005   3    7    ready    JJ        (ADJP*       -    -   -    General_Abizaid  *        (ARG2*             *      -
+bc/cnn/00/cnn_0005   3    8       to    TO        (S(VP*       -    -   -    General_Abizaid  *             *             *      -
+bc/cnn/00/cnn_0005   3    9    stand    VB          (VP*    stand  04   3    General_Abizaid  *             *           (V*)     -
+bc/cnn/00/cnn_0005   3   10    alone    RB        (ADVP*)      -    -   -    General_Abizaid  *             *        (ARG2*)     -
+bc/cnn/00/cnn_0005   3   11      yet    RB   (ADVP*))))))      -    -   -    General_Abizaid  *             *)   (ARGM-TMP*)     -
+bc/cnn/00/cnn_0005   3   12       /.     .            *))      -    -   -    General_Abizaid  *             *             *      -
+
+bc/cnn/00/cnn_0005   3   0     but    CC  (TOP(S*    -    -   -    General_Abizaid  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0005   3   1    they   PRP     (NP*)   -    -   -    General_Abizaid  *        (ARG1*)   (58)
+bc/cnn/00/cnn_0005   3   2    will    MD     (VP*    -    -   -    General_Abizaid  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0005   3   3      be    VB    (VP*))   be  01   1    General_Abizaid  *           (V*)     -
+bc/cnn/00/cnn_0005   3   4      /.     .       *))   -    -   -    General_Abizaid  *             *      -

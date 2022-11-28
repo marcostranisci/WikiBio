@@ -1,0 +1,488 @@
+bc/msnbc/00/msnbc_0003   14    0           We   PRP   (TOP(S(NP*)   -    -   -    Chris_Matthews         *        (ARG1*)   (50)
+bc/msnbc/00/msnbc_0003   14    1          'll    MD         (VP*    -    -   -    Chris_Matthews         *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0003   14    2           be    VB         (VP*    be  01   1    Chris_Matthews         *           (V*)     -
+bc/msnbc/00/msnbc_0003   14    3        right    RB       (ADVP*    -    -   -    Chris_Matthews         *        (ARG2*      -
+bc/msnbc/00/msnbc_0003   14    4         back    RB            *)   -    -   -    Chris_Matthews         *             *)     -
+bc/msnbc/00/msnbc_0003   14    5         with    IN         (PP*    -    -   -    Chris_Matthews         *    (ARGM-MNR*      -
+bc/msnbc/00/msnbc_0003   14    6         Paul   NNP      (NP(NP*    -    -   -    Chris_Matthews  (PERSON*             *   (206
+bc/msnbc/00/msnbc_0003   14    7    Rieckhoff   NNP            *)   -    -   -    Chris_Matthews         *)            *    206)
+bc/msnbc/00/msnbc_0003   14    8          and    CC            *    -    -   -    Chris_Matthews         *             *      -
+bc/msnbc/00/msnbc_0003   14    9      Melanie   NNP         (NP*    -    -   -    Chris_Matthews  (PERSON*             *   (192
+bc/msnbc/00/msnbc_0003   14   10       Morgan   NNP        *)))))   -    -   -    Chris_Matthews         *)            *)   192)
+bc/msnbc/00/msnbc_0003   14   11           /.     .           *))   -    -   -    Chris_Matthews         *             *      -
+
+bc/msnbc/00/msnbc_0003   14   0         You   PRP   (TOP(S(NP*)      -    -   -    Chris_Matthews              *      *       (ARG0*)  -
+bc/msnbc/00/msnbc_0003   14   1         're   VBP         (VP*       be  03   -    Chris_Matthews              *    (V*)           *   -
+bc/msnbc/00/msnbc_0003   14   2    watching   VBG         (VP*    watch  01   1    Chris_Matthews              *      *          (V*)  -
+bc/msnbc/00/msnbc_0003   14   3    Hardball   NNP         (NP*)      -    -   -    Chris_Matthews   (WORK_OF_ART)     *       (ARG1*)  -
+bc/msnbc/00/msnbc_0003   14   4        only    RB    (PP(ADVP*)      -    -   -    Chris_Matthews              *      *   (ARGM-LOC*   -
+bc/msnbc/00/msnbc_0003   14   5          on    IN            *       -    -   -    Chris_Matthews              *      *            *   -
+bc/msnbc/00/msnbc_0003   14   6       MSNBC   NNP      (NP*))))      -    -   -    Chris_Matthews           (ORG)     *            *)  -
+bc/msnbc/00/msnbc_0003   14   7          /.     .           *))      -    -   -    Chris_Matthews              *      *            *   -
+
+bc/msnbc/00/msnbc_0003   14    0           We   PRP       (TOP(S(NP*)      -    -   -    Chris_Matthews         *       (ARG1*)        *    (50)
+bc/msnbc/00/msnbc_0003   14    1          're   VBP             (VP*       be  01   1    Chris_Matthews         *          (V*)        *      -
+bc/msnbc/00/msnbc_0003   14    2         back    RB           (ADVP*)      -    -   -    Chris_Matthews         *       (ARG2*)        *      -
+bc/msnbc/00/msnbc_0003   14    3         with    IN             (PP*       -    -   -    Chris_Matthews         *   (ARGM-ADV*         *      -
+bc/msnbc/00/msnbc_0003   14    4        radio    NN  (NP(NP(NML(NML*    radio   -   -    Chris_Matthews         *            *         *   (192
+bc/msnbc/00/msnbc_0003   14    5         talk    NN                *     talk   -   -    Chris_Matthews         *            *         *      -
+bc/msnbc/00/msnbc_0003   14    6         show    NN                *)    show   -   -    Chris_Matthews         *            *         *      -
+bc/msnbc/00/msnbc_0003   14    7         host    NN                *)    host   -   -    Chris_Matthews         *            *         *      -
+bc/msnbc/00/msnbc_0003   14    8      Melanie   NNP                *       -    -   -    Chris_Matthews  (PERSON*            *         *      -
+bc/msnbc/00/msnbc_0003   14    9       Morgan   NNP                *)      -    -   -    Chris_Matthews         *)           *         *    192)
+bc/msnbc/00/msnbc_0003   14   10          and    CC                *       -    -   -    Chris_Matthews         *            *         *      -
+bc/msnbc/00/msnbc_0003   14   11         Iraq   NNP     (NP(NML(NML*       -    -   -    Chris_Matthews      (GPE)           *    (ARG1*)  (206
+bc/msnbc/00/msnbc_0003   14   12          war    NN                *)     war  01   1    Chris_Matthews         *            *       (V*)     -
+bc/msnbc/00/msnbc_0003   14   13      veteren    NN                *)      -    -   -    Chris_Matthews         *            *         *      -
+bc/msnbc/00/msnbc_0003   14   14         Paul   NNP                *       -    -   -    Chris_Matthews  (PERSON*            *         *      -
+bc/msnbc/00/msnbc_0003   14   15    Rieckhoff   NNP             *))))      -    -   -    Chris_Matthews         *)           *)        *    206)
+bc/msnbc/00/msnbc_0003   14   16           /.     .               *))      -    -   -    Chris_Matthews         *            *         *      -
+
+bc/msnbc/00/msnbc_0003   14    0       Melanie    NNP    (TOP(SBARQ(NP*)           -    -   -    Chris_Matthews     (PERSON)     *             *      *            *         *        *            *         *         *         *         *           *             *            *         *    (192)
+bc/msnbc/00/msnbc_0003   14    1           how    WRB          (WHADVP*)           -    -   -    Chris_Matthews           *      *    (ARGM-MNR*)     *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14    2            do    VBP              (SQ*            do  01   -    Chris_Matthews           *    (V*)            *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14    3            we    PRP              (NP*)           -    -   -    Chris_Matthews           *      *        (ARG0*)     *            *         *        *            *         *         *         *         *           *             *            *         *     (50)
+bc/msnbc/00/msnbc_0003   14    4           get     VB              (VP*           get  01   1    Chris_Matthews           *      *           (V*)     *            *         *        *            *         *         *         *         *           *             *            *         *    (129)
+bc/msnbc/00/msnbc_0003   14    5           the     DT           (NP(NP*            -    -   -    Chris_Matthews           *      *        (ARG1*      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14    6      straight     JJ                 *            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14    7         scoop     NN                 *)        scoop   -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14    8            on     IN              (PP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14    9          what     WP       (SBAR(WHNP*)           -    -   -    Chris_Matthews           *      *             *      *       (ARG1*)        *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   10            's    VBZ            (S(VP*            be  03   -    Chris_Matthews           *      *             *    (V*)           *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   11     happening    VBG              (VP*        happen  01   1    Chris_Matthews           *      *             *      *          (V*)        *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   12            in     IN              (PP*            -    -   -    Chris_Matthews           *      *             *      *   (ARGM-LOC*         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   13          Iraq    NNP       (NP*))))))))           -    -   -    Chris_Matthews        (GPE)     *             *)     *            *)        *        *            *         *         *         *         *           *             *            *         *     (16)
+bc/msnbc/00/msnbc_0003   14   14       because     IN            (SBAR*            -    -   -    Chris_Matthews           *      *    (ARGM-CAU*      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   15        people    NNS            (S(NP*)       people   -   1    Chris_Matthews           *      *             *      *            *    (ARG0*)       *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   16          tell    VBP              (VP*          tell  01   1    Chris_Matthews           *      *             *      *            *       (V*)       *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   17            me    PRP              (NP*)           -    -   -    Chris_Matthews           *      *             *      *            *    (ARG2*)       *            *         *         *         *         *           *             *            *         *    (140)
+bc/msnbc/00/msnbc_0003   14   18         there     EX       (SBAR(S(NP*)           -    -   -    Chris_Matthews           *      *             *      *            *    (ARG1*        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   19            's    VBZ              (VP*            be  02   3    Chris_Matthews           *      *             *      *            *         *      (V*)           *         *         *         *         *           *             *            *         *    (186)
+bc/msnbc/00/msnbc_0003   14   20          only     RB     (NP(NP(NP(QP*            -    -   -    Chris_Matthews           *      *             *      *            *         *   (ARG1*   (ARGM-MNR*         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   21           two     CD                 *)           -    -   -    Chris_Matthews   (CARDINAL)     *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   22          ways    NNS                 *)          way   -   2    Chris_Matthews           *      *             *      *            *         *        *            *)        *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   23            to     TO       (SBAR(S(VP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   24            go     VB              (VP*            go  02   1    Chris_Matthews           *      *             *      *            *         *        *          (V*)        *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   25          over     RB            (ADVP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *       (ARG4*         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   26         there     RB                 *)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *)        *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   27            as     IN              (PP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *   (ARGM-MNR*         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   28             a     DT              (NP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   29    journalist     NN           *)))))))           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *)        *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   30             I    PRP        (PRN(S(NP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *    (ARG0*)        *         *         *           *             *            *         *    (140)
+bc/msnbc/00/msnbc_0003   14   31         think    VBP              (VP*         think  01   1    Chris_Matthews           *      *             *      *            *         *        *            *       (V*)        *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   32          your   PRP$       (SBAR(S(NP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *    (ARG1*    (ARG0*         *         *           *             *            *         *    (192)
+bc/msnbc/00/msnbc_0003   14   33    experience     NN                 *)   experience   -   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *)        *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   34      confirms    VBZ              (VP*       confirm  01   1    Chris_Matthews           *      *             *      *            *         *        *            *         *       (V*)        *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   35          this     DT        (NP*)))))))           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *)   (ARG1*)        *         *           *             *            *         *    (186)
+bc/msnbc/00/msnbc_0003   14   36           you    PRP          (S(S(NP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *    (ARG0*)   (ARG1*)          *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   37        either     CC                 *            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   38            go     VB           (VP(VP*            go  02   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *       (V*)        *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   39          over     RB            (ADVP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *    (ARG4*         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   40         there     RB                *))           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *)        *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   41           and     CC                 *            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   42          stay     VB              (VP*          stay  01   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *       (V*)          *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   43            in     IN              (PP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *    (ARG3*           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   44           the     DT           (NP(NP*            -    -   -    Chris_Matthews       (LOC*      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *    (170
+bc/msnbc/00/msnbc_0003   14   45         green    NNP                 *            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   46          zone    NNP                 *)           -    -   -    Chris_Matthews           *)     *             *      *            *         *        *            *         *         *         *         *           *             *            *         *     170)
+bc/msnbc/00/msnbc_0003   14   47            or     CC                 *            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   48          that     DT           (NP(NP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *      (ARG1*             *            *         *    (170
+bc/msnbc/00/msnbc_0003   14   49          part     NN                 *)         part   -   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *)            *            *         *     170)
+bc/msnbc/00/msnbc_0003   14   50            uh     UH            (INTJ*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   51            uh     UH                 *)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   52         which    WDT       (SBAR(WHNP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *    (R-ARG1*)            *            *         *       -
+bc/msnbc/00/msnbc_0003   14   53            is    VBZ          (S(S(VP*            be  01   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *         (V*)            *            *         *       -
+bc/msnbc/00/msnbc_0003   14   54          very     RB            (ADJP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *      (ARG2*             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   55        secure     JJ               *)))           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *)            *            *         *       -
+bc/msnbc/00/msnbc_0003   14   56           and     CC                 *            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   57            it    PRP            (S(NP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *        (ARG1*)           *         *    (170)
+bc/msnbc/00/msnbc_0003   14   58            's    VBZ              (VP*            be  01   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *           (V*)           *         *       -
+bc/msnbc/00/msnbc_0003   14   59     basically     RB            (ADVP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *    (ARGM-ADV*)           *         *       -
+bc/msnbc/00/msnbc_0003   14   60             a     DT              (NP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *        (ARG2*            *         *       -
+bc/msnbc/00/msnbc_0003   14   61      compound     NN       *)))))))))))     compound   -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *)          *             *)           *         *       -
+bc/msnbc/00/msnbc_0003   14   62            or     CC                 *            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   63           you    PRP            (S(NP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *       (ARG1*)        *       -
+bc/msnbc/00/msnbc_0003   14   64            go    VBP              (VP*            go  17   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *          (V*)        *     (67)
+bc/msnbc/00/msnbc_0003   14   65           out     RB            (ADVP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   66          with     IN              (PP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *   (ARGM-MNR*         *       -
+bc/msnbc/00/msnbc_0003   14   67             a     DT              (NP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *     (13
+bc/msnbc/00/msnbc_0003   14   68          unit     NN                *))         unit   -   2    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *)        *      13)
+bc/msnbc/00/msnbc_0003   14   69            as     IN              (PP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *   (ARGM-PRD*         *       -
+bc/msnbc/00/msnbc_0003   14   70            uh     UH            (INTJ*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   71     basically     RB      (NP(NP(ADVP*)           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   72          part     NN              (NP*)         part   -   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   73            of     IN              (PP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   74           the     DT              (NP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *     (13
+bc/msnbc/00/msnbc_0003   14   75          unit     NN               *)))         unit   -   2    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *      13)
+bc/msnbc/00/msnbc_0003   14   76            an     DT              (NP*            -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+bc/msnbc/00/msnbc_0003   14   77      embedded    VBN                 *         embed  01   1    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *       (V*)      -
+bc/msnbc/00/msnbc_0003   14   78      reporter     NN   *)))))))))))))))           -    -   -    Chris_Matthews           *      *             *)     *            *         *)       *)           *         *         *         *         *           *             *            *)   (ARG1*)      -
+bc/msnbc/00/msnbc_0003   14   79            /.      .                *))           -    -   -    Chris_Matthews           *      *             *      *            *         *        *            *         *         *         *         *           *             *            *         *       -
+
+bc/msnbc/00/msnbc_0003   14   0       You   PRP   (TOP(S(NP*)    -    -   -    Chris_Matthews  *        (ARG0*)   (ARG1*)  -
+bc/msnbc/00/msnbc_0003   14   1     never    RB       (ADVP*)    -    -   -    Chris_Matthews  *    (ARGM-NEG*)        *   -
+bc/msnbc/00/msnbc_0003   14   2    really    RB       (ADVP*)    -    -   -    Chris_Matthews  *    (ARGM-ADV*)        *   -
+bc/msnbc/00/msnbc_0003   14   3       get   VBP         (VP*    get  04   -    Chris_Matthews  *           (V*)        *   -
+bc/msnbc/00/msnbc_0003   14   4        to    TO       (S(VP*     -    -   -    Chris_Matthews  *        (ARG1*         *   -
+bc/msnbc/00/msnbc_0003   14   5       mix    VB         (VP*    mix  01   3    Chris_Matthews  *             *       (V*)  -
+bc/msnbc/00/msnbc_0003   14   6      with    IN         (PP*     -    -   -    Chris_Matthews  *             *    (ARG2*   -
+bc/msnbc/00/msnbc_0003   14   7       the    DT         (NP*     -    -   -    Chris_Matthews  *             *         *   -
+bc/msnbc/00/msnbc_0003   14   8    locals   NNS       *))))))    -    -   -    Chris_Matthews  *             *)        *)  -
+bc/msnbc/00/msnbc_0003   14   9        /.     .           *))    -    -   -    Chris_Matthews  *             *         *   -
+
+bc/msnbc/00/msnbc_0003   14    0          Uh    UH   (TOP(SBARQ(INTJ*)     -    -   -    Chris_Matthews  *      *             *        *      *             *             *       -
+bc/msnbc/00/msnbc_0003   14    1         how   WRB           (WHADVP*)     -    -   -    Chris_Matthews  *      *    (ARGM-MNR*)       *      *             *             *       -
+bc/msnbc/00/msnbc_0003   14    2          do   VBP               (SQ*      do  01   -    Chris_Matthews  *    (V*)            *        *      *             *             *       -
+bc/msnbc/00/msnbc_0003   14    3         you   PRP               (NP*)     -    -   -    Chris_Matthews  *      *        (ARG0*)       *      *             *             *    (192)
+bc/msnbc/00/msnbc_0003   14    4          do    VB               (VP*      do  02   1    Chris_Matthews  *      *           (V*)       *      *             *             *       -
+bc/msnbc/00/msnbc_0003   14    5          it   PRP               (NP*)     -    -   -    Chris_Matthews  *      *        (ARG1*)       *      *             *             *    (129)
+bc/msnbc/00/msnbc_0003   14    6          to    TO             (S(VP*      -    -   -    Chris_Matthews  *      *    (ARGM-PRP*        *      *             *             *       -
+bc/msnbc/00/msnbc_0003   14    7        find    VB               (VP*    find  03   2    Chris_Matthews  *      *             *      (V*)     *             *             *       -
+bc/msnbc/00/msnbc_0003   14    8         out    RP              (PRT*)     -    -   -    Chris_Matthews  *      *             *        *      *             *             *       -
+bc/msnbc/00/msnbc_0003   14    9     whether    IN             (SBAR*      -    -   -    Chris_Matthews  *      *             *   (ARG1*      *             *             *       -
+bc/msnbc/00/msnbc_0003   14   10          we   PRP             (S(NP*)     -    -   -    Chris_Matthews  *      *             *        *      *        (ARG0*)            *     (40)
+bc/msnbc/00/msnbc_0003   14   11         're   VBP               (VP*      be  03   -    Chris_Matthews  *      *             *        *    (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   14   12    actually    RB             (ADVP*)     -    -   -    Chris_Matthews  *      *             *        *      *    (ARGM-ADV*)            *       -
+bc/msnbc/00/msnbc_0003   14   13     winning   VBG               (VP*     win  01   1    Chris_Matthews  *      *             *        *      *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   14   14         the    DT               (NP*      -    -   -    Chris_Matthews  *      *             *        *      *        (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   14   15          uh    UH                  *      -    -   -    Chris_Matthews  *      *             *        *      *             *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   14   16         war    NN                  *)    war  01   1    Chris_Matthews  *      *             *        *      *             *)          (V*)      -
+bc/msnbc/00/msnbc_0003   14   17        over    RB             (ADVP*      -    -   -    Chris_Matthews  *      *             *        *      *    (ARGM-LOC*             *       -
+bc/msnbc/00/msnbc_0003   14   18       there    RB         *))))))))))     -    -   -    Chris_Matthews  *      *             *)       *)     *             *)            *       -
+bc/msnbc/00/msnbc_0003   14   19          /.     .                 *))     -    -   -    Chris_Matthews  *      *             *        *      *             *             *       -
+
+bc/msnbc/00/msnbc_0003   14   0       Well    UH   (TOP(S(INTJ*)   -    -   -    Melanie_Morgan  *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0003   14   1       that    DT           (NP*)   -    -   -    Melanie_Morgan  *        (ARG1*)        *     (67)
+bc/msnbc/00/msnbc_0003   14   2         's   VBZ           (VP*    be  01   1    Melanie_Morgan  *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   14   3    exactly    RB    (SBAR(WHNP*    -    -   -    Melanie_Morgan  *        (ARG2*    (ARG1*       -
+bc/msnbc/00/msnbc_0003   14   4       what    WP              *)   -    -   -    Melanie_Morgan  *             *         *)      -
+bc/msnbc/00/msnbc_0003   14   5          I   PRP         (S(NP*)   -    -   -    Melanie_Morgan  *             *    (ARG0*)   (192)
+bc/msnbc/00/msnbc_0003   14   6        did   VBD        (VP*))))   do  02   1    Melanie_Morgan  *             *)      (V*)      -
+bc/msnbc/00/msnbc_0003   14   7         /.     .             *))   -    -   -    Melanie_Morgan  *             *         *       -
+
+bc/msnbc/00/msnbc_0003   14   0          I   PRP   (TOP(S(NP*)      -    -   -    Melanie_Morgan  *        (ARG0*)   (ARG0*)   (192)
+bc/msnbc/00/msnbc_0003   14   1       went   VBD      (VP(VP*       go  02   2    Melanie_Morgan  *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   14   2        out    RB      (ADVP*))      -    -   -    Melanie_Morgan  *    (ARGM-DIR*)        *       -
+bc/msnbc/00/msnbc_0003   14   3         um    UH       (INTJ*)      -    -   -    Melanie_Morgan  *             *         *       -
+bc/msnbc/00/msnbc_0003   14   4        and    CC            *       -    -   -    Melanie_Morgan  *             *         *       -
+bc/msnbc/00/msnbc_0003   14   5    visited   VBD         (VP*    visit  01   3    Melanie_Morgan  *             *       (V*)      -
+bc/msnbc/00/msnbc_0003   14   6       with    IN         (PP*       -    -   -    Melanie_Morgan  *             *    (ARG1*       -
+bc/msnbc/00/msnbc_0003   14   7        the    DT         (NP*       -    -   -    Melanie_Morgan  *             *         *     (42
+bc/msnbc/00/msnbc_0003   14   8     troops   NNS         *))))   troop   -   -    Melanie_Morgan  *             *         *)     42)
+bc/msnbc/00/msnbc_0003   14   9         /.     .           *))      -    -   -    Melanie_Morgan  *             *         *       -
+
+bc/msnbc/00/msnbc_0003   14    0          and    CC         (TOP(S*        -    -   -    Melanie_Morgan         *    (ARGM-DIS*)     *         *         *       -
+bc/msnbc/00/msnbc_0003   14    1            I   PRP            (NP*)       -    -   -    Melanie_Morgan         *        (ARG0*)     *         *         *    (192)
+bc/msnbc/00/msnbc_0003   14    2         went   VBD            (VP*        go  02   1    Melanie_Morgan         *           (V*)     *         *         *       -
+bc/msnbc/00/msnbc_0003   14    3      outside    RB          (ADVP*        -    -   -    Melanie_Morgan         *        (ARG1*      *         *         *       -
+bc/msnbc/00/msnbc_0003   14    4           of    IN            (PP*        -    -   -    Melanie_Morgan         *             *      *         *         *       -
+bc/msnbc/00/msnbc_0003   14    5          the    DT            (NP*        -    -   -    Melanie_Morgan     (LOC*             *      *         *         *    (170
+bc/msnbc/00/msnbc_0003   14    6        green   NNP               *        -    -   -    Melanie_Morgan         *             *      *         *         *       -
+bc/msnbc/00/msnbc_0003   14    7         zone   NNP             *)))       -    -   -    Melanie_Morgan         *)            *)     *         *         *     170)
+bc/msnbc/00/msnbc_0003   14    8       unlike    IN          (SBAR*        -    -   -    Melanie_Morgan         *    (ARGM-ADV*      *         *         *       -
+bc/msnbc/00/msnbc_0003   14    9           uh    UH          (INTJ*)       -    -   -    Melanie_Morgan         *             *      *         *         *       -
+bc/msnbc/00/msnbc_0003   14   10          Mr.   NNP          (S(NP*        -    -   -    Melanie_Morgan         *             *      *    (ARG0*         *    (206
+bc/msnbc/00/msnbc_0003   14   11    Rieckhoff   NNP               *)       -    -   -    Melanie_Morgan   (PERSON)            *      *         *)        *     206)
+bc/msnbc/00/msnbc_0003   14   12          has   VBZ            (VP*      have  01   -    Melanie_Morgan         *             *    (V*)        *         *       -
+bc/msnbc/00/msnbc_0003   14   13      accused   VBN            (VP*    accuse  01   1    Melanie_Morgan         *             *      *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   14   14           me   PRP            (NP*)       -    -   -    Melanie_Morgan         *             *      *    (ARG1*)   (ARG0*)   (192)
+bc/msnbc/00/msnbc_0003   14   15           of    IN            (PP*        -    -   -    Melanie_Morgan         *             *      *    (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   14   16        doing   VBG   (S(VP*))))))))       do  02   1    Melanie_Morgan         *             *)     *         *)      (V*)      -
+bc/msnbc/00/msnbc_0003   14   17           /.     .              *))       -    -   -    Melanie_Morgan         *             *      *         *         *       -
+
+bc/msnbc/00/msnbc_0003   14    0        But    CC  (TOP(SBARQ*        -    -   -    Chris_Matthews  *      *             *   -
+bc/msnbc/00/msnbc_0003   14    1    outside    IN         (PP*        -    -   -    Chris_Matthews  *      *             *   -
+bc/msnbc/00/msnbc_0003   14    2       that    DT        (NP*))       -    -   -    Chris_Matthews  *      *             *   -
+bc/msnbc/00/msnbc_0003   14    3        how   WRB     (WHADVP*)       -    -   -    Chris_Matthews  *      *    (ARGM-MNR*)  -
+bc/msnbc/00/msnbc_0003   14    4         do   VBP         (SQ*        do  01   -    Chris_Matthews  *    (V*)            *   -
+bc/msnbc/00/msnbc_0003   14    5        you   PRP         (NP*)       -    -   -    Chris_Matthews  *      *        (ARG1*)  -
+bc/msnbc/00/msnbc_0003   14    6        get    VB         (VP*       get  05   4    Chris_Matthews  *      *           (V*)  -
+bc/msnbc/00/msnbc_0003   14    7        out    RB       (ADVP*        -    -   -    Chris_Matthews  *      *        (ARG2*   -
+bc/msnbc/00/msnbc_0003   14    8      there    RB            *)       -    -   -    Chris_Matthews  *      *             *)  -
+bc/msnbc/00/msnbc_0003   14    9       with    IN         (PP*        -    -   -    Chris_Matthews  *      *    (ARGM-MNR*   -
+bc/msnbc/00/msnbc_0003   14   10        the    DT         (NP*        -    -   -    Chris_Matthews  *      *             *   -
+bc/msnbc/00/msnbc_0003   14   11     people   NNS         *))))   people   -   1    Chris_Matthews  *      *             *)  -
+bc/msnbc/00/msnbc_0003   14   12         /?     .           *))       -    -   -    Chris_Matthews  *      *             *   -
+
+bc/msnbc/00/msnbc_0003   14   0       Well    UH   (TOP(FRAG(INTJ*)      -    -   -    Melanie_Morgan  *            *     -
+bc/msnbc/00/msnbc_0003   14   1    because    IN            (SBAR*       -    -   -    Melanie_Morgan  *            *     -
+bc/msnbc/00/msnbc_0003   14   2        you   PRP            (S(NP*)      -    -   -    Melanie_Morgan  *       (ARG1*)    -
+bc/msnbc/00/msnbc_0003   14   3        get   VBP              (VP*      get  05   4    Melanie_Morgan  *          (V*)    -
+bc/msnbc/00/msnbc_0003   14   4        out    RB            (ADVP*       -    -   -    Melanie_Morgan  *       (ARG2*     -
+bc/msnbc/00/msnbc_0003   14   5      there    RB                 *)      -    -   -    Melanie_Morgan  *            *)    -
+bc/msnbc/00/msnbc_0003   14   6       with    IN              (PP*       -    -   -    Melanie_Morgan  *   (ARGM-MNR*     -
+bc/msnbc/00/msnbc_0003   14   7        the    DT              (NP*       -    -   -    Melanie_Morgan  *            *   (42
+bc/msnbc/00/msnbc_0003   14   8     troops   NNS             *)))))   troop   -   -    Melanie_Morgan  *            *)   42)
+bc/msnbc/00/msnbc_0003   14   9         /.     .                *))      -    -   -    Melanie_Morgan  *            *     -
+
+bc/msnbc/00/msnbc_0003   14   0       They    PRP   (TOP(S(NP*)     -    -   -    Melanie_Morgan          *       (ARG0*)    (42)
+bc/msnbc/00/msnbc_0003   14   1       take    VBP         (VP*    take  01   4    Melanie_Morgan          *          (V*)      -
+bc/msnbc/00/msnbc_0003   14   2        you    PRP         (NP*)     -    -   -    Melanie_Morgan          *       (ARG1*)      -
+bc/msnbc/00/msnbc_0003   14   3         in     IN      (PP(PP*      -    -   -    Melanie_Morgan          *   (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0003   14   4    Humvees   NNPS        (NP*))     -    -   -    Melanie_Morgan   (PRODUCT)           *    (210)
+bc/msnbc/00/msnbc_0003   14   5        and     CC            *      -    -   -    Melanie_Morgan          *            *       -
+bc/msnbc/00/msnbc_0003   14   6         in     IN         (PP*      -    -   -    Melanie_Morgan          *            *       -
+bc/msnbc/00/msnbc_0003   14   7    armored     JJ      (NP*))))     -    -   -    Melanie_Morgan          *            *)      -
+bc/msnbc/00/msnbc_0003   14   8        /-       .           *))     -    -   -    Melanie_Morgan          *            *       -
+
+bc/msnbc/00/msnbc_0003   14   0       Then     RB   (TOP(S(ADVP*)    -    -      -    Melanie_Morgan          *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   14   1        you    PRP           (NP*)    -    -      -    Melanie_Morgan          *        (ARG1*)     -
+bc/msnbc/00/msnbc_0003   14   2        get    VBP           (VP*    get  05   11.2    Melanie_Morgan          *           (V*)     -
+bc/msnbc/00/msnbc_0003   14   3        out     IN           (PP*     -    -      -    Melanie_Morgan          *        (ARG2*      -
+bc/msnbc/00/msnbc_0003   14   4         of     IN           (PP*     -    -      -    Melanie_Morgan          *             *      -
+bc/msnbc/00/msnbc_0003   14   5        the     DT           (NP*     -    -      -    Melanie_Morgan          *             *   (210
+bc/msnbc/00/msnbc_0003   14   6    Humvees   NNPS           *))))    -    -      -    Melanie_Morgan   (PRODUCT)            *)   210)
+bc/msnbc/00/msnbc_0003   14   7         /.      .             *))    -    -      -    Melanie_Morgan          *             *      -
+
+bc/msnbc/00/msnbc_0003   14   0       and    CC  (TOP(S*      -    -   -    Melanie_Morgan  *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0003   14   1       you   PRP     (NP*)     -    -   -    Melanie_Morgan  *        (ARG0*)  -
+bc/msnbc/00/msnbc_0003   14   2      hand   VBP     (VP*    hand  03   1    Melanie_Morgan  *           (V*)  -
+bc/msnbc/00/msnbc_0003   14   3       out    RP    (PRT*)     -    -   -    Melanie_Morgan  *             *   -
+bc/msnbc/00/msnbc_0003   14   4    soccer    NN     (NP*      -    -   -    Melanie_Morgan  *        (ARG1*   -
+bc/msnbc/00/msnbc_0003   14   5     balls   NNS       *))   ball   -   -    Melanie_Morgan  *             *)  -
+bc/msnbc/00/msnbc_0003   14   6        /.     .       *))     -    -   -    Melanie_Morgan  *             *   -
+
+bc/msnbc/00/msnbc_0003   14   0           and    CC  (TOP(S*    -    -   -    Melanie_Morgan  *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0003   14   1           you   PRP     (NP*)   -    -   -    Melanie_Morgan  *        (ARG0*)  -
+bc/msnbc/00/msnbc_0003   14   2            go   VBP     (VP*    go  02   1    Melanie_Morgan  *           (V*)  -
+bc/msnbc/00/msnbc_0003   14   3            to    IN     (PP*    -    -   -    Melanie_Morgan  *        (ARG4*   -
+bc/msnbc/00/msnbc_0003   14   4    orphanages   NNS   (NP*)))   -    -   -    Melanie_Morgan  *             *)  -
+bc/msnbc/00/msnbc_0003   14   5            /.     .       *))   -    -   -    Melanie_Morgan  *             *   -
+
+bc/msnbc/00/msnbc_0003   14    0       and    CC         (TOP(S*        -    -      -    Melanie_Morgan  *    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)     *           *      -
+bc/msnbc/00/msnbc_0003   14    1       you   PRP            (NP*)       -    -      -    Melanie_Morgan  *        (ARG0*)       (ARG0*)       (ARG0*)     *           *      -
+bc/msnbc/00/msnbc_0003   14    2      talk   VBP         (VP(VP*)     talk  01      1    Melanie_Morgan  *           (V*)            *             *      *           *      -
+bc/msnbc/00/msnbc_0003   14    3        uh    UH          (INTJ*)       -    -      -    Melanie_Morgan  *    (ARGM-DIS*)            *             *      *           *      -
+bc/msnbc/00/msnbc_0003   14    4       and    CC               *        -    -      -    Melanie_Morgan  *             *             *             *      *           *      -
+bc/msnbc/00/msnbc_0003   14    5      hold   VBP            (VP*      hold  01      1    Melanie_Morgan  *             *           (V*)            *      *           *      -
+bc/msnbc/00/msnbc_0003   14    6    babies   NNS           (NP*))     baby   -      -    Melanie_Morgan  *             *        (ARG1*)            *      *           *    (58)
+bc/msnbc/00/msnbc_0003   14    7       and    CC               *        -    -      -    Melanie_Morgan  *             *             *             *      *           *      -
+bc/msnbc/00/msnbc_0003   14    8      talk   VBP            (VP*      talk  01      1    Melanie_Morgan  *             *             *           (V*)     *           *      -
+bc/msnbc/00/msnbc_0003   14    9      with    IN            (PP*        -    -      -    Melanie_Morgan  *             *             *        (ARG2*      *           *      -
+bc/msnbc/00/msnbc_0003   14   10       the    DT         (NP(NP*        -    -      -    Melanie_Morgan  *             *             *             *      *      (ARG0*      -
+bc/msnbc/00/msnbc_0003   14   11    people   NNS               *)   people   -      1    Melanie_Morgan  *             *             *             *      *           *)     -
+bc/msnbc/00/msnbc_0003   14   12       who    WP     (SBAR(WHNP*)       -    -      -    Melanie_Morgan  *             *             *             *      *    (R-ARG0*)     -
+bc/msnbc/00/msnbc_0003   14   13       are   VBP          (S(VP*        be  03      -    Melanie_Morgan  *             *             *             *    (V*)          *      -
+bc/msnbc/00/msnbc_0003   14   14    taking   VBG            (VP*      take  01   14.1    Melanie_Morgan  *             *             *             *      *         (V*)     -
+bc/msnbc/00/msnbc_0003   14   15      care    NN            (NP*)     care   -      1    Melanie_Morgan  *             *             *             *      *      (ARG1*)     -
+bc/msnbc/00/msnbc_0003   14   16        of    IN            (PP*        -    -      -    Melanie_Morgan  *             *             *             *      *      (ARG2*      -
+bc/msnbc/00/msnbc_0003   14   17      them   PRP   (NP*))))))))))       -    -      -    Melanie_Morgan  *             *             *             *)     *           *)   (58)
+bc/msnbc/00/msnbc_0003   14   18        /.     .              *))       -    -      -    Melanie_Morgan  *             *             *             *      *           *      -
+
+bc/msnbc/00/msnbc_0003   14    0          All     DT   (TOP(NP(NP(NP*)       -    -   -    Melanie_Morgan           *      (ARG1*   -
+bc/msnbc/00/msnbc_0003   14    1           of     IN             (PP*        -    -   -    Melanie_Morgan           *           *   -
+bc/msnbc/00/msnbc_0003   14    2        these     DT             (NP*        -    -   -    Melanie_Morgan           *           *   -
+bc/msnbc/00/msnbc_0003   14    3       things    NNS              *)))    thing   -   1    Melanie_Morgan           *           *)  -
+bc/msnbc/00/msnbc_0003   14    4         that    WDT      (SBAR(WHNP*)       -    -   -    Melanie_Morgan           *    (R-ARG1*)  -
+bc/msnbc/00/msnbc_0003   14    5     fourteen     CD        (S(NP(NP*        -    -   -    Melanie_Morgan   (CARDINAL)     (ARG0*   -
+bc/msnbc/00/msnbc_0003   14    6      members    NNS                *)   member   -   1    Melanie_Morgan           *           *   -
+bc/msnbc/00/msnbc_0003   14    7           of     IN             (PP*        -    -   -    Melanie_Morgan           *           *   -
+bc/msnbc/00/msnbc_0003   14    8          our   PRP$             (NP*        -    -   -    Melanie_Morgan           *           *   -
+bc/msnbc/00/msnbc_0003   14    9    entourage     NN              *)))       -    -   -    Melanie_Morgan           *           *)  -
+bc/msnbc/00/msnbc_0003   14   10          did    VBD           (VP*)))       do  02   1    Melanie_Morgan           *         (V*)  -
+bc/msnbc/00/msnbc_0003   14   11          /-       .               *))       -    -   -    Melanie_Morgan           *           *   -
+
+bc/msnbc/00/msnbc_0003   14    0         But    CC        (TOP(SQ*        -    -   -    Chris_Matthews          *      *    (ARGM-DIS*)            *        *      -
+bc/msnbc/00/msnbc_0003   14    1          do   VBP               *        do  01   -    Chris_Matthews          *    (V*)            *             *        *      -
+bc/msnbc/00/msnbc_0003   14    2      people   NNS            (NP*)   people   -   1    Chris_Matthews          *      *        (ARG0*)            *        *    (32)
+bc/msnbc/00/msnbc_0003   14    3       speak    VB            (VP*     speak  01   1    Chris_Matthews          *      *           (V*)            *        *      -
+bc/msnbc/00/msnbc_0003   14    4      freely    RB          (ADVP*)       -    -   -    Chris_Matthews          *      *    (ARGM-MNR*)            *        *      -
+bc/msnbc/00/msnbc_0003   14    5        when   WRB   (SBAR(WHADVP*)       -    -   -    Chris_Matthews          *      *    (ARGM-TMP*    (ARGM-TMP*)       *      -
+bc/msnbc/00/msnbc_0003   14    6       there    EX          (S(NP*)       -    -   -    Chris_Matthews          *      *             *             *        *      -
+bc/msnbc/00/msnbc_0003   14    7          is   VBZ            (VP*        be  02   4    Chris_Matthews          *      *             *           (V*)       *      -
+bc/msnbc/00/msnbc_0003   14    8           a    DT         (NP(NP*        -    -   -    Chris_Matthews          *      *             *        (ARG1*   (ARG1*      -
+bc/msnbc/00/msnbc_0003   14    9      Humvee   NNP               *)       -    -   -    Chris_Matthews   (PRODUCT)     *             *             *        *)     -
+bc/msnbc/00/msnbc_0003   14   10    standing   VBG            (VP*     stand  01   2    Chris_Matthews          *      *             *             *      (V*)     -
+bc/msnbc/00/msnbc_0003   14   11        next    RB          (ADVP*        -    -   -    Chris_Matthews          *      *             *             *   (ARG2*      -
+bc/msnbc/00/msnbc_0003   14   12          to    IN            (PP*        -    -   -    Chris_Matthews          *      *             *             *        *      -
+bc/msnbc/00/msnbc_0003   14   13        them   PRP    (NP*)))))))))       -    -   -    Chris_Matthews          *      *             *)            *)       *)   (32)
+bc/msnbc/00/msnbc_0003   14   14          /?     .              *))       -    -   -    Chris_Matthews          *      *             *             *        *      -
+
+bc/msnbc/00/msnbc_0003   14   0       from    IN  (TOP(PP*   -   -   -    Melanie_Morgan      *     -
+bc/msnbc/00/msnbc_0003   14   1       Move   NNP      (NP*   -   -   -    Melanie_Morgan  (ORG*   (21
+bc/msnbc/00/msnbc_0003   14   2    America   NNP         *   -   -   -    Melanie_Morgan      *     -
+bc/msnbc/00/msnbc_0003   14   3    Forward   NNP         *)  -   -   -    Melanie_Morgan      *)   21)
+bc/msnbc/00/msnbc_0003   14   4         /.     .        *))  -   -   -    Melanie_Morgan      *     -
+
+bc/msnbc/00/msnbc_0003   14   0    Because    IN  (TOP(FRAG(PP*     -    -   -    Melanie_Morgan  *         *       -
+bc/msnbc/00/msnbc_0003   14   1        let   VBP         (S(VP*    let  01   1    Melanie_Morgan  *       (V*)      -
+bc/msnbc/00/msnbc_0003   14   2         me   PRP     (S(NP*)))))    -    -   -    Melanie_Morgan  *    (ARG1*)   (192)
+bc/msnbc/00/msnbc_0003   14   3        /-      .             *))    -    -   -    Melanie_Morgan  *         *       -
+
+bc/msnbc/00/msnbc_0003   14   0    Chris   NNP   (TOP(FRAG(NP*)  -   -   -    Melanie_Morgan   (PERSON)   (140)
+bc/msnbc/00/msnbc_0003   14   1    Chris   NNP            (NP*)  -   -   -    Melanie_Morgan   (PERSON)   (140)
+bc/msnbc/00/msnbc_0003   14   2      /-      .              *))  -   -   -    Melanie_Morgan         *       -
+
+bc/msnbc/00/msnbc_0003   14   0    No   UH  (TOP(INTJ*   -   -   -    Paul_Rieckhoff  *   -
+bc/msnbc/00/msnbc_0003   14   1    /.    .          *))  -   -   -    Paul_Rieckhoff  *   -
+
+bc/msnbc/00/msnbc_0003   14   0    Chris   NNP   (TOP(S(NP*)      -    -   -    Melanie_Morgan     (PERSON)   (ARGM-DIS*)            *    (140)
+bc/msnbc/00/msnbc_0003   14   1       uh    UH       (INTJ*)      -    -   -    Melanie_Morgan           *    (ARGM-DIS*)            *       -
+bc/msnbc/00/msnbc_0003   14   2      let    VB         (VP*      let  01   1    Melanie_Morgan           *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   14   3       me   PRP       (S(NP*)      -    -   -    Melanie_Morgan           *        (ARG1*        (ARG0*)   (192)
+bc/msnbc/00/msnbc_0003   14   4     just    RB       (ADVP*)      -    -   -    Melanie_Morgan           *             *    (ARGM-ADV*)      -
+bc/msnbc/00/msnbc_0003   14   5      say    VB         (VP*      say  01   1    Melanie_Morgan           *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   14   6      one    CD         (NP*       -    -   -    Melanie_Morgan   (CARDINAL)            *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   14   7    thing    NN         *))))   thing   -   1    Melanie_Morgan           *             *)            *)      -
+bc/msnbc/00/msnbc_0003   14   8       /.     .           *))      -    -   -    Melanie_Morgan           *             *             *       -
+
+bc/msnbc/00/msnbc_0003   14    0           Before     RB   (TOP(S(ADVP*)      -    -   -    Melanie_Morgan         *      *    (ARGM-TMP*)       *      -
+bc/msnbc/00/msnbc_0003   14    1              Mr.    NNP           (NP*       -    -   -    Melanie_Morgan         *      *        (ARG0*        *   (206
+bc/msnbc/00/msnbc_0003   14    2        Rieckhoff    NNP              *)      -    -   -    Melanie_Morgan   (PERSON)     *             *)       *    206)
+bc/msnbc/00/msnbc_0003   14    3              has    VBZ           (VP*     have  01   -    Melanie_Morgan         *    (V*)            *        *      -
+bc/msnbc/00/msnbc_0003   14    4          written    VBN           (VP*    write  01   1    Melanie_Morgan         *      *           (V*)       *      -
+bc/msnbc/00/msnbc_0003   14    5               um     UH         (INTJ*)      -    -   -    Melanie_Morgan         *      *    (ARGM-DIS*)       *      -
+bc/msnbc/00/msnbc_0003   14    6             that     IN         (SBAR*       -    -   -    Melanie_Morgan         *      *        (ARG1*        *      -
+bc/msnbc/00/msnbc_0003   14    7              our   PRP$         (S(NP*       -    -   -    Melanie_Morgan         *      *             *   (ARG1*    (21
+bc/msnbc/00/msnbc_0003   14    8            group     NN              *)   group   -   1    Melanie_Morgan         *      *             *        *)    21)
+bc/msnbc/00/msnbc_0003   14    9              are    VBP           (VP*       be  01   1    Melanie_Morgan         *      *             *      (V*)     -
+bc/msnbc/00/msnbc_0003   14   10                a     DT        (NP(NP*       -    -   -    Melanie_Morgan         *      *             *   (ARG2*      -
+bc/msnbc/00/msnbc_0003   14   11            bunch     NN              *)   bunch   -   -    Melanie_Morgan         *      *             *        *      -
+bc/msnbc/00/msnbc_0003   14   12               of     IN           (PP*       -    -   -    Melanie_Morgan         *      *             *        *      -
+bc/msnbc/00/msnbc_0003   14   13           bigots    NNS           (NP*       -    -   -    Melanie_Morgan         *      *             *        *      -
+bc/msnbc/00/msnbc_0003   14   14           idiots    NNS              *       -    -   -    Melanie_Morgan         *      *             *        *      -
+bc/msnbc/00/msnbc_0003   14   15              and     CC              *       -    -   -    Melanie_Morgan         *      *             *        *      -
+bc/msnbc/00/msnbc_0003   14   16    propagandists    NNS       *))))))))      -    -   -    Melanie_Morgan         *      *             *)       *)     -
+bc/msnbc/00/msnbc_0003   14   17               /.      .             *))      -    -   -    Melanie_Morgan         *      *             *        *      -
+
+bc/msnbc/00/msnbc_0003   14   0        and    CC  (TOP(S*       -    -   -    Melanie_Morgan  *    (ARGM-DIS*)            *       -
+bc/msnbc/00/msnbc_0003   14   1       that    DT     (NP*)      -    -   -    Melanie_Morgan  *        (ARG1*)            *       -
+bc/msnbc/00/msnbc_0003   14   2         's   VBZ     (VP*       be  01   5    Melanie_Morgan  *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   14   3     before    IN   (SBAR*       -    -   -    Melanie_Morgan  *        (ARG2*             *       -
+bc/msnbc/00/msnbc_0003   14   4         he   PRP   (S(NP*)      -    -   -    Melanie_Morgan  *             *        (ARG0*)   (206)
+bc/msnbc/00/msnbc_0003   14   5       even    RB   (ADVP*)      -    -   -    Melanie_Morgan  *             *    (ARGM-ADV*)      -
+bc/msnbc/00/msnbc_0003   14   6    cracked   VBD     (VP*    crack  02   6    Melanie_Morgan  *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   14   7          a    DT     (NP*       -    -   -    Melanie_Morgan  *             *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   14   8      sweat    NN    *)))))   sweat   -   -    Melanie_Morgan  *             *)            *)      -
+bc/msnbc/00/msnbc_0003   14   9         /.     .       *))      -    -   -    Melanie_Morgan  *             *             *       -
+
+bc/msnbc/00/msnbc_0003   14    0           Now    RB           (TOP(S(ADVP*)           -    -   -    Melanie_Morgan  *    (ARGM-TMP*)        *        *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14    1             I   PRP                   (NP*)           -    -   -    Melanie_Morgan  *        (ARG0*)   (ARG0*)       *           *         *             *    (192)
+bc/msnbc/00/msnbc_0003   14    2          want   VBP                   (VP*          want  01   1    Melanie_Morgan  *           (V*)        *        *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14    3            to    TO                 (S(VP*            -    -   -    Melanie_Morgan  *        (ARG1*         *        *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14    4          tell    VB                   (VP*          tell  01   1    Melanie_Morgan  *             *       (V*)       *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14    5           you   PRP                   (NP*)           -    -   -    Melanie_Morgan  *             *    (ARG2*)       *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14    6          that    IN                 (SBAR*            -    -   -    Melanie_Morgan  *             *    (ARG1*        *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14    7         there    EX                 (S(NP*)           -    -   -    Melanie_Morgan  *             *         *        *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14    8            is   VBZ                   (VP*            be  02   3    Melanie_Morgan  *             *         *      (V*)          *         *             *       -
+bc/msnbc/00/msnbc_0003   14    9     something    NN          (NP(NP(NP(NP*)    something   -   4    Melanie_Morgan  *             *         *   (ARG1*           *         *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   14   10          very    RB                 (ADJP*            -    -   -    Melanie_Morgan  *             *         *        *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14   11     important    JJ                     *))           -    -   -    Melanie_Morgan  *             *         *        *           *         *             *       -
+bc/msnbc/00/msnbc_0003   14   12             a    DT                (NP(NP*            -    -   -    Melanie_Morgan  *             *         *        *      (ARG1*         *             *       -
+bc/msnbc/00/msnbc_0003   14   13       message    NN                      *)      message   -   1    Melanie_Morgan  *             *         *        *           *)        *             *       -
+bc/msnbc/00/msnbc_0003   14   14          that   WDT            (SBAR(WHNP*)           -    -   -    Melanie_Morgan  *             *         *        *    (R-ARG1*)        *             *       -
+bc/msnbc/00/msnbc_0003   14   15            is   VBZ                 (S(VP*            be  01   1    Melanie_Morgan  *             *         *        *         (V*)        *             *       -
+bc/msnbc/00/msnbc_0003   14   16          very    RB                 (ADJP*            -    -   -    Melanie_Morgan  *             *         *        *      (ARG2*         *             *       -
+bc/msnbc/00/msnbc_0003   14   17     important    JJ                 *))))))           -    -   -    Melanie_Morgan  *             *         *        *           *)        *             *)      -
+bc/msnbc/00/msnbc_0003   14   18          that   WDT            (SBAR(WHNP*)           -    -   -    Melanie_Morgan  *             *         *        *           *         *      (R-ARG1*)      -
+bc/msnbc/00/msnbc_0003   14   19             I   PRP                 (S(NP*)           -    -   -    Melanie_Morgan  *             *         *        *           *    (ARG0*)       (ARG0*)   (192)
+bc/msnbc/00/msnbc_0003   14   20        wanted   VBD                   (VP*          want  01   1    Melanie_Morgan  *             *         *        *           *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   14   21            to    TO                 (S(VP*            -    -   -    Melanie_Morgan  *             *         *        *           *    (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   14   22    articulate    VB                   (VP*    articulate  01   1    Melanie_Morgan  *             *         *        *           *         *           (V*)      -
+bc/msnbc/00/msnbc_0003   14   23          here    RB   (ADVP*)))))))))))))))           -    -   -    Melanie_Morgan  *             *)        *)       *)          *         *)   (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   14   24            /.     .                     *))           -    -   -    Melanie_Morgan  *             *         *        *           *         *             *       -
+
+bc/msnbc/00/msnbc_0003   14    0           Our   PRP$  (TOP(S(NP*           -    -   -    Melanie_Morgan  *      *       (ARG0*       (ARG1*    (95|(40)
+bc/msnbc/00/msnbc_0003   14    1           men    NNS           *          man   -   1    Melanie_Morgan  *      *            *            *          -
+bc/msnbc/00/msnbc_0003   14    2           and     CC           *           -    -   -    Melanie_Morgan  *      *            *            *          -
+bc/msnbc/00/msnbc_0003   14    3         women    NNS           *)       woman   -   1    Melanie_Morgan  *      *            *)           *)        95)
+bc/msnbc/00/msnbc_0003   14    4           are    VBP        (VP*           be  03   -    Melanie_Morgan  *    (V*)           *            *          -
+bc/msnbc/00/msnbc_0003   14    5        living    VBG        (VP*         live  01   1    Melanie_Morgan  *      *          (V*)           *          -
+bc/msnbc/00/msnbc_0003   14    6           and     CC           *           -    -   -    Melanie_Morgan  *      *            *            *          -
+bc/msnbc/00/msnbc_0003   14    7         dying    VBG           *          die  01   1    Melanie_Morgan  *      *            *          (V*)         -
+bc/msnbc/00/msnbc_0003   14    8            in     IN        (PP*           -    -   -    Melanie_Morgan  *      *   (ARGM-MNR*   (ARGM-MNR*          -
+bc/msnbc/00/msnbc_0003   14    9       ghastly     JJ        (NP*           -    -   -    Melanie_Morgan  *      *            *            *          -
+bc/msnbc/00/msnbc_0003   14   10    conditions    NNS        *))))   condition   -   1    Melanie_Morgan  *      *            *)           *)         -
+bc/msnbc/00/msnbc_0003   14   11            /.      .          *))          -    -   -    Melanie_Morgan  *      *            *            *          -
+
+bc/msnbc/00/msnbc_0003   14    0         Uh     UH   (TOP(S(INTJ*)       -    -   -    Melanie_Morgan           *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0003   14    1         it    PRP           (NP*)       -    -   -    Melanie_Morgan           *        (ARG1*)  -
+bc/msnbc/00/msnbc_0003   14    2         's    VBZ           (VP*        be  01   1    Melanie_Morgan           *           (V*)  -
+bc/msnbc/00/msnbc_0003   14    3        hot     JJ     (UCP(ADJP*)       -    -   -    Melanie_Morgan           *        (ARG2*   -
+bc/msnbc/00/msnbc_0003   14    4          a     DT        (NP(QP*        -    -   -    Melanie_Morgan  (QUANTITY*             *   -
+bc/msnbc/00/msnbc_0003   14    5    hundred     CD              *        -    -   -    Melanie_Morgan           *             *   -
+bc/msnbc/00/msnbc_0003   14    6        and     CC              *        -    -   -    Melanie_Morgan           *             *   -
+bc/msnbc/00/msnbc_0003   14    7     twenty     CD              *        -    -   -    Melanie_Morgan           *             *   -
+bc/msnbc/00/msnbc_0003   14    8         -    HYPH              *        -    -   -    Melanie_Morgan           *             *   -
+bc/msnbc/00/msnbc_0003   14    9       five     CD              *)       -    -   -    Melanie_Morgan           *             *   -
+bc/msnbc/00/msnbc_0003   14   10    degrees    NNS            *)))   degree   -   5    Melanie_Morgan           *)            *)  -
+bc/msnbc/00/msnbc_0003   14   11         /.      .             *))       -    -   -    Melanie_Morgan           *             *   -
+
+bc/msnbc/00/msnbc_0003   14   0          They   PRP   (TOP(S(NP*)      -    -   -    Melanie_Morgan  *      *       (ARG0*)   (95)
+bc/msnbc/00/msnbc_0003   14   1           are   VBP         (VP*       be  03   -    Melanie_Morgan  *    (V*)           *      -
+bc/msnbc/00/msnbc_0003   14   2        making   VBG         (VP*     make  01   2    Melanie_Morgan  *      *          (V*)     -
+bc/msnbc/00/msnbc_0003   14   3         peace    NN         (NP*)   peace   -   1    Melanie_Morgan  *      *       (ARG1*)     -
+bc/msnbc/00/msnbc_0003   14   4            in    IN         (PP*       -    -   -    Melanie_Morgan  *      *   (ARGM-LOC*      -
+bc/msnbc/00/msnbc_0003   14   5    sandstorms   NNS      (NP*))))      -    -   -    Melanie_Morgan  *      *            *)     -
+bc/msnbc/00/msnbc_0003   14   6            /.     .           *))      -    -   -    Melanie_Morgan  *      *            *      -
+
+bc/msnbc/00/msnbc_0003   14    0              They    PRP    (TOP(S(NP*)       -    -   -    Melanie_Morgan         *      *       (ARG0*)   (ARG0*)     *           *        *    (95)
+bc/msnbc/00/msnbc_0003   14    1               are    VBP          (VP*        be  03   -    Melanie_Morgan         *    (V*)           *         *      *           *        *      -
+bc/msnbc/00/msnbc_0003   14    2             doing    VBG          (VP*        do  02   1    Melanie_Morgan         *      *          (V*)        *      *           *        *      -
+bc/msnbc/00/msnbc_0003   14    3             their   PRP$          (NP*        -    -   -    Melanie_Morgan         *      *       (ARG1*         *      *           *        *    (95)
+bc/msnbc/00/msnbc_0003   14    4              dead     JJ             *        -    -   -    Melanie_Morgan         *      *            *         *      *           *        *      -
+bc/msnbc/00/msnbc_0003   14    5             level     NN             *     level   -   2    Melanie_Morgan         *      *            *         *      *           *        *      -
+bc/msnbc/00/msnbc_0003   14    6              best    JJS             *)       -    -   -    Melanie_Morgan         *      *            *)        *      *           *        *      -
+bc/msnbc/00/msnbc_0003   14    7                to     TO        (S(VP*        -    -   -    Melanie_Morgan         *      *   (ARGM-PRP*         *      *           *        *      -
+bc/msnbc/00/msnbc_0003   14    8              make     VB          (VP*      make  02   3    Melanie_Morgan         *      *            *       (V*)     *           *        *      -
+bc/msnbc/00/msnbc_0003   14    9              this     DT     (S(NP(NP*        -    -   -    Melanie_Morgan         *      *            *    (ARG1*      *      (ARG1*   (ARG0*      -
+bc/msnbc/00/msnbc_0003   14   10            policy     NN             *)   policy   -   1    Melanie_Morgan         *      *            *         *      *           *)       *      -
+bc/msnbc/00/msnbc_0003   14   11              that    WDT   (SBAR(WHNP*)       -    -   -    Melanie_Morgan         *      *            *         *      *    (R-ARG1*)       *      -
+bc/msnbc/00/msnbc_0003   14   12               the     DT        (S(NP*        -    -   -    Melanie_Morgan         *      *            *         *      *      (ARG0*        *      -
+bc/msnbc/00/msnbc_0003   14   13              Bush    NNP             *        -    -   -    Melanie_Morgan   (PERSON)     *            *         *      *           *        *      -
+bc/msnbc/00/msnbc_0003   14   14    administration     NN             *)       -    -   -    Melanie_Morgan         *      *            *         *      *           *)       *      -
+bc/msnbc/00/msnbc_0003   14   15               has    VBZ          (VP*      have  01   -    Melanie_Morgan         *      *            *         *    (V*)          *        *      -
+bc/msnbc/00/msnbc_0003   14   16               put    VBN          (VP*       put  01   1    Melanie_Morgan         *      *            *         *      *         (V*)       *      -
+bc/msnbc/00/msnbc_0003   14   17             forth     RP    (PRT*))))))       -    -   -    Melanie_Morgan         *      *            *         *      *      (ARG2*)       *)     -
+bc/msnbc/00/msnbc_0003   14   18              work     VB    (VP*)))))))     work  09   -    Melanie_Morgan         *      *            *)        *)     *           *      (V*)     -
+bc/msnbc/00/msnbc_0003   14   19                /.      .            *))       -    -   -    Melanie_Morgan         *      *            *         *      *           *        *      -
+
+bc/msnbc/00/msnbc_0003   14    0            I    PRP               (TOP(S(NP*)         -    -   -    Melanie_Morgan       *     (ARG0*)          *         *           *             *      (192)
+bc/msnbc/00/msnbc_0003   14    1        think    VBP                     (VP*       think  01   1    Melanie_Morgan       *        (V*)          *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14    2         that     IN                   (SBAR*          -    -   -    Melanie_Morgan       *     (ARG1*           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14    3           as     IN                   (S(PP*          -    -   -    Melanie_Morgan       *          *           *         *           *    (ARGM-ADV*         -
+bc/msnbc/00/msnbc_0003   14    4           an     DT                     (NP*          -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14    5     American     JJ                        *          -    -   -    Melanie_Morgan   (NORP)         *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14    6       people    NNS                       *))     people   -   2    Melanie_Morgan       *          *           *         *           *             *)        -
+bc/msnbc/00/msnbc_0003   14    7          the     DT                  (NP(NP*          -    -   -    Melanie_Morgan       *          *      (ARG1*         *      (ARG1*        (ARG0*         -
+bc/msnbc/00/msnbc_0003   14    8      stories    NNS                        *)      story   -   1    Melanie_Morgan       *          *           *)        *           *)            *         -
+bc/msnbc/00/msnbc_0003   14    9         that    WDT   (SBAR(SBAR(WHNP(WHNP*))         -    -   -    Melanie_Morgan       *          *    (R-ARG1*)        *           *             *         -
+bc/msnbc/00/msnbc_0003   14   10            I    PRP                   (S(NP*)         -    -   -    Melanie_Morgan       *          *      (ARG0*)        *           *             *      (192)
+bc/msnbc/00/msnbc_0003   14   11         tell    VBP                     (VP*        tell  01   1    Melanie_Morgan       *          *         (V*)        *           *             *         -
+bc/msnbc/00/msnbc_0003   14   12         from     IN                     (PP*          -    -   -    Melanie_Morgan       *   (C-ARG1*      (ARG2*         *           *      (C-ARG0*         -
+bc/msnbc/00/msnbc_0003   14   13         Iraq    NNP                 (NP*)))))         -    -   -    Melanie_Morgan    (GPE)         *)          *)        *           *             *)      (16)
+bc/msnbc/00/msnbc_0003   14   14          and     CC                        *          -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   15         that    WDT              (SBAR(WHNP*)         -    -   -    Melanie_Morgan       *          *           *         *    (R-ARG1*)            *         -
+bc/msnbc/00/msnbc_0003   14   16          our   PRP$                   (S(NP*          -    -   -    Melanie_Morgan       *          *           *         *      (ARG0*             *         -
+bc/msnbc/00/msnbc_0003   14   17       fellow     NN                        *      fellow   -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   18         talk     NN                    (NML*        talk   -   1    Melanie_Morgan       *          *           *    (ARG1*)          *             *         -
+bc/msnbc/00/msnbc_0003   14   19         show     NN                        *)       show  01   2    Melanie_Morgan       *          *           *       (V*)          *             *         -
+bc/msnbc/00/msnbc_0003   14   20        hosts    NNS                        *)       host   -   4    Melanie_Morgan       *          *           *         *           *)            *         -
+bc/msnbc/00/msnbc_0003   14   21         told    VBD                 (VP*)))))       tell  01   1    Melanie_Morgan       *          *           *         *         (V*)            *)        -
+bc/msnbc/00/msnbc_0003   14   22           um     UH                   (INTJ*)         -    -   -    Melanie_Morgan       *          *           *         *           *    (ARGM-DIS*)        -
+bc/msnbc/00/msnbc_0003   14   23           eh     UH                   (INTJ*)         -    -   -    Melanie_Morgan       *          *           *         *           *    (ARGM-DIS*)        -
+bc/msnbc/00/msnbc_0003   14   24           uh     UH                   (INTJ*)         -    -   -    Melanie_Morgan       *          *           *         *           *    (ARGM-DIS*)        -
+bc/msnbc/00/msnbc_0003   14   25    hopefully     RB                   (ADVP*)         -    -   -    Melanie_Morgan       *          *           *         *           *    (ARGM-ADV*)        -
+bc/msnbc/00/msnbc_0003   14   26         will     MD                     (VP*          -    -   -    Melanie_Morgan       *          *           *         *           *    (ARGM-MOD*)        -
+bc/msnbc/00/msnbc_0003   14   27     engender     VB                     (VP*    engender  01   -    Melanie_Morgan       *          *           *         *           *           (V*)        -
+bc/msnbc/00/msnbc_0003   14   28            a     DT          (NP(NP(ADJP(NP*          -    -   -    Melanie_Morgan       *          *           *         *           *        (ARG1*       (22
+bc/msnbc/00/msnbc_0003   14   29       little     JJ                        *          -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   30          bit     NN                        *)       bite   -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   31         more    JJR                        *)         -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   32     patience     NN                        *          -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   33          and     CC                        *          -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   34    endurance     NN                        *)         -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   35           by     IN                     (PP*          -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   36          the     DT                     (NP*          -    -   -    Melanie_Morgan       *          *           *         *           *             *       (17
+bc/msnbc/00/msnbc_0003   14   37     American     JJ                        *          -    -   -    Melanie_Morgan   (NORP)         *           *         *           *             *         -
+bc/msnbc/00/msnbc_0003   14   38       people    NNS                 *))))))))     people   -   2    Melanie_Morgan       *          *)          *         *           *             *)   22)|17)
+bc/msnbc/00/msnbc_0003   14   39           /.      .                       *))         -    -   -    Melanie_Morgan       *          *           *         *           *             *         -
+
+bc/msnbc/00/msnbc_0003   14   0         I    PRP    (TOP(S(NP*)      -    -   -    Melanie_Morgan  *    (ARG0*)        *    (192)
+bc/msnbc/00/msnbc_0003   14   1     think    VBP          (VP*    think  01   1    Melanie_Morgan  *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   14   2        we    PRP   (SBAR(S(NP*)      -    -   -    Melanie_Morgan  *    (ARG1*    (ARG0*)    (17)
+bc/msnbc/00/msnbc_0003   14   3       owe    VBP          (VP*      owe  01   2    Melanie_Morgan  *         *       (V*)      -
+bc/msnbc/00/msnbc_0003   14   4       our   PRP$          (NP*       -    -   -    Melanie_Morgan  *         *    (ARG2*     (17)
+bc/msnbc/00/msnbc_0003   14   5    troops    NNS             *)   troop   -   -    Melanie_Morgan  *         *         *)      -
+bc/msnbc/00/msnbc_0003   14   6      that     DT      (NP*)))))      -    -   -    Melanie_Morgan  *         *)   (ARG1*)    (22)
+bc/msnbc/00/msnbc_0003   14   7        /.      .            *))      -    -   -    Melanie_Morgan  *         *         *       -

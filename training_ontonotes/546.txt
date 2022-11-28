@@ -1,0 +1,340 @@
+bc/cnn/00/cnn_0002   5   0          But    CC  (TOP(FRAG*          -    -   -    Anderson_Cooper          *        *   -
+bc/cnn/00/cnn_0002   5   1        first    RB      (ADVP*)         -    -   -    Anderson_Cooper   (ORDINAL)       *   -
+bc/cnn/00/cnn_0002   5   2            a    DT     (NP(NP*          -    -   -    Anderson_Cooper          *        *   -
+bc/cnn/00/cnn_0002   5   3        check    NN           *)      check  01   2    Anderson_Cooper          *      (V*)  -
+bc/cnn/00/cnn_0002   5   4           of    IN        (PP*          -    -   -    Anderson_Cooper          *   (ARG1*   -
+bc/cnn/00/cnn_0002   5   5          the    DT     (NP(NP*          -    -   -    Anderson_Cooper          *        *   -
+bc/cnn/00/cnn_0002   5   6          day    NN           *         day   -   3    Anderson_Cooper      (DATE)       *   -
+bc/cnn/00/cnn_0002   5   7           's   POS           *)         -    -   -    Anderson_Cooper          *        *   -
+bc/cnn/00/cnn_0002   5   8    headlines   NNS         *)))   headline   -   -    Anderson_Cooper          *        *)  -
+bc/cnn/00/cnn_0002   5   9           /.     .          *))         -    -   -    Anderson_Cooper          *        *   -
+
+bc/cnn/00/cnn_0002   5   0       Here    RB   (TOP(SINV(ADVP*)   -    -   -    Anderson_Cooper         *    (ARG1*)    -
+bc/cnn/00/cnn_0002   5   1         's   VBZ              (VP*)   be  01   4    Anderson_Cooper         *       (V*)    -
+bc/cnn/00/cnn_0002   5   2        CNN   NNP        (NP(NP(NP*    -    -   -    Anderson_Cooper      (ORG)   (ARG2*   (30
+bc/cnn/00/cnn_0002   5   3         's   POS                 *)   -    -   -    Anderson_Cooper         *         *     -
+bc/cnn/00/cnn_0002   5   4      Erica   NNP                 *    -    -   -    Anderson_Cooper  (PERSON*         *     -
+bc/cnn/00/cnn_0002   5   5       Hill   NNP                 *)   -    -   -    Anderson_Cooper         *)        *     -
+bc/cnn/00/cnn_0002   5   6         in    IN              (PP*    -    -   -    Anderson_Cooper         *         *     -
+bc/cnn/00/cnn_0002   5   7    Atlanta   NNP            (NP*)))   -    -   -    Anderson_Cooper      (GPE)        *)   30)
+bc/cnn/00/cnn_0002   5   8         /.     .                *))   -    -   -    Anderson_Cooper         *         *     -
+
+bc/cnn/00/cnn_0002   5   0      Hey    UH   (TOP(FRAG(INTJ*)  -   -   -    Anderson_Cooper         *      -
+bc/cnn/00/cnn_0002   5   1    Erica   NNP              (NP*)  -   -   -    Anderson_Cooper   (PERSON)   (30)
+bc/cnn/00/cnn_0002   5   2       /.     .                *))  -   -   -    Anderson_Cooper         *      -
+
+bc/cnn/00/cnn_0002   5    0           Hey    UH    (TOP(S(INTJ*)        -    -   -    Erica_Hill           *    (ARGM-DIS*)              *            *      *       -
+bc/cnn/00/cnn_0002   5    1      Anderson   NNP            (NP*)        -    -   -    Erica_Hill     (PERSON)   (ARGM-DIS*)              *            *      *    (222)
+bc/cnn/00/cnn_0002   5    2            we   PRP            (NP*)        -    -   -    Erica_Hill           *        (ARG0*)              *            *      *       -
+bc/cnn/00/cnn_0002   5    3         begin   VBP            (VP*      begin  01   2    Erica_Hill           *           (V*)              *            *      *       -
+bc/cnn/00/cnn_0002   5    4       tonight    NN            (NP*)        -    -   -    Erica_Hill       (TIME)   (ARGM-TMP*)              *            *      *       -
+bc/cnn/00/cnn_0002   5    5            in    IN            (PP*         -    -   -    Erica_Hill           *    (ARGM-LOC*               *            *      *       -
+bc/cnn/00/cnn_0002   5    6     Jacksboro   NNP      (NP(NP(NP*)        -    -   -    Erica_Hill        (GPE)            *      (ARGM-LOC*            *      *       -
+bc/cnn/00/cnn_0002   5    7     Tennessee   NNP           (NP*))        -    -   -    Erica_Hill        (GPE)            *               *)           *      *       -
+bc/cnn/00/cnn_0002   5    8         where   WRB   (SBAR(WHADVP*)        -    -   -    Erica_Hill           *             *    (R-ARGM-LOC*)           *      *       -
+bc/cnn/00/cnn_0002   5    9        police   NNS          (S(NP*)    police   -   -    Erica_Hill           *             *          (ARG0*)           *      *       -
+bc/cnn/00/cnn_0002   5   10           say   VBP            (VP*        say  01   1    Erica_Hill           *             *             (V*)           *      *       -
+bc/cnn/00/cnn_0002   5   11             a    DT     (SBAR(S(NP*         -    -   -    Erica_Hill           *             *          (ARG1*       (ARG0*      *       -
+bc/cnn/00/cnn_0002   5   12       student    NN               *)   student   -   1    Erica_Hill           *             *               *            *)     *       -
+bc/cnn/00/cnn_0002   5   13        opened   VBD            (VP*       open  01   6    Erica_Hill           *             *               *          (V*)     *       -
+bc/cnn/00/cnn_0002   5   14          fire    NN            (NP*)      fire  01   4    Erica_Hill           *             *               *       (ARG1*)   (V*)      -
+bc/cnn/00/cnn_0002   5   15            on    IN            (PP*         -    -   -    Erica_Hill           *             *               *       (ARG3*      *       -
+bc/cnn/00/cnn_0002   5   16             a    DT         (NP(NP*         -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   17     principal    NN               *)        -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   18           and    CC               *         -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   19           two    CD            (NP*         -    -   -    Erica_Hill   (CARDINAL)            *               *            *      *    (189
+bc/cnn/00/cnn_0002   5   20     assistant    JJ               *         -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   21    principals   NNS             *)))        -    -   -    Erica_Hill           *             *               *            *)     *     189)
+bc/cnn/00/cnn_0002   5   22            in    IN            (PP*         -    -   -    Erica_Hill           *             *               *   (ARGM-LOC*      *       -
+bc/cnn/00/cnn_0002   5   23            an    DT         (NP(NP*         -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   24        office    NN               *)    office   -   1    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   25            in    IN            (PP*         -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   26             a    DT            (NP*         -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   27          high    JJ               *         -    -   -    Erica_Hill           *             *               *            *      *       -
+bc/cnn/00/cnn_0002   5   28        school    NN   *)))))))))))))    school   -   2    Erica_Hill           *             *)              *)           *)     *       -
+bc/cnn/00/cnn_0002   5   29            /.     .              *))        -    -   -    Erica_Hill           *             *               *            *      *       -
+
+bc/cnn/00/cnn_0002   5    0           One    CD   (TOP(S(S(NP(NP*)      -    -   -    Erica_Hill   (CARDINAL)     *   (ARG1*             *      -
+bc/cnn/00/cnn_0002   5    1            of    IN              (PP*       -    -   -    Erica_Hill           *      *        *             *      -
+bc/cnn/00/cnn_0002   5    2           the    DT              (NP*       -    -   -    Erica_Hill           *      *        *             *   (189
+bc/cnn/00/cnn_0002   5    3     assistant    JJ                 *       -    -   -    Erica_Hill           *      *        *             *      -
+bc/cnn/00/cnn_0002   5    4    principals   NNS               *)))      -    -   -    Erica_Hill           *      *        *)            *    189)
+bc/cnn/00/cnn_0002   5    5           was   VBD              (VP*       be  03   -    Erica_Hill           *    (V*)       *             *      -
+bc/cnn/00/cnn_0002   5    6        killed   VBN            (VP*)))    kill  01   1    Erica_Hill           *      *      (V*)            *      -
+bc/cnn/00/cnn_0002   5    7             ,     ,                 *       -    -   -    Erica_Hill           *      *        *             *      -
+bc/cnn/00/cnn_0002   5    8       another    DT            (S(NP*)      -    -   -    Erica_Hill           *      *        *        (ARG1*)     -
+bc/cnn/00/cnn_0002   5    9    critically    RB            (ADVP*)      -    -   -    Erica_Hill           *      *        *    (ARGM-MNR*)     -
+bc/cnn/00/cnn_0002   5   10       wounded   VBN             (VP*))   wound  01   -    Erica_Hill           *      *        *           (V*)     -
+bc/cnn/00/cnn_0002   5   11            /.     .                *))      -    -   -    Erica_Hill           *      *        *             *      -
+
+bc/cnn/00/cnn_0002   5    0            In    IN  (TOP(S(PP*            -    -   -    Erica_Hill       *             *      *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   5    1          Iraq   NNP       (NP*))           -    -   -    Erica_Hill    (GPE)            *      *            *)   (170)
+bc/cnn/00/cnn_0002   5    2           the    DT     (NP(NP*            -    -   -    Erica_Hill       *             *      *       (ARG1*       -
+bc/cnn/00/cnn_0002   5    3       foreign    JJ           *            -    -   -    Erica_Hill       *    (ARGM-ADJ*)     *            *       -
+bc/cnn/00/cnn_0002   5    4      military    JJ           *            -    -   -    Erica_Hill       *        (ARG0*)     *            *       -
+bc/cnn/00/cnn_0002   5    5    occupation    NN           *)   occupation  01   2    Erica_Hill       *           (V*)     *            *       -
+bc/cnn/00/cnn_0002   5    6            of    IN        (PP*            -    -   -    Erica_Hill       *        (ARG1*      *            *       -
+bc/cnn/00/cnn_0002   5    7          that    DT        (NP*            -    -   -    Erica_Hill       *             *      *            *    (170
+bc/cnn/00/cnn_0002   5    8       country    NN         *)))      country   -   3    Erica_Hill       *             *)     *            *)    170)
+bc/cnn/00/cnn_0002   5    9            is   VBZ        (VP*            be  03   -    Erica_Hill       *             *    (V*)           *       -
+bc/cnn/00/cnn_0002   5   10    authorized   VBN        (VP*     authorize  01   -    Erica_Hill       *             *      *          (V*)    (39)
+bc/cnn/00/cnn_0002   5   11            at    IN   (PP(ADVP*            -    -   -    Erica_Hill       *             *      *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   5   12         least   JJS           *)           -    -   -    Erica_Hill       *             *      *            *       -
+bc/cnn/00/cnn_0002   5   13       through    IN           *            -    -   -    Erica_Hill       *             *      *            *       -
+bc/cnn/00/cnn_0002   5   14      December   NNP     (NP(NP*)           -    -   -    Erica_Hill  (DATE*             *      *            *       -
+bc/cnn/00/cnn_0002   5   15            of    IN        (PP*            -    -   -    Erica_Hill       *             *      *            *       -
+bc/cnn/00/cnn_0002   5   16           two    CD        (NP*            -    -   -    Erica_Hill       *             *      *            *       -
+bc/cnn/00/cnn_0002   5   17      thousand    CD           *            -    -   -    Erica_Hill       *             *      *            *       -
+bc/cnn/00/cnn_0002   5   18           six    CD      *))))))           -    -   -    Erica_Hill       *)            *      *            *)      -
+bc/cnn/00/cnn_0002   5   19            /.     .          *))           -    -   -    Erica_Hill       *             *      *            *       -
+
+bc/cnn/00/cnn_0002   5    0         That     DT             (TOP(S(NP*)        -    -   -    Erica_Hill           *    (ARG1*)            *        *           *             *    (39)
+bc/cnn/00/cnn_0002   5    1           's    VBZ                   (VP*         be  01   1    Erica_Hill           *       (V*)            *        *           *             *      -
+bc/cnn/00/cnn_0002   5    2      because     IN                 (SBAR*         -    -   -    Erica_Hill           *    (ARG2*             *        *           *             *      -
+bc/cnn/00/cnn_0002   5    3        today     NN                 (S(NP*)     today   -   2    Erica_Hill       (DATE)        *    (ARGM-TMP*)       *           *             *    (16)
+bc/cnn/00/cnn_0002   5    4          the     DT                   (NP*         -    -   -    Erica_Hill       (ORG*         *        (ARG0*   (ARG0*           *             *      -
+bc/cnn/00/cnn_0002   5    5           UN    NNP                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5    6     Security    NNP                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5    7      Council    NNP                      *)        -    -   -    Erica_Hill           *)        *             *)       *)          *             *      -
+bc/cnn/00/cnn_0002   5    8        voted    VBD                   (VP*       vote  01   1    Erica_Hill           *         *           (V*)       *           *             *      -
+bc/cnn/00/cnn_0002   5    9           to     TO                 (S(VP*         -    -   -    Erica_Hill           *         *        (ARG1*        *           *             *      -
+bc/cnn/00/cnn_0002   5   10       extend     VB                   (VP*     extend  01   2    Erica_Hill           *         *             *      (V*)          *             *    (70)
+bc/cnn/00/cnn_0002   5   11          the     DT                (NP(NP*         -    -   -    Erica_Hill           *         *             *   (ARG1*      (ARG0*             *      -
+bc/cnn/00/cnn_0002   5   12      mandate     NN                      *)   mandate   -   1    Erica_Hill           *         *             *        *           *)            *      -
+bc/cnn/00/cnn_0002   5   13         that    WDT            (SBAR(WHNP*)        -    -   -    Erica_Hill           *         *             *        *    (R-ARG0*)            *      -
+bc/cnn/00/cnn_0002   5   14       allows    VBZ                 (S(VP*      allow  01   1    Erica_Hill           *         *             *        *         (V*)            *      -
+bc/cnn/00/cnn_0002   5   15         some     DT           (S(NP(NP(QP*         -    -   -    Erica_Hill  (CARDINAL*         *             *        *      (ARG1*        (ARG1*      -
+bc/cnn/00/cnn_0002   5   16          one     CD                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   17      hundred     CD                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   18        fifty     CD                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   19           -    HYPH                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   20        seven     CD                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   21     thousand     CD                      *)        -    -   -    Erica_Hill           *)        *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   22           US    NNP                      *         -    -   -    Erica_Hill        (GPE)        *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   23       troops    NNS                      *)     troop   -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   24       twenty     CD             (NP(NP(QP*         -    -   -    Erica_Hill  (CARDINAL*         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   25           -    HYPH                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   26          two     CD                      *         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   27     thousand     CD                      *)        -    -   -    Erica_Hill           *)        *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   28       troops    NNS                      *)     troop   -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   29         from     IN                   (PP*         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   30        other     JJ                   (NP*         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   31    countries    NNS                   *))))   country   -   3    Erica_Hill           *         *             *        *           *             *)     -
+bc/cnn/00/cnn_0002   5   32           to     TO                   (VP*         -    -   -    Erica_Hill           *         *             *        *           *             *      -
+bc/cnn/00/cnn_0002   5   33      operate     VB                   (VP*    operate  01   1    Erica_Hill           *         *             *        *           *           (V*)     -
+bc/cnn/00/cnn_0002   5   34        there     RB   (ADVP*)))))))))))))))        -    -   -    Erica_Hill           *         *)            *)       *)          *)   (ARGM-LOC*)     -
+bc/cnn/00/cnn_0002   5   35           /.      .                     *))        -    -   -    Erica_Hill           *         *             *        *           *             *      -
+
+bc/cnn/00/cnn_0002   5   0            The    DT  (TOP(S(NP*            -    -   -    Erica_Hill      *   (ARG0*       -
+bc/cnn/00/cnn_0002   5   1           Iraq   NNP           *            -    -   -    Erica_Hill   (GPE)       *    (170)
+bc/cnn/00/cnn_0002   5   2    provisional    JJ           *            -    -   -    Erica_Hill      *        *       -
+bc/cnn/00/cnn_0002   5   3     government    NN           *)   government   -   1    Erica_Hill      *        *)      -
+bc/cnn/00/cnn_0002   5   4      requested   VBD        (VP*       request  01   1    Erica_Hill      *      (V*)      -
+bc/cnn/00/cnn_0002   5   5            the    DT        (NP*            -    -   -    Erica_Hill      *   (ARG1*     (70
+bc/cnn/00/cnn_0002   5   6      extension    NN          *))           -    -   -    Erica_Hill      *        *)     70)
+bc/cnn/00/cnn_0002   5   7             /.     .          *))           -    -   -    Erica_Hill      *        *       -
+
+bc/cnn/00/cnn_0002   5    0            In    IN     (TOP(S(PP*         -    -   -    Erica_Hill      *         *   (ARGM-LOC*        *         *   -
+bc/cnn/00/cnn_0002   5    1     Australia   NNP          (NP*))        -    -   -    Erica_Hill   (GPE)        *            *)       *         *   -
+bc/cnn/00/cnn_0002   5    2    supporters   NNS        (NP(NP*)        -    -   -    Erica_Hill      *         *       (ARG0*        *         *   -
+bc/cnn/00/cnn_0002   5    3            of    IN           (PP*         -    -   -    Erica_Hill      *         *            *        *         *   -
+bc/cnn/00/cnn_0002   5    4       alleged   VBN           (NP*     allege  01   -    Erica_Hill      *       (V*)           *        *         *   -
+bc/cnn/00/cnn_0002   5    5        terror    NN            *)))        -    -   -    Erica_Hill      *    (ARG1*)           *)       *         *   -
+bc/cnn/00/cnn_0002   5    6       suspect   VBP           (VP*    suspect  01   -    Erica_Hill      *         *          (V*)       *         *   -
+bc/cnn/00/cnn_0002   5    7          with    IN           (PP*         -    -   -    Erica_Hill      *         *   (ARGM-ADV*        *         *   -
+bc/cnn/00/cnn_0002   5    8            TV   NNP         (S(NP*         -    -   -    Erica_Hill      *         *            *   (ARG0*         *   -
+bc/cnn/00/cnn_0002   5    9     reporters   NNS              *)        -    -   -    Erica_Hill      *         *            *        *)        *   -
+bc/cnn/00/cnn_0002   5   10      shouting   VBG           (VP*      shout  01   1    Erica_Hill      *         *            *      (V*)        *   -
+bc/cnn/00/cnn_0002   5   11          stay    VB         (S(VP*       stay  01   -    Erica_Hill      *         *            *   (ARG1*       (V*)  -
+bc/cnn/00/cnn_0002   5   12          away    RB   (ADVP*)))))))        -    -   -    Erica_Hill      *         *            *)       *)   (ARG3*)  -
+bc/cnn/00/cnn_0002   5   13            /.     .             *))        -    -   -    Erica_Hill      *         *            *        *         *   -
+
+bc/cnn/00/cnn_0002   5    0     Australian     JJ    (TOP(S(NP*           -    -   -    Erica_Hill   (NORP)  (ARG0*         *             *    (110
+bc/cnn/00/cnn_0002   5    1    authorities    NNS             *)   authority   -   3    Erica_Hill       *        *)        *             *     110)
+bc/cnn/00/cnn_0002   5    2            say    VBP          (VP*          say  01   1    Erica_Hill       *      (V*)        *             *       -
+bc/cnn/00/cnn_0002   5    3           they    PRP   (SBAR(S(NP*)          -    -   -    Erica_Hill       *   (ARG1*    (ARG0*)            *    (110)
+bc/cnn/00/cnn_0002   5    4      prevented    VBD          (VP*      prevent  01   1    Erica_Hill       *        *       (V*)            *       -
+bc/cnn/00/cnn_0002   5    5              a     DT          (NP*           -    -   -    Erica_Hill       *        *    (ARG1*             *       -
+bc/cnn/00/cnn_0002   5    6      terrorist     JJ             *           -    -   -    Erica_Hill       *        *         *             *       -
+bc/cnn/00/cnn_0002   5    7         attack     NN             *)      attack   -   -    Erica_Hill       *        *         *)            *       -
+bc/cnn/00/cnn_0002   5    8        through     IN          (PP*           -    -   -    Erica_Hill       *        *    (ARG3*             *       -
+bc/cnn/00/cnn_0002   5    9          their   PRP$          (NP*           -    -   -    Erica_Hill       *        *         *        (ARG0*)   (110)
+bc/cnn/00/cnn_0002   5   10     undercover     JJ             *           -    -   -    Erica_Hill       *        *         *    (ARGM-MNR*)      -
+bc/cnn/00/cnn_0002   5   11           work     NN        *))))))        work  01   1    Erica_Hill       *        *)        *)          (V*)      -
+bc/cnn/00/cnn_0002   5   12             /.      .            *))          -    -   -    Erica_Hill       *        *         *             *       -
+
+bc/cnn/00/cnn_0002   5   0    Seventeen    JJ  (TOP(S(NP*        -    -   -    Erica_Hill   (CARDINAL)     *   (ARG1*   -
+bc/cnn/00/cnn_0002   5   1       people   NNS           *)   people   -   1    Erica_Hill           *      *        *)  -
+bc/cnn/00/cnn_0002   5   2         were   VBD        (VP*        be  03   -    Erica_Hill           *    (V*)       *   -
+bc/cnn/00/cnn_0002   5   3     arrested   VBN       (VP*))   arrest  01   1    Erica_Hill           *      *      (V*)  -
+bc/cnn/00/cnn_0002   5   4           /.     .          *))       -    -   -    Erica_Hill           *      *        *   -
+
+bc/cnn/00/cnn_0002   5    0    Officials   NNS    (TOP(S(NP*)   official   -   1    Erica_Hill  *    (ARG0*)            *         *             *      *        *    (180)
+bc/cnn/00/cnn_0002   5    1         said   VBD          (VP*         say  01   1    Erica_Hill  *       (V*)            *         *             *      *        *       -
+bc/cnn/00/cnn_0002   5    2         they   PRP   (SBAR(S(NP*)         -    -   -    Erica_Hill  *    (ARG1*        (ARG1*)        *             *      *        *    (180)
+bc/cnn/00/cnn_0002   5    3        moved   VBD          (VP*        move  01   7    Erica_Hill  *         *           (V*)        *             *      *        *       -
+bc/cnn/00/cnn_0002   5    4           in    RB        (ADVP*)         -    -   -    Erica_Hill  *         *    (ARGM-DIR*)        *             *      *        *       -
+bc/cnn/00/cnn_0002   5    5      because    IN        (SBAR*          -    -   -    Erica_Hill  *         *    (ARGM-CAU*         *             *      *        *       -
+bc/cnn/00/cnn_0002   5    6          the    DT        (S(NP*          -    -   -    Erica_Hill  *         *             *         *             *      *   (ARG0*       -
+bc/cnn/00/cnn_0002   5    7      alleged   VBN             *      allege  01   -    Erica_Hill  *         *             *       (V*)   (ARGM-PRD*)     *        *       -
+bc/cnn/00/cnn_0002   5    8         plot    NN             *)       plot  01   1    Erica_Hill  *         *             *    (ARG1*)          (V*)     *        *)      -
+bc/cnn/00/cnn_0002   5    9          had   VBD          (VP*        have  01   -    Erica_Hill  *         *             *         *             *    (V*)       *       -
+bc/cnn/00/cnn_0002   5   10       passed   VBN          (VP*        pass  04   2    Erica_Hill  *         *             *         *             *      *      (V*)      -
+bc/cnn/00/cnn_0002   5   11          the    DT          (NP*          -    -   -    Erica_Hill  *         *             *         *             *      *   (ARG1*       -
+bc/cnn/00/cnn_0002   5   12     planning    NN             *        plan   -   -    Erica_Hill  *         *             *         *             *      *        *       -
+bc/cnn/00/cnn_0002   5   13        stage    NN     *)))))))))      stage   -   -    Erica_Hill  *         *)            *)        *             *      *        *)      -
+bc/cnn/00/cnn_0002   5   14           /.     .            *))         -    -   -    Erica_Hill  *         *             *         *             *      *        *       -
+
+bc/cnn/00/cnn_0002   5    0     Meantime     RB   (TOP(FRAG(ADVP*)         -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5    1            a     DT           (NP(NP*          -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5    2         very     RB            (ADJP*          -    -   -    Erica_Hill           *   (ARGM-ADJ*           *               *             *      -
+bc/cnn/00/cnn_0002   5    3    different     JJ                 *)         -    -   -    Erica_Hill           *            *)          *               *             *      -
+bc/cnn/00/cnn_0002   5    4        crowd     NN                 *       crowd   -   -    Erica_Hill           *       (ARG0*)          *               *             *      -
+bc/cnn/00/cnn_0002   5    5     reaction     NN                 *)   reaction  01   2    Erica_Hill           *          (V*)          *               *             *      -
+bc/cnn/00/cnn_0002   5    6           in     IN              (PP*          -    -   -    Erica_Hill           *   (ARGM-LOC*           *               *             *      -
+bc/cnn/00/cnn_0002   5    7        Salem    NNP        (NP(NP(NP*)         -    -   -    Erica_Hill        (GPE)           *           *      (ARGM-LOC*             *      -
+bc/cnn/00/cnn_0002   5    8       Oregon    NNP             (NP*))         -    -   -    Erica_Hill        (GPE)           *           *               *)            *      -
+bc/cnn/00/cnn_0002   5    9        where    WRB     (SBAR(WHADVP*)         -    -   -    Erica_Hill           *            *           *    (R-ARGM-LOC*)            *      -
+bc/cnn/00/cnn_0002   5   10          two     CD      (S(NP(NP(NP*          -    -   -    Erica_Hill   (CARDINAL)           *      (ARG0*          (ARG0*             *     (7
+bc/cnn/00/cnn_0002   5   11      couples    NNS                 *)     couple   -   2    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   12           in     IN              (PP*          -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   13           -    HYPH                 *          -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   14         laws    NNS            (NP*)))         -    -   -    Erica_Hill           *            *           *)              *             *      -
+bc/cnn/00/cnn_0002   5   15          who     WP       (SBAR(WHNP*)         -    -   -    Erica_Hill           *            *    (R-ARG0*)              *             *      -
+bc/cnn/00/cnn_0002   5   16     invested    VBD            (S(VP*      invest  01   1    Erica_Hill           *            *         (V*)              *             *      -
+bc/cnn/00/cnn_0002   5   17        forty     NN              (NP*          -    -   -    Erica_Hill     (MONEY*            *      (ARG1*               *             *      -
+bc/cnn/00/cnn_0002   5   18      dollars    NNS                 *)         -    -   -    Erica_Hill           *)           *           *)              *             *      -
+bc/cnn/00/cnn_0002   5   19           in     IN              (PP*          -    -   -    Erica_Hill           *            *      (ARG2*               *             *      -
+bc/cnn/00/cnn_0002   5   20      lottery     NN              (NP*          -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   21      tickets    NNS            *))))))     ticket   -   -    Erica_Hill           *            *           *)              *)            *      7)
+bc/cnn/00/cnn_0002   5   22          had    VBD              (VP*        have  04   6    Erica_Hill           *            *           *             (V*)            *      -
+bc/cnn/00/cnn_0002   5   23        their   PRP$            (S(NP*          -    -   -    Erica_Hill           *            *           *          (ARG1*        (ARG1*     (7)
+bc/cnn/00/cnn_0002   5   24        claim     NN                 *)      claim   -   1    Erica_Hill           *            *           *               *             *)     -
+bc/cnn/00/cnn_0002   5   25    certified    VBN              (VP*     certify  01   1    Erica_Hill           *            *           *               *           (V*)     -
+bc/cnn/00/cnn_0002   5   26        today     NN              (NP*)      today   -   2    Erica_Hill       (DATE)           *           *               *    (ARGM-TMP*)   (16)
+bc/cnn/00/cnn_0002   5   27           in     IN              (PP*          -    -   -    Erica_Hill           *            *           *               *    (ARGM-LOC*      -
+bc/cnn/00/cnn_0002   5   28          the     DT           (NP(NP*          -    -   -    Erica_Hill           *            *           *               *             *     (6
+bc/cnn/00/cnn_0002   5   29       second     RB            (ADJP*          -    -   -    Erica_Hill    (ORDINAL)           *           *               *             *      -
+bc/cnn/00/cnn_0002   5   30      biggest    JJS                 *)         -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   31       payout     NN                 *)         -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   32           in     IN              (PP*          -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   33           US    NNP          (NP(NML*          -    -   -    Erica_Hill        (GPE)           *           *               *             *      -
+bc/cnn/00/cnn_0002   5   34      lottery     NN                 *)         -    -   -    Erica_Hill           *            *           *               *             *      -
+bc/cnn/00/cnn_0002   5   35      history     NN      *))))))))))))    history   -   1    Erica_Hill           *            *)          *               *)            *)     6)
+bc/cnn/00/cnn_0002   5   36           /.      .                *))         -    -   -    Erica_Hill           *            *           *               *             *      -
+
+bc/cnn/00/cnn_0002   5   0       Three    CD  (TOP(NP(QP*   -   -   -    Erica_Hill  (MONEY*   (6
+bc/cnn/00/cnn_0002   5   1     hundred    CD            *   -   -   -    Erica_Hill        *    -
+bc/cnn/00/cnn_0002   5   2       forty    CD            *   -   -   -    Erica_Hill        *    -
+bc/cnn/00/cnn_0002   5   3     million    CD            *)  -   -   -    Erica_Hill        *    -
+bc/cnn/00/cnn_0002   5   4    smackers   NNS            *   -   -   -    Erica_Hill        *    -
+bc/cnn/00/cnn_0002   5   5          /.     .           *))  -   -   -    Erica_Hill        *)   6)
+
+bc/cnn/00/cnn_0002   5    0      Talk   VB         (TOP(VP*      talk  01   1    Erica_Hill  *      (V*)           *             *   -
+bc/cnn/00/cnn_0002   5    1     about   IN             (PP*        -    -   -    Erica_Hill  *   (ARG1*            *             *   -
+bc/cnn/00/cnn_0002   5    2         a   DT          (NP(NP*        -    -   -    Erica_Hill  *        *            *             *   -
+bc/cnn/00/cnn_0002   5    3    little   JJ                *        -    -   -    Erica_Hill  *        *            *             *   -
+bc/cnn/00/cnn_0002   5    4       bit   NN                *)     bite   -   -    Erica_Hill  *        *            *             *   -
+bc/cnn/00/cnn_0002   5    5        uh   UH           (INTJ*)       -    -   -    Erica_Hill  *        *            *             *   -
+bc/cnn/00/cnn_0002   5    6        of   IN             (PP*        -    -   -    Erica_Hill  *        *            *             *   -
+bc/cnn/00/cnn_0002   5    7      love   NN          (NP(NP*)     love  01   1    Erica_Hill  *        *          (V*)       (ARG1*)  -
+bc/cnn/00/cnn_0002   5    8        to   TO      (SBAR(S(VP*        -    -   -    Erica_Hill  *        *   (ARGM-ADJ*             *   -
+bc/cnn/00/cnn_0002   5    9     share   VB             (VP*     share  01   3    Erica_Hill  *        *            *           (V*)  -
+bc/cnn/00/cnn_0002   5   10    around   IN             (PP*        -    -   -    Erica_Hill  *        *            *        (ARG2*   -
+bc/cnn/00/cnn_0002   5   11       the   DT             (NP*        -    -   -    Erica_Hill  *        *            *             *   -
+bc/cnn/00/cnn_0002   5   12    family   NN               *))   family   -   1    Erica_Hill  *        *            *             *)  -
+bc/cnn/00/cnn_0002   5   13     there   RB   (ADVP*)))))))))       -    -   -    Erica_Hill  *        *)           *)   (ARGM-LOC*)  -
+bc/cnn/00/cnn_0002   5   14        /.    .               *))       -    -   -    Erica_Hill  *        *            *             *   -
+
+bc/cnn/00/cnn_0002   5    0         But    CC     (TOP(S*       -    -   -    Erica_Hill         *    (ARGM-DIS*)     *      *         *       -
+bc/cnn/00/cnn_0002   5    1    Anderson   NNP        (NP*)      -    -   -    Erica_Hill   (PERSON)   (ARGM-DIS*)     *      *         *    (222)
+bc/cnn/00/cnn_0002   5    2      sounds   VBZ        (VP*    sound  01   1    Erica_Hill         *           (V*)     *      *         *       -
+bc/cnn/00/cnn_0002   5    3        like    IN      (SBAR*       -    -   -    Erica_Hill         *        (ARG2*      *      *         *       -
+bc/cnn/00/cnn_0002   5    4        they   PRP      (S(NP*)      -    -   -    Erica_Hill         *             *      *      *    (ARG0*)     (7)
+bc/cnn/00/cnn_0002   5    5         're   VBP        (VP*       be  03   -    Erica_Hill         *             *    (V*)     *         *       -
+bc/cnn/00/cnn_0002   5    6       going   VBG        (VP*       go  04   7    Erica_Hill         *             *      *    (V*)        *       -
+bc/cnn/00/cnn_0002   5    7          to    TO      (S(VP*       -    -   -    Erica_Hill         *             *      *      *         *       -
+bc/cnn/00/cnn_0002   5    8        lead    VB        (VP*     lead  02   6    Erica_Hill         *             *      *      *       (V*)      -
+bc/cnn/00/cnn_0002   5    9           a    DT        (NP*       -    -   -    Erica_Hill         *             *      *      *    (ARG1*       -
+bc/cnn/00/cnn_0002   5   10        very    RB      (ADJP*       -    -   -    Erica_Hill         *             *      *      *         *       -
+bc/cnn/00/cnn_0002   5   11      normal    JJ           *)      -    -   -    Erica_Hill         *             *      *      *         *       -
+bc/cnn/00/cnn_0002   5   12        life    NN   *)))))))))    life   -   2    Erica_Hill         *             *)     *      *         *)      -
+bc/cnn/00/cnn_0002   5   13          /.     .          *))      -    -   -    Erica_Hill         *             *      *      *         *       -
+
+bc/cnn/00/cnn_0002   5    0         They   PRP         (TOP(S(NP*)        -    -   -    Erica_Hill       *      *    (ARG0*)            *    (7)
+bc/cnn/00/cnn_0002   5    1          're   VBP               (VP*         be  03   -    Erica_Hill       *    (V*)        *             *     -
+bc/cnn/00/cnn_0002   5    2       saying   VBG               (VP*        say  01   1    Erica_Hill       *      *       (V*)            *     -
+bc/cnn/00/cnn_0002   5    3          may    MD             (S(VP*         -    -   -    Erica_Hill       *      *    (ARG1*    (ARGM-MOD*)    -
+bc/cnn/00/cnn_0002   5    4          not    RB                  *         -    -   -    Erica_Hill       *      *         *    (ARGM-NEG*)    -
+bc/cnn/00/cnn_0002   5    5         even    RB             (ADVP*)        -    -   -    Erica_Hill       *      *         *    (ARGM-ADV*)    -
+bc/cnn/00/cnn_0002   5    6          get    VB               (VP*        get  01   1    Erica_Hill       *      *         *           (V*)    -
+bc/cnn/00/cnn_0002   5    7         that    DT  (NP(NP(ADJP(ADVP*         -    -   -    Erica_Hill       *      *         *        (ARG1*     -
+bc/cnn/00/cnn_0002   5    8         many    RB                  *)        -    -   -    Erica_Hill       *      *         *             *     -
+bc/cnn/00/cnn_0002   5    9         more   JJR                  *)        -    -   -    Erica_Hill       *      *         *             *     -
+bc/cnn/00/cnn_0002   5   10     presents   NNS                  *)   present   -   2    Erica_Hill       *      *         *             *     -
+bc/cnn/00/cnn_0002   5   11        under    IN               (PP*         -    -   -    Erica_Hill       *      *         *             *     -
+bc/cnn/00/cnn_0002   5   12          the    DT               (NP*         -    -   -    Erica_Hill       *      *         *             *     -
+bc/cnn/00/cnn_0002   5   13         tree    NN                *)))      tree   -   -    Erica_Hill       *      *         *             *)    -
+bc/cnn/00/cnn_0002   5   14         this    DT               (NP*         -    -   -    Erica_Hill  (DATE*      *         *    (ARGM-TMP*     -
+bc/cnn/00/cnn_0002   5   15    Christmas   NNP             *))))))        -    -   -    Erica_Hill       *)     *         *)            *)    -
+bc/cnn/00/cnn_0002   5   16           /.     .                 *))        -    -   -    Erica_Hill       *      *         *             *     -
+
+bc/cnn/00/cnn_0002   5   0     Wow    UH   (TOP(S(INTJ*)     -    -   -    Anderson_Cooper  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   5   1     man    UH         (INTJ*)     -    -   -    Anderson_Cooper  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   5   2       I   PRP           (NP*)     -    -   -    Anderson_Cooper  *        (ARG0*)   (222)
+bc/cnn/00/cnn_0002   5   3    hope   VBP           (VP*    hope  01   1    Anderson_Cooper  *           (V*)      -
+bc/cnn/00/cnn_0002   5   4      so    RB        (ADVP*))     -    -   -    Anderson_Cooper  *        (ARG1*)      -
+bc/cnn/00/cnn_0002   5   5      /.     .             *))     -    -   -    Anderson_Cooper  *             *       -
+
+bc/cnn/00/cnn_0002   5    0        You   PRP   (TOP(S(PRN(S(NP*)       -    -   -    Anderson_Cooper  *    (ARG0*)       *             *   -
+bc/cnn/00/cnn_0002   5    1       know   VBP             (VP*)))     know  01   1    Anderson_Cooper  *       (V*)       *             *   -
+bc/cnn/00/cnn_0002   5    2       hear   VBP               (VP*      hear  01   1    Anderson_Cooper  *         *      (V*)            *   -
+bc/cnn/00/cnn_0002   5    3        all   PDT            (NP(NP*        -    -   -    Anderson_Cooper  *         *   (ARG1*             *   -
+bc/cnn/00/cnn_0002   5    4      these    DT                  *        -    -   -    Anderson_Cooper  *         *        *             *   -
+bc/cnn/00/cnn_0002   5    5     horror    NN                  *        -    -   -    Anderson_Cooper  *         *        *             *   -
+bc/cnn/00/cnn_0002   5    6    stories   NNS                  *)    story   -   1    Anderson_Cooper  *         *        *             *   -
+bc/cnn/00/cnn_0002   5    7      about    IN               (PP*        -    -   -    Anderson_Cooper  *         *        *             *   -
+bc/cnn/00/cnn_0002   5    8        how   WRB      (SBAR(WHADVP*)       -    -   -    Anderson_Cooper  *         *        *    (ARGM-MNR*)  -
+bc/cnn/00/cnn_0002   5    9     people   NNS             (S(NP*)   people   -   1    Anderson_Cooper  *         *        *        (ARG0*)  -
+bc/cnn/00/cnn_0002   5   10      react   VBP          (VP*))))))    react  01   1    Anderson_Cooper  *         *        *)          (V*)  -
+bc/cnn/00/cnn_0002   5   11         /.     .                 *))       -    -   -    Anderson_Cooper  *         *        *             *   -
+
+bc/cnn/00/cnn_0002   5    0          and     CC       (TOP(S*           -    -   -    Anderson_Cooper  *        *             *         *             *     -
+bc/cnn/00/cnn_0002   5    1          let     VB          (VP*          let  01   1    Anderson_Cooper  *      (V*)            *         *             *     -
+bc/cnn/00/cnn_0002   5    2           's    PRP        (S(NP*)          -    -   -    Anderson_Cooper  *   (ARG1*        (ARG0*)        *        (ARG0*)    -
+bc/cnn/00/cnn_0002   5    3         just     RB        (ADVP*)          -    -   -    Anderson_Cooper  *        *    (ARGM-ADV*)        *    (ARGM-ADV*)    -
+bc/cnn/00/cnn_0002   5    4         hope     VB       (VP(VP*         hope  01   1    Anderson_Cooper  *        *           (V*)        *             *     -
+bc/cnn/00/cnn_0002   5    5         they    PRP   (SBAR(S(NP*)          -    -   -    Anderson_Cooper  *        *        (ARG1*    (ARG0*)            *    (7)
+bc/cnn/00/cnn_0002   5    6         sock    VBD          (VP*         sock  02   -    Anderson_Cooper  *        *             *       (V*)            *     -
+bc/cnn/00/cnn_0002   5    7           it    PRP          (NP*)          -    -   -    Anderson_Cooper  *        *             *    (ARG1*)            *    (6)
+bc/cnn/00/cnn_0002   5    8         away     RB    (ADVP*)))))          -    -   -    Anderson_Cooper  *        *             *)        *             *     -
+bc/cnn/00/cnn_0002   5    9          and     CC             *           -    -   -    Anderson_Cooper  *        *             *         *             *     -
+bc/cnn/00/cnn_0002   5   10         save     VB          (VP*         save  04   2    Anderson_Cooper  *        *             *         *           (V*)    -
+bc/cnn/00/cnn_0002   5   11           it    PRP          (NP*)          -    -   -    Anderson_Cooper  *        *             *         *        (ARG1*)   (6)
+bc/cnn/00/cnn_0002   5   12           up     RP         (PRT*)          -    -   -    Anderson_Cooper  *        *             *         *             *     -
+bc/cnn/00/cnn_0002   5   13          for     IN       (PP(PP*           -    -   -    Anderson_Cooper  *        *             *         *        (ARG2*     -
+bc/cnn/00/cnn_0002   5   14        their   PRP$          (NP*           -    -   -    Anderson_Cooper  *        *             *         *             *    (7)
+bc/cnn/00/cnn_0002   5   15         kids    NNS            *))         kid   -   -    Anderson_Cooper  *        *             *         *             *     -
+bc/cnn/00/cnn_0002   5   16           or     CC             *           -    -   -    Anderson_Cooper  *        *             *         *             *     -
+bc/cnn/00/cnn_0002   5   17    something     NN     (NP*))))))   something   -   4    Anderson_Cooper  *        *)            *         *             *)    -
+bc/cnn/00/cnn_0002   5   18           /.      .            *))          -    -   -    Anderson_Cooper  *        *             *         *             *     -
+
+bc/cnn/00/cnn_0002   5   0       I   PRP   (TOP(S(NP*)     -    -   -    Erica_Hill  *    (ARG0*)   (30)
+bc/cnn/00/cnn_0002   5   1    know   VBP         (VP*)   know  01   -    Erica_Hill  *       (V*)     -
+bc/cnn/00/cnn_0002   5   2      /.     .           *))     -    -   -    Erica_Hill  *         *      -
+
+bc/cnn/00/cnn_0002   5   0     Erica   NNP   (TOP(FRAG(NP*)       -    -   -    Anderson_Cooper   (PERSON)   (ARGM-DIS*)   (30)
+bc/cnn/00/cnn_0002   5   1    thanks   NNS            (NP*)   thanks  01   1    Anderson_Cooper         *           (V*)     -
+bc/cnn/00/cnn_0002   5   2        /.     .              *))       -    -   -    Anderson_Cooper         *             *      -
+
+bc/cnn/00/cnn_0002   5    0        We   NNP   (TOP(S(NP*)      -    -   -    Anderson_Cooper  *        (ARG0*)     -
+bc/cnn/00/cnn_0002   5    1       'll    MD         (VP*       -    -   -    Anderson_Cooper  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0002   5    2     check   VBP         (VP*    check  04   6    Anderson_Cooper  *           (V*)     -
+bc/cnn/00/cnn_0002   5    3        in    RP        (PRT*)      -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   5    4      with    IN         (PP*       -    -   -    Anderson_Cooper  *        (ARG1*      -
+bc/cnn/00/cnn_0002   5    5       you   PRP        (NP*))      -    -   -    Anderson_Cooper  *             *)   (30)
+bc/cnn/00/cnn_0002   5    6         a    DT    (ADVP(NP*       -    -   -    Anderson_Cooper  *    (ARGM-TMP*      -
+bc/cnn/00/cnn_0002   5    7    little    JJ            *       -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   5    8       bit    NN            *)    bite   -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   5    9     later   RBR          *)))      -    -   -    Anderson_Cooper  *             *)     -
+bc/cnn/00/cnn_0002   5   10        /.     .           *))      -    -   -    Anderson_Cooper  *             *      -

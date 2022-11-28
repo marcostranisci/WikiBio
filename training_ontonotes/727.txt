@@ -1,0 +1,730 @@
+bc/cnn/00/cnn_0006   8    0          The    DT  (TOP(S(NP*          -    -   -    Wolf_Blitzer         *        (ARG1*       -
+bc/cnn/00/cnn_0006   8    1        other    JJ           *          -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0006   8    2     argument    NN           *)   argument   -   1    Wolf_Blitzer         *             *)      -
+bc/cnn/00/cnn_0006   8    3           on    IN        (PP*          -    -   -    Wolf_Blitzer         *    (ARGM-DIS*       -
+bc/cnn/00/cnn_0006   8    4          the    DT        (NP*          -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0006   8    5        other    JJ           *          -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0006   8    6         hand    NN          *))       hand   -   7    Wolf_Blitzer         *             *)      -
+bc/cnn/00/cnn_0006   8    7           uh    UH      (INTJ*)         -    -   -    Wolf_Blitzer         *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   8    8      Senator   NNP        (NP*          -    -   -    Wolf_Blitzer         *    (ARGM-DIS*    (152
+bc/cnn/00/cnn_0006   8    9    Lieberman   NNP           *)         -    -   -    Wolf_Blitzer   (PERSON)            *)    152)
+bc/cnn/00/cnn_0006   8   10          you   PRP        (NP*)         -    -   -    Wolf_Blitzer         *        (ARG0*)   (152)
+bc/cnn/00/cnn_0006   8   11         hear   VBP        (VP*        hear  01   1    Wolf_Blitzer         *           (V*)      -
+bc/cnn/00/cnn_0006   8   12         from    IN        (PP*          -    -   -    Wolf_Blitzer         *        (ARG2*       -
+bc/cnn/00/cnn_0006   8   13      Senator   NNP     (NP(NP*          -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0006   8   14       McCain   NNP           *)         -    -   -    Wolf_Blitzer   (PERSON)            *       -
+bc/cnn/00/cnn_0006   8   15          and    CC           *          -    -   -    Wolf_Blitzer         *             *       -
+bc/cnn/00/cnn_0006   8   16       others   NNS     (NP*))))         -    -   -    Wolf_Blitzer         *             *)      -
+bc/cnn/00/cnn_0006   8   17           /.     .          *))         -    -   -    Wolf_Blitzer         *             *       -
+
+bc/cnn/00/cnn_0006   8    0       the    DT   (TOP(S(NP*       -    -   -    Wolf_Blitzer      *      *        (ARG0*        (ARG0*        *    (157
+bc/cnn/00/cnn_0006   8    1        US   NNP            *)      -    -   -    Wolf_Blitzer   (GPE)     *             *)            *)       *     157)
+bc/cnn/00/cnn_0006   8    2      does   VBZ         (VP*       do  01   -    Wolf_Blitzer      *    (V*)            *             *        *       -
+bc/cnn/00/cnn_0006   8    3       n't    RB            *       -    -   -    Wolf_Blitzer      *      *    (ARGM-NEG*)            *        *       -
+bc/cnn/00/cnn_0006   8    4      have    VB         (VP*     have  03   1    Wolf_Blitzer      *      *           (V*)            *        *       -
+bc/cnn/00/cnn_0006   8    5    enough    JJ         (NP*       -    -   -    Wolf_Blitzer      *      *        (ARG1*             *        *       -
+bc/cnn/00/cnn_0006   8    6    troops   NNS            *)   troop   -   -    Wolf_Blitzer      *      *             *)            *        *    (194)
+bc/cnn/00/cnn_0006   8    7        to    TO       (S(VP*       -    -   -    Wolf_Blitzer      *      *    (ARGM-PRP*             *        *       -
+bc/cnn/00/cnn_0006   8    8    really    RB       (ADVP*)      -    -   -    Wolf_Blitzer      *      *             *    (ARGM-ADV*)       *       -
+bc/cnn/00/cnn_0006   8    9       get    VB         (VP*      get  04   3    Wolf_Blitzer      *      *             *           (V*)       *       -
+bc/cnn/00/cnn_0006   8   10       the    DT       (S(NP*       -    -   -    Wolf_Blitzer      *      *             *        (ARG1*   (ARG1*       -
+bc/cnn/00/cnn_0006   8   11       job    NN            *)     job   -   2    Wolf_Blitzer      *      *             *             *        *)      -
+bc/cnn/00/cnn_0006   8   12      done   VBN   (VP*)))))))      do  02   -    Wolf_Blitzer      *      *             *)            *)     (V*)      -
+bc/cnn/00/cnn_0006   8   13        /.     .           *))      -    -   -    Wolf_Blitzer      *      *             *             *        *       -
+
+bc/cnn/00/cnn_0006   8    0            now    RB   (TOP(S(ADVP*)         -    -   -    Wolf_Blitzer  *      *    (ARGM-TMP*)        *       -
+bc/cnn/00/cnn_0006   8    1           more   JJR           (NP*          -    -   -    Wolf_Blitzer  *      *        (ARG1*         *       -
+bc/cnn/00/cnn_0006   8    2         troops   NNS              *)      troop   -   -    Wolf_Blitzer  *      *             *)        *       -
+bc/cnn/00/cnn_0006   8    3         really    RB         (ADVP*)         -    -   -    Wolf_Blitzer  *      *    (ARGM-ADV*)        *       -
+bc/cnn/00/cnn_0006   8    4         should    MD           (VP*          -    -   -    Wolf_Blitzer  *      *    (ARGM-MOD*)        *       -
+bc/cnn/00/cnn_0006   8    5             be    VB           (VP*          be  03   -    Wolf_Blitzer  *    (V*)            *         *       -
+bc/cnn/00/cnn_0006   8    6          added   VBN           (VP*         add  02   1    Wolf_Blitzer  *      *           (V*)        *       -
+bc/cnn/00/cnn_0006   8    7             to    IN           (PP*          -    -   -    Wolf_Blitzer  *      *        (ARG2*         *       -
+bc/cnn/00/cnn_0006   8    8            the    DT           (NP*          -    -   -    Wolf_Blitzer  *      *             *         *       -
+bc/cnn/00/cnn_0006   8    9            mix    NN             *))        mix   -   3    Wolf_Blitzer  *      *             *)        *       -
+bc/cnn/00/cnn_0006   8   10        instead    RB           (PP*          -    -   -    Wolf_Blitzer  *      *    (ARGM-ADV*         *       -
+bc/cnn/00/cnn_0006   8   11             of    IN              *          -    -   -    Wolf_Blitzer  *      *             *         *       -
+bc/cnn/00/cnn_0006   8   12    withdrawing   VBG         (S(VP*    withdraw  01   -    Wolf_Blitzer  *      *             *       (V*)      -
+bc/cnn/00/cnn_0006   8   13           them   PRP     (NP*)))))))         -    -   -    Wolf_Blitzer  *      *             *)   (ARG1*)   (194)
+bc/cnn/00/cnn_0006   8   14             /.     .             *))         -    -   -    Wolf_Blitzer  *      *             *         *       -
+
+bc/cnn/00/cnn_0006   8   0     Well    UH   (TOP(S(INTJ*)     -    -    -    Joe_Lieberman  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   8   1        I   PRP           (NP*)     -    -    -    Joe_Lieberman  *      *        (ARG0*)   (152)
+bc/cnn/00/cnn_0006   8   2      've   VBP           (VP*    have  01   12    Joe_Lieberman  *    (V*)            *       -
+bc/cnn/00/cnn_0006   8   3     said   VBN           (VP*     say  01    1    Joe_Lieberman  *      *           (V*)      -
+bc/cnn/00/cnn_0006   8   4     that    DT           (NP*)     -    -    -    Joe_Lieberman  *      *        (ARG1*)      -
+bc/cnn/00/cnn_0006   8   5    along    IN           (PP*      -    -    -    Joe_Lieberman  *      *    (ARGM-LOC*       -
+bc/cnn/00/cnn_0006   8   6      the    DT           (NP*      -    -    -    Joe_Lieberman  *      *             *       -
+bc/cnn/00/cnn_0006   8   7      way    NN           *))))    way   -    6    Joe_Lieberman  *      *             *)      -
+bc/cnn/00/cnn_0006   8   8       /.     .             *))     -    -    -    Joe_Lieberman  *      *             *       -
+
+bc/cnn/00/cnn_0006   8   0         I   PRP   (TOP(S(PRN(S(NP*)     -    -   -    Joe_Lieberman  *    (ARG0*)            *    (152)
+bc/cnn/00/cnn_0006   8   1      mean   VBP             (VP*)))   mean  01   1    Joe_Lieberman  *       (V*)            *       -
+bc/cnn/00/cnn_0006   8   2         I   PRP               (NP*)     -    -   -    Joe_Lieberman  *         *        (ARG1*)   (152)
+bc/cnn/00/cnn_0006   8   3       'll    MD               (VP*      -    -   -    Joe_Lieberman  *         *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0006   8   4        be    VB               (VP*      be  01   1    Joe_Lieberman  *         *           (V*)      -
+bc/cnn/00/cnn_0006   8   5      real    RB             (ADJP*      -    -   -    Joe_Lieberman  *         *        (ARG2*       -
+bc/cnn/00/cnn_0006   8   6    direct    JJ                  *      -    -   -    Joe_Lieberman  *         *             *       -
+bc/cnn/00/cnn_0006   8   7     about    IN               (PP*      -    -   -    Joe_Lieberman  *         *             *       -
+bc/cnn/00/cnn_0006   8   8        it   PRP           (NP*)))))     -    -   -    Joe_Lieberman  *         *             *)      -
+bc/cnn/00/cnn_0006   8   9        /.     .                 *))     -    -   -    Joe_Lieberman  *         *             *       -
+
+bc/cnn/00/cnn_0006   8    0               I   PRP      (TOP(S(NP*)         -    -    -    Joe_Lieberman       *        (ARG1*)     *             *            *        *      *         *        *      *         *    (152)
+bc/cnn/00/cnn_0006   8    1              'd    MD            (VP*          -    -    -    Joe_Lieberman       *    (ARGM-MOD*)     *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8    2              be    VB            (VP*          be  01    1    Joe_Lieberman       *           (V*)     *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8    3       surprised    JJ          (ADJP*)         -    -    -    Joe_Lieberman       *        (ARG2*)     *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8    4              if    IN          (SBAR*          -    -    -    Joe_Lieberman       *    (ARGM-ADV*      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8    5              we   PRP          (S(NP*)         -    -    -    Joe_Lieberman       *             *      *        (ARG0*)           *        *      *         *        *      *         *    (157)
+bc/cnn/00/cnn_0006   8    6              do   VBP            (VP*          do  01    -    Joe_Lieberman       *             *    (V*)            *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8    7             n't    RB               *          -    -    -    Joe_Lieberman       *             *      *    (ARGM-NEG*)           *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8    8        increase    VB            (VP*    increase  01    1    Joe_Lieberman       *             *      *           (V*)           *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8    9             the    DT         (NP(NP*          -    -    -    Joe_Lieberman       *             *      *        (ARG1*            *        *      *         *        *      *         *    (135
+bc/cnn/00/cnn_0006   8   10          number    NN               *)     number   -    1    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   11              of    IN            (PP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   12        American    JJ      (NP(NP(NP*          -    -    -    Joe_Lieberman   (NORP)            *      *             *       (ARG1*        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   13          troops   NNS               *)      troop   -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   14       coalition    NN            (NP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   15          forces   NNS              *))      force   -    2    Joe_Lieberman       *             *      *             *            *)       *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   16              we   PRP     (SBAR(S(NP*)         -    -    -    Joe_Lieberman       *             *      *             *       (ARG0*)       *      *         *        *      *         *    (157)
+bc/cnn/00/cnn_0006   8   17            have   VBP            (VP*        have  03    1    Joe_Lieberman       *             *      *             *          (V*)       *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   18              on    IN            (PP*          -    -    -    Joe_Lieberman       *             *      *             *   (ARGM-LOC*        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   19             the    DT            (NP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   20          ground    NN        *))))))))     ground   -    1    Joe_Lieberman       *             *      *             *)           *)       *      *         *        *      *         *     135)
+bc/cnn/00/cnn_0006   8   21         between    IN            (PP*          -    -    -    Joe_Lieberman       *             *      *    (ARGM-TMP*            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   22             now    RB      (UCP(ADVP*)         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   23             and    CC               *          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   24             the    DT         (NP(NP*          -    -    -    Joe_Lieberman  (DATE*             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   25             end    NN               *)        end  01    3    Joe_Lieberman       *             *      *             *            *      (V*)     *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   26              of    IN            (PP*          -    -    -    Joe_Lieberman       *             *      *             *            *   (ARG1*      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   27            this    DT            (NP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   28            year    NN       *)))))))))         -    -    -    Joe_Lieberman       *)            *)     *             *)           *        *)     *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   29         because    IN          (SBAR*          -    -    -    Joe_Lieberman       *    (ARGM-CAU*      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   30              we   PRP        (S(S(NP*)         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *    (ARG0*)       *      *         *      (9)
+bc/cnn/00/cnn_0006   8   31            have   VBP            (VP*        have  01    -    Joe_Lieberman       *             *      *             *            *        *    (V*)        *        *      *         *       -
+bc/cnn/00/cnn_0006   8   32             got   VBN            (VP*         get  02    1    Joe_Lieberman       *             *      *             *            *        *      *       (V*)       *      *         *       -
+bc/cnn/00/cnn_0006   8   33             the    DT       (S(NP(NP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *    (ARG1*   (ARG1*      *         *       -
+bc/cnn/00/cnn_0006   8   34      referendum    NN               *)         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   35              on    IN            (PP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   36             the    DT            (NP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   37    constitution    NN             *)))         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *)     *         *       -
+bc/cnn/00/cnn_0006   8   38          coming   VBG            (VP*        come  11    2    Joe_Lieberman       *             *      *             *            *        *      *         *      (V*)     *         *       -
+bc/cnn/00/cnn_0006   8   39              up    RP      (PRT*))))))         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *)       *      *         *       -
+bc/cnn/00/cnn_0006   8   40               ,     ,               *          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   41              we   PRP          (S(NP*)         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *    (ARG0*)     (9)
+bc/cnn/00/cnn_0006   8   42             've   VBP            (VP*        have  01   12    Joe_Lieberman       *             *      *             *            *        *      *         *        *    (V*)        *       -
+bc/cnn/00/cnn_0006   8   43             got   VBN            (VP*         get  02    1    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *       (V*)      -
+bc/cnn/00/cnn_0006   8   44             the    DT         (NP(NP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *    (ARG1*       -
+bc/cnn/00/cnn_0006   8   45        election    NN               *)   election   -    1    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   46              of    IN            (PP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   47             the    DT            (NP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   48           Iraqi    JJ               *          -    -    -    Joe_Lieberman   (NORP)            *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   49        assembly    NN              *))   assembly   -    1    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   50       hopefully    RB          (ADVP*)         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   51              in    IN            (PP*          -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+bc/cnn/00/cnn_0006   8   52        December   NNP   (NP*))))))))))         -    -    -    Joe_Lieberman   (DATE)            *)     *             *            *        *      *         *        *      *         *)      -
+bc/cnn/00/cnn_0006   8   53              /.     .              *))         -    -    -    Joe_Lieberman       *             *      *             *            *        *      *         *        *      *         *       -
+
+bc/cnn/00/cnn_0006   8    0         Those    DT          (TOP(S(NP*)       -    -   -    Joe_Lieberman  *    (ARG1*)     *      *      *        *         *   -
+bc/cnn/00/cnn_0006   8    1           are   VBP                (VP*        be  01   2    Joe_Lieberman  *       (V*)     *      *      *        *         *   -
+bc/cnn/00/cnn_0006   8    2         times   NNS             (NP(NP*)     time   -   2    Joe_Lieberman  *    (ARG2*      *      *      *        *         *   -
+bc/cnn/00/cnn_0006   8    3          when   WRB       (SBAR(WHADVP*)       -    -   -    Joe_Lieberman  *         *      *      *      *        *         *   -
+bc/cnn/00/cnn_0006   8    4           the    DT              (S(NP*        -    -   -    Joe_Lieberman  *         *      *      *      *   (ARG0*    (ARG0*   -
+bc/cnn/00/cnn_0006   8    5    terrorists   NNS                   *)       -    -   -    Joe_Lieberman  *         *      *      *      *        *)        *)  -
+bc/cnn/00/cnn_0006   8    6           are   VBP                (VP*        be  03   -    Joe_Lieberman  *         *    (V*)     *      *        *         *   -
+bc/cnn/00/cnn_0006   8    7         going   VBG                (VP*        go  04   7    Joe_Lieberman  *         *      *    (V*)     *        *         *   -
+bc/cnn/00/cnn_0006   8    8            to    TO              (S(VP*        -    -   -    Joe_Lieberman  *         *      *      *      *        *         *   -
+bc/cnn/00/cnn_0006   8    9            be    VB                (VP*        be  03   -    Joe_Lieberman  *         *      *      *    (V*)       *         *   -
+bc/cnn/00/cnn_0006   8   10       looking   VBG                (VP*      look  01   5    Joe_Lieberman  *         *      *      *      *      (V*)        *   -
+bc/cnn/00/cnn_0006   8   11            to    TO              (S(VP*        -    -   -    Joe_Lieberman  *         *      *      *      *   (ARG1*         *   -
+bc/cnn/00/cnn_0006   8   12        create    VB                (VP*    create  01   1    Joe_Lieberman  *         *      *      *      *        *       (V*)  -
+bc/cnn/00/cnn_0006   8   13         havoc    NN   (NP*))))))))))))))    havoc   -   -    Joe_Lieberman  *         *)     *      *      *        *)   (ARG1*)  -
+bc/cnn/00/cnn_0006   8   14            /.     .                  *))       -    -   -    Joe_Lieberman  *         *      *      *      *        *         *   -
+
+bc/cnn/00/cnn_0006   8    0        and    CC         (TOP(S*         -    -   -    Joe_Lieberman       *         *            *      *     -
+bc/cnn/00/cnn_0006   8    1         we   PRP            (NP*)        -    -   -    Joe_Lieberman       *    (ARG0*)      (ARG0*)     *     -
+bc/cnn/00/cnn_0006   8    2       want   VBP            (VP*       want  01   1    Joe_Lieberman       *       (V*)           *      *     -
+bc/cnn/00/cnn_0006   8    3         to    TO          (S(VP*         -    -   -    Joe_Lieberman       *    (ARG1*            *      *     -
+bc/cnn/00/cnn_0006   8    4     secure    VB            (VP*     secure  02   3    Joe_Lieberman       *         *          (V*)     *     -
+bc/cnn/00/cnn_0006   8    5        the    DT            (NP*         -    -   -    Joe_Lieberman       *         *       (ARG1*      *   (90
+bc/cnn/00/cnn_0006   8    6    country    NN               *)   country   -   3    Joe_Lieberman       *         *            *)     *    90)
+bc/cnn/00/cnn_0006   8    7         as    RB     (ADVP(ADVP*         -    -   -    Joe_Lieberman       *         *   (ARGM-MNR*      *     -
+bc/cnn/00/cnn_0006   8    8       well    RB               *)        -    -   -    Joe_Lieberman       *         *            *      *     -
+bc/cnn/00/cnn_0006   8    9         as    IN          (SBAR*         -    -   -    Joe_Lieberman       *         *            *      *     -
+bc/cnn/00/cnn_0006   8   10         we   PRP          (S(NP*)        -    -   -    Joe_Lieberman       *         *            *      *     -
+bc/cnn/00/cnn_0006   8   11        did   VBD            (VP*         do  01   -    Joe_Lieberman       *         *            *    (V*)    -
+bc/cnn/00/cnn_0006   8   12         in    IN            (PP*         -    -   -    Joe_Lieberman       *         *            *      *     -
+bc/cnn/00/cnn_0006   8   13    January   NNP   (NP*))))))))))        -    -   -    Joe_Lieberman   (DATE)        *)           *)     *     -
+bc/cnn/00/cnn_0006   8   14         /.     .              *))        -    -   -    Joe_Lieberman       *         *            *      *     -
+
+bc/cnn/00/cnn_0006   8    0            So     RB     (TOP(S(ADVP*)       -    -   -    Wolf_Blitzer           *    (ARGM-DIS*)            *             *       -
+bc/cnn/00/cnn_0006   8    1           the     DT          (NP(NP*        -    -   -    Wolf_Blitzer           *        (ARG1*             *             *    (135
+bc/cnn/00/cnn_0006   8    2        number     NN                *)   number   -   2    Wolf_Blitzer           *             *             *             *       -
+bc/cnn/00/cnn_0006   8    3          from     IN             (PP*        -    -   -    Wolf_Blitzer           *             *             *             *       -
+bc/cnn/00/cnn_0006   8    4             a     DT          (NP(QP*        -    -   -    Wolf_Blitzer  (CARDINAL*             *             *             *       -
+bc/cnn/00/cnn_0006   8    5       hundred     CD                *        -    -   -    Wolf_Blitzer           *             *             *             *       -
+bc/cnn/00/cnn_0006   8    6        thirty     CD                *        -    -   -    Wolf_Blitzer           *             *             *             *       -
+bc/cnn/00/cnn_0006   8    7            -    HYPH                *        -    -   -    Wolf_Blitzer           *             *             *             *       -
+bc/cnn/00/cnn_0006   8    8          nine     CD             *))))       -    -   -    Wolf_Blitzer           *)            *)            *             *     135)
+bc/cnn/00/cnn_0006   8    9           may     MD             (VP*        -    -   -    Wolf_Blitzer           *    (ARGM-MOD*)            *             *       -
+bc/cnn/00/cnn_0006   8   10            go     VB             (VP*        go  01   1    Wolf_Blitzer           *           (V*)            *             *       -
+bc/cnn/00/cnn_0006   8   11            up     RB           (ADVP*)       -    -   -    Wolf_Blitzer           *    (ARGM-DIR*)            *             *       -
+bc/cnn/00/cnn_0006   8   12            in     IN             (PP*        -    -   -    Wolf_Blitzer           *    (ARGM-TMP*             *             *       -
+bc/cnn/00/cnn_0006   8   13           the     DT             (NP*        -    -   -    Wolf_Blitzer           *             *             *             *       -
+bc/cnn/00/cnn_0006   8   14         short     JJ                *        -    -   -    Wolf_Blitzer           *             *             *             *       -
+bc/cnn/00/cnn_0006   8   15          term     NN               *))     term   -   2    Wolf_Blitzer           *             *)            *             *       -
+bc/cnn/00/cnn_0006   8   16        before     IN           (SBAR*        -    -   -    Wolf_Blitzer           *    (ARGM-TMP*             *             *       -
+bc/cnn/00/cnn_0006   8   17            it    PRP           (S(NP*)       -    -   -    Wolf_Blitzer           *             *        (ARG1*)       (ARG1*)   (135)
+bc/cnn/00/cnn_0006   8   18    eventually     RB           (ADVP*)       -    -   -    Wolf_Blitzer           *             *    (ARGM-TMP*)            *       -
+bc/cnn/00/cnn_0006   8   19        starts    VBZ             (VP*     start  01   2    Wolf_Blitzer           *             *           (V*)            *       -
+bc/cnn/00/cnn_0006   8   20            to     TO           (S(VP*        -    -   -    Wolf_Blitzer           *             *      (C-ARG1*             *       -
+bc/cnn/00/cnn_0006   8   21            go     VB             (VP*        go  01   1    Wolf_Blitzer           *             *             *           (V*)      -
+bc/cnn/00/cnn_0006   8   22          down     RB   (ADVP*)))))))))       -    -   -    Wolf_Blitzer           *             *)            *)   (ARGM-DIR*)      -
+bc/cnn/00/cnn_0006   8   23            /?      .               *))       -    -   -    Wolf_Blitzer           *             *             *             *       -
+
+bc/cnn/00/cnn_0006   8   0            I   PRP   (TOP(S(NP*)   -    -   -    Joe_Lieberman  *        (ARG1*)     *    (152)
+bc/cnn/00/cnn_0006   8   1        would    MD         (VP*    -    -   -    Joe_Lieberman  *    (ARGM-MOD*)     *       -
+bc/cnn/00/cnn_0006   8   2          not    RB            *    -    -   -    Joe_Lieberman  *    (ARGM-NEG*)     *       -
+bc/cnn/00/cnn_0006   8   3           be    VB         (VP*    be  01   1    Joe_Lieberman  *           (V*)     *       -
+bc/cnn/00/cnn_0006   8   4    surprised    JJ       (ADJP*)   -    -   -    Joe_Lieberman  *        (ARG2*)     *       -
+bc/cnn/00/cnn_0006   8   5           if    IN       (SBAR*    -    -   -    Joe_Lieberman  *    (ARGM-ADV*      *       -
+bc/cnn/00/cnn_0006   8   6           it   PRP       (S(NP*)   -    -   -    Joe_Lieberman  *             *      *    (135)
+bc/cnn/00/cnn_0006   8   7          did   VBD     (VP*)))))   do  01   -    Joe_Lieberman  *             *)   (V*)      -
+bc/cnn/00/cnn_0006   8   8           /.     .           *))   -    -   -    Joe_Lieberman  *             *      *       -
+
+bc/cnn/00/cnn_0006   8    0        Look    VB   (TOP(S(INTJ*)       look  09   1    Joe_Lieberman         *    (V*)   (ARGM-DIS*)            *      -
+bc/cnn/00/cnn_0006   8    1        this    DT           (NP*)         -    -   -    Joe_Lieberman         *      *        (ARG0*)            *      -
+bc/cnn/00/cnn_0006   8    2       leads   VBZ           (VP*        lead  03   1    Joe_Lieberman         *      *           (V*)            *      -
+bc/cnn/00/cnn_0006   8    3          to    IN           (PP*          -    -   -    Joe_Lieberman         *      *        (ARG2*             *      -
+bc/cnn/00/cnn_0006   8    4      larger   JJR           (NP*          -    -   -    Joe_Lieberman         *      *             *             *      -
+bc/cnn/00/cnn_0006   8    5    question    NN             *))   question   -   2    Joe_Lieberman         *      *             *)            *      -
+bc/cnn/00/cnn_0006   8    6        just    RB       (S(ADVP*)         -    -   -    Joe_Lieberman         *      *    (ARGM-ADV*    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0006   8    7          to    TO           (VP*          -    -   -    Joe_Lieberman         *      *             *             *      -
+bc/cnn/00/cnn_0006   8    8     mention    VB           (VP*     mention  01   1    Joe_Lieberman         *      *             *           (V*)     -
+bc/cnn/00/cnn_0006   8    9     briefly    RB      (ADVP*))))         -    -   -    Joe_Lieberman         *      *             *)   (ARGM-MNR*)     -
+bc/cnn/00/cnn_0006   8   10        Wolf   NNP          (NP*))         -    -   -    Joe_Lieberman   (PERSON)     *    (ARGM-DIS*)            *    (38)
+bc/cnn/00/cnn_0006   8   11          /.     .             *))         -    -   -    Joe_Lieberman         *      *             *             *      -
+
+bc/cnn/00/cnn_0006   8    0            a    DT  (TOP(S(NP(NP*        -    -   -    Joe_Lieberman           *   (ARG0*             *             *      *            *            *      (6
+bc/cnn/00/cnn_0006   8    1        bunch    NN              *)    bunch   -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8    2           of    IN           (PP*        -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8    3           us   PRP          (NP*))       -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8    4           in    IN           (PP*        -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8    5     Congress   NNP         (NP*)))       -    -   -    Joe_Lieberman        (ORG)       *)            *             *      *            *            *       6)
+bc/cnn/00/cnn_0006   8    6        worry   VBP           (VP*     worry  02   1    Joe_Lieberman           *      (V*)            *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8    7         that    IN         (SBAR*        -    -   -    Joe_Lieberman           *   (ARG1*             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8    8          the    DT    (S(S(NP(NP*        -    -   -    Joe_Lieberman           *        *        (ARG1*        (ARG1*      *            *            *     (22
+bc/cnn/00/cnn_0006   8    9         Army    NN              *)       -    -   -    Joe_Lieberman        (ORG)       *             *)            *      *            *            *      22)
+bc/cnn/00/cnn_0006   8   10         that   WDT    (SBAR(WHNP*)       -    -   -    Joe_Lieberman           *        *      (R-ARG1*)            *      *            *            *       -
+bc/cnn/00/cnn_0006   8   11           we   PRP         (S(NP*)       -    -   -    Joe_Lieberman           *        *        (ARG0*)            *      *            *            *    (157)
+bc/cnn/00/cnn_0006   8   12         have   VBP           (VP*      have  03   1    Joe_Lieberman           *        *           (V*)            *      *            *            *       -
+bc/cnn/00/cnn_0006   8   13        today    NN       (NP*)))))    today   -   1    Joe_Lieberman       (DATE)       *    (ARGM-TMP*)            *)     *            *            *       -
+bc/cnn/00/cnn_0006   8   14           is   VBZ           (VP*        be  01   1    Joe_Lieberman           *        *             *           (V*)     *            *            *     (97)
+bc/cnn/00/cnn_0006   8   15          not    RB              *        -    -   -    Joe_Lieberman           *        *             *    (ARGM-NEG*)     *            *            *       -
+bc/cnn/00/cnn_0006   8   16          big    JJ         (ADJP*        -    -   -    Joe_Lieberman           *        *             *        (ARG2*      *            *            *       -
+bc/cnn/00/cnn_0006   8   17       enough    RB            *)))       -    -   -    Joe_Lieberman           *        *             *             *)     *            *            *       -
+bc/cnn/00/cnn_0006   8   18          and    CC              *        -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8   19           we   PRP         (S(NP*)       -    -   -    Joe_Lieberman           *        *             *             *      *       (ARG0*)      (ARG0*)     (6)
+bc/cnn/00/cnn_0006   8   20          're   VBP           (VP*        be  03   -    Joe_Lieberman           *        *             *             *    (V*)           *            *       -
+bc/cnn/00/cnn_0006   8   21    stressing   VBG        (VP(VP*    stress  01   2    Joe_Lieberman           *        *             *             *      *          (V*)           *       -
+bc/cnn/00/cnn_0006   8   22           it   PRP        (NP(NP*)       -    -   -    Joe_Lieberman           *        *             *             *      *       (ARG1*            *     (97)
+bc/cnn/00/cnn_0006   8   23          and    CC              *        -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8   24          the    DT        (NP(NP*        -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8   25       people   NNS              *)   people   -   1    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8   26           in    IN           (PP*        -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8   27           it   PRP       (NP*)))))       -    -   -    Joe_Lieberman           *        *             *             *      *            *)           *       -
+bc/cnn/00/cnn_0006   8   28      sending   VBG         (S(VP*      send  01   2    Joe_Lieberman           *        *             *             *      *   (ARGM-ADV*          (V*)      -
+bc/cnn/00/cnn_0006   8   29       people   NNS           (NP*)   people   -   1    Joe_Lieberman           *        *             *             *      *            *       (ARG1*)      -
+bc/cnn/00/cnn_0006   8   30         back    RB         (ADVP*        -    -   -    Joe_Lieberman           *        *             *             *      *            *       (ARG2*       -
+bc/cnn/00/cnn_0006   8   31           to    IN           (PP*        -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8   32         Iraq   NNP         (NP*)))       -    -   -    Joe_Lieberman        (GPE)       *             *             *      *            *            *)    (90)
+bc/cnn/00/cnn_0006   8   33          two    CD        (NP(QP*        -    -   -    Joe_Lieberman   (CARDINAL)       *             *             *      *            *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0006   8   34        three    CD              *)       -    -   -    Joe_Lieberman   (CARDINAL)       *             *             *      *            *            *       -
+bc/cnn/00/cnn_0006   8   35        times   NNS      *)))))))))     time   -   1    Joe_Lieberman           *        *)            *             *      *            *)           *)      -
+bc/cnn/00/cnn_0006   8   36           /.     .             *))       -    -   -    Joe_Lieberman           *        *             *             *      *            *            *       -
+
+bc/cnn/00/cnn_0006   8    0            Um     UH          (TOP(S(INTJ*)         -    -    -    Joe_Lieberman      *    (ARGM-DIS*)     *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8    1         maybe     RB                (ADVP*)         -    -    -    Joe_Lieberman      *    (ARGM-ADV*)     *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8    2             I    PRP                  (NP*)         -    -    -    Joe_Lieberman      *        (ARG0*)     *             *        *             *            *        *        (152)
+bc/cnn/00/cnn_0006   8    3       believe    VBP                  (VP*     believe  01    1    Joe_Lieberman      *           (V*)     *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8    4            we    PRP           (SBAR(S(NP*)         -    -    -    Joe_Lieberman      *        (ARG1*      *        (ARG0*)       *             *            *        *           -
+bc/cnn/00/cnn_0006   8    5            do    VBP                  (VP*          do  01    -    Joe_Lieberman      *             *    (V*)            *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8    6      actually     RB                (ADVP*)         -    -    -    Joe_Lieberman      *             *      *    (ARGM-ADV*)       *             *            *        *           -
+bc/cnn/00/cnn_0006   8    7          need     VB                  (VP*        need  01    1    Joe_Lieberman      *             *      *           (V*)       *             *            *        *           -
+bc/cnn/00/cnn_0006   8    8            uh     UH                (INTJ*)         -    -    -    Joe_Lieberman      *             *      *    (ARGM-DIS*)       *             *            *        *           -
+bc/cnn/00/cnn_0006   8    9            uh     UH                (INTJ*)         -    -    -    Joe_Lieberman      *             *      *    (ARGM-DIS*)       *             *            *        *           -
+bc/cnn/00/cnn_0006   8   10            an     DT               (NP(NP*          -    -    -    Joe_Lieberman      *             *      *        (ARG1*        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   11      increase     NN                     *)   increase  01    1    Joe_Lieberman      *             *      *             *      (V*)            *            *        *           -
+bc/cnn/00/cnn_0006   8   12            in     IN                  (PP*          -    -    -    Joe_Lieberman      *             *      *             *   (ARG1*             *            *        *           -
+bc/cnn/00/cnn_0006   8   13           the     DT               (NP(NP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   14           end     NN                     *         end   -   10    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   15      strength     NN                     *)   strength   -    8    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   16            of     IN                  (PP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   17           our   PRP$                  (NP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *    (22|(157)
+bc/cnn/00/cnn_0006   8   18          Army     NN                 *)))))         -    -    -    Joe_Lieberman   (ORG)            *      *             *)       *)            *            *        *          22)
+bc/cnn/00/cnn_0006   8   19            so     IN                (SBAR*          -    -    -    Joe_Lieberman      *             *      *    (ARGM-PRP*        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   20           our   PRP$             (S(NP(NP*          -    -    -    Joe_Lieberman      *             *      *             *        *        (ARG0*            *        *        (157)
+bc/cnn/00/cnn_0006   8   21    commanders    NNS                     *)         -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   22            in     IN                  (PP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   23           the     DT                  (NP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   24         field     NN                   *)))      field   -    4    Joe_Lieberman      *             *      *             *        *             *)           *        *           -
+bc/cnn/00/cnn_0006   8   25          will     MD                  (VP*          -    -    -    Joe_Lieberman      *             *      *             *        *    (ARGM-MOD*)           *        *           -
+bc/cnn/00/cnn_0006   8   26          have     VB                  (VP*        have  03    1    Joe_Lieberman      *             *      *             *        *           (V*)           *        *           -
+bc/cnn/00/cnn_0006   8   27           the     DT               (NP(NP*          -    -    -    Joe_Lieberman      *             *      *             *        *        (ARG1*       (ARG1*        *           -
+bc/cnn/00/cnn_0006   8   28        troops    NNS                     *)      troop   -    -    Joe_Lieberman      *             *      *             *        *             *            *)       *           -
+bc/cnn/00/cnn_0006   8   29          they    PRP           (SBAR(S(NP*)         -    -    -    Joe_Lieberman      *             *      *             *        *             *       (ARG0*)       *           -
+bc/cnn/00/cnn_0006   8   30          need    VBP                  (VP*        need  01    1    Joe_Lieberman      *             *      *             *        *             *          (V*)       *           -
+bc/cnn/00/cnn_0006   8   31            as     IN                (SBAR*          -    -    -    Joe_Lieberman      *             *      *             *        *             *   (ARGM-ADV*        *           -
+bc/cnn/00/cnn_0006   8   32           the     DT             (S(NP(NP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *   (ARG0*           -
+bc/cnn/00/cnn_0006   8   33         facts    NNS                     *)       fact   -    1    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   34            on     IN                  (PP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   35           the     DT                  (NP*          -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+bc/cnn/00/cnn_0006   8   36        ground     NN                   *)))     ground   -    1    Joe_Lieberman      *             *      *             *        *             *            *        *)          -
+bc/cnn/00/cnn_0006   8   37       dictate    VBP   (VP*))))))))))))))))    dictate  01    1    Joe_Lieberman      *             *)     *             *)       *             *)           *)     (V*)          -
+bc/cnn/00/cnn_0006   8   38            /.      .                    *))         -    -    -    Joe_Lieberman      *             *      *             *        *             *            *        *           -
+
+bc/cnn/00/cnn_0006   8   0      All    RB  (TOP(S(ADVP*      -    -   -    Wolf_Blitzer  *   (ARGM-DIS*             *   -
+bc/cnn/00/cnn_0006   8   1    right    RB             *)     -    -   -    Wolf_Blitzer  *            *)            *   -
+bc/cnn/00/cnn_0006   8   2      let   VBP          (VP*     let  01   1    Wolf_Blitzer  *          (V*)            *   -
+bc/cnn/00/cnn_0006   8   3       's   PRP        (S(NP*)     -    -   -    Wolf_Blitzer  *       (ARG1*        (ARG1*)  -
+bc/cnn/00/cnn_0006   8   4     move    VB          (VP*    move  01   1    Wolf_Blitzer  *            *           (V*)  -
+bc/cnn/00/cnn_0006   8   5       on    RP      (PRT*))))     -    -   -    Wolf_Blitzer  *            *)   (ARGM-DIR*)  -
+bc/cnn/00/cnn_0006   8   6       /.     .            *))     -    -   -    Wolf_Blitzer  *            *             *   -
+
+bc/cnn/00/cnn_0006   8    0          we   PRP   (TOP(S(NP*)         -    -      -    Wolf_Blitzer      *        (ARG1*)   -
+bc/cnn/00/cnn_0006   8    1         'll    MD         (VP*          -    -      -    Wolf_Blitzer      *    (ARGM-MOD*)   -
+bc/cnn/00/cnn_0006   8    2         get    VB         (VP*         get  05   11.6    Wolf_Blitzer      *           (V*)   -
+bc/cnn/00/cnn_0006   8    3          to    IN         (PP*          -    -      -    Wolf_Blitzer      *        (ARG2*    -
+bc/cnn/00/cnn_0006   8    4        that    DT      (NP(NP*          -    -      -    Wolf_Blitzer      *             *   (4
+bc/cnn/00/cnn_0006   8    5     subject    NN          *)))    subject   -      1    Wolf_Blitzer      *             *)   4)
+bc/cnn/00/cnn_0006   8    6          uh    UH       (INTJ*)         -    -      -    Wolf_Blitzer      *    (ARGM-DIS*)   -
+bc/cnn/00/cnn_0006   8    7          on    IN         (PP*          -    -      -    Wolf_Blitzer      *    (ARGM-TMP*    -
+bc/cnn/00/cnn_0006   8    8     another    DT         (NP*          -    -      -    Wolf_Blitzer      *             *    -
+bc/cnn/00/cnn_0006   8    9    occasion    NN           *))   occasion   -      1    Wolf_Blitzer      *             *)   -
+bc/cnn/00/cnn_0006   8   10         the    DT      (NP(NP*          -    -      -    Wolf_Blitzer      *             *   (4
+bc/cnn/00/cnn_0006   8   11     overall    JJ            *          -    -      -    Wolf_Blitzer      *             *    -
+bc/cnn/00/cnn_0006   8   12    strength    NN            *)   strength   -      8    Wolf_Blitzer      *             *    -
+bc/cnn/00/cnn_0006   8   13          of    IN         (PP*          -    -      -    Wolf_Blitzer      *             *    -
+bc/cnn/00/cnn_0006   8   14         the    DT         (NP*          -    -      -    Wolf_Blitzer      *             *    -
+bc/cnn/00/cnn_0006   8   15          US   NNP            *          -    -      -    Wolf_Blitzer   (GPE)            *    -
+bc/cnn/00/cnn_0006   8   16    military    NN        *)))))         -    -      -    Wolf_Blitzer      *             *    4)
+bc/cnn/00/cnn_0006   8   17          /.     .           *))         -    -      -    Wolf_Blitzer      *             *    -
+
+bc/cnn/00/cnn_0006   8   0        The    DT  (TOP(FRAG(NP(NP*     -    -   -    Wolf_Blitzer         *            *    (57
+bc/cnn/00/cnn_0006   8   1        war    NN                 *)   war  01   1    Wolf_Blitzer         *          (V*)     -
+bc/cnn/00/cnn_0006   8   2         on    IN              (PP*     -    -   -    Wolf_Blitzer         *       (ARG1*      -
+bc/cnn/00/cnn_0006   8   3     terror    NN            (NP*)))    -    -   -    Wolf_Blitzer         *            *)    57)
+bc/cnn/00/cnn_0006   8   4    Senator   NNP              (NP*     -    -   -    Wolf_Blitzer         *   (ARGM-DIS*   (151
+bc/cnn/00/cnn_0006   8   5        Kyl   NNP                 *)    -    -   -    Wolf_Blitzer   (PERSON)           *)   151)
+bc/cnn/00/cnn_0006   8   6         /.     .                *))    -    -   -    Wolf_Blitzer         *            *      -
+
+bc/cnn/00/cnn_0006   8   0        what     WP  (TOP(SBARQ*          -   -   -    Wolf_Blitzer  *       -
+bc/cnn/00/cnn_0006   8   1       about     IN            *          -   -   -    Wolf_Blitzer  *       -
+bc/cnn/00/cnn_0006   8   2        your   PRP$      (NP(NP*          -   -   -    Wolf_Blitzer  *    (151)
+bc/cnn/00/cnn_0006   8   3    estimate     NN            *)   estimate  -   2    Wolf_Blitzer  *       -
+bc/cnn/00/cnn_0006   8   4       right     RB       (ADVP*          -   -   -    Wolf_Blitzer  *       -
+bc/cnn/00/cnn_0006   8   5         now     RB           *))         -   -   -    Wolf_Blitzer  *       -
+bc/cnn/00/cnn_0006   8   6          /?      .           *))         -   -   -    Wolf_Blitzer  *       -
+
+bc/cnn/00/cnn_0006   8    0          Is    VBZ         (TOP(SQ*        be  01   1    Wolf_Blitzer           *      (V*)     *            *      -
+bc/cnn/00/cnn_0006   8    1         the     DT             (NP*        -    -   -    Wolf_Blitzer           *   (ARG1*      *            *   (157
+bc/cnn/00/cnn_0006   8    2          US    NNP                *)       -    -   -    Wolf_Blitzer        (GPE)       *)     *            *    157)
+bc/cnn/00/cnn_0006   8    3    prepared     JJ           (ADJP*        -    -   -    Wolf_Blitzer           *   (ARG2*      *            *      -
+bc/cnn/00/cnn_0006   8    4         for     IN             (PP*        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8    5     similar     JJ    (NP(NP(NP(NP*        -    -   -    Wolf_Blitzer           *        *      *       (ARG1*    (27
+bc/cnn/00/cnn_0006   8    6       kinds    NNS                *)       -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8    7          of     IN             (PP*        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8    8     strikes    NNS           (NP*)))   strike   -   2    Wolf_Blitzer           *        *      *            *)     -
+bc/cnn/00/cnn_0006   8    9        that    WDT      (SBAR(WHNP*)       -    -   -    Wolf_Blitzer           *        *      *     (R-ARG1*)     -
+bc/cnn/00/cnn_0006   8   10          we    PRP           (S(NP*)       -    -   -    Wolf_Blitzer           *        *      *       (ARG0*)     -
+bc/cnn/00/cnn_0006   8   11        have    VBP             (VP*      have  01   -    Wolf_Blitzer           *        *    (V*)           *      -
+bc/cnn/00/cnn_0006   8   12        seen    VBN             (VP*       see  01   3    Wolf_Blitzer           *        *      *          (V*)     -
+bc/cnn/00/cnn_0006   8   13          in     IN             (PP*        -    -   -    Wolf_Blitzer           *        *      *   (ARGM-TMP*      -
+bc/cnn/00/cnn_0006   8   14      recent     JJ             (NP*        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   15        days    NNS               *))      day   -   4    Wolf_Blitzer           *        *      *            *)     -
+bc/cnn/00/cnn_0006   8   16          in     IN             (PP*        -    -   -    Wolf_Blitzer           *        *      *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0006   8   17      London    NNP       (NP*)))))))       -    -   -    Wolf_Blitzer        (GPE)       *      *            *)     -
+bc/cnn/00/cnn_0006   8   18         two     CD          (NP(NP*        -    -   -    Wolf_Blitzer   (CARDINAL)       *      *            *      -
+bc/cnn/00/cnn_0006   8   19      series    NNS                *)   series   -   1    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   20          uh     UH           (INTJ*)       -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   21          of     IN             (PP*        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   22     attacks    NNS          (NP(NP*)   attack   -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   23       there     RB       (UCP(ADVP*)       -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   24          as     RB          (CONJP*        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   25        well     RB                *        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   26          as     IN                *        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   27       Sharm    NNP          (NP(NP*        -    -   -    Wolf_Blitzer       (GPE*        *      *            *      -
+bc/cnn/00/cnn_0006   8   28          -    HYPH                *        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   29          el    NNP                *        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   30          -    HYPH                *        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   31      Sheikh    NNP                *)       -    -   -    Wolf_Blitzer           *)       *      *            *      -
+bc/cnn/00/cnn_0006   8   32          in     IN             (PP*        -    -   -    Wolf_Blitzer           *        *      *            *      -
+bc/cnn/00/cnn_0006   8   33       Egypt    NNP   (NP*)))))))))))       -    -   -    Wolf_Blitzer        (GPE)       *)     *            *     27)
+bc/cnn/00/cnn_0006   8   34          /?      .               *))       -    -   -    Wolf_Blitzer           *        *      *            *      -
+
+bc/cnn/00/cnn_0006   8    0           Uh    UH   (TOP(S(INTJ*)         -    -   -    Jon_Kyl         *    (ARGM-DIS*)           *           *             *      -
+bc/cnn/00/cnn_0006   8    1         Wolf   NNP           (NP*)         -    -   -    Jon_Kyl   (PERSON)   (ARGM-DIS*)           *           *             *    (38)
+bc/cnn/00/cnn_0006   8    2         that    DT           (NP*)         -    -   -    Jon_Kyl         *        (ARG1*)           *           *             *     (8)
+bc/cnn/00/cnn_0006   8    3           's   VBZ           (VP*          be  01   2    Jon_Kyl         *           (V*)           *           *             *      -
+bc/cnn/00/cnn_0006   8    4            a    DT        (NP(NP*          -    -   -    Jon_Kyl         *        (ARG2*            *      (ARG0*             *      -
+bc/cnn/00/cnn_0006   8    5     question    NN              *)   question  01   1    Jon_Kyl         *             *          (V*)          *)            *      -
+bc/cnn/00/cnn_0006   8    6         that   WDT    (SBAR(WHNP*)         -    -   -    Jon_Kyl         *             *   (ARGM-ADJ*    (R-ARG0*)            *      -
+bc/cnn/00/cnn_0006   8    7          has   VBZ         (S(VP*        have  03   2    Jon_Kyl         *             *            *         (V*)            *      -
+bc/cnn/00/cnn_0006   8    8      several    JJ        (NP(NP*          -    -   -    Jon_Kyl         *             *            *      (ARG1*    (ARGM-ADJ*)     -
+bc/cnn/00/cnn_0006   8    9    different    JJ              *          -    -   -    Jon_Kyl         *             *            *           *    (ARGM-ADJ*)     -
+bc/cnn/00/cnn_0006   8   10      answers   NNS              *)     answer  01   1    Jon_Kyl         *             *            *           *           (V*)     -
+bc/cnn/00/cnn_0006   8   11           to    IN           (PP*          -    -   -    Jon_Kyl         *             *            *           *        (ARG1*      -
+bc/cnn/00/cnn_0006   8   12           it   PRP     (NP*)))))))         -    -   -    Jon_Kyl         *             *)           *)          *)            *)    (8)
+bc/cnn/00/cnn_0006   8   13           uh    UH        (INTJ*))         -    -   -    Jon_Kyl         *    (ARGM-DIS*)           *           *             *      -
+bc/cnn/00/cnn_0006   8   14           /.     .             *))         -    -   -    Jon_Kyl         *             *            *           *             *      -
+
+bc/cnn/00/cnn_0006   8    0          The    DT         (TOP(S(NP*         -    -   -    Jon_Kyl          *             *   (ARG1*             *      *             *           -
+bc/cnn/00/cnn_0006   8    1        first    JJ                  *         -    -   -    Jon_Kyl   (ORDINAL)   (ARGM-TMP*)       *             *      *             *           -
+bc/cnn/00/cnn_0006   8    2       answer    NN                  *)    answer  01   1    Jon_Kyl          *           (V*)       *)            *      *             *           -
+bc/cnn/00/cnn_0006   8    3           is   VBZ               (VP*         be  01   1    Jon_Kyl          *             *      (V*)            *      *             *           -
+bc/cnn/00/cnn_0006   8    4           we   PRP        (SBAR(S(NP*)        -    -   -    Jon_Kyl          *             *   (ARG2*        (ARG0*)     *             *        (129)
+bc/cnn/00/cnn_0006   8    5          can    MD               (VP*         -    -   -    Jon_Kyl          *             *        *    (ARGM-MOD*)     *             *           -
+bc/cnn/00/cnn_0006   8    6        never    RB             (ADVP*)        -    -   -    Jon_Kyl          *             *        *    (ARGM-NEG*)     *             *           -
+bc/cnn/00/cnn_0006   8    7       assure    VB               (VP*     assure  01   1    Jon_Kyl          *             *        *           (V*)     *             *           -
+bc/cnn/00/cnn_0006   8    8           uh    UH             (INTJ*)        -    -   -    Jon_Kyl          *             *        *    (ARGM-DIS*)     *             *           -
+bc/cnn/00/cnn_0006   8    9          the    DT            (NP(NP*         -    -   -    Jon_Kyl          *             *        *        (ARG1*      *             *         (51
+bc/cnn/00/cnn_0006   8   10       people   NNS                  *)    people   -   2    Jon_Kyl          *             *        *             *      *             *           -
+bc/cnn/00/cnn_0006   8   11           in    IN               (PP*         -    -   -    Jon_Kyl          *             *        *             *      *             *           -
+bc/cnn/00/cnn_0006   8   12      America   NNP             (NP*)))        -    -   -    Jon_Kyl       (GPE)            *        *             *)     *             *    (157)|51)
+bc/cnn/00/cnn_0006   8   13         that    IN             (SBAR*         -    -   -    Jon_Kyl          *             *        *        (ARG2*      *             *           -
+bc/cnn/00/cnn_0006   8   14         they   PRP             (S(NP*)        -    -   -    Jon_Kyl          *             *        *             *      *        (ARG1*)        (51)
+bc/cnn/00/cnn_0006   8   15          are   VBP               (VP*         be  03   -    Jon_Kyl          *             *        *             *    (V*)            *           -
+bc/cnn/00/cnn_0006   8   16      totally    RB             (ADVP*)        -    -   -    Jon_Kyl          *             *        *             *      *    (ARGM-EXT*)          -
+bc/cnn/00/cnn_0006   8   17    protected   VBN               (VP*    protect  01   1    Jon_Kyl          *             *        *             *      *           (V*)          -
+bc/cnn/00/cnn_0006   8   18         from    IN               (PP*         -    -   -    Jon_Kyl          *             *        *             *      *        (ARG2*           -
+bc/cnn/00/cnn_0006   8   19         that    DT            (NP(NP*         -    -   -    Jon_Kyl          *             *        *             *      *             *         (27
+bc/cnn/00/cnn_0006   8   20         kind    NN                  *)        -    -   -    Jon_Kyl          *             *        *             *      *             *           -
+bc/cnn/00/cnn_0006   8   21           of    IN               (PP*         -    -   -    Jon_Kyl          *             *        *             *      *             *           -
+bc/cnn/00/cnn_0006   8   22       attack    NN   (NP*)))))))))))))    attack   -   -    Jon_Kyl          *             *        *)            *)     *             *)         27)
+bc/cnn/00/cnn_0006   8   23           /.     .                 *))        -    -   -    Jon_Kyl          *             *        *             *      *             *           -
+
+bc/cnn/00/cnn_0006   8   0       This    DT  (TOP(S(NP*         -    -   -    Jon_Kyl  *   (ARG1*   (157
+bc/cnn/00/cnn_0006   8   1    country    NN           *)   country   -   3    Jon_Kyl  *        *)   157)
+bc/cnn/00/cnn_0006   8   2         is   VBZ        (VP*         be  01   1    Jon_Kyl  *      (V*)     -
+bc/cnn/00/cnn_0006   8   3       wide    RB      (ADJP*         -    -   -    Jon_Kyl  *   (ARG2*      -
+bc/cnn/00/cnn_0006   8   4       open    JJ          *))        -    -   -    Jon_Kyl  *        *)     -
+bc/cnn/00/cnn_0006   8   5         /.     .          *))        -    -   -    Jon_Kyl  *        *      -
+
+bc/cnn/00/cnn_0006   8   0          we    PRP   (TOP(S(NP*)        -    -   -    Jon_Kyl  *    (ARG0*)   (51)
+bc/cnn/00/cnn_0006   8   1       enjoy    VBP         (VP*      enjoy  01   1    Jon_Kyl  *       (V*)     -
+bc/cnn/00/cnn_0006   8   2         our   PRP$         (NP*         -    -   -    Jon_Kyl  *    (ARG1*    (51)
+bc/cnn/00/cnn_0006   8   3    freedoms    NNS           *))   freedom   -   1    Jon_Kyl  *         *)     -
+bc/cnn/00/cnn_0006   8   4          /.      .           *))        -    -   -    Jon_Kyl  *         *      -
+
+bc/cnn/00/cnn_0006   8    0            uh    UH       (TOP(S(INTJ*)        -    -   -    Jon_Kyl  *    (ARGM-DIS*)       *             *               *      -
+bc/cnn/00/cnn_0006   8    1            it   PRP           (NP(NP*))        -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8    2            is   VBZ               (VP*         be  01   1    Jon_Kyl  *           (V*)       *             *               *      -
+bc/cnn/00/cnn_0006   8    3        simply    RB             (ADJP*         -    -   -    Jon_Kyl  *        (ARG2*        *             *               *      -
+bc/cnn/00/cnn_0006   8    4    impossible    JJ                  *)        -    -   -    Jon_Kyl  *             *)       *             *               *      -
+bc/cnn/00/cnn_0006   8    5            to    TO             (S(VP*         -    -   -    Jon_Kyl  *        (ARG1*        *             *               *      -
+bc/cnn/00/cnn_0006   8    6       protect    VB               (VP*    protect  01   1    Jon_Kyl  *             *      (V*)            *               *      -
+bc/cnn/00/cnn_0006   8    7         every    DT            (NP(NP*         -    -   -    Jon_Kyl  *             *   (ARG1*             *               *      -
+bc/cnn/00/cnn_0006   8    8        single    JJ                  *         -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8    9      shopping    NN                  *       shop   -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   10        center    NN                  *)    center   -   6    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   11         every    DT               (NP*         -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   12        single    JJ                  *         -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   13           bus    NN                  *)       bus   -   1    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   14         every    DT               (NP*         -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   15        single    JJ                  *         -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   16         train    NN                  *)     train   -   1    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   17            or    CC                  *         -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   18            uh    UH             (INTJ*)        -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   19           any    DT            (NP(NP*         -    -   -    Jon_Kyl  *             *        *             *      (ARGM-LOC*      -
+bc/cnn/00/cnn_0006   8   20         other    JJ                  *         -    -   -    Jon_Kyl  *             *        *             *               *      -
+bc/cnn/00/cnn_0006   8   21         place    NN                  *)     place   -   1    Jon_Kyl  *             *        *             *               *)     -
+bc/cnn/00/cnn_0006   8   22         where   WRB      (SBAR(WHADVP*)        -    -   -    Jon_Kyl  *             *        *             *    (R-ARGM-LOC*)     -
+bc/cnn/00/cnn_0006   8   23    terrorists   NNS             (S(NP*)        -    -   -    Jon_Kyl  *             *        *        (ARG0*)         (ARG0*)   (15)
+bc/cnn/00/cnn_0006   8   24           may    MD               (VP*         -    -   -    Jon_Kyl  *             *        *    (ARGM-MOD*)              *      -
+bc/cnn/00/cnn_0006   8   25          wish    VB               (VP*       wish  01   2    Jon_Kyl  *             *        *           (V*)              *      -
+bc/cnn/00/cnn_0006   8   26            to    TO             (S(VP*         -    -   -    Jon_Kyl  *             *        *        (ARG1*               *      -
+bc/cnn/00/cnn_0006   8   27        strike    VB   (VP*)))))))))))))    strike  01   1    Jon_Kyl  *             *)       *)            *)            (V*)     -
+bc/cnn/00/cnn_0006   8   28            /.     .                 *))        -    -   -    Jon_Kyl  *             *        *             *               *      -
+
+bc/cnn/00/cnn_0006   8    0           And     CC                   (TOP(S*         -    -    -    Jon_Kyl  *    (ARGM-DIS*)        *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8    1          they    PRP                      (NP*)        -    -    -    Jon_Kyl  *        (ARG0*)   (ARG0*)     *         *         *             *        *      *             *     (15)
+bc/cnn/00/cnn_0006   8    2        adjust    VBP                      (VP*     adjust  01    1    Jon_Kyl  *           (V*)        *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8    3         their   PRP$                      (NP*         -    -    -    Jon_Kyl  *        (ARG1*         *      *         *         *             *        *      *             *     (15)
+bc/cnn/00/cnn_0006   8    4       tactics    NNS                         *)        -    -    -    Jon_Kyl  *             *)        *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8    5            in     IN                      (PP*         -    -    -    Jon_Kyl  *        (ARG4*         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8    6         order     NN                      (NP*      order   -   10    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8    7            to     TO                    (S(VP*         -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8    8          find     VB                      (VP*       find  03    1    Jon_Kyl  *             *       (V*)     *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8    9           out     RP                     (PRT*)        -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   10          what     WP          (SBAR(SBAR(WHNP*)        -    -    -    Jon_Kyl  *             *    (ARG1*      *    (ARG1*)        *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   11            we    PRP                    (S(NP*)        -    -    -    Jon_Kyl  *             *         *      *    (ARG0*)        *             *        *      *             *    (129)
+bc/cnn/00/cnn_0006   8   12           are    VBP                      (VP*         be  03    -    Jon_Kyl  *             *         *    (V*)        *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   13    protecting    VBG                   (VP*))))   protect  01    1    Jon_Kyl  *             *         *      *       (V*)        *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   14           and     CC                         *         -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   15     therefore     RB                    (ADVP*)        -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   16          what     WP               (SBAR(WHNP*)        -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   17          they    PRP                    (S(NP*)        -    -    -    Jon_Kyl  *             *         *      *         *    (ARG0*)       (ARG0*)       *      *             *     (15)
+bc/cnn/00/cnn_0006   8   18          want    VBP                      (VP*       want  01    1    Jon_Kyl  *             *         *      *         *       (V*)            *        *      *             *       -
+bc/cnn/00/cnn_0006   8   19            to     TO                    (S(VP*         -    -    -    Jon_Kyl  *             *         *      *         *    (ARG1*             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   20            uh     UH                    (INTJ*)        -    -    -    Jon_Kyl  *             *         *      *         *         *    (ARGM-DIS*)       *      *             *       -
+bc/cnn/00/cnn_0006   8   21        change    VBP                      (VP*     change  01    1    Jon_Kyl  *             *         *      *         *         *           (V*)       *      *             *       -
+bc/cnn/00/cnn_0006   8   22            to     IN                      (PP*)        -    -    -    Jon_Kyl  *             *         *      *         *         *        (ARG2*)       *      *             *       -
+bc/cnn/00/cnn_0006   8   23            uh     UH                    (INTJ*)        -    -    -    Jon_Kyl  *             *         *      *         *         *    (ARGM-DIS*)       *      *             *       -
+bc/cnn/00/cnn_0006   8   24            to     TO                    (S(VP*         -    -    -    Jon_Kyl  *             *         *      *         *         *    (ARGM-PRP*        *      *             *       -
+bc/cnn/00/cnn_0006   8   25        attack     VB                         *     attack  01    1    Jon_Kyl  *             *         *      *         *         *             *      (V*)     *             *       -
+bc/cnn/00/cnn_0006   8   26             a     DT                (NP(NP(NP*         -    -    -    Jon_Kyl  *             *         *      *         *         *             *   (ARG1*      *        (ARG1*       -
+bc/cnn/00/cnn_0006   8   27        softer    JJR                         *         -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   28          kind     NN                         *)        -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   29            of     IN                      (PP*         -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+bc/cnn/00/cnn_0006   8   30        target     NN                    (NP*)))    target   -    2    Jon_Kyl  *             *         *      *         *         *             *        *      *             *)      -
+bc/cnn/00/cnn_0006   8   31          that    WDT               (SBAR(WHNP*)        -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *      (R-ARG1*)      -
+bc/cnn/00/cnn_0006   8   32            is    VBZ                    (S(VP*         be  03    -    Jon_Kyl  *             *         *      *         *         *             *        *    (V*)            *       -
+bc/cnn/00/cnn_0006   8   33           n't     RB                         *         -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0006   8   34     protected    VBN   (VP*))))))))))))))))))))   protect  01    -    Jon_Kyl  *             *)        *)     *         *         *)            *)       *)     *           (V*)      -
+bc/cnn/00/cnn_0006   8   35            /.      .                        *))        -    -    -    Jon_Kyl  *             *         *      *         *         *             *        *      *             *       -
+
+bc/cnn/00/cnn_0006   8    0              So     RB   (TOP(S(ADVP*)           -    -   -    Jon_Kyl  *    (ARGM-DIS*)           *        *        *        *       -
+bc/cnn/00/cnn_0006   8    1             our   PRP$           (NP*            -    -   -    Jon_Kyl  *        (ARG1*            *        *        *        *    (129)
+bc/cnn/00/cnn_0006   8    2        strategy     NN              *)     strategy   -   1    Jon_Kyl  *             *)           *        *        *        *       -
+bc/cnn/00/cnn_0006   8    3              is    VBZ           (VP*            be  01   1    Jon_Kyl  *           (V*)           *        *        *        *       -
+bc/cnn/00/cnn_0006   8    4             not     RB      (S(CONJP*            -    -   -    Jon_Kyl  *        (ARG2*            *        *        *        *       -
+bc/cnn/00/cnn_0006   8    5            only     RB              *)           -    -   -    Jon_Kyl  *             *            *        *        *        *       -
+bc/cnn/00/cnn_0006   8    6              to     TO         (S(VP*            -    -   -    Jon_Kyl  *             *            *        *        *        *       -
+bc/cnn/00/cnn_0006   8    7              do     VB           (VP*            do  02   1    Jon_Kyl  *             *          (V*)       *        *        *       -
+bc/cnn/00/cnn_0006   8    8            what     WP    (SBAR(WHNP*)           -    -   -    Jon_Kyl  *             *       (ARG1*        *        *        *       -
+bc/cnn/00/cnn_0006   8    9              we    PRP         (S(NP*)           -    -   -    Jon_Kyl  *             *            *        *        *        *    (129)
+bc/cnn/00/cnn_0006   8   10             can     MD         (VP*)))           -    -   -    Jon_Kyl  *             *            *)       *        *        *       -
+bc/cnn/00/cnn_0006   8   11              in     IN           (PP*            -    -   -    Jon_Kyl  *             *   (ARGM-ADV*        *        *        *       -
+bc/cnn/00/cnn_0006   8   12    prioritizing    VBG         (S(VP*    prioritize  01   -    Jon_Kyl  *             *            *      (V*)       *        *       -
+bc/cnn/00/cnn_0006   8   13      protection     NN        (NP(NP*)   protection  01   2    Jon_Kyl  *             *            *   (ARG1*      (V*)       *       -
+bc/cnn/00/cnn_0006   8   14              of     IN           (PP*            -    -   -    Jon_Kyl  *             *            *        *   (ARG1*        *       -
+bc/cnn/00/cnn_0006   8   15             the     DT           (NP*            -    -   -    Jon_Kyl  *             *            *        *        *        *    (157
+bc/cnn/00/cnn_0006   8   16        homeland     NN      *)))))))))           -    -   -    Jon_Kyl  *             *            *)       *)       *)       *     157)
+bc/cnn/00/cnn_0006   8   17             but     CC              *            -    -   -    Jon_Kyl  *             *            *        *        *        *       -
+bc/cnn/00/cnn_0006   8   18         frankly     RB         (ADVP*)           -    -   -    Jon_Kyl  *             *            *        *        *        *       -
+bc/cnn/00/cnn_0006   8   19      conducting    VBG         (S(VP*       conduct  01   2    Jon_Kyl  *             *            *        *        *      (V*)    (42)
+bc/cnn/00/cnn_0006   8   20       offensive     JJ        (NP(NP*            -    -   -    Jon_Kyl  *             *            *        *        *   (ARG1*       -
+bc/cnn/00/cnn_0006   8   21      operations    NNS              *)    operation   -   1    Jon_Kyl  *             *            *        *        *        *       -
+bc/cnn/00/cnn_0006   8   22         against     IN           (PP*            -    -   -    Jon_Kyl  *             *            *        *        *        *       -
+bc/cnn/00/cnn_0006   8   23             the     DT           (NP*            -    -   -    Jon_Kyl  *             *            *        *        *        *       -
+bc/cnn/00/cnn_0006   8   24      terrorists    NNS        *)))))))           -    -   -    Jon_Kyl  *             *)           *        *        *        *)      -
+bc/cnn/00/cnn_0006   8   25              /.      .             *))           -    -   -    Jon_Kyl  *             *            *        *        *        *       -
+
+bc/cnn/00/cnn_0006   8   0         and     CC         (TOP(S*          -    -   -    Jon_Kyl  *    (ARGM-DIS*)            *       -
+bc/cnn/00/cnn_0006   8   1        that     DT            (NP*)         -    -   -    Jon_Kyl  *        (ARG1*)            *     (42)
+bc/cnn/00/cnn_0006   8   2          's    VBZ            (VP*          be  01   2    Jon_Kyl  *           (V*)            *       -
+bc/cnn/00/cnn_0006   8   3       where    WRB   (SBAR(WHADVP*)         -    -   -    Jon_Kyl  *        (ARG2*        (ARG2*)      -
+bc/cnn/00/cnn_0006   8   4         our   PRP$          (S(NP*          -    -   -    Jon_Kyl  *             *        (ARG1*    (129)
+bc/cnn/00/cnn_0006   8   5    emphasis     NN               *)   emphasis   -   1    Jon_Kyl  *             *             *)      -
+bc/cnn/00/cnn_0006   8   6      should     MD            (VP*          -    -   -    Jon_Kyl  *             *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0006   8   7          be     VB        (VP*)))))         be  01   4    Jon_Kyl  *             *)          (V*)      -
+bc/cnn/00/cnn_0006   8   8          /.      .              *))         -    -   -    Jon_Kyl  *             *             *       -
+
+bc/cnn/00/cnn_0006   8    0            That    DT   (TOP(S(NP*)     -    -   -    Jon_Kyl      *        (ARG0*)          -
+bc/cnn/00/cnn_0006   8    1           means   VBZ         (VP*    mean  01   3    Jon_Kyl      *           (V*)          -
+bc/cnn/00/cnn_0006   8    2              uh    UH       (INTJ*)     -    -   -    Jon_Kyl      *    (ARGM-DIS*)          -
+bc/cnn/00/cnn_0006   8    3               a    DT      (NP(NP*      -    -   -    Jon_Kyl      *        (ARG1*        (176
+bc/cnn/00/cnn_0006   8    4            very    RB       (ADJP*      -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8    5            good    JJ            *)     -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8    6    intelligence    NN            *      -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8    7      capability    NN            *)     -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8    8            both    CC        (UCP*      -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8    9          abroad    RB       (ADVP*)     -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8   10             and    CC            *      -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8   11              in    IN         (PP*      -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8   12             the    DT         (NP*      -    -   -    Jon_Kyl  (GPE*             *        (157
+bc/cnn/00/cnn_0006   8   13          United   NNP            *      -    -   -    Jon_Kyl      *             *           -
+bc/cnn/00/cnn_0006   8   14          States   NNP        *)))))     -    -   -    Jon_Kyl      *)            *)   176)|157)
+bc/cnn/00/cnn_0006   8   15              /.     .           *))     -    -   -    Jon_Kyl      *             *           -
+
+bc/cnn/00/cnn_0006   8   0         That    DT    (TOP(S(NP*)     -    -   -    Jon_Kyl      *    (ARG1*)        *    (176)
+bc/cnn/00/cnn_0006   8   1           's   VBZ          (VP*      be  01   2    Jon_Kyl      *       (V*)        *       -
+bc/cnn/00/cnn_0006   8   2         what    WP   (SBAR(WHNP*)     -    -   -    Jon_Kyl      *    (ARG2*    (ARG0*)      -
+bc/cnn/00/cnn_0006   8   3        makes   VBZ        (S(VP*    make  02   3    Jon_Kyl      *         *       (V*)      -
+bc/cnn/00/cnn_0006   8   4          the    DT        (S(NP*      -    -   -    Jon_Kyl  (LAW*         *    (ARG1*     (10
+bc/cnn/00/cnn_0006   8   5      Patriot   NNP             *      -    -   -    Jon_Kyl      *         *         *       -
+bc/cnn/00/cnn_0006   8   6          Act   NNP             *)     -    -   -    Jon_Kyl      *)        *         *      10)
+bc/cnn/00/cnn_0006   8   7           so    RB        (ADJP*      -    -   -    Jon_Kyl      *         *         *       -
+bc/cnn/00/cnn_0006   8   8    important    JJ        *))))))     -    -   -    Jon_Kyl      *         *)        *)      -
+bc/cnn/00/cnn_0006   8   9           /.     .            *))     -    -   -    Jon_Kyl      *         *         *       -
+
+bc/cnn/00/cnn_0006   8    0             But    CC  (TOP(SQ*             -    -    -    Wolf_Blitzer         *      *    (ARGM-DIS*)           *        *       -
+bc/cnn/00/cnn_0006   8    1            have   VBP         *           have  01   12    Wolf_Blitzer         *    (V*)            *            *        *       -
+bc/cnn/00/cnn_0006   8    2             you   PRP      (NP*)            -    -    -    Wolf_Blitzer         *      *        (ARG0*)           *        *    (151)
+bc/cnn/00/cnn_0006   8    3            seen   VBN      (VP*            see  01    3    Wolf_Blitzer         *      *           (V*)           *        *       -
+bc/cnn/00/cnn_0006   8    4         Senator   NNP      (NP*             -    -    -    Wolf_Blitzer         *      *    (ARGM-DIS*            *        *    (151
+bc/cnn/00/cnn_0006   8    5             Kyl   NNP         *)            -    -    -    Wolf_Blitzer   (PERSON)     *             *)           *        *     151)
+bc/cnn/00/cnn_0006   8    6               a    DT   (NP(NP*             -    -    -    Wolf_Blitzer         *      *        (ARG1*            *        *       -
+bc/cnn/00/cnn_0006   8    7        dramatic    JJ         *             -    -    -    Wolf_Blitzer         *      *             *       (ARG2*)       *       -
+bc/cnn/00/cnn_0006   8    8     improvement    NN         *)   improvement  01    1    Wolf_Blitzer         *      *             *          (V*)       *       -
+bc/cnn/00/cnn_0006   8    9              in    IN      (PP*             -    -    -    Wolf_Blitzer         *      *             *       (ARG1*        *       -
+bc/cnn/00/cnn_0006   8   10    intelligence    NN   (NP(NP*             -    -    -    Wolf_Blitzer         *      *             *            *        *    (166
+bc/cnn/00/cnn_0006   8   11       gathering    NN         *)        gather   -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   12           human    JJ      (NP*             -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   13    intelligence    NN         *)            -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   14    infiltrating   VBG    (S(VP*     infiltrate  01    2    Wolf_Blitzer         *      *             *            *      (V*)      -
+bc/cnn/00/cnn_0006   8   15           these    DT      (NP*             -    -    -    Wolf_Blitzer         *      *             *            *   (ARG1*       -
+bc/cnn/00/cnn_0006   8   16           cells   NNS     *)))))          cell   -    2    Wolf_Blitzer         *      *             *            *)       *)    166)
+bc/cnn/00/cnn_0006   8   17            over    IN      (PP*             -    -    -    Wolf_Blitzer         *      *             *   (ARGM-TMP*        *       -
+bc/cnn/00/cnn_0006   8   18             the    DT      (NP*             -    -    -    Wolf_Blitzer    (DATE*      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   19            past    JJ         *             -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   20             few    JJ         *             -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   21           years   NNS        *))            -    -    -    Wolf_Blitzer         *)     *             *            *)       *       -
+bc/cnn/00/cnn_0006   8   22              on    IN      (PP*             -    -    -    Wolf_Blitzer         *      *             *       (ARG0*        *       -
+bc/cnn/00/cnn_0006   8   23             the    DT   (NP(NP*             -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   24            part    NN         *)          part   -    2    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   25              of    IN      (PP*             -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   26             the    DT      (NP*             -    -    -    Wolf_Blitzer     (GPE*      *             *            *        *    (157
+bc/cnn/00/cnn_0006   8   27          United   NNP         *             -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+bc/cnn/00/cnn_0006   8   28          States   NNP    *))))))            -    -    -    Wolf_Blitzer         *)     *             *)           *)       *     157)
+bc/cnn/00/cnn_0006   8   29              /?     .        *))            -    -    -    Wolf_Blitzer         *      *             *            *        *       -
+
+bc/cnn/00/cnn_0006   8   0          It   PRP   (TOP(S(NP*)        -    -   -    Jon_Kyl  *      *    (ARG1*)   (166)
+bc/cnn/00/cnn_0006   8   1          's   VBZ         (VP*         be  03   1    Jon_Kyl  *    (V*)        *       -
+bc/cnn/00/cnn_0006   8   2    improved   VBN        (VP*))   improve  01   1    Jon_Kyl  *      *       (V*)   (109)
+bc/cnn/00/cnn_0006   8   3          /.     .           *))        -    -   -    Jon_Kyl  *      *         *       -
+
+bc/cnn/00/cnn_0006   8   0              I   PRP   (TOP(S(NP*)            -    -   -    Jon_Kyl  *        (ARG0*)        *    (151)
+bc/cnn/00/cnn_0006   8   1          would    MD         (VP*             -    -   -    Jon_Kyl  *    (ARGM-MOD*)        *       -
+bc/cnn/00/cnn_0006   8   2            n't    RB            *             -    -   -    Jon_Kyl  *    (ARGM-NEG*)        *       -
+bc/cnn/00/cnn_0006   8   3           call    VB         (VP*           call  01   5    Jon_Kyl  *           (V*)        *       -
+bc/cnn/00/cnn_0006   8   4             it   PRP         (NP*)            -    -   -    Jon_Kyl  *        (ARG1*)        *    (109)
+bc/cnn/00/cnn_0006   8   5              a    DT       (S(NP*             -    -   -    Jon_Kyl  *        (ARG2*         *       -
+bc/cnn/00/cnn_0006   8   6       dramatic    JJ            *             -    -   -    Jon_Kyl  *             *    (ARG2*)      -
+bc/cnn/00/cnn_0006   8   7    improvement    NN         *))))   improvement  01   1    Jon_Kyl  *             *)      (V*)      -
+bc/cnn/00/cnn_0006   8   8             /.     .           *))            -    -   -    Jon_Kyl  *             *         *       -
+
+bc/cnn/00/cnn_0006   8    0              But    CC        (TOP(S*             -    -   -    Jon_Kyl      *    (ARGM-DIS*)     *        *        *        *       -
+bc/cnn/00/cnn_0006   8    1               it   PRP           (NP*)            -    -   -    Jon_Kyl      *        (ARG1*)     *        *        *        *    (109)
+bc/cnn/00/cnn_0006   8    2        certainly    RB         (ADVP*)            -    -   -    Jon_Kyl      *    (ARGM-ADV*)     *        *        *        *       -
+bc/cnn/00/cnn_0006   8    3               is   VBZ           (VP*             be  01   1    Jon_Kyl      *           (V*)     *        *        *        *       -
+bc/cnn/00/cnn_0006   8    4               an    DT           (NP*             -    -   -    Jon_Kyl      *        (ARG2*      *        *        *        *       -
+bc/cnn/00/cnn_0006   8    5      improvement    NN              *)   improvement  01   1    Jon_Kyl      *             *)   (V*)       *        *        *       -
+bc/cnn/00/cnn_0006   8    6             with    IN           (PP*             -    -   -    Jon_Kyl      *    (ARGM-ADV*      *        *        *        *       -
+bc/cnn/00/cnn_0006   8    7           things   NNS        (NP(NP*)         thing   -   1    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8    8             like    IN           (PP*             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8    9              the    DT        (NP(NP*             -    -   -    Jon_Kyl  (LAW*             *      *   (ARG0*   (ARG0*        *     (10
+bc/cnn/00/cnn_0006   8   10          Patriot   NNP              *             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   11              Act   NNP              *)            -    -   -    Jon_Kyl      *)            *      *        *)       *)       *      10)
+bc/cnn/00/cnn_0006   8   12    strengthening   VBG         (S(VP*     strengthen  01   1    Jon_Kyl      *             *      *      (V*)       *        *       -
+bc/cnn/00/cnn_0006   8   13              the    DT           (NP*             -    -   -    Jon_Kyl      *             *      *   (ARG1*        *        *       -
+bc/cnn/00/cnn_0006   8   14             FISA   NNP              *             -    -   -    Jon_Kyl   (LAW)            *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   15               uh    UH              *             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   16      enforcement    NN            *)))            -    -   -    Jon_Kyl      *             *      *        *)       *        *       -
+bc/cnn/00/cnn_0006   8   17         allowing   VBG         (S(VP*          allow  01   1    Jon_Kyl      *             *      *        *      (V*)       *       -
+bc/cnn/00/cnn_0006   8   18              the    DT      (S(NP(NP*             -    -   -    Jon_Kyl      *             *      *        *   (ARG1*   (ARG0*       -
+bc/cnn/00/cnn_0006   8   19     intelligence    NN              *             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   20         agencies   NNS              *)        agency   -   1    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   21              and    CC              *             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   22              the    DT           (NP*             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   23              FBI   NNP             *))            -    -   -    Jon_Kyl   (ORG)            *      *        *        *        *)      -
+bc/cnn/00/cnn_0006   8   24               to    TO           (VP*             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   25             talk    VB           (VP*           talk  01   1    Jon_Kyl      *             *      *        *        *      (V*)      -
+bc/cnn/00/cnn_0006   8   26               to    IN           (PP*             -    -   -    Jon_Kyl      *             *      *        *        *   (ARG2*       -
+bc/cnn/00/cnn_0006   8   27             each    DT           (NP*             -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+bc/cnn/00/cnn_0006   8   28            other    JJ   *))))))))))))            -    -   -    Jon_Kyl      *             *)     *        *        *)       *)      -
+bc/cnn/00/cnn_0006   8   29               /.     .             *))            -    -   -    Jon_Kyl      *             *      *        *        *        *       -
+
+bc/cnn/00/cnn_0006   8    0         We   PRP   (TOP(S(NP*)       -    -   -    Jon_Kyl        *      *        (ARG1*)   (129)
+bc/cnn/00/cnn_0006   8    1       have   VBP         (VP*      have  01   -    Jon_Kyl        *    (V*)            *       -
+bc/cnn/00/cnn_0006   8    2       gone   VBN         (VP*        go  01   4    Jon_Kyl        *      *           (V*)      -
+bc/cnn/00/cnn_0006   8    3         uh    UH       (INTJ*)       -    -   -    Jon_Kyl        *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   8    4      since    IN         (PP*        -    -   -    Jon_Kyl        *      *    (ARGM-TMP*       -
+bc/cnn/00/cnn_0006   8    5       nine    CD         (NP*        -    -   -    Jon_Kyl  (EVENT*      *             *       -
+bc/cnn/00/cnn_0006   8    6     eleven   NNS           *))       -    -   -    Jon_Kyl        *)     *             *)      -
+bc/cnn/00/cnn_0006   8    7    without    IN         (PP*        -    -   -    Jon_Kyl        *      *    (ARGM-MNR*       -
+bc/cnn/00/cnn_0006   8    8         an    DT      (NP(NP*        -    -   -    Jon_Kyl        *      *             *       -
+bc/cnn/00/cnn_0006   8    9     attack    NN            *)   attack   -   -    Jon_Kyl        *      *             *       -
+bc/cnn/00/cnn_0006   8   10       here    RB       (ADVP*        -    -   -    Jon_Kyl        *      *             *       -
+bc/cnn/00/cnn_0006   8   11         in    IN         (PP*        -    -   -    Jon_Kyl        *      *             *       -
+bc/cnn/00/cnn_0006   8   12        the    DT         (NP*        -    -   -    Jon_Kyl    (GPE*      *             *    (157
+bc/cnn/00/cnn_0006   8   13     United   NNP            *        -    -   -    Jon_Kyl        *      *             *       -
+bc/cnn/00/cnn_0006   8   14     States   NNP      *)))))))       -    -   -    Jon_Kyl        *)     *             *)    157)
+bc/cnn/00/cnn_0006   8   15         /.     .           *))       -    -   -    Jon_Kyl        *      *             *       -
+
+bc/cnn/00/cnn_0006   8   0        We   PRP   (TOP(S(NP*)      -    -      -    Jon_Kyl  *      *    (ARG0*)   (129)
+bc/cnn/00/cnn_0006   8   1       've   VBP         (VP*     have  01     12    Jon_Kyl  *    (V*)        *       -
+bc/cnn/00/cnn_0006   8   2    broken   VBN         (VP*    break  08   16.1    Jon_Kyl  *      *       (V*)      -
+bc/cnn/00/cnn_0006   8   3        up    RP        (PRT*)      -    -      -    Jon_Kyl  *      *         *       -
+bc/cnn/00/cnn_0006   8   4     cells   NNS       (NP*)))    cell   -      2    Jon_Kyl  *      *    (ARG1*)      -
+bc/cnn/00/cnn_0006   8   5        /.     .           *))      -    -      -    Jon_Kyl  *      *         *       -
+
+bc/cnn/00/cnn_0006   8   0          We   PRP   (TOP(S(NP*)       -    -    -    Jon_Kyl  *      *    (ARG0*)   (ARG0*)   (129)
+bc/cnn/00/cnn_0006   8   1         've   VBP         (VP*      have  01   12    Jon_Kyl  *    (V*)        *         *       -
+bc/cnn/00/cnn_0006   8   2    arrested   VBN      (VP(VP*    arrest  01    1    Jon_Kyl  *      *       (V*)        *       -
+bc/cnn/00/cnn_0006   8   3      people   NNS        (NP*))   people   -    1    Jon_Kyl  *      *    (ARG1*)        *    (131)
+bc/cnn/00/cnn_0006   8   4         put   VBN         (VP*       put  01    1    Jon_Kyl  *      *         *       (V*)      -
+bc/cnn/00/cnn_0006   8   5        them   PRP         (NP*)       -    -    -    Jon_Kyl  *      *         *    (ARG1*)   (131)
+bc/cnn/00/cnn_0006   8   6          in    IN         (PP*        -    -    -    Jon_Kyl  *      *         *    (ARG2*       -
+bc/cnn/00/cnn_0006   8   7        jail    NN     (NP*)))))     jail   -    -    Jon_Kyl  *      *         *         *)      -
+bc/cnn/00/cnn_0006   8   8          /.     .           *))       -    -    -    Jon_Kyl  *      *         *         *       -
+
+bc/cnn/00/cnn_0006   8   0        We   PRP   (TOP(S(NP*)     -    -    -    Jon_Kyl  *      *        (ARG0*)   (129)
+bc/cnn/00/cnn_0006   8   1       've   VBP         (VP*    have  01   12    Jon_Kyl  *    (V*)            *       -
+bc/cnn/00/cnn_0006   8   2      done   VBN         (VP*      do  02    1    Jon_Kyl  *      *           (V*)      -
+bc/cnn/00/cnn_0006   8   3       the    DT         (NP*      -    -    -    Jon_Kyl  *      *        (ARG1*       -
+bc/cnn/00/cnn_0006   8   4      same    JJ            *)     -    -    -    Jon_Kyl  *      *             *)      -
+bc/cnn/00/cnn_0006   8   5    abroad    RB     (ADVP*)))     -    -    -    Jon_Kyl  *      *    (ARGM-LOC*)      -
+bc/cnn/00/cnn_0006   8   6        /.     .           *))     -    -    -    Jon_Kyl  *      *             *       -
+
+bc/cnn/00/cnn_0006   8    0              We   PRP   (TOP(S(NP*)          -    -    -    Jon_Kyl           *      *        (ARG0*)   (129)
+bc/cnn/00/cnn_0006   8    1             've   VBP         (VP*         have  01   12    Jon_Kyl           *    (V*)            *       -
+bc/cnn/00/cnn_0006   8    2        thwarted   VBN         (VP*       thwart  01    1    Jon_Kyl           *      *           (V*)      -
+bc/cnn/00/cnn_0006   8    3              uh    UH       (INTJ*)          -    -    -    Jon_Kyl           *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0006   8    4       literally    RB      (NP(QP*           -    -    -    Jon_Kyl           *      *        (ARG1*       -
+bc/cnn/00/cnn_0006   8    5            well    RB            *           -    -    -    Jon_Kyl  (CARDINAL*      *             *       -
+bc/cnn/00/cnn_0006   8    6            over    IN            *           -    -    -    Jon_Kyl           *      *             *       -
+bc/cnn/00/cnn_0006   8    7               a    DT            *           -    -    -    Jon_Kyl           *      *             *       -
+bc/cnn/00/cnn_0006   8    8         hundred    CD            *)          -    -    -    Jon_Kyl           *)     *             *       -
+bc/cnn/00/cnn_0006   8    9         attacks   NNS            *)      attack   -    -    Jon_Kyl           *      *             *)      -
+bc/cnn/00/cnn_0006   8   10          abroad    RB       (ADVP*)          -    -    -    Jon_Kyl           *      *    (ARGM-LOC*)      -
+bc/cnn/00/cnn_0006   8   11            with    IN         (PP*           -    -    -    Jon_Kyl           *      *    (ARGM-MNR*       -
+bc/cnn/00/cnn_0006   8   12              an    DT         (NP*           -    -    -    Jon_Kyl           *      *             *       -
+bc/cnn/00/cnn_0006   8   13      aggressive    JJ            *           -    -    -    Jon_Kyl           *      *             *       -
+bc/cnn/00/cnn_0006   8   14    intelligence    NN            *           -    -    -    Jon_Kyl           *      *             *       -
+bc/cnn/00/cnn_0006   8   15       operation    NN         *))))   operation   -    1    Jon_Kyl           *      *             *)      -
+bc/cnn/00/cnn_0006   8   16              /.     .           *))          -    -    -    Jon_Kyl           *      *             *       -
+
+bc/cnn/00/cnn_0006   8    0              So     RB       (TOP(S(ADVP*)          -    -   -    Jon_Kyl  *        *    (ARGM-DIS*)           *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8    1              um     UH             (INTJ*)          -    -   -    Jon_Kyl  *        *    (ARGM-DIS*)           *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8    2             the     DT            (NP(NP*           -    -   -    Jon_Kyl  *        *        (ARG1*            *             *        *             *            *        *         *    (57
+bc/cnn/00/cnn_0006   8    3             the     DT                  *           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8    4             war     NN                  *)         war  01   1    Jon_Kyl  *      (V*)            *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8    5              on     IN               (PP*           -    -   -    Jon_Kyl  *   (ARG1*             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8    6          terror     NN             (NP*)))          -    -   -    Jon_Kyl  *        *)            *)           *             *        *             *            *        *         *     57)
+bc/cnn/00/cnn_0006   8    7              is    VBZ               (VP*           be  01   1    Jon_Kyl  *        *           (V*)           *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8    8          really     RB             (ADVP*)          -    -   -    Jon_Kyl  *        *    (ARGM-ADV*)           *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8    9               a     DT            (NP(NP*           -    -   -    Jon_Kyl  *        *        (ARG2*            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   10             war     NN                  *)         war  01   1    Jon_Kyl  *        *             *          (V*)            *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   11            with     IN               (PP*           -    -   -    Jon_Kyl  *        *             *   (ARGM-ADJ*             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   12            many     JJ               (NP*           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *    (32
+bc/cnn/00/cnn_0006   8   13          fronts    NNS                *)))       front   -   4    Jon_Kyl  *        *             *)           *)            *        *             *            *        *         *     32)
+bc/cnn/00/cnn_0006   8   14               .      ,                  *           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   15             The     DT          (S(NP(NP*           -    -   -    Jon_Kyl  *        *    (ARGM-PRD*            *        (ARG1*        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   16           first     JJ                  *           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   17             and     CC                  *           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   18        foremost     JJ                  *)          -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   19              uh     UH             (INTJ*)          -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   20           among     IN               (PP*           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   21            them    PRP             (NP*)))          -    -   -    Jon_Kyl  *        *             *            *             *)       *             *            *        *         *    (32)
+bc/cnn/00/cnn_0006   8   22           being    VBG               (VP*           be  01   -    Jon_Kyl  *        *             *            *           (V*)       *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   23              um     UH             (INTJ*)          -    -   -    Jon_Kyl  *        *             *            *    (ARGM-DIS*)       *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   24          trying    VBG          (S(VP(VP*          try  01   1    Jon_Kyl  *        *             *            *        (ARG2*      (V*)            *            *        *         *      -
+bc/cnn/00/cnn_0006   8   25              to     TO             (S(VP*           -    -   -    Jon_Kyl  *        *             *            *             *   (ARG1*             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   26           fight     VB               (VP*        fight  01   1    Jon_Kyl  *        *             *            *             *        *           (V*)           *        *         *      -
+bc/cnn/00/cnn_0006   8   27             the     DT               (NP*           -    -   -    Jon_Kyl  *        *             *            *             *        *        (ARG1*            *        *         *    (72
+bc/cnn/00/cnn_0006   8   28           enemy     NN                  *)       enemy   -   1    Jon_Kyl  *        *             *            *             *        *             *)           *        *         *     72)
+bc/cnn/00/cnn_0006   8   29          abroad     RB         (ADVP*)))))          -    -   -    Jon_Kyl  *        *             *            *             *        *)   (ARGM-LOC*)           *        *         *      -
+bc/cnn/00/cnn_0006   8   30             and     CC                  *           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   31        engaging    VBG               (VP*       engage  01   1    Jon_Kyl  *        *             *            *             *        *             *          (V*)       *         *      -
+bc/cnn/00/cnn_0006   8   32              in     IN               (PP*           -    -   -    Jon_Kyl  *        *             *            *             *        *             *       (ARG2*        *         *      -
+bc/cnn/00/cnn_0006   8   33               a     DT               (NP*           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   34     significant     JJ                  *           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   35    intelligence     NN                  *           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   36       operation     NN                 *))   operation   -   1    Jon_Kyl  *        *             *            *             *        *             *            *)       *         *      -
+bc/cnn/00/cnn_0006   8   37              to     TO             (S(VP*           -    -   -    Jon_Kyl  *        *             *            *             *        *             *   (ARGM-PRP*        *         *      -
+bc/cnn/00/cnn_0006   8   38         disrupt     VB               (VP*      disrupt  01   1    Jon_Kyl  *        *             *            *             *        *             *            *      (V*)        *      -
+bc/cnn/00/cnn_0006   8   39           their   PRP$               (NP*           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *   (ARG1*    (ARG0*)   (72)
+bc/cnn/00/cnn_0006   8   40         ability     NN                  *      ability   -   1    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   41              to     TO             (S(VP*           -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -
+bc/cnn/00/cnn_0006   8   42          attack     VB   (VP*)))))))))))))      attack  01   1    Jon_Kyl  *        *             *)           *             *)       *             *            *)       *)      (V*)     -
+bc/cnn/00/cnn_0006   8   43              /.      .                 *))          -    -   -    Jon_Kyl  *        *             *            *             *        *             *            *        *         *      -

@@ -49,7 +49,7 @@ def parse_sents(a_list):
         def_d[idx] = d
         ent = list()
     for item in def_d:
-        ents = [re.search('[0-9]+',w).group() for i,w in enumerate(def_d[item]['entity']) if re.search('[0-9]+',w) and re.search('PERSON',def_d[item]['ner'][i])]
+        ents = [re.search('[0-9]+',w).group() for i,w in enumerate(def_d[item]['entity']) if re.search('[0-9]+',w) and (re.search('PERSON',def_d[item]['ner'][i]) or re.search('ORG',def_d[item]['ner'][i]))]
         ent.extend(ents)
 
         counted = Counter(ent)
@@ -84,7 +84,7 @@ def multi_doc_conversion(a_path,mod='labels',a_file_name = None):
     conv_d = list()
 
     for doc in glob.glob(a_path):
-        
+
 
         converted = from_file_to_list(doc)
 

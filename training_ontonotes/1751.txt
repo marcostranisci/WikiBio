@@ -1,0 +1,239 @@
+bc/msnbc/00/msnbc_0001   7   0        First    RB   (TOP(FRAG(ADVP*)         -   -   -    Dan_Abrams  *   -
+bc/msnbc/00/msnbc_0001   7   1          the    DT              (NP*          -   -   -    Dan_Abrams  *   -
+bc/msnbc/00/msnbc_0001   7   2    headlines   NNS                 *)   headline  -   -    Dan_Abrams  *   -
+bc/msnbc/00/msnbc_0001   7   3           /.     .                *))         -   -   -    Dan_Abrams  *   -
+
+bc/msnbc/00/msnbc_0001   7   0         Hello    UH   (TOP(S(INTJ*)   -    -   -    Bill_Fitzgerald         *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0001   7   1             I   PRP           (NP*)   -    -   -    Bill_Fitzgerald         *        (ARG1*)  -
+bc/msnbc/00/msnbc_0001   7   2            'm   VBP           (VP*    be  01   2    Bill_Fitzgerald         *           (V*)  -
+bc/msnbc/00/msnbc_0001   7   3          Bill   NNP           (NP*    -    -   -    Bill_Fitzgerald  (PERSON*        (ARG2*   -
+bc/msnbc/00/msnbc_0001   7   4    Fitzgerald   NNP             *))   -    -   -    Bill_Fitzgerald         *)            *)  -
+bc/msnbc/00/msnbc_0001   7   5            /.     .             *))   -    -   -    Bill_Fitzgerald         *             *   -
+
+bc/msnbc/00/msnbc_0001   7   0          and    CC       (TOP(S*        -    -   -    Bill_Fitzgerald  *    (ARGM-DIS*)     *         *   -
+bc/msnbc/00/msnbc_0001   7   1         here    RB          (NP*)       -    -   -    Bill_Fitzgerald  *        (ARG1*)     *         *   -
+bc/msnbc/00/msnbc_0001   7   2           's   VBZ          (VP*        be  01   1    Bill_Fitzgerald  *           (V*)     *         *   -
+bc/msnbc/00/msnbc_0001   7   3         what    WP   (SBAR(WHNP*)       -    -   -    Bill_Fitzgerald  *        (ARG2*      *    (ARG1*)  -
+bc/msnbc/00/msnbc_0001   7   4           's   VBZ        (S(VP*        be  03   -    Bill_Fitzgerald  *             *    (V*)        *   -
+bc/msnbc/00/msnbc_0001   7   5    happening   VBG      (VP*)))))   happen  01   1    Bill_Fitzgerald  *             *)     *       (V*)  -
+bc/msnbc/00/msnbc_0001   7   6           /.     .            *))       -    -   -    Bill_Fitzgerald  *             *      *         *   -
+
+bc/msnbc/00/msnbc_0001   7    0           Amid    IN  (TOP(FRAG(PP*            -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    1            the    DT        (NP(NP*            -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    2    devastation    NN              *)           -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    3          after    IN           (PP*            -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    4       Saturday   NNP     (NP(NP(NP*            -   -   -    Bill_Fitzgerald   (DATE)     -
+bc/msnbc/00/msnbc_0001   7    5             's   POS              *)           -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    6       powerful    JJ              *            -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    7     earthquake    NN              *)   earthquake  -   1    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    8             in    IN           (PP*            -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7    9       Pakistan   NNP      (NP*))))))           -   -   -    Bill_Fitzgerald    (LOC)   (61)
+bc/msnbc/00/msnbc_0001   7   10           some    DT           (NP*            -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7   11       dramatic    JJ              *            -   -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7   12        rescues   NNS              *)       rescue  -   -    Bill_Fitzgerald       *      -
+bc/msnbc/00/msnbc_0001   7   13             /.     .             *))           -   -   -    Bill_Fitzgerald       *      -
+
+bc/msnbc/00/msnbc_0001   7    0    Residents   NNS   (TOP(S(NP(NP*)       -    -   -    Bill_Fitzgerald           *   (ARG0*   (ARG0*            *   -
+bc/msnbc/00/msnbc_0001   7    1           of    IN            (PP*        -    -   -    Bill_Fitzgerald           *        *        *            *   -
+bc/msnbc/00/msnbc_0001   7    2          one    CD            (NP*        -    -   -    Bill_Fitzgerald   (CARDINAL)       *        *            *   -
+bc/msnbc/00/msnbc_0001   7    3         city    NN             *)))     city   -   1    Bill_Fitzgerald           *        *)       *)           *   -
+bc/msnbc/00/msnbc_0001   7    4         used   VBD            (VP*       use  01   1    Bill_Fitzgerald           *      (V*)       *            *   -
+bc/msnbc/00/msnbc_0001   7    5         bare    JJ         (NP(NP*        -    -   -    Bill_Fitzgerald           *   (ARG1*        *            *   -
+bc/msnbc/00/msnbc_0001   7    6        hands   NNS               *)     hand   -   1    Bill_Fitzgerald           *        *        *            *   -
+bc/msnbc/00/msnbc_0001   7    7         even    RB               *        -    -   -    Bill_Fitzgerald           *        *        *            *   -
+bc/msnbc/00/msnbc_0001   7    8     crowbars   NNS           (NP*))       -    -   -    Bill_Fitzgerald           *        *)       *            *   -
+bc/msnbc/00/msnbc_0001   7    9           to    TO          (S(VP*        -    -   -    Bill_Fitzgerald           *   (ARG2*        *            *   -
+bc/msnbc/00/msnbc_0001   7   10         free    VB            (VP*      free  01   1    Bill_Fitzgerald           *        *      (V*)           *   -
+bc/msnbc/00/msnbc_0001   7   11          two    CD         (NP(NP*        -    -   -    Bill_Fitzgerald   (CARDINAL)       *   (ARG1*       (ARG1*   -
+bc/msnbc/00/msnbc_0001   7   12        girls   NNS               *)       -    -   -    Bill_Fitzgerald           *        *        *            *)  -
+bc/msnbc/00/msnbc_0001   7   13       buried   VBN            (VP*      bury  01   -    Bill_Fitzgerald           *        *        *          (V*)  -
+bc/msnbc/00/msnbc_0001   7   14           in    IN            (PP*        -    -   -    Bill_Fitzgerald           *        *        *       (ARG2*   -
+bc/msnbc/00/msnbc_0001   7   15            a    DT            (NP*        -    -   -    Bill_Fitzgerald           *        *        *            *   -
+bc/msnbc/00/msnbc_0001   7   16       school    NN              *))   school   -   1    Bill_Fitzgerald           *        *        *            *)  -
+bc/msnbc/00/msnbc_0001   7   17          for    IN            (PP*        -    -   -    Bill_Fitzgerald           *        *        *   (ARGM-TMP*   -
+bc/msnbc/00/msnbc_0001   7   18         more   JJR         (NP(QP*        -    -   -    Bill_Fitzgerald           *        *        *            *   -
+bc/msnbc/00/msnbc_0001   7   19         than    IN               *        -    -   -    Bill_Fitzgerald           *        *        *            *   -
+bc/msnbc/00/msnbc_0001   7   20          two    CD               *)       -    -   -    Bill_Fitzgerald   (CARDINAL)       *        *            *   -
+bc/msnbc/00/msnbc_0001   7   21         days   NNS        *))))))))      day   -   2    Bill_Fitzgerald           *        *)       *)           *)  -
+bc/msnbc/00/msnbc_0001   7   22           /.     .              *))       -    -   -    Bill_Fitzgerald           *        *        *            *   -
+
+bc/msnbc/00/msnbc_0001   7    0            A    DT  (TOP(S(NP*          -    -   -    Bill_Fitzgerald  *      *        (ARG1*   -
+bc/msnbc/00/msnbc_0001   7    1        woman    NN           *       woman   -   1    Bill_Fitzgerald  *      *             *   -
+bc/msnbc/00/msnbc_0001   7    2          and    CC           *          -    -   -    Bill_Fitzgerald  *      *             *   -
+bc/msnbc/00/msnbc_0001   7    3        child    NN           *)      child   -   1    Bill_Fitzgerald  *      *             *)  -
+bc/msnbc/00/msnbc_0001   7    4         were   VBD        (VP*          be  03   -    Bill_Fitzgerald  *    (V*)            *   -
+bc/msnbc/00/msnbc_0001   7    5         also    RB      (ADVP*)         -    -   -    Bill_Fitzgerald  *      *    (ARGM-ADV*)  -
+bc/msnbc/00/msnbc_0001   7    6       pulled   VBN        (VP*        pull  01   1    Bill_Fitzgerald  *      *           (V*)  -
+bc/msnbc/00/msnbc_0001   7    7         from    IN        (PP*          -    -   -    Bill_Fitzgerald  *      *        (ARG2*   -
+bc/msnbc/00/msnbc_0001   7    8          the    DT     (NP(NP*          -    -   -    Bill_Fitzgerald  *      *             *   -
+bc/msnbc/00/msnbc_0001   7    9       rubble    NN           *)         -    -   -    Bill_Fitzgerald  *      *             *   -
+bc/msnbc/00/msnbc_0001   7   10           of    IN        (PP*          -    -   -    Bill_Fitzgerald  *      *             *   -
+bc/msnbc/00/msnbc_0001   7   11           an    DT        (NP*          -    -   -    Bill_Fitzgerald  *      *             *   -
+bc/msnbc/00/msnbc_0001   7   12    apartment    NN           *          -    -   -    Bill_Fitzgerald  *      *             *   -
+bc/msnbc/00/msnbc_0001   7   13     building    NN      *))))))   building   -   1    Bill_Fitzgerald  *      *             *)  -
+bc/msnbc/00/msnbc_0001   7   14           /.     .          *))         -    -   -    Bill_Fitzgerald  *      *             *   -
+
+bc/msnbc/00/msnbc_0001   7    0    Officials   NNS        (TOP(S(NP*)   official   -   1    Bill_Fitzgerald           *    (ARG0*)     *            *       -
+bc/msnbc/00/msnbc_0001   7    1     estimate   VBP              (VP*    estimate  01   1    Bill_Fitzgerald           *       (V*)     *            *       -
+bc/msnbc/00/msnbc_0001   7    2           as    RB  (SBAR(S(S(NP(QP*          -    -   -    Bill_Fitzgerald           *    (ARG1*      *       (ARG1*       -
+bc/msnbc/00/msnbc_0001   7    3         many    JJ                 *          -    -   -    Bill_Fitzgerald           *         *      *            *       -
+bc/msnbc/00/msnbc_0001   7    4           as    IN                 *          -    -   -    Bill_Fitzgerald           *         *      *            *       -
+bc/msnbc/00/msnbc_0001   7    5       thirty    CD                 *          -    -   -    Bill_Fitzgerald  (CARDINAL*         *      *            *       -
+bc/msnbc/00/msnbc_0001   7    6     thousand    CD                *))         -    -   -    Bill_Fitzgerald           *)        *      *            *)      -
+bc/msnbc/00/msnbc_0001   7    7         were   VBD              (VP*          be  03   -    Bill_Fitzgerald           *         *    (V*)           *       -
+bc/msnbc/00/msnbc_0001   7    8       killed   VBN              (VP*        kill  01   1    Bill_Fitzgerald           *         *      *          (V*)      -
+bc/msnbc/00/msnbc_0001   7    9           in    IN              (PP*          -    -   -    Bill_Fitzgerald           *         *      *   (ARGM-LOC*       -
+bc/msnbc/00/msnbc_0001   7   10     Pakistan   NNP           (NP(NP*)         -    -   -    Bill_Fitzgerald        (LOC)        *      *            *     (61)
+bc/msnbc/00/msnbc_0001   7   11        alone    RB       (ADVP*))))))         -    -   -    Bill_Fitzgerald           *         *      *            *)      -
+bc/msnbc/00/msnbc_0001   7   12          and    CC                 *          -    -   -    Bill_Fitzgerald           *         *      *            *       -
+bc/msnbc/00/msnbc_0001   7   13      several    JJ            (S(NP*          -    -   -    Bill_Fitzgerald  (CARDINAL*         *      *            *       -
+bc/msnbc/00/msnbc_0001   7   14      hundred    CD                 *)         -    -   -    Bill_Fitzgerald           *)        *      *            *       -
+bc/msnbc/00/msnbc_0001   7   15           in    IN              (PP*          -    -   -    Bill_Fitzgerald           *         *      *            *       -
+bc/msnbc/00/msnbc_0001   7   16        India   NNP         (NP*))))))         -    -   -    Bill_Fitzgerald        (LOC)        *)     *            *    (112)
+bc/msnbc/00/msnbc_0001   7   17           /.     .                *))         -    -   -    Bill_Fitzgerald           *         *      *            *       -
+
+bc/msnbc/00/msnbc_0001   7    0          The    DT       (TOP(S(NP*         -    -   -    Bill_Fitzgerald        *      *   (ARG0*      *   -
+bc/msnbc/00/msnbc_0001   7    1           US   NNP                *)        -    -   -    Bill_Fitzgerald     (GPE)     *        *)     *   -
+bc/msnbc/00/msnbc_0001   7    2           is   VBZ             (VP*         be  03   -    Bill_Fitzgerald        *    (V*)       *      *   -
+bc/msnbc/00/msnbc_0001   7    3    promising   VBG             (VP*    promise  01   1    Bill_Fitzgerald        *      *      (V*)     *   -
+bc/msnbc/00/msnbc_0001   7    4           at    IN  (NP(NP(QP(ADVP*         -    -   -    Bill_Fitzgerald        *      *   (ARG2*      *   -
+bc/msnbc/00/msnbc_0001   7    5        least   JJS                *)        -    -   -    Bill_Fitzgerald        *      *        *      *   -
+bc/msnbc/00/msnbc_0001   7    6        fifty    CD                *         -    -   -    Bill_Fitzgerald  (MONEY*      *        *      *   -
+bc/msnbc/00/msnbc_0001   7    7      million    CD                *)        -    -   -    Bill_Fitzgerald        *      *        *      *   -
+bc/msnbc/00/msnbc_0001   7    8      dollars   NNS                *)        -    -   -    Bill_Fitzgerald        *)     *        *      *   -
+bc/msnbc/00/msnbc_0001   7    9           in    IN             (PP*         -    -   -    Bill_Fitzgerald        *      *        *      *   -
+bc/msnbc/00/msnbc_0001   7   10          aid    NN         (NP*)))))       aid  01   3    Bill_Fitzgerald        *      *        *)   (V*)  -
+bc/msnbc/00/msnbc_0001   7   11           /.     .               *))        -    -   -    Bill_Fitzgerald        *      *        *      *   -
+
+bc/msnbc/00/msnbc_0001   7   0          and    CC  (TOP(S*        -    -   -    Bill_Fitzgerald      *      *    (ARGM-DIS*)     *      -
+bc/msnbc/00/msnbc_0001   7   1     Pakistan   NNP     (NP*)       -    -   -    Bill_Fitzgerald   (GPE)     *        (ARG0*)     *    (61)
+bc/msnbc/00/msnbc_0001   7   2           is   VBZ     (VP*        be  03   -    Bill_Fitzgerald      *    (V*)            *      *      -
+bc/msnbc/00/msnbc_0001   7   3    accepting   VBG     (VP*    accept  01   1    Bill_Fitzgerald      *      *           (V*)     *      -
+bc/msnbc/00/msnbc_0001   7   4          aid    NN     (NP*)      aid  01   3    Bill_Fitzgerald      *      *        (ARG1*)   (V*)     -
+bc/msnbc/00/msnbc_0001   7   5         from    IN     (PP*        -    -   -    Bill_Fitzgerald      *      *        (ARG2*      *      -
+bc/msnbc/00/msnbc_0001   7   6        rival    JJ     (NP*        -    -   -    Bill_Fitzgerald      *      *             *      *   (112
+bc/msnbc/00/msnbc_0001   7   7        India   NNP     *))))       -    -   -    Bill_Fitzgerald   (GPE)     *             *)     *    112)
+bc/msnbc/00/msnbc_0001   7   8           /.     .       *))       -    -   -    Bill_Fitzgerald      *      *             *      *      -
+
+bc/msnbc/00/msnbc_0001   7    0     President   NNP  (TOP(S(NP*          -    -   -    Bill_Fitzgerald         *       (ARG1*   (ARG0*            *         *   (102
+bc/msnbc/00/msnbc_0001   7    1          Bush   NNP           *)         -    -   -    Bill_Fitzgerald   (PERSON)           *)       *)           *         *    102)
+bc/msnbc/00/msnbc_0001   7    2            is   VBZ        (VP*          be  01   4    Bill_Fitzgerald         *          (V*)       *            *         *      -
+bc/msnbc/00/msnbc_0001   7    3            in    IN        (PP*          -    -   -    Bill_Fitzgerald         *       (ARG2*        *            *         *      -
+bc/msnbc/00/msnbc_0001   7    4           New   NNP        (NP*          -    -   -    Bill_Fitzgerald     (LOC*            *        *            *         *      -
+bc/msnbc/00/msnbc_0001   7    5       Orleans   NNP          *))         -    -   -    Bill_Fitzgerald         *)           *)       *            *         *      -
+bc/msnbc/00/msnbc_0001   7    6            to    TO      (S(VP*          -    -   -    Bill_Fitzgerald         *   (ARGM-PRP*        *            *         *      -
+bc/msnbc/00/msnbc_0001   7    7           get    VB        (VP*         get  01   1    Bill_Fitzgerald         *            *      (V*)           *         *      -
+bc/msnbc/00/msnbc_0001   7    8            an    DT     (NP(NP*          -    -   -    Bill_Fitzgerald         *            *   (ARG1*            *         *      -
+bc/msnbc/00/msnbc_0001   7    9        update    NN           *)     update   -   -    Bill_Fitzgerald         *            *        *            *         *      -
+bc/msnbc/00/msnbc_0001   7   10            on    IN        (PP*          -    -   -    Bill_Fitzgerald         *            *        *            *         *      -
+bc/msnbc/00/msnbc_0001   7   11      progress    NN     (NP(NP*)   progress  01   1    Bill_Fitzgerald         *            *        *          (V*)   (ARG1*)     -
+bc/msnbc/00/msnbc_0001   7   12     following   VBG        (PP*      follow  01   -    Bill_Fitzgerald         *            *        *   (ARGM-TMP*       (V*)     -
+bc/msnbc/00/msnbc_0001   7   13    hurricanes   NNS        (NP*          -    -   -    Bill_Fitzgerald   (EVENT*            *        *            *    (ARG2*      -
+bc/msnbc/00/msnbc_0001   7   14       Katrina   NNP           *          -    -   -    Bill_Fitzgerald         *)           *        *            *         *      -
+bc/msnbc/00/msnbc_0001   7   15           and    CC           *          -    -   -    Bill_Fitzgerald         *            *        *            *         *      -
+bc/msnbc/00/msnbc_0001   7   16          Rita   NNP   *)))))))))         -    -   -    Bill_Fitzgerald    (EVENT)           *)       *)           *)        *)     -
+bc/msnbc/00/msnbc_0001   7   17            /.     .          *))         -    -   -    Bill_Fitzgerald         *            *        *            *         *      -
+
+bc/msnbc/00/msnbc_0001   7    0           He   PRP    (TOP(S(NP*)         -    -   -    Bill_Fitzgerald       *       (ARG0*)     *    (ARG1*)   (102)
+bc/msnbc/00/msnbc_0001   7    1        dined   VBD       (VP(VP*        dine  01   1    Bill_Fitzgerald       *          (V*)     *         *       -
+bc/msnbc/00/msnbc_0001   7    2       Monday   NNP          (NP*          -    -   -    Bill_Fitzgerald   (DATE)  (ARGM-TMP*      *         *       -
+bc/msnbc/00/msnbc_0001   7    3        night    NN             *)         -    -   -    Bill_Fitzgerald   (TIME)           *)     *         *       -
+bc/msnbc/00/msnbc_0001   7    4         with    IN          (PP*          -    -   -    Bill_Fitzgerald       *   (ARGM-MNR*      *         *       -
+bc/msnbc/00/msnbc_0001   7    5    Louisiana   NNP          (NP*          -    -   -    Bill_Fitzgerald    (GPE)           *      *         *       -
+bc/msnbc/00/msnbc_0001   7    6    officials   NNS            *))   official   -   1    Bill_Fitzgerald       *            *)     *         *       -
+bc/msnbc/00/msnbc_0001   7    7           in    IN          (PP*          -    -   -    Bill_Fitzgerald       *   (ARGM-LOC*      *         *       -
+bc/msnbc/00/msnbc_0001   7    8          the    DT          (NP*          -    -   -    Bill_Fitzgerald   (LOC*            *      *         *       -
+bc/msnbc/00/msnbc_0001   7    9       French    JJ             *          -    -   -    Bill_Fitzgerald       *            *      *         *       -
+bc/msnbc/00/msnbc_0001   7   10      quarter    NN           *)))    quarter   -   4    Bill_Fitzgerald       *)           *)     *         *       -
+bc/msnbc/00/msnbc_0001   7   11          and    CC             *          -    -   -    Bill_Fitzgerald       *            *      *         *       -
+bc/msnbc/00/msnbc_0001   7   12           is   VBZ          (VP*          be  03   -    Bill_Fitzgerald       *            *    (V*)        *       -
+bc/msnbc/00/msnbc_0001   7   13      staying   VBG          (VP*        stay  01   1    Bill_Fitzgerald       *            *      *       (V*)      -
+bc/msnbc/00/msnbc_0001   7   14           in    IN          (PP*          -    -   -    Bill_Fitzgerald       *            *      *    (ARG3*       -
+bc/msnbc/00/msnbc_0001   7   15            a    DT       (NP(NP*          -    -   -    Bill_Fitzgerald       *            *      *         *       -
+bc/msnbc/00/msnbc_0001   7   16        hotel    NN             *)         -    -   -    Bill_Fitzgerald       *            *      *         *       -
+bc/msnbc/00/msnbc_0001   7   17        there    RB   (ADVP*))))))         -    -   -    Bill_Fitzgerald       *            *      *         *)      -
+bc/msnbc/00/msnbc_0001   7   18           /.     .            *))         -    -   -    Bill_Fitzgerald       *            *      *         *       -
+
+bc/msnbc/00/msnbc_0001   7   0           It    PRP   (TOP(S(NP*)      -    -   -    Bill_Fitzgerald           *    (ARG1*)      -
+bc/msnbc/00/msnbc_0001   7   1           's    VBZ         (VP*       be  01   1    Bill_Fitzgerald           *       (V*)      -
+bc/msnbc/00/msnbc_0001   7   2          his   PRP$      (NP(NP*       -    -   -    Bill_Fitzgerald           *    (ARG2*    (102)
+bc/msnbc/00/msnbc_0001   7   3       eighth     JJ            *       -    -   -    Bill_Fitzgerald   (CARDINAL)        *       -
+bc/msnbc/00/msnbc_0001   7   4        visit     NN            *)   visit   -   2    Bill_Fitzgerald           *         *       -
+bc/msnbc/00/msnbc_0001   7   5           to     IN         (PP*       -    -   -    Bill_Fitzgerald           *         *       -
+bc/msnbc/00/msnbc_0001   7   6          the     DT         (NP*       -    -   -    Bill_Fitzgerald           *         *       -
+bc/msnbc/00/msnbc_0001   7   7    hurricane     NN            *       -    -   -    Bill_Fitzgerald           *         *       -
+bc/msnbc/00/msnbc_0001   7   8         area     NN         *))))    area   -   1    Bill_Fitzgerald           *         *)      -
+bc/msnbc/00/msnbc_0001   7   9           /.      .           *))      -    -   -    Bill_Fitzgerald           *         *       -
+
+bc/msnbc/00/msnbc_0001   7    0    Thousands   NNS   (TOP(S(NP(NP*)       -    -   -    Bill_Fitzgerald   (CARDINAL)      (ARG1*      -
+bc/msnbc/00/msnbc_0001   7    1           of    IN            (PP*        -    -   -    Bill_Fitzgerald           *            *      -
+bc/msnbc/00/msnbc_0001   7    2       people   NNS           (NP*))   people   -   1    Bill_Fitzgerald           *            *      -
+bc/msnbc/00/msnbc_0001   7    3           in    IN            (PP*        -    -   -    Bill_Fitzgerald           *            *      -
+bc/msnbc/00/msnbc_0001   7    4     Colorado   NNP          (NP*)))       -    -   -    Bill_Fitzgerald        (LOC)           *)     -
+bc/msnbc/00/msnbc_0001   7    5          are   VBP            (VP*        be  01   1    Bill_Fitzgerald           *          (V*)     -
+bc/msnbc/00/msnbc_0001   7    6      without    IN            (PP*        -    -   -    Bill_Fitzgerald           *       (ARG2*      -
+bc/msnbc/00/msnbc_0001   7    7        power    NN           (NP*))    power   -   3    Bill_Fitzgerald           *            *)     -
+bc/msnbc/00/msnbc_0001   7    8        after    IN            (PP*        -    -   -    Bill_Fitzgerald           *   (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0001   7    9            a    DT            (NP*        -    -   -    Bill_Fitzgerald           *            *   (150
+bc/msnbc/00/msnbc_0001   7   10        major    JJ               *        -    -   -    Bill_Fitzgerald           *            *      -
+bc/msnbc/00/msnbc_0001   7   11    snowstorm    NN             *)))       -    -   -    Bill_Fitzgerald           *            *)   150)
+bc/msnbc/00/msnbc_0001   7   12           /.     .              *))       -    -   -    Bill_Fitzgerald           *            *      -
+
+bc/msnbc/00/msnbc_0001   7    0        It   PRP   (TOP(S(NP*)     -    -   -    Bill_Fitzgerald           *      *       (ARG0*)   (150)
+bc/msnbc/00/msnbc_0001   7    1        's   VBZ         (VP*      be  03   -    Bill_Fitzgerald           *    (V*)           *       -
+bc/msnbc/00/msnbc_0001   7    2    dumped   VBN         (VP*    dump  01   1    Bill_Fitzgerald           *      *          (V*)      -
+bc/msnbc/00/msnbc_0001   7    3        up    IN   (NP(NP(QP*      -    -   -    Bill_Fitzgerald           *      *       (ARG1*       -
+bc/msnbc/00/msnbc_0001   7    4        to    TO            *      -    -   -    Bill_Fitzgerald           *      *            *       -
+bc/msnbc/00/msnbc_0001   7    5    twenty    CD            *)     -    -   -    Bill_Fitzgerald  (QUANTITY*      *            *       -
+bc/msnbc/00/msnbc_0001   7    6    inches   NNS            *)     -    -   -    Bill_Fitzgerald           *)     *            *       -
+bc/msnbc/00/msnbc_0001   7    7        of    IN         (PP*      -    -   -    Bill_Fitzgerald           *      *            *       -
+bc/msnbc/00/msnbc_0001   7    8       wet    JJ         (NP*      -    -   -    Bill_Fitzgerald           *      *            *       -
+bc/msnbc/00/msnbc_0001   7    9     heavy    JJ            *      -    -   -    Bill_Fitzgerald           *      *            *       -
+bc/msnbc/00/msnbc_0001   7   10      snow    NN          *)))   snow   -   -    Bill_Fitzgerald           *      *            *)      -
+bc/msnbc/00/msnbc_0001   7   11        in    IN         (PP*      -    -   -    Bill_Fitzgerald           *      *   (ARGM-LOC*       -
+bc/msnbc/00/msnbc_0001   7   12      some    DT         (NP*      -    -   -    Bill_Fitzgerald           *      *            *       -
+bc/msnbc/00/msnbc_0001   7   13     areas   NNS         *))))   area   -   1    Bill_Fitzgerald           *      *            *)      -
+bc/msnbc/00/msnbc_0001   7   14        /.     .           *))     -    -   -    Bill_Fitzgerald           *      *            *       -
+
+bc/msnbc/00/msnbc_0001   7    0         At    IN  (TOP(S(NP(QP(ADVP*       -    -   -    Bill_Fitzgerald           *      *   (ARG2*      *           *           *      -
+bc/msnbc/00/msnbc_0001   7    1      least   JJS                   *)      -    -   -    Bill_Fitzgerald           *      *        *      *           *           *      -
+bc/msnbc/00/msnbc_0001   7    2        one    CD                   *)      -    -   -    Bill_Fitzgerald   (CARDINAL)     *        *      *           *           *      -
+bc/msnbc/00/msnbc_0001   7    3      death    NN                   *)   death   -   1    Bill_Fitzgerald           *      *        *)     *           *           *      -
+bc/msnbc/00/msnbc_0001   7    4         is   VBZ                (VP*       be  03   -    Bill_Fitzgerald           *    (V*)       *      *           *           *      -
+bc/msnbc/00/msnbc_0001   7    5     blamed   VBN                (VP*    blame  01   1    Bill_Fitzgerald           *      *      (V*)     *           *           *      -
+bc/msnbc/00/msnbc_0001   7    6         on    IN                (PP*       -    -   -    Bill_Fitzgerald           *      *   (ARG1*      *           *           *      -
+bc/msnbc/00/msnbc_0001   7    7        the    DT                (NP*       -    -   -    Bill_Fitzgerald           *      *        *      *           *           *   (150
+bc/msnbc/00/msnbc_0001   7    8      storm    NN                  *))   storm   -   -    Bill_Fitzgerald           *      *        *)     *           *           *    150)
+bc/msnbc/00/msnbc_0001   7    9         by    IN                (PP*       -    -   -    Bill_Fitzgerald           *      *   (ARG0*      *           *           *      -
+bc/msnbc/00/msnbc_0001   7   10          a    DT             (NP(NP*       -    -   -    Bill_Fitzgerald           *      *        *      *      (ARG1*           *      -
+bc/msnbc/00/msnbc_0001   7   11      woman    NN                   *)   woman   -   1    Bill_Fitzgerald           *      *        *      *           *)          *      -
+bc/msnbc/00/msnbc_0001   7   12        who    WP         (SBAR(WHNP*)      -    -   -    Bill_Fitzgerald           *      *        *      *    (R-ARG1*)          *      -
+bc/msnbc/00/msnbc_0001   7   13        was   VBD              (S(VP*       be  03   -    Bill_Fitzgerald           *      *        *    (V*)          *           *      -
+bc/msnbc/00/msnbc_0001   7   14        hit   VBN                (VP*      hit  01   1    Bill_Fitzgerald           *      *        *      *         (V*)          *      -
+bc/msnbc/00/msnbc_0001   7   15         by    IN                (PP*       -    -   -    Bill_Fitzgerald           *      *        *      *      (ARG2*           *      -
+bc/msnbc/00/msnbc_0001   7   16          a    DT                (NP*       -    -   -    Bill_Fitzgerald           *      *        *      *           *           *      -
+bc/msnbc/00/msnbc_0001   7   17    falling   VBG                   *     fall  01   -    Bill_Fitzgerald           *      *        *      *           *         (V*)     -
+bc/msnbc/00/msnbc_0001   7   18       tree    NN                   *     tree   -   -    Bill_Fitzgerald           *      *        *      *           *    (R-ARG1*)     -
+bc/msnbc/00/msnbc_0001   7   19       limb    NN          *))))))))))    limb   -   2    Bill_Fitzgerald           *      *        *)     *           *)     (ARG1*)     -
+bc/msnbc/00/msnbc_0001   7   20         /.     .                  *))      -    -   -    Bill_Fitzgerald           *      *        *      *           *           *      -
+
+bc/msnbc/00/msnbc_0001   7   0     You   PRP   (TOP(SINV(NP*)     -    -   -    Bill_Fitzgerald  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0001   7   1     're   VBP            (VP*      be  01   1    Bill_Fitzgerald  *       (V*)  -
+bc/msnbc/00/msnbc_0001   7   2      up    RB          (ADVP*      -    -   -    Bill_Fitzgerald  *    (ARG2*   -
+bc/msnbc/00/msnbc_0001   7   3      to    IN            (PP*      -    -   -    Bill_Fitzgerald  *         *   -
+bc/msnbc/00/msnbc_0001   7   4    date    NN         (NP*))))   date   -   5    Bill_Fitzgerald  *         *)  -
+bc/msnbc/00/msnbc_0001   7   5      /.     .              *))     -    -   -    Bill_Fitzgerald  *         *   -
+
+bc/msnbc/00/msnbc_0001   7    0       let   VBD  (TOP(S(VP*     let  01   1    Bill_Fitzgerald              *      (V*)            *   -
+bc/msnbc/00/msnbc_0001   7    1        's   PRP      (S(NP*)     -    -   -    Bill_Fitzgerald              *   (ARG1*        (ARG0*)  -
+bc/msnbc/00/msnbc_0001   7    2      head    VB        (VP*    head  02   1    Bill_Fitzgerald              *        *           (V*)  -
+bc/msnbc/00/msnbc_0001   7    3      back    RB      (ADVP*)     -    -   -    Bill_Fitzgerald              *        *    (ARGM-DIR*)  -
+bc/msnbc/00/msnbc_0001   7    4       now    RB      (ADVP*)     -    -   -    Bill_Fitzgerald              *        *    (ARGM-TMP*)  -
+bc/msnbc/00/msnbc_0001   7    5        to    IN        (PP*      -    -   -    Bill_Fitzgerald              *        *        (ARG1*   -
+bc/msnbc/00/msnbc_0001   7    6       the    DT     (NP(NP*      -    -   -    Bill_Fitzgerald  (WORK_OF_ART*        *             *   -
+bc/msnbc/00/msnbc_0001   7    7    Abrams   NNP           *      -    -   -    Bill_Fitzgerald              *        *             *   -
+bc/msnbc/00/msnbc_0001   7    8    Report   NNP           *)     -    -   -    Bill_Fitzgerald              *)       *             *   -
+bc/msnbc/00/msnbc_0001   7    9      with    IN        (PP*      -    -   -    Bill_Fitzgerald              *        *             *   -
+bc/msnbc/00/msnbc_0001   7   10       Dan   NNP        (NP*      -    -   -    Bill_Fitzgerald       (PERSON*        *             *   -
+bc/msnbc/00/msnbc_0001   7   11    Abrams   NNP     *)))))))     -    -   -    Bill_Fitzgerald              *)       *)            *)  -
+bc/msnbc/00/msnbc_0001   7   12        /.     .          *))     -    -   -    Bill_Fitzgerald              *        *             *   -

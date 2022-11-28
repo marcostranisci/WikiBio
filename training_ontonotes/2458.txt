@@ -1,0 +1,970 @@
+bc/msnbc/00/msnbc_0003   8   0     Welcome   VBP  (TOP(S(VP*    welcome  01   2    Chris_Matthews              *           (V*)  -
+bc/msnbc/00/msnbc_0003   8   1        back    RP       (PRT*)        -    -   -    Chris_Matthews              *    (ARGM-DIR*)  -
+bc/msnbc/00/msnbc_0003   8   2          to    IN        (PP*         -    -   -    Chris_Matthews              *        (ARG2*   -
+bc/msnbc/00/msnbc_0003   8   3    Hardball   NNP      (NP*)))        -    -   -    Chris_Matthews   (WORK_OF_ART)            *)  -
+bc/msnbc/00/msnbc_0003   8   4          /.     .          *))        -    -   -    Chris_Matthews              *             *   -
+
+bc/msnbc/00/msnbc_0003   8    0            We   PRP   (TOP(S(NP*)   -    -   -    Chris_Matthews         *       (ARG1*)    -
+bc/msnbc/00/msnbc_0003   8    1           're   VBP         (VP*    be  01   1    Chris_Matthews         *          (V*)    -
+bc/msnbc/00/msnbc_0003   8    2          back    RB       (ADVP*)   -    -   -    Chris_Matthews         *       (ARG2*)    -
+bc/msnbc/00/msnbc_0003   8    3          with    IN         (PP*    -    -   -    Chris_Matthews         *   (ARGM-ADV*     -
+bc/msnbc/00/msnbc_0003   8    4    Republican    JJ  (NP(NP(NML*    -    -   -    Chris_Matthews     (NORP)           *   (99
+bc/msnbc/00/msnbc_0003   8    5    strategist    NN            *)   -    -   -    Chris_Matthews         *            *     -
+bc/msnbc/00/msnbc_0003   8    6           Ben   NNP            *    -    -   -    Chris_Matthews  (PERSON*            *     -
+bc/msnbc/00/msnbc_0003   8    7      Ginsberg   NNP            *)   -    -   -    Chris_Matthews         *)           *    99)
+bc/msnbc/00/msnbc_0003   8    8           and    CC            *    -    -   -    Chris_Matthews         *            *     -
+bc/msnbc/00/msnbc_0003   8    9    Democratic    JJ     (NP(NML*    -    -   -    Chris_Matthews     (NORP)           *   (66
+bc/msnbc/00/msnbc_0003   8   10    strategist    NN            *)   -    -   -    Chris_Matthews         *            *     -
+bc/msnbc/00/msnbc_0003   8   11         Steve   NNP            *    -    -   -    Chris_Matthews  (PERSON*            *     -
+bc/msnbc/00/msnbc_0003   8   12       McMahon   NNP         *))))   -    -   -    Chris_Matthews         *)           *)   66)
+bc/msnbc/00/msnbc_0003   8   13            /.     .           *))   -    -   -    Chris_Matthews         *            *     -
+
+bc/msnbc/00/msnbc_0003   8    0          Ben   NNP    (TOP(S(NP*)      -    -   -    Chris_Matthews   (PERSON)   (ARGM-DIS*)       *        *    (99)
+bc/msnbc/00/msnbc_0003   8    1            I   PRP          (NP*)      -    -   -    Chris_Matthews         *        (ARG0*)       *        *     (6)
+bc/msnbc/00/msnbc_0003   8    2         have   VBP          (VP*     have  03   4    Chris_Matthews         *           (V*)       *        *      -
+bc/msnbc/00/msnbc_0003   8    3            a    DT          (NP*       -    -   -    Chris_Matthews         *        (ARG1*        *        *      -
+bc/msnbc/00/msnbc_0003   8    4        sense    NN             *    sense   -   1    Chris_Matthews         *             *        *        *      -
+bc/msnbc/00/msnbc_0003   8    5         this    DT   (SBAR(S(NP*       -    -   -    Chris_Matthews         *             *   (ARG0*        *    (35
+bc/msnbc/00/msnbc_0003   8    6    president   NNP             *)      -    -   -    Chris_Matthews         *             *        *)       *     35)
+bc/msnbc/00/msnbc_0003   8    7        wants   VBZ          (VP*     want  01   1    Chris_Matthews         *             *      (V*)       *      -
+bc/msnbc/00/msnbc_0003   8    8         this    DT     (S(NP(NP*       -    -   -    Chris_Matthews         *             *   (ARG1*   (ARG0*    (18
+bc/msnbc/00/msnbc_0003   8    9          guy    NN             *)     guy   -   -    Chris_Matthews         *             *        *        *      -
+bc/msnbc/00/msnbc_0003   8   10         John   NNP          (NP*       -    -   -    Chris_Matthews  (PERSON*             *        *        *      -
+bc/msnbc/00/msnbc_0003   8   11       Bolton   NNP            *))      -    -   -    Chris_Matthews         *)            *        *        *)    18)
+bc/msnbc/00/msnbc_0003   8   12           to    TO          (VP*       -    -   -    Chris_Matthews         *             *        *        *      -
+bc/msnbc/00/msnbc_0003   8   13           go    VB          (VP*       go  02   1    Chris_Matthews         *             *        *      (V*)     -
+bc/msnbc/00/msnbc_0003   8   14           up    RB        (ADVP*       -    -   -    Chris_Matthews         *             *        *   (ARG4*      -
+bc/msnbc/00/msnbc_0003   8   15           to    IN          (PP*       -    -   -    Chris_Matthews         *             *        *        *      -
+bc/msnbc/00/msnbc_0003   8   16          New   NNP          (NP*       -    -   -    Chris_Matthews     (GPE*             *        *        *      -
+bc/msnbc/00/msnbc_0003   8   17         York   NNP   *)))))))))))      -    -   -    Chris_Matthews         *)            *)       *)       *)     -
+bc/msnbc/00/msnbc_0003   8   18           /.     .            *))      -    -   -    Chris_Matthews         *             *        *        *      -
+
+bc/msnbc/00/msnbc_0003   8   0         He   PRP   (TOP(S(NP*)   -    -   -    Chris_Matthews  *        (ARG1*)   (18)
+bc/msnbc/00/msnbc_0003   8   1         's   VBZ         (VP*    be  01   4    Chris_Matthews  *           (V*)     -
+bc/msnbc/00/msnbc_0003   8   2    already    RB       (ADVP*)   -    -   -    Chris_Matthews  *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   8   3         up    RB       (ADVP*    -    -   -    Chris_Matthews  *        (ARG2*      -
+bc/msnbc/00/msnbc_0003   8   4      there    RB           *))   -    -   -    Chris_Matthews  *             *)     -
+bc/msnbc/00/msnbc_0003   8   5         /.     .           *))   -    -   -    Chris_Matthews  *             *      -
+
+bc/msnbc/00/msnbc_0003   8    0          He    PRP   (TOP(S(NP*)         -    -   -    Chris_Matthews       *      *      *        (ARG1*)   (18)
+bc/msnbc/00/msnbc_0003   8    1          's    VBZ         (VP*          be  03   -    Chris_Matthews       *    (V*)     *             *      -
+bc/msnbc/00/msnbc_0003   8    2        been    VBN         (VP*          be  03   -    Chris_Matthews       *      *    (V*)            *      -
+bc/msnbc/00/msnbc_0003   8    3       booed    VBN         (VP*         boo  01   -    Chris_Matthews       *      *      *           (V*)     -
+bc/msnbc/00/msnbc_0003   8    4          on     IN         (PP*          -    -   -    Chris_Matthews       *      *      *    (ARGM-LOC*      -
+bc/msnbc/00/msnbc_0003   8    5         his   PRP$      (NP(NP*          -    -   -    Chris_Matthews       *      *      *             *    (18)
+bc/msnbc/00/msnbc_0003   8    6         way     NN            *)        way   -   6    Chris_Matthews       *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    7        into     IN         (PP*          -    -   -    Chris_Matthews       *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    8         the     DT         (NP*          -    -   -    Chris_Matthews       *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    9    building     NN         *))))   building   -   1    Chris_Matthews       *      *      *             *)     -
+bc/msnbc/00/msnbc_0003   8   10       today     NN      (NP*))))      today   -   2    Chris_Matthews   (DATE)     *      *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   8   11         /-       .           *))         -    -   -    Chris_Matthews       *      *      *             *      -
+
+bc/msnbc/00/msnbc_0003   8   0     And    CC  (TOP(S*      -    -   -    Chris_Matthews  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   8   1    just    RB   (ADVP*)     -    -   -    Chris_Matthews  *    (ARGM-ADV*)      -
+bc/msnbc/00/msnbc_0003   8   2    give    VB     (VP*    give  01   2    Chris_Matthews  *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   3    them   PRP     (NP*)     -    -   -    Chris_Matthews  *        (ARG2*)   (129)
+bc/msnbc/00/msnbc_0003   8   4    hell    NN    (NP*))     -    -   -    Chris_Matthews  *        (ARG1*)      -
+bc/msnbc/00/msnbc_0003   8   5      /.     .       *))     -    -   -    Chris_Matthews  *             *       -
+
+bc/msnbc/00/msnbc_0003   8    0          look    VB   (TOP(S(INTJ*)   look  09   1    Ben_Ginsberg         *    (V*)   (ARGM-DIS*)    -
+bc/msnbc/00/msnbc_0003   8    1          John   NNP           (NP*      -    -   -    Ben_Ginsberg  (PERSON*      *        (ARG1*   (18
+bc/msnbc/00/msnbc_0003   8    2        Bolton   NNP              *)     -    -   -    Ben_Ginsberg         *)     *             *)   18)
+bc/msnbc/00/msnbc_0003   8    3            is   VBZ           (VP*      be  01   1    Ben_Ginsberg         *      *           (V*)    -
+bc/msnbc/00/msnbc_0003   8    4             a    DT        (NP(NP*      -    -   -    Ben_Ginsberg         *      *        (ARG2*     -
+bc/msnbc/00/msnbc_0003   8    5    principled    JJ              *      -    -   -    Ben_Ginsberg         *      *             *     -
+bc/msnbc/00/msnbc_0003   8    6           guy    NN              *)    guy   -   -    Ben_Ginsberg         *      *             *     -
+bc/msnbc/00/msnbc_0003   8    7          with    IN           (PP*      -    -   -    Ben_Ginsberg         *      *             *     -
+bc/msnbc/00/msnbc_0003   8    8             a    DT        (NP(NP*      -    -   -    Ben_Ginsberg         *      *             *     -
+bc/msnbc/00/msnbc_0003   8    9           lot    NN              *)    lot   -   1    Ben_Ginsberg         *      *             *     -
+bc/msnbc/00/msnbc_0003   8   10            of    IN           (PP*      -    -   -    Ben_Ginsberg         *      *             *     -
+bc/msnbc/00/msnbc_0003   8   11        skills   NNS      (NP*))))))     -    -   -    Ben_Ginsberg         *      *             *)    -
+bc/msnbc/00/msnbc_0003   8   12            /.     .             *))     -    -   -    Ben_Ginsberg         *      *             *     -
+
+bc/msnbc/00/msnbc_0003   8    0           He   PRP   (TOP(S(NP*)         -    -   -    Ben_Ginsberg      *    (ARG0*)       *    (18)
+bc/msnbc/00/msnbc_0003   8    1          has   VBZ         (VP*        have  03   2    Ben_Ginsberg      *       (V*)       *      -
+bc/msnbc/00/msnbc_0003   8    2          the    DT      (NP(NP*          -    -   -    Ben_Ginsberg      *    (ARG1*        *      -
+bc/msnbc/00/msnbc_0003   8    3      support    NN            *)    support  01   7    Ben_Ginsberg      *         *      (V*)     -
+bc/msnbc/00/msnbc_0003   8    4           of    IN         (PP*          -    -   -    Ben_Ginsberg      *         *   (ARG0*      -
+bc/msnbc/00/msnbc_0003   8    5          the    DT   (NP(NP(NP*          -    -   -    Ben_Ginsberg      *         *        *    (35
+bc/msnbc/00/msnbc_0003   8    6    president   NNP            *)         -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8    7           of    IN         (PP*          -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8    8          the    DT         (NP*          -    -   -    Ben_Ginsberg  (GPE*         *        *      -
+bc/msnbc/00/msnbc_0003   8    9       United   NNP            *          -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8   10       States   NNP          *)))         -    -   -    Ben_Ginsberg      *)        *        *     35)
+bc/msnbc/00/msnbc_0003   8   11          the    DT      (NP(NP*          -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8   12    secretary   NNP            *)         -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8   13           of    IN         (PP*          -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8   14        state   NNP       (NP*)))         -    -   -    Ben_Ginsberg   (ORG)        *        *      -
+bc/msnbc/00/msnbc_0003   8   15            a    DT      (NP(NP*          -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8   16     majority    NN            *)   majority   -   2    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8   17           of    IN         (PP*          -    -   -    Ben_Ginsberg      *         *        *      -
+bc/msnbc/00/msnbc_0003   8   18          the    DT         (NP*          -    -   -    Ben_Ginsberg      *         *        *   (111
+bc/msnbc/00/msnbc_0003   8   19       United   NNP        (NML*          -    -   -    Ben_Ginsberg  (GPE*         *        *      -
+bc/msnbc/00/msnbc_0003   8   20       States   NNP            *)         -    -   -    Ben_Ginsberg      *)        *        *      -
+bc/msnbc/00/msnbc_0003   8   21       Senate   NNP      *)))))))         -    -   -    Ben_Ginsberg   (ORG)        *)       *)   111)
+bc/msnbc/00/msnbc_0003   8   22           /.     .           *))         -    -   -    Ben_Ginsberg      *         *        *      -
+
+bc/msnbc/00/msnbc_0003   8    0     Kofi   NNP      (TOP(S(NP*      -    -   -    Ben_Ginsberg  *   (ARG0*      *      *         *    (54
+bc/msnbc/00/msnbc_0003   8    1    Annan   NNP               *)     -    -   -    Ben_Ginsberg  *        *)     *      *         *     54)
+bc/msnbc/00/msnbc_0003   8    2     says   VBZ            (VP*     say  01   1    Ben_Ginsberg  *      (V*)     *      *         *      -
+bc/msnbc/00/msnbc_0003   8    3       he   PRP     (SBAR(S(NP*)     -    -   -    Ben_Ginsberg  *   (ARG1*      *      *    (ARG0*)   (54)
+bc/msnbc/00/msnbc_0003   8    4       's   VBZ            (VP*      be  03   -    Ben_Ginsberg  *        *    (V*)     *         *      -
+bc/msnbc/00/msnbc_0003   8    5    going   VBG            (VP*      go  04   7    Ben_Ginsberg  *        *      *    (V*)        *      -
+bc/msnbc/00/msnbc_0003   8    6       to    TO          (S(VP*      -    -   -    Ben_Ginsberg  *        *      *      *         *      -
+bc/msnbc/00/msnbc_0003   8    7     work    VB            (VP*    work  01   1    Ben_Ginsberg  *        *      *      *       (V*)     -
+bc/msnbc/00/msnbc_0003   8    8     with    IN            (PP*      -    -   -    Ben_Ginsberg  *        *      *      *    (ARG3*      -
+bc/msnbc/00/msnbc_0003   8    9      him   PRP   (NP*))))))))))     -    -   -    Ben_Ginsberg  *        *)     *      *         *)   (18)
+bc/msnbc/00/msnbc_0003   8   10       /.     .              *))     -    -   -    Ben_Ginsberg  *        *      *      *         *      -
+
+bc/msnbc/00/msnbc_0003   8   0          The    DT  (TOP(S(NP*        -    -   -    Ben_Ginsberg  (ORG*      *   (ARG0*   (129
+bc/msnbc/00/msnbc_0003   8   1       United   NNP           *        -    -   -    Ben_Ginsberg      *      *        *      -
+bc/msnbc/00/msnbc_0003   8   2      Nations   NNP           *)       -    -   -    Ben_Ginsberg      *)     *        *)   129)
+bc/msnbc/00/msnbc_0003   8   3           is   VBZ        (VP*        be  03   -    Ben_Ginsberg      *    (V*)       *      -
+bc/msnbc/00/msnbc_0003   8   4        doing   VBG        (VP*        do  02   1    Ben_Ginsberg      *      *      (V*)     -
+bc/msnbc/00/msnbc_0003   8   5    important    JJ        (NP*        -    -   -    Ben_Ginsberg      *      *   (ARG1*      -
+bc/msnbc/00/msnbc_0003   8   6       reform    NN           *    reform   -   1    Ben_Ginsberg      *      *        *      -
+bc/msnbc/00/msnbc_0003   8   7         work    NN         *)))     work   -   2    Ben_Ginsberg      *      *        *)     -
+bc/msnbc/00/msnbc_0003   8   8           /.     .          *))       -    -   -    Ben_Ginsberg      *      *        *      -
+
+bc/msnbc/00/msnbc_0003   8   0       And    CC  (TOP(S*     -    -   -    Ben_Ginsberg         *    (ARGM-DIS*)    -
+bc/msnbc/00/msnbc_0003   8   1      John   NNP     (NP*     -    -   -    Ben_Ginsberg  (PERSON*        (ARG1*   (18
+bc/msnbc/00/msnbc_0003   8   2    Bolton   NNP        *)    -    -   -    Ben_Ginsberg         *)            *)   18)
+bc/msnbc/00/msnbc_0003   8   3        is   VBZ     (VP*     be  01   1    Ben_Ginsberg         *           (V*)    -
+bc/msnbc/00/msnbc_0003   8   4       the    DT     (NP*     -    -   -    Ben_Ginsberg         *        (ARG2*     -
+bc/msnbc/00/msnbc_0003   8   5     right    JJ        *     -    -   -    Ben_Ginsberg         *             *     -
+bc/msnbc/00/msnbc_0003   8   6       guy    NN       *))   guy   -   -    Ben_Ginsberg         *             *)    -
+bc/msnbc/00/msnbc_0003   8   7        /.     .       *))    -    -   -    Ben_Ginsberg         *             *     -
+
+bc/msnbc/00/msnbc_0003   8    0          and     CC      (TOP(S*           -    -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8    1           he    PRP         (NP*)          -    -   -    Ben_Ginsberg       *      *      *        (ARG0*)   (ARG0*)       (ARG0*)   (18)
+bc/msnbc/00/msnbc_0003   8    2           is    VBZ         (VP*           be  03   -    Ben_Ginsberg       *    (V*)     *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8    3        going    VBG         (VP*           go  04   7    Ben_Ginsberg       *      *    (V*)            *         *             *      -
+bc/msnbc/00/msnbc_0003   8    4           to     TO       (S(VP*           -    -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8    5           go     VB      (VP(VP*           go  02   1    Ben_Ginsberg       *      *      *           (V*)        *             *      -
+bc/msnbc/00/msnbc_0003   8    6           in     RB      (ADVP*))          -    -   -    Ben_Ginsberg       *      *      *    (ARGM-DIR*)        *             *      -
+bc/msnbc/00/msnbc_0003   8    7          and     CC            *           -    -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8    8           do     VB         (VP*           do  02   1    Ben_Ginsberg       *      *      *             *       (V*)            *      -
+bc/msnbc/00/msnbc_0003   8    9          his   PRP$         (NP*           -    -   -    Ben_Ginsberg       *      *      *             *    (ARG1*             *    (18)
+bc/msnbc/00/msnbc_0003   8   10          job     NN           *))         job   -   2    Ben_Ginsberg       *      *      *             *         *)            *      -
+bc/msnbc/00/msnbc_0003   8   11          and     CC            *           -    -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8   12          not     RB            *           -    -   -    Ben_Ginsberg       *      *      *             *         *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0003   8   13          pay     VB         (VP*          pay  01   2    Ben_Ginsberg       *      *      *             *         *           (V*)     -
+bc/msnbc/00/msnbc_0003   8   14    attention     NN         (NP*)   attention   -   1    Ben_Ginsberg       *      *      *             *         *        (ARG1*)     -
+bc/msnbc/00/msnbc_0003   8   15           to     IN         (PP*           -    -   -    Ben_Ginsberg       *      *      *             *         *        (ARG2*      -
+bc/msnbc/00/msnbc_0003   8   16          the     DT      (NP(NP*           -    -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8   17      carping     NN            *)        carp   -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8   18         from     IN         (PP*           -    -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+bc/msnbc/00/msnbc_0003   8   19          the     DT         (NP*           -    -   -    Ben_Ginsberg       *      *      *             *         *             *   (131
+bc/msnbc/00/msnbc_0003   8   20    Democrats   NNPS   *))))))))))          -    -   -    Ben_Ginsberg   (NORP)     *      *             *         *             *)   131)
+bc/msnbc/00/msnbc_0003   8   21           /.      .           *))          -    -   -    Ben_Ginsberg       *      *      *             *         *             *      -
+
+bc/msnbc/00/msnbc_0003   8    0           He   PRP   (TOP(S(NP*)       -    -   -    Chris_Matthews       *      *      *    (ARG0*)       (ARG0*)    (18)
+bc/msnbc/00/msnbc_0003   8    1           's   VBZ         (VP*        be  03   -    Chris_Matthews       *    (V*)     *         *             *       -
+bc/msnbc/00/msnbc_0003   8    2    basically    RB       (ADVP*)       -    -   -    Chris_Matthews       *      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8    3        going   VBG         (VP*        go  04   7    Chris_Matthews       *      *    (V*)        *             *       -
+bc/msnbc/00/msnbc_0003   8    4           to    TO       (S(VP*        -    -   -    Chris_Matthews       *      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8    5        waste    VB      (VP(VP*     waste  01   3    Chris_Matthews       *      *      *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   8    6          the    DT      (NP(NP*        -    -   -    Chris_Matthews       *      *      *    (ARG1*             *    (219
+bc/msnbc/00/msnbc_0003   8    7        other    JJ            *        -    -   -    Chris_Matthews       *      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8    8         side    NN            *)     side   -   3    Chris_Matthews       *      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8    9          the    DT         (NP*        -    -   -    Chris_Matthews       *      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8   10        Third   NNP        (NML*        -    -   -    Chris_Matthews   (LOC*      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8   11        World   NNP            *)       -    -   -    Chris_Matthews       *)     *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8   12       people   NNS          *)))   people   -   5    Chris_Matthews       *      *      *         *)            *     219)
+bc/msnbc/00/msnbc_0003   8   13          and    CC            *        -    -   -    Chris_Matthews       *      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8   14         just    RB       (ADVP*)       -    -   -    Chris_Matthews       *      *      *         *    (ARGM-ADV*)      -
+bc/msnbc/00/msnbc_0003   8   15         blow    VB         (VP*      blow  06   4    Chris_Matthews       *      *      *         *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   16         them   PRP         (NP*)       -    -   -    Chris_Matthews       *      *      *         *        (ARG1*)   (219)
+bc/msnbc/00/msnbc_0003   8   17           up    RP        (PRT*)       -    -   -    Chris_Matthews       *      *      *         *             *       -
+bc/msnbc/00/msnbc_0003   8   18        every    DT         (NP*        -    -   -    Chris_Matthews  (TIME*      *      *         *    (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0003   8   19        night    NN      *)))))))    night   -   1    Chris_Matthews       *)     *      *         *             *)      -
+bc/msnbc/00/msnbc_0003   8   20           /.     .           *))       -    -   -    Chris_Matthews       *      *      *         *             *       -
+
+bc/msnbc/00/msnbc_0003   8   0            No   UH   (TOP(FRAG(INTJ*)  -   -   -    Ben_Ginsberg  *   -
+bc/msnbc/00/msnbc_0003   8   1    absolutely   RB            (ADVP*   -   -   -    Ben_Ginsberg  *   -
+bc/msnbc/00/msnbc_0003   8   2           not   RB                 *)  -   -   -    Ben_Ginsberg  *   -
+bc/msnbc/00/msnbc_0003   8   3            /.    .                *))  -   -   -    Ben_Ginsberg  *   -
+
+bc/msnbc/00/msnbc_0003   8   0       that     DT   (TOP(S(NP*)        -    -   -    Ben_Ginsberg  *        (ARG1*)  -
+bc/msnbc/00/msnbc_0003   8   1         's    VBZ         (VP*         be  01   2    Ben_Ginsberg  *           (V*)  -
+bc/msnbc/00/msnbc_0003   8   2        not     RB            *         -    -   -    Ben_Ginsberg  *    (ARGM-NEG*)  -
+bc/msnbc/00/msnbc_0003   8   3        his   PRP$         (NP*         -    -   -    Ben_Ginsberg  *        (ARG2*   -
+bc/msnbc/00/msnbc_0003   8   4    mandate     NN            *    mandate   -   3    Ben_Ginsberg  *             *   -
+bc/msnbc/00/msnbc_0003   8   5        and     CC            *         -    -   -    Ben_Ginsberg  *             *   -
+bc/msnbc/00/msnbc_0003   8   6       goal     NN           *))      goal   -   1    Ben_Ginsberg  *             *)  -
+bc/msnbc/00/msnbc_0003   8   7         /.      .           *))        -    -   -    Ben_Ginsberg  *             *   -
+
+bc/msnbc/00/msnbc_0003   8    0        His   PRP$  (TOP(S(NP*         -    -   -    Ben_Ginsberg      *   (ARG1*        *         (18)
+bc/msnbc/00/msnbc_0003   8    1    mandate     NN           *    mandate   -   3    Ben_Ginsberg      *        *        *           -
+bc/msnbc/00/msnbc_0003   8    2        and     CC           *         -    -   -    Ben_Ginsberg      *        *        *           -
+bc/msnbc/00/msnbc_0003   8    3       goal     NN           *)      goal   -   1    Ben_Ginsberg      *        *)       *           -
+bc/msnbc/00/msnbc_0003   8    4         is    VBZ        (VP*         be  01   2    Ben_Ginsberg      *      (V*)       *           -
+bc/msnbc/00/msnbc_0003   8    5         to     TO      (S(VP*         -    -   -    Ben_Ginsberg      *   (ARG2*        *           -
+bc/msnbc/00/msnbc_0003   8    6    fulfill     VB        (VP*    fulfill  01   1    Ben_Ginsberg      *        *      (V*)          -
+bc/msnbc/00/msnbc_0003   8    7        the     DT     (NP(NP*         -    -   -    Ben_Ginsberg      *        *   (ARG1*        (123
+bc/msnbc/00/msnbc_0003   8    8    foreign     JJ           *         -    -   -    Ben_Ginsberg      *        *        *           -
+bc/msnbc/00/msnbc_0003   8    9     policy     NN           *)    policy   -   1    Ben_Ginsberg      *        *        *           -
+bc/msnbc/00/msnbc_0003   8   10         of     IN        (PP*         -    -   -    Ben_Ginsberg      *        *        *           -
+bc/msnbc/00/msnbc_0003   8   11        the     DT        (NP*         -    -   -    Ben_Ginsberg  (GPE*        *        *        (230
+bc/msnbc/00/msnbc_0003   8   12     United    NNP           *         -    -   -    Ben_Ginsberg      *        *        *           -
+bc/msnbc/00/msnbc_0003   8   13     States    NNP     *)))))))        -    -   -    Ben_Ginsberg      *)       *)       *)   230)|123)
+bc/msnbc/00/msnbc_0003   8   14         /.      .          *))        -    -   -    Ben_Ginsberg      *        *        *           -
+
+bc/msnbc/00/msnbc_0003   8    0           and    CC  (TOP(S*         -    -   -    Ben_Ginsberg      *    (ARGM-DIS*)       *       -
+bc/msnbc/00/msnbc_0003   8    1          that    DT     (NP*)        -    -   -    Ben_Ginsberg      *        (ARG2*)       *    (123)
+bc/msnbc/00/msnbc_0003   8    2    absolutely    RB   (ADVP*)        -    -   -    Ben_Ginsberg      *    (ARGM-ADV*)       *       -
+bc/msnbc/00/msnbc_0003   8    3      includes   VBZ     (VP*    include  01   1    Ben_Ginsberg      *           (V*)       *       -
+bc/msnbc/00/msnbc_0003   8    4       helping   VBG   (S(VP*       help  01   1    Ben_Ginsberg      *        (ARG1*      (V*)      -
+bc/msnbc/00/msnbc_0003   8    5           the    DT  (NP(NP*         -    -   -    Ben_Ginsberg      *             *   (ARG1*       -
+bc/msnbc/00/msnbc_0003   8    6        people   NNS        *)    people   -   5    Ben_Ginsberg      *             *        *       -
+bc/msnbc/00/msnbc_0003   8    7            of    IN     (PP*         -    -   -    Ben_Ginsberg      *             *        *       -
+bc/msnbc/00/msnbc_0003   8    8           the    DT     (NP*         -    -   -    Ben_Ginsberg  (LOC*             *        *       -
+bc/msnbc/00/msnbc_0003   8    9         Third   NNP        *         -    -   -    Ben_Ginsberg      *             *        *       -
+bc/msnbc/00/msnbc_0003   8   10         World   NNP   *))))))        -    -   -    Ben_Ginsberg      *)            *)       *)      -
+bc/msnbc/00/msnbc_0003   8   11            /.     .       *))        -    -   -    Ben_Ginsberg      *             *        *       -
+
+bc/msnbc/00/msnbc_0003   8   0      He   PRP   (TOP(SQ(S(NP*)   -    -   -    Steve_McMahon  *    (ARG1*)        *    (18)
+bc/msnbc/00/msnbc_0003   8   1      is   VBZ            (VP*    be  01   1    Steve_McMahon  *       (V*)        *      -
+bc/msnbc/00/msnbc_0003   8   2      so    RB          (ADJP*    -    -   -    Steve_McMahon  *    (ARG2*         *      -
+bc/msnbc/00/msnbc_0003   8   3    good    JJ             *)))   -    -   -    Steve_McMahon  *         *)        *      -
+bc/msnbc/00/msnbc_0003   8   4       ,     ,               *    -    -   -    Steve_McMahon  *         *         *      -
+bc/msnbc/00/msnbc_0003   8   5      is   VBZ            (SQ*    be  01   1    Steve_McMahon  *         *       (V*)     -
+bc/msnbc/00/msnbc_0003   8   6     n't    RB               *    -    -   -    Steve_McMahon  *         *         *      -
+bc/msnbc/00/msnbc_0003   8   7      he   PRP           (NP*))   -    -   -    Steve_McMahon  *         *    (ARG1*)   (18)
+bc/msnbc/00/msnbc_0003   8   8      /?     .              *))   -    -   -    Steve_McMahon  *         *         *      -
+
+bc/msnbc/00/msnbc_0003   8   0      He   PRP   (TOP(S(NP*)   -    -   -    Steve_McMahon  *    (ARG1*)   (18)
+bc/msnbc/00/msnbc_0003   8   1      's   VBZ         (VP*    be  01   1    Steve_McMahon  *       (V*)     -
+bc/msnbc/00/msnbc_0003   8   2      so    RB       (ADJP*    -    -   -    Steve_McMahon  *    (ARG2*      -
+bc/msnbc/00/msnbc_0003   8   3    good    JJ           *))   -    -   -    Steve_McMahon  *         *)     -
+bc/msnbc/00/msnbc_0003   8   4      /.     .           *))   -    -   -    Steve_McMahon  *         *      -
+
+bc/msnbc/00/msnbc_0003   8    0          I   PRP    (TOP(S(NP*)      -    -   -    Chris_Matthews         *    (ARG0*)        *        *     (6)
+bc/msnbc/00/msnbc_0003   8    1      think   VBP          (VP*    think  01   1    Chris_Matthews         *       (V*)        *        *      -
+bc/msnbc/00/msnbc_0003   8    2         it   PRP   (SBAR(S(NP*)      -    -   -    Chris_Matthews         *    (ARG1*    (ARG1*)       *      -
+bc/msnbc/00/msnbc_0003   8    3         's   VBZ          (VP*       be  01   1    Chris_Matthews         *         *       (V*)       *      -
+bc/msnbc/00/msnbc_0003   8    4       like    IN          (PP*       -    -   -    Chris_Matthews         *         *    (ARG2*        *      -
+bc/msnbc/00/msnbc_0003   8    5    sending   VBG        (S(VP*     send  01   2    Chris_Matthews         *         *         *      (V*)    (8)
+bc/msnbc/00/msnbc_0003   8    6      Frank   NNP          (NP*       -    -   -    Chris_Matthews  (PERSON*         *         *   (ARG1*      -
+bc/msnbc/00/msnbc_0003   8    7      Rizzo   NNP             *)      -    -   -    Chris_Matthews         *)        *         *        *)     -
+bc/msnbc/00/msnbc_0003   8    8         to    IN          (PP*       -    -   -    Chris_Matthews         *         *         *   (ARG2*      -
+bc/msnbc/00/msnbc_0003   8    9        the    DT          (NP*       -    -   -    Chris_Matthews         *         *         *        *   (129
+bc/msnbc/00/msnbc_0003   8   10         UN   NNP     *)))))))))      -    -   -    Chris_Matthews      (ORG)        *)        *)       *)   129)
+bc/msnbc/00/msnbc_0003   8   11         /.     .            *))      -    -   -    Chris_Matthews         *         *         *        *      -
+
+bc/msnbc/00/msnbc_0003   8   0        But    CC      (TOP(S*         -    -   -    Chris_Matthews  *    (ARGM-DIS*)        *     -
+bc/msnbc/00/msnbc_0003   8   1       that    DT         (NP*)        -    -   -    Chris_Matthews  *        (ARG1*)        *    (8)
+bc/msnbc/00/msnbc_0003   8   2         's   VBZ         (VP*         be  01   1    Chris_Matthews  *           (V*)        *     -
+bc/msnbc/00/msnbc_0003   8   3       just    RB         (NP*         -    -   -    Chris_Matthews  *        (ARG2*         *     -
+bc/msnbc/00/msnbc_0003   8   4          a    DT            *         -    -   -    Chris_Matthews  *             *         *     -
+bc/msnbc/00/msnbc_0003   8   5    thought    NN            *)   thought   -   2    Chris_Matthews  *             *)        *     -
+bc/msnbc/00/msnbc_0003   8   6        you   PRP   (PRN(S(NP*)        -    -   -    Chris_Matthews  *             *    (ARG0*)    -
+bc/msnbc/00/msnbc_0003   8   7       know   VBP      (VP*))))      know  01   1    Chris_Matthews  *             *       (V*)    -
+bc/msnbc/00/msnbc_0003   8   8         /.     .           *))        -    -   -    Chris_Matthews  *             *         *     -
+
+bc/msnbc/00/msnbc_0003   8    0           a    DT  (TOP(UCP(NP*         -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    1       tough    JJ             *         -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    2    customer    NN             *)        -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    3           a    DT          (NP*         -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    4       tough    JJ             *         -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    5         cop    NN             *)       cop  -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    6          or    CC       (CONJP*         -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    7        else    RB             *)        -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    8         how   WRB       (SBARQ*         -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8    9       about    IN             *         -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8   10        hall    NN          (NP*       hall  -   1    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8   11     monitor    NN            *))   monitor  -   1    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0003   8   12          /.     .            *))        -   -   -    Chris_Matthews  *   -
+
+bc/msnbc/00/msnbc_0003   8   0       Yeah   UH  (TOP(FRAG*   -   -   -    Steve_McMahon  *   -
+bc/msnbc/00/msnbc_0003   8   1    exactly   RB      (ADVP*)  -   -   -    Steve_McMahon  *   -
+bc/msnbc/00/msnbc_0003   8   2         /.    .          *))  -   -   -    Steve_McMahon  *   -
+
+bc/msnbc/00/msnbc_0003   8    0      You   PRP   (TOP(FRAG(PRN(S(NP*)     -    -    -    Chris_Matthews  *    (ARG0*)       *        *   -
+bc/msnbc/00/msnbc_0003   8    1     know   VBP                (VP*)))   know  01    1    Chris_Matthews  *       (V*)       *        *   -
+bc/msnbc/00/msnbc_0003   8    2      one    CD            (NP(NP(NP*)     -    -    -    Chris_Matthews  *         *   (ARG0*   (ARG0*   -
+bc/msnbc/00/msnbc_0003   8    3       of    IN                  (PP*      -    -    -    Chris_Matthews  *         *        *        *   -
+bc/msnbc/00/msnbc_0003   8    4    these    DT                  (NP*      -    -    -    Chris_Matthews  *         *        *        *   -
+bc/msnbc/00/msnbc_0003   8    5    tough    JJ                     *      -    -    -    Chris_Matthews  *         *        *        *   -
+bc/msnbc/00/msnbc_0003   8    6     guys   NNS                   *)))    guy   -    -    Chris_Matthews  *         *        *)       *)  -
+bc/msnbc/00/msnbc_0003   8    7       to    TO           (SBAR(S(VP*      -    -    -    Chris_Matthews  *         *        *        *   -
+bc/msnbc/00/msnbc_0003   8    8       go    VB                  (VP*      go  05   14    Chris_Matthews  *         *      (V*)       *   -
+bc/msnbc/00/msnbc_0003   8    9      get   VBP                (S(VP*     get  05    3    Chris_Matthews  *         *   (ARG1*      (V*)  -
+bc/msnbc/00/msnbc_0003   8   10    these    DT                  (NP*      -    -    -    Chris_Matthews  *         *        *   (ARG1*   -
+bc/msnbc/00/msnbc_0003   8   11    bozos   NNS                     *)     -    -    -    Chris_Matthews  *         *        *        *)  -
+bc/msnbc/00/msnbc_0003   8   12       in    IN                  (PP*      -    -    -    Chris_Matthews  *         *        *   (ARG2*   -
+bc/msnbc/00/msnbc_0003   8   13     line    NN          (NP*)))))))))   line   -    1    Chris_Matthews  *         *        *)       *)  -
+bc/msnbc/00/msnbc_0003   8   14       /.     .                    *))     -    -    -    Chris_Matthews  *         *        *        *   -
+
+bc/msnbc/00/msnbc_0003   8    0                 I   PRP   (TOP(S(PRN(S(NP*)               -    -   -    Chris_Matthews  *    (ARG0*)     *   (ARGM-DIS*     (6)
+bc/msnbc/00/msnbc_0003   8    1              mean   VBP             (VP*)))             mean  01   1    Chris_Matthews  *       (V*)     *            *)     -
+bc/msnbc/00/msnbc_0003   8    2                 I   PRP               (NP*)               -    -   -    Chris_Matthews  *         *      *       (ARG0*)    (6)
+bc/msnbc/00/msnbc_0003   8    3                'm   VBP               (VP*                be  03   -    Chris_Matthews  *         *    (V*)           *      -
+bc/msnbc/00/msnbc_0003   8    4           talking   VBG               (VP*              talk  01   1    Chris_Matthews  *         *      *          (V*)     -
+bc/msnbc/00/msnbc_0003   8    5              from    IN               (PP*                -    -   -    Chris_Matthews  *         *      *   (ARGM-ADV*      -
+bc/msnbc/00/msnbc_0003   8    6               the    DT            (NP(NP*                -    -   -    Chris_Matthews  *         *      *            *      -
+bc/msnbc/00/msnbc_0003   8    7       subjunctive    JJ                  *                -    -   -    Chris_Matthews  *         *      *            *      -
+bc/msnbc/00/msnbc_0003   8    8              mood    NN                  *)               -    -   -    Chris_Matthews  *         *      *            *      -
+bc/msnbc/00/msnbc_0003   8    9                of    IN               (PP*                -    -   -    Chris_Matthews  *         *      *            *      -
+bc/msnbc/00/msnbc_0003   8   10              this    DT               (NP*                -    -   -    Chris_Matthews  *         *      *            *   (208
+bc/msnbc/00/msnbc_0003   8   11    administration    NN             *))))))   administration   -   1    Chris_Matthews  *         *      *            *)   208)
+bc/msnbc/00/msnbc_0003   8   12                /.     .                 *))               -    -   -    Chris_Matthews  *         *      *            *      -
+
+bc/msnbc/00/msnbc_0003   8   0         Well    UH   (TOP(S(INTJ*)        -    -   -    Steve_McMahon  *    (ARGM-DIS*)        *      -
+bc/msnbc/00/msnbc_0003   8   1           he   PRP           (NP*)        -    -   -    Steve_McMahon  *        (ARG0*)        *    (18)
+bc/msnbc/00/msnbc_0003   8   2    obviously    RB         (ADVP*)        -    -   -    Steve_McMahon  *    (ARGM-ADV*)        *      -
+bc/msnbc/00/msnbc_0003   8   3       thinks   VBZ           (VP*      think  01   1    Steve_McMahon  *           (V*)        *      -
+bc/msnbc/00/msnbc_0003   8   4           he   PRP    (SBAR(S(NP*)        -    -   -    Steve_McMahon  *        (ARG1*    (ARG1*)   (18)
+bc/msnbc/00/msnbc_0003   8   5           is   VBZ           (VP*         be  01   1    Steve_McMahon  *             *       (V*)     -
+bc/msnbc/00/msnbc_0003   8   6            a    DT           (NP*         -    -   -    Steve_McMahon  *             *    (ARG2*      -
+bc/msnbc/00/msnbc_0003   8   7         hall    NN              *       hall   -   1    Steve_McMahon  *             *         *      -
+bc/msnbc/00/msnbc_0003   8   8      monitor    NN          *)))))   monitor   -   1    Steve_McMahon  *             *)        *)     -
+bc/msnbc/00/msnbc_0003   8   9           /.     .             *))        -    -   -    Steve_McMahon  *             *         *      -
+
+bc/msnbc/00/msnbc_0003   8    0            I   PRP   (TOP(S(PRN(S(NP*)      -    -   -    Steve_McMahon         *    (ARG0*)        *    (ARGM-DIS*    (66)
+bc/msnbc/00/msnbc_0003   8    1         mean   VBP             (VP*)))    mean  01   1    Steve_McMahon         *       (V*)        *             *)     -
+bc/msnbc/00/msnbc_0003   8    2          you   PRP         (PRN(S(NP*)      -    -   -    Steve_McMahon         *         *    (ARG0*)            *      -
+bc/msnbc/00/msnbc_0003   8    3         know   VBP             (VP*)))    know  01   1    Steve_McMahon         *         *       (V*)            *      -
+bc/msnbc/00/msnbc_0003   8    4          the    DT               (NP*       -    -   -    Steve_McMahon         *         *         *        (ARG0*    (35
+bc/msnbc/00/msnbc_0003   8    5    president   NNP                  *)      -    -   -    Steve_McMahon         *         *         *             *)    35)
+bc/msnbc/00/msnbc_0003   8    6          may    MD               (VP*       -    -   -    Steve_McMahon         *         *         *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0003   8    7        refer    VB               (VP*    refer  01   2    Steve_McMahon         *         *         *           (V*)     -
+bc/msnbc/00/msnbc_0003   8    8           to    IN               (PP*       -    -   -    Steve_McMahon         *         *         *        (ARG1*      -
+bc/msnbc/00/msnbc_0003   8    9         Karl   NNP               (NP*       -    -   -    Steve_McMahon  (PERSON*         *         *             *      -
+bc/msnbc/00/msnbc_0003   8   10         Rove   NNP                 *))      -    -   -    Steve_McMahon         *)        *         *             *)     -
+bc/msnbc/00/msnbc_0003   8   11           as    IN               (PP*       -    -   -    Steve_McMahon         *         *         *        (ARG2*      -
+bc/msnbc/00/msnbc_0003   8   12          the    DT               (NP*       -    -   -    Steve_McMahon         *         *         *             *      -
+bc/msnbc/00/msnbc_0003   8   13    architect    NN               *))))      -    -   -    Steve_McMahon         *         *         *             *)     -
+bc/msnbc/00/msnbc_0003   8   14           /.     .                 *))      -    -   -    Steve_McMahon         *         *         *             *      -
+
+bc/msnbc/00/msnbc_0003   8    0           but    CC      (TOP(S*         -    -   -    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8    1            to    IN         (PP*         -    -   -    Steve_McMahon         *   (ARGM-ADV*        *        *      *      -
+bc/msnbc/00/msnbc_0003   8    2           the    DT      (NP(NP*         -    -   -    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8    3          rest    NN            *)      rest   -   1    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8    4            of    IN         (PP*         -    -   -    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8    5           the    DT         (NP*         -    -   -    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8    6         world    NN         *))))        -    -   -    Steve_McMahon         *            *)       *        *      *      -
+bc/msnbc/00/msnbc_0003   8    7          John   NNP         (NP*         -    -   -    Steve_McMahon  (PERSON*       (ARG1*        *        *      *    (18
+bc/msnbc/00/msnbc_0003   8    8        Bolton   NNP            *)        -    -   -    Steve_McMahon         *)           *)       *        *      *     18)
+bc/msnbc/00/msnbc_0003   8    9            is   VBZ         (VP*         be  01   2    Steve_McMahon         *          (V*)       *        *      *      -
+bc/msnbc/00/msnbc_0003   8   10           the    DT      (NP(NP*         -    -   -    Steve_McMahon         *       (ARG2*        *        *      *      -
+bc/msnbc/00/msnbc_0003   8   11     architect    NN            *)        -    -   -    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8   12            of    IN         (PP*         -    -   -    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8   13    misleading   VBG  (S(S(VP(VP*    mislead  01   3    Steve_McMahon         *            *      (V*)       *      *      -
+bc/msnbc/00/msnbc_0003   8   14           the    DT         (NP*         -    -   -    Steve_McMahon         *            *   (ARG1*        *      *   (230
+bc/msnbc/00/msnbc_0003   8   15       country    NN           *))   country   -   2    Steve_McMahon         *            *        *)       *      *    230)
+bc/msnbc/00/msnbc_0003   8   16    misleading   VBG         (VP*    mislead  01   3    Steve_McMahon         *            *        *      (V*)     *      -
+bc/msnbc/00/msnbc_0003   8   17           the    DT         (NP*         -    -   -    Steve_McMahon         *            *        *   (ARG1*      *      -
+bc/msnbc/00/msnbc_0003   8   18         world    NN           *))        -    -   -    Steve_McMahon         *            *        *        *)     *      -
+bc/msnbc/00/msnbc_0003   8   19          into    IN         (PP*         -    -   -    Steve_McMahon         *            *   (ARG2*   (ARG2*      *      -
+bc/msnbc/00/msnbc_0003   8   20             a    DT         (NP*         -    -   -    Steve_McMahon         *            *        *        *      *      -
+bc/msnbc/00/msnbc_0003   8   21           war    NN     *))))))))       war  01   1    Steve_McMahon         *            *)       *)       *)   (V*)     -
+bc/msnbc/00/msnbc_0003   8   22            /.     .           *))        -    -   -    Steve_McMahon         *            *        *        *      *      -
+
+bc/msnbc/00/msnbc_0003   8    0               um     UH   (TOP(S(INTJ*)              -    -   -    Steve_McMahon  *         *         *      *    (ARGM-DIS*)     *      *             *      -
+bc/msnbc/00/msnbc_0003   8    1              and     CC              *               -    -   -    Steve_McMahon  *         *         *      *             *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    2             then     RB         (ADVP*)              -    -   -    Steve_McMahon  *         *         *      *    (ARGM-ADV*)     *      *             *      -
+bc/msnbc/00/msnbc_0003   8    3              you    PRP     (PRN(S(NP*)              -    -   -    Steve_McMahon  *    (ARG0*)        *      *             *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    4             know    VBP         (VP*)))            know  01   1    Steve_McMahon  *       (V*)        *      *             *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    5        basically     RB         (ADVP*)              -    -   -    Steve_McMahon  *         *         *      *    (ARGM-ADV*)     *      *             *      -
+bc/msnbc/00/msnbc_0003   8    6           during     IN           (PP*               -    -   -    Steve_McMahon  *         *         *      *    (ARGM-TMP*      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    7              his   PRP$           (NP*               -    -   -    Steve_McMahon  *         *    (ARG1*)     *             *      *      *             *    (18)
+bc/msnbc/00/msnbc_0003   8    8     confirmation     NN              *     confirmation   -   2    Steve_McMahon  *         *    (ARG2*)     *             *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8    9         hearings    NNS             *))         hearing  01   1    Steve_McMahon  *         *       (V*)     *             *)     *      *             *      -
+bc/msnbc/00/msnbc_0003   8   10               he    PRP           (NP*)              -    -   -    Steve_McMahon  *         *         *      *        (ARG2*)     *      *             *    (18)
+bc/msnbc/00/msnbc_0003   8   11              was    VBD           (VP*               be  03   -    Steve_McMahon  *         *         *    (V*)            *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8   12            asked    VBN           (VP*              ask  01   1    Steve_McMahon  *         *         *      *           (V*)     *      *             *      -
+bc/msnbc/00/msnbc_0003   8   13          whether     IN         (SBAR*               -    -   -    Steve_McMahon  *         *         *      *        (ARG1*      *      *             *      -
+bc/msnbc/00/msnbc_0003   8   14               he    PRP         (S(NP*)              -    -   -    Steve_McMahon  *         *         *      *             *      *      *        (ARG2*)   (18)
+bc/msnbc/00/msnbc_0003   8   15              had    VBD           (VP*             have  01   -    Steve_McMahon  *         *         *      *             *    (V*)     *             *      -
+bc/msnbc/00/msnbc_0003   8   16             ever     RB         (ADVP*)              -    -   -    Steve_McMahon  *         *         *      *             *      *      *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   8   17             been    VBN           (VP*               be  03   -    Steve_McMahon  *         *         *      *             *      *    (V*)            *      -
+bc/msnbc/00/msnbc_0003   8   18     interrogated    VBN           (VP*      interrogate  01   -    Steve_McMahon  *         *         *      *             *      *      *           (V*)   (95)
+bc/msnbc/00/msnbc_0003   8   19               as     IN           (PP*               -    -   -    Steve_McMahon  *         *         *      *             *      *      *    (ARGM-PRP*      -
+bc/msnbc/00/msnbc_0003   8   20             part     NN        (NP(NP*)            part   -   1    Steve_McMahon  *         *         *      *             *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8   21               of     IN           (PP*               -    -   -    Steve_McMahon  *         *         *      *             *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8   22               an     DT           (NP*               -    -   -    Steve_McMahon  *         *         *      *             *      *      *             *      -
+bc/msnbc/00/msnbc_0003   8   23    investigation     NN    *)))))))))))   investigation   -   1    Steve_McMahon  *         *         *      *             *)     *      *             *)     -
+bc/msnbc/00/msnbc_0003   8   24               /.      .             *))              -    -   -    Steve_McMahon  *         *         *      *             *      *      *             *      -
+
+bc/msnbc/00/msnbc_0003   8   0       He   PRP   (TOP(S(NP*)      -    -   -    Steve_McMahon  *      *        (ARG0*)   (18)
+bc/msnbc/00/msnbc_0003   8   1      did   VBD         (VP*       do  01   -    Steve_McMahon  *    (V*)            *      -
+bc/msnbc/00/msnbc_0003   8   2      n't    RB            *       -    -   -    Steve_McMahon  *      *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0003   8   3     tell    VB         (VP*     tell  01   1    Steve_McMahon  *      *           (V*)     -
+bc/msnbc/00/msnbc_0003   8   4      the    DT      (NP(NP*       -    -   -    Steve_McMahon  *      *        (ARG1*      -
+bc/msnbc/00/msnbc_0003   8   5    truth    NN            *)   truth   -   1    Steve_McMahon  *      *             *      -
+bc/msnbc/00/msnbc_0003   8   6    about    IN         (PP*       -    -   -    Steve_McMahon  *      *             *      -
+bc/msnbc/00/msnbc_0003   8   7     that    DT     (NP*)))))      -    -   -    Steve_McMahon  *      *             *)   (95)
+bc/msnbc/00/msnbc_0003   8   8       /.     .           *))      -    -   -    Steve_McMahon  *      *             *      -
+
+bc/msnbc/00/msnbc_0003   8    0                 I    PRP   (TOP(S(PRN(S(NP*)               -    -   -    Steve_McMahon  *    (ARG0*)  (ARGM-DIS*      *             *             *             *     (66)
+bc/msnbc/00/msnbc_0003   8    1              mean    VBP             (VP*)))             mean  01   1    Steve_McMahon  *       (V*)           *)     *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8    2              this     DT               (NP*)               -    -   -    Steve_McMahon  *         *       (ARG1*)     *             *             *             *    (208)
+bc/msnbc/00/msnbc_0003   8    3                is    VBZ               (VP*                be  01   1    Steve_McMahon  *         *          (V*)     *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8    4                an     DT            (NP(NP*                -    -   -    Steve_McMahon  *         *       (ARG2*      *        (ARG0*             *             *       -
+bc/msnbc/00/msnbc_0003   8    5    administration     NN                  *)   administration   -   1    Steve_McMahon  *         *            *      *             *)            *             *       -
+bc/msnbc/00/msnbc_0003   8    6              that    WDT        (SBAR(WHNP*)               -    -   -    Steve_McMahon  *         *            *      *      (R-ARG0*)            *             *       -
+bc/msnbc/00/msnbc_0003   8    7         basically     RB           (S(ADVP*)               -    -   -    Steve_McMahon  *         *            *      *    (ARGM-ADV*)            *             *       -
+bc/msnbc/00/msnbc_0003   8    8                is    VBZ               (VP*                be  03   -    Steve_McMahon  *         *            *    (V*)            *             *             *       -
+bc/msnbc/00/msnbc_0003   8    9         rewarding    VBG               (VP*            reward  01   1    Steve_McMahon  *         *            *      *           (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   8   10          somebody     NN               (NP*)               -    -   -    Steve_McMahon  *         *            *      *        (ARG1*)       (ARG0*)       (ARG0*)    (18)
+bc/msnbc/00/msnbc_0003   8   11               for     IN            (PP(PP*                -    -   -    Steve_McMahon  *         *            *      *        (ARG2*             *             *       -
+bc/msnbc/00/msnbc_0003   8   12               not     RB                (S*                -    -   -    Steve_McMahon  *         *            *      *             *    (ARGM-NEG*)            *       -
+bc/msnbc/00/msnbc_0003   8   13           telling    VBG               (VP*              tell  01   1    Steve_McMahon  *         *            *      *             *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   8   14               the     DT               (NP*                -    -   -    Steve_McMahon  *         *            *      *             *        (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   8   15             truth     NN                  *)            truth   -   1    Steve_McMahon  *         *            *      *             *             *)            *       -
+bc/msnbc/00/msnbc_0003   8   16      consistently     RB             (ADVP*)               -    -   -    Steve_McMahon  *         *            *      *             *    (ARGM-MNR*)            *       -
+bc/msnbc/00/msnbc_0003   8   17              over     IN               (PP*                -    -   -    Steve_McMahon  *         *            *      *             *    (ARGM-TMP*             *       -
+bc/msnbc/00/msnbc_0003   8   18                 a     DT            (NP(NP*                -    -   -    Steve_McMahon  *         *            *      *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8   19              long     JJ                  *                -    -   -    Steve_McMahon  *         *            *      *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8   20            period     NN                  *)               -    -   -    Steve_McMahon  *         *            *      *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8   21                of     IN               (PP*                -    -   -    Steve_McMahon  *         *            *      *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8   22              time     NN         (NP*)))))))             time   -   2    Steve_McMahon  *         *            *      *             *             *)            *       -
+bc/msnbc/00/msnbc_0003   8   23               and     CC                  *                -    -   -    Steve_McMahon  *         *            *      *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8   24               for     IN               (PP*                -    -   -    Steve_McMahon  *         *            *      *             *             *             *       -
+bc/msnbc/00/msnbc_0003   8   25     belligerently     RB           (S(ADVP*)               -    -   -    Steve_McMahon  *         *            *      *             *             *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0003   8   26           abusing    VBG               (VP*             abuse  01   1    Steve_McMahon  *         *            *      *             *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   27               his   PRP$               (NP*                -    -   -    Steve_McMahon  *         *            *      *             *             *        (ARG1*     (18)
+bc/msnbc/00/msnbc_0003   8   28             staff     NN        *)))))))))))            staff   -   1    Steve_McMahon  *         *            *)     *             *)            *             *)      -
+bc/msnbc/00/msnbc_0003   8   29                /.      .                 *))               -    -   -    Steve_McMahon  *         *            *      *             *             *             *       -
+
+bc/msnbc/00/msnbc_0003   8   0          I   PRP   (TOP(S(NP*)        -    -   -    Ben_Ginsberg      *      *        (ARG0*)    (99)
+bc/msnbc/00/msnbc_0003   8   1         do   VBP         (VP*         do  01   -    Ben_Ginsberg      *    (V*)            *       -
+bc/msnbc/00/msnbc_0003   8   2        n't    RB            *         -    -   -    Ben_Ginsberg      *      *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   8   3    believe    VB         (VP*    believe  01   2    Ben_Ginsberg      *      *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   4         in    IN         (PP*         -    -   -    Ben_Ginsberg      *      *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   8   5        the    DT         (NP*         -    -   -    Ben_Ginsberg      *      *             *    (104
+bc/msnbc/00/msnbc_0003   8   6     Senate   NNP            *         -    -   -    Ben_Ginsberg   (ORG)     *             *    (111)
+bc/msnbc/00/msnbc_0003   8   7     debate    NN         *))))    debate   -   -    Ben_Ginsberg      *      *             *)    104)
+bc/msnbc/00/msnbc_0003   8   8         /.     .           *))        -    -   -    Ben_Ginsberg      *      *             *       -
+
+bc/msnbc/00/msnbc_0003   8    0       Your   PRP$    (TOP(S(NP*       -    -   -    Ben_Ginsberg         *   (ARG1*             *        *      *    (131|(66)
+bc/msnbc/00/msnbc_0003   8    1      party     NN             *)      -    -   -    Ben_Ginsberg         *        *)            *        *      *         131)
+bc/msnbc/00/msnbc_0003   8    2      stuck    VBD          (VP*    stick  01   3    Ben_Ginsberg         *      (V*)            *        *      *           -
+bc/msnbc/00/msnbc_0003   8    3         by     IN          (PP*       -    -   -    Ben_Ginsberg         *   (ARG2*             *        *      *           -
+bc/msnbc/00/msnbc_0003   8    4       what     WP   (SBAR(WHNP*)      -    -   -    Ben_Ginsberg         *        *        (ARG1*)       *      *           -
+bc/msnbc/00/msnbc_0003   8    5        you    PRP        (S(NP*)      -    -   -    Ben_Ginsberg         *        *        (ARG0*)       *      *         (66)
+bc/msnbc/00/msnbc_0003   8    6       just     RB        (ADVP*)      -    -   -    Ben_Ginsberg         *        *    (ARGM-ADV*)       *      *           -
+bc/msnbc/00/msnbc_0003   8    7       said    VBD          (VP*      say  01   1    Ben_Ginsberg         *        *           (V*)       *      *           -
+bc/msnbc/00/msnbc_0003   8    8      about     IN          (PP*       -    -   -    Ben_Ginsberg         *        *        (ARG3*        *      *           -
+bc/msnbc/00/msnbc_0003   8    9    blaming    VBG        (S(VP*    blame  01   1    Ben_Ginsberg         *        *             *      (V*)     *           -
+bc/msnbc/00/msnbc_0003   8   10       John    NNP          (NP*       -    -   -    Ben_Ginsberg  (PERSON*        *             *   (ARG1*      *         (18
+bc/msnbc/00/msnbc_0003   8   11     Bolton    NNP             *)      -    -   -    Ben_Ginsberg         *)       *             *        *)     *          18)
+bc/msnbc/00/msnbc_0003   8   12        for     IN          (PP*       -    -   -    Ben_Ginsberg         *        *             *   (ARG2*      *           -
+bc/msnbc/00/msnbc_0003   8   13        the     DT          (NP*       -    -   -    Ben_Ginsberg         *        *             *        *      *           -
+bc/msnbc/00/msnbc_0003   8   14        war     NN    *))))))))))     war  01   1    Ben_Ginsberg         *        *)            *)       *)   (V*)          -
+bc/msnbc/00/msnbc_0003   8   15         /.      .            *))      -    -   -    Ben_Ginsberg         *        *             *        *      *           -
+
+bc/msnbc/00/msnbc_0003   8    0          In    IN      (TOP(S(PP*        -    -   -    Ben_Ginsberg  *   (ARGM-DIS*   (ARGM-DIS*         *             *       -
+bc/msnbc/00/msnbc_0003   8    1        fact    NN           (NP*))     fact   -   5    Ben_Ginsberg  *            *)           *)        *             *       -
+bc/msnbc/00/msnbc_0003   8    2        they   PRP            (NP*)       -    -   -    Ben_Ginsberg  *       (ARG0*)      (ARG0*)   (ARG0*)            *    (131)
+bc/msnbc/00/msnbc_0003   8    3        sort    RB          (ADVP*        -    -   -    Ben_Ginsberg  *   (ARGM-ADV*   (ARGM-ADV*         *             *       -
+bc/msnbc/00/msnbc_0003   8    4          of    RB               *)       -    -   -    Ben_Ginsberg  *            *)           *)        *             *       -
+bc/msnbc/00/msnbc_0003   8    5    nickeled   VBD            (VP*    nickel  01   -    Ben_Ginsberg  *          (V*)           *         *             *       -
+bc/msnbc/00/msnbc_0003   8    6         and    CC               *        -    -   -    Ben_Ginsberg  *            *            *         *             *       -
+bc/msnbc/00/msnbc_0003   8    7       dimed   VBD               *      dime  01   -    Ben_Ginsberg  *            *          (V*)        *             *       -
+bc/msnbc/00/msnbc_0003   8    8         him   PRP            (NP*)       -    -   -    Ben_Ginsberg  *       (ARG1*)      (ARG1*)        *             *     (18)
+bc/msnbc/00/msnbc_0003   8    9          on    IN            (PP*        -    -   -    Ben_Ginsberg  *   (ARGM-ADV*   (ARGM-ADV*         *             *       -
+bc/msnbc/00/msnbc_0003   8   10         not    RB             (S*        -    -   -    Ben_Ginsberg  *            *            *         *             *       -
+bc/msnbc/00/msnbc_0003   8   11      giving   VBG            (VP*      give  01   3    Ben_Ginsberg  *            *            *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   8   12         him   PRP            (NP*)       -    -   -    Ben_Ginsberg  *            *            *    (ARG2*)            *     (18)
+bc/msnbc/00/msnbc_0003   8   13           a    DT         (NP(NP*        -    -   -    Ben_Ginsberg  *            *            *    (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   8   14        fair    JJ               *        -    -   -    Ben_Ginsberg  *            *            *         *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0003   8   15          up    JJ          (ADJP*        -    -   -    Ben_Ginsberg  *            *            *         *    (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0003   8   16          or    CC               *        -    -   -    Ben_Ginsberg  *            *            *         *             *       -
+bc/msnbc/00/msnbc_0003   8   17        down    JJ               *)       -    -   -    Ben_Ginsberg  *            *            *         *             *)      -
+bc/msnbc/00/msnbc_0003   8   18        vote    NN               *)     vote  01   1    Ben_Ginsberg  *            *            *         *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   19          on    IN            (PP*        -    -   -    Ben_Ginsberg  *            *            *         *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   8   20        much    RB  (NP(ADJP(ADVP*        -    -   -    Ben_Ginsberg  *            *            *         *             *       -
+bc/msnbc/00/msnbc_0003   8   21        less   RBR               *)       -    -   -    Ben_Ginsberg  *            *            *         *             *       -
+bc/msnbc/00/msnbc_0003   8   22    relevant    JJ               *)       -    -   -    Ben_Ginsberg  *            *            *         *             *       -
+bc/msnbc/00/msnbc_0003   8   23      points   NNS         *)))))))    point   -   4    Ben_Ginsberg  *            *)           *)        *)            *)      -
+bc/msnbc/00/msnbc_0003   8   24          /.     .              *))       -    -   -    Ben_Ginsberg  *            *            *         *             *       -
+
+bc/msnbc/00/msnbc_0003   8    0        We   PRP     (TOP(S(NP*)      -    -   -    Ben_Ginsberg  *      *        (ARG0*)        *         *    (238)
+bc/msnbc/00/msnbc_0003   8    1        do   VBP           (VP*       do  01   -    Ben_Ginsberg  *    (V*)            *         *         *       -
+bc/msnbc/00/msnbc_0003   8    2       n't    RB              *       -    -   -    Ben_Ginsberg  *      *    (ARGM-NEG*)        *         *       -
+bc/msnbc/00/msnbc_0003   8    3      have    VB           (VP*     have  03   1    Ben_Ginsberg  *      *           (V*)        *         *       -
+bc/msnbc/00/msnbc_0003   8    4       all   PDT        (NP(NP*       -    -   -    Ben_Ginsberg  *      *        (ARG1*         *         *       -
+bc/msnbc/00/msnbc_0003   8    5       the    DT              *       -    -   -    Ben_Ginsberg  *      *             *         *         *       -
+bc/msnbc/00/msnbc_0003   8    6    papers   NNS              *)   paper   -   -    Ben_Ginsberg  *      *             *         *         *       -
+bc/msnbc/00/msnbc_0003   8    7      that   WDT    (SBAR(WHNP*)      -    -   -    Ben_Ginsberg  *      *             *         *    (ARG1*)      -
+bc/msnbc/00/msnbc_0003   8    8        we   PRP         (S(NP*)      -    -   -    Ben_Ginsberg  *      *             *    (ARG0*)        *    (238)
+bc/msnbc/00/msnbc_0003   8    9     think   VBP           (VP*    think  01   1    Ben_Ginsberg  *      *             *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   8   10        we   PRP    (SBAR(S(NP*)      -    -   -    Ben_Ginsberg  *      *             *    (ARG1*    (ARG0*)   (238)
+bc/msnbc/00/msnbc_0003   8   11      need   VBP   (VP*)))))))))    need  01   1    Ben_Ginsberg  *      *             *)        *)      (V*)      -
+bc/msnbc/00/msnbc_0003   8   12        /.     .             *))      -    -   -    Ben_Ginsberg  *      *             *         *         *       -
+
+bc/msnbc/00/msnbc_0003   8    0        and    CC   (TOP(S*      -    -   -    Ben_Ginsberg  *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0003   8    1       they   PRP      (NP*)     -    -   -    Ben_Ginsberg  *        (ARG0*)   (ARG0*)   (131)
+bc/msnbc/00/msnbc_0003   8    2       kept   VBD      (VP*    keep  02   1    Ben_Ginsberg  *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   8    3    playing   VBG    (S(VP*    play  01   3    Ben_Ginsberg  *        (ARG1*       (V*)      -
+bc/msnbc/00/msnbc_0003   8    4       that    DT   (NP(NP*      -    -   -    Ben_Ginsberg  *             *    (ARG1*       -
+bc/msnbc/00/msnbc_0003   8    5       sort    NN         *)   sort   -   1    Ben_Ginsberg  *             *         *       -
+bc/msnbc/00/msnbc_0003   8    6         of    IN      (PP*      -    -   -    Ben_Ginsberg  *             *         *       -
+bc/msnbc/00/msnbc_0003   8    7       rope    NN  (NP(NML*      -    -   -    Ben_Ginsberg  *             *         *       -
+bc/msnbc/00/msnbc_0003   8    8          a    DT         *      -    -   -    Ben_Ginsberg  *             *         *       -
+bc/msnbc/00/msnbc_0003   8    9       dope    NN         *)   dope   -   -    Ben_Ginsberg  *             *         *       -
+bc/msnbc/00/msnbc_0003   8   10       game    NN    *))))))   game   -   3    Ben_Ginsberg  *             *)        *)      -
+bc/msnbc/00/msnbc_0003   8   11         /.     .        *))     -    -   -    Ben_Ginsberg  *             *         *       -
+
+bc/msnbc/00/msnbc_0003   8    0        There    EX   (TOP(S(NP*)        -    -   -    Ben_Ginsberg         *        *      *     -
+bc/msnbc/00/msnbc_0003   8    1          was   VBD         (VP*         be  02   3    Ben_Ginsberg         *      (V*)     *     -
+bc/msnbc/00/msnbc_0003   8    2      nothing    NN      (NP(NP*)   nothing   -   2    Ben_Ginsberg         *   (ARG1*      *     -
+bc/msnbc/00/msnbc_0003   8    3        about    IN         (PP*         -    -   -    Ben_Ginsberg         *        *      *     -
+bc/msnbc/00/msnbc_0003   8    4         John   NNP      (NP(NP*         -    -   -    Ben_Ginsberg  (PERSON*        *      *   (18
+bc/msnbc/00/msnbc_0003   8    5       Bolton   NNP            *)        -    -   -    Ben_Ginsberg         *)       *      *    18)
+bc/msnbc/00/msnbc_0003   8    6           as    IN         (PP*         -    -   -    Ben_Ginsberg         *        *      *     -
+bc/msnbc/00/msnbc_0003   8    7          the    DT      (NP(NP*         -    -   -    Ben_Ginsberg         *        *      *     -
+bc/msnbc/00/msnbc_0003   8    8    architect    NN            *)        -    -   -    Ben_Ginsberg         *        *      *     -
+bc/msnbc/00/msnbc_0003   8    9          for    IN         (PP*         -    -   -    Ben_Ginsberg         *        *      *     -
+bc/msnbc/00/msnbc_0003   8   10          the    DT         (NP*         -    -   -    Ben_Ginsberg         *        *      *     -
+bc/msnbc/00/msnbc_0003   8   11          war    NN     *))))))))       war  01   1    Ben_Ginsberg         *        *)   (V*)    -
+bc/msnbc/00/msnbc_0003   8   12           /.     .           *))        -    -   -    Ben_Ginsberg         *        *      *     -
+
+bc/msnbc/00/msnbc_0003   8    0          It   PRP    (TOP(S(NP*)       -    -   -    Ben_Ginsberg  *       (ARG1*)   (104)
+bc/msnbc/00/msnbc_0003   8    1         was   VBD          (VP*        be  01   1    Ben_Ginsberg  *          (V*)      -
+bc/msnbc/00/msnbc_0003   8    2           a    DT          (NP*        -    -   -    Ben_Ginsberg  *       (ARG2*       -
+bc/msnbc/00/msnbc_0003   8    3        much    RB        (ADJP*        -    -   -    Ben_Ginsberg  *            *       -
+bc/msnbc/00/msnbc_0003   8    4    shriller   JJR             *)       -    -   -    Ben_Ginsberg  *            *       -
+bc/msnbc/00/msnbc_0003   8    5        sort    RB   (ADJP(ADVP*        -    -   -    Ben_Ginsberg  *            *       -
+bc/msnbc/00/msnbc_0003   8    6          of    RB             *)       -    -   -    Ben_Ginsberg  *            *       -
+bc/msnbc/00/msnbc_0003   8    7        less   RBR             *        -    -   -    Ben_Ginsberg  *            *       -
+bc/msnbc/00/msnbc_0003   8    8    relevant    JJ             *)       -    -   -    Ben_Ginsberg  *            *       -
+bc/msnbc/00/msnbc_0003   8    9      debate    NN             *)   debate   -   1    Ben_Ginsberg  *            *)      -
+bc/msnbc/00/msnbc_0003   8   10        that   WDT   (SBAR(WHNP*)       -    -   -    Ben_Ginsberg  *   (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0003   8   11         you   PRP        (S(NP*        -    -   -    Ben_Ginsberg  *            *    (131
+bc/msnbc/00/msnbc_0003   8   12        guys   NNS             *)      guy   -   -    Ben_Ginsberg  *            *     131)
+bc/msnbc/00/msnbc_0003   8   13         did   VBD       (VP*))))       do   -   1    Ben_Ginsberg  *            *)      -
+bc/msnbc/00/msnbc_0003   8   14          /.     .            *))       -    -   -    Ben_Ginsberg  *            *       -
+
+bc/msnbc/00/msnbc_0003   8    0        could     MD   (TOP(SQ*          -    -   -    Chris_Matthews  *    (ARGM-MOD*)     *      *        *      -
+bc/msnbc/00/msnbc_0003   8    1          n't     RB          *          -    -   -    Chris_Matthews  *    (ARGM-NEG*)     *      *        *      -
+bc/msnbc/00/msnbc_0003   8    2          the     DT    (NP(NP*          -    -   -    Chris_Matthews  *        (ARG1*      *      *        *      -
+bc/msnbc/00/msnbc_0003   8    3     strategy     NN          *)   strategy   -   1    Chris_Matthews  *             *      *      *        *      -
+bc/msnbc/00/msnbc_0003   8    4           of     IN       (PP*          -    -   -    Chris_Matthews  *             *      *      *        *      -
+bc/msnbc/00/msnbc_0003   8    5          the     DT       (NP*          -    -   -    Chris_Matthews  *             *      *      *        *    (35
+bc/msnbc/00/msnbc_0003   8    6    president    NNP        *)))         -    -   -    Chris_Matthews  *             *)     *      *        *     35)
+bc/msnbc/00/msnbc_0003   8    7           be     VB       (VP*          be  01   1    Chris_Matthews  *           (V*)     *      *        *      -
+bc/msnbc/00/msnbc_0003   8    8         this     DT     (S(NP*          -    -   -    Chris_Matthews  *        (ARG2*      *      *   (ARG1*    (18
+bc/msnbc/00/msnbc_0003   8    9          guy     NN          *)        guy   -   -    Chris_Matthews  *             *      *      *        *)    18)
+bc/msnbc/00/msnbc_0003   8   10           is    VBZ       (VP*          be  03   -    Chris_Matthews  *             *    (V*)     *        *      -
+bc/msnbc/00/msnbc_0003   8   11        going    VBG       (VP*          go  04   7    Chris_Matthews  *             *      *    (V*)       *      -
+bc/msnbc/00/msnbc_0003   8   12           to     TO     (S(VP*          -    -   -    Chris_Matthews  *             *      *      *        *      -
+bc/msnbc/00/msnbc_0003   8   13           be     VB       (VP*          be  01   1    Chris_Matthews  *             *      *      *      (V*)     -
+bc/msnbc/00/msnbc_0003   8   14          his   PRP$       (NP*          -    -   -    Chris_Matthews  *             *      *      *   (ARG2*    (35)
+bc/msnbc/00/msnbc_0003   8   15    lightning     NN          *          -    -   -    Chris_Matthews  *             *      *      *        *      -
+bc/msnbc/00/msnbc_0003   8   16          rod     NN   *))))))))        rod   -   1    Chris_Matthews  *             *)     *      *        *)     -
+bc/msnbc/00/msnbc_0003   8   17           /?      .         *))         -    -   -    Chris_Matthews  *             *      *      *        *      -
+
+bc/msnbc/00/msnbc_0003   8   0      They   PRP   (TOP(S(NP*)     -    -   -    Chris_Matthews         *        (ARG0*)   (142)
+bc/msnbc/00/msnbc_0003   8   1       'll    MD         (VP*      -    -   -    Chris_Matthews         *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   8   2      hate    VB         (VP*    hate  01   1    Chris_Matthews         *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   3      John   NNP         (NP*      -    -   -    Chris_Matthews  (PERSON*        (ARG1*     (18
+bc/msnbc/00/msnbc_0003   8   4    Bolton   NNP          *)))     -    -   -    Chris_Matthews         *)            *)     18)
+bc/msnbc/00/msnbc_0003   8   5        /.     .           *))     -    -   -    Chris_Matthews         *             *       -
+
+bc/msnbc/00/msnbc_0003   8   0      they   PRP   (TOP(S(NP*)     -    -   -    Chris_Matthews         *        (ARG0*)   (142)
+bc/msnbc/00/msnbc_0003   8   1        wo    MD         (VP*      -    -   -    Chris_Matthews         *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   8   2       n't    RB            *      -    -   -    Chris_Matthews         *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   8   3      hate    VB         (VP*    hate  01   1    Chris_Matthews         *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   4    George   NNP         (NP*      -    -   -    Chris_Matthews  (PERSON*        (ARG1*     (35
+bc/msnbc/00/msnbc_0003   8   5      Bush   NNP          *)))     -    -   -    Chris_Matthews         *)            *)     35)
+bc/msnbc/00/msnbc_0003   8   6        /.     .           *))     -    -   -    Chris_Matthews         *             *       -
+
+bc/msnbc/00/msnbc_0003   8   0     Bush   NNP   (TOP(S(NP*)   -    -   -    Chris_Matthews   (PERSON)   (ARG1*)   (35)
+bc/msnbc/00/msnbc_0003   8   1       is   VBZ         (VP*    be  01   1    Chris_Matthews         *       (V*)     -
+bc/msnbc/00/msnbc_0003   8   2      all    RB       (ADJP*    -    -   -    Chris_Matthews         *    (ARG2*      -
+bc/msnbc/00/msnbc_0003   8   3    right    JJ           *))   -    -   -    Chris_Matthews         *         *)     -
+bc/msnbc/00/msnbc_0003   8   4       /.     .           *))   -    -   -    Chris_Matthews         *         *      -
+
+bc/msnbc/00/msnbc_0003   8   0       I   PRP   (TOP(S(NP*)     -    -   -    Chris_Matthews  *       (ARG0*)    (6)
+bc/msnbc/00/msnbc_0003   8   1    sort    RB       (ADVP*      -    -   -    Chris_Matthews  *   (ARGM-ADV*      -
+bc/msnbc/00/msnbc_0003   8   2      of    RB            *)     -    -   -    Chris_Matthews  *            *)     -
+bc/msnbc/00/msnbc_0003   8   3    like   VBP         (VP*    like  01   2    Chris_Matthews  *          (V*)     -
+bc/msnbc/00/msnbc_0003   8   4     him   PRP        (NP*))     -    -   -    Chris_Matthews  *       (ARG1*)   (35)
+bc/msnbc/00/msnbc_0003   8   5      /.     .           *))     -    -   -    Chris_Matthews  *            *      -
+
+bc/msnbc/00/msnbc_0003   8   0      this    DT  (TOP(S(NP(NP*     -    -   -    Chris_Matthews         *   (ARG1*   (18
+bc/msnbc/00/msnbc_0003   8   1       guy    NN              *)   guy   -   -    Chris_Matthews         *        *     -
+bc/msnbc/00/msnbc_0003   8   2    Bolton   NNP          (NP*))    -    -   -    Chris_Matthews   (PERSON)       *)   18)
+bc/msnbc/00/msnbc_0003   8   3        is   VBZ           (VP*     be  01   1    Chris_Matthews         *      (V*)    -
+bc/msnbc/00/msnbc_0003   8   4        no    RB         (ADJP*     -    -   -    Chris_Matthews         *   (ARG2*     -
+bc/msnbc/00/msnbc_0003   8   5      good    JJ             *))    -    -   -    Chris_Matthews         *        *)    -
+bc/msnbc/00/msnbc_0003   8   6        /.     .             *))    -    -   -    Chris_Matthews         *        *     -
+
+bc/msnbc/00/msnbc_0003   8   0        you   PRP   (TOP(S(PRN(S(NP*)     -    -   -    Chris_Matthews         *    (ARG0*)   (ARGM-DIS*     -
+bc/msnbc/00/msnbc_0003   8   1       know   VBP             (VP*)))   know  01   1    Chris_Matthews         *       (V*)            *)    -
+bc/msnbc/00/msnbc_0003   8   2       Jack   NNP               (NP*      -    -   -    Chris_Matthews  (PERSON*         *        (ARG0*     -
+bc/msnbc/00/msnbc_0003   8   3    Kennedy   NNP                  *)     -    -   -    Chris_Matthews         *)        *             *)    -
+bc/msnbc/00/msnbc_0003   8   4      would    MD               (VP*      -    -   -    Chris_Matthews         *         *    (ARGM-MOD*)    -
+bc/msnbc/00/msnbc_0003   8   5       send    VB               (VP*    send  02   2    Chris_Matthews         *         *           (V*)    -
+bc/msnbc/00/msnbc_0003   8   6      Bobby   NNP               (NP*)     -    -   -    Chris_Matthews   (PERSON)        *        (ARG1*)   (4)
+bc/msnbc/00/msnbc_0003   8   7        out    RB             (ADVP*      -    -   -    Chris_Matthews         *         *    (ARGM-DIR*     -
+bc/msnbc/00/msnbc_0003   8   8      there    RB                *)))     -    -   -    Chris_Matthews         *         *             *)    -
+bc/msnbc/00/msnbc_0003   8   9         /.     .                 *))     -    -   -    Chris_Matthews         *         *             *     -
+
+bc/msnbc/00/msnbc_0003   8   0       Be    VB  (TOP(S(VP*    be  01   1    Chris_Matthews         *      (V*)    -
+bc/msnbc/00/msnbc_0003   8   1      mad    JJ      (ADJP*    -    -   -    Chris_Matthews         *   (ARG2*     -
+bc/msnbc/00/msnbc_0003   8   2       at    IN        (PP*    -    -   -    Chris_Matthews         *        *     -
+bc/msnbc/00/msnbc_0003   8   3    Bobby   NNP     (NP*))))   -    -   -    Chris_Matthews   (PERSON)       *)   (4)
+bc/msnbc/00/msnbc_0003   8   4       /.     .          *))   -    -   -    Chris_Matthews         *        *     -
+
+bc/msnbc/00/msnbc_0003   8   0    that     DT   (TOP(S(NP*)    -    -   -    Chris_Matthews  *    (ARG1*)   (188)
+bc/msnbc/00/msnbc_0003   8   1      's    VBZ         (VP*     be  01   2    Chris_Matthews  *       (V*)      -
+bc/msnbc/00/msnbc_0003   8   2    your   PRP$         (NP*     -    -   -    Chris_Matthews  *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   8   3     job     NN           *))   job   -   2    Chris_Matthews  *         *)      -
+bc/msnbc/00/msnbc_0003   8   4      /.      .           *))    -    -   -    Chris_Matthews  *         *       -
+
+bc/msnbc/00/msnbc_0003   8   0       Is   VBZ      (TOP(SQ*    be  01   1    Chris_Matthews  *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   8   1     that    DT          (NP*)   -    -   -    Chris_Matthews  *    (ARG1*)        *    (188)
+bc/msnbc/00/msnbc_0003   8   2     what    WP   (SBAR(WHNP*)   -    -   -    Chris_Matthews  *    (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   8   3     this    DT        (S(NP*)   -    -   -    Chris_Matthews  *         *    (ARG1*)      -
+bc/msnbc/00/msnbc_0003   8   4       is   VBZ          (VP*    be  01   1    Chris_Matthews  *         *       (V*)      -
+bc/msnbc/00/msnbc_0003   8   5    about    IN       (PP*))))   -    -   -    Chris_Matthews  *         *)   (ARG2*)      -
+bc/msnbc/00/msnbc_0003   8   6       /?     .            *))   -    -   -    Chris_Matthews  *         *         *       -
+
+bc/msnbc/00/msnbc_0003   8   0      Not   RB  (TOP(NP*   -   -   -    Ben_Ginsberg  *   -
+bc/msnbc/00/msnbc_0003   8   1   Bobb-    XX         *   -   -   -    Ben_Ginsberg  *   -
+bc/msnbc/00/msnbc_0003   8   2      /-     .        *))  -   -   -    Ben_Ginsberg  *   -
+
+bc/msnbc/00/msnbc_0003   8   0    Yeah   UH  (TOP(INTJ*   -   -   -    Ben_Ginsberg  *   -
+bc/msnbc/00/msnbc_0003   8   1      /.    .          *))  -   -   -    Ben_Ginsberg  *   -
+
+bc/msnbc/00/msnbc_0003   8    0    Nobody    NN    (TOP(SQ(S(NP*)     -    -   -    Chris_Matthews         *      *      *       (ARG0*)     *    (149)
+bc/msnbc/00/msnbc_0003   8    1        is   VBZ             (VP*      be  03   -    Chris_Matthews         *    (V*)     *            *      *       -
+bc/msnbc/00/msnbc_0003   8    2     going   VBG             (VP*      go  04   7    Chris_Matthews         *      *    (V*)           *      *       -
+bc/msnbc/00/msnbc_0003   8    3        to    TO           (S(VP*      -    -   -    Chris_Matthews         *      *      *            *      *       -
+bc/msnbc/00/msnbc_0003   8    4      like    VB             (VP*    like  01   2    Chris_Matthews         *      *      *          (V*)     *       -
+bc/msnbc/00/msnbc_0003   8    5    Bolton   NNP             (NP*)     -    -   -    Chris_Matthews   (PERSON)     *      *       (ARG1*)     *     (18)
+bc/msnbc/00/msnbc_0003   8    6         a    DT          (NP(NP*      -    -   -    Chris_Matthews    (DATE*      *      *   (ARGM-TMP*      *       -
+bc/msnbc/00/msnbc_0003   8    7      year    NN                *)     -    -   -    Chris_Matthews         *      *      *            *      *       -
+bc/msnbc/00/msnbc_0003   8    8      from    IN             (PP*      -    -   -    Chris_Matthews         *      *      *            *      *       -
+bc/msnbc/00/msnbc_0003   8    9       now    RB   (ADVP*)))))))))     -    -   -    Chris_Matthews         *)     *      *            *)     *       -
+bc/msnbc/00/msnbc_0003   8   10         ,     ,                *      -    -   -    Chris_Matthews         *      *      *            *      *       -
+bc/msnbc/00/msnbc_0003   8   11       are   VBP             (SQ*      be  03   -    Chris_Matthews         *      *      *            *    (V*)      -
+bc/msnbc/00/msnbc_0003   8   12      they   PRP            (NP*))     -    -   -    Chris_Matthews         *      *      *            *      *    (149)
+bc/msnbc/00/msnbc_0003   8   13        /?     .               *))     -    -   -    Chris_Matthews         *      *      *            *      *       -
+
+bc/msnbc/00/msnbc_0003   8    0      Well    UH   (TOP(S(INTJ*)     -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8    1       you   PRP     (PRN(S(NP*)     -    -   -    Ben_Ginsberg       *    (ARG0*)     -
+bc/msnbc/00/msnbc_0003   8    2      know   VBP         (VP*)))   know  01   1    Ben_Ginsberg       *       (V*)     -
+bc/msnbc/00/msnbc_0003   8    3        in    IN           (PP*      -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8    4     about    RB     (NP(NP(NP*      -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8    5         a    DT              *      -    -   -    Ben_Ginsberg  (DATE*         *      -
+bc/msnbc/00/msnbc_0003   8    6      year    NN              *)     -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8    7       and    CC              *      -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8    8         a    DT           (NP*      -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8    9      half    NN             *))   half   -   1    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8   10      from    IN           (PP*      -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8   11       now    RB      (ADVP*))))     -    -   -    Ben_Ginsberg       *)        *      -
+bc/msnbc/00/msnbc_0003   8   12        he   PRP           (NP*)     -    -   -    Ben_Ginsberg       *         *    (18)
+bc/msnbc/00/msnbc_0003   8   13        wo    MD           (VP*      -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8   14       n't    RB              *      -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8   15    either    RB    (VP(ADVP*)))     -    -   -    Ben_Ginsberg       *         *      -
+bc/msnbc/00/msnbc_0003   8   16        /.     .             *))     -    -   -    Ben_Ginsberg       *         *      -
+
+bc/msnbc/00/msnbc_0003   8   0         He   PRP   (TOP(S(NP*)     -    -   -    Chris_Matthews  *      *             *    (ARG1*)   (ARG1*)   (18)
+bc/msnbc/00/msnbc_0003   8   1         's   VBZ         (VP*      be  03   -    Chris_Matthews  *    (V*)            *         *         *      -
+bc/msnbc/00/msnbc_0003   8   2        not    RB            *      -    -   -    Chris_Matthews  *      *    (ARGM-NEG*)        *         *      -
+bc/msnbc/00/msnbc_0003   8   3      going   VBG         (VP*      go  04   7    Chris_Matthews  *      *           (V*)        *         *      -
+bc/msnbc/00/msnbc_0003   8   4         to    TO       (S(VP*      -    -   -    Chris_Matthews  *      *             *         *         *      -
+bc/msnbc/00/msnbc_0003   8   5        get    VB         (VP*     get  03   3    Chris_Matthews  *      *             *       (V*)        *      -
+bc/msnbc/00/msnbc_0003   8   6    reupped   VBN    (VP*))))))   reup  01   -    Chris_Matthews  *      *             *    (ARG2*)      (V*)     -
+bc/msnbc/00/msnbc_0003   8   7         /.     .           *))     -    -   -    Chris_Matthews  *      *             *         *         *      -
+
+bc/msnbc/00/msnbc_0003   8   0         Is   VBZ     (TOP(SQ*         be  02   3    Chris_Matthews      *      (V*)            *      -
+bc/msnbc/00/msnbc_0003   8   1      there    EX         (NP*)        -    -   -    Chris_Matthews      *        *             *      -
+bc/msnbc/00/msnbc_0003   8   2        any    DT         (NP*         -    -   -    Chris_Matthews      *   (ARG1*             *      -
+bc/msnbc/00/msnbc_0003   8   3     chance    NN            *     chance   -   4    Chris_Matthews      *        *             *      -
+bc/msnbc/00/msnbc_0003   8   4        the    DT  (SBAR(S(NP*         -    -   -    Chris_Matthews      *        *        (ARG0*   (111
+bc/msnbc/00/msnbc_0003   8   5     Senate   NNP            *)        -    -   -    Chris_Matthews   (ORG)       *             *)   111)
+bc/msnbc/00/msnbc_0003   8   6       will    MD         (VP*         -    -   -    Chris_Matthews      *        *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0003   8   7    confirm    VB         (VP*    confirm  01   3    Chris_Matthews      *        *           (V*)     -
+bc/msnbc/00/msnbc_0003   8   8        him   PRP    (NP*))))))        -    -   -    Chris_Matthews      *        *)       (ARG1*)   (18)
+bc/msnbc/00/msnbc_0003   8   9         /?     .           *))        -    -   -    Chris_Matthews      *        *             *      -
+
+bc/msnbc/00/msnbc_0003   8   0      Will    MD     (TOP(SQ*       -    -   -    Chris_Matthews      *         *      -
+bc/msnbc/00/msnbc_0003   8   1       the    DT         (NP*       -    -   -    Chris_Matthews      *         *   (111
+bc/msnbc/00/msnbc_0003   8   2    Senate   NNP            *)      -    -   -    Chris_Matthews   (ORG)        *    111)
+bc/msnbc/00/msnbc_0003   8   3       you   PRP   (PRN(S(NP*)      -    -   -    Chris_Matthews      *    (ARG0*)   (99)
+bc/msnbc/00/msnbc_0003   8   4     think   VBP       (VP*)))   think  01   1    Chris_Matthews      *       (V*)     -
+bc/msnbc/00/msnbc_0003   8   5       /-      .           *))      -    -   -    Chris_Matthews      *         *      -
+
+bc/msnbc/00/msnbc_0003   8   0         Let    VB  (TOP(S(VP*         let  01   1    Chris_Matthews  *      (V*)        *      *      -
+bc/msnbc/00/msnbc_0003   8   1          me   PRP      (S(NP*)         -    -   -    Chris_Matthews  *   (ARG1*    (ARG0*)     *     (6)
+bc/msnbc/00/msnbc_0003   8   2         ask    VB        (VP*         ask  01   1    Chris_Matthews  *        *       (V*)     *      -
+bc/msnbc/00/msnbc_0003   8   3         you   PRP        (NP*)         -    -   -    Chris_Matthews  *        *    (ARG2*)     *    (99)
+bc/msnbc/00/msnbc_0003   8   4           a    DT        (NP*          -    -   -    Chris_Matthews  *        *    (ARG1*      *      -
+bc/msnbc/00/msnbc_0003   8   5    question    NN        *))))   question  01   1    Chris_Matthews  *        *)        *)   (V*)     -
+bc/msnbc/00/msnbc_0003   8   6          /.     .          *))         -    -   -    Chris_Matthews  *        *         *      *      -
+
+bc/msnbc/00/msnbc_0003   8    0            Ben   NNP  (TOP(SQ(NP*             -    -   -    Chris_Matthews  (PERSON*    (ARGM-DIS*             *    (99
+bc/msnbc/00/msnbc_0003   8    1       Ginsberg   NNP            *)            -    -   -    Chris_Matthews         *)            *)            *     99)
+bc/msnbc/00/msnbc_0003   8    2           will    MD            *             -    -   -    Chris_Matthews         *    (ARGM-MOD*)            *      -
+bc/msnbc/00/msnbc_0003   8    3            the    DT         (NP*             -    -   -    Chris_Matthews         *        (ARG0*             *   (111
+bc/msnbc/00/msnbc_0003   8    4         United   NNP        (NML*             -    -   -    Chris_Matthews     (GPE*             *             *      -
+bc/msnbc/00/msnbc_0003   8    5         States   NNP            *)            -    -   -    Chris_Matthews         *)            *             *      -
+bc/msnbc/00/msnbc_0003   8    6         Senate   NNP            *)            -    -   -    Chris_Matthews      (ORG)            *)            *    111)
+bc/msnbc/00/msnbc_0003   8    7     eventually    RB       (ADVP*)            -    -   -    Chris_Matthews         *    (ARGM-TMP*)            *      -
+bc/msnbc/00/msnbc_0003   8    8        confirm   VBP         (VP*        confirm  01   3    Chris_Matthews         *           (V*)            *      -
+bc/msnbc/00/msnbc_0003   8    9           this    DT         (NP*             -    -   -    Chris_Matthews         *        (ARG1*             *    (18
+bc/msnbc/00/msnbc_0003   8   10            guy    NN            *)           guy   -   -    Chris_Matthews         *             *)            *     18)
+bc/msnbc/00/msnbc_0003   8   11             to    IN         (PP*             -    -   -    Chris_Matthews         *    (ARGM-ADV*             *      -
+bc/msnbc/00/msnbc_0003   8   12              a    DT         (NP*             -    -   -    Chris_Matthews         *             *             *      -
+bc/msnbc/00/msnbc_0003   8   13           full    JJ            *             -    -   -    Chris_Matthews         *             *    (ARGM-EXT*)     -
+bc/msnbc/00/msnbc_0003   8   14    appointment    NN          *)))   appointment  01   1    Chris_Matthews         *             *)          (V*)     -
+bc/msnbc/00/msnbc_0003   8   15             /.     .           *))            -    -   -    Chris_Matthews         *             *             *      -
+
+bc/msnbc/00/msnbc_0003   8    0        Yeah    UH   (TOP(S(INTJ*)         -    -   -    Ben_Ginsberg         *    (ARGM-DIS*)     *      *        *       -
+bc/msnbc/00/msnbc_0003   8    1           I   PRP           (NP*)         -    -   -    Ben_Ginsberg         *        (ARG0*)     *      *        *     (99)
+bc/msnbc/00/msnbc_0003   8    2       think   VBP           (VP*       think  01   1    Ben_Ginsberg         *           (V*)     *      *        *       -
+bc/msnbc/00/msnbc_0003   8    3        John   NNP    (SBAR(S(NP*          -    -   -    Ben_Ginsberg  (PERSON*        (ARG1*      *      *   (ARG0*     (18
+bc/msnbc/00/msnbc_0003   8    4      Bolton   NNP              *)         -    -   -    Ben_Ginsberg         *)            *      *      *        *)     18)
+bc/msnbc/00/msnbc_0003   8    5          is   VBZ           (VP*          be  03   -    Ben_Ginsberg         *             *    (V*)     *        *       -
+bc/msnbc/00/msnbc_0003   8    6       going   VBG           (VP*          go  04   7    Ben_Ginsberg         *             *      *    (V*)       *       -
+bc/msnbc/00/msnbc_0003   8    7          to    TO         (S(VP*          -    -   -    Ben_Ginsberg         *             *      *      *        *       -
+bc/msnbc/00/msnbc_0003   8    8    surprise    VB           (VP*    surprise  01   1    Ben_Ginsberg         *             *      *      *      (V*)   (177)
+bc/msnbc/00/msnbc_0003   8    9      people   NNS        (NP(NP*)     people   -   1    Ben_Ginsberg         *             *      *      *   (ARG1*       -
+bc/msnbc/00/msnbc_0003   8   10         the    DT           (NP*          -    -   -    Ben_Ginsberg         *             *      *      *        *    (129
+bc/msnbc/00/msnbc_0003   8   11          UN   NNP     *))))))))))         -    -   -    Ben_Ginsberg      (ORG)            *)     *      *        *)    129)
+bc/msnbc/00/msnbc_0003   8   12         /-      .             *))         -    -   -    Ben_Ginsberg         *             *      *      *        *       -
+
+bc/msnbc/00/msnbc_0003   8   0      will   MD  (TOP(SQ*        -    -   -    Chris_Matthews  *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   8   1      that   DT      (NP*)       -    -   -    Chris_Matthews  *        (ARG1*)   (177)
+bc/msnbc/00/msnbc_0003   8   2    happen   VB      (VP*)   happen  01   1    Chris_Matthews  *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   3        /?    .        *))       -    -   -    Chris_Matthews  *             *       -
+
+bc/msnbc/00/msnbc_0003   8   0          Yes    UH   (TOP(FRAG(INTJ*)       -    -   -    Ben_Ginsberg  *        *   -
+bc/msnbc/00/msnbc_0003   8   1    depending   VBG              (PP*    depend  01   1    Ben_Ginsberg  *      (V*)  -
+bc/msnbc/00/msnbc_0003   8   2           on    IN              (PP*        -    -   -    Ben_Ginsberg  *   (ARG1*   -
+bc/msnbc/00/msnbc_0003   8   3          the    DT              (NP*        -    -   -    Ben_Ginsberg  *        *   -
+bc/msnbc/00/msnbc_0003   8   4     election    NN                 *        -    -   -    Ben_Ginsberg  *        *   -
+bc/msnbc/00/msnbc_0003   8   5      results   NNS               *)))   result   -   3    Ben_Ginsberg  *        *)  -
+bc/msnbc/00/msnbc_0003   8   6           /.     .                *))       -    -   -    Ben_Ginsberg  *        *   -
+
+bc/msnbc/00/msnbc_0003   8   0           Oh    UH   (TOP(FRAG(INTJ*)       -    -   -    Steve_McMahon  *         *   -
+bc/msnbc/00/msnbc_0003   8   1    depending   VBG              (PP*    depend  01   1    Steve_McMahon  *       (V*)  -
+bc/msnbc/00/msnbc_0003   8   2           on    IN             (PP*))       -    -   -    Steve_McMahon  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0003   8   3          /-      .                *))       -    -   -    Steve_McMahon  *         *   -
+
+bc/msnbc/00/msnbc_0003   8   0    What    WP   (TOP(SBARQ(WHNP*)     -    -   -    Chris_Matthews  *      *    (ARG1*)     -
+bc/msnbc/00/msnbc_0003   8   1      do   VBP               (SQ*      do  01   -    Chris_Matthews  *    (V*)        *      -
+bc/msnbc/00/msnbc_0003   8   2     you   PRP               (NP*)     -    -   -    Chris_Matthews  *      *    (ARG0*)   (99)
+bc/msnbc/00/msnbc_0003   8   3    mean    VB              (VP*))   mean  01   1    Chris_Matthews  *      *       (V*)     -
+bc/msnbc/00/msnbc_0003   8   4      /?     .                 *))     -    -   -    Chris_Matthews  *      *         *      -
+
+bc/msnbc/00/msnbc_0003   8   0       Well     UH   (TOP(S(INTJ*)     -    -   -    Ben_Ginsberg       *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0003   8   1        his   PRP$           (NP*      -    -   -    Ben_Ginsberg       *        (ARG1*    (18)
+bc/msnbc/00/msnbc_0003   8   2       term     NN              *)   term   -   2    Ben_Ginsberg       *             *)     -
+bc/msnbc/00/msnbc_0003   8   3       ends    VBZ           (VP*     end  01   1    Ben_Ginsberg       *           (V*)     -
+bc/msnbc/00/msnbc_0003   8   4         in     IN           (PP*      -    -   -    Ben_Ginsberg       *    (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0003   8   5    January    NNP        (NP(NP*)     -    -   -    Ben_Ginsberg  (DATE*             *      -
+bc/msnbc/00/msnbc_0003   8   6         of     IN           (PP*      -    -   -    Ben_Ginsberg       *             *      -
+bc/msnbc/00/msnbc_0003   8   7         oh     CD           (NP*      -    -   -    Ben_Ginsberg       *             *      -
+bc/msnbc/00/msnbc_0003   8   8      seven     CD          *)))))     -    -   -    Ben_Ginsberg       *)            *)     -
+bc/msnbc/00/msnbc_0003   8   9         /.      .             *))     -    -   -    Ben_Ginsberg       *             *      -
+
+bc/msnbc/00/msnbc_0003   8   0        There    EX   (TOP(S(NP*)   -    -   -    Ben_Ginsberg       *            *       -
+bc/msnbc/00/msnbc_0003   8   1          are   VBP         (VP*    be  02   5    Ben_Ginsberg       *          (V*)      -
+bc/msnbc/00/msnbc_0003   8   2       Senate   NNP         (NP*    -    -   -    Ben_Ginsberg    (ORG)      (ARG1*    (111)
+bc/msnbc/00/msnbc_0003   8   3    elections   NNS            *)   -    -   -    Ben_Ginsberg       *            *)      -
+bc/msnbc/00/msnbc_0003   8   4           in    IN         (PP*    -    -   -    Ben_Ginsberg       *   (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0003   8   5     November   NNP      (NP(NP*)   -    -   -    Ben_Ginsberg  (DATE*            *       -
+bc/msnbc/00/msnbc_0003   8   6           of    IN         (PP*    -    -   -    Ben_Ginsberg       *            *       -
+bc/msnbc/00/msnbc_0003   8   7           oh    CD         (NP*    -    -   -    Ben_Ginsberg       *            *       -
+bc/msnbc/00/msnbc_0003   8   8          six    CD        *)))))   -    -   -    Ben_Ginsberg       *)           *)      -
+bc/msnbc/00/msnbc_0003   8   9           /.     .           *))   -    -   -    Ben_Ginsberg       *            *       -
+
+bc/msnbc/00/msnbc_0003   8    0           So     RB   (TOP(S(ADVP*)        -    -     -    Chris_Matthews  *         *    (ARGM-DIS*)   (ARGM-DIS*)          -
+bc/msnbc/00/msnbc_0003   8    1           if     IN         (SBAR*         -    -     -    Chris_Matthews  *         *    (ARGM-ADV*    (ARGM-ADV*           -
+bc/msnbc/00/msnbc_0003   8    2         your   PRP$         (S(NP*         -    -     -    Chris_Matthews  *    (ARG0*             *             *    (232|(99)
+bc/msnbc/00/msnbc_0003   8    3        party     NN              *)        -    -     -    Chris_Matthews  *         *)            *             *         232)
+bc/msnbc/00/msnbc_0003   8    4        picks    VBZ           (VP*       pick  04   7.2    Chris_Matthews  *       (V*)            *             *           -
+bc/msnbc/00/msnbc_0003   8    5           up     RP          (PRT*)        -    -     -    Chris_Matthews  *         *             *             *           -
+bc/msnbc/00/msnbc_0003   8    6        seats    NNS        (NP*))))      seat   -     1    Chris_Matthews  *    (ARG1*)            *)            *)          -
+bc/msnbc/00/msnbc_0003   8    7           he    PRP           (NP*)        -    -     -    Chris_Matthews  *         *        (ARG1*)       (ARG1*)        (18)
+bc/msnbc/00/msnbc_0003   8    8          'll     MD           (VP*         -    -     -    Chris_Matthews  *         *    (ARGM-MOD*)   (ARGM-MOD*)          -
+bc/msnbc/00/msnbc_0003   8    9          get     VB           (VP*        get  03     3    Chris_Matthews  *         *           (V*)            *         (46)
+bc/msnbc/00/msnbc_0003   8   10    confirmed    VBN         (VP*)))   confirm  01     -    Chris_Matthews  *         *        (ARG2*)          (V*)          -
+bc/msnbc/00/msnbc_0003   8   11           /?      .             *))        -    -     -    Chris_Matthews  *         *             *             *           -
+
+bc/msnbc/00/msnbc_0003   8    0          Yeah    UH   (TOP(FRAG(INTJ*)           -    -     -    Ben_Ginsberg           *             *         *             *       -
+bc/msnbc/00/msnbc_0003   8    1          when   WRB     (SBAR(WHADVP*)           -    -     -    Ben_Ginsberg           *    (ARGM-TMP*)        *             *       -
+bc/msnbc/00/msnbc_0003   8    2            we   PRP            (S(NP*)           -    -     -    Ben_Ginsberg           *        (ARG0*)        *             *    (232)
+bc/msnbc/00/msnbc_0003   8    3          pick   VBP              (VP*          pick  04   7.2    Ben_Ginsberg           *           (V*)        *             *     (94)
+bc/msnbc/00/msnbc_0003   8    4            up    RP             (PRT*)           -    -     -    Ben_Ginsberg           *             *         *             *       -
+bc/msnbc/00/msnbc_0003   8    5           the    DT           (NP(NP*            -    -     -    Ben_Ginsberg           *        (ARG1*    (ARG0*             *       -
+bc/msnbc/00/msnbc_0003   8    6          five    CD                 *            -    -     -    Ben_Ginsberg   (CARDINAL)            *         *             *       -
+bc/msnbc/00/msnbc_0003   8    7         seats   NNS                 *)         seat   -     1    Ben_Ginsberg           *             *         *)            *       -
+bc/msnbc/00/msnbc_0003   8    8            to    TO       (SBAR(S(VP*            -    -     -    Ben_Ginsberg           *             *         *             *       -
+bc/msnbc/00/msnbc_0003   8    9          give    VB              (VP*          give  01     2    Ben_Ginsberg           *             *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   8   10            us   PRP              (NP*)           -    -     -    Ben_Ginsberg           *             *    (ARG2*)            *    (232)
+bc/msnbc/00/msnbc_0003   8   11    filibuster    NN              (NP*    filibuster   -     -    Ben_Ginsberg           *             *    (ARG1*    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0003   8   12         proof    NN         *)))))))))        proof  01     1    Ben_Ginsberg           *             *)        *)          (V*)      -
+bc/msnbc/00/msnbc_0003   8   13            /.     .                *))           -    -     -    Ben_Ginsberg           *             *         *             *       -
+
+bc/msnbc/00/msnbc_0003   8   0      It   PRP   (TOP(S(NP*)   -    -   -    Ben_Ginsberg  *        (ARG1*)   (46)
+bc/msnbc/00/msnbc_0003   8   1    will    MD         (VP*    -    -   -    Ben_Ginsberg  *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0003   8   2      be    VB         (VP*    be  01   1    Ben_Ginsberg  *           (V*)     -
+bc/msnbc/00/msnbc_0003   8   3    easy    JJ     (ADJP*)))   -    -   -    Ben_Ginsberg  *        (ARG2*)     -
+bc/msnbc/00/msnbc_0003   8   4      /.     .           *))   -    -   -    Ben_Ginsberg  *             *      -
+
+bc/msnbc/00/msnbc_0003   8    0            and    CC  (TOP(S*             -    -   -    Ben_Ginsberg         *        *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0003   8    1        without    IN     (PP*             -    -   -    Ben_Ginsberg         *        *    (ARGM-ADV*      -
+bc/msnbc/00/msnbc_0003   8    2           that    DT    (NP*))            -    -   -    Ben_Ginsberg         *        *             *)   (94)
+bc/msnbc/00/msnbc_0003   8    3           John   NNP  (NP(NP*             -    -   -    Ben_Ginsberg  (PERSON*   (ARG0*        (ARG0*    (18
+bc/msnbc/00/msnbc_0003   8    4         Bolton   NNP        *             -    -   -    Ben_Ginsberg         *        *             *      -
+bc/msnbc/00/msnbc_0003   8    5             's   POS        *)            -    -   -    Ben_Ginsberg         *)       *)            *     18)
+bc/msnbc/00/msnbc_0003   8    6    performance    NN        *)   performance  01   4    Ben_Ginsberg         *      (V*)            *)     -
+bc/msnbc/00/msnbc_0003   8    7           will    MD     (VP*             -    -   -    Ben_Ginsberg         *        *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0003   8    8             do    VB     (VP*             do  02   3    Ben_Ginsberg         *        *           (V*)     -
+bc/msnbc/00/msnbc_0003   8    9             it   PRP   (NP*)))            -    -   -    Ben_Ginsberg         *        *        (ARG1*)   (46)
+bc/msnbc/00/msnbc_0003   8   10             /.     .       *))            -    -   -    Ben_Ginsberg         *        *             *      -
+
+bc/msnbc/00/msnbc_0003   8   0        What    WP  (TOP(SBAR(WHNP*          -    -   -    Chris_Matthews  *      *    (ARG1*       -
+bc/msnbc/00/msnbc_0003   8   1           a    DT                *          -    -   -    Chris_Matthews  *      *         *       -
+bc/msnbc/00/msnbc_0003   8   2    standard    NN                *)   standard   -   1    Chris_Matthews  *      *         *)      -
+bc/msnbc/00/msnbc_0003   8   3         you   PRP           (S(NP*)         -    -   -    Chris_Matthews  *      *    (ARG0*)   (232)
+bc/msnbc/00/msnbc_0003   8   4         're   VBP             (VP*          be  03   -    Chris_Matthews  *    (V*)        *       -
+bc/msnbc/00/msnbc_0003   8   5     setting   VBG           (VP*)))        set  02   3    Chris_Matthews  *      *       (V*)      -
+bc/msnbc/00/msnbc_0003   8   6          /.     .               *))         -    -   -    Chris_Matthews  *      *         *       -
+
+bc/msnbc/00/msnbc_0003   8    0            In    IN         (TOP(S(PP*            -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8    1         other    JJ               (NP*            -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8    2         words   NNS                 *))         word   -   1    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8    3            if    IN             (SBAR*            -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8    4          they   PRP             (S(NP*)           -    -   -    Chris_Matthews  *    (ARG0*)     *         *    (232)
+bc/msnbc/00/msnbc_0003   8    5           get   VBP               (VP*           get  01   1    Chris_Matthews  *       (V*)     *         *       -
+bc/msnbc/00/msnbc_0003   8    6             a    DT            (NP(NP*            -    -   -    Chris_Matthews  *    (ARG1*      *         *       -
+bc/msnbc/00/msnbc_0003   8    7          veto    NN                  *)         veto   -   1    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8    8            uh    UH             (INTJ*            -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8    9            uh    UH                  *            -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8   10            uh    UH                  *)           -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8   11          what    WP   (PRN(SBARQ(WHNP*)           -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8   12            do   VBP               (SQ*            do  01   -    Chris_Matthews  *         *    (V*)        *       -
+bc/msnbc/00/msnbc_0003   8   13           you   PRP               (NP*)           -    -   -    Chris_Matthews  *         *      *    (ARG0*)      -
+bc/msnbc/00/msnbc_0003   8   14          call    VB               (VP*          call  01   5    Chris_Matthews  *         *      *       (V*)      -
+bc/msnbc/00/msnbc_0003   8   15            it   PRP           (NP*)))))           -    -   -    Chris_Matthews  *         *      *    (ARG1*)      -
+bc/msnbc/00/msnbc_0003   8   16             a    DT               (NP*            -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8   17    filibuster    NN             (ADJP*    filibuster   -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8   18         proof    JJ                  *)           -    -   -    Chris_Matthews  *         *      *         *       -
+bc/msnbc/00/msnbc_0003   8   19      majority    NN              *)))))     majority   -   2    Chris_Matthews  *         *)     *         *       -
+bc/msnbc/00/msnbc_0003   8   20           /-      .                 *))           -    -   -    Chris_Matthews  *         *      *         *       -
+
+bc/msnbc/00/msnbc_0003   8    0           he   PRP         (TOP(S(NP*)        -    -   -    Ben_Ginsberg  *        (ARG0*)       (ARG1*)       (ARG1*)     *      *         *    (18)
+bc/msnbc/00/msnbc_0003   8    1         will    MD               (VP*         -    -   -    Ben_Ginsberg  *    (ARGM-MOD*)   (ARGM-MOD*)   (ARGM-MOD*)     *      *         *      -
+bc/msnbc/00/msnbc_0003   8    2           go    VB            (VP(VP*         go  02   1    Ben_Ginsberg  *           (V*)            *             *      *      *         *      -
+bc/msnbc/00/msnbc_0003   8    3           up    RB            (ADVP*))        -    -   -    Ben_Ginsberg  *    (ARGM-DIR*)            *             *      *      *         *      -
+bc/msnbc/00/msnbc_0003   8    4          and    CC                  *         -    -   -    Ben_Ginsberg  *             *             *             *      *      *         *      -
+bc/msnbc/00/msnbc_0003   8    5          get    VB               (VP*        get  03   3    Ben_Ginsberg  *             *           (V*)            *      *      *         *      -
+bc/msnbc/00/msnbc_0003   8    6    confirmed   VBN               (VP*    confirm  01   -    Ben_Ginsberg  *             *        (ARG2*           (V*)     *      *         *      -
+bc/msnbc/00/msnbc_0003   8    7      anyways    RB             (ADVP*)        -    -   -    Ben_Ginsberg  *             *             *    (ARGM-ADV*)     *      *         *      -
+bc/msnbc/00/msnbc_0003   8    8      because    IN               (PP*         -    -   -    Ben_Ginsberg  *             *             *    (ARGM-CAU*      *      *         *      -
+bc/msnbc/00/msnbc_0003   8    9           of    IN                  *         -    -   -    Ben_Ginsberg  *             *             *             *      *      *         *      -
+bc/msnbc/00/msnbc_0003   8   10          the    DT            (NP(NP*         -    -   -    Ben_Ginsberg  *             *             *             *      *      *    (ARG1*      -
+bc/msnbc/00/msnbc_0003   8   11          job    NN                  *)       job   -   2    Ben_Ginsberg  *             *             *             *      *      *         *)     -
+bc/msnbc/00/msnbc_0003   8   12           he   PRP        (SBAR(S(NP*)        -    -   -    Ben_Ginsberg  *             *             *             *      *      *    (ARG0*)   (18)
+bc/msnbc/00/msnbc_0003   8   13           's   VBZ               (VP*         be  03   -    Ben_Ginsberg  *             *             *             *    (V*)     *         *      -
+bc/msnbc/00/msnbc_0003   8   14        going   VBG               (VP*         go  04   7    Ben_Ginsberg  *             *             *             *      *    (V*)        *      -
+bc/msnbc/00/msnbc_0003   8   15           to    TO             (S(VP*         -    -   -    Ben_Ginsberg  *             *             *             *      *      *         *      -
+bc/msnbc/00/msnbc_0003   8   16           do    VB   (VP*)))))))))))))        do  02   1    Ben_Ginsberg  *             *             *)            *)     *      *       (V*)     -
+bc/msnbc/00/msnbc_0003   8   17           /.     .                 *))        -    -   -    Ben_Ginsberg  *             *             *             *      *      *         *      -
+
+bc/msnbc/00/msnbc_0003   8    0      somebody    NN     (TOP(S(NP*)        -    -   -    Steve_McMahon         *       (ARG0*)            *         *         *         *             *             *    (157)
+bc/msnbc/00/msnbc_0003   8    1          said   VBD           (VP*        say  01   1    Steve_McMahon         *          (V*)            *         *         *         *             *             *    (224)
+bc/msnbc/00/msnbc_0003   8    2            on    IN           (PP*         -    -   -    Steve_McMahon         *   (ARGM-LOC*             *         *         *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8    3           one    CD        (NP(NP*)        -    -   -    Steve_McMahon         *            *             *         *         *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8    4            of    IN           (PP*         -    -   -    Steve_McMahon         *            *             *         *         *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8    5           the    DT           (NP*         -    -   -    Steve_McMahon         *            *             *         *         *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8    6       weekend    NN              *    weekend   -   -    Steve_McMahon     (DATE)           *    (ARGM-TMP*)        *         *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8    7         shows   NNS           *))))      show  01   2    Steve_McMahon         *            *)          (V*)        *         *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8    8             I   PRP     (PRN(S(NP*)        -    -   -    Steve_McMahon         *   (ARGM-ADV*             *    (ARG0*)        *         *             *             *     (66)
+bc/msnbc/00/msnbc_0003   8    9         think   VBP           (VP*      think  01   1    Steve_McMahon         *            *             *       (V*)        *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8   10          they   PRP    (SBAR(S(NP*)        -    -   -    Steve_McMahon         *            *             *    (ARG1*    (ARG1*)        *             *             *    (157)
+bc/msnbc/00/msnbc_0003   8   11           're   VBP           (VP*         be  01   1    Steve_McMahon         *            *             *         *       (V*)        *             *             *       -
+bc/msnbc/00/msnbc_0003   8   12         right    JJ   (ADJP*)))))))        -    -   -    Steve_McMahon         *            *)            *         *)   (ARG2*)        *             *             *       -
+bc/msnbc/00/msnbc_0003   8   13            if    IN  (SBAR(S(SBAR*         -    -   -    Steve_McMahon         *       (ARG1*             *         *         *         *             *    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0003   8   14            it   PRP         (S(NP*)        -    -   -    Steve_McMahon         *            *             *         *         *    (ARG1*)            *             *    (182)
+bc/msnbc/00/msnbc_0003   8   15          were   VBD           (VP*         be  01   1    Steve_McMahon         *            *             *         *         *       (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   8   16             a    DT           (NP*         -    -   -    Steve_McMahon         *            *             *         *         *    (ARG2*             *             *       -
+bc/msnbc/00/msnbc_0003   8   17        secret    JJ              *         -    -   -    Steve_McMahon         *            *             *         *         *         *    (ARGM-MNR*)            *       -
+bc/msnbc/00/msnbc_0003   8   18          vote    NN           *))))      vote  01   1    Steve_McMahon         *            *             *         *         *         *)          (V*)            *)      -
+bc/msnbc/00/msnbc_0003   8   19          John   NNP           (NP*         -    -   -    Steve_McMahon  (PERSON*            *             *         *         *         *             *        (ARG0*     (18
+bc/msnbc/00/msnbc_0003   8   20        Bolton   NNP              *)        -    -   -    Steve_McMahon         *)           *             *         *         *         *             *             *)     18)
+bc/msnbc/00/msnbc_0003   8   21         would    MD           (VP*         -    -   -    Steve_McMahon         *            *             *         *         *         *             *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   8   22           n't    RB              *         -    -   -    Steve_McMahon         *            *             *         *         *         *             *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   8   23         carry    VB           (VP*      carry  01   4    Steve_McMahon         *            *             *         *         *         *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   8   24           the    DT           (NP*         -    -   -    Steve_McMahon         *            *             *         *         *         *             *        (ARG1*    (226
+bc/msnbc/00/msnbc_0003   8   25    Republican    JJ              *         -    -   -    Steve_McMahon     (NORP)           *             *         *         *         *             *             *       -
+bc/msnbc/00/msnbc_0003   8   26        caucus    NN         *))))))    caucus   -   1    Steve_McMahon         *            *)            *         *         *         *             *             *)    226)
+bc/msnbc/00/msnbc_0003   8   27            /.     .             *))        -    -   -    Steve_McMahon         *            *             *         *         *         *             *             *       -
+
+bc/msnbc/00/msnbc_0003   8   0           and    CC       (TOP(S*       -    -   -    Steve_McMahon  *         *         *       -
+bc/msnbc/00/msnbc_0003   8   1             I   PRP          (NP*)      -    -   -    Steve_McMahon  *    (ARG0*)        *     (66)
+bc/msnbc/00/msnbc_0003   8   2         think   VBP          (VP*    think  01   1    Steve_McMahon  *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   8   3          that    DT   (SBAR(S(NP*)      -    -   -    Steve_McMahon  *    (ARG1*    (ARG1*)   (224)
+bc/msnbc/00/msnbc_0003   8   4            's   VBZ          (VP*       be  01   1    Steve_McMahon  *         *       (V*)      -
+bc/msnbc/00/msnbc_0003   8   5    absolutely    RB        (ADJP*       -    -   -    Steve_McMahon  *         *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   8   6         right    JJ         *)))))      -    -   -    Steve_McMahon  *         *)        *)      -
+bc/msnbc/00/msnbc_0003   8   7            /.     .            *))      -    -   -    Steve_McMahon  *         *         *       -
+
+bc/msnbc/00/msnbc_0003   8    0          And    CC      (TOP(S*          -    -   -    Ben_Ginsberg      *         *            *      *      *    (ARGM-DIS*)        *      *       -
+bc/msnbc/00/msnbc_0003   8    1           if    IN       (SBAR*          -    -   -    Ben_Ginsberg      *         *            *      *      *    (ARGM-ADV*         *      *       -
+bc/msnbc/00/msnbc_0003   8    2           it   PRP       (S(NP*)         -    -   -    Ben_Ginsberg      *    (ARG1*)           *      *      *             *         *      *    (182)
+bc/msnbc/00/msnbc_0003   8    3         were   VBD         (VP*          be  01   1    Ben_Ginsberg      *       (V*)           *      *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8    4           an    DT         (NP*          -    -   -    Ben_Ginsberg      *    (ARG2*            *      *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8    5           up    JJ       (ADJP*          -    -   -    Ben_Ginsberg      *         *   (ARGM-MNR*      *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8    6           or    CC            *          -    -   -    Ben_Ginsberg      *         *            *      *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8    7         down    JJ            *)         -    -   -    Ben_Ginsberg      *         *            *)     *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8    8         vote    NN         *))))       vote  01   1    Ben_Ginsberg      *         *)         (V*)     *      *             *)        *      *       -
+bc/msnbc/00/msnbc_0003   8    9           he   PRP         (NP*)         -    -   -    Ben_Ginsberg      *         *            *      *      *        (ARG1*)        *      *     (18)
+bc/msnbc/00/msnbc_0003   8   10        would    MD         (VP*          -    -   -    Ben_Ginsberg      *         *            *      *      *    (ARGM-MOD*)        *      *       -
+bc/msnbc/00/msnbc_0003   8   11         have    VB         (VP*        have  01   -    Ben_Ginsberg      *         *            *    (V*)     *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8   12         been   VBN         (VP*          be  03   -    Ben_Ginsberg      *         *            *      *    (V*)            *         *      *       -
+bc/msnbc/00/msnbc_0003   8   13    confirmed   VBN         (VP*     confirm  01   3    Ben_Ginsberg      *         *            *      *      *           (V*)        *      *       -
+bc/msnbc/00/msnbc_0003   8   14      because    IN       (SBAR*          -    -   -    Ben_Ginsberg      *         *            *      *      *    (ARGM-CAU*         *      *       -
+bc/msnbc/00/msnbc_0003   8   15           he   PRP       (S(NP*)         -    -   -    Ben_Ginsberg      *         *            *      *      *             *    (ARG0*)     *     (18)
+bc/msnbc/00/msnbc_0003   8   16          had   VBD         (VP*        have  03   2    Ben_Ginsberg      *         *            *      *      *             *       (V*)     *       -
+bc/msnbc/00/msnbc_0003   8   17            a    DT      (NP(NP*          -    -   -    Ben_Ginsberg      *         *            *      *      *             *    (ARG1*      *       -
+bc/msnbc/00/msnbc_0003   8   18     majority    NN            *)   majority   -   2    Ben_Ginsberg      *         *            *      *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8   19           of    IN         (PP*          -    -   -    Ben_Ginsberg      *         *            *      *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8   20      support    NN        (NP*))    support  01   7    Ben_Ginsberg      *         *            *      *      *             *         *    (V*)      -
+bc/msnbc/00/msnbc_0003   8   21           in    IN         (PP*          -    -   -    Ben_Ginsberg      *         *            *      *      *             *         *      *       -
+bc/msnbc/00/msnbc_0003   8   22          the    DT         (NP*          -    -   -    Ben_Ginsberg      *         *            *      *      *             *         *      *    (111
+bc/msnbc/00/msnbc_0003   8   23       Senate   NNP   *))))))))))         -    -   -    Ben_Ginsberg   (ORG)        *            *      *      *             *)        *)     *     111)
+bc/msnbc/00/msnbc_0003   8   24           /.     .           *))         -    -   -    Ben_Ginsberg      *         *            *      *      *             *         *      *       -
+
+bc/msnbc/00/msnbc_0003   8    0            Do   VBP      (TOP(SQ*        do  01   -    Steve_McMahon       *    (V*)        *             *      -
+bc/msnbc/00/msnbc_0003   8    1           you   PRP          (NP*)       -    -   -    Steve_McMahon       *      *    (ARG0*)            *    (99)
+bc/msnbc/00/msnbc_0003   8    2         think    VB          (VP*     think  01   1    Steve_McMahon       *      *       (V*)            *      -
+bc/msnbc/00/msnbc_0003   8    3            he   PRP   (SBAR(S(NP*)       -    -   -    Steve_McMahon       *      *    (ARG1*        (ARG0*)   (18)
+bc/msnbc/00/msnbc_0003   8    4         would    MD          (VP*        -    -   -    Steve_McMahon       *      *         *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0003   8    5         carry    VB          (VP*     carry  01   4    Steve_McMahon       *      *         *           (V*)     -
+bc/msnbc/00/msnbc_0003   8    6           the    DT          (NP*        -    -   -    Steve_McMahon       *      *         *        (ARG1*   (226
+bc/msnbc/00/msnbc_0003   8    7    Republican    JJ             *        -    -   -    Steve_McMahon   (NORP)     *         *             *      -
+bc/msnbc/00/msnbc_0003   8    8        caucus    NN             *    caucus   -   1    Steve_McMahon       *      *         *             *    226)
+bc/msnbc/00/msnbc_0003   8    9          vote    NN        *))))))     vote   -   5    Steve_McMahon       *      *         *)            *)     -
+bc/msnbc/00/msnbc_0003   8   10            /?     .            *))       -    -   -    Steve_McMahon       *      *         *             *      -
+
+bc/msnbc/00/msnbc_0003   8    0          Yes    UH   (TOP(S(INTJ*)         -    -   -    Ben_Ginsberg  *    (ARGM-DIS*)     *      -
+bc/msnbc/00/msnbc_0003   8    1           he   PRP           (NP*)         -    -   -    Ben_Ginsberg  *        (ARG0*)     *    (18)
+bc/msnbc/00/msnbc_0003   8    2          had   VBD           (VP*        have  03   2    Ben_Ginsberg  *           (V*)     *      -
+bc/msnbc/00/msnbc_0003   8    3            a    DT        (NP(NP*          -    -   -    Ben_Ginsberg  *        (ARG1*      *   (136
+bc/msnbc/00/msnbc_0003   8    4     majority    NN              *)   majority   -   2    Ben_Ginsberg  *             *      *      -
+bc/msnbc/00/msnbc_0003   8    5           of    IN           (PP*          -    -   -    Ben_Ginsberg  *             *      *      -
+bc/msnbc/00/msnbc_0003   8    6      support    NN          (NP*))    support  01   7    Ben_Ginsberg  *             *    (V*)     -
+bc/msnbc/00/msnbc_0003   8    7           on    IN           (PP*          -    -   -    Ben_Ginsberg  *             *      *      -
+bc/msnbc/00/msnbc_0003   8    8          the    DT           (NP*          -    -   -    Ben_Ginsberg  *             *      *      -
+bc/msnbc/00/msnbc_0003   8    9      cloture    NN              *     cloture   -   -    Ben_Ginsberg  *             *      *      -
+bc/msnbc/00/msnbc_0003   8   10    petitions   NNS           *))))   petition   -   3    Ben_Ginsberg  *             *)     *    136)
+bc/msnbc/00/msnbc_0003   8   11           /.     .             *))         -    -   -    Ben_Ginsberg  *             *      *      -
+
+bc/msnbc/00/msnbc_0003   8   0        it   PRP   (TOP(S(NP*)    -    -   -    Ben_Ginsberg           *    (ARG1*)        *    (136)
+bc/msnbc/00/msnbc_0003   8   1       was   VBD         (VP*     be  01   1    Ben_Ginsberg           *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   8   2       n't    RB            *     -    -   -    Ben_Ginsberg           *         *         *       -
+bc/msnbc/00/msnbc_0003   8   3    enough    JJ       (ADJP*     -    -   -    Ben_Ginsberg           *    (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   8   4        to    TO       (S(VP*     -    -   -    Ben_Ginsberg           *         *         *       -
+bc/msnbc/00/msnbc_0003   8   5       get    VB         (VP*    get  01   1    Ben_Ginsberg           *         *       (V*)      -
+bc/msnbc/00/msnbc_0003   8   6     sixty    CD    (NP*))))))    -    -   -    Ben_Ginsberg   (CARDINAL)        *)   (ARG1*)      -
+bc/msnbc/00/msnbc_0003   8   7        /.     .           *))    -    -   -    Ben_Ginsberg           *         *         *       -

@@ -1,0 +1,107 @@
+bc/cnn/00/cnn_0006   0    0       Homeland    NN  (TOP(NP(NP(NML(NML*          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0    1       security    NN                    *)   security  -   3    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0    2      inspector    NN                    *)         -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0    3        General   NNP                    *          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0    4          Clark   NNP                    *          -   -   -    Wolf_Blitzer  (PERSON*   -
+bc/cnn/00/cnn_0006   0    5           Kent   NNP                    *          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0    6          Irven   NNP                    *)         -   -   -    Wolf_Blitzer         *)  -
+bc/cnn/00/cnn_0006   0    7            and    CC                    *          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0    8         former    JJ         (NP(NML(NML*          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0    9         active    JJ                    *          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0   10       director    NN                    *)   director  -   1    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0   11             of    IN                 (PP*          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0   12            the    DT                 (NP*          -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0   13            CIA   NNP                  *)))         -   -   -    Wolf_Blitzer      (ORG)  -
+bc/cnn/00/cnn_0006   0   14           John   NNP                    *          -   -   -    Wolf_Blitzer  (PERSON*   -
+bc/cnn/00/cnn_0006   0   15    McGlaughlin   NNP                    *)         -   -   -    Wolf_Blitzer         *)  -
+bc/cnn/00/cnn_0006   0   16             /.     .                   *))         -   -   -    Wolf_Blitzer         *   -
+
+bc/cnn/00/cnn_0006   0   0          And    CC  (TOP(SQ*         -    -   -    Wolf_Blitzer          *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0006   0   1           is   VBZ         *         be  01   1    Wolf_Blitzer          *           (V*)  -
+bc/cnn/00/cnn_0006   0   2          the    DT      (NP*         -    -   -    Wolf_Blitzer          *        (ARG1*   -
+bc/cnn/00/cnn_0006   0   3    Discovery   NNP     (NML*         -    -   -    Wolf_Blitzer  (PRODUCT*             *   -
+bc/cnn/00/cnn_0006   0   4      Shuttle   NNP         *)        -    -   -    Wolf_Blitzer          *)            *   -
+bc/cnn/00/cnn_0006   0   5         crew    NN         *)      crow   -   -    Wolf_Blitzer          *             *)  -
+bc/cnn/00/cnn_0006   0   6           in    IN      (PP*         -    -   -    Wolf_Blitzer          *        (ARG2*   -
+bc/cnn/00/cnn_0006   0   7      trouble    NN     (NP*))   trouble   -   4    Wolf_Blitzer          *             *)  -
+bc/cnn/00/cnn_0006   0   8           /?     .        *))        -    -   -    Wolf_Blitzer          *             *   -
+
+bc/cnn/00/cnn_0006   0   0    Perspective    NN   (TOP(NP(NP*)   perspective  -   1    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0   1           from    IN          (PP*             -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0   2           NASA   NNP       (NP(NP*             -   -   -    Wolf_Blitzer      (ORG)  -
+bc/cnn/00/cnn_0006   0   3             's   POS             *)            -   -   -    Wolf_Blitzer         *   -
+bc/cnn/00/cnn_0006   0   4          Wayne   NNP             *             -   -   -    Wolf_Blitzer  (PERSON*   -
+bc/cnn/00/cnn_0006   0   5           Hail   NNP            *))            -   -   -    Wolf_Blitzer         *)  -
+bc/cnn/00/cnn_0006   0   6             /.     .            *))            -   -   -    Wolf_Blitzer         *   -
+
+bc/cnn/00/cnn_0006   0    0          Live    RB  (TOP(S(ADVP*    -    -   -    Frederika_Whitfield              *   (ARGM-MNR*      -
+bc/cnn/00/cnn_0006   0    1          from    IN          (PP*    -    -   -    Frederika_Whitfield              *            *      -
+bc/cnn/00/cnn_0006   0    2           CNN   NNP       (NP(NP*)   -    -   -    Frederika_Whitfield           (ORG)           *      -
+bc/cnn/00/cnn_0006   0    3            in    IN          (PP*    -    -   -    Frederika_Whitfield              *            *      -
+bc/cnn/00/cnn_0006   0    4    Washington   NNP      (NP*)))))   -    -   -    Frederika_Whitfield           (GPE)           *)   (19)
+bc/cnn/00/cnn_0006   0    5          this    DT          (NP*)   -    -   -    Frederika_Whitfield              *       (ARG1*)   (83)
+bc/cnn/00/cnn_0006   0    6            is   VBZ          (VP*    be  01   2    Frederika_Whitfield              *          (V*)     -
+bc/cnn/00/cnn_0006   0    7          Late   NNP       (NP(NP*    -    -   -    Frederika_Whitfield  (WORK_OF_ART*       (ARG2*      -
+bc/cnn/00/cnn_0006   0    8       Edition   NNP             *)   -    -   -    Frederika_Whitfield              *            *      -
+bc/cnn/00/cnn_0006   0    9          with    IN          (PP*    -    -   -    Frederika_Whitfield              *            *      -
+bc/cnn/00/cnn_0006   0   10          Wolf   NNP          (NP*    -    -   -    Frederika_Whitfield              *            *      -
+bc/cnn/00/cnn_0006   0   11       Blitzer   NNP          *))))   -    -   -    Frederika_Whitfield              *)           *)     -
+bc/cnn/00/cnn_0006   0   12            /.     .            *))   -    -   -    Frederika_Whitfield              *            *      -
+
+bc/cnn/00/cnn_0006   0   0          Good    JJ  (TOP(FRAG(INTJ*      -   -   -    Wolf_Blitzer       *      -
+bc/cnn/00/cnn_0006   0   1       evening    NN                *)   even  -   -    Wolf_Blitzer   (TIME)     -
+bc/cnn/00/cnn_0006   0   2    Washington   NNP             (NP*)     -   -   -    Wolf_Blitzer    (GPE)   (19)
+bc/cnn/00/cnn_0006   0   3            /.     .               *))     -   -   -    Wolf_Blitzer       *      -
+
+bc/cnn/00/cnn_0006   0    0       nine    CD  (TOP(NP(NP(NP*    -   -   -    Wolf_Blitzer  (TIME*   -
+bc/cnn/00/cnn_0006   0    1         AM    NN               *)   be  -   -    Wolf_Blitzer       *)  -
+bc/cnn/00/cnn_0006   0    2         in    IN            (PP*    -   -   -    Wolf_Blitzer       *   -
+bc/cnn/00/cnn_0006   0    3        Los   NNP            (NP*    -   -   -    Wolf_Blitzer   (GPE*   -
+bc/cnn/00/cnn_0006   0    4    Angeles   NNP             *)))   -   -   -    Wolf_Blitzer       *)  -
+bc/cnn/00/cnn_0006   0    5       five    CD         (NP(NP*    -   -   -    Wolf_Blitzer  (TIME*   -
+bc/cnn/00/cnn_0006   0    6         PM    NN               *)   -   -   -    Wolf_Blitzer       *)  -
+bc/cnn/00/cnn_0006   0    7         in    IN            (PP*    -   -   -    Wolf_Blitzer       *   -
+bc/cnn/00/cnn_0006   0    8     London   NNP          (NP*)))   -   -   -    Wolf_Blitzer    (GPE)  -
+bc/cnn/00/cnn_0006   0    9        and    CC               *    -   -   -    Wolf_Blitzer       *   -
+bc/cnn/00/cnn_0006   0   10      eight    CD         (NP(NP*    -   -   -    Wolf_Blitzer  (TIME*   -
+bc/cnn/00/cnn_0006   0   11         PM    NN               *)   -   -   -    Wolf_Blitzer       *)  -
+bc/cnn/00/cnn_0006   0   12         in    IN            (PP*    -   -   -    Wolf_Blitzer       *   -
+bc/cnn/00/cnn_0006   0   13    Baghdad   NNP          (NP*)))   -   -   -    Wolf_Blitzer    (GPE)  -
+bc/cnn/00/cnn_0006   0   14         /.     .              *))   -   -   -    Wolf_Blitzer       *   -
+
+bc/cnn/00/cnn_0006   0    0    Wherever   WRB   (TOP(FRAG(SBAR(WHADVP*)       -    -   -    Wolf_Blitzer              *      *             *   (ARGM-LOC*         *       -
+bc/cnn/00/cnn_0006   0    1         you   PRP                   (S(NP*)       -    -   -    Wolf_Blitzer              *      *        (ARG0*)           *         *       -
+bc/cnn/00/cnn_0006   0    2         're   VBP                     (VP*        be  03   -    Wolf_Blitzer              *    (V*)            *            *         *       -
+bc/cnn/00/cnn_0006   0    3    watching   VBG                     (VP*     watch  01   1    Wolf_Blitzer              *      *           (V*)           *         *       -
+bc/cnn/00/cnn_0006   0    4        from    IN                     (PP*)       -    -   -    Wolf_Blitzer              *      *    (ARGM-DIR*)           *         *       -
+bc/cnn/00/cnn_0006   0    5      around    IN                     (PP*        -    -   -    Wolf_Blitzer              *      *    (ARGM-LOC*            *         *       -
+bc/cnn/00/cnn_0006   0    6         the    DT                     (NP*        -    -   -    Wolf_Blitzer              *      *             *            *         *       -
+bc/cnn/00/cnn_0006   0    7       world    NN                   *))))))       -    -   -    Wolf_Blitzer              *      *             *)           *)        *       -
+bc/cnn/00/cnn_0006   0    8      thanks   NNS                 (NP(NP*))   thanks  01   1    Wolf_Blitzer              *      *             *          (V*)        *       -
+bc/cnn/00/cnn_0006   0    9        very    RB                   (ADVP*        -    -   -    Wolf_Blitzer              *      *             *   (ARGM-EXT*         *       -
+bc/cnn/00/cnn_0006   0   10        much    RB                        *)       -    -   -    Wolf_Blitzer              *      *             *            *)        *       -
+bc/cnn/00/cnn_0006   0   11         for    IN                     (PP*        -    -   -    Wolf_Blitzer              *      *             *       (ARG2*         *       -
+bc/cnn/00/cnn_0006   0   12     joining   VBG                   (S(VP*      join  04   4    Wolf_Blitzer              *      *             *            *       (V*)      -
+bc/cnn/00/cnn_0006   0   13          us   PRP                     (NP*)       -    -   -    Wolf_Blitzer              *      *             *            *    (ARG1*)   (189)
+bc/cnn/00/cnn_0006   0   14         for    IN                     (PP*        -    -   -    Wolf_Blitzer              *      *             *            *    (ARG2*       -
+bc/cnn/00/cnn_0006   0   15        Late   NNP                     (NP*        -    -   -    Wolf_Blitzer  (WORK_OF_ART*      *             *            *         *     (83
+bc/cnn/00/cnn_0006   0   16     Edition   NNP                    *)))))       -    -   -    Wolf_Blitzer              *)     *             *            *)        *)     83)
+bc/cnn/00/cnn_0006   0   17          /.     .                       *))       -    -   -    Wolf_Blitzer              *      *             *            *         *       -
+
+bc/cnn/00/cnn_0006   0    0           We    PRP   (TOP(S(NP*)          -    -      -    Wolf_Blitzer       *        (ARG1*)        *    (189)
+bc/cnn/00/cnn_0006   0    1          'll     MD         (VP*           -    -      -    Wolf_Blitzer       *    (ARGM-MOD*)        *       -
+bc/cnn/00/cnn_0006   0    2          get     VB         (VP*          get  05   11.6    Wolf_Blitzer       *           (V*)        *       -
+bc/cnn/00/cnn_0006   0    3           to     IN         (PP*           -    -      -    Wolf_Blitzer       *        (ARG2*         *       -
+bc/cnn/00/cnn_0006   0    4          our   PRP$      (NP(NP*           -    -      -    Wolf_Blitzer       *             *    (ARG0*)   (189)
+bc/cnn/00/cnn_0006   0    5    interview     NN            *)   interview  01      1    Wolf_Blitzer       *             *       (V*)      -
+bc/cnn/00/cnn_0006   0    6         with     IN         (PP*           -    -      -    Wolf_Blitzer       *             *    (ARG1*       -
+bc/cnn/00/cnn_0006   0    7         Iraq    NNP      (NP(NP*           -    -      -    Wolf_Blitzer    (GPE)            *         *       -
+bc/cnn/00/cnn_0006   0    8           's    POS            *)          -    -      -    Wolf_Blitzer       *             *         *       -
+bc/cnn/00/cnn_0006   0    9     national     JJ            *           -    -      -    Wolf_Blitzer       *             *         *       -
+bc/cnn/00/cnn_0006   0   10     security     NN            *     security   -      3    Wolf_Blitzer       *             *         *       -
+bc/cnn/00/cnn_0006   0   11      adviser     NN         *))))          -    -      -    Wolf_Blitzer       *             *)        *)      -
+bc/cnn/00/cnn_0006   0   12           in     IN         (PP*           -    -      -    Wolf_Blitzer       *    (ARGM-TMP*         *       -
+bc/cnn/00/cnn_0006   0   13         just     RB         (NP*           -    -      -    Wolf_Blitzer  (TIME*             *         *       -
+bc/cnn/00/cnn_0006   0   14            a     DT            *           -    -      -    Wolf_Blitzer       *             *         *       -
+bc/cnn/00/cnn_0006   0   15       moment     NN         *))))      moment   -      1    Wolf_Blitzer       *)            *)        *       -
+bc/cnn/00/cnn_0006   0   16           /.      .           *))          -    -      -    Wolf_Blitzer       *             *         *       -

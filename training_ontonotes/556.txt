@@ -1,0 +1,537 @@
+bc/cnn/00/cnn_0002   15    0            Uh    UH        (TOP(S(INTJ*)           -    -    -    Anderson_Cooper        *      *         *        *      *            *    (ARGM-DIS*)            *      *       -
+bc/cnn/00/cnn_0002   15    1            if    IN              (SBAR*            -    -    -    Anderson_Cooper        *      *         *        *      *            *    (ARGM-ADV*             *      *       -
+bc/cnn/00/cnn_0002   15    2            we   PRP              (S(NP*)           -    -    -    Anderson_Cooper        *      *    (ARG0*)       *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15    3           had   VBD                (VP*          have  02   12    Anderson_Cooper        *    (V*)        *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15    4            to    TO              (S(VP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15    5          pick    VB                (VP*          pick  01    1    Anderson_Cooper        *      *       (V*)       *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15    6             a    DT             (NP(NP*            -    -    -    Anderson_Cooper        *      *    (ARG1*        *      *            *             *             *      *    (134
+bc/cnn/00/cnn_0002   15    7        single    JJ                   *            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15    8         thing    NN                   *)        thing   -    1    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15    9            to    TO         (SBAR(S(VP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   10    underscore    VB                (VP*    underscore  01    1    Anderson_Cooper        *      *         *      (V*)     *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   11           how   WRB       (SBAR(WHADVP*            -    -    -    Anderson_Cooper        *      *         *   (ARG1*      *   (ARGM-MNR*             *             *      *       -
+bc/cnn/00/cnn_0002   15   12    completely    RB                   *)           -    -    -    Anderson_Cooper        *      *         *        *      *            *)            *             *      *       -
+bc/cnn/00/cnn_0002   15   13          life    NN              (S(NP*)         life   -    2    Anderson_Cooper        *      *         *        *      *       (ARG1*)            *             *      *       -
+bc/cnn/00/cnn_0002   15   14           has   VBZ                (VP*          have  01    -    Anderson_Cooper        *      *         *        *    (V*)           *             *             *      *       -
+bc/cnn/00/cnn_0002   15   15       changed   VBN                (VP*        change  01    1    Anderson_Cooper        *      *         *        *      *          (V*)            *             *      *       -
+bc/cnn/00/cnn_0002   15   16            in    IN                (PP*            -    -    -    Anderson_Cooper        *      *         *        *      *   (ARGM-LOC*             *             *      *       -
+bc/cnn/00/cnn_0002   15   17          this    DT                (NP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   18       country    NN                  *))      country   -    3    Anderson_Cooper        *      *         *        *      *            *)            *             *      *       -
+bc/cnn/00/cnn_0002   15   19         since    IN                (PP*            -    -    -    Anderson_Cooper        *      *         *        *      *   (ARGM-TMP*             *             *      *       -
+bc/cnn/00/cnn_0002   15   20          nine    CD                (NP*            -    -    -    Anderson_Cooper  (EVENT*      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   21        eleven   NNS   *)))))))))))))))))           -    -    -    Anderson_Cooper        *)     *         *)       *)     *            *)            *)            *      *     134)
+bc/cnn/00/cnn_0002   15   22            it   PRP                (NP*)           -    -    -    Anderson_Cooper        *      *         *        *      *            *        (ARG1*)            *      *    (134)
+bc/cnn/00/cnn_0002   15   23         might    MD                (VP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *    (ARGM-MOD*)            *      *       -
+bc/cnn/00/cnn_0002   15   24            be    VB                (VP*            be  01    1    Anderson_Cooper        *      *         *        *      *            *           (V*)            *      *       -
+bc/cnn/00/cnn_0002   15   25           the    DT                (NP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *        (ARG2*             *      *       -
+bc/cnn/00/cnn_0002   15   26          fact    NN                   *          fact   -    2    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   27          that    IN              (SBAR*            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   28         there    EX              (S(NP*)           -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   29           are   VBP                (VP*            be  02    3    Anderson_Cooper        *      *         *        *      *            *             *           (V*)     *       -
+bc/cnn/00/cnn_0002   15   30           now    RB              (ADVP*)           -    -    -    Anderson_Cooper        *      *         *        *      *            *             *    (ARGM-TMP*)     *       -
+bc/cnn/00/cnn_0002   15   31     arguments   NNS          (NP(NP(NP*)     argument   -    1    Anderson_Cooper        *      *         *        *      *            *             *        (ARG1*      *       -
+bc/cnn/00/cnn_0002   15   32       serious    JJ                (NP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   33          ones   NNS                  *))          one   -    2    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   34           not    RB          (PP(CONJP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   35          only    RB                   *)           -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   36       against    IN                   *            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   37           but    CC             (CONJP*            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   38          also    RB                   *)           -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   39           for    IN                   *            -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+bc/cnn/00/cnn_0002   15   40       torture    NN        (NP*)))))))))      torture  01    2    Anderson_Cooper        *      *         *        *      *            *             *)            *)   (V*)   (192)
+bc/cnn/00/cnn_0002   15   41            /.     .                  *))           -    -    -    Anderson_Cooper        *      *         *        *      *            *             *             *      *       -
+
+bc/cnn/00/cnn_0002   15   0      Never    RB   (TOP(S(ADVP*)        -    -   -    Anderson_Cooper  *    (ARGM-NEG*)       *      -
+bc/cnn/00/cnn_0002   15   1        was   VBD           (VP*         be  01   3    Anderson_Cooper  *           (V*)       *      -
+bc/cnn/00/cnn_0002   15   2          a    DT        (NP(NP*         -    -   -    Anderson_Cooper  *        (ARG2*        *      -
+bc/cnn/00/cnn_0002   15   3     debate    NN              *)    debate  01   1    Anderson_Cooper  *             *      (V*)     -
+bc/cnn/00/cnn_0002   15   4      about    IN           (PP*         -    -   -    Anderson_Cooper  *             *   (ARG1*      -
+bc/cnn/00/cnn_0002   15   5       this    DT           (NP*         -    -   -    Anderson_Cooper  *             *        *   (192
+bc/cnn/00/cnn_0002   15   6    subject    NN            *)))   subject   -   1    Anderson_Cooper  *             *)       *)   192)
+bc/cnn/00/cnn_0002   15   7     before    RB        (ADVP*))        -    -   -    Anderson_Cooper  *    (ARGM-TMP*)       *      -
+bc/cnn/00/cnn_0002   15   8         /.     .             *))        -    -   -    Anderson_Cooper  *             *        *      -
+
+bc/cnn/00/cnn_0002   15   0          now    RB   (TOP(S(ADVP*)   -    -   -    Anderson_Cooper  *    (ARGM-TMP*)  -
+bc/cnn/00/cnn_0002   15   1        there    EX           (NP*)   -    -   -    Anderson_Cooper  *             *   -
+bc/cnn/00/cnn_0002   15   2    certainly    RB         (ADVP*)   -    -   -    Anderson_Cooper  *    (ARGM-ADV*)  -
+bc/cnn/00/cnn_0002   15   3           is   VBZ           (VP*)   be  02   3    Anderson_Cooper  *           (V*)  -
+bc/cnn/00/cnn_0002   15   4           /.     .             *))   -    -   -    Anderson_Cooper  *             *   -
+
+bc/cnn/00/cnn_0002   15   0              CNN   NNP  (TOP(S(NP(NP*             -    -   -    Anderson_Cooper      (ORG)     *      *   (ARG0*   (65|(166
+bc/cnn/00/cnn_0002   15   1               's   POS              *)            -    -   -    Anderson_Cooper         *      *      *        *        166)
+bc/cnn/00/cnn_0002   15   2              Tom   NNP              *             -    -   -    Anderson_Cooper  (PERSON*      *      *        *          -
+bc/cnn/00/cnn_0002   15   3           Forman   NNP              *)            -    -   -    Anderson_Cooper         *)     *      *        *)        65)
+bc/cnn/00/cnn_0002   15   4              has   VBZ           (VP*           have  01   -    Anderson_Cooper         *    (V*)     *        *          -
+bc/cnn/00/cnn_0002   15   5             been   VBN           (VP*             be  03   -    Anderson_Cooper         *      *    (V*)       *          -
+bc/cnn/00/cnn_0002   15   6    investigating   VBG         (VP*)))   investigate  01   1    Anderson_Cooper         *      *      *      (V*)         -
+bc/cnn/00/cnn_0002   15   7               /.     .             *))            -    -   -    Anderson_Cooper         *      *      *        *          -
+
+bc/cnn/00/cnn_0002   15    0             If    IN  (TOP(SQ(SBAR*             -    -   -    Tom_Forman  *             *             *             *            *    (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   15    1            you   PRP         (S(NP*)            -    -   -    Tom_Forman  *        (ARG0*)       (ARG0*)       (ARG0*)           *             *       -
+bc/cnn/00/cnn_0002   15    2          could    MD           (VP*             -    -   -    Tom_Forman  *    (ARGM-MOD*)   (ARGM-MOD*)   (ARGM-MOD*)           *             *       -
+bc/cnn/00/cnn_0002   15    3           save    VB        (VP(VP*           save  02   1    Tom_Forman  *           (V*)            *             *            *             *       -
+bc/cnn/00/cnn_0002   15    4            the    DT        (NP(NP*             -    -   -    Tom_Forman  *        (ARG1*             *             *            *             *       -
+bc/cnn/00/cnn_0002   15    5           life    NN              *)          life   -   3    Tom_Forman  *             *             *             *            *             *       -
+bc/cnn/00/cnn_0002   15    6             of    IN           (PP*             -    -   -    Tom_Forman  *             *             *             *            *             *       -
+bc/cnn/00/cnn_0002   15    7              a    DT           (NP*             -    -   -    Tom_Forman  *             *             *             *            *             *       -
+bc/cnn/00/cnn_0002   15    8        soldier    NN           *))))       soldier   -   -    Tom_Forman  *             *)            *             *            *             *       -
+bc/cnn/00/cnn_0002   15    9         rescue    VB           (VP*         rescue  01   1    Tom_Forman  *             *           (V*)            *            *             *       -
+bc/cnn/00/cnn_0002   15   10            the    DT           (NP*             -    -   -    Tom_Forman  *             *        (ARG1*             *            *             *       -
+bc/cnn/00/cnn_0002   15   11        hostage    NN              *             -    -   -    Tom_Forman  *             *             *             *            *             *       -
+bc/cnn/00/cnn_0002   15   12       children   NNS             *))         child   -   1    Tom_Forman  *             *             *)            *            *             *       -
+bc/cnn/00/cnn_0002   15   13           stop    VB           (VP*           stop  01   2    Tom_Forman  *             *             *           (V*)           *             *       -
+bc/cnn/00/cnn_0002   15   14            the    DT           (NP*             -    -   -    Tom_Forman  *             *             *        (ARG1*            *             *       -
+bc/cnn/00/cnn_0002   15   15           next    JJ              *             -    -   -    Tom_Forman  *             *             *             *            *             *       -
+bc/cnn/00/cnn_0002   15   16      terrorist    NN              *             -    -   -    Tom_Forman  *             *             *             *            *             *       -
+bc/cnn/00/cnn_0002   15   17           bomb    NN             *))          bomb   -   -    Tom_Forman  *             *             *             *)           *             *       -
+bc/cnn/00/cnn_0002   15   18             by    IN           (PP*             -    -   -    Tom_Forman  *    (ARGM-MNR*    (ARGM-MNR*    (ARGM-MNR*            *             *       -
+bc/cnn/00/cnn_0002   15   19      torturing   VBG         (S(VP*        torture  01   -    Tom_Forman  *             *             *             *          (V*)            *    (109)
+bc/cnn/00/cnn_0002   15   20              a    DT           (NP*             -    -   -    Tom_Forman  *             *             *             *       (ARG1*             *       -
+bc/cnn/00/cnn_0002   15   21       prisoner    NN              *)            -    -   -    Tom_Forman  *             *             *             *            *)            *       -
+bc/cnn/00/cnn_0002   15   22            for    IN           (PP*             -    -   -    Tom_Forman  *             *             *             *   (ARGM-PRP*             *       -
+bc/cnn/00/cnn_0002   15   23    information    NN   (NP*)))))))))   information   -   1    Tom_Forman  *             *)            *)            *)           *)            *)      -
+bc/cnn/00/cnn_0002   15   24          would    MD              *             -    -   -    Tom_Forman  *             *             *             *            *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   15   25            you   PRP           (NP*)            -    -   -    Tom_Forman  *             *             *             *            *        (ARG0*)      -
+bc/cnn/00/cnn_0002   15   26             do    VB           (VP*             do  02   1    Tom_Forman  *             *             *             *            *           (V*)      -
+bc/cnn/00/cnn_0002   15   27             it   PRP          (NP*))            -    -   -    Tom_Forman  *             *             *             *            *        (ARG1*)   (109)
+bc/cnn/00/cnn_0002   15   28             /?     .             *))            -    -   -    Tom_Forman  *             *             *             *            *             *       -
+
+bc/cnn/00/cnn_0002   15    0            I   PRP   (TOP(S(NP*)      -    -   -    Spider_Marks       *        (ARG0*)   (101)
+bc/cnn/00/cnn_0002   15    1           'd    MD         (VP*       -    -   -    Spider_Marks       *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   15    2        stick   VBP         (VP*    stick  01   2    Spider_Marks       *           (V*)      -
+bc/cnn/00/cnn_0002   15    3            a    DT         (NP*       -    -   -    Spider_Marks       *        (ARG1*       -
+bc/cnn/00/cnn_0002   15    4        knife    NN            *)   knife   -   -    Spider_Marks       *             *)      -
+bc/cnn/00/cnn_0002   15    5           in    IN         (PP*       -    -   -    Spider_Marks       *        (ARG2*       -
+bc/cnn/00/cnn_0002   15    6     somebody    NN      (NP(NP*       -    -   -    Spider_Marks       *             *       -
+bc/cnn/00/cnn_0002   15    7           's   POS            *)      -    -   -    Spider_Marks       *             *       -
+bc/cnn/00/cnn_0002   15    8        thigh    NN           *))      -    -   -    Spider_Marks       *             *)      -
+bc/cnn/00/cnn_0002   15    9           in    IN         (PP*       -    -   -    Spider_Marks       *    (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   15   10            a    DT         (NP*       -    -   -    Spider_Marks  (TIME*             *       -
+bc/cnn/00/cnn_0002   15   11    heartbeat    NN         *))))      -    -   -    Spider_Marks       *)            *)      -
+bc/cnn/00/cnn_0002   15   12           /.     .           *))      -    -   -    Spider_Marks       *             *       -
+
+bc/cnn/00/cnn_0002   15    0          Retired    JJ  (TOP(S(NP(NP(NML*           -    -   -    Tom_Forman         *   (ARG0*   (ARG0*    (101
+bc/cnn/00/cnn_0002   15    1          general    NN                  *)     general   -   1    Tom_Forman         *        *        *       -
+bc/cnn/00/cnn_0002   15    2           Spider    NN                  *           -    -   -    Tom_Forman  (PERSON*        *        *       -
+bc/cnn/00/cnn_0002   15    3            Marks   NNP                  *)          -    -   -    Tom_Forman         *)       *        *       -
+bc/cnn/00/cnn_0002   15    4                a    DT               (NP*           -    -   -    Tom_Forman         *        *        *       -
+bc/cnn/00/cnn_0002   15    5              CNN   NNP                  *           -    -   -    Tom_Forman      (ORG)       *        *    (166)
+bc/cnn/00/cnn_0002   15    6       consultant    NN                 *))          -    -   -    Tom_Forman         *        *)       *)    101)
+bc/cnn/00/cnn_0002   15    7           worked   VBD               (VP*         work  01   1    Tom_Forman         *      (V*)       *       -
+bc/cnn/00/cnn_0002   15    8              for    IN               (PP*           -    -   -    Tom_Forman         *   (ARG2*        *       -
+bc/cnn/00/cnn_0002   15    9               US   NNP               (NP*           -    -   -    Tom_Forman      (GPE)       *        *       -
+bc/cnn/00/cnn_0002   15   10             army    NN                  *           -    -   -    Tom_Forman         *        *        *       -
+bc/cnn/00/cnn_0002   15   11     intelligence    NN                 *))          -    -   -    Tom_Forman         *        *)       *       -
+bc/cnn/00/cnn_0002   15   12         teaching   VBG             (S(VP*        teach  01   1    Tom_Forman         *   (ARG1*      (V*)      -
+bc/cnn/00/cnn_0002   15   13    interrogation    NN               (NP*           -    -   -    Tom_Forman         *        *   (ARG1*       -
+bc/cnn/00/cnn_0002   15   14       techniques   NNS               *))))   technique   -   3    Tom_Forman         *        *)       *)      -
+bc/cnn/00/cnn_0002   15   15               /.     .                 *))          -    -   -    Tom_Forman         *        *        *       -
+
+bc/cnn/00/cnn_0002   15    0         The    DT  (TOP(S(NP(NP(NP*       -    -   -    Spider_Marks  *      *    (ARG1*   (ARG0*    (214
+bc/cnn/00/cnn_0002   15    1        kind    NN                 *)      -    -   -    Spider_Marks  *      *         *        *       -
+bc/cnn/00/cnn_0002   15    2          of    IN              (PP*       -    -   -    Spider_Marks  *      *         *        *       -
+bc/cnn/00/cnn_0002   15    3     enemies   NNS            (NP*)))   enemy   -   1    Spider_Marks  *      *         *)       *       -
+bc/cnn/00/cnn_0002   15    4          we   PRP       (SBAR(S(NP*)      -    -   -    Spider_Marks  *      *    (ARG0*)       *    (158)
+bc/cnn/00/cnn_0002   15    5         're   VBP              (VP*       be  03   -    Spider_Marks  *    (V*)        *        *       -
+bc/cnn/00/cnn_0002   15    6    fighting   VBG          (VP*)))))   fight  01   1    Spider_Marks  *      *       (V*)       *)    214)
+bc/cnn/00/cnn_0002   15    7        have   VBP              (VP*     have  03   2    Spider_Marks  *      *         *      (V*)      -
+bc/cnn/00/cnn_0002   15    8          no    DT           (NP(NP*       -    -   -    Spider_Marks  *      *         *   (ARG1*       -
+bc/cnn/00/cnn_0002   15    9       sense    NN                 *)   sense   -   1    Spider_Marks  *      *         *        *       -
+bc/cnn/00/cnn_0002   15   10          of    IN              (PP*       -    -   -    Spider_Marks  *      *         *        *       -
+bc/cnn/00/cnn_0002   15   11       right    NN              (NP*    right   -   5    Spider_Marks  *      *         *        *       -
+bc/cnn/00/cnn_0002   15   12          or    CC                 *       -    -   -    Spider_Marks  *      *         *        *       -
+bc/cnn/00/cnn_0002   15   13       wrong    NN              *))))   wrong   -   -    Spider_Marks  *      *         *        *)      -
+bc/cnn/00/cnn_0002   15   14          /.     .                *))      -    -   -    Spider_Marks  *      *         *        *       -
+
+bc/cnn/00/cnn_0002   15    0       They    PRP   (TOP(S(NP*)        -    -   -    Spider_Marks  *        (ARG0*)   (ARG0*)   (214)
+bc/cnn/00/cnn_0002   15    1       will     MD         (VP*         -    -   -    Spider_Marks  *    (ARGM-MOD*)        *       -
+bc/cnn/00/cnn_0002   15    2         go     VB         (VP*         go  02   1    Spider_Marks  *           (V*)        *      (7)
+bc/cnn/00/cnn_0002   15    3         to     IN         (PP*         -    -   -    Spider_Marks  *    (ARGM-EXT*         *       -
+bc/cnn/00/cnn_0002   15    4        any     DT         (NP*         -    -   -    Spider_Marks  *             *         *       -
+bc/cnn/00/cnn_0002   15    5     depths    NNS           *))        -    -   -    Spider_Marks  *             *)        *       -
+bc/cnn/00/cnn_0002   15    6         to     TO       (S(VP*         -    -   -    Spider_Marks  *    (ARGM-PRP*         *       -
+bc/cnn/00/cnn_0002   15    7    achieve     VB         (VP*    achieve  01   1    Spider_Marks  *             *       (V*)      -
+bc/cnn/00/cnn_0002   15    8      their   PRP$         (NP*         -    -   -    Spider_Marks  *             *    (ARG1*    (214)
+bc/cnn/00/cnn_0002   15    9       ends    NNS       *))))))       end   -   6    Spider_Marks  *             *)        *)      -
+bc/cnn/00/cnn_0002   15   10         /.      .           *))        -    -   -    Spider_Marks  *             *         *       -
+
+bc/cnn/00/cnn_0002   15   0      Do   VBP    (TOP(SQ*      do  01    -    Tom_Forman  *    (V*)     *            *       -
+bc/cnn/00/cnn_0002   15   1      we   PRP        (NP*)     -    -    -    Tom_Forman  *      *      *       (ARG0*)   (158)
+bc/cnn/00/cnn_0002   15   2    have    VB        (VP*    have  02   12    Tom_Forman  *      *    (V*)           *       -
+bc/cnn/00/cnn_0002   15   3      to    TO      (S(VP*      -    -    -    Tom_Forman  *      *      *            *       -
+bc/cnn/00/cnn_0002   15   4      go    VB        (VP*      go  02    1    Tom_Forman  *      *      *          (V*)      -
+bc/cnn/00/cnn_0002   15   5    with    IN        (PP*      -    -    -    Tom_Forman  *      *      *   (ARGM-MNR*       -
+bc/cnn/00/cnn_0002   15   6    them   PRP   (NP*))))))     -    -    -    Tom_Forman  *      *      *            *)   (214)
+bc/cnn/00/cnn_0002   15   7      /?     .          *))     -    -    -    Tom_Forman  *      *      *            *       -
+
+bc/cnn/00/cnn_0002   15   0      we   PRP   (TOP(S(NP*)     -    -   -    Spider_Marks  *      *        (ARG0*)      (ARG0*)   (158)
+bc/cnn/00/cnn_0002   15   1      do   VBP         (VP*      do  01   -    Spider_Marks  *    (V*)            *            *       -
+bc/cnn/00/cnn_0002   15   2     n't    RB            *      -    -   -    Spider_Marks  *      *    (ARGM-NEG*)           *       -
+bc/cnn/00/cnn_0002   15   3    need    VB         (VP*    need  01   2    Spider_Marks  *      *           (V*)           *       -
+bc/cnn/00/cnn_0002   15   4      to    TO       (S(VP*      -    -   -    Spider_Marks  *      *        (ARG1*            *       -
+bc/cnn/00/cnn_0002   15   5      go    VB         (VP*      go  02   1    Spider_Marks  *      *             *          (V*)      -
+bc/cnn/00/cnn_0002   15   6    with    IN         (PP*      -    -   -    Spider_Marks  *      *             *   (ARGM-MNR*       -
+bc/cnn/00/cnn_0002   15   7    them   PRP   (NP*)))))))     -    -   -    Spider_Marks  *      *             *)           *)   (214)
+bc/cnn/00/cnn_0002   15   8      /.     .           *))     -    -   -    Spider_Marks  *      *             *            *       -
+
+bc/cnn/00/cnn_0002   15   0          we   PRP      (TOP(S(NP*)         -    -   -    Spider_Marks  *    (ARG0*)   (ARG0*)        *    (158)
+bc/cnn/00/cnn_0002   15   1        need   VBP            (VP*        need  01   2    Spider_Marks  *       (V*)        *         *       -
+bc/cnn/00/cnn_0002   15   2          to    TO          (S(VP*          -    -   -    Spider_Marks  *    (ARG1*         *         *       -
+bc/cnn/00/cnn_0002   15   3    preclude    VB            (VP*    preclude  01   1    Spider_Marks  *         *       (V*)        *    (169)
+bc/cnn/00/cnn_0002   15   4        them   PRP            (NP*)         -    -   -    Spider_Marks  *         *    (ARG1*)   (ARG0*)   (214)
+bc/cnn/00/cnn_0002   15   5        from    IN            (PP*          -    -   -    Spider_Marks  *         *    (ARG2*         *       -
+bc/cnn/00/cnn_0002   15   6       going   VBG          (S(VP*          go  02   1    Spider_Marks  *         *         *       (V*)     (7)
+bc/cnn/00/cnn_0002   15   7       there    RB   (ADVP*))))))))         -    -   -    Spider_Marks  *         *)        *)   (ARG4*)      -
+bc/cnn/00/cnn_0002   15   8          /.     .              *))         -    -   -    Spider_Marks  *         *         *         *       -
+
+bc/cnn/00/cnn_0002   15    0        And    CC       (TOP(S*         -    -    -    Spider_Marks  *    (ARGM-DIS*)       *      *         *       -
+bc/cnn/00/cnn_0002   15    1       that    DT          (NP*)        -    -    -    Spider_Marks  *        (ARG2*)       *      *         *    (169)
+bc/cnn/00/cnn_0002   15    2      might    MD          (VP*         -    -    -    Spider_Marks  *    (ARGM-MOD*)       *      *         *       -
+bc/cnn/00/cnn_0002   15    3    include    VB          (VP*    include  01    1    Spider_Marks  *           (V*)       *      *         *       -
+bc/cnn/00/cnn_0002   15    4       some    DT       (NP(NP*         -    -    -    Spider_Marks  *        (ARG1*        *      *         *       -
+bc/cnn/00/cnn_0002   15    5        use    NN             *)       use  01    1    Spider_Marks  *             *      (V*)     *         *       -
+bc/cnn/00/cnn_0002   15    6         of    IN          (PP*         -    -    -    Spider_Marks  *             *   (ARG1*      *         *       -
+bc/cnn/00/cnn_0002   15    7    torture    NN        (NP*)))   torture  01    2    Spider_Marks  *             *)       *)   (V*)        *    (125)
+bc/cnn/00/cnn_0002   15    8         in    IN          (PP*         -    -    -    Spider_Marks  *    (ARGM-PRP*        *      *         *       -
+bc/cnn/00/cnn_0002   15    9      order    NN          (NP*      order   -   10    Spider_Marks  *             *        *      *         *       -
+bc/cnn/00/cnn_0002   15   10         to    TO        (S(VP*         -    -    -    Spider_Marks  *             *        *      *         *       -
+bc/cnn/00/cnn_0002   15   11    prevent    VB          (VP*    prevent  01    1    Spider_Marks  *             *        *      *       (V*)      -
+bc/cnn/00/cnn_0002   15   12         it   PRP   (NP*))))))))        -    -    -    Spider_Marks  *             *)       *      *    (ARG1*)     (7)
+bc/cnn/00/cnn_0002   15   13         /.     .            *))        -    -    -    Spider_Marks  *             *        *      *         *       -
+
+bc/cnn/00/cnn_0002   15    0        Polls    NNS      (TOP(S(NP*)      poll   -   -    Tom_Forman          *      *    (ARG0*)       *      *             *       -
+bc/cnn/00/cnn_0002   15    1         have    VBP            (VP*       have  01   -    Tom_Forman          *    (V*)        *        *      *             *       -
+bc/cnn/00/cnn_0002   15    2        shown    VBN            (VP*       show  01   1    Tom_Forman          *      *       (V*)       *      *             *       -
+bc/cnn/00/cnn_0002   15    3         that     IN          (SBAR*         -    -   -    Tom_Forman          *      *    (ARG1*        *      *             *       -
+bc/cnn/00/cnn_0002   15    4         more    JJR    (S(NP(NP(QP*         -    -   -    Tom_Forman  (PERCENT*      *         *   (ARG0*      *             *       -
+bc/cnn/00/cnn_0002   15    5         than     IN               *         -    -   -    Tom_Forman          *      *         *        *      *             *       -
+bc/cnn/00/cnn_0002   15    6        sixty     CD               *)        -    -   -    Tom_Forman          *      *         *        *      *             *       -
+bc/cnn/00/cnn_0002   15    7      percent     NN               *)        -    -   -    Tom_Forman          *)     *         *        *      *             *       -
+bc/cnn/00/cnn_0002   15    8           of     IN            (PP*         -    -   -    Tom_Forman          *      *         *        *      *             *       -
+bc/cnn/00/cnn_0002   15    9    Americans   NNPS          (NP*)))        -    -   -    Tom_Forman          *      *         *        *)     *             *    (216)
+bc/cnn/00/cnn_0002   15   10        think    VBP            (VP*      think  01   1    Tom_Forman          *      *         *      (V*)     *             *       -
+bc/cnn/00/cnn_0002   15   11           it    PRP     (SBAR(S(NP*)        -    -   -    Tom_Forman          *      *         *   (ARG1*      *        (ARG1*)   (125)
+bc/cnn/00/cnn_0002   15   12          can     MD            (VP*         -    -   -    Tom_Forman          *      *         *        *      *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   15   13    sometimes     RB          (ADVP*)        -    -   -    Tom_Forman          *      *         *        *      *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   15   14           be     VB            (VP*         be  03   -    Tom_Forman          *      *         *        *    (V*)            *       -
+bc/cnn/00/cnn_0002   15   15    justified    VBN   (VP*))))))))))   justify  01   -    Tom_Forman          *      *         *)       *)     *           (V*)      -
+bc/cnn/00/cnn_0002   15   16           /.      .              *))        -    -   -    Tom_Forman          *      *         *        *      *             *       -
+
+bc/cnn/00/cnn_0002   15   0      But    CC  (TOP(SINV*       -    -   -    Tom_Forman  *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0002   15   1     here    RB      (ADVP*)      -    -   -    Tom_Forman  *        (ARG1*)  -
+bc/cnn/00/cnn_0002   15   2       's   VBZ        (VP*)      be  01   4    Tom_Forman  *           (V*)  -
+bc/cnn/00/cnn_0002   15   3      the    DT        (NP*       -    -   -    Tom_Forman  *        (ARG2*   -
+bc/cnn/00/cnn_0002   15   4    catch    NN           *)   catch   -   1    Tom_Forman  *             *)  -
+bc/cnn/00/cnn_0002   15   5       /.     .          *))      -    -   -    Tom_Forman  *             *   -
+
+bc/cnn/00/cnn_0002   15    0      Experts   NNS   (TOP(S(NP(NP*)         -    -   -    Tom_Forman         *    (ARG2*)     *   (ARG1*      *             *       -
+bc/cnn/00/cnn_0002   15    1    including   VBG            (PP*     include  01   2    Tom_Forman         *       (V*)     *        *      *             *       -
+bc/cnn/00/cnn_0002   15    2      General   NNP            (NP*          -    -   -    Tom_Forman         *    (ARG1*      *        *      *             *    (101
+bc/cnn/00/cnn_0002   15    3        Marks   NNP             *)))         -    -   -    Tom_Forman   (PERSON)        *)     *        *)     *             *     101)
+bc/cnn/00/cnn_0002   15    4          are   VBP            (VP*          be  03   -    Tom_Forman         *         *    (V*)       *      *             *       -
+bc/cnn/00/cnn_0002   15    5    convinced   VBN            (VP*    convince  01   1    Tom_Forman         *         *      *      (V*)     *             *       -
+bc/cnn/00/cnn_0002   15    6         with    IN     (SBAR(S(PP*          -    -   -    Tom_Forman         *         *      *   (ARG2*      *    (ARGM-MNR*       -
+bc/cnn/00/cnn_0002   15    7          the    DT         (NP(NP*          -    -   -    Tom_Forman         *         *      *        *      *             *       -
+bc/cnn/00/cnn_0002   15    8         vast    JJ               *          -    -   -    Tom_Forman         *         *      *        *      *             *       -
+bc/cnn/00/cnn_0002   15    9     majority    NN               *)   majority   -   1    Tom_Forman         *         *      *        *      *             *       -
+bc/cnn/00/cnn_0002   15   10           of    IN            (PP*          -    -   -    Tom_Forman         *         *      *        *      *             *       -
+bc/cnn/00/cnn_0002   15   11    prisoners   NNS         (NP*))))         -    -   -    Tom_Forman         *         *      *        *      *             *)      -
+bc/cnn/00/cnn_0002   15   12           it   PRP            (NP*)         -    -   -    Tom_Forman         *         *      *        *      *        (ARG0*)   (125)
+bc/cnn/00/cnn_0002   15   13         just    RB          (ADVP*)         -    -   -    Tom_Forman         *         *      *        *      *    (ARGM-ADV*)      -
+bc/cnn/00/cnn_0002   15   14         does   VBZ            (VP*          do  01   -    Tom_Forman         *         *      *        *    (V*)            *       -
+bc/cnn/00/cnn_0002   15   15          n't    RB               *          -    -   -    Tom_Forman         *         *      *        *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0002   15   16         work    VB       (VP*))))))       work  01   2    Tom_Forman         *         *      *        *)     *           (V*)      -
+bc/cnn/00/cnn_0002   15   17           /.     .              *))         -    -   -    Tom_Forman         *         *      *        *      *             *       -
+
+bc/cnn/00/cnn_0002   15    0              It   PRP   (TOP(S(NP*)     -    -   -    Mark_Jacobson  *      *        (ARG0*)   (125)
+bc/cnn/00/cnn_0002   15    1            does   VBZ         (VP*      do  01   -    Mark_Jacobson  *    (V*)            *       -
+bc/cnn/00/cnn_0002   15    2             not    RB            *      -    -   -    Mark_Jacobson  *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0002   15    3            give    VB         (VP*    give  01   4    Mark_Jacobson  *      *           (V*)      -
+bc/cnn/00/cnn_0002   15    4             you   PRP         (NP*)     -    -   -    Mark_Jacobson  *      *        (ARG2*)      -
+bc/cnn/00/cnn_0002   15    5        credible    JJ         (NP*      -    -   -    Mark_Jacobson  *      *        (ARG1*       -
+bc/cnn/00/cnn_0002   15    6        accurate    JJ            *      -    -   -    Mark_Jacobson  *      *             *       -
+bc/cnn/00/cnn_0002   15    7          timely    JJ            *      -    -   -    Mark_Jacobson  *      *             *       -
+bc/cnn/00/cnn_0002   15    8    inactionable    JJ            *      -    -   -    Mark_Jacobson  *      *             *       -
+bc/cnn/00/cnn_0002   15    9    intelligence    NN          *)))     -    -   -    Mark_Jacobson  *      *             *)      -
+bc/cnn/00/cnn_0002   15   10              /.     .           *))     -    -   -    Mark_Jacobson  *      *             *       -
+
+bc/cnn/00/cnn_0002   15    0          Mark   NNP  (TOP(S(NP(NP*         -    -   -    Tom_Forman  (PERSON*   (ARG0*   (204
+bc/cnn/00/cnn_0002   15    1      Jacobson   NNP              *)        -    -   -    Tom_Forman         *)       *      -
+bc/cnn/00/cnn_0002   15    2             a    DT           (NP*         -    -   -    Tom_Forman         *        *      -
+bc/cnn/00/cnn_0002   15    3        former    JJ              *         -    -   -    Tom_Forman         *        *      -
+bc/cnn/00/cnn_0002   15    4       defense    NN          (NML*         -    -   -    Tom_Forman         *        *      -
+bc/cnn/00/cnn_0002   15    5    department    NN              *)        -    -   -    Tom_Forman         *        *      -
+bc/cnn/00/cnn_0002   15    6      official    NN             *))        -    -   -    Tom_Forman         *        *)   204)
+bc/cnn/00/cnn_0002   15    7      outlines   VBZ           (VP*    outline  01   1    Tom_Forman         *      (V*)     -
+bc/cnn/00/cnn_0002   15    8           the    DT           (NP*         -    -   -    Tom_Forman         *   (ARG1*      -
+bc/cnn/00/cnn_0002   15    9      troubles   NNS             *))   trouble   -   1    Tom_Forman         *        *)     -
+bc/cnn/00/cnn_0002   15   10            /.     .             *))        -    -   -    Tom_Forman         *        *      -
+
+bc/cnn/00/cnn_0002   15   0            You   PRP   (TOP(S(NP*)            -    -   -    Tom_Forman  *    (ARG0*)   (ARG0*)       *   (204
+bc/cnn/00/cnn_0002   15   1           need   VBP         (VP*           need  01   2    Tom_Forman  *       (V*)        *        *    204)
+bc/cnn/00/cnn_0002   15   2             to    TO       (S(VP*             -    -   -    Tom_Forman  *    (ARG1*         *        *      -
+bc/cnn/00/cnn_0002   15   3           know    VB         (VP*           know  01   1    Tom_Forman  *         *       (V*)       *      -
+bc/cnn/00/cnn_0002   15   4              a    DT  (SBAR(S(NP*             -    -   -    Tom_Forman  *         *    (ARG1*   (ARG0*   (174
+bc/cnn/00/cnn_0002   15   5       prisoner    NN            *)            -    -   -    Tom_Forman  *         *         *        *)   174)
+bc/cnn/00/cnn_0002   15   6            has   VBZ         (VP*           have  03   2    Tom_Forman  *         *         *      (V*)     -
+bc/cnn/00/cnn_0002   15   7       critical    JJ         (NP*             -    -   -    Tom_Forman  *         *         *   (ARG1*      -
+bc/cnn/00/cnn_0002   15   8    information    NN     *))))))))   information   -   1    Tom_Forman  *         *)        *)       *)     -
+bc/cnn/00/cnn_0002   15   9             /.     .           *))            -    -   -    Tom_Forman  *         *         *        *      -
+
+bc/cnn/00/cnn_0002   15   0            the   DT  (TOP(S(NP*         -    -   -    Tom_Forman  *        (ARG1*      *   (174
+bc/cnn/00/cnn_0002   15   1       prisoner   NN           *)        -    -   -    Tom_Forman  *             *)     *    174)
+bc/cnn/00/cnn_0002   15   2           must   MD        (VP*         -    -   -    Tom_Forman  *    (ARGM-MOD*)     *      -
+bc/cnn/00/cnn_0002   15   3             be   VB        (VP*         be  01   1    Tom_Forman  *           (V*)     *      -
+bc/cnn/00/cnn_0002   15   4    succeptable   JJ      (ADJP*         -    -   -    Tom_Forman  *        (ARG2*      *      -
+bc/cnn/00/cnn_0002   15   5             to   IN        (PP*         -    -   -    Tom_Forman  *             *      *      -
+bc/cnn/00/cnn_0002   15   6        torture   NN    (NP*)))))   torture  01   2    Tom_Forman  *             *)   (V*)     -
+bc/cnn/00/cnn_0002   15   7             /.    .          *))        -    -   -    Tom_Forman  *             *      *      -
+
+bc/cnn/00/cnn_0002   15    0         and    CC            (TOP(S*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    1          oh    UH             (INTJ*)        -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    2          by    IN               (PP*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    3         the    DT               (NP*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    4         way    NN                 *))       way   -   10    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    5        when   WRB      (SBAR(WHADVP*)        -    -    -    Tom_Forman,Mark_Jacobson  *      *    (ARGM-TMP*)            *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    6      people   NNS             (S(NP*)    people   -    1    Tom_Forman,Mark_Jacobson  *      *        (ARG1*)            *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    7         are   VBP               (VP*         be  03    -    Tom_Forman,Mark_Jacobson  *    (V*)            *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    8    tortured   VBN            (VP*))))   torture  01    -    Tom_Forman,Mark_Jacobson  *      *           (V*)            *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15    9           ,     ,                  *         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15   10        when   WRB      (SBAR(WHADVP*)        -    -    -    Tom_Forman,Mark_Jacobson  *      *             *    (ARGM-TMP*)     *      *         *            *       -
+bc/cnn/00/cnn_0002   15   11      people   NNS             (S(NP*)    people   -    1    Tom_Forman,Mark_Jacobson  *      *             *        (ARG1*)     *      *         *            *     (23)
+bc/cnn/00/cnn_0002   15   12      endure   VBP               (VP*     endure  01    2    Tom_Forman,Mark_Jacobson  *      *             *           (V*)     *      *         *            *       -
+bc/cnn/00/cnn_0002   15   13    physical    JJ               (NP*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *        (ARG2*      *      *         *            *    (149
+bc/cnn/00/cnn_0002   15   14        pain    NN               *))))      pain   -    1    Tom_Forman,Mark_Jacobson  *      *             *             *)     *      *         *            *     149)
+bc/cnn/00/cnn_0002   15   15        they   PRP               (NP*)        -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *    (ARG0*)      (ARG0*)    (23)
+bc/cnn/00/cnn_0002   15   16         're   VBP               (VP*         be  03    -    Tom_Forman,Mark_Jacobson  *      *             *             *    (V*)     *         *            *       -
+bc/cnn/00/cnn_0002   15   17       going   VBG               (VP*         go  04    7    Tom_Forman,Mark_Jacobson  *      *             *             *      *    (V*)        *            *       -
+bc/cnn/00/cnn_0002   15   18          to    TO             (S(VP*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15   19        seek    VB               (VP*       seek  01    1    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *       (V*)           *       -
+bc/cnn/00/cnn_0002   15   20          to    TO             (S(VP*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *    (ARG1*            *       -
+bc/cnn/00/cnn_0002   15   21        stop    VB               (VP*       stop  01    2    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *          (V*)      -
+bc/cnn/00/cnn_0002   15   22        that    DT               (NP*)        -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *       (ARG1*)   (149)
+bc/cnn/00/cnn_0002   15   23          as    RB        (ADVP(ADVP*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *   (ARGM-MNR*       -
+bc/cnn/00/cnn_0002   15   24     quickly    RB                  *)        -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15   25          as    IN               (PP*         -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+bc/cnn/00/cnn_0002   15   26    possible    JJ   (ADJP*)))))))))))        -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *)           *)      -
+bc/cnn/00/cnn_0002   15   27          /.     .                 *))        -    -    -    Tom_Forman,Mark_Jacobson  *      *             *             *      *      *         *            *       -
+
+bc/cnn/00/cnn_0002   15    0         If    IN     (TOP(S(SBAR*         -    -   -    Mark_Jacobson  *         *      *      *         *         *         *       -
+bc/cnn/00/cnn_0002   15    1          I   PRP           (S(NP*)        -    -   -    Mark_Jacobson  *    (ARG0*)     *      *         *         *         *    (204)
+bc/cnn/00/cnn_0002   15    2    torture   VBP             (VP*    torture  01   2    Mark_Jacobson  *       (V*)     *      *         *         *         *       -
+bc/cnn/00/cnn_0002   15    3        you   PRP          (NP*))))        -    -   -    Mark_Jacobson  *    (ARG1*)     *      *         *         *         *       -
+bc/cnn/00/cnn_0002   15    4        you   PRP             (NP*)        -    -   -    Mark_Jacobson  *         *      *      *    (ARG0*)        *         *       -
+bc/cnn/00/cnn_0002   15    5        're   VBP             (VP*         be  03   -    Mark_Jacobson  *         *    (V*)     *         *         *         *       -
+bc/cnn/00/cnn_0002   15    6      going   VBG             (VP*         go  04   7    Mark_Jacobson  *         *      *    (V*)        *         *         *       -
+bc/cnn/00/cnn_0002   15    7         to    TO           (S(VP*         -    -   -    Mark_Jacobson  *         *      *      *         *         *         *       -
+bc/cnn/00/cnn_0002   15    8       tell    VB             (VP*       tell  01   1    Mark_Jacobson  *         *      *      *       (V*)        *         *       -
+bc/cnn/00/cnn_0002   15    9         me   PRP             (NP*)        -    -   -    Mark_Jacobson  *         *      *      *    (ARG2*)        *         *    (204)
+bc/cnn/00/cnn_0002   15   10    exactly    RB      (SBAR(WHNP*         -    -   -    Mark_Jacobson  *         *      *      *    (ARG1*         *    (ARG1*       -
+bc/cnn/00/cnn_0002   15   11       what    WP                *)        -    -   -    Mark_Jacobson  *         *      *      *         *         *         *)      -
+bc/cnn/00/cnn_0002   15   12          I   PRP           (S(NP*)        -    -   -    Mark_Jacobson  *         *      *      *         *    (ARG0*)   (ARG0*)   (204)
+bc/cnn/00/cnn_0002   15   13     expect   VBP             (VP*     expect  01   1    Mark_Jacobson  *         *      *      *         *       (V*)        *       -
+bc/cnn/00/cnn_0002   15   14         to    TO           (S(VP*         -    -   -    Mark_Jacobson  *         *      *      *         *    (ARG1*         *       -
+bc/cnn/00/cnn_0002   15   15       hear    VB   (VP*)))))))))))      hear  01   1    Mark_Jacobson  *         *      *      *         *)        *)      (V*)      -
+bc/cnn/00/cnn_0002   15   16         /.     .               *))        -    -   -    Mark_Jacobson  *         *      *      *         *         *         *       -
+
+bc/cnn/00/cnn_0002   15    0         The    DT      (TOP(S(NP*         -    -   -    Tom_Forman  (ORG*            *        *       (ARG0*      *             *   -
+bc/cnn/00/cnn_0002   15    1       White   NNP               *         -    -   -    Tom_Forman      *            *        *            *      *             *   -
+bc/cnn/00/cnn_0002   15    2       House   NNP               *)        -    -   -    Tom_Forman      *)           *        *            *)     *             *   -
+bc/cnn/00/cnn_0002   15    3       under    IN          (S(PP*         -    -   -    Tom_Forman      *            *        *   (ARGM-PRD*      *             *   -
+bc/cnn/00/cnn_0002   15    4        fire    NN         (NP(NP*)      fire  01   5    Tom_Forman      *          (V*)       *            *      *             *   -
+bc/cnn/00/cnn_0002   15    5        over    IN            (PP*         -    -   -    Tom_Forman      *   (ARGM-CAU*        *            *      *             *   -
+bc/cnn/00/cnn_0002   15    6     reports   NNS         (NP(NP*)    report  01   2    Tom_Forman      *            *      (V*)           *      *             *   -
+bc/cnn/00/cnn_0002   15    7          of    IN            (PP*         -    -   -    Tom_Forman      *            *   (ARG1*            *      *             *   -
+bc/cnn/00/cnn_0002   15    8      secret    JJ         (NP(NP*         -    -   -    Tom_Forman      *            *        *            *      *             *   -
+bc/cnn/00/cnn_0002   15    9         CIA   NNP               *         -    -   -    Tom_Forman   (ORG)           *        *            *      *             *   -
+bc/cnn/00/cnn_0002   15   10     prisons   NNS               *)        -    -   -    Tom_Forman      *            *        *            *      *             *   -
+bc/cnn/00/cnn_0002   15   11    overseas    RB   (ADVP*))))))))        -    -   -    Tom_Forman      *            *)       *)           *)     *             *   -
+bc/cnn/00/cnn_0002   15   12        says   VBZ            (VP*        say  01   1    Tom_Forman      *            *        *          (V*)     *             *   -
+bc/cnn/00/cnn_0002   15   13     torture    NN     (SBAR(S(NP*)   torture   -   2    Tom_Forman      *            *        *       (ARG1*      *        (ARG1*)  -
+bc/cnn/00/cnn_0002   15   14          is   VBZ            (VP*         be  03   -    Tom_Forman      *            *        *            *    (V*)            *   -
+bc/cnn/00/cnn_0002   15   15         not    RB               *         -    -   -    Tom_Forman      *            *        *            *      *    (ARGM-NEG*)  -
+bc/cnn/00/cnn_0002   15   16     allowed   VBN        (VP*)))))     allow  01   1    Tom_Forman      *            *        *            *)     *           (V*)  -
+bc/cnn/00/cnn_0002   15   17          /.     .              *))        -    -   -    Tom_Forman      *            *        *            *      *             *   -
+
+bc/cnn/00/cnn_0002   15   0    But   CC  (TOP(S*   -   -   -    Tom_Forman  *   -
+bc/cnn/00/cnn_0002   15   1    /-     .       *))  -   -   -    Tom_Forman  *   -
+
+bc/cnn/00/cnn_0002   15    0           We   PRP      (TOP(S(NP*)        -    -   -   speaker2        *      *      *    (ARG0*)        *        *    (229)
+bc/cnn/00/cnn_0002   15    1          are   VBP            (VP*         be  03   -   speaker2        *    (V*)     *         *         *        *       -
+bc/cnn/00/cnn_0002   15    2        going   VBG            (VP*         go  04   7   speaker2        *      *    (V*)        *         *        *       -
+bc/cnn/00/cnn_0002   15    3           to    TO          (S(VP*         -    -   -   speaker2        *      *      *         *         *        *       -
+bc/cnn/00/cnn_0002   15    4           do    VB            (VP*         do  02   1   speaker2        *      *      *       (V*)        *        *       -
+bc/cnn/00/cnn_0002   15    5         what    WP     (SBAR(WHNP*)        -    -   -   speaker2        *      *      *    (ARG1*    (ARG1*)       *       -
+bc/cnn/00/cnn_0002   15    6           is   VBZ          (S(VP*         be  01   1   speaker2        *      *      *         *       (V*)       *       -
+bc/cnn/00/cnn_0002   15    7    necessary    JJ          (ADJP*         -    -   -   speaker2        *      *      *         *    (ARG2*        *       -
+bc/cnn/00/cnn_0002   15    8           to    TO          (S(VP*         -    -   -   speaker2        *      *      *         *         *        *       -
+bc/cnn/00/cnn_0002   15    9      protect    VB            (VP*    protect  01   1   speaker2        *      *      *         *         *      (V*)      -
+bc/cnn/00/cnn_0002   15   10          the    DT            (NP*         -    -   -   speaker2        *      *      *         *         *   (ARG1*    (216
+bc/cnn/00/cnn_0002   15   11     American    JJ               *         -    -   -   speaker2    (NORP)     *      *         *         *        *       -
+bc/cnn/00/cnn_0002   15   12       people   NNS   *)))))))))))))    people   -   2   speaker2        *      *      *         *)        *)       *)    216)
+bc/cnn/00/cnn_0002   15   13           /.     .              *))        -    -   -   speaker2        *      *      *         *         *        *       -
+
+bc/cnn/00/cnn_0002   15    0         We    PRP      (TOP(S(NP*)       -    -   -   speaker2   *      *      *       (ARG0*)          *    (229)
+bc/cnn/00/cnn_0002   15    1        are    VBP            (VP*        be  03   -   speaker2   *    (V*)     *            *           *       -
+bc/cnn/00/cnn_0002   15    2       also     RB          (ADVP*)       -    -   -   speaker2   *      *      *            *           *       -
+bc/cnn/00/cnn_0002   15    3      going    VBG            (VP*        go  04   7   speaker2   *      *    (V*)           *           *       -
+bc/cnn/00/cnn_0002   15    4         to     TO          (S(VP*        -    -   -   speaker2   *      *      *            *           *       -
+bc/cnn/00/cnn_0002   15    5         do     VB            (VP*        do  02   1   speaker2   *      *      *          (V*)          *       -
+bc/cnn/00/cnn_0002   15    6         so     RB          (ADVP*)       -    -   -   speaker2   *      *      *       (ARG1*)          *       -
+bc/cnn/00/cnn_0002   15    7         in     IN            (PP*        -    -   -   speaker2   *      *      *   (ARGM-MNR*           *       -
+bc/cnn/00/cnn_0002   15    8          a     DT         (NP(NP*        -    -   -   speaker2   *      *      *            *      (ARG0*       -
+bc/cnn/00/cnn_0002   15    9        way     NN               *)      way   -   1   speaker2   *      *      *            *           *)      -
+bc/cnn/00/cnn_0002   15   10       that    WDT     (SBAR(WHNP*)       -    -   -   speaker2   *      *      *            *    (R-ARG0*)      -
+bc/cnn/00/cnn_0002   15   11    adheres    VBZ          (S(VP*    adhere  02   2   speaker2   *      *      *            *         (V*)      -
+bc/cnn/00/cnn_0002   15   12         to     IN         (PP(PP*        -    -   -   speaker2   *      *      *            *      (ARG1*       -
+bc/cnn/00/cnn_0002   15   13        our   PRP$            (NP*        -    -   -   speaker2   *      *      *            *           *    (216)
+bc/cnn/00/cnn_0002   15   14       laws    NNS              *))      law   -   2   speaker2   *      *      *            *           *)      -
+bc/cnn/00/cnn_0002   15   15        and     CC               *        -    -   -   speaker2   *      *      *            *           *       -
+bc/cnn/00/cnn_0002   15   16         to     IN            (PP*        -    -   -   speaker2   *      *      *            *           *       -
+bc/cnn/00/cnn_0002   15   17        our   PRP$            (NP*        -    -   -   speaker2   *      *      *            *           *    (216)
+bc/cnn/00/cnn_0002   15   18     values    NNS   *)))))))))))))    value   -   3   speaker2   *      *      *            *)          *       -
+bc/cnn/00/cnn_0002   15   19         /.      .              *))       -    -   -   speaker2   *      *      *            *           *       -
+
+bc/cnn/00/cnn_0002   15   0       Uh    UH   (TOP(S(INTJ*)     -    -   -   speaker2   *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   15   1       we   PRP           (NP*)     -    -   -   speaker2   *      *        (ARG0*)   (229)
+bc/cnn/00/cnn_0002   15   2     have   VBP           (VP*    have  01   -   speaker2   *    (V*)            *       -
+bc/cnn/00/cnn_0002   15   3     made   VBN           (VP*    make  02   3   speaker2   *      *           (V*)      -
+bc/cnn/00/cnn_0002   15   4     that    DT         (S(NP*)     -    -   -   speaker2   *      *        (ARG1*       -
+bc/cnn/00/cnn_0002   15   5     very    RB         (ADJP*      -    -   -   speaker2   *      *             *       -
+bc/cnn/00/cnn_0002   15   6    clear    JJ           *))))     -    -   -   speaker2   *      *             *)      -
+bc/cnn/00/cnn_0002   15   7       /.     .             *))     -    -   -   speaker2   *      *             *       -
+
+bc/cnn/00/cnn_0002   15    0           The    DT  (TOP(S(NP(NP*            -    -   -    Tom_Forman  *      *   (ARG1*   (123
+bc/cnn/00/cnn_0002   15    1    definition    NN              *)   definition   -   1    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15    2            of    IN           (PP*            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15    3       torture    NN         (NP*)))      torture  01   2    Tom_Forman  *    (V*)       *)   123)
+bc/cnn/00/cnn_0002   15    4            is   VBZ           (VP*            be  01   2    Tom_Forman  *      *      (V*)     -
+bc/cnn/00/cnn_0002   15    5    infliction    NN        (NP(NP*)           -    -   -    Tom_Forman  *      *   (ARG2*      -
+bc/cnn/00/cnn_0002   15    6            of    IN           (PP*            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15    7        severe    JJ           (NP*            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15    8      physical    JJ              *            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15    9          pain    NN             *))         pain   -   1    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15   10            as    IN           (PP*            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15   11             a    DT        (NP(NP*            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15   12         means    NN              *)         mean   -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15   13            of    IN           (PP*            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15   14    punishment    NN           (NP*            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15   15            or    CC              *            -    -   -    Tom_Forman  *      *        *      -
+bc/cnn/00/cnn_0002   15   16      coersion    NN         *))))))           -    -   -    Tom_Forman  *      *        *)     -
+bc/cnn/00/cnn_0002   15   17            /.     .             *))           -    -   -    Tom_Forman  *      *        *      -
+
+bc/cnn/00/cnn_0002   15    0          Legal    JJ  (TOP(S(NP(NP*           -    -   -    Tom_Forman  *      *   (ARG0*         *       -
+bc/cnn/00/cnn_0002   15    1    authorities   NNS              *)   authority   -   4    Tom_Forman  *      *        *         *       -
+bc/cnn/00/cnn_0002   15    2         around    IN           (PP*           -    -   -    Tom_Forman  *      *        *         *       -
+bc/cnn/00/cnn_0002   15    3            the    DT           (NP*           -    -   -    Tom_Forman  *      *        *         *       -
+bc/cnn/00/cnn_0002   15    4          world    NN            *)))          -    -   -    Tom_Forman  *      *        *)        *       -
+bc/cnn/00/cnn_0002   15    5            are   VBP           (VP*           be  03   -    Tom_Forman  *    (V*)       *         *       -
+bc/cnn/00/cnn_0002   15    6        arguing   VBG           (VP*        argue  02   1    Tom_Forman  *      *      (V*)        *       -
+bc/cnn/00/cnn_0002   15    7           over    IN           (PP*           -    -   -    Tom_Forman  *      *   (ARG2*         *       -
+bc/cnn/00/cnn_0002   15    8           what    WP    (SBAR(WHNP*)          -    -   -    Tom_Forman  *      *        *    (ARG1*)      -
+bc/cnn/00/cnn_0002   15    9           that    DT         (S(NP*)          -    -   -    Tom_Forman  *      *        *    (ARG0*)   (123)
+bc/cnn/00/cnn_0002   15   10          means   VBZ      (VP*))))))        mean  01   3    Tom_Forman  *      *        *)      (V*)      -
+bc/cnn/00/cnn_0002   15   11             /.     .             *))          -    -   -    Tom_Forman  *      *        *         *       -
+
+bc/cnn/00/cnn_0002   15    0           Some    DT      (TOP(S(NP*)            -    -   -    Tom_Forman       *     (ARG0*)           *             *             *      -
+bc/cnn/00/cnn_0002   15    1         insist   VBP            (VP*         insist  01   2    Tom_Forman       *        (V*)           *             *             *      -
+bc/cnn/00/cnn_0002   15    2            the    DT  (SBAR(S(NP(NP*             -    -   -    Tom_Forman       *     (ARG1*            *        (ARG1*             *      -
+bc/cnn/00/cnn_0002   15    3         abuses   NNS               *)         abuse  01   1    Tom_Forman       *          *          (V*)            *             *      -
+bc/cnn/00/cnn_0002   15    4             at    IN            (PP*             -    -   -    Tom_Forman       *          *   (ARGM-LOC*             *             *      -
+bc/cnn/00/cnn_0002   15    5           that    DT            (NP*             -    -   -    Tom_Forman       *          *            *             *             *      -
+bc/cnn/00/cnn_0002   15    6          Iraqi    JJ               *             -    -   -    Tom_Forman   (NORP)         *            *             *             *      -
+bc/cnn/00/cnn_0002   15    7         prison    NN             *)))            -    -   -    Tom_Forman       *          *            *)            *)            *      -
+bc/cnn/00/cnn_0002   15    8         easily    RB          (ADVP*)            -    -   -    Tom_Forman       *          *            *    (ARGM-MNR*)            *      -
+bc/cnn/00/cnn_0002   15    9        qualify   VBP            (VP*        qualify  02   1    Tom_Forman       *          *            *           (V*)            *      -
+bc/cnn/00/cnn_0002   15   10          along    IN            (PP*             -    -   -    Tom_Forman       *   (C-ARG1*   (ARGM-ADJ*      (C-ARG1*             *      -
+bc/cnn/00/cnn_0002   15   11           with    IN            (PP*             -    -   -    Tom_Forman       *          *            *             *             *      -
+bc/cnn/00/cnn_0002   15   12          sleep    NN         (NP(NP*          sleep   -   1    Tom_Forman       *          *            *             *             *   (143
+bc/cnn/00/cnn_0002   15   13    deprivation    NN               *)   deprivation   -   2    Tom_Forman       *          *            *             *             *      -
+bc/cnn/00/cnn_0002   15   14    humiliation    NN            (NP*)            -    -   -    Tom_Forman       *          *            *             *             *      -
+bc/cnn/00/cnn_0002   15   15        extreme    JJ            (NP*             -    -   -    Tom_Forman       *          *            *             *    (ARGM-EXT*)     -
+bc/cnn/00/cnn_0002   15   16           fear    NN        *))))))))          fear  01   1    Tom_Forman       *         *))           *)            *)          (V*)   143)
+bc/cnn/00/cnn_0002   15   17             /.     .              *))            -    -   -    Tom_Forman       *          *            *             *             *      -
+
+bc/cnn/00/cnn_0002   15   0    Others   NNS    (TOP(S(NP*)      -    -   -    Tom_Forman  *    (ARG0*)     *             *      -
+bc/cnn/00/cnn_0002   15   1       say   VBP          (VP*      say  01   1    Tom_Forman  *       (V*)     *             *      -
+bc/cnn/00/cnn_0002   15   2     those    DT   (SBAR(S(NP*       -    -   -    Tom_Forman  *    (ARG1*      *        (ARG1*   (143
+bc/cnn/00/cnn_0002   15   3    things   NNS             *)   thing   -   1    Tom_Forman  *         *      *             *)   143)
+bc/cnn/00/cnn_0002   15   4        do   VBP          (VP*       do  01   -    Tom_Forman  *         *    (V*)            *      -
+bc/cnn/00/cnn_0002   15   5       n't    RB             *       -    -   -    Tom_Forman  *         *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0002   15   6      even    RB        (ADVP*)      -    -   -    Tom_Forman  *         *      *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0002   15   7      come    VB          (VP*     come  01   3    Tom_Forman  *         *      *           (V*)     -
+bc/cnn/00/cnn_0002   15   8     close    RB   (ADVP*))))))      -    -   -    Tom_Forman  *         *)     *        (ARG4*)     -
+bc/cnn/00/cnn_0002   15   9        /.     .            *))      -    -   -    Tom_Forman  *         *      *             *      -
+
+bc/cnn/00/cnn_0002   15   0       The    DT  (TOP(S(NP*    -    -   -    Tom_Forman  *        (ARG1*   -
+bc/cnn/00/cnn_0002   15   1    global    JJ           *    -    -   -    Tom_Forman  *             *   -
+bc/cnn/00/cnn_0002   15   2      jury    NN           *)   -    -   -    Tom_Forman  *             *)  -
+bc/cnn/00/cnn_0002   15   3        is   VBZ        (VP*    be  01   4    Tom_Forman  *           (V*)  -
+bc/cnn/00/cnn_0002   15   4     still    RB      (ADVP*)   -    -   -    Tom_Forman  *    (ARGM-TMP*)  -
+bc/cnn/00/cnn_0002   15   5       out    RB     (ADVP*))   -    -   -    Tom_Forman  *        (ARG2*)  -
+bc/cnn/00/cnn_0002   15   6        /.     .          *))   -    -   -    Tom_Forman  *             *   -
+
+bc/cnn/00/cnn_0002   15   0          and    CC  (TOP(S*        -    -   -    Tom_Forman  *      *        *   -
+bc/cnn/00/cnn_0002   15   1         even    RB     (NP*        -    -   -    Tom_Forman  *      *   (ARG0*   -
+bc/cnn/00/cnn_0002   15   2      experts   NNS        *)       -    -   -    Tom_Forman  *      *        *)  -
+bc/cnn/00/cnn_0002   15   3          are   VBP     (VP*        be  03   -    Tom_Forman  *    (V*)       *   -
+bc/cnn/00/cnn_0002   15   4    pondering   VBG     (VP*    ponder  01   1    Tom_Forman  *      *      (V*)  -
+bc/cnn/00/cnn_0002   15   5            a    DT     (NP*        -    -   -    Tom_Forman  *      *   (ARG1*   -
+bc/cnn/00/cnn_0002   15   6      paradox    NN      *)))       -    -   -    Tom_Forman  *      *        *)  -
+bc/cnn/00/cnn_0002   15   7           /.     .       *))       -    -   -    Tom_Forman  *      *        *   -
+
+bc/cnn/00/cnn_0002   15    0            So     RB   (TOP(S(ADVP*)           -    -   -    Tom_Forman  *            *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   15    1            in     IN        (PP(PP*            -    -   -    Tom_Forman  *            *    (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   15    2          your   PRP$           (NP*            -    -   -    Tom_Forman  *            *             *    (115)
+bc/cnn/00/cnn_0002   15    3    experience     NN             *))   experience   -   1    Tom_Forman  *            *             *       -
+bc/cnn/00/cnn_0002   15    4           and     CC              *            -    -   -    Tom_Forman  *            *             *       -
+bc/cnn/00/cnn_0002   15    5            in     IN           (PP*            -    -   -    Tom_Forman  *            *             *       -
+bc/cnn/00/cnn_0002   15    6          your   PRP$           (NP*            -    -   -    Tom_Forman  *            *             *    (115)
+bc/cnn/00/cnn_0002   15    7          view     NN            *)))         view   -   4    Tom_Forman  *            *             *)      -
+bc/cnn/00/cnn_0002   15    8       torture     NN        (NP(NP*)      torture  01   2    Tom_Forman  *          (V*)       (ARG1*     (21)
+bc/cnn/00/cnn_0002   15    9            as     IN           (PP*            -    -   -    Tom_Forman  *   (ARGM-PRD*             *       -
+bc/cnn/00/cnn_0002   15   10             a     DT           (NP*            -    -   -    Tom_Forman  *            *             *       -
+bc/cnn/00/cnn_0002   15   11        policy     NN            *)))       policy   -   1    Tom_Forman  *            *)            *)      -
+bc/cnn/00/cnn_0002   15   12        should     MD           (VP*            -    -   -    Tom_Forman  *            *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   15   13            be     VB           (VP*            be  01   1    Tom_Forman  *            *           (V*)      -
+bc/cnn/00/cnn_0002   15   14       against     IN           (PP*            -    -   -    Tom_Forman  *            *        (ARG2*       -
+bc/cnn/00/cnn_0002   15   15           the     DT           (NP*            -    -   -    Tom_Forman  *            *             *       -
+bc/cnn/00/cnn_0002   15   16           law     NN           *))))          law   -   1    Tom_Forman  *            *             *)      -
+bc/cnn/00/cnn_0002   15   17            /.      .             *))           -    -   -    Tom_Forman  *            *             *       -
+
+bc/cnn/00/cnn_0002   15   0    True   JJ  (TOP(ADJP*   -   -   -   speaker7   *   -
+bc/cnn/00/cnn_0002   15   1      /.    .          *))  -   -   -   speaker7   *   -
+
+bc/cnn/00/cnn_0002   15   0      And    CC     (TOP(S*      -    -    -    Tom_Forman  *      *         *      -
+bc/cnn/00/cnn_0002   15   1      yet    RB      (ADVP*)     -    -    -    Tom_Forman  *      *         *      -
+bc/cnn/00/cnn_0002   15   2       we   PRP        (NP*)     -    -    -    Tom_Forman  *      *    (ARG0*)     -
+bc/cnn/00/cnn_0002   15   3    might    MD        (VP*      -    -    -    Tom_Forman  *      *         *      -
+bc/cnn/00/cnn_0002   15   4    still    RB      (ADVP*)     -    -    -    Tom_Forman  *      *         *      -
+bc/cnn/00/cnn_0002   15   5     have    VB        (VP*    have  02   12    Tom_Forman  *    (V*)        *      -
+bc/cnn/00/cnn_0002   15   6       to    TO      (S(VP*      -    -    -    Tom_Forman  *      *         *      -
+bc/cnn/00/cnn_0002   15   7      use    VB        (VP*     use  01    1    Tom_Forman  *      *       (V*)     -
+bc/cnn/00/cnn_0002   15   8       it   PRP   (NP*))))))     -    -    -    Tom_Forman  *      *    (ARG1*)   (21)
+bc/cnn/00/cnn_0002   15   9       /.     .          *))     -    -    -    Tom_Forman  *      *         *      -
+
+bc/cnn/00/cnn_0002   15   0    True   JJ  (TOP(ADJP*   -   -   -   speaker7   *   -
+bc/cnn/00/cnn_0002   15   1      /.    .          *))  -   -   -   speaker7   *   -
+
+bc/cnn/00/cnn_0002   15    0          And    CC        (TOP(FRAG*         -    -   -    Tom_Forman  *    (ARGM-DIS*)     *             *   -
+bc/cnn/00/cnn_0002   15    1    wondering   VBG            (S(VP*     wonder  01   1    Tom_Forman  *           (V*)     *             *   -
+bc/cnn/00/cnn_0002   15    2        which   WDT  (SBAR(WHNP(WHNP*         -    -   -    Tom_Forman  *        (ARG1*      *        (ARG1*   -
+bc/cnn/00/cnn_0002   15    3        truth    NN                 *)     truth   -   1    Tom_Forman  *             *      *             *   -
+bc/cnn/00/cnn_0002   15    4        about    IN              (PP*         -    -   -    Tom_Forman  *             *      *             *   -
+bc/cnn/00/cnn_0002   15    5      torture    NN            (NP*)))   torture  01   2    Tom_Forman  *             *    (V*)            *)  -
+bc/cnn/00/cnn_0002   15    6         will    MD            (S(VP*         -    -   -    Tom_Forman  *             *      *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0002   15    7        stand    VB              (VP*      stand  01   4    Tom_Forman  *             *      *           (V*)  -
+bc/cnn/00/cnn_0002   15    8           in    IN              (PP*         -    -   -    Tom_Forman  *             *      *        (ARG2*   -
+bc/cnn/00/cnn_0002   15    9            a    DT              (NP*         -    -   -    Tom_Forman  *             *      *             *   -
+bc/cnn/00/cnn_0002   15   10    dangerous    JJ                 *         -    -   -    Tom_Forman  *             *      *             *   -
+bc/cnn/00/cnn_0002   15   11        world    NN          *))))))))        -    -   -    Tom_Forman  *             *)     *             *)  -
+bc/cnn/00/cnn_0002   15   12           /.     .                *))        -    -   -    Tom_Forman  *             *      *             *   -
+
+bc/cnn/00/cnn_0002   15   0           Tom   NNP  (TOP(FRAG(NP*   -   -   -    Tom_Forman  (PERSON*     (65
+bc/cnn/00/cnn_0002   15   1        Forman   NNP              *)  -   -   -    Tom_Forman         *)     65)
+bc/cnn/00/cnn_0002   15   2           CNN   NNP           (NP*)  -   -   -    Tom_Forman      (ORG)   (166)
+bc/cnn/00/cnn_0002   15   3    Washington   NNP           (NP*)  -   -   -    Tom_Forman      (GPE)      -
+bc/cnn/00/cnn_0002   15   4            /.     .             *))  -   -   -    Tom_Forman         *       -

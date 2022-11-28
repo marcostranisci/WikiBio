@@ -1,0 +1,325 @@
+bc/msnbc/00/msnbc_0002   4    0          Here     RB   (TOP(SINV(ADVP*)       -    -   -    Dan_Abrams         *    (ARG1*)       *             *             *          -
+bc/msnbc/00/msnbc_0002   4    1            's    VBZ              (VP*)       be  01   4    Dan_Abrams         *       (V*)       *             *             *          -
+bc/msnbc/00/msnbc_0002   4    2         Kevin    NNP        (NP(NP(NP*        -    -   -    Dan_Abrams  (PERSON*    (ARG2*        *        (ARG0*             *         (3
+bc/msnbc/00/msnbc_0002   4    3     O'Donnell    NNP                 *)       -    -   -    Dan_Abrams         *)        *        *             *             *          -
+bc/msnbc/00/msnbc_0002   4    4    Littlejohn    NNP           (NP(NP*        -    -   -    Dan_Abrams   (PERSON)        *        *             *             *       (142
+bc/msnbc/00/msnbc_0002   4    5            's    POS                 *)       -    -   -    Dan_Abrams         *         *        *             *             *        142)
+bc/msnbc/00/msnbc_0002   4    6      attorney     NN                *))       -    -   -    Dan_Abrams         *         *        *             *)            *          3)
+bc/msnbc/00/msnbc_0002   4    7            on     IN              (PP*        -    -   -    Dan_Abrams         *         *        *    (ARGM-LOC*             *          -
+bc/msnbc/00/msnbc_0002   4    8          Rita    NNP           (NP(NP*        -    -   -    Dan_Abrams   (PERSON)        *   (ARG0*             *             *          -
+bc/msnbc/00/msnbc_0002   4    9            's    POS                 *)       -    -   -    Dan_Abrams         *         *        *)            *             *          -
+bc/msnbc/00/msnbc_0002   4   10          show     NN                *))     show  01   2    Dan_Abrams         *         *      (V*)            *)            *          -
+bc/msnbc/00/msnbc_0002   4   11            uh     UH            (INTJ*)       -    -   -    Dan_Abrams         *         *        *    (ARGM-DIS*)            *          -
+bc/msnbc/00/msnbc_0002   4   12          last     JJ              (NP*        -    -   -    Dan_Abrams         *         *        *    (ARGM-TMP*             *          -
+bc/msnbc/00/msnbc_0002   4   13         night     NN                 *)    night   -   1    Dan_Abrams         *         *        *             *)            *          -
+bc/msnbc/00/msnbc_0002   4   14        saying    VBG              (VP*       say  01   1    Dan_Abrams         *         *        *           (V*)            *          -
+bc/msnbc/00/msnbc_0002   4   15          that     IN            (SBAR*        -    -   -    Dan_Abrams         *         *        *        (ARG1*             *          -
+bc/msnbc/00/msnbc_0002   4   16           his   PRP$            (S(NP*        -    -   -    Dan_Abrams         *         *        *             *        (ARG0*    (142|(3)
+bc/msnbc/00/msnbc_0002   4   17        client     NN                 *)   client   -   1    Dan_Abrams         *         *        *             *             *)       142)
+bc/msnbc/00/msnbc_0002   4   18          took    VBD              (VP*      take  01   8    Dan_Abrams         *         *        *             *           (V*)         -
+bc/msnbc/00/msnbc_0002   4   19           the     DT              (NP*        -    -   -    Dan_Abrams         *         *        *             *        (ARG1*        (11
+bc/msnbc/00/msnbc_0002   4   20        subway     NN                 *)       -    -   -    Dan_Abrams         *         *        *             *             *)        11)
+bc/msnbc/00/msnbc_0002   4   21          home     RB            (ADVP*)       -    -   -    Dan_Abrams         *         *        *             *    (ARGM-DIR*)         -
+bc/msnbc/00/msnbc_0002   4   22          that     DT              (NP*        -    -   -    Dan_Abrams    (TIME*         *        *             *    (ARGM-TMP*       (127
+bc/msnbc/00/msnbc_0002   4   23         night     NN            *))))))    night   -   1    Dan_Abrams         *)        *)       *             *)            *)       127)
+bc/msnbc/00/msnbc_0002   4   24            /.      .                *))       -    -   -    Dan_Abrams         *         *        *             *             *          -
+
+bc/msnbc/00/msnbc_0002   4   0       So    RB   (TOP(SBARQ(ADVP*)      -    -   -    Rita_Cosby       *      *             *       -
+bc/msnbc/00/msnbc_0002   4   1      how   WRB           (WHADVP*)      -    -   -    Rita_Cosby       *      *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0002   4   2      did   VBD               (SQ*       do  01   -    Rita_Cosby       *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   4   3       he   PRP               (NP*)      -    -   -    Rita_Cosby       *      *        (ARG1*)   (142)
+bc/msnbc/00/msnbc_0002   4   4      get    VB               (VP*      get  05   4    Rita_Cosby       *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   5     home    RB             (ADVP*)      -    -   -    Rita_Cosby       *      *        (ARG2*)      -
+bc/msnbc/00/msnbc_0002   4   6     that    DT               (NP*       -    -   -    Rita_Cosby  (TIME*      *    (ARGM-TMP*    (127
+bc/msnbc/00/msnbc_0002   4   7    night    NN                *)))   night   -   1    Rita_Cosby       *)     *             *)    127)
+bc/msnbc/00/msnbc_0002   4   8       /?     .                 *))      -    -   -    Rita_Cosby       *      *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0              What   WDT  (TOP(SBARQ(WHNP*                -    -   -    Rita_Cosby  *      *             *       -
+bc/msnbc/00/msnbc_0002   4   1    transportation    NN                 *)   transportation   -   1    Rita_Cosby  *      *             *       -
+bc/msnbc/00/msnbc_0002   4   2               did   VBD              (SQ*                do  01   -    Rita_Cosby  *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   4   3                he   PRP              (NP*)               -    -   -    Rita_Cosby  *      *        (ARG1*)   (142)
+bc/msnbc/00/msnbc_0002   4   4               get    VB              (VP*               get  05   4    Rita_Cosby  *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   5              home    RB            (ADVP*)               -    -   -    Rita_Cosby  *      *        (ARG2*)      -
+bc/msnbc/00/msnbc_0002   4   6              with    IN            (PP*)))               -    -   -    Rita_Cosby  *      *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0002   4   7                /?     .                *))               -    -   -    Rita_Cosby  *      *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0        uh    UH   (TOP(S(INTJ*)     -    -   -    Kevin_O'Donnell  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   4   1        He   PRP           (NP*)     -    -   -    Kevin_O'Donnell  *        (ARG0*)   (142)
+bc/msnbc/00/msnbc_0002   4   2      took   VBD           (VP*    take  01   8    Kevin_O'Donnell  *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   3       the    DT           (NP*      -    -   -    Kevin_O'Donnell  *        (ARG1*     (11
+bc/msnbc/00/msnbc_0002   4   4    subway    NN             *))     -    -   -    Kevin_O'Donnell  *             *)     11)
+bc/msnbc/00/msnbc_0002   4   5        /.     .             *))     -    -   -    Kevin_O'Donnell  *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0        He   PRP   (TOP(S(NP*)     -    -   -    Rita_Cosby  *    (ARG0*)   (142)
+bc/msnbc/00/msnbc_0002   4   1      took   VBD         (VP*    take  01   8    Rita_Cosby  *       (V*)   (139)
+bc/msnbc/00/msnbc_0002   4   2       the    DT         (NP*      -    -   -    Rita_Cosby  *    (ARG1*     (11
+bc/msnbc/00/msnbc_0002   4   3    subway    NN           *))     -    -   -    Rita_Cosby  *         *)     11)
+bc/msnbc/00/msnbc_0002   4   4        /.     .           *))     -    -   -    Rita_Cosby  *         *       -
+
+bc/msnbc/00/msnbc_0002   4   0    Yes   UH  (TOP(INTJ*   -   -   -    Kevin_O'Donnell  *   -
+bc/msnbc/00/msnbc_0002   4   1     /.    .          *))  -   -   -    Kevin_O'Donnell  *   -
+
+bc/msnbc/00/msnbc_0002   4   0       And    CC  (TOP(SINV*        -    -   -    Rita_Cosby  *      *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   4   1        do   VBP           *        do  01   -    Rita_Cosby  *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   4   2        we   PRP        (NP*)       -    -   -    Rita_Cosby  *      *        (ARG0*)      -
+bc/msnbc/00/msnbc_0002   4   3      have    VB        (VP*      have  03   1    Rita_Cosby  *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   4         a    DT     (NP(NP*        -    -   -    Rita_Cosby  *      *        (ARG1*       -
+bc/msnbc/00/msnbc_0002   4   5    record    NN           *)   record   -   1    Rita_Cosby  *      *             *       -
+bc/msnbc/00/msnbc_0002   4   6        of    IN        (PP*        -    -   -    Rita_Cosby  *      *             *       -
+bc/msnbc/00/msnbc_0002   4   7      that    DT     (NP*))))       -    -   -    Rita_Cosby  *      *             *)   (139)
+bc/msnbc/00/msnbc_0002   4   8        /?     .          *))       -    -   -    Rita_Cosby  *      *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0         No    UH   (TOP(S(INTJ*)     -    -   -    Kevin_O'Donnell  *      *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   4   1         we   PRP           (NP*)     -    -   -    Kevin_O'Donnell  *      *        (ARG0*)      -
+bc/msnbc/00/msnbc_0002   4   2        're   VBP           (VP*      be  03   -    Kevin_O'Donnell  *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   4   3      still    RB         (ADVP*)     -    -   -    Kevin_O'Donnell  *      *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0002   4   4    looking   VBG           (VP*    look  01   1    Kevin_O'Donnell  *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   5       into    IN           (PP*      -    -   -    Kevin_O'Donnell  *      *        (ARG1*       -
+bc/msnbc/00/msnbc_0002   4   6       that    DT        (NP*))))     -    -   -    Kevin_O'Donnell  *      *             *)   (139)
+bc/msnbc/00/msnbc_0002   4   7         /.     .             *))     -    -   -    Kevin_O'Donnell  *      *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0     But    CC     (TOP(S*     -    -   -    Rita_Cosby  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   4   1      he   PRP        (NP*)    -    -   -    Rita_Cosby  *        (ARG0*)   (142)
+bc/msnbc/00/msnbc_0002   4   2    says   VBZ        (VP*    say  01   1    Rita_Cosby  *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   3    that    IN      (SBAR*     -    -   -    Rita_Cosby  *        (ARG1*       -
+bc/msnbc/00/msnbc_0002   4   4      he   PRP   (S(NP*))))    -    -   -    Rita_Cosby  *             *)   (142)
+bc/msnbc/00/msnbc_0002   4   5     /-      .          *))    -    -   -    Rita_Cosby  *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0        Did   VBD  (TOP(SQ*    do  01   -    Rita_Cosby  *    (V*)           *       -
+bc/msnbc/00/msnbc_0002   4   1         he   PRP      (NP*)   -    -   -    Rita_Cosby  *      *       (ARG0*)   (142)
+bc/msnbc/00/msnbc_0002   4   2         go    VB      (VP*    go  02   1    Rita_Cosby  *      *          (V*)      -
+bc/msnbc/00/msnbc_0002   4   3       with    IN      (PP*    -    -   -    Rita_Cosby  *      *   (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0002   4   4    anybody    NN    (NP*)))   -    -   -    Rita_Cosby  *      *            *)      -
+bc/msnbc/00/msnbc_0002   4   5         /?     .        *))   -    -   -    Rita_Cosby  *      *            *       -
+
+bc/msnbc/00/msnbc_0002   4    0        No    UH    (TOP(S(INTJ*)      -    -   -    Kevin_O'Donnell  *    (ARGM-DIS*)     *             *       -
+bc/msnbc/00/msnbc_0002   4    1        he   PRP            (NP*)      -    -   -    Kevin_O'Donnell  *        (ARG0*)     *             *    (142)
+bc/msnbc/00/msnbc_0002   4    2      went   VBD            (VP*       go  02   1    Kevin_O'Donnell  *           (V*)     *             *       -
+bc/msnbc/00/msnbc_0002   4    3      home    RB          (ADVP*)      -    -   -    Kevin_O'Donnell  *        (ARG4*)     *             *       -
+bc/msnbc/00/msnbc_0002   4    4     alone    RB          (ADVP*)      -    -   -    Kevin_O'Donnell  *    (ARGM-MNR*)     *             *       -
+bc/msnbc/00/msnbc_0002   4    5      just    RB     (SBAR(ADVP*)      -    -   -    Kevin_O'Donnell  *    (ARGM-MNR*      *             *       -
+bc/msnbc/00/msnbc_0002   4    6      like    IN               *       -    -   -    Kevin_O'Donnell  *             *      *             *       -
+bc/msnbc/00/msnbc_0002   4    7        he   PRP          (S(NP*)      -    -   -    Kevin_O'Donnell  *             *      *             *    (142)
+bc/msnbc/00/msnbc_0002   4    8      does   VBZ            (VP*       do  01   -    Kevin_O'Donnell  *             *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   4    9      just    RB   (VP(NP(NP(QP*       -    -   -    Kevin_O'Donnell  *             *      *             *       -
+bc/msnbc/00/msnbc_0002   4   10     about    RB               *       -    -   -    Kevin_O'Donnell  *             *      *             *       -
+bc/msnbc/00/msnbc_0002   4   11     every    DT               *)      -    -   -    Kevin_O'Donnell  *             *      *             *       -
+bc/msnbc/00/msnbc_0002   4   12     night    NN               *)   night   -   1    Kevin_O'Donnell  *             *      *             *       -
+bc/msnbc/00/msnbc_0002   4   13        uh    UH          (INTJ*)      -    -   -    Kevin_O'Donnell  *             *      *             *       -
+bc/msnbc/00/msnbc_0002   4   14      when   WRB   (SBAR(WHADVP*)      -    -   -    Kevin_O'Donnell  *             *      *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0002   4   15        he   PRP          (S(NP*)      -    -   -    Kevin_O'Donnell  *             *      *        (ARG0*)   (142)
+bc/msnbc/00/msnbc_0002   4   16    leaves   VBZ            (VP*    leave  01   1    Kevin_O'Donnell  *             *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   17      that    DT            (NP*       -    -   -    Kevin_O'Donnell  *             *      *        (ARG1*    (182
+bc/msnbc/00/msnbc_0002   4   18       bar    NN      *))))))))))     bar   -   1    Kevin_O'Donnell  *             *)     *             *)    182)
+bc/msnbc/00/msnbc_0002   4   19       /-      .              *))      -    -   -    Kevin_O'Donnell  *             *      *             *       -
+
+bc/msnbc/00/msnbc_0002   4    0       All    RB  (TOP(S(ADVP*       -    -    -    Dan_Abrams  *      *    (ARGM-DIS*        *      -
+bc/msnbc/00/msnbc_0002   4    1     right    RB             *)      -    -    -    Dan_Abrams  *      *             *)       *      -
+bc/msnbc/00/msnbc_0002   4    2       but    CC             *       -    -    -    Dan_Abrams  *      *             *        *      -
+bc/msnbc/00/msnbc_0002   4    3         I   PRP          (NP*)      -    -    -    Dan_Abrams  *      *        (ARG0*)       *    (22)
+bc/msnbc/00/msnbc_0002   4    4       've   VBP          (VP*     have  01   12    Dan_Abrams  *    (V*)            *        *      -
+bc/msnbc/00/msnbc_0002   4    5      only    RB        (ADVP*)      -    -    -    Dan_Abrams  *      *    (ARGM-ADV*)       *      -
+bc/msnbc/00/msnbc_0002   4    6       got   VBN          (VP*      get  02    1    Dan_Abrams  *      *           (V*)       *      -
+bc/msnbc/00/msnbc_0002   4    7         a    DT       (NP(NP*       -    -    -    Dan_Abrams  *      *        (ARG1*   (ARG1*      -
+bc/msnbc/00/msnbc_0002   4    8    little    JJ             *       -    -    -    Dan_Abrams  *      *             *        *      -
+bc/msnbc/00/msnbc_0002   4    9      time    NN             *)    time   -    3    Dan_Abrams  *      *             *        *)     -
+bc/msnbc/00/msnbc_0002   4   10      left   VBN       (VP*))))   leave  06    -    Dan_Abrams  *      *             *)     (V*)     -
+bc/msnbc/00/msnbc_0002   4   11        /.     .            *))      -    -    -    Dan_Abrams  *      *             *        *      -
+
+bc/msnbc/00/msnbc_0002   4    0        and    CC        (TOP(S*       -    -   -    Dan_Abrams  *    (ARGM-DIS*)        *         *      -
+bc/msnbc/00/msnbc_0002   4    1      there    EX           (NP*)      -    -   -    Dan_Abrams  *             *         *         *      -
+bc/msnbc/00/msnbc_0002   4    2         's   VBZ           (VP*       be  02   3    Dan_Abrams  *           (V*)        *         *      -
+bc/msnbc/00/msnbc_0002   4    3    another    DT        (NP(NP*       -    -   -    Dan_Abrams  *        (ARG1*         *         *   (107
+bc/msnbc/00/msnbc_0002   4    4      issue    NN              *)   issue   -   1    Dan_Abrams  *             *         *         *      -
+bc/msnbc/00/msnbc_0002   4    5          I   PRP    (SBAR(S(NP*)      -    -   -    Dan_Abrams  *             *    (ARG0*)   (ARG0*)   (22)
+bc/msnbc/00/msnbc_0002   4    6       want   VBP           (VP*     want  01   1    Dan_Abrams  *             *       (V*)        *      -
+bc/msnbc/00/msnbc_0002   4    7         to    TO         (S(VP*       -    -   -    Dan_Abrams  *             *    (ARG1*         *      -
+bc/msnbc/00/msnbc_0002   4    8       talk    VB           (VP*     talk  01   1    Dan_Abrams  *             *         *       (V*)     -
+bc/msnbc/00/msnbc_0002   4    9      about    IN   (PP*)))))))))      -    -   -    Dan_Abrams  *             *)        *)   (ARG1*)   107)
+bc/msnbc/00/msnbc_0002   4   10         /.     .             *))      -    -   -    Dan_Abrams  *             *         *         *      -
+
+bc/msnbc/00/msnbc_0002   4   0     And    CC  (TOP(S*    -    -   -    Dan_Abrams  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   4   1    that    DT     (NP*)   -    -   -    Dan_Abrams  *        (ARG1*)   (107)
+bc/msnbc/00/msnbc_0002   4   2      is   VBZ     (VP*    be  01   2    Dan_Abrams  *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   3    that    IN   (SBAR*    -    -   -    Dan_Abrams  *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   4   4     the    DT   (S(NP*    -    -   -    Dan_Abrams  *             *     (90
+bc/msnbc/00/msnbc_0002   4   5      DA    NN     *))))   -    -   -    Dan_Abrams  *             *)     90)
+bc/msnbc/00/msnbc_0002   4   6     /-      .       *))   -    -   -    Dan_Abrams  *             *       -
+
+bc/msnbc/00/msnbc_0002   4    0       There    EX            (TOP(S(NP*)         -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    1          's   VBZ                  (VP*          be  03   -    Dan_Abrams  *    (V*)       *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    2        been   VBN                  (VP*          be  02   3    Dan_Abrams  *      *      (V*)       *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    3           a    DT               (NP(NP*          -    -   -    Dan_Abrams  *      *   (ARG1*        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    4         lot    NN                     *)        lot   -   1    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    5          of    IN                  (PP*          -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    6    question    NN               (NP(NP*)   question  01   1    Dan_Abrams  *      *        *      (V*)     *             *            *          -
+bc/msnbc/00/msnbc_0002   4    7       about    IN                  (PP*          -    -   -    Dan_Abrams  *      *        *   (ARG1*      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    8          uh    UH                (INTJ*)         -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4    9         the    DT            (NP(NP(NP*          -    -   -    Dan_Abrams  *      *        *        *      *             *            *        (56
+bc/msnbc/00/msnbc_0002   4   10     manager    NN                     *)    manager   -   1    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4   11          of    IN                  (PP*          -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4   12         the    DT                  (NP*          -    -   -    Dan_Abrams  *      *        *        *      *             *            *       (182
+bc/msnbc/00/msnbc_0002   4   13         bar    NN                   *)))        bar   -   1    Dan_Abrams  *      *        *        *      *             *            *    182)|56)
+bc/msnbc/00/msnbc_0002   4   14         and    CC                     *          -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4   15         the    DT                  (NP*          -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4   16        fact    NN                     *        fact   -   2    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4   17        that    IN                (SBAR*          -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4   18          he   PRP                (S(NP*)         -    -   -    Dan_Abrams  *      *        *        *      *        (ARG1*)           *        (56)
+bc/msnbc/00/msnbc_0002   4   19         may    MD                  (VP*          -    -   -    Dan_Abrams  *      *        *        *      *    (ARGM-MOD*)           *          -
+bc/msnbc/00/msnbc_0002   4   20         not    RB                     *          -    -   -    Dan_Abrams  *      *        *        *      *    (ARGM-NEG*)           *          -
+bc/msnbc/00/msnbc_0002   4   21        have    VB                  (VP*        have  01   -    Dan_Abrams  *      *        *        *    (V*)            *            *          -
+bc/msnbc/00/msnbc_0002   4   22        come   VBN                  (VP*        come  04   3    Dan_Abrams  *      *        *        *      *           (V*)           *          -
+bc/msnbc/00/msnbc_0002   4   23       clean    JJ                (ADJP*          -    -   -    Dan_Abrams  *      *        *        *      *        (ARG2*            *          -
+bc/msnbc/00/msnbc_0002   4   24       about    IN                  (PP*          -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+bc/msnbc/00/msnbc_0002   4   25        what    WP           (SBAR(WHNP*)         -    -   -    Dan_Abrams  *      *        *        *      *             *       (ARG1*)         -
+bc/msnbc/00/msnbc_0002   4   26          he   PRP                (S(NP*)         -    -   -    Dan_Abrams  *      *        *        *      *             *       (ARG0*)       (56)
+bc/msnbc/00/msnbc_0002   4   27        knew   VBD                  (VP*        know  01   1    Dan_Abrams  *      *        *        *      *             *          (V*)         -
+bc/msnbc/00/msnbc_0002   4   28       early    RB                (ADVP*          -    -   -    Dan_Abrams  *      *        *        *      *             *   (ARGM-TMP*          -
+bc/msnbc/00/msnbc_0002   4   29          on    RB   *)))))))))))))))))))         -    -   -    Dan_Abrams  *      *        *)       *)     *             *)           *)         -
+bc/msnbc/00/msnbc_0002   4   30          /.     .                    *))         -    -   -    Dan_Abrams  *      *        *        *      *             *            *          -
+
+bc/msnbc/00/msnbc_0002   4    0              A    DT  (TOP(FRAG(NP(NP*             -    -   -    Dan_Abrams  *        (ARG0*             *             *      *      -
+bc/msnbc/00/msnbc_0002   4    1            lot    NN                 *)           lot   -   1    Dan_Abrams  *             *             *             *      *      -
+bc/msnbc/00/msnbc_0002   4    2             of    IN              (PP*             -    -   -    Dan_Abrams  *             *             *             *      *      -
+bc/msnbc/00/msnbc_0002   4    3         people   NNS            (NP*)))        people   -   1    Dan_Abrams  *             *)            *             *      *      -
+bc/msnbc/00/msnbc_0002   4    4         saying   VBG              (VP*            say  01   1    Dan_Abrams  *           (V*)            *             *      *      -
+bc/msnbc/00/msnbc_0002   4    5             uh    UH            (INTJ*)            -    -   -    Dan_Abrams  *    (ARGM-DIS*)            *             *      *      -
+bc/msnbc/00/msnbc_0002   4    6           that    IN            (SBAR*             -    -   -    Dan_Abrams  *        (ARG1*             *             *      *      -
+bc/msnbc/00/msnbc_0002   4    7             he   PRP          (S(S(NP*)            -    -   -    Dan_Abrams  *             *        (ARG0*)            *      *    (56)
+bc/msnbc/00/msnbc_0002   4    8       actually    RB            (ADVP*)            -    -   -    Dan_Abrams  *             *    (ARGM-ADV*)            *      *      -
+bc/msnbc/00/msnbc_0002   4    9         misled   VBD              (VP*        mislead  01   2    Dan_Abrams  *             *           (V*)            *      *    (15)
+bc/msnbc/00/msnbc_0002   4   10            the    DT              (NP*             -    -   -    Dan_Abrams  *             *        (ARG1*             *      *      -
+bc/msnbc/00/msnbc_0002   4   11    authorities   NNS               *)))     authority   -   3    Dan_Abrams  *             *             *)            *      *      -
+bc/msnbc/00/msnbc_0002   4   12            and    CC                 *             -    -   -    Dan_Abrams  *             *             *             *      *      -
+bc/msnbc/00/msnbc_0002   4   13           that    DT            (S(NP*)            -    -   -    Dan_Abrams  *             *             *        (ARG0*)     *    (15)
+bc/msnbc/00/msnbc_0002   4   14          could    MD              (VP*             -    -   -    Dan_Abrams  *             *             *    (ARGM-MOD*)     *      -
+bc/msnbc/00/msnbc_0002   4   15           lead    VB              (VP*           lead  03   1    Dan_Abrams  *             *             *           (V*)     *      -
+bc/msnbc/00/msnbc_0002   4   16             to    IN              (PP*             -    -   -    Dan_Abrams  *             *             *        (ARG2*      *      -
+bc/msnbc/00/msnbc_0002   4   17    prosecution    NN       (NP*))))))))   prosecution  01   1    Dan_Abrams  *             *)            *             *)   (V*)     -
+bc/msnbc/00/msnbc_0002   4   18             /.     .                *))            -    -   -    Dan_Abrams  *             *             *             *      *      -
+
+bc/msnbc/00/msnbc_0002   4    0     Well    UH       (TOP(S(INTJ*)      -    -   -    Dan_Abrams       *    (ARGM-DIS*)     *             *          *             *      -
+bc/msnbc/00/msnbc_0002   4    1       it   PRP               (NP*)      -    -   -    Dan_Abrams       *             *      *             *          *             *      -
+bc/msnbc/00/msnbc_0002   4    2    seems   VBZ               (VP*     seem  01   1    Dan_Abrams       *           (V*)     *             *          *             *      -
+bc/msnbc/00/msnbc_0002   4    3     like    IN           (S(SBAR*       -    -   -    Dan_Abrams       *        (ARG1*      *             *          *             *      -
+bc/msnbc/00/msnbc_0002   4    4      the    DT             (S(NP*       -    -   -    Dan_Abrams       *             *      *        (ARG1*   (R-ARG0*             *    (90
+bc/msnbc/00/msnbc_0002   4    5       DA    NN                  *)      -    -   -    Dan_Abrams       *             *      *             *)         *)            *     90)
+bc/msnbc/00/msnbc_0002   4    6      did   VBD               (VP*       do  01   -    Dan_Abrams       *             *    (V*)            *          *             *      -
+bc/msnbc/00/msnbc_0002   4    7      n't    RB                  *       -    -   -    Dan_Abrams       *             *      *    (ARGM-NEG*)         *             *      -
+bc/msnbc/00/msnbc_0002   4    8     seem    VB               (VP*     seem  01   1    Dan_Abrams       *             *      *           (V*)         *             *      -
+bc/msnbc/00/msnbc_0002   4    9       to    TO             (S(VP*       -    -   -    Dan_Abrams       *             *      *      (C-ARG1*   (R-ARG0*             *      -
+bc/msnbc/00/msnbc_0002   4   10    think    VB               (VP*    think  01   1    Dan_Abrams       *             *      *             *        (V*)            *      -
+bc/msnbc/00/msnbc_0002   4   11     that    DT        (SBAR(S(NP*)      -    -   -    Dan_Abrams       *             *      *             *     (ARG1*        (ARG1*)   (15)
+bc/msnbc/00/msnbc_0002   4   12      was   VBD               (VP*       be  01   1    Dan_Abrams       *             *      *             *          *           (V*)     -
+bc/msnbc/00/msnbc_0002   4   13     that    RB          (PP(ADJP*       -    -   -    Dan_Abrams       *             *      *             *          *        (ARG2*      -
+bc/msnbc/00/msnbc_0002   4   14      big    JJ                  *)      -    -   -    Dan_Abrams       *             *      *             *          *             *      -
+bc/msnbc/00/msnbc_0002   4   15        a    DT                  *       -    -   -    Dan_Abrams       *             *      *             *          *             *      -
+bc/msnbc/00/msnbc_0002   4   16     deal    NN                  *)    deal   -   8    Dan_Abrams       *             *      *             *          *             *)     -
+bc/msnbc/00/msnbc_0002   4   17    today    NN   (NP*)))))))))))))   today   -   1    Dan_Abrams   (DATE)            *)     *             *)        *))   (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0002   4   18       /.     .                 *))      -    -   -    Dan_Abrams       *             *      *             *          *             *      -
+
+bc/msnbc/00/msnbc_0002   4   0            Will    MD    (TOP(SQ*             -    -   -   speaker13   *      *    (ARGM-MOD*)  -
+bc/msnbc/00/msnbc_0002   4   1          anyone    NN        (NP*)            -    -   -   speaker13   *      *        (ARG1*)  -
+bc/msnbc/00/msnbc_0002   4   2              be    VB        (VP*             be  03   -   speaker13   *    (V*)            *   -
+bc/msnbc/00/msnbc_0002   4   3    investigated   VBN        (VP*    investigate  01   1   speaker13   *      *           (V*)  -
+bc/msnbc/00/msnbc_0002   4   4             for    IN        (PP*             -    -   -   speaker13   *      *        (ARG2*   -
+bc/msnbc/00/msnbc_0002   4   5     obstruction    NN     (NP(NP*)   obstruction   -   2   speaker13   *      *             *   -
+bc/msnbc/00/msnbc_0002   4   6              of    IN        (PP*             -    -   -   speaker13   *      *             *   -
+bc/msnbc/00/msnbc_0002   4   7         justice    NN   (NP*))))))            -    -   -   speaker13   *      *             *)  -
+bc/msnbc/00/msnbc_0002   4   8              /?     .          *))            -    -   -   speaker13   *      *             *   -
+
+bc/msnbc/00/msnbc_0002   4   0        Has   VBZ   (TOP(SQ*       have  01   12   speaker13          *    (V*)     *             *        *     -
+bc/msnbc/00/msnbc_0002   4   1      Danny   NNP       (NP*         -    -    -   speaker13   (PERSON*      *      *        (ARG1*   (ARG0*   (56
+bc/msnbc/00/msnbc_0002   4   2     Dorian   NNP          *)        -    -    -   speaker13          *)     *      *             *)       *)   56)
+bc/msnbc/00/msnbc_0002   4   3       been   VBN       (VP*         be  03    -   speaker13          *      *    (V*)            *        *     -
+bc/msnbc/00/msnbc_0002   4   4     called   VBN       (VP*       call  04    2   speaker13          *      *      *           (V*)       *     -
+bc/msnbc/00/msnbc_0002   4   5         in    RP      (PRT*)        -    -    -   speaker13          *      *      *             *        *     -
+bc/msnbc/00/msnbc_0002   4   6         to    TO     (S(VP*         -    -    -   speaker13          *      *      *    (ARGM-PRP*        *     -
+bc/msnbc/00/msnbc_0002   4   7    witness    VB     (VP*)))   witness  01    4   speaker13          *      *      *             *)     (V*)    -
+bc/msnbc/00/msnbc_0002   4   8        yet    RB   (ADVP*)))        -    -    -   speaker13          *      *      *    (ARGM-TMP*)       *     -
+bc/msnbc/00/msnbc_0002   4   9         /?     .         *))        -    -    -   speaker13          *      *      *             *        *     -
+
+bc/msnbc/00/msnbc_0002   4   0               uh    UH   (TOP(S(INTJ*)              -    -   -    Ray_Kelly  *      *    (ARGM-DIS*)    -
+bc/msnbc/00/msnbc_0002   4   1              The    DT           (NP*               -    -   -    Ray_Kelly  *      *        (ARG1*   (61
+bc/msnbc/00/msnbc_0002   4   2    investigation    NN              *)   investigation   -   1    Ray_Kelly  *      *             *)   61)
+bc/msnbc/00/msnbc_0002   4   3               uh    UH         (INTJ*)              -    -   -    Ray_Kelly  *      *    (ARGM-DIS*)    -
+bc/msnbc/00/msnbc_0002   4   4               is   VBZ           (VP*               be  03   -    Ray_Kelly  *    (V*)            *     -
+bc/msnbc/00/msnbc_0002   4   5        certainly    RB         (ADVP*)              -    -   -    Ray_Kelly  *      *    (ARGM-ADV*)    -
+bc/msnbc/00/msnbc_0002   4   6            still    RB         (ADVP*)              -    -   -    Ray_Kelly  *      *    (ARGM-TMP*)    -
+bc/msnbc/00/msnbc_0002   4   7            going   VBG           (VP*               go  01   1    Ray_Kelly  *      *           (V*)    -
+bc/msnbc/00/msnbc_0002   4   8          forward    RB       (ADVP*)))              -    -   -    Ray_Kelly  *      *    (ARGM-DIR*)    -
+bc/msnbc/00/msnbc_0002   4   9               /.     .             *))              -    -   -    Ray_Kelly  *      *             *     -
+
+bc/msnbc/00/msnbc_0002   4    0              How   WRB   (TOP(SBARQ(WHADVP*)              -    -   -   speaker13   *      *    (ARGM-MNR*)       *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    1             were   VBD                 (SQ*               be  03   -   speaker13   *    (V*)            *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    2              you   PRP                 (NP*)              -    -   -   speaker13   *      *        (ARG1*)       *           *      *           *       (185)
+bc/msnbc/00/msnbc_0002   4    3       personally    RB               (ADVP*)              -    -   -   speaker13   *      *    (ARGM-MNR*)       *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    4         affected   VBN                 (VP*           affect  01   1   speaker13   *      *           (V*)       *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    5               by    IN                 (PP*               -    -   -   speaker13   *      *        (ARG2*        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    6              the    DT                 (NP*               -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    7             fact    NN                    *             fact   -   2   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    8             that    IN               (SBAR*               -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4    9            there    EX               (S(NP*)              -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   10             were   VBD                 (VP*               be  02   3   speaker13   *      *             *      (V*)          *      *           *          -
+bc/msnbc/00/msnbc_0002   4   11         citizens   NNS        (NP(NP(NP(NP*)              -    -   -   speaker13   *      *             *   (ARG1*      (ARG0*      *      (ARG0*       (120
+bc/msnbc/00/msnbc_0002   4   12               of    IN                 (PP*               -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   13             this    DT                 (NP*               -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   14             city    NN                  *)))            city   -   1   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   15             some    DT          (PRN(NP(NP*)              -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   16               of    IN                 (PP*               -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   17             them   PRP               (NP*)))              -    -   -   speaker13   *      *             *        *           *      *           *       (120)
+bc/msnbc/00/msnbc_0002   4   18       relatively    RB               (ADJP*               -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   19        prominent    JJ                  *)))              -    -   -   speaker13   *      *             *        *           *)     *           *)         -
+bc/msnbc/00/msnbc_0002   4   20              who    WP          (SBAR(WHNP*)              -    -   -   speaker13   *      *             *        *    (R-ARG0*)     *    (R-ARG0*)         -
+bc/msnbc/00/msnbc_0002   4   21             told   VBD            (S(VP(VP*             tell  01   1   speaker13   *      *             *        *         (V*)     *           *          -
+bc/msnbc/00/msnbc_0002   4   22             cops   NNS                 (NP*)             cop   -   -   speaker13   *      *             *        *      (ARG2*)     *           *          -
+bc/msnbc/00/msnbc_0002   4   23             lies   NNS                (NP*))             lie  01   1   speaker13   *      *             *        *      (ARG1*)   (V*)          *          -
+bc/msnbc/00/msnbc_0002   4   24              and    CC                    *               -    -   -   speaker13   *      *             *        *           *      *           *          -
+bc/msnbc/00/msnbc_0002   4   25        misleaded   VBD                 (VP*          mislead  01   -   speaker13   *      *             *        *           *      *         (V*)         -
+bc/msnbc/00/msnbc_0002   4   26             this    DT                 (NP*               -    -   -   speaker13   *      *             *        *           *      *      (ARG1*        (61
+bc/msnbc/00/msnbc_0002   4   27    investigation    NN        *)))))))))))))   investigation   -   1   speaker13   *      *             *)       *)          *      *           *)   120)|61)
+bc/msnbc/00/msnbc_0002   4   28               /?     .                   *))              -    -   -   speaker13   *      *             *        *           *      *           *          -
+
+bc/msnbc/00/msnbc_0002   4   0        Oh    UH   (TOP(S(INTJ*)     -    -    -    Ray_Kelly  *      *      *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   4   1         I   PRP           (NP*)     -    -    -    Ray_Kelly  *      *      *             *    (185)
+bc/msnbc/00/msnbc_0002   4   2       've   VBP           (VP*    have  01   12    Ray_Kelly  *    (V*)     *             *       -
+bc/msnbc/00/msnbc_0002   4   3      been   VBN           (VP*      be  03    -    Ray_Kelly  *      *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   4   4      lied   VBN           (VP*     lie  02    2    Ray_Kelly  *      *      *           (V*)    (54)
+bc/msnbc/00/msnbc_0002   4   5        to    IN           (PP*)     -    -    -    Ray_Kelly  *      *      *        (ARG2*)      -
+bc/msnbc/00/msnbc_0002   4   6    before    RB      (ADVP*))))     -    -    -    Ray_Kelly  *      *      *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0002   4   7        /.     .             *))     -    -    -    Ray_Kelly  *      *      *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0       And    CC   (TOP(S*      -    -       -    Ray_Kelly  *      *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   4   1         I   PRP      (NP*)     -    -       -    Ray_Kelly  *      *        (ARG1*)   (185)
+bc/msnbc/00/msnbc_0002   4   2       've   VBP      (VP*    have  01      12    Ray_Kelly  *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   4   3    gotten   VBN      (VP*     get  05   11.31    Ray_Kelly  *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   4      over    IN      (PP*      -    -       -    Ray_Kelly  *      *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   4   5        it   PRP   (NP*))))     -    -       -    Ray_Kelly  *      *             *)    (54)
+bc/msnbc/00/msnbc_0002   4   6        /.     .        *))     -    -       -    Ray_Kelly  *      *             *       -
+
+bc/msnbc/00/msnbc_0002   4   0      Will    MD  (TOP(SQ*        -    -   -   speaker13   *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0002   4   1       you   PRP      (NP*)       -    -   -   speaker13   *        (ARG0*)   (185)
+bc/msnbc/00/msnbc_0002   4   2    indict    VB      (VP*    indict  01   1   speaker13   *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   3       him   PRP      (NP*)       -    -   -   speaker13   *        (ARG1*)    (56)
+bc/msnbc/00/msnbc_0002   4   4    though    RB   (ADVP*))       -    -   -   speaker13   *    (ARGM-ADV*)      -
+bc/msnbc/00/msnbc_0002   4   5        /?     .         *        -    -   -   speaker13   *             *       -
+bc/msnbc/00/msnbc_0002   4   6        /.     .        *))       -    -   -   speaker13   *             *       -
+
+bc/msnbc/00/msnbc_0002   4    0         You   PRP   (TOP(S(PRN(S(NP*)         -    -   -    Ray_Kelly  *    (ARG0*)            *   (ARGM-DIS*             *       -
+bc/msnbc/00/msnbc_0002   4    1        know   VBP             (VP*)))       know  01   1    Ray_Kelly  *       (V*)            *            *)            *       -
+bc/msnbc/00/msnbc_0002   4    2        when   WRB      (SBAR(WHADVP*)         -    -   -    Ray_Kelly  *         *    (ARGM-TMP*)  (ARGM-TMP*             *       -
+bc/msnbc/00/msnbc_0002   4    3        that    DT             (S(NP*)         -    -   -    Ray_Kelly  *         *        (ARG1*)           *             *       -
+bc/msnbc/00/msnbc_0002   4    4     becomes   VBZ               (VP*      become  01   1    Ray_Kelly  *         *           (V*)           *             *       -
+bc/msnbc/00/msnbc_0002   4    5           a    DT               (NP*          -    -   -    Ray_Kelly  *         *        (ARG2*            *             *       -
+bc/msnbc/00/msnbc_0002   4    6       crime    NN               *))))      crime   -   1    Ray_Kelly  *         *             *)           *)            *       -
+bc/msnbc/00/msnbc_0002   4    7           I   PRP               (NP*)         -    -   -    Ray_Kelly  *         *             *       (ARG0*)            *    (185)
+bc/msnbc/00/msnbc_0002   4    8       think   VBP               (VP*       think  01   1    Ray_Kelly  *         *             *          (V*)            *       -
+bc/msnbc/00/msnbc_0002   4    9          we   PRP        (SBAR(S(NP*)         -    -   -    Ray_Kelly  *         *             *       (ARG1*        (ARG1*)      -
+bc/msnbc/00/msnbc_0002   4   10      should    MD               (VP*          -    -   -    Ray_Kelly  *         *             *            *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0002   4   11         all    DT                  *          -    -   -    Ray_Kelly  *         *             *            *             *       -
+bc/msnbc/00/msnbc_0002   4   12         get    VB               (VP*         get  05   3    Ray_Kelly  *         *             *            *           (V*)      -
+bc/msnbc/00/msnbc_0002   4   13         out    IN               (PP*          -    -   -    Ray_Kelly  *         *             *            *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   4   14          of    IN               (PP*          -    -   -    Ray_Kelly  *         *             *            *             *       -
+bc/msnbc/00/msnbc_0002   4   15        this    DT               (NP*          -    -   -    Ray_Kelly  *         *             *            *             *       -
+bc/msnbc/00/msnbc_0002   4   16    business    NN           *))))))))   business   -   5    Ray_Kelly  *         *             *            *)            *)      -
+bc/msnbc/00/msnbc_0002   4   17          /.     .                 *))         -    -   -    Ray_Kelly  *         *             *            *             *       -

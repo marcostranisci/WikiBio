@@ -1,0 +1,721 @@
+bc/cnn/00/cnn_0002   14    0             Back    RB  (TOP(FRAG(ADVP*        -    -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14    1               to    IN             (PP*        -    -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14    2        Jacksboro   NNP       (NP(NP(NP*)       -    -   -    Anderson_Cooper    (GPE)     (ARGM-LOC*             *           -
+bc/cnn/00/cnn_0002   14    3        Tennessee   NNP         (NP*)))))       -    -   -    Anderson_Cooper    (GPE)              *)            *           -
+bc/cnn/00/cnn_0002   14    4              now    RB           (ADVP*)       -    -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14    5            where   WRB    (SBAR(WHADVP*)       -    -   -    Anderson_Cooper       *    (R-ARGM-LOC*)            *           -
+bc/cnn/00/cnn_0002   14    6          tonight    NN           (S(NP*)       -    -   -    Anderson_Cooper   (TIME)     (ARGM-TMP*)            *         (96)
+bc/cnn/00/cnn_0002   14    7         Campbell   NNP      (NP(NP(NML*        -    -   -    Anderson_Cooper   (FAC*          (ARG1*             *         (78
+bc/cnn/00/cnn_0002   14    8           County   NNP                *)       -    -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14    9    Comprehensive   NNP                *        -    -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14   10             High   NNP                *        -    -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14   11           School   NNP               *))       -    -   -    Anderson_Cooper       *)              *)            *          78)
+bc/cnn/00/cnn_0002   14   12               is   VBZ             (VP*        be  01   1    Anderson_Cooper       *             (V*)            *           -
+bc/cnn/00/cnn_0002   14   13                a    DT             (NP*        -    -   -    Anderson_Cooper       *          (ARG2*             *           -
+bc/cnn/00/cnn_0002   14   14            crime    NN                *     crime   -   1    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14   15            scene    NN                *)       -    -   -    Anderson_Cooper       *               *)            *           -
+bc/cnn/00/cnn_0002   14   16              the    DT          (NP(NP*        -    -   -    Anderson_Cooper       *        (C-ARG1*             *         (78
+bc/cnn/00/cnn_0002   14   17             site    NN                *)     site   -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14   18               of    IN             (PP*        -    -   -    Anderson_Cooper       *               *             *           -
+bc/cnn/00/cnn_0002   14   19            today    NN          (NP(NP*     today   -   2    Anderson_Cooper       *               *    (ARGM-TMP*   (154|(215
+bc/cnn/00/cnn_0002   14   20               's   POS                *)       -    -   -    Anderson_Cooper       *               *             *)        215)
+bc/cnn/00/cnn_0002   14   21           deadly    JJ                *        -    -   -    Anderson_Cooper       *               *    (ARGM-ADJ*)          -
+bc/cnn/00/cnn_0002   14   22           school    NN                *    school   -   2    Anderson_Cooper       *               *    (ARGM-LOC*)          -
+bc/cnn/00/cnn_0002   14   23         shooting    NN           *))))))    shoot  01   2    Anderson_Cooper       *               *)          (V*)    154)|78)
+bc/cnn/00/cnn_0002   14   24               /.     .               *))       -    -   -    Anderson_Cooper       *               *             *           -
+
+bc/cnn/00/cnn_0002   14    0              CNN   NNP  (TOP(S(NP(NP*               -    -   -    Anderson_Cooper      (ORG)   (ARG0*   (64
+bc/cnn/00/cnn_0002   14    1               's   POS              *)              -    -   -    Anderson_Cooper         *         *     -
+bc/cnn/00/cnn_0002   14    2            David   NNP              *               -    -   -    Anderson_Cooper  (PERSON*         *     -
+bc/cnn/00/cnn_0002   14    3        Mattingly   NNP              *)              -    -   -    Anderson_Cooper         *)        *)   64)
+bc/cnn/00/cnn_0002   14    4            joins   VBZ           (VP*             join  04   4    Anderson_Cooper         *       (V*)    -
+bc/cnn/00/cnn_0002   14    5               us   PRP           (NP*)              -    -   -    Anderson_Cooper         *    (ARG1*)    -
+bc/cnn/00/cnn_0002   14    6             with    IN           (PP*               -    -   -    Anderson_Cooper         *    (ARG2*     -
+bc/cnn/00/cnn_0002   14    7              the    DT        (NP(NP*               -    -   -    Anderson_Cooper         *         *     -
+bc/cnn/00/cnn_0002   14    8           latest   JJS              *)              -    -   -    Anderson_Cooper         *         *     -
+bc/cnn/00/cnn_0002   14    9               on    IN           (PP*               -    -   -    Anderson_Cooper         *         *     -
+bc/cnn/00/cnn_0002   14   10              the    DT           (NP*               -    -   -    Anderson_Cooper         *         *   (87
+bc/cnn/00/cnn_0002   14   11    investigation    NN          *)))))   investigation   -   1    Anderson_Cooper         *         *)   87)
+bc/cnn/00/cnn_0002   14   12               /.     .             *))              -    -   -    Anderson_Cooper         *         *     -
+
+bc/cnn/00/cnn_0002   14   0    David   NNP  (TOP(NP*   -   -   -    Anderson_Cooper   (PERSON)  (64
+bc/cnn/00/cnn_0002   14   1       /?     .        *))  -   -   -    Anderson_Cooper         *    64)
+
+bc/cnn/00/cnn_0002   14   0       Anderson   NNP   (TOP(FRAG(NP*)            -   -   -    David_Mattingly   (PERSON)   (77)
+bc/cnn/00/cnn_0002   14   1           some    DT         (NP(NP*             -   -   -    David_Mattingly         *      -
+bc/cnn/00/cnn_0002   14   2            new    JJ               *             -   -   -    David_Mattingly         *      -
+bc/cnn/00/cnn_0002   14   3    information    NN               *)   information  -   1    David_Mattingly         *      -
+bc/cnn/00/cnn_0002   14   4            for    IN            (PP*             -   -   -    David_Mattingly         *      -
+bc/cnn/00/cnn_0002   14   5            you   PRP           (NP*))            -   -   -    David_Mattingly         *    (77)
+bc/cnn/00/cnn_0002   14   6             at    IN            (PP*             -   -   -    David_Mattingly         *      -
+bc/cnn/00/cnn_0002   14   7           this    DT            (NP*             -   -   -    David_Mattingly    (TIME*   (183
+bc/cnn/00/cnn_0002   14   8           hour    NN             *)))          hour  -   2    David_Mattingly         *)   183)
+bc/cnn/00/cnn_0002   14   9             /.     .              *))            -   -   -    David_Mattingly         *      -
+
+bc/cnn/00/cnn_0002   14    0           We   PRP      (TOP(S(NP*)     -    -   -    David_Mattingly         *      *    (ARG0*)           *    (107)
+bc/cnn/00/cnn_0002   14    1          're   VBP            (VP*      be  03   -    David_Mattingly         *    (V*)        *            *       -
+bc/cnn/00/cnn_0002   14    2      hearing   VBG            (VP*    hear  01   1    David_Mattingly         *      *       (V*)           *       -
+bc/cnn/00/cnn_0002   14    3         from    IN            (PP*      -    -   -    David_Mattingly         *      *    (ARG2*            *       -
+bc/cnn/00/cnn_0002   14    4    Knoxville   NNP           (NP*))     -    -   -    David_Mattingly      (GPE)     *         *)           *       -
+bc/cnn/00/cnn_0002   14    5          the    DT     (SBAR(S(NP*      -    -   -    David_Mattingly         *      *    (ARG1*       (ARG1*    (124
+bc/cnn/00/cnn_0002   14    6    principal    NN   (NML(NML(NML*)     -    -   -    David_Mattingly         *      *         *            *       -
+bc/cnn/00/cnn_0002   14    7         Gary   NNP           (NML*      -    -   -    David_Mattingly  (PERSON*      *         *            *       -
+bc/cnn/00/cnn_0002   14    8         Seal   NNP              *))     -    -   -    David_Mattingly         *)     *         *            *       -
+bc/cnn/00/cnn_0002   14    9          and    CC               *      -    -   -    David_Mattingly         *      *         *            *       -
+bc/cnn/00/cnn_0002   14   10    assistant    JJ       (NML(NML*      -    -   -    David_Mattingly         *      *         *            *       -
+bc/cnn/00/cnn_0002   14   11    principal    NN               *)     -    -   -    David_Mattingly         *      *         *            *       -
+bc/cnn/00/cnn_0002   14   12          Jim   NNP           (NML*      -    -   -    David_Mattingly  (PERSON*      *         *            *       -
+bc/cnn/00/cnn_0002   14   13       Pierce   NNP            *))))     -    -   -    David_Mattingly         *)     *         *            *)    124)
+bc/cnn/00/cnn_0002   14   14          are   VBP            (VP*      be  01   4    David_Mattingly         *      *         *          (V*)      -
+bc/cnn/00/cnn_0002   14   15         both    DT               *      -    -   -    David_Mattingly         *      *         *            *       -
+bc/cnn/00/cnn_0002   14   16          out    IN            (PP*      -    -   -    David_Mattingly         *      *         *       (ARG2*       -
+bc/cnn/00/cnn_0002   14   17           of    IN            (PP*      -    -   -    David_Mattingly         *      *         *            *       -
+bc/cnn/00/cnn_0002   14   18      surgery    NN          (NP*)))     -    -   -    David_Mattingly         *      *         *            *)      -
+bc/cnn/00/cnn_0002   14   19           at    IN            (PP*      -    -   -    David_Mattingly         *      *         *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   14   20         this    DT            (NP*      -    -   -    David_Mattingly    (TIME*      *         *            *    (183
+bc/cnn/00/cnn_0002   14   21         hour    NN         *)))))))   hour   -   2    David_Mattingly         *)     *         *)           *)    183)
+bc/cnn/00/cnn_0002   14   22           /.     .              *))     -    -   -    David_Mattingly         *      *         *            *       -
+
+bc/cnn/00/cnn_0002   14   0         Both    DT   (TOP(S(NP(NP*)          -    -   -    David_Mattingly  *      *        (ARG1*   (124
+bc/cnn/00/cnn_0002   14   1           of    IN            (PP*           -    -   -    David_Mattingly  *      *             *      -
+bc/cnn/00/cnn_0002   14   2         them   PRP          (NP*)))          -    -   -    David_Mattingly  *      *             *)   124)
+bc/cnn/00/cnn_0002   14   3          are   VBP            (VP*           be  03   -    David_Mattingly  *    (V*)            *      -
+bc/cnn/00/cnn_0002   14   4          now    RB          (ADVP*)          -    -   -    David_Mattingly  *      *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0002   14   5       listed   VBN            (VP*         list  01   -    David_Mattingly  *      *           (V*)     -
+bc/cnn/00/cnn_0002   14   6           in    IN            (PP*           -    -   -    David_Mattingly  *      *    (ARGM-MNR*      -
+bc/cnn/00/cnn_0002   14   7      serious    JJ            (NP*           -    -   -    David_Mattingly  *      *             *      -
+bc/cnn/00/cnn_0002   14   8    condition    NN            *))))   condition   -   1    David_Mattingly  *      *             *)     -
+bc/cnn/00/cnn_0002   14   9           /.     .              *))          -    -   -    David_Mattingly  *      *             *      -
+
+bc/cnn/00/cnn_0002   14   0        These    DT   (TOP(S(NP*)      -    -   -    David_Mattingly           *    (ARG1*)     *    (124)
+bc/cnn/00/cnn_0002   14   1          are   VBP         (VP*       be  01   1    David_Mattingly           *       (V*)     *       -
+bc/cnn/00/cnn_0002   14   2          the    DT      (NP(NP*       -    -   -    David_Mattingly           *    (ARG2*      *       -
+bc/cnn/00/cnn_0002   14   3          two    CD            *       -    -   -    David_Mattingly   (CARDINAL)        *      *       -
+bc/cnn/00/cnn_0002   14   4    survivors   NNS            *)      -    -   -    David_Mattingly           *         *      *       -
+bc/cnn/00/cnn_0002   14   5           of    IN         (PP*       -    -   -    David_Mattingly           *         *      *       -
+bc/cnn/00/cnn_0002   14   6         this    DT         (NP*       -    -   -    David_Mattingly           *         *      *    (154
+bc/cnn/00/cnn_0002   14   7     shooting    NN         *))))   shoot  01   2    David_Mattingly           *         *)   (V*)    154)
+bc/cnn/00/cnn_0002   14   8           /.     .           *))      -    -   -    David_Mattingly           *         *      *       -
+
+bc/cnn/00/cnn_0002   14    0            A    DT  (TOP(S(NP(NP*         -    -   -    David_Mattingly          *      *       (ARG1*            *      *       -
+bc/cnn/00/cnn_0002   14    1        third    JJ              *         -    -   -    David_Mattingly   (ORDINAL)     *            *            *      *       -
+bc/cnn/00/cnn_0002   14    2    assistant    NN              *         -    -   -    David_Mattingly          *      *            *            *      *       -
+bc/cnn/00/cnn_0002   14    3    principal    NN              *)        -    -   -    David_Mattingly          *      *            *            *      *       -
+bc/cnn/00/cnn_0002   14    4          Ken   NNP           (NP*         -    -   -    David_Mattingly   (PERSON*      *            *            *      *       -
+bc/cnn/00/cnn_0002   14    5        Bruce   NNP             *))        -    -   -    David_Mattingly          *)     *            *)           *      *       -
+bc/cnn/00/cnn_0002   14    6          was   VBD           (VP*         be  03   -    David_Mattingly          *    (V*)           *            *      *       -
+bc/cnn/00/cnn_0002   14    7       killed   VBN           (VP*       kill  01   1    David_Mattingly          *      *          (V*)           *      *       -
+bc/cnn/00/cnn_0002   14    8           as    IN           (PP*         -    -   -    David_Mattingly          *      *   (ARGM-TMP*            *      *       -
+bc/cnn/00/cnn_0002   14    9            a    DT         (S(NP*         -    -   -    David_Mattingly          *      *            *       (ARG0*      *    (126
+bc/cnn/00/cnn_0002   14   10      fifteen    JJ     (ADJP(NML*         -    -   -    David_Mattingly     (DATE*      *            *            *      *       -
+bc/cnn/00/cnn_0002   14   11         year    NN              *)        -    -   -    David_Mattingly          *      *            *            *      *       -
+bc/cnn/00/cnn_0002   14   12          old    JJ              *)        -    -   -    David_Mattingly          *)     *            *            *      *       -
+bc/cnn/00/cnn_0002   14   13      student    NN              *)   student   -   1    David_Mattingly          *      *            *            *)     *     126)
+bc/cnn/00/cnn_0002   14   14       opened   VBD           (VP*       open  01   6    David_Mattingly          *      *            *          (V*)     *    (154)
+bc/cnn/00/cnn_0002   14   15         fire    NN           (NP*)      fire  01   4    David_Mattingly          *      *            *       (ARG1*)   (V*)      -
+bc/cnn/00/cnn_0002   14   16         with    IN           (PP*         -    -   -    David_Mattingly          *      *            *       (ARG2*      *       -
+bc/cnn/00/cnn_0002   14   17            a    DT           (NP*         -    -   -    David_Mattingly          *      *            *            *      *    (214
+bc/cnn/00/cnn_0002   14   18      handgun    NN             *))        -    -   -    David_Mattingly          *      *            *            *)     *     214)
+bc/cnn/00/cnn_0002   14   19         near    IN           (PP*         -    -   -    David_Mattingly          *      *            *   (ARGM-LOC*      *       -
+bc/cnn/00/cnn_0002   14   20          the    DT           (NP*         -    -   -    David_Mattingly          *      *            *            *      *       -
+bc/cnn/00/cnn_0002   14   21       school    NN              *     school   -   2    David_Mattingly          *      *            *            *      *       -
+bc/cnn/00/cnn_0002   14   22      offices   NNS        *)))))))    office   -   1    David_Mattingly          *      *            *)           *)     *       -
+bc/cnn/00/cnn_0002   14   23           /.     .             *))        -    -   -    David_Mattingly          *      *            *            *      *       -
+
+bc/cnn/00/cnn_0002   14   0        That    DT   (TOP(S(NP*)       -    -   -    David_Mattingly       *       (ARG1*)   (154)
+bc/cnn/00/cnn_0002   14   1    happened   VBD         (VP*    happen  01   1    David_Mattingly       *          (V*)      -
+bc/cnn/00/cnn_0002   14   2           a    DT      (PP(NP*        -    -   -    David_Mattingly  (TIME*   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   14   3      little    JJ            *)       -    -   -    David_Mattingly       *            *       -
+bc/cnn/00/cnn_0002   14   4       after    IN            *        -    -   -    David_Mattingly       *            *       -
+bc/cnn/00/cnn_0002   14   5         two    CD      (NP(NP*        -    -   -    David_Mattingly       *            *       -
+bc/cnn/00/cnn_0002   14   6     o'clock    NN            *)       -    -   -    David_Mattingly       *            *       -
+bc/cnn/00/cnn_0002   14   7       today    NN      (NP*))))    today   -   2    David_Mattingly       *)           *)   (215)
+bc/cnn/00/cnn_0002   14   8          /.     .           *))       -    -   -    David_Mattingly       *            *       -
+
+bc/cnn/00/cnn_0002   14    0              and    CC   (TOP(FRAG*               -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14    1               as    IN       (SBAR*               -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14    2              you   PRP       (S(NP*)              -    -   -    David_Mattingly  *        (ARG1*)      (ARG0*)        *      -
+bc/cnn/00/cnn_0002   14    3            might    MD         (VP*               -    -   -    David_Mattingly  *    (ARGM-MOD*)           *         *      -
+bc/cnn/00/cnn_0002   14    4               be    VB         (VP*               be  01   1    David_Mattingly  *           (V*)           *         *      -
+bc/cnn/00/cnn_0002   14    5             able    JJ       (ADJP*               -    -   -    David_Mattingly  *        (ARG2*            *         *      -
+bc/cnn/00/cnn_0002   14    6               to    TO       (S(VP*               -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14    7              see    VB         (VP*              see  01   1    David_Mattingly  *             *          (V*)        *      -
+bc/cnn/00/cnn_0002   14    8           behind    IN         (PP*               -    -   -    David_Mattingly  *             *   (ARGM-LOC*         *      -
+bc/cnn/00/cnn_0002   14    9               me   PRP        (NP*))              -    -   -    David_Mattingly  *             *            *)        *    (64)
+bc/cnn/00/cnn_0002   14   10             with    IN         (PP*               -    -   -    David_Mattingly  *             *   (ARGM-MNR*         *      -
+bc/cnn/00/cnn_0002   14   11              all   PDT         (NP*               -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14   12              the    DT            *               -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14   13         flashing   VBG            *            flash  01   -    David_Mattingly  *             *            *       (V*)     -
+bc/cnn/00/cnn_0002   14   14             blue    JJ            *               -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14   15           lights   NNS   *))))))))))           light   -   2    David_Mattingly  *             *)           *)   (ARG1*)     -
+bc/cnn/00/cnn_0002   14   16              the    DT         (NP*               -    -   -    David_Mattingly  *             *            *         *    (87
+bc/cnn/00/cnn_0002   14   17    investigation    NN            *)   investigation   -   1    David_Mattingly  *             *            *         *     87)
+bc/cnn/00/cnn_0002   14   18            still    RB       (ADVP*)              -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14   19         underway    JJ       (ADJP*)              -    -   -    David_Mattingly  *             *            *         *      -
+bc/cnn/00/cnn_0002   14   20               /.     .           *))              -    -   -    David_Mattingly  *             *            *         *      -
+
+bc/cnn/00/cnn_0002   14    0               We   PRP            (TOP(S(NP*)         -    -   -    David_Mattingly       *      *        (ARG0*)     *            *        *             *         *             *            *         *      *      *             *    (107)
+bc/cnn/00/cnn_0002   14    1             have   VBP                  (VP*        have  01   -    David_Mattingly       *    (V*)            *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14    2             also    RB                (ADVP*)         -    -   -    David_Mattingly       *      *    (ARGM-ADV*)     *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14    3          learned   VBN                  (VP*       learn  01   2    David_Mattingly       *      *           (V*)     *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14    4             that    IN                (SBAR*          -    -   -    David_Mattingly       *      *        (ARG1*      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14    5               at    IN                (S(PP*          -    -   -    David_Mattingly       *      *             *      *   (ARGM-TMP*        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14    6             this    DT                  (NP*          -    -   -    David_Mattingly  (TIME*      *             *      *            *        *             *         *             *            *         *      *      *             *    (183
+bc/cnn/00/cnn_0002   14    7             hour    NN                    *))       hour   -   2    David_Mattingly       *)     *             *      *            *)       *             *         *             *            *         *      *      *             *     183)
+bc/cnn/00/cnn_0002   14    8    investigators   NNS                  (NP*)         -    -   -    David_Mattingly       *      *             *      *       (ARG0*)       *             *         *             *       (ARG0*)   (ARG0*)     *      *             *    (110)
+bc/cnn/00/cnn_0002   14    9             have   VBP                  (VP*        have  01   -    David_Mattingly       *      *             *    (V*)           *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   10       questioned   VBD                  (VP*    question  01   1    David_Mattingly       *      *             *      *          (V*)       *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   11           others   NNS                  (NP*)         -    -   -    David_Mattingly       *      *             *      *       (ARG2*)       *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   12               as    IN                  (PP*          -    -   -    David_Mattingly       *      *             *      *       (ARG1*        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   13               to    IN                  (PP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   14            where   WRB    (SBAR(SBAR(WHADVP*)         -    -   -    David_Mattingly       *      *             *      *            *        *    (ARGM-LOC*)        *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   15             this    DT                (S(NP*          -    -   -    David_Mattingly       *      *             *      *            *   (ARG1*        (ARG0*         *             *            *         *      *      *             *    (126
+bc/cnn/00/cnn_0002   14   16            young    JJ                     *          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   17              man    NN                     *)        man   -   1    David_Mattingly       *      *             *      *            *        *)            *)        *             *            *         *      *      *             *     126)
+bc/cnn/00/cnn_0002   14   18              was   VBD                  (VP*          be  01   1    David_Mattingly       *      *             *      *            *      (V*)            *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   19             able    JJ                (ADJP*          -    -   -    David_Mattingly       *      *             *      *            *   (ARG2*             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   20               to    TO                (S(VP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   21              get    VB                  (VP*         get  01   1    David_Mattingly       *      *             *      *            *        *           (V*)        *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   22                a    DT                  (NP*          -    -   -    David_Mattingly       *      *             *      *            *        *        (ARG1*         *             *            *         *      *      *             *    (214
+bc/cnn/00/cnn_0002   14   23              gun    NN              *))))))))        gun   -   1    David_Mattingly       *      *             *      *            *        *)            *)        *             *            *         *      *      *             *     214)
+bc/cnn/00/cnn_0002   14   24              and    CC                     *          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   25              how   WRB         (SBAR(WHADVP*)         -    -   -    David_Mattingly       *      *             *      *            *        *             *         *    (ARGM-MNR*)           *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   26               he   PRP                (S(NP*)         -    -   -    David_Mattingly       *      *             *      *            *        *             *    (ARG1*)       (ARG0*)           *         *      *      *             *    (126)
+bc/cnn/00/cnn_0002   14   27              was   VBD                  (VP*          be  01   1    David_Mattingly       *      *             *      *            *        *             *       (V*)            *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   28             able    JJ                (ADJP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *    (ARG2*             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   29               to    TO                (S(VP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   30              get    VB                  (VP*         get  05   3    David_Mattingly       *      *             *      *            *        *             *         *           (V*)           *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   31               it   PRP                  (NP*)         -    -   -    David_Mattingly       *      *             *      *            *        *             *         *        (ARG1*)           *         *      *      *             *    (214)
+bc/cnn/00/cnn_0002   14   32             into    IN                  (PP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *        (ARG2*            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   33              the    DT                  (NP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *     (78
+bc/cnn/00/cnn_0002   14   34           school    NN          *))))))))))))     school   -   2    David_Mattingly       *      *             *      *            *)       *             *         *)            *)           *         *      *      *             *      78)
+bc/cnn/00/cnn_0002   14   35      questioning   VBG                (S(VP*    question  01   1    David_Mattingly       *      *             *      *   (ARGM-PRD*        *             *         *             *          (V*)        *      *      *             *       -
+bc/cnn/00/cnn_0002   14   36           others   NNS                  (NP*)         -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *       (ARG2*)        *      *      *             *       -
+bc/cnn/00/cnn_0002   14   37               to    TO                (S(VP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *   (ARGM-PRP*         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   38             find    VB                  (VP*        find  03   1    David_Mattingly       *      *             *      *            *        *             *         *             *            *       (V*)     *      *             *       -
+bc/cnn/00/cnn_0002   14   39              out    RP                 (PRT*)         -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   40               if    IN                (SBAR*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *    (ARG1*      *      *             *       -
+bc/cnn/00/cnn_0002   14   41           others   NNS                (S(NP*)         -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *        (ARG1*)      -
+bc/cnn/00/cnn_0002   14   42            might    MD                  (VP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   14   43             have    VB                  (VP*        have  01   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *    (V*)     *             *       -
+bc/cnn/00/cnn_0002   14   44             been   VBN                  (VP*          be  03   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *    (V*)            *       -
+bc/cnn/00/cnn_0002   14   45          somehow    RB                (ADVP*)         -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *    (ARGM-MNR*)      -
+bc/cnn/00/cnn_0002   14   46        connected   VBN                  (VP*     connect  01   2    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *           (V*)      -
+bc/cnn/00/cnn_0002   14   47               to    IN                  (PP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *        (ARG1*       -
+bc/cnn/00/cnn_0002   14   48             this    DT                  (NP*          -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+bc/cnn/00/cnn_0002   14   49             case    NN   *)))))))))))))))))))       case   -   2    David_Mattingly       *      *             *)     *            *)       *             *         *             *            *)        *)     *      *             *)      -
+bc/cnn/00/cnn_0002   14   50               /.     .                    *))         -    -   -    David_Mattingly       *      *             *      *            *        *             *         *             *            *         *      *      *             *       -
+
+bc/cnn/00/cnn_0002   14    0              But    CC       (TOP(S*               -    -   -    David_Mattingly  *      *    (ARGM-DIS*)       *       -
+bc/cnn/00/cnn_0002   14    1               at    IN          (PP*               -    -   -    David_Mattingly  *      *    (ARGM-TMP*        *       -
+bc/cnn/00/cnn_0002   14    2             this    DT          (NP*               -    -   -    David_Mattingly  *      *             *        *    (225
+bc/cnn/00/cnn_0002   14    3            point    NN            *))           point   -   5    David_Mattingly  *      *             *)       *     225)
+bc/cnn/00/cnn_0002   14    4             most   JJS       (NP(NP*)              -    -   -    David_Mattingly  *      *        (ARG1*        *       -
+bc/cnn/00/cnn_0002   14    5               of    IN          (PP*               -    -   -    David_Mattingly  *      *             *        *       -
+bc/cnn/00/cnn_0002   14    6              the    DT          (NP*               -    -   -    David_Mattingly  *      *             *        *     (87
+bc/cnn/00/cnn_0002   14    7    investigation    NN           *)))   investigation   -   1    David_Mattingly  *      *             *)       *      87)
+bc/cnn/00/cnn_0002   14    8               is   VBZ          (VP*               be  03   -    David_Mattingly  *    (V*)            *        *       -
+bc/cnn/00/cnn_0002   14    9            going   VBG          (VP*               go  15   5    David_Mattingly  *      *           (V*)       *       -
+bc/cnn/00/cnn_0002   14   10               on    RP         (PRT*)              -    -   -    David_Mattingly  *      *             *        *       -
+bc/cnn/00/cnn_0002   14   11           inside    IN          (PP*               -    -   -    David_Mattingly  *      *    (ARGM-LOC*        *       -
+bc/cnn/00/cnn_0002   14   12              the    DT          (NP*               -    -   -    David_Mattingly  *      *             *        *     (78
+bc/cnn/00/cnn_0002   14   13         building    NN            *))        building   -   1    David_Mattingly  *      *             *)       *      78)
+bc/cnn/00/cnn_0002   14   14       collecting   VBG        (S(VP*          collect  01   1    David_Mattingly  *      *    (ARGM-ADV*      (V*)      -
+bc/cnn/00/cnn_0002   14   15            every    DT    (NP(NP(NP*               -    -   -    David_Mattingly  *      *             *   (ARG1*       -
+bc/cnn/00/cnn_0002   14   16         possible    JJ             *               -    -   -    David_Mattingly  *      *             *        *       -
+bc/cnn/00/cnn_0002   14   17            piece    NN             *)           piece   -   2    David_Mattingly  *      *             *        *       -
+bc/cnn/00/cnn_0002   14   18               of    IN          (PP*               -    -   -    David_Mattingly  *      *             *        *       -
+bc/cnn/00/cnn_0002   14   19         evidence    NN        (NP*)))        evidence   -   3    David_Mattingly  *      *             *        *       -
+bc/cnn/00/cnn_0002   14   20             that   WDT   (SBAR(WHNP*)              -    -   -    David_Mattingly  *      *             *        *       -
+bc/cnn/00/cnn_0002   14   21             they   PRP        (S(NP*)              -    -   -    David_Mattingly  *      *             *        *    (110)
+bc/cnn/00/cnn_0002   14   22              can    MD   (VP*))))))))              -    -   -    David_Mattingly  *      *             *)       *)      -
+bc/cnn/00/cnn_0002   14   23               /.     .            *))              -    -   -    David_Mattingly  *      *             *        *       -
+
+bc/cnn/00/cnn_0002   14    0          The    DT  (TOP(S(NP*         -    -   -    David_Mattingly  *   (ARG1*   (126
+bc/cnn/00/cnn_0002   14    1      suspect    NN           *)   suspect   -   -    David_Mattingly  *        *)   126)
+bc/cnn/00/cnn_0002   14    2           is   VBZ        (VP*         be  01   1    David_Mattingly  *      (V*)     -
+bc/cnn/00/cnn_0002   14    3           in    IN        (PP*         -    -   -    David_Mattingly  *   (ARG2*      -
+bc/cnn/00/cnn_0002   14    4      custody    NN     (NP(NP*)        -    -   -    David_Mattingly  *        *      -
+bc/cnn/00/cnn_0002   14    5           at    IN        (PP*         -    -   -    David_Mattingly  *        *      -
+bc/cnn/00/cnn_0002   14    6            a    DT        (NP*         -    -   -    David_Mattingly  *        *      -
+bc/cnn/00/cnn_0002   14    7     juvenile    JJ           *         -    -   -    David_Mattingly  *        *      -
+bc/cnn/00/cnn_0002   14    8    detention    NN           *         -    -   -    David_Mattingly  *        *      -
+bc/cnn/00/cnn_0002   14    9     facility    NN       *)))))        -    -   -    David_Mattingly  *        *)     -
+bc/cnn/00/cnn_0002   14   10           /.     .          *))        -    -   -    David_Mattingly  *        *      -
+
+bc/cnn/00/cnn_0002   14    0         He    PRP       (TOP(S(NP*)      -    -   -    David_Mattingly  *      *        (ARG1*)     *    (ARG1*)        *         (126)
+bc/cnn/00/cnn_0002   14    1        was    VBD             (VP*       be  03   -    David_Mattingly  *    (V*)            *      *         *         *            -
+bc/cnn/00/cnn_0002   14    2      taken    VBN             (VP*     take  01   -    David_Mattingly  *      *           (V*)     *         *         *            -
+bc/cnn/00/cnn_0002   14    3      there     RB           (ADVP*)      -    -   -    David_Mattingly  *      *    (ARGM-LOC*)     *         *         *            -
+bc/cnn/00/cnn_0002   14    4      after     IN             (PP*       -    -   -    David_Mattingly  *      *    (ARGM-TMP*      *         *         *            -
+bc/cnn/00/cnn_0002   14    5      being    VBG           (S(VP*       be  03   -    David_Mattingly  *      *             *    (V*)        *         *            -
+bc/cnn/00/cnn_0002   14    6    treated    VBN             (VP*    treat  03   4    David_Mattingly  *      *             *      *       (V*)        *            -
+bc/cnn/00/cnn_0002   14    7        for     IN             (PP*       -    -   -    David_Mattingly  *      *             *      *    (ARG2*         *            -
+bc/cnn/00/cnn_0002   14    8       what     WP      (SBAR(WHNP*)      -    -   -    David_Mattingly  *      *             *      *         *    (ARG0*)           -
+bc/cnn/00/cnn_0002   14    9     looked    VBD           (S(VP*     look  01   2    David_Mattingly  *      *             *      *         *       (V*)           -
+bc/cnn/00/cnn_0002   14   10       like     IN             (PP*       -    -   -    David_Mattingly  *      *             *      *         *    (ARG1*            -
+bc/cnn/00/cnn_0002   14   11          a     DT          (NP(NP*       -    -   -    David_Mattingly  *      *             *      *         *         *            -
+bc/cnn/00/cnn_0002   14   12    gunshot     NN                *       -    -   -    David_Mattingly  *      *             *      *         *         *            -
+bc/cnn/00/cnn_0002   14   13      wound     NN                *)   wound   -   1    David_Mattingly  *      *             *      *         *         *            -
+bc/cnn/00/cnn_0002   14   14         to     IN             (PP*       -    -   -    David_Mattingly  *      *             *      *         *         *            -
+bc/cnn/00/cnn_0002   14   15        his   PRP$             (NP*       -    -   -    David_Mattingly  *      *             *      *         *         *    (191|(126)
+bc/cnn/00/cnn_0002   14   16       hand     NN   *))))))))))))))    hand   -   -    David_Mattingly  *      *             *)     *         *)        *)         191)
+bc/cnn/00/cnn_0002   14   17         /.      .               *))      -    -   -    David_Mattingly  *      *             *      *         *         *            -
+
+bc/cnn/00/cnn_0002   14    0    Investigators   NNS        (TOP(S(NP*)     -    -   -    David_Mattingly  *      *    (ARG1*)          *             *    (79)
+bc/cnn/00/cnn_0002   14    1              are   VBP              (VP*      be  03   -    David_Mattingly  *    (V*)        *           *             *      -
+bc/cnn/00/cnn_0002   14    2            being   VBG              (VP*      be  01   1    David_Mattingly  *      *       (V*)          *             *      -
+bc/cnn/00/cnn_0002   14    3             very    RB            (ADJP*      -    -   -    David_Mattingly  *      *    (ARG2*           *             *      -
+bc/cnn/00/cnn_0002   14    4          careful    JJ                 *      -    -   -    David_Mattingly  *      *         *           *             *      -
+bc/cnn/00/cnn_0002   14    5            about    IN              (PP*      -    -   -    David_Mattingly  *      *         *           *             *      -
+bc/cnn/00/cnn_0002   14    6              how   WRB     (SBAR(WHADVP*)     -    -   -    David_Mattingly  *      *         *    (R-ARG1*)   (ARGM-MNR*)     -
+bc/cnn/00/cnn_0002   14    7             they   PRP            (S(NP*)     -    -   -    David_Mattingly  *      *         *      (ARG0*)            *    (79)
+bc/cnn/00/cnn_0002   14    8              say   VBP              (VP*     say  01   1    David_Mattingly  *      *         *         (V*)            *      -
+bc/cnn/00/cnn_0002   14    9               uh    UH     (SBAR(S(INTJ*)     -    -   -    David_Mattingly  *      *         *      (ARG1*    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   14   10             this    DT           (NP(NP*)     -    -   -    David_Mattingly  *      *         *           *        (ARG1*      -
+bc/cnn/00/cnn_0002   14   11              all    DT             (NP*))     -    -   -    David_Mattingly  *      *         *           *             *)     -
+bc/cnn/00/cnn_0002   14   12             came   VBD              (VP*    come  06   2    David_Mattingly  *      *         *           *           (V*)     -
+bc/cnn/00/cnn_0002   14   13            about    RP   (PRT*)))))))))))     -    -   -    David_Mattingly  *      *         *)          *)            *      -
+bc/cnn/00/cnn_0002   14   14               /.     .                *))     -    -   -    David_Mattingly  *      *         *           *             *      -
+
+bc/cnn/00/cnn_0002   14    0          Uh    UH   (TOP(S(INTJ*)      -    -      -    David_Mattingly  *      *    (ARGM-DIS*)        *      -
+bc/cnn/00/cnn_0002   14    1        they   PRP           (NP*)      -    -      -    David_Mattingly  *      *        (ARG0*)   (ARG0*)   (79)
+bc/cnn/00/cnn_0002   14    2         're   VBP           (VP*       be  03      -    David_Mattingly  *    (V*)            *         *      -
+bc/cnn/00/cnn_0002   14    3         not    RB              *       -    -      -    David_Mattingly  *      *    (ARGM-NEG*)        *      -
+bc/cnn/00/cnn_0002   14    4     willing   VBG           (VP*     will  02      -    David_Mattingly  *      *           (V*)        *      -
+bc/cnn/00/cnn_0002   14    5          at    IN           (PP*       -    -      -    David_Mattingly  *      *    (ARGM-TMP*         *      -
+bc/cnn/00/cnn_0002   14    6        this    DT           (NP*       -    -      -    David_Mattingly  *      *             *         *   (225
+bc/cnn/00/cnn_0002   14    7       point    NN             *))   point   -      5    David_Mattingly  *      *             *)        *    225)
+bc/cnn/00/cnn_0002   14    8          to    TO         (S(VP*       -    -      -    David_Mattingly  *      *        (ARG1*         *      -
+bc/cnn/00/cnn_0002   14    9         put    VB           (VP*      put  01   7.28    David_Mattingly  *      *             *       (V*)     -
+bc/cnn/00/cnn_0002   14   10         any    DT        (NP(NP*       -    -      -    David_Mattingly  *      *             *    (ARG1*      -
+bc/cnn/00/cnn_0002   14   11        sort    NN              *)    sort   -      1    David_Mattingly  *      *             *         *      -
+bc/cnn/00/cnn_0002   14   12          of    IN           (PP*       -    -      -    David_Mattingly  *      *             *         *      -
+bc/cnn/00/cnn_0002   14   13           A    NN       (NP(NML*       -    -      -    David_Mattingly  *      *             *         *      -
+bc/cnn/00/cnn_0002   14   14           B    NN              *       -    -      -    David_Mattingly  *      *             *         *      -
+bc/cnn/00/cnn_0002   14   15         and    CC              *       -    -      -    David_Mattingly  *      *             *         *      -
+bc/cnn/00/cnn_0002   14   16           C    NN              *)      -    -      -    David_Mattingly  *      *             *         *      -
+bc/cnn/00/cnn_0002   14   17    sequence    NN            *)))      -    -      -    David_Mattingly  *      *             *         *)     -
+bc/cnn/00/cnn_0002   14   18    together    RB    (ADVP*))))))      -    -      -    David_Mattingly  *      *             *)   (ARG2*)     -
+bc/cnn/00/cnn_0002   14   19          /.     .             *))      -    -      -    David_Mattingly  *      *             *         *      -
+
+bc/cnn/00/cnn_0002   14    0          Uh    UH     (TOP(S(INTJ*)       -    -   -    David_Mattingly  *    (ARGM-DIS*)          *           *         *       -
+bc/cnn/00/cnn_0002   14    1       there    EX             (NP*)       -    -   -    David_Mattingly  *             *           *           *         *       -
+bc/cnn/00/cnn_0002   14    2         are   VBP             (VP*        be  02   3    David_Mattingly  *           (V*)          *           *         *       -
+bc/cnn/00/cnn_0002   14    3        some    DT       (NP(NP(NP*        -    -   -    David_Mattingly  *        (ARG1*      (ARG0*      (ARG0*         *       -
+bc/cnn/00/cnn_0002   14    4      people   NNS                *)   people   -   1    David_Mattingly  *             *           *)          *         *       -
+bc/cnn/00/cnn_0002   14    5         who    WP      (SBAR(WHNP*)       -    -   -    David_Mattingly  *             *    (R-ARG0*)          *         *       -
+bc/cnn/00/cnn_0002   14    6        knew   VBD           (S(VP*      know  01   2    David_Mattingly  *             *         (V*)          *         *       -
+bc/cnn/00/cnn_0002   14    7        this    DT             (NP*        -    -   -    David_Mattingly  *             *      (ARG1*           *         *    (126
+bc/cnn/00/cnn_0002   14    8       young    JJ                *        -    -   -    David_Mattingly  *             *           *           *         *       -
+bc/cnn/00/cnn_0002   14    9         man    NN            *)))))      man   -   1    David_Mattingly  *             *           *)          *)        *     126)
+bc/cnn/00/cnn_0002   14   10         who    WP      (SBAR(WHNP*)       -    -   -    David_Mattingly  *             *           *    (R-ARG0*)        *       -
+bc/cnn/00/cnn_0002   14   11         say   VBP           (S(VP*       say  01   1    David_Mattingly  *             *           *         (V*)        *       -
+bc/cnn/00/cnn_0002   14   12        that    IN           (SBAR*        -    -   -    David_Mattingly  *             *           *      (ARG1*         *       -
+bc/cnn/00/cnn_0002   14   13          he   PRP           (S(NP*)       -    -   -    David_Mattingly  *             *           *           *    (ARG1*)   (126)
+bc/cnn/00/cnn_0002   14   14         was   VBD             (VP*        be  01   1    David_Mattingly  *             *           *           *       (V*)      -
+bc/cnn/00/cnn_0002   14   15    troubled    JJ   (ADJP*)))))))))       -    -   -    David_Mattingly  *             *)          *           *)   (ARG2*)      -
+bc/cnn/00/cnn_0002   14   16          /.     .               *))       -    -   -    David_Mattingly  *             *           *           *         *       -
+
+bc/cnn/00/cnn_0002   14    0            but     CC            (TOP(S*           -    -    -    David_Mattingly  *    (ARGM-DIS*)     *            *      *            *      *        *       -
+bc/cnn/00/cnn_0002   14    1    authorities    NNS               (NP*)   authority   -    3    David_Mattingly  *        (ARG0*)     *            *      *            *      *        *       -
+bc/cnn/00/cnn_0002   14    2           will     MD               (VP*           -    -    -    David_Mattingly  *    (ARGM-MOD*)     *            *      *            *      *        *       -
+bc/cnn/00/cnn_0002   14    3            not     RB                  *           -    -    -    David_Mattingly  *    (ARGM-NEG*)     *            *      *            *      *        *       -
+bc/cnn/00/cnn_0002   14    4        confirm     VB               (VP*      confirm  01    1    David_Mattingly  *           (V*)     *            *      *            *      *        *       -
+bc/cnn/00/cnn_0002   14    5           what     WP   (SBAR(SBAR(WHNP*)          -    -    -    David_Mattingly  *        (ARG1*      *       (ARG1*)     *            *      *        *       -
+bc/cnn/00/cnn_0002   14    6            was    VBD             (S(VP*           be  03    -    David_Mattingly  *             *    (V*)           *      *            *      *        *       -
+bc/cnn/00/cnn_0002   14    7          going    VBG               (VP*           go  01   15    David_Mattingly  *             *      *          (V*)     *            *      *        *       -
+bc/cnn/00/cnn_0002   14    8        through     IN               (PP*           -    -    -    David_Mattingly  *             *      *   (ARGM-DIR*      *            *      *        *       -
+bc/cnn/00/cnn_0002   14    9            his   PRP$               (NP*           -    -    -    David_Mattingly  *             *      *            *      *            *      *        *    (126)
+bc/cnn/00/cnn_0002   14   10           mind     NN             *))))))        mind   -    1    David_Mattingly  *             *      *            *)     *            *      *        *       -
+bc/cnn/00/cnn_0002   14   11             or     CC                  *           -    -    -    David_Mattingly  *             *      *            *      *            *      *        *       -
+bc/cnn/00/cnn_0002   14   12           what     WP        (SBAR(WHNP*)          -    -    -    David_Mattingly  *             *      *            *      *       (ARG1*)     *        *       -
+bc/cnn/00/cnn_0002   14   13            was    VBD             (S(VP*           be  03    -    David_Mattingly  *             *      *            *    (V*)           *      *        *       -
+bc/cnn/00/cnn_0002   14   14      happening    VBG               (VP*       happen  01    1    David_Mattingly  *             *      *            *      *          (V*)     *        *       -
+bc/cnn/00/cnn_0002   14   15             as     IN             (SBAR*           -    -    -    David_Mattingly  *             *      *            *      *   (ARGM-TMP*      *        *       -
+bc/cnn/00/cnn_0002   14   16           this     DT             (S(NP*           -    -    -    David_Mattingly  *             *      *            *      *            *      *   (ARG1*    (154
+bc/cnn/00/cnn_0002   14   17       shooting     NN                  *)       shoot  01    2    David_Mattingly  *             *      *            *      *            *    (V*)       *)    154)
+bc/cnn/00/cnn_0002   14   18       occurred    VBD      (VP*))))))))))       occur  01    1    David_Mattingly  *             *)     *            *      *            *)     *      (V*)      -
+bc/cnn/00/cnn_0002   14   19             /.      .                 *))          -    -    -    David_Mattingly  *             *      *            *      *            *      *        *       -
+
+bc/cnn/00/cnn_0002   14   0    Anderson   NNP  (TOP(NP*   -   -   -    David_Mattingly   (PERSON)  (77
+bc/cnn/00/cnn_0002   14   1          /?     .        *))  -   -   -    David_Mattingly         *    77)
+
+bc/cnn/00/cnn_0002   14    0         David   NNP           (TOP(S(NP*)        -    -    -    Anderson_Cooper   (PERSON)     *    (ARGM-DIS*)            *             *           *      *      *             *         *     (64)
+bc/cnn/00/cnn_0002   14    1            we   PRP                 (NP*)        -    -    -    Anderson_Cooper         *      *        (ARG0*)            *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    2           've   VBP                 (VP*       have  01   12    Anderson_Cooper         *    (V*)            *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    3         spoke   VBD                 (VP*      speak  01    1    Anderson_Cooper         *      *           (V*)            *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    4            uh    UH               (INTJ*)        -    -    -    Anderson_Cooper         *      *    (ARGM-DIS*)            *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    5            in    IN                 (PP*         -    -    -    Anderson_Cooper         *      *    (ARGM-TMP*             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    6           the    DT                 (NP*         -    -    -    Anderson_Cooper    (TIME*      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    7          last    JJ                    *         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    8          hour    NN                   *))      hour   -    1    Anderson_Cooper         *)     *             *)            *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14    9            to    IN                 (PP*         -    -    -    Anderson_Cooper         *      *        (ARG2*             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   10             a    DT           (NP(NP(NP*         -    -    -    Anderson_Cooper         *      *             *        (ARG0*             *      (ARG0*      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   11         young    JJ                    *         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   12           man    NN                    *)       man   -    1    Anderson_Cooper         *      *             *             *)            *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   13           who    WP          (SBAR(WHNP*)        -    -    -    Anderson_Cooper         *      *             *      (R-ARG0*)            *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   14         knows   VBZ               (S(VP*       know  01    2    Anderson_Cooper         *      *             *           (V*)            *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   15            uh    UH               (INTJ*)        -    -    -    Anderson_Cooper         *      *             *    (ARGM-DIS*)            *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   16          this    DT              (NP(NP*         -    -    -    Anderson_Cooper         *      *             *        (ARG1*        (ARG1*           *      *      *             *         *    (126
+bc/cnn/00/cnn_0002   14   17         young    JJ                    *         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   18           man    NN                    *)       man   -    1    Anderson_Cooper         *      *             *             *             *)          *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   19           who    WP          (SBAR(WHNP*)        -    -    -    Anderson_Cooper         *      *             *             *      (R-ARG1*)          *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   20            's   VBZ               (S(VP*         be  01    1    Anderson_Cooper         *      *             *             *           (V*)          *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   21           now    RB               (ADVP*)        -    -    -    Anderson_Cooper         *      *             *             *    (ARGM-TMP*)          *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   22            in    IN                 (PP*         -    -    -    Anderson_Cooper         *      *             *             *        (ARG2*           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   23       custody    NN        (NP*))))))))))        -    -    -    Anderson_Cooper         *      *             *             *)            *)          *)     *      *             *         *     126)
+bc/cnn/00/cnn_0002   14   24           who    WP          (SBAR(WHNP*)        -    -    -    Anderson_Cooper         *      *             *             *             *    (R-ARG0*)     *      *             *         *       -
+bc/cnn/00/cnn_0002   14   25          said   VBD               (S(VP*        say  01    1    Anderson_Cooper         *      *             *             *             *         (V*)     *      *             *         *       -
+bc/cnn/00/cnn_0002   14   26          that    IN               (SBAR*         -    -    -    Anderson_Cooper         *      *             *             *             *      (ARG1*      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   27            he   PRP               (S(NP*)        -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *        (ARG1*)   (ARG0*)   (126)
+bc/cnn/00/cnn_0002   14   28           had   VBD                 (VP*       have  01    -    Anderson_Cooper         *      *             *             *             *           *    (V*)     *             *         *       -
+bc/cnn/00/cnn_0002   14   29          been   VBN                 (VP*         be  03    -    Anderson_Cooper         *      *             *             *             *           *      *    (V*)            *         *       -
+bc/cnn/00/cnn_0002   14   30     suspended   VBN                 (VP*    suspend  01    2    Anderson_Cooper         *      *             *             *             *           *      *      *           (V*)        *     (56)
+bc/cnn/00/cnn_0002   14   31    previously    RB               (ADVP*)        -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *    (ARGM-TMP*)        *       -
+bc/cnn/00/cnn_0002   14   32           for    IN                 (PP*         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *    (ARGM-TMP*         *       -
+bc/cnn/00/cnn_0002   14   33             a    DT                 (NP*         -    -    -    Anderson_Cooper    (DATE*      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   34          year    NN                   *))        -    -    -    Anderson_Cooper         *)     *             *             *             *           *      *      *             *)        *       -
+bc/cnn/00/cnn_0002   14   35           for    IN                 (PP*         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *    (ARGM-CAU*         *       -
+bc/cnn/00/cnn_0002   14   36      stabbing   VBG               (S(VP*       stab  01    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *       (V*)      -
+bc/cnn/00/cnn_0002   14   37            an    DT                 (NP*         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *    (ARG1*       -
+bc/cnn/00/cnn_0002   14   38      assitant    JJ                    *         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   39     principal    NN                    *)        -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *)      -
+bc/cnn/00/cnn_0002   14   40          with    IN                 (PP*         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *    (ARG2*       -
+bc/cnn/00/cnn_0002   14   41             a    DT              (NP(NP*         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   42           pen    NN                    *)       pen   -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   43            or    CC                    *         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   44             a    DT                 (NP*         -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+bc/cnn/00/cnn_0002   14   45        pencil    NN   *))))))))))))))))))    pencil   -    -    Anderson_Cooper         *      *             *)            *             *           *)     *      *             *)        *)      -
+bc/cnn/00/cnn_0002   14   46            /.     .                   *))        -    -    -    Anderson_Cooper         *      *             *             *             *           *      *      *             *         *       -
+
+bc/cnn/00/cnn_0002   14   0          Do   VBP     (TOP(SQ*      do  01   -    Anderson_Cooper  *    (V*)        *      -
+bc/cnn/00/cnn_0002   14   1         you   PRP         (NP*)     -    -   -    Anderson_Cooper  *      *    (ARG0*)   (64)
+bc/cnn/00/cnn_0002   14   2        know    VB         (VP*    know  01   2    Anderson_Cooper  *      *       (V*)     -
+bc/cnn/00/cnn_0002   14   3    anything    NN   (NP(NP(NP*)     -    -   -    Anderson_Cooper  *      *    (ARG1*      -
+bc/cnn/00/cnn_0002   14   4        more   JJR      (ADJP*))     -    -   -    Anderson_Cooper  *      *         *      -
+bc/cnn/00/cnn_0002   14   5       about    IN         (PP*      -    -   -    Anderson_Cooper  *      *         *      -
+bc/cnn/00/cnn_0002   14   6        that    DT      (NP*))))     -    -   -    Anderson_Cooper  *      *         *)   (56)
+bc/cnn/00/cnn_0002   14   7          /?     .           *))     -    -   -    Anderson_Cooper  *      *         *      -
+
+bc/cnn/00/cnn_0002   14   0             Uh    UH   (TOP(S(INTJ*)          -    -   -    David_Mattingly       *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   14   1    authorities   NNS           (NP*)   authority   -   3    David_Mattingly       *        (ARG0*)   (31)
+bc/cnn/00/cnn_0002   14   2           will    MD           (VP*           -    -   -    David_Mattingly       *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0002   14   3            not    RB              *           -    -   -    David_Mattingly       *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0002   14   4           talk    VB           (VP*         talk  01   1    David_Mattingly       *           (V*)     -
+bc/cnn/00/cnn_0002   14   5          about    IN           (PP*           -    -   -    David_Mattingly       *        (ARG1*      -
+bc/cnn/00/cnn_0002   14   6           that    DT          (NP*))          -    -   -    David_Mattingly       *             *)   (56)
+bc/cnn/00/cnn_0002   14   7        tonight    NN         (NP*)))          -    -   -    David_Mattingly   (TIME)   (ARGM-TMP*)   (96)
+bc/cnn/00/cnn_0002   14   8             /.     .             *))          -    -   -    David_Mattingly       *             *      -
+
+bc/cnn/00/cnn_0002   14    0          Uh    UH   (TOP(S(INTJ*)      -    -   -    David_Mattingly       *      *    (ARGM-DIS*)            *       -
+bc/cnn/00/cnn_0002   14    1          we   PRP           (NP*)      -    -   -    David_Mattingly       *      *        (ARG0*)            *    (107)
+bc/cnn/00/cnn_0002   14    2         're   VBP           (VP*       be  03   -    David_Mattingly       *    (V*)            *             *       -
+bc/cnn/00/cnn_0002   14    3      hoping   VBG           (VP*     hope  01   1    David_Mattingly       *      *           (V*)            *       -
+bc/cnn/00/cnn_0002   14    4        that    IN         (SBAR*       -    -   -    David_Mattingly       *      *        (ARG1*             *       -
+bc/cnn/00/cnn_0002   14    5        they   PRP         (S(NP*)      -    -   -    David_Mattingly       *      *             *        (ARG0*)    (31)
+bc/cnn/00/cnn_0002   14    6        will    MD           (VP*       -    -   -    David_Mattingly       *      *             *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   14    7        shed    VB           (VP*     shed  01   5    David_Mattingly       *      *             *           (V*)      -
+bc/cnn/00/cnn_0002   14    8        more   JJR           (NP*       -    -   -    David_Mattingly       *      *             *        (ARG1*       -
+bc/cnn/00/cnn_0002   14    9       light    NN              *)   light   -   4    David_Mattingly       *      *             *             *)      -
+bc/cnn/00/cnn_0002   14   10          on    IN           (PP*       -    -   -    David_Mattingly       *      *             *    (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   14   11        that    DT          (NP*))      -    -   -    David_Mattingly       *      *             *             *)    (56)
+bc/cnn/00/cnn_0002   14   12    tomorrow    NN     (NP*)))))))      -    -   -    David_Mattingly   (DATE)     *             *)   (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   14   13          /.     .             *))      -    -   -    David_Mattingly       *      *             *             *       -
+
+bc/cnn/00/cnn_0002   14   0         but    CC  (TOP(S*         -    -   -    David_Mattingly  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   14   1          we   PRP     (NP*)        -    -   -    David_Mattingly  *      *        (ARG0*)   (107)
+bc/cnn/00/cnn_0002   14   2         are   VBP     (VP*         be  03   -    David_Mattingly  *    (V*)            *       -
+bc/cnn/00/cnn_0002   14   3     hearing   VBG     (VP*       hear  01   1    David_Mattingly  *      *           (V*)      -
+bc/cnn/00/cnn_0002   14   4        that    DT     (NP*         -    -   -    David_Mattingly  *      *        (ARG1*    (181
+bc/cnn/00/cnn_0002   14   5       story    NN        *)     story   -   4    David_Mattingly  *      *             *)    181)
+bc/cnn/00/cnn_0002   14   6        from    IN     (PP*         -    -   -    David_Mattingly  *      *        (ARG2*       -
+bc/cnn/00/cnn_0002   14   7    multiple    JJ     (NP*         -    -   -    David_Mattingly  *      *             *       -
+bc/cnn/00/cnn_0002   14   8    students   NNS     *))))   student   -   1    David_Mattingly  *      *             *)      -
+bc/cnn/00/cnn_0002   14   9          /.     .       *))        -    -   -    David_Mattingly  *      *             *       -
+
+bc/cnn/00/cnn_0002   14    0           We   PRP           (TOP(S(NP*)         -    -   -    David_Mattingly  *        (ARG1*)        *             *      *        *    (107)
+bc/cnn/00/cnn_0002   14    1          're   VBP                 (VP*          be  01   1    David_Mattingly  *           (V*)        *             *      *        *       -
+bc/cnn/00/cnn_0002   14    2          not    RB                    *          -    -   -    David_Mattingly  *    (ARGM-NEG*)        *             *      *        *       -
+bc/cnn/00/cnn_0002   14    3         sure    JJ               (ADJP*          -    -   -    David_Mattingly  *        (ARG2*         *             *      *        *       -
+bc/cnn/00/cnn_0002   14    4           if    IN               (SBAR*          -    -   -    David_Mattingly  *             *         *             *      *        *       -
+bc/cnn/00/cnn_0002   14    5           it   PRP               (S(NP*)         -    -   -    David_Mattingly  *             *    (ARG1*)            *      *        *    (181)
+bc/cnn/00/cnn_0002   14    6           's   VBZ                 (VP*          be  01   1    David_Mattingly  *             *       (V*)            *      *        *       -
+bc/cnn/00/cnn_0002   14    7          all    DT                    *          -    -   -    David_Mattingly  *             *         *             *      *        *       -
+bc/cnn/00/cnn_0002   14    8         part    NN              (NP(NP*)       part   -   1    David_Mattingly  *             *    (ARG2*             *      *        *       -
+bc/cnn/00/cnn_0002   14    9           of    IN                 (PP*          -    -   -    David_Mattingly  *             *         *             *      *        *       -
+bc/cnn/00/cnn_0002   14   10          the    DT              (NP(NP*          -    -   -    David_Mattingly  *             *         *        (ARG1*      *        *       -
+bc/cnn/00/cnn_0002   14   11       rumors   NNS                    *)     rumour   -   -    David_Mattingly  *             *         *             *)     *        *       -
+bc/cnn/00/cnn_0002   14   12         that   WDT          (SBAR(WHNP*)         -    -   -    David_Mattingly  *             *         *      (R-ARG1*)     *        *       -
+bc/cnn/00/cnn_0002   14   13           go   VBP               (S(VP*          go  01   1    David_Mattingly  *             *         *           (V*)     *        *       -
+bc/cnn/00/cnn_0002   14   14       around    RB               (ADVP*)         -    -   -    David_Mattingly  *             *         *    (ARGM-DIR*)     *        *       -
+bc/cnn/00/cnn_0002   14   15        after    IN               (SBAR*          -    -   -    David_Mattingly  *             *         *    (ARGM-TMP*      *        *       -
+bc/cnn/00/cnn_0002   14   16        these    DT            (S(NP(NP*          -    -   -    David_Mattingly  *             *         *             *      *   (ARG1*       -
+bc/cnn/00/cnn_0002   14   17         type    NN                    *)       type   -   1    David_Mattingly  *             *         *             *      *        *       -
+bc/cnn/00/cnn_0002   14   18           of    IN                 (PP*          -    -   -    David_Mattingly  *             *         *             *      *        *       -
+bc/cnn/00/cnn_0002   14   19    incidents   NNS               (NP*)))   incident   -   2    David_Mattingly  *             *         *             *      *        *)      -
+bc/cnn/00/cnn_0002   14   20           do   VBP                 (VP*          do  01   -    David_Mattingly  *             *         *             *    (V*)       *       -
+bc/cnn/00/cnn_0002   14   21        occur    VB   (VP*)))))))))))))))      occur  01   1    David_Mattingly  *             *)        *)            *)     *      (V*)      -
+bc/cnn/00/cnn_0002   14   22           /.     .                   *))         -    -   -    David_Mattingly  *             *         *             *      *        *       -
+
+bc/cnn/00/cnn_0002   14    0            but    CC             (TOP(S*         -    -   -    David_Mattingly       *    (ARGM-DIS*)       *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    1          there    EX                (NP*)        -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    2          seems   VBZ                (VP*       seem  01   1    David_Mattingly       *           (V*)       *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    3             to    TO              (S(VP*         -    -   -    David_Mattingly       *        (ARG1*        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    4             be    VB                (VP*         be  02   3    David_Mattingly       *             *      (V*)     *             *             *         *       -
+bc/cnn/00/cnn_0002   14    5           some    DT             (NP(NP*         -    -   -    David_Mattingly       *             *   (ARG1*      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    6        certain    JJ                   *         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    7    credibility    NN                   *)        -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    8             in    IN                (PP*         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14    9            the    DT                (NP*         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   10     widespread    JJ                   *         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   11         belief    NN                   *         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   12           that    IN              (SBAR*         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   13             uh    UH            (S(INTJ*)        -    -   -    David_Mattingly       *             *        *      *    (ARGM-DIS*)   (ARGM-DIS*)        *       -
+bc/cnn/00/cnn_0002   14   14           this    DT                (NP*         -    -   -    David_Mattingly       *             *        *      *        (ARG0*        (ARG0*         *    (126
+bc/cnn/00/cnn_0002   14   15        student    NN                   *)   student   -   1    David_Mattingly       *             *        *      *             *)            *)        *     126)
+bc/cnn/00/cnn_0002   14   16            did   VBD             (VP(VP*         do  01   -    David_Mattingly       *             *        *    (V*)            *             *         *       -
+bc/cnn/00/cnn_0002   14   17           have    VB                (VP*       have  03   4    David_Mattingly       *             *        *      *           (V*)            *         *       -
+bc/cnn/00/cnn_0002   14   18       problems   NNS                (NP*)   problem   -   1    David_Mattingly       *             *        *      *        (ARG1*)            *         *       -
+bc/cnn/00/cnn_0002   14   19            the    DT           (ADVP(NP*         -    -   -    David_Mattingly  (DATE*             *        *      *    (ARGM-TMP*             *         *       -
+bc/cnn/00/cnn_0002   14   20           year    NN                   *)        -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   21          prior    RB                 *)))        -    -   -    David_Mattingly       *)            *        *      *             *)            *         *       -
+bc/cnn/00/cnn_0002   14   22            and    CC                   *         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   23            had   VBD                (VP*       have  03   4    David_Mattingly       *             *        *      *             *           (V*)        *       -
+bc/cnn/00/cnn_0002   14   24       problems   NNS                (NP*)   problem   -   1    David_Mattingly       *             *        *      *             *        (ARG1*)        *       -
+bc/cnn/00/cnn_0002   14   25             uh    UH              (INTJ*)        -    -   -    David_Mattingly       *             *        *      *             *    (ARGM-DIS*)        *       -
+bc/cnn/00/cnn_0002   14   26             as    IN              (SBAR*         -    -   -    David_Mattingly       *             *        *      *             *    (ARGM-TMP*         *       -
+bc/cnn/00/cnn_0002   14   27             he   PRP              (S(NP*)        -    -   -    David_Mattingly       *             *        *      *             *             *    (ARG1*)   (126)
+bc/cnn/00/cnn_0002   14   28           came   VBD                (VP*       come  01   1    David_Mattingly       *             *        *      *             *             *       (V*)      -
+bc/cnn/00/cnn_0002   14   29           back    RB              (ADVP*         -    -   -    David_Mattingly       *             *        *      *             *             *    (ARG4*       -
+bc/cnn/00/cnn_0002   14   30             to    IN                (PP*         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   31           this    DT                (NP*         -    -   -    David_Mattingly       *             *        *      *             *             *         *     (78
+bc/cnn/00/cnn_0002   14   32           high    JJ                   *         -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+bc/cnn/00/cnn_0002   14   33         school    NN   *)))))))))))))))))    school   -   2    David_Mattingly       *             *)       *)     *             *             *)        *)     78)
+bc/cnn/00/cnn_0002   14   34             /.     .                  *))        -    -   -    David_Mattingly       *             *        *      *             *             *         *       -
+
+bc/cnn/00/cnn_0002   14    0         And    CC     (TOP(S*         -    -   -    Anderson_Cooper         *      *    (ARGM-DIS*)     *        *       -
+bc/cnn/00/cnn_0002   14    1       David   NNP        (NP*)        -    -   -    Anderson_Cooper   (PERSON)     *    (ARGM-DIS*)     *        *     (64)
+bc/cnn/00/cnn_0002   14    2          we   PRP        (NP*)        -    -   -    Anderson_Cooper         *      *        (ARG0*)     *        *       -
+bc/cnn/00/cnn_0002   14    3         're   VBP        (VP*         be  03   -    Anderson_Cooper         *    (V*)            *      *        *       -
+bc/cnn/00/cnn_0002   14    4     looking   VBG        (VP*       look  01   1    Anderson_Cooper         *      *           (V*)     *        *       -
+bc/cnn/00/cnn_0002   14    5          at    IN        (PP*         -    -   -    Anderson_Cooper         *      *        (ARG1*      *        *       -
+bc/cnn/00/cnn_0002   14    6    pictures   NNS   (NP(NP*)))   picture   -   2    Anderson_Cooper         *      *             *)     *        *    (213)
+bc/cnn/00/cnn_0002   14    7         now    RB      (ADVP*)        -    -   -    Anderson_Cooper         *      *    (ARGM-TMP*)     *        *       -
+bc/cnn/00/cnn_0002   14    8          of    IN        (PP*         -    -   -    Anderson_Cooper         *      *             *      *        *       -
+bc/cnn/00/cnn_0002   14    9         the    DT      (S(NP*         -    -   -    Anderson_Cooper         *      *             *      *   (ARG1*    (126
+bc/cnn/00/cnn_0002   14   10     suspect    NN           *)   suspect   -   -    Anderson_Cooper         *      *             *      *        *)    126)
+bc/cnn/00/cnn_0002   14   11       being   VBG        (VP*         be  03   -    Anderson_Cooper         *      *             *    (V*)       *       -
+bc/cnn/00/cnn_0002   14   12         put   VBN        (VP*        put  01   1    Anderson_Cooper         *      *             *      *      (V*)      -
+bc/cnn/00/cnn_0002   14   13        into    IN        (PP*         -    -   -    Anderson_Cooper         *      *             *      *   (ARG2*       -
+bc/cnn/00/cnn_0002   14   14           a    DT        (NP*         -    -   -    Anderson_Cooper         *      *             *      *        *       -
+bc/cnn/00/cnn_0002   14   15      police    NN           *     police   -   -    Anderson_Cooper         *      *             *      *        *       -
+bc/cnn/00/cnn_0002   14   16         car    NN    *))))))))       car   -   2    Anderson_Cooper         *      *             *      *        *)      -
+bc/cnn/00/cnn_0002   14   17          /.     .          *))        -    -   -    Anderson_Cooper         *      *             *      *        *       -
+
+bc/cnn/00/cnn_0002   14    0           I   PRP   (TOP(S(NP*)        -    -    -    Anderson_Cooper  *      *        (ARG0*)     *         *    (77)
+bc/cnn/00/cnn_0002   14    1          do   VBP         (VP*         do  01    -    Anderson_Cooper  *    (V*)            *      *         *      -
+bc/cnn/00/cnn_0002   14    2         n't    RB            *         -    -    -    Anderson_Cooper  *      *    (ARGM-NEG*)     *         *      -
+bc/cnn/00/cnn_0002   14    3        know    VB         (VP*       know  01    1    Anderson_Cooper  *      *           (V*)     *         *      -
+bc/cnn/00/cnn_0002   14    4          if    IN       (SBAR*         -    -    -    Anderson_Cooper  *      *        (ARG1*      *         *      -
+bc/cnn/00/cnn_0002   14    5         you   PRP       (S(NP*)        -    -    -    Anderson_Cooper  *      *             *      *    (ARG0*)   (64)
+bc/cnn/00/cnn_0002   14    6         've   VBP         (VP*       have  01   12    Anderson_Cooper  *      *             *    (V*)        *      -
+bc/cnn/00/cnn_0002   14    7        seen   VBN         (VP*        see  01    1    Anderson_Cooper  *      *             *      *       (V*)     -
+bc/cnn/00/cnn_0002   14    8         the    DT         (NP*         -    -    -    Anderson_Cooper  *      *             *      *    (ARG1*   (213
+bc/cnn/00/cnn_0002   14    9    pictures   NNS      *)))))))   picture   -    2    Anderson_Cooper  *      *             *)     *         *)   213)
+bc/cnn/00/cnn_0002   14   10          /.     .           *))        -    -    -    Anderson_Cooper  *      *             *      *         *      -
+
+bc/cnn/00/cnn_0002   14   0       Is    VBZ  (TOP(SQ*       be  01   2    Anderson_Cooper  *       (V*)           -
+bc/cnn/00/cnn_0002   14   1     that     DT      (NP*)      -    -   -    Anderson_Cooper  *    (ARG1*)        (120)
+bc/cnn/00/cnn_0002   14   2    blood     NN   (NP(NP*)   blood   -   -    Anderson_Cooper  *    (ARG2*            -
+bc/cnn/00/cnn_0002   14   3       on     IN      (PP*       -    -   -    Anderson_Cooper  *         *            -
+bc/cnn/00/cnn_0002   14   4      his   PRP$      (NP*       -    -   -    Anderson_Cooper  *         *    (187|(126)
+bc/cnn/00/cnn_0002   14   5    shirt     NN       *)))      -    -   -    Anderson_Cooper  *         *)         187)
+bc/cnn/00/cnn_0002   14   6       /?      .        *))      -    -   -    Anderson_Cooper  *         *            -
+
+bc/cnn/00/cnn_0002   14   0     That     DT   (TOP(S(NP*)      -    -   -    David_Mattingly  *    (ARG1*)        (120)
+bc/cnn/00/cnn_0002   14   1       is    VBZ         (VP*       be  01   2    David_Mattingly  *       (V*)           -
+bc/cnn/00/cnn_0002   14   2    blood     NN      (NP(NP*)   blood   -   -    David_Mattingly  *    (ARG2*            -
+bc/cnn/00/cnn_0002   14   3       on     IN         (PP*       -    -   -    David_Mattingly  *         *            -
+bc/cnn/00/cnn_0002   14   4      his   PRP$         (NP*       -    -   -    David_Mattingly  *         *    (187|(126)
+bc/cnn/00/cnn_0002   14   5    shirt     NN         *))))      -    -   -    David_Mattingly  *         *)         187)
+bc/cnn/00/cnn_0002   14   6       /.      .           *))      -    -   -    David_Mattingly  *         *            -
+
+bc/cnn/00/cnn_0002   14    0         Again     RB       (TOP(S(ADVP*)         -    -   -    David_Mattingly  *      *    (ARGM-ADV*)        *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    1            he    PRP               (NP*)         -    -   -    David_Mattingly  *      *        (ARG1*)        *        *      *      *             *            *         (126)
+bc/cnn/00/cnn_0002   14    2           was    VBD               (VP*          be  03   -    David_Mattingly  *    (V*)            *         *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    3       treated    VBN               (VP*       treat  03   4    David_Mattingly  *      *           (V*)        *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    4           for     IN               (PP*          -    -   -    David_Mattingly  *      *        (ARG2*         *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    5          what     WP        (SBAR(WHNP*)         -    -   -    David_Mattingly  *      *             *    (ARG0*)       *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    6        looked    VBD             (S(VP*        look  01   2    David_Mattingly  *      *             *       (V*)       *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    7          like     IN               (PP*          -    -   -    David_Mattingly  *      *             *    (ARG1*        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    8             a     DT            (NP(NP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14    9       gunshot     NN                  *          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14   10         wound     NN                  *)      wound   -   1    David_Mattingly  *      *             *         *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14   11            to     IN               (PP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14   12           his   PRP$               (NP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *            *    (191|(126)
+bc/cnn/00/cnn_0002   14   13          hand     NN           *))))))))       hand   -   1    David_Mattingly  *      *             *)        *)       *      *      *             *            *          191)
+bc/cnn/00/cnn_0002   14   14    suggesting    VBG             (S(VP*     suggest  01   2    David_Mattingly  *      *             *         *      (V*)     *      *             *            *            -
+bc/cnn/00/cnn_0002   14   15          that     IN             (SBAR*          -    -   -    David_Mattingly  *      *             *         *   (ARG1*      *      *             *            *            -
+bc/cnn/00/cnn_0002   14   16            he    PRP             (S(NP*)         -    -   -    David_Mattingly  *      *             *         *        *      *      *        (ARG1*)           *         (126)
+bc/cnn/00/cnn_0002   14   17         might     MD               (VP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *    (ARGM-MOD*)           *            -
+bc/cnn/00/cnn_0002   14   18          have     VB               (VP*        have  01   -    David_Mattingly  *      *             *         *        *    (V*)     *             *            *            -
+bc/cnn/00/cnn_0002   14   19          been    VBN               (VP*          be  03   -    David_Mattingly  *      *             *         *        *      *    (V*)            *            *            -
+bc/cnn/00/cnn_0002   14   20       wounded    VBN               (VP*       wound  01   -    David_Mattingly  *      *             *         *        *      *      *           (V*)           *            -
+bc/cnn/00/cnn_0002   14   21       himself    PRP               (NP*)         -    -   -    David_Mattingly  *      *             *         *        *      *      *    (ARGM-ADV*)           *         (126)
+bc/cnn/00/cnn_0002   14   22        during     IN               (PP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *    (ARGM-TMP*            *            -
+bc/cnn/00/cnn_0002   14   23      whatever    WDT        (SBAR(WHNP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *       (ARG1*            -
+bc/cnn/00/cnn_0002   14   24      struggle     NN                  *)   struggle   -   2    David_Mattingly  *      *             *         *        *      *      *             *            *)           -
+bc/cnn/00/cnn_0002   14   25          that     IN                  *          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *            *            -
+bc/cnn/00/cnn_0002   14   26      occurred    VBD             (S(VP*       occur  01   1    David_Mattingly  *      *             *         *        *      *      *             *          (V*)           -
+bc/cnn/00/cnn_0002   14   27         after     IN               (PP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *   (ARGM-TMP*            -
+bc/cnn/00/cnn_0002   14   28         these     DT               (NP*          -    -   -    David_Mattingly  *      *             *         *        *      *      *             *            *         (154
+bc/cnn/00/cnn_0002   14   29     shootings    NNS   *))))))))))))))))         -    -   -    David_Mattingly  *      *             *         *        *)     *      *             *)           *)         154)
+bc/cnn/00/cnn_0002   14   30            /.      .                 *))         -    -   -    David_Mattingly  *      *             *         *        *      *      *             *            *            -
+
+bc/cnn/00/cnn_0002   14    0    Authorities   NNS         (TOP(S(NP*)   authority   -   3    David_Mattingly          *       (ARG0*)     *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14    1           tell   VBP               (VP*         tell  01   1    David_Mattingly          *          (V*)     *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14    2             us   PRP               (NP*)          -    -   -    David_Mattingly          *       (ARG2*)     *      *            *            *      *         *    (107)
+bc/cnn/00/cnn_0002   14    3           that    IN             (SBAR*           -    -   -    David_Mattingly          *       (ARG1*      *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14    4             he   PRP             (S(NP*)          -    -   -    David_Mattingly          *            *      *      *       (ARG1*)           *      *         *    (126)
+bc/cnn/00/cnn_0002   14    5            had   VBD               (VP*         have  01   -    David_Mattingly          *            *    (V*)     *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14    6           been   VBN               (VP*           be  03   -    David_Mattingly          *            *      *    (V*)           *            *      *         *       -
+bc/cnn/00/cnn_0002   14    7        subdued   VBN               (VP*       subdue  01   -    David_Mattingly          *            *      *      *          (V*)           *      *         *       -
+bc/cnn/00/cnn_0002   14    8             by    IN               (PP*           -    -   -    David_Mattingly          *            *      *      *   (ARGM-TMP*            *      *         *       -
+bc/cnn/00/cnn_0002   14    9            the    DT            (NP(NP*           -    -   -    David_Mattingly          *            *      *      *            *   (ARGM-TMP*      *         *       -
+bc/cnn/00/cnn_0002   14   10           time    NN                  *)        time   -   1    David_Mattingly          *            *      *      *            *            *)     *         *       -
+bc/cnn/00/cnn_0002   14   11            the    DT        (SBAR(S(NP*           -    -   -    David_Mattingly          *            *      *      *            *       (ARG1*      *         *       -
+bc/cnn/00/cnn_0002   14   12          first    JJ                  *           -    -   -    David_Mattingly   (ORDINAL)           *      *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14   13     responders   NNS                  *)          -    -   -    David_Mattingly          *            *      *      *            *            *)     *         *       -
+bc/cnn/00/cnn_0002   14   14        arrived   VBD               (VP*       arrive  01   1    David_Mattingly          *            *      *      *            *          (V*)     *         *       -
+bc/cnn/00/cnn_0002   14   15           here    RB   (ADVP*)))))))))))          -    -   -    David_Mattingly          *            *)     *      *            *)      (ARG4*)     *         *       -
+bc/cnn/00/cnn_0002   14   16             so    IN             (SBAR*           -    -   -    David_Mattingly          *   (ARGM-PRP*      *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14   17           that    IN                  *           -    -   -    David_Mattingly          *            *      *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14   18             he   PRP             (S(NP*)          -    -   -    David_Mattingly          *            *      *      *            *            *      *    (ARG1*)   (126)
+bc/cnn/00/cnn_0002   14   19            was   VBD               (VP*           be  03   -    David_Mattingly          *            *      *      *            *            *    (V*)        *       -
+bc/cnn/00/cnn_0002   14   20        subdued   VBN               (VP*       subdue  01   1    David_Mattingly          *            *      *      *            *            *      *       (V*)      -
+bc/cnn/00/cnn_0002   14   21             by    IN               (PP*           -    -   -    David_Mattingly          *            *      *      *            *            *      *    (ARG0*       -
+bc/cnn/00/cnn_0002   14   22          staff    NN            (NP(NP*)       staff   -   1    David_Mattingly          *            *      *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14   23           here    RB             (ADVP*           -    -   -    David_Mattingly          *            *      *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14   24             at    IN               (PP*           -    -   -    David_Mattingly          *            *      *      *            *            *      *         *       -
+bc/cnn/00/cnn_0002   14   25            the    DT               (NP*           -    -   -    David_Mattingly          *            *      *      *            *            *      *         *     (78
+bc/cnn/00/cnn_0002   14   26         school    NN         *))))))))))      school   -   2    David_Mattingly          *            *)     *      *            *            *      *         *)     78)
+bc/cnn/00/cnn_0002   14   27             /.     .                 *))          -    -   -    David_Mattingly          *            *      *      *            *            *      *         *       -
+
+bc/cnn/00/cnn_0002   14   0       After    IN    (TOP(S(PP*        -    -   -    David_Mattingly  *         *   (ARGM-TMP*     -
+bc/cnn/00/cnn_0002   14   1         all    DT       (NP(NP*)       -    -   -    David_Mattingly  *         *            *     -
+bc/cnn/00/cnn_0002   14   2        that   WDT   (SBAR(WHNP*)       -    -   -    David_Mattingly  *    (ARG1*)           *     -
+bc/cnn/00/cnn_0002   14   3    happened   VBD    (S(VP*)))))   happen  01   1    David_Mattingly  *       (V*)           *)    -
+bc/cnn/00/cnn_0002   14   4         the    DT          (NP*        -    -   -    David_Mattingly  *         *       (ARG1*   (78
+bc/cnn/00/cnn_0002   14   5      school    NN             *)   school   -   2    David_Mattingly  *         *            *)   78)
+bc/cnn/00/cnn_0002   14   6         was   VBD          (VP*        be  01   1    David_Mattingly  *         *          (V*)    -
+bc/cnn/00/cnn_0002   14   7          in    IN          (PP*        -    -   -    David_Mattingly  *         *       (ARG2*     -
+bc/cnn/00/cnn_0002   14   8    lockdown    NN        (NP*)))       -    -   -    David_Mattingly  *         *            *)    -
+bc/cnn/00/cnn_0002   14   9          /.     .            *))       -    -   -    David_Mattingly  *         *            *     -
+
+bc/cnn/00/cnn_0002   14    0         the     DT  (TOP(S(NP*         -    -   -    David_Mattingly       *      *       (ARG1*    (131
+bc/cnn/00/cnn_0002   14    1    students    NNS           *)   student   -   1    David_Mattingly       *      *            *)    131)
+bc/cnn/00/cnn_0002   14    2        were    VBD        (VP*         be  03   -    David_Mattingly       *    (V*)           *       -
+bc/cnn/00/cnn_0002   14    3      locked    VBN        (VP*       lock  01   -    David_Mattingly       *      *          (V*)      -
+bc/cnn/00/cnn_0002   14    4          in     IN        (PP*         -    -   -    David_Mattingly       *      *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   14    5       their   PRP$        (NP*         -    -   -    David_Mattingly       *      *            *    (131)
+bc/cnn/00/cnn_0002   14    6     classes    NNS          *))     class   -   3    David_Mattingly       *      *            *)      -
+bc/cnn/00/cnn_0002   14    7         for     IN        (PP*         -    -   -    David_Mattingly       *      *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   14    8       about     RB     (NP(QP*         -    -   -    David_Mattingly  (TIME*      *            *       -
+bc/cnn/00/cnn_0002   14    9         two     CD           *)        -    -   -    David_Mattingly       *      *            *       -
+bc/cnn/00/cnn_0002   14   10       hours    NNS        *))))      hour   -   1    David_Mattingly       *)     *            *)      -
+bc/cnn/00/cnn_0002   14   11          /.      .          *))        -    -   -    David_Mattingly       *      *            *       -
+
+bc/cnn/00/cnn_0002   14    0        They   PRP   (TOP(S(NP*)        -    -   -    David_Mattingly  *      *        (ARG1*)   (131)
+bc/cnn/00/cnn_0002   14    1        were   VBD         (VP*         be  03   -    David_Mattingly  *    (V*)            *       -
+bc/cnn/00/cnn_0002   14    2    released   VBD         (VP*    release  01   1    David_Mattingly  *      *           (V*)      -
+bc/cnn/00/cnn_0002   14    3          uh    UH       (INTJ*)        -    -   -    David_Mattingly  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   14    4          to    IN         (PP*         -    -   -    David_Mattingly  *      *    (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   14    5        some    DT         (NP*         -    -   -    David_Mattingly  *      *             *       -
+bc/cnn/00/cnn_0002   14    6        very    RB       (ADJP*         -    -   -    David_Mattingly  *      *             *       -
+bc/cnn/00/cnn_0002   14    7     anxious    JJ            *)        -    -   -    David_Mattingly  *      *             *       -
+bc/cnn/00/cnn_0002   14    8     parents   NNS           *))        -    -   -    David_Mattingly  *      *             *)      -
+bc/cnn/00/cnn_0002   14    9        here    RB       (ADVP*)        -    -   -    David_Mattingly  *      *    (ARGM-LOC*)      -
+bc/cnn/00/cnn_0002   14   10     outside    IN         (PP*         -    -   -    David_Mattingly  *      *    (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   14   11         the    DT         (NP*         -    -   -    David_Mattingly  *      *             *       -
+bc/cnn/00/cnn_0002   14   12      school    NN            *     school   -   2    David_Mattingly  *      *             *       -
+bc/cnn/00/cnn_0002   14   13     grounds   NNS         *))))    ground   -   -    David_Mattingly  *      *             *)      -
+bc/cnn/00/cnn_0002   14   14          /.     .           *))        -    -   -    David_Mattingly  *      *             *       -
+
+bc/cnn/00/cnn_0002   14    0         The    DT  (TOP(S(NP*        -    -   -    David_Mattingly         *      *      *      *       (ARG1*    (78
+bc/cnn/00/cnn_0002   14    1      school    NN           *)   school   -   2    David_Mattingly         *      *      *      *            *)    78)
+bc/cnn/00/cnn_0002   14    2          is   VBZ        (VP*        be  03   -    David_Mattingly         *    (V*)     *      *            *      -
+bc/cnn/00/cnn_0002   14    3       going   VBG        (VP*        go  04   7    David_Mattingly         *      *    (V*)     *            *      -
+bc/cnn/00/cnn_0002   14    4          to    TO      (S(VP*        -    -   -    David_Mattingly         *      *      *      *            *      -
+bc/cnn/00/cnn_0002   14    5          be    VB        (VP*        be  03   -    David_Mattingly         *      *      *    (V*)           *      -
+bc/cnn/00/cnn_0002   14    6      closed   VBN        (VP*     close  01   -    David_Mattingly         *      *      *      *          (V*)     -
+bc/cnn/00/cnn_0002   14    7         for    IN        (PP*        -    -   -    David_Mattingly         *      *      *      *   (ARGM-TMP*      -
+bc/cnn/00/cnn_0002   14    8         the    DT     (NP(NP*        -    -   -    David_Mattingly    (DATE*      *      *      *            *      -
+bc/cnn/00/cnn_0002   14    9        rest    NN           *)     rest   -   1    David_Mattingly         *      *      *      *            *      -
+bc/cnn/00/cnn_0002   14   10          of    IN        (PP*        -    -   -    David_Mattingly         *      *      *      *            *      -
+bc/cnn/00/cnn_0002   14   11         the    DT        (NP*        -    -   -    David_Mattingly         *      *      *      *            *      -
+bc/cnn/00/cnn_0002   14   12        week    NN    *))))))))       -    -   -    David_Mattingly         *)     *      *      *            *)     -
+bc/cnn/00/cnn_0002   14   13    Anderson   NNP      (NP*)))       -    -   -    David_Mattingly   (PERSON)     *      *      *            *    (77)
+bc/cnn/00/cnn_0002   14   14          /.     .          *))       -    -   -    David_Mattingly         *      *      *      *            *      -
+
+bc/cnn/00/cnn_0002   14    0         There    EX      (TOP(S(NP*)        -    -   -    David_Mattingly  *             *            *           *            -
+bc/cnn/00/cnn_0002   14    1          will    MD            (VP*         -    -   -    David_Mattingly  *    (ARGM-MOD*)           *           *            -
+bc/cnn/00/cnn_0002   14    2            be    VB            (VP*         be  02   5    David_Mattingly  *           (V*)           *           *            -
+bc/cnn/00/cnn_0002   14    3    counseling    NN      (NP(NP(NP*)   counsel   -   2    David_Mattingly  *        (ARG1*       (ARG1*           *         (133
+bc/cnn/00/cnn_0002   14    4          here    RB         (ADVP*))        -    -   -    David_Mattingly  *             *            *)          *            -
+bc/cnn/00/cnn_0002   14    5         going   VBG            (VP*         go  15   5    David_Mattingly  *             *          (V*)          *            -
+bc/cnn/00/cnn_0002   14    6            on    RP           (PRT*)        -    -   -    David_Mattingly  *             *            *           *            -
+bc/cnn/00/cnn_0002   14    7           for    IN            (PP*         -    -   -    David_Mattingly  *             *   (ARGM-ADV*           *            -
+bc/cnn/00/cnn_0002   14    8        anyone    NN         (NP(NP*)        -    -   -    David_Mattingly  *             *            *      (ARG0*)           -
+bc/cnn/00/cnn_0002   14    9           who    WP     (SBAR(WHNP*)        -    -   -    David_Mattingly  *             *            *    (R-ARG0*)           -
+bc/cnn/00/cnn_0002   14   10         needs   VBZ          (S(VP*       need  01   1    David_Mattingly  *             *            *         (V*)           -
+bc/cnn/00/cnn_0002   14   11            it   PRP   (NP*))))))))))        -    -   -    David_Mattingly  *             *)           *)     (ARG1*)   (133)|133)
+bc/cnn/00/cnn_0002   14   12            /.     .              *))        -    -   -    David_Mattingly  *             *            *           *            -
+
+bc/cnn/00/cnn_0002   14    0         and    CC     (TOP(S*         -    -    -    David_Mattingly  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   14    1        that    DT        (NP*)        -    -    -    David_Mattingly  *        (ARG1*)   (133)
+bc/cnn/00/cnn_0002   14    2        goes   VBZ        (VP*         go  11   15    David_Mattingly  *           (V*)      -
+bc/cnn/00/cnn_0002   14    3         for    IN        (PP*         -    -    -    David_Mattingly  *        (ARG2*       -
+bc/cnn/00/cnn_0002   14    4         not    RB  (NP(CONJP*         -    -    -    David_Mattingly  *             *       -
+bc/cnn/00/cnn_0002   14    5        just    RB           *)        -    -    -    David_Mattingly  *             *       -
+bc/cnn/00/cnn_0002   14    6         the    DT        (NP*         -    -    -    David_Mattingly  *             *    (131
+bc/cnn/00/cnn_0002   14    7    students   NNS           *)   student   -    1    David_Mattingly  *             *     131)
+bc/cnn/00/cnn_0002   14    8         but    CC           *         -    -    -    David_Mattingly  *             *       -
+bc/cnn/00/cnn_0002   14    9         the    DT     (NP(NP*         -    -    -    David_Mattingly  *             *       -
+bc/cnn/00/cnn_0002   14   10       staff    NN           *)     staff   -    1    David_Mattingly  *             *       -
+bc/cnn/00/cnn_0002   14   11        here    RB      (ADVP*)        -    -    -    David_Mattingly  *             *       -
+bc/cnn/00/cnn_0002   14   12          as    RB      (ADVP*         -    -    -    David_Mattingly  *             *       -
+bc/cnn/00/cnn_0002   14   13        well    RB       *)))))        -    -    -    David_Mattingly  *             *)      -
+bc/cnn/00/cnn_0002   14   14          /.     .          *))        -    -    -    David_Mattingly  *             *       -
+
+bc/cnn/00/cnn_0002   14   0          All    RB  (TOP(FRAG(ADVP*        -    -   -    Anderson_Cooper         *    (ARGM-DIS*      -
+bc/cnn/00/cnn_0002   14   1        right    RB                *)       -    -   -    Anderson_Cooper         *             *)     -
+bc/cnn/00/cnn_0002   14   2        David   NNP             (NP*)       -    -   -    Anderson_Cooper   (PERSON)   (ARGM-DIS*)   (64)
+bc/cnn/00/cnn_0002   14   3       thanks   NNS             (NP*)   thanks  01   1    Anderson_Cooper         *           (V*)     -
+bc/cnn/00/cnn_0002   14   4         good    JJ             (NP*        -    -   -    Anderson_Cooper         *        (ARG2*      -
+bc/cnn/00/cnn_0002   14   5    reporting    NN                *)   report   -   -    Anderson_Cooper         *             *)     -
+bc/cnn/00/cnn_0002   14   6           /.     .               *))       -    -   -    Anderson_Cooper         *             *      -
+
+bc/cnn/00/cnn_0002   14    0               As    IN   (TOP(SBAR*               -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14    1            David   NNP         (NP*)              -    -   -    Anderson_Cooper   (PERSON)           *             *    (64)
+bc/cnn/00/cnn_0002   14    2               it   PRP       (S(NP*)              -    -   -    Anderson_Cooper         *       (ARG1*)            *      -
+bc/cnn/00/cnn_0002   14    3               is   VBZ         (VP*               be  01   1    Anderson_Cooper         *          (V*)            *      -
+bc/cnn/00/cnn_0002   14    4               an    DT         (NP*               -    -   -    Anderson_Cooper         *       (ARG2*             *      -
+bc/cnn/00/cnn_0002   14    5           active    JJ            *               -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14    6    investigation    NN    (NML(NML*)   investigation   -   1    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14    7              and    CC            *               -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14    8            crime    NN        (NML*               -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14    9            scene    NN          *)))              -    -   -    Anderson_Cooper         *            *)            *      -
+bc/cnn/00/cnn_0002   14   10               as    IN       (SBAR*               -    -   -    Anderson_Cooper         *   (ARGM-ADV*             *      -
+bc/cnn/00/cnn_0002   14   11              you   PRP       (S(NP*)              -    -   -    Anderson_Cooper         *            *        (ARG0*)     -
+bc/cnn/00/cnn_0002   14   12              can    MD         (VP*               -    -   -    Anderson_Cooper         *            *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0002   14   13              see    VB      (VP*))))             see  01   1    Anderson_Cooper         *            *)          (V*)     -
+bc/cnn/00/cnn_0002   14   14             very    RB  (FRAG(ADVP*               -    -   -    Anderson_Cooper         *   (ARGM-ADV*             *      -
+bc/cnn/00/cnn_0002   14   15             much    RB            *)              -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14   16               uh    UH            *               -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14   17            still    RB       (ADVP*)              -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14   18               an    DT         (NP*               -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14   19           active    JJ            *               -    -   -    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14   20            crime    NN            *            crime   -   1    Anderson_Cooper         *            *             *      -
+bc/cnn/00/cnn_0002   14   21            scene    NN         *))))              -    -   -    Anderson_Cooper         *            *)            *      -
+bc/cnn/00/cnn_0002   14   22               /.     .           *))              -    -   -    Anderson_Cooper         *            *             *      -

@@ -1,0 +1,433 @@
+bc/msnbc/00/msnbc_0004   9    0         Okay    UH   (TOP(S(INTJ*)    -    -   -    Chris_Matthews         *    (ARGM-DIS*)        *      -
+bc/msnbc/00/msnbc_0004   9    1          let    VB           (VP*    let  01   1    Chris_Matthews         *           (V*)        *      -
+bc/msnbc/00/msnbc_0004   9    2           me   PRP         (S(NP*)    -    -   -    Chris_Matthews         *        (ARG1*    (ARG0*)   (21)
+bc/msnbc/00/msnbc_0004   9    3           go    VB           (VP*     go  02   1    Chris_Matthews         *             *       (V*)     -
+bc/msnbc/00/msnbc_0004   9    4           to    IN           (PP*     -    -   -    Chris_Matthews         *             *    (ARG4*      -
+bc/msnbc/00/msnbc_0004   9    5    Secretary   NNP   (NP(NML(NML*)    -    -   -    Chris_Matthews         *             *         *   (147
+bc/msnbc/00/msnbc_0004   9    6           of    IN           (PP*     -    -   -    Chris_Matthews         *             *         *      -
+bc/msnbc/00/msnbc_0004   9    7        State   NNP         (NP*)))    -    -   -    Chris_Matthews      (ORG)            *         *      -
+bc/msnbc/00/msnbc_0004   9    8          Ken   NNP              *     -    -   -    Chris_Matthews  (PERSON*             *         *      -
+bc/msnbc/00/msnbc_0004   9    9    Blackwell   NNP          *)))))    -    -   -    Chris_Matthews         *)            *)        *)   147)
+bc/msnbc/00/msnbc_0004   9   10           /.     .             *))    -    -   -    Chris_Matthews         *             *         *      -
+
+bc/msnbc/00/msnbc_0004   9    0          Mr.   NNP     (TOP(SQ(NP*       -    -   -    Chris_Matthews      *   (ARGM-DIS*            *      *      *            *    (147
+bc/msnbc/00/msnbc_0004   9    1    Secretary   NNP               *)      -    -   -    Chris_Matthews      *            *)           *      *      *            *     147)
+bc/msnbc/00/msnbc_0004   9    2          are   VBP               *       be  01   1    Chris_Matthews      *          (V*)           *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9    3          you   PRP            (NP*)      -    -   -    Chris_Matthews      *       (ARG1*)           *      *      *            *    (147)
+bc/msnbc/00/msnbc_0004   9    4        happy    JJ          (ADJP*)      -    -   -    Chris_Matthews      *       (ARG2*)           *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9    5           as    IN            (PP*       -    -   -    Chris_Matthews      *   (ARGM-MNR*            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9    6            a    DT         (NP(NP*       -    -   -    Chris_Matthews      *            *            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9    7    candidate    NN               *)      -    -   -    Chris_Matthews      *            *            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9    8          for    IN            (PP*       -    -   -    Chris_Matthews      *            *            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9    9     governor    NN         (NP(NP*)      -    -   -    Chris_Matthews      *            *            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9   10           of    IN            (PP*       -    -   -    Chris_Matthews      *            *            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9   11         Ohio   NNP       (NP*))))))      -    -   -    Chris_Matthews   (GPE)           *)           *      *      *            *    (121)
+bc/msnbc/00/msnbc_0004   9   12         with    IN            (PP*       -    -   -    Chris_Matthews      *     (C-ARG2*            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9   13          the    DT         (NP(NP*       -    -   -    Chris_Matthews      *            *            *      *      *   (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0004   9   14          way    NN               *)     way   -   1    Chris_Matthews      *            *            *      *      *            *)      -
+bc/msnbc/00/msnbc_0004   9   15         this    DT  (SBAR(S(NP(NP*       -    -   -    Chris_Matthews      *            *            *      *      *       (ARG1*     (41
+bc/msnbc/00/msnbc_0004   9   16          war    NN               *)     war  01   1    Chris_Matthews      *            *          (V*)     *      *            *       -
+bc/msnbc/00/msnbc_0004   9   17           in    IN            (PP*       -    -   -    Chris_Matthews      *            *   (ARGM-LOC*      *      *            *       -
+bc/msnbc/00/msnbc_0004   9   18         Iraq   NNP          (NP*)))      -    -   -    Chris_Matthews   (GPE)           *            *)     *      *            *)     41)
+bc/msnbc/00/msnbc_0004   9   19          has   VBZ            (VP*     have  01   -    Chris_Matthews      *            *            *    (V*)     *            *       -
+bc/msnbc/00/msnbc_0004   9   20         been   VBN            (VP*       be  03   -    Chris_Matthews      *            *            *      *    (V*)           *       -
+bc/msnbc/00/msnbc_0004   9   21       fought   VBN            (VP*    fight  01   1    Chris_Matthews      *            *            *      *      *          (V*)      -
+bc/msnbc/00/msnbc_0004   9   22           by    IN            (PP*       -    -   -    Chris_Matthews      *            *            *      *      *       (ARG0*       -
+bc/msnbc/00/msnbc_0004   9   23          the    DT            (NP*       -    -   -    Chris_Matthews  (GPE*            *            *      *      *            *    (193
+bc/msnbc/00/msnbc_0004   9   24       United   NNP               *       -    -   -    Chris_Matthews      *            *            *      *      *            *       -
+bc/msnbc/00/msnbc_0004   9   25       States   NNP       *)))))))))      -    -   -    Chris_Matthews      *)           *)           *      *      *            *)    193)
+bc/msnbc/00/msnbc_0004   9   26           /?     .              *))      -    -   -    Chris_Matthews      *            *            *      *      *            *       -
+
+bc/msnbc/00/msnbc_0004   9    0            Are   VBP  (TOP(SQ*             be  01   1    Chris_Matthews  *       (V*)       *        *      *       -
+bc/msnbc/00/msnbc_0004   9    1            you   PRP      (NP*)            -    -   -    Chris_Matthews  *    (ARG1*)       *        *      *    (147)
+bc/msnbc/00/msnbc_0004   9    2          happy    JJ    (ADJP*             -    -   -    Chris_Matthews  *    (ARG2*        *        *      *       -
+bc/msnbc/00/msnbc_0004   9    3           with    IN      (PP*             -    -   -    Chris_Matthews  *         *        *        *      *       -
+bc/msnbc/00/msnbc_0004   9    4            the    DT   (NP(NP*             -    -   -    Chris_Matthews  *         *        *        *      *       -
+bc/msnbc/00/msnbc_0004   9    5       progress    NN         *       progress  01   3    Chris_Matthews  *         *      (V*)       *      *       -
+bc/msnbc/00/msnbc_0004   9    6            and    CC         *             -    -   -    Chris_Matthews  *         *        *        *      *       -
+bc/msnbc/00/msnbc_0004   9    7    prosecution    NN         *)   prosecution  01   3    Chris_Matthews  *         *        *      (V*)     *       -
+bc/msnbc/00/msnbc_0004   9    8             of    IN      (PP*             -    -   -    Chris_Matthews  *         *   (ARG1*   (ARG1*      *       -
+bc/msnbc/00/msnbc_0004   9    9           this    DT      (NP*             -    -   -    Chris_Matthews  *         *        *        *      *     (41
+bc/msnbc/00/msnbc_0004   9   10            war    NN     *)))))           war  01   1    Chris_Matthews  *         *)       *)       *)   (V*)     41)
+bc/msnbc/00/msnbc_0004   9   11             /?     .        *))            -    -   -    Chris_Matthews  *         *        *        *      *       -
+
+bc/msnbc/00/msnbc_0004   9    0       First     RB    (TOP(S(ADVP*)       -    -   -    Ken_Blackwell           *    (ARGM-TMP*)        *            *            *         *       -
+bc/msnbc/00/msnbc_0004   9    1       Chris    NNP            (NP*)       -    -   -    Ken_Blackwell     (PERSON)   (ARGM-DIS*)        *            *            *         *     (21)
+bc/msnbc/00/msnbc_0004   9    2         let     VB            (VP*       let  01   1    Ken_Blackwell           *           (V*)        *            *            *         *       -
+bc/msnbc/00/msnbc_0004   9    3          me    PRP          (S(NP*)       -    -   -    Ken_Blackwell           *        (ARG1*    (ARG0*)           *            *         *    (147)
+bc/msnbc/00/msnbc_0004   9    4         say     VB            (VP*       say  01   1    Ken_Blackwell           *             *       (V*)           *            *         *       -
+bc/msnbc/00/msnbc_0004   9    5        that     IN          (SBAR*        -    -   -    Ken_Blackwell           *             *    (ARG1*            *            *         *       -
+bc/msnbc/00/msnbc_0004   9    6          my   PRP$          (S(NP*        -    -   -    Ken_Blackwell           *             *         *       (ARG0*            *         *    (147)
+bc/msnbc/00/msnbc_0004   9    7       heart     NN               *)    heart   -   5    Ken_Blackwell           *             *         *            *)           *         *       -
+bc/msnbc/00/msnbc_0004   9    8       aches    VBZ            (VP*      ache  01   1    Ken_Blackwell           *             *         *          (V*)           *         *       -
+bc/msnbc/00/msnbc_0004   9    9         for     IN            (PP*        -    -   -    Ken_Blackwell           *             *         *   (ARGM-CAU*            *         *       -
+bc/msnbc/00/msnbc_0004   9   10         the     DT         (NP(NP*        -    -   -    Ken_Blackwell           *             *         *            *       (ARG0*         *       -
+bc/msnbc/00/msnbc_0004   9   11      twenty     CD               *        -    -   -    Ken_Blackwell   (CARDINAL)            *         *            *            *         *       -
+bc/msnbc/00/msnbc_0004   9   12    families    NNS               *)   family   -   1    Ken_Blackwell           *             *         *            *            *)        *       -
+bc/msnbc/00/msnbc_0004   9   13        that    WDT     (SBAR(WHNP*)       -    -   -    Ken_Blackwell           *             *         *            *     (R-ARG0*)        *       -
+bc/msnbc/00/msnbc_0004   9   14        lost    VBD          (S(VP*      lose  02   4    Ken_Blackwell           *             *         *            *          (V*)        *       -
+bc/msnbc/00/msnbc_0004   9   15       loved    VBN            (NP*      love  01   -    Ken_Blackwell           *             *         *            *       (ARG1*       (V*)      -
+bc/msnbc/00/msnbc_0004   9   16        ones    NNS               *)      one   -   2    Ken_Blackwell           *             *         *            *            *)   (ARG1*)      -
+bc/msnbc/00/msnbc_0004   9   17          in     IN            (PP*        -    -   -    Ken_Blackwell           *             *         *            *   (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0004   9   18         the     DT            (NP*        -    -   -    Ken_Blackwell      (DATE*             *         *            *            *         *       -
+bc/msnbc/00/msnbc_0004   9   19        last     JJ               *        -    -   -    Ken_Blackwell           *             *         *            *            *         *       -
+bc/msnbc/00/msnbc_0004   9   20       forty     CD            (QP*        -    -   -    Ken_Blackwell           *             *         *            *            *         *       -
+bc/msnbc/00/msnbc_0004   9   21       eight     CD               *)       -    -   -    Ken_Blackwell           *             *         *            *            *         *       -
+bc/msnbc/00/msnbc_0004   9   22       hours    NNS   *)))))))))))))     hour   -   1    Ken_Blackwell           *)            *)        *)           *)           *)        *       -
+bc/msnbc/00/msnbc_0004   9   23          /.      .              *))       -    -   -    Ken_Blackwell           *             *         *            *            *         *       -
+
+bc/msnbc/00/msnbc_0004   9   0         Uh     UH   (TOP(S(INTJ*)      -    -   -    Ken_Blackwell       *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0004   9   1    Marines   NNPS           (NP*)      -    -   -    Ken_Blackwell   (NORP)       (ARG1*)     -
+bc/msnbc/00/msnbc_0004   9   2        are    VBP           (VP*       be  01   1    Ken_Blackwell       *           (V*)     -
+bc/msnbc/00/msnbc_0004   9   3       from     IN           (PP*       -    -   -    Ken_Blackwell       *        (ARG2*      -
+bc/msnbc/00/msnbc_0004   9   4        the     DT        (NP(NP*       -    -   -    Ken_Blackwell       *             *   (121
+bc/msnbc/00/msnbc_0004   9   5      state     NN              *)   state   -   2    Ken_Blackwell       *             *      -
+bc/msnbc/00/msnbc_0004   9   6         of     IN           (PP*       -    -   -    Ken_Blackwell       *             *      -
+bc/msnbc/00/msnbc_0004   9   7       Ohio    NNP       (NP*)))))      -    -   -    Ken_Blackwell    (GPE)            *)   121)
+bc/msnbc/00/msnbc_0004   9   8         /.      .             *))      -    -   -    Ken_Blackwell       *             *      -
+
+bc/msnbc/00/msnbc_0004   9    0            Uh    UH   (TOP(S(INTJ*)           -    -   -    Ken_Blackwell  *         *    (ARGM-DIS*)            *             *       -
+bc/msnbc/00/msnbc_0004   9    1          what    WP    (SBAR(WHNP*)           -    -   -    Ken_Blackwell  *         *        (ARG1*             *             *       -
+bc/msnbc/00/msnbc_0004   9    2             I   PRP         (S(NP*)           -    -   -    Ken_Blackwell  *    (ARG1*)            *             *             *    (147)
+bc/msnbc/00/msnbc_0004   9    3            am   VBP           (VP*            be  01   1    Ken_Blackwell  *       (V*)            *             *             *       -
+bc/msnbc/00/msnbc_0004   9    4           for    IN        (PP*))))           -    -   -    Ken_Blackwell  *    (ARG2*)            *)            *             *       -
+bc/msnbc/00/msnbc_0004   9    5            is   VBZ           (VP*            be  01   1    Ken_Blackwell  *         *           (V*)            *             *       -
+bc/msnbc/00/msnbc_0004   9    6          firm    JJ        (NP(NP*            -    -   -    Ken_Blackwell  *         *        (ARG2*    (ARGM-MNR*)            *    (146
+bc/msnbc/00/msnbc_0004   9    7    resolution    NN              *)   resolution  02   2    Ken_Blackwell  *         *             *           (V*)            *       -
+bc/msnbc/00/msnbc_0004   9    8           and    CC              *            -    -   -    Ken_Blackwell  *         *             *             *             *       -
+bc/msnbc/00/msnbc_0004   9    9             a    DT        (NP(NP*            -    -   -    Ken_Blackwell  *         *             *             *        (ARG0*       -
+bc/msnbc/00/msnbc_0004   9   10      strategy    NN              *)     strategy   -   1    Ken_Blackwell  *         *             *             *             *)      -
+bc/msnbc/00/msnbc_0004   9   11          that   WDT    (SBAR(WHNP*)           -    -   -    Ken_Blackwell  *         *             *             *      (R-ARG0*)      -
+bc/msnbc/00/msnbc_0004   9   12          will    MD         (S(VP*            -    -   -    Ken_Blackwell  *         *             *             *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0004   9   13          lead    VB           (VP*          lead  03   1    Ken_Blackwell  *         *             *             *           (V*)      -
+bc/msnbc/00/msnbc_0004   9   14            us   PRP           (NP*)           -    -   -    Ken_Blackwell  *         *             *             *        (ARG1*)      -
+bc/msnbc/00/msnbc_0004   9   15            to    IN           (PP*            -    -   -    Ken_Blackwell  *         *             *             *        (ARG2*       -
+bc/msnbc/00/msnbc_0004   9   16       victory    NN   (NP*)))))))))           -    -   -    Ken_Blackwell  *         *             *)            *             *)    146)
+bc/msnbc/00/msnbc_0004   9   17            /.     .             *))           -    -   -    Ken_Blackwell  *         *             *             *             *       -
+
+bc/msnbc/00/msnbc_0004   9    0              I   PRP       (TOP(S(S(NP*)           -    -   -    Ken_Blackwell      *    (ARG0*)        *           *            *      *          *    (147)
+bc/msnbc/00/msnbc_0004   9    1          think   VBP               (VP*         think  01   1    Ken_Blackwell      *       (V*)        *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9    2            the    DT        (SBAR(S(NP*            -    -   -    Ken_Blackwell      *    (ARG1*         *           *            *      *     (ARG0*     (59
+bc/msnbc/00/msnbc_0004   9    3      President   NNP              *)))))           -    -   -    Ken_Blackwell      *         *)        *           *            *      *          *)     59)
+bc/msnbc/00/msnbc_0004   9    4              ,     ,                  *            -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9    5              I   PRP             (S(NP*)           -    -   -    Ken_Blackwell      *         *    (ARG0*)          *            *      *          *    (147)
+bc/msnbc/00/msnbc_0004   9    6          think   VBP               (VP*         think  01   1    Ken_Blackwell      *         *       (V*)          *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9    7            the    DT  (SBAR(S(NP(NP(NP*            -    -   -    Ken_Blackwell      *         *    (ARG1*           *            *      *   (C-ARG0*       -
+bc/msnbc/00/msnbc_0004   9    8      Secretary   NNP                  *)           -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9    9             of    IN               (PP*            -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   10        Defense   NNP             (NP*)))           -    -   -    Ken_Blackwell   (ORG)        *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   11            and    CC                  *            -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   12            all    DT            (NP(NP*            -    -   -    Ken_Blackwell      *         *         *      (ARG1*            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   13         others   NNS                  *)           -    -   -    Ken_Blackwell      *         *         *           *)           *      *          *       -
+bc/msnbc/00/msnbc_0004   9   14            who    WP        (SBAR(WHNP*)           -    -   -    Ken_Blackwell      *         *         *    (R-ARG1*)           *      *          *       -
+bc/msnbc/00/msnbc_0004   9   15            are   VBP             (S(VP*            be  01   1    Ken_Blackwell      *         *         *         (V*)           *      *          *       -
+bc/msnbc/00/msnbc_0004   9   16    responsible    JJ             (ADJP*            -    -   -    Ken_Blackwell      *         *         *      (ARG2*            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   17            for    IN               (PP*            -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   18       offering   VBG             (S(VP*         offer  01   1    Ken_Blackwell      *         *         *           *          (V*)     *          *       -
+bc/msnbc/00/msnbc_0004   9   19           that    DT            (NP(NP*            -    -   -    Ken_Blackwell      *         *         *           *       (ARG1*      *          *       -
+bc/msnbc/00/msnbc_0004   9   20           sort    NN                  *)         sort   -   2    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   21             of    IN               (PP*            -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   22     leadership    NN             (NP*)))   leadership  01   1    Ken_Blackwell      *         *         *           *            *)   (V*)         *       -
+bc/msnbc/00/msnbc_0004   9   23             in    IN               (PP*            -    -   -    Ken_Blackwell      *         *         *           *   (ARGM-LOC*      *          *       -
+bc/msnbc/00/msnbc_0004   9   24           this    DT               (NP*            -    -   -    Ken_Blackwell      *         *         *           *            *      *          *    (193
+bc/msnbc/00/msnbc_0004   9   25        country    NN    *)))))))))))))))      country   -   3    Ken_Blackwell      *         *         *)          *)           *)     *          *)    193)
+bc/msnbc/00/msnbc_0004   9   26           have   VBP               (VP*          have  03   2    Ken_Blackwell      *         *         *           *            *      *        (V*)      -
+bc/msnbc/00/msnbc_0004   9   27          those    DT               (NP*            -    -   -    Ken_Blackwell      *         *         *           *            *      *     (ARG1*    (146
+bc/msnbc/00/msnbc_0004   9   28           same    JJ                  *            -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+bc/msnbc/00/msnbc_0004   9   29     objectives   NNS                 *))    objective   -   1    Ken_Blackwell      *         *         *           *            *      *          *)    146)
+bc/msnbc/00/msnbc_0004   9   30             /.     .                 *))           -    -   -    Ken_Blackwell      *         *         *           *            *      *          *       -
+
+bc/msnbc/00/msnbc_0004   9    0          And     CC         (TOP(S*          -    -   -    Ken_Blackwell          *    (ARGM-DIS*)       *        *        *       -
+bc/msnbc/00/msnbc_0004   9    1            I    PRP            (NP*)         -    -   -    Ken_Blackwell          *        (ARG0*)       *        *        *    (147)
+bc/msnbc/00/msnbc_0004   9    2        think    VBP            (VP*       think  01   1    Ken_Blackwell          *           (V*)       *        *        *       -
+bc/msnbc/00/msnbc_0004   9    3           to     TO   (SBAR(S(S(VP*          -    -   -    Ken_Blackwell          *        (ARG1*        *        *   (ARG1*       -
+bc/msnbc/00/msnbc_0004   9    4          try     VB            (VP*         try  01   1    Ken_Blackwell          *             *      (V*)       *        *       -
+bc/msnbc/00/msnbc_0004   9    5           to     TO       (S(VP(VP*          -    -   -    Ken_Blackwell          *             *   (ARG1*        *        *       -
+bc/msnbc/00/msnbc_0004   9    6     undercut     VB            (VP*    undercut  01   1    Ken_Blackwell          *             *        *      (V*)       *       -
+bc/msnbc/00/msnbc_0004   9    7         that     DT            (NP*          -    -   -    Ken_Blackwell          *             *        *   (ARG1*        *       -
+bc/msnbc/00/msnbc_0004   9    8      resolve     NN             *)))    resolve   -   -    Ken_Blackwell          *             *        *        *)       *       -
+bc/msnbc/00/msnbc_0004   9    9          and     CC               *          -    -   -    Ken_Blackwell          *             *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   10           to     TO            (VP*          -    -   -    Ken_Blackwell          *             *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   11       second     RB            (VP*          -    -   -    Ken_Blackwell   (ORDINAL)            *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   12           -    HYPH               *          -    -   -    Ken_Blackwell          *             *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   13        guess     VB               *       guess   -   -    Ken_Blackwell          *             *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   14          the     DT         (NP(NP*          -    -   -    Ken_Blackwell          *             *        *        *        *     (59
+bc/msnbc/00/msnbc_0004   9   15    Commander    NNP               *)         -    -   -    Ken_Blackwell          *             *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   16           in     IN            (PP*          -    -   -    Ken_Blackwell          *             *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   17        Chief    NNP   (NP*))))))))))         -    -   -    Ken_Blackwell          *             *        *)       *        *)     59)
+bc/msnbc/00/msnbc_0004   9   18           is    VBZ            (VP*          be  01   1    Ken_Blackwell          *             *        *        *      (V*)      -
+bc/msnbc/00/msnbc_0004   9   19            a     DT            (NP*          -    -   -    Ken_Blackwell          *             *        *        *   (ARG2*       -
+bc/msnbc/00/msnbc_0004   9   20      mistake     NN           *)))))    mistake   -   2    Ken_Blackwell          *             *)       *        *        *)      -
+bc/msnbc/00/msnbc_0004   9   21           /.      .              *))         -    -   -    Ken_Blackwell          *             *        *        *        *       -
+
+bc/msnbc/00/msnbc_0004   9    0           Let    VB       (TOP(S(VP*           let  01   1    Ken_Blackwell         *      (V*)            *         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9    1            me   PRP           (S(NP*)           -    -   -    Ken_Blackwell         *   (ARG1*        (ARG0*)        *        *         *         *         *    (147)
+bc/msnbc/00/msnbc_0004   9    2          just    RB           (ADVP*)           -    -   -    Ken_Blackwell         *        *    (ARGM-ADV*)        *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9    3           say    VB             (VP*           say  01   1    Ken_Blackwell         *        *           (V*)        *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9    4            to    IN             (PP*            -    -   -    Ken_Blackwell         *        *        (ARG2*         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9    5           you   PRP            (NP*))           -    -   -    Ken_Blackwell         *        *             *)        *        *         *         *         *     (21)
+bc/msnbc/00/msnbc_0004   9    6         Chris   NNP             (NP*)           -    -   -    Ken_Blackwell   (PERSON)       *    (ARGM-DIS*)        *        *         *         *         *     (21)
+bc/msnbc/00/msnbc_0004   9    7          that    IN           (SBAR*            -    -   -    Ken_Blackwell         *        *        (ARG1*         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9    8          what    WP    (S(SBAR(WHNP*)           -    -   -    Ken_Blackwell         *        *             *    (ARG1*)  (ARG1*         *         *         *       -
+bc/msnbc/00/msnbc_0004   9    9             I   PRP           (S(NP*)           -    -   -    Ken_Blackwell         *        *             *    (ARG0*)       *         *         *         *    (147)
+bc/msnbc/00/msnbc_0004   9   10          said   VBD           (VP*)))          say  01   1    Ken_Blackwell         *        *             *       (V*)       *)        *         *         *       -
+bc/msnbc/00/msnbc_0004   9   11           was   VBD             (VP*            be  01   1    Ken_Blackwell         *        *             *         *      (V*)        *         *         *       -
+bc/msnbc/00/msnbc_0004   9   12          that    IN           (SBAR*            -    -   -    Ken_Blackwell         *        *             *         *   (ARG2*         *         *         *       -
+bc/msnbc/00/msnbc_0004   9   13        Ronald   NNP      (S(S(NP(NP*            -    -   -    Ken_Blackwell  (PERSON*        *             *         *        *    (ARG0*         *         *      (6
+bc/msnbc/00/msnbc_0004   9   14        Reagan   NNP                *)           -    -   -    Ken_Blackwell         *)       *             *         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9   15           and    CC                *            -    -   -    Ken_Blackwell         *        *             *         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9   16        George   NNP             (NP*            -    -   -    Ken_Blackwell  (PERSON*        *             *         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9   17          Bush   NNP               *))           -    -   -    Ken_Blackwell         *)       *             *         *        *         *)        *         *       6)
+bc/msnbc/00/msnbc_0004   9   18           cut   VBD             (VP*           cut  02   2    Ken_Blackwell         *        *             *         *        *       (V*)        *         *       -
+bc/msnbc/00/msnbc_0004   9   19         taxes   NNS           (NP*)))          tax   -   -    Ken_Blackwell         *        *             *         *        *    (ARG1*)        *         *       -
+bc/msnbc/00/msnbc_0004   9   20           and    CC                *            -    -   -    Ken_Blackwell         *        *             *         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9   21          they   PRP           (S(NP*)           -    -   -    Ken_Blackwell         *        *             *         *        *         *    (ARG0*)   (ARG0*)     (6)
+bc/msnbc/00/msnbc_0004   9   22       started   VBD             (VP*         start  01   2    Ken_Blackwell         *        *             *         *        *         *       (V*)        *       -
+bc/msnbc/00/msnbc_0004   9   23            to    TO           (S(VP*            -    -   -    Ken_Blackwell         *        *             *         *        *         *    (ARG1*         *       -
+bc/msnbc/00/msnbc_0004   9   24      restrain    VB             (VP*      restrain  01   2    Ken_Blackwell         *        *             *         *        *         *         *       (V*)      -
+bc/msnbc/00/msnbc_0004   9   25         state    NN         (NP(NML*         state   -   2    Ken_Blackwell         *        *             *         *        *         *         *    (ARG1*       -
+bc/msnbc/00/msnbc_0004   9   26    government    NN                *)   government   -   1    Ken_Blackwell         *        *             *         *        *         *         *         *       -
+bc/msnbc/00/msnbc_0004   9   27      spending    NN   *))))))))))))))        spend   -   -    Ken_Blackwell         *        *)            *)        *        *)        *         *)        *)      -
+bc/msnbc/00/msnbc_0004   9   28            /.     .               *))           -    -   -    Ken_Blackwell         *        *             *         *        *         *         *         *       -
+
+bc/msnbc/00/msnbc_0004   9    0         What    WP   (TOP(S(SBAR(WHNP*)         -    -    -    Ken_Blackwell         *      *       (ARG1*)  (ARG1*      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9    1          has   VBZ              (S(VP*        have  01    -    Ken_Blackwell         *    (V*)           *        *      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9    2     happened   VBN                (VP*      happen  01    1    Ken_Blackwell         *      *          (V*)       *      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9    3           in    IN                (PP*          -    -    -    Ken_Blackwell         *      *   (ARGM-LOC*        *      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9    4          the    DT             (NP(NP*          -    -    -    Ken_Blackwell         *      *            *        *      *         *      *            *   (121
+bc/msnbc/00/msnbc_0004   9    5        state    NN                   *)      state   -    2    Ken_Blackwell         *      *            *        *      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9    6           of    IN                (PP*          -    -    -    Ken_Blackwell         *      *            *        *      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9    7         Ohio   NNP         (NP*))))))))         -    -    -    Ken_Blackwell      (GPE)     *            *)       *)     *         *      *            *    121)
+bc/msnbc/00/msnbc_0004   9    8           is   VBZ                (VP*          be  01    1    Ken_Blackwell         *      *            *      (V*)     *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9    9         that    IN              (SBAR*          -    -    -    Ken_Blackwell         *      *            *   (ARG2*      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9   10          Bob   NNP            (S(S(NP*          -    -    -    Ken_Blackwell  (PERSON*      *            *        *      *    (ARG0*      *            *    (91
+bc/msnbc/00/msnbc_0004   9   11         Taft   NNP                   *)         -    -    -    Ken_Blackwell         *)     *            *        *      *         *)     *            *     91)
+bc/msnbc/00/msnbc_0004   9   12          has   VBZ                (VP*        have  01    -    Ken_Blackwell         *      *            *        *    (V*)        *      *            *      -
+bc/msnbc/00/msnbc_0004   9   13    increased   VBN                (VP*    increase  01    1    Ken_Blackwell         *      *            *        *      *       (V*)     *            *      -
+bc/msnbc/00/msnbc_0004   9   14     spending    NN             (NP*))))      spend   -    -    Ken_Blackwell         *      *            *        *      *    (ARG1*)     *            *      -
+bc/msnbc/00/msnbc_0004   9   15          and    CC                   *          -    -    -    Ken_Blackwell         *      *            *        *      *         *      *            *      -
+bc/msnbc/00/msnbc_0004   9   16           he   PRP              (S(NP*)         -    -    -    Ken_Blackwell         *      *            *        *      *         *      *       (ARG0*)   (91)
+bc/msnbc/00/msnbc_0004   9   17          has   VBZ                (VP*        have  01   12    Ken_Blackwell         *      *            *        *      *         *    (V*)           *      -
+bc/msnbc/00/msnbc_0004   9   18           in    IN                (PP*          -    -    -    Ken_Blackwell         *      *            *        *      *         *      *   (ARGM-DIS*      -
+bc/msnbc/00/msnbc_0004   9   19         fact    NN               (NP*))       fact   -    5    Ken_Blackwell         *      *            *        *      *         *      *            *)     -
+bc/msnbc/00/msnbc_0004   9   20       raised   VBN                (VP*       raise  01    1    Ken_Blackwell         *      *            *        *      *         *      *          (V*)     -
+bc/msnbc/00/msnbc_0004   9   21        taxes   NNS          (NP*)))))))        tax   -    1    Ken_Blackwell         *      *            *        *)     *         *      *       (ARG1*)     -
+bc/msnbc/00/msnbc_0004   9   22           /.     .                  *))         -    -    -    Ken_Blackwell         *      *            *        *      *         *      *            *      -
+
+bc/msnbc/00/msnbc_0004   9    0         And     CC         (TOP(S*          -    -   -    Ken_Blackwell  *    (ARGM-DIS*)           *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9    1           I    PRP            (NP*)         -    -   -    Ken_Blackwell  *        (ARG0*)           *      *      *        *      *      *         *    (147)
+bc/msnbc/00/msnbc_0004   9    2       think    VBP            (VP*       think  01   1    Ken_Blackwell  *           (V*)           *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9    3        that     IN          (SBAR*          -    -   -    Ken_Blackwell  *        (ARG1*            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9    4     anybody     NN       (S(NP(NP*)         -    -   -    Ken_Blackwell  *             *       (ARG0*)     *      *   (ARG0*      *      *         *     (60
+bc/msnbc/00/msnbc_0004   9    5        that    WDT     (SBAR(WHNP*)         -    -   -    Ken_Blackwell  *             *     (R-ARG0*)     *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9    6        runs    VBZ          (S(VP*         run  01   7    Ken_Blackwell  *             *          (V*)     *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9    7          on     IN            (PP*          -    -   -    Ken_Blackwell  *             *   (ARGM-MNR*      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9    8           a     DT            (NP*          -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9    9         tax     NN           (NML*         tax   -   1    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   10     raising     NN               *)      raise   -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   11     runaway     JJ           (NML*          -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   12    spending     NN               *)      spend   -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   13    platform     NN          *))))))         -    -   -    Ken_Blackwell  *             *            *)     *      *        *)     *      *         *      60)
+bc/msnbc/00/msnbc_0004   9   14          is    VBZ            (VP*          be  03   -    Ken_Blackwell  *             *            *    (V*)     *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   15       going    VBG            (VP*          go  04   7    Ken_Blackwell  *             *            *      *    (V*)       *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   16          to     TO          (S(VP*          -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   17        lose     VB          (VP*)))       lose  03   2    Ken_Blackwell  *             *            *      *      *      (V*)     *      *         *       -
+bc/msnbc/00/msnbc_0004   9   18     because     IN          (SBAR*          -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   19        they    PRP          (S(NP*)         -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *    (ARG0*)    (60)
+bc/msnbc/00/msnbc_0004   9   20         're    VBP            (VP*          be  03   -    Ken_Blackwell  *             *            *      *      *        *    (V*)     *         *       -
+bc/msnbc/00/msnbc_0004   9   21       going    VBG            (VP*          go  04   7    Ken_Blackwell  *             *            *      *      *        *      *    (V*)        *       -
+bc/msnbc/00/msnbc_0004   9   22          to     TO          (S(VP*          -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+bc/msnbc/00/msnbc_0004   9   23    undercut     VB            (VP*    undercut  01   1    Ken_Blackwell  *             *            *      *      *        *      *      *       (V*)      -
+bc/msnbc/00/msnbc_0004   9   24         our   PRP$            (NP*          -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *    (ARG1*       -
+bc/msnbc/00/msnbc_0004   9   25        base     NN   *)))))))))))))       base   -   3    Ken_Blackwell  *             *)           *      *      *        *      *      *         *)      -
+bc/msnbc/00/msnbc_0004   9   26          /.      .              *))         -    -   -    Ken_Blackwell  *             *            *      *      *        *      *      *         *       -
+
+bc/msnbc/00/msnbc_0004   9    0            And    CC         (TOP(S*         -    -      -    Ken_Blackwell           *    (ARGM-DIS*)        *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9    1            let    VB            (VP*        let  01      1    Ken_Blackwell           *           (V*)        *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9    2             me   PRP          (S(NP*)        -    -      -    Ken_Blackwell           *        (ARG1*    (ARG0*)     *             *        *    (147)
+bc/msnbc/00/msnbc_0004   9    3            say    VB            (VP*        say  01      1    Ken_Blackwell           *             *       (V*)     *             *        *       -
+bc/msnbc/00/msnbc_0004   9    4             to    IN            (PP*         -    -      -    Ken_Blackwell           *             *    (ARG2*      *             *        *       -
+bc/msnbc/00/msnbc_0004   9    5            the    DT            (NP*         -    -      -    Ken_Blackwell           *             *         *      *             *        *    (105
+bc/msnbc/00/msnbc_0004   9    6    congressman    NN              *))        -    -      -    Ken_Blackwell           *             *         *)     *             *        *     105)
+bc/msnbc/00/msnbc_0004   9    7           that    IN          (SBAR*         -    -      -    Ken_Blackwell           *             *    (ARG1*      *             *        *       -
+bc/msnbc/00/msnbc_0004   9    8            the    DT    (S(NP(NP(NP*         -    -      -    Ken_Blackwell       (ORG*             *         *      *             *   (ARG0*       -
+bc/msnbc/00/msnbc_0004   9    9      Oversight   NNP               *         -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   10      Committee   NNP               *)        -    -      -    Ken_Blackwell           *)            *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   11             of    IN            (PP*         -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   12            the    DT         (NP(NP*         -    -      -    Ken_Blackwell       (ORG*             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   13         Bureau   NNP               *)        -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   14             of    IN            (PP*         -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   15         Worker   NNP         (NP(NP*         -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   16             's   POS               *)        -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   17           Comp   NNP           *)))))        -    -      -    Ken_Blackwell           *)            *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   18          where   WRB   (SBAR(WHADVP*)        -    -      -    Ken_Blackwell           *             *         *      *    (ARGM-LOC*)       *       -
+bc/msnbc/00/msnbc_0004   9   19            all   PDT          (S(NP*         -    -      -    Ken_Blackwell           *             *         *      *        (ARG1*        *     (70
+bc/msnbc/00/msnbc_0004   9   20            the    DT               *         -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+bc/msnbc/00/msnbc_0004   9   21        scandal    NN               *)   scandal   -      -    Ken_Blackwell           *             *         *      *             *)       *      70)
+bc/msnbc/00/msnbc_0004   9   22             is   VBZ            (VP*         be  03      -    Ken_Blackwell           *             *         *    (V*)            *        *       -
+bc/msnbc/00/msnbc_0004   9   23         taking   VBG            (VP*       take  01   14.1    Ken_Blackwell           *             *         *      *           (V*)       *       -
+bc/msnbc/00/msnbc_0004   9   24          place    NN       (NP*))))))     place   -      3    Ken_Blackwell           *             *         *      *        (ARG2*)       *)      -
+bc/msnbc/00/msnbc_0004   9   25            has   VBZ            (VP*       have  03      5    Ken_Blackwell           *             *         *      *             *      (V*)      -
+bc/msnbc/00/msnbc_0004   9   26           five    CD            (NP*         -    -      -    Ken_Blackwell   (CARDINAL)            *         *      *             *   (ARG1*    (132
+bc/msnbc/00/msnbc_0004   9   27        members   NNS         *)))))))    member   -      1    Ken_Blackwell           *             *)        *)     *             *        *)    132)
+bc/msnbc/00/msnbc_0004   9   28             /.     .              *))        -    -      -    Ken_Blackwell           *             *         *      *             *        *       -
+
+bc/msnbc/00/msnbc_0004   9   0          Two     CD   (TOP(S(NP(NP*)       -    -   -    Ken_Blackwell   (CARDINAL)   (ARG1*        (34
+bc/msnbc/00/msnbc_0004   9   1           of     IN            (PP*        -    -   -    Ken_Blackwell           *         *          -
+bc/msnbc/00/msnbc_0004   9   2        those     DT            (NP*        -    -   -    Ken_Blackwell           *         *       (132
+bc/msnbc/00/msnbc_0004   9   3      members    NNS             *)))   member   -   1    Ken_Blackwell           *         *)   132)|34)
+bc/msnbc/00/msnbc_0004   9   4          are    VBP            (VP*        be  01   1    Ken_Blackwell           *       (V*)         -
+bc/msnbc/00/msnbc_0004   9   5    Democrats   NNPS           (NP*))       -    -   -    Ken_Blackwell       (NORP)   (ARG2*)         -
+bc/msnbc/00/msnbc_0004   9   6           /.      .              *))       -    -   -    Ken_Blackwell           *         *          -
+
+bc/msnbc/00/msnbc_0004   9   0            two     CD   (TOP(S(NP*)   -    -   -    Ken_Blackwell   (CARDINAL)   (ARG1*)  -
+bc/msnbc/00/msnbc_0004   9   1            are    VBP         (VP*    be  01   1    Ken_Blackwell           *       (V*)  -
+bc/msnbc/00/msnbc_0004   9   2    Republicans   NNPS        (NP*))   -    -   -    Ken_Blackwell       (NORP)   (ARG2*)  -
+bc/msnbc/00/msnbc_0004   9   3             /.      .           *))   -    -   -    Ken_Blackwell           *         *   -
+
+bc/msnbc/00/msnbc_0004   9   0            and    CC  (TOP(S*    -    -   -    Ken_Blackwell           *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0004   9   1            one    CD     (NP*)   -    -   -    Ken_Blackwell   (CARDINAL)       (ARG1*)  -
+bc/msnbc/00/msnbc_0004   9   2             is   VBZ     (VP*    be  01   1    Ken_Blackwell           *           (V*)  -
+bc/msnbc/00/msnbc_0004   9   3             an    DT     (NP*    -    -   -    Ken_Blackwell           *        (ARG2*   -
+bc/msnbc/00/msnbc_0004   9   4    independent    NN       *))   -    -   -    Ken_Blackwell           *             *)  -
+bc/msnbc/00/msnbc_0004   9   5             /.     .       *))   -    -   -    Ken_Blackwell           *             *   -
+
+bc/msnbc/00/msnbc_0004   9   0          You    PRP   (TOP(SQ(NP*)     -    -   -    Ken_Blackwell           *    (ARG0*)        *          -
+bc/msnbc/00/msnbc_0004   9   1         know     VB          (VP*    know  01   -    Ken_Blackwell           *       (V*)        *          -
+bc/msnbc/00/msnbc_0004   9   2          who     WP   (SBAR(WHNP*)     -    -   -    Ken_Blackwell           *    (ARG1*    (ARG2*)         -
+bc/msnbc/00/msnbc_0004   9   3          one     CD     (S(NP(NP*)     -    -   -    Ken_Blackwell   (CARDINAL)        *    (ARG1*       (151
+bc/msnbc/00/msnbc_0004   9   4           of     IN          (PP*      -    -   -    Ken_Blackwell           *         *         *          -
+bc/msnbc/00/msnbc_0004   9   5          the     DT          (NP*      -    -   -    Ken_Blackwell           *         *         *        (34
+bc/msnbc/00/msnbc_0004   9   6    Democrats   NNPS           *)))     -    -   -    Ken_Blackwell       (NORP)        *         *)   151)|34)
+bc/msnbc/00/msnbc_0004   9   7           is    VBZ       (VP*))))     be  01   1    Ken_Blackwell           *         *)      (V*)         -
+bc/msnbc/00/msnbc_0004   9   8           /?      .            *))     -    -   -    Ken_Blackwell           *         *         *          -
+
+bc/msnbc/00/msnbc_0004   9    0           It    PRP    (TOP(S(NP*)          -    -   -    Ken_Blackwell         *    (ARG1*)        *            *    (151)
+bc/msnbc/00/msnbc_0004   9    1           is    VBZ          (VP*           be  01   1    Ken_Blackwell         *       (V*)        *            *       -
+bc/msnbc/00/msnbc_0004   9    2         Bill    NNP       (NP(NP*           -    -   -    Ken_Blackwell  (PERSON*    (ARG2*         *       (ARG1*       -
+bc/msnbc/00/msnbc_0004   9    3       Berger    NNP             *)          -    -   -    Ken_Blackwell         *)        *         *            *)      -
+bc/msnbc/00/msnbc_0004   9    4          who     WP   (SBAR(WHNP*)          -    -   -    Ken_Blackwell         *         *         *     (R-ARG1*)      -
+bc/msnbc/00/msnbc_0004   9    5       excuse     VB      (S(S(VP*       excuse  01   2    Ken_Blackwell         *         *       (V*)  (ARGM-DIS*       -
+bc/msnbc/00/msnbc_0004   9    6           me    PRP        (NP*)))          -    -   -    Ken_Blackwell         *         *    (ARG1*)           *)   (147)
+bc/msnbc/00/msnbc_0004   9    7           is    VBZ          (VP*           be  01   1    Ken_Blackwell         *         *         *          (V*)      -
+bc/msnbc/00/msnbc_0004   9    8          the     DT       (NP(NP*           -    -   -    Ken_Blackwell         *         *         *       (ARG2*       -
+bc/msnbc/00/msnbc_0004   9    9    president     NN             *)   president   -   1    Ken_Blackwell         *         *         *            *       -
+bc/msnbc/00/msnbc_0004   9   10           of     IN          (PP*           -    -   -    Ken_Blackwell         *         *         *            *       -
+bc/msnbc/00/msnbc_0004   9   11          the     DT          (NP*           -    -   -    Ken_Blackwell         *         *         *            *       -
+bc/msnbc/00/msnbc_0004   9   12         Ohio    NNP             *           -    -   -    Ken_Blackwell      (GPE)        *         *            *    (121)
+bc/msnbc/00/msnbc_0004   9   13           uh     UH             *           -    -   -    Ken_Blackwell         *         *         *            *       -
+bc/msnbc/00/msnbc_0004   9   14          AFL    NNP         (NML*           -    -   -    Ken_Blackwell     (ORG*         *         *            *       -
+bc/msnbc/00/msnbc_0004   9   15           -    HYPH             *           -    -   -    Ken_Blackwell         *         *         *            *       -
+bc/msnbc/00/msnbc_0004   9   16          CIO    NNP     *)))))))))          -    -   -    Ken_Blackwell         *)        *)        *            *)      -
+bc/msnbc/00/msnbc_0004   9   17           /.      .            *))          -    -   -    Ken_Blackwell         *         *         *            *       -
+
+bc/msnbc/00/msnbc_0004   9   0        He   PRP   (TOP(S(NP*)       -    -   -    Ken_Blackwell      *    (ARG1*)   (151)
+bc/msnbc/00/msnbc_0004   9   1        is   VBZ         (VP*        be  01   1    Ken_Blackwell      *       (V*)      -
+bc/msnbc/00/msnbc_0004   9   2         a    DT      (NP(NP*        -    -   -    Ken_Blackwell      *    (ARG2*       -
+bc/msnbc/00/msnbc_0004   9   3    member    NN            *)   member   -   1    Ken_Blackwell      *         *       -
+bc/msnbc/00/msnbc_0004   9   4        of    IN         (PP*        -    -   -    Ken_Blackwell      *         *       -
+bc/msnbc/00/msnbc_0004   9   5       the    DT         (NP*        -    -   -    Ken_Blackwell      *         *       -
+bc/msnbc/00/msnbc_0004   9   6       DNC   NNP         *))))       -    -   -    Ken_Blackwell   (ORG)        *)      -
+bc/msnbc/00/msnbc_0004   9   7        /.     .           *))       -    -   -    Ken_Blackwell      *         *       -
+
+bc/msnbc/00/msnbc_0004   9   0            He   PRP   (TOP(S(NP*)       -    -   -    Ken_Blackwell      *    (ARG1*)   (151)
+bc/msnbc/00/msnbc_0004   9   1            is   VBZ         (VP*        be  01   1    Ken_Blackwell      *       (V*)      -
+bc/msnbc/00/msnbc_0004   9   2             a    DT      (NP(NP*        -    -   -    Ken_Blackwell      *    (ARG2*       -
+bc/msnbc/00/msnbc_0004   9   3        member    NN            *)   member   -   1    Ken_Blackwell      *         *       -
+bc/msnbc/00/msnbc_0004   9   4            of    IN         (PP*        -    -   -    Ken_Blackwell      *         *       -
+bc/msnbc/00/msnbc_0004   9   5           the    DT         (NP*        -    -   -    Ken_Blackwell  (ORG*         *       -
+bc/msnbc/00/msnbc_0004   9   6          Ohio   NNP            *        -    -   -    Ken_Blackwell      *         *       -
+bc/msnbc/00/msnbc_0004   9   7    Democratic   NNP            *        -    -   -    Ken_Blackwell      *         *       -
+bc/msnbc/00/msnbc_0004   9   8         Party   NNP         *))))       -    -   -    Ken_Blackwell      *)        *)      -
+bc/msnbc/00/msnbc_0004   9   9            /.     .           *))       -    -   -    Ken_Blackwell      *         *       -
+
+bc/msnbc/00/msnbc_0004   9    0           This    DT             (TOP(S(NP*)           -    -   -    Ken_Blackwell  *    (ARG1*)     *      *            *            *         *    (70)
+bc/msnbc/00/msnbc_0004   9    1             is   VBZ                   (VP*            be  01   1    Ken_Blackwell  *       (V*)     *      *            *            *         *      -
+bc/msnbc/00/msnbc_0004   9    2              a    DT                (NP(NP*            -    -   -    Ken_Blackwell  *    (ARG2*      *      *            *            *         *      -
+bc/msnbc/00/msnbc_0004   9    3     bipartisan    JJ                      *            -    -   -    Ken_Blackwell  *         *      *      *            *            *         *      -
+bc/msnbc/00/msnbc_0004   9    4        scandal    NN                      *)      scandal   -   -    Ken_Blackwell  *         *      *      *            *            *         *      -
+bc/msnbc/00/msnbc_0004   9    5           that   WDT            (SBAR(WHNP*)           -    -   -    Ken_Blackwell  *         *      *      *       (ARG0*)           *         *      -
+bc/msnbc/00/msnbc_0004   9    6             's   VBZ                 (S(VP*            be  03   -    Ken_Blackwell  *         *    (V*)     *            *            *         *      -
+bc/msnbc/00/msnbc_0004   9    7          going   VBG                   (VP*            go  04   7    Ken_Blackwell  *         *      *    (V*)           *            *         *      -
+bc/msnbc/00/msnbc_0004   9    8             to    TO                 (S(VP*            -    -   -    Ken_Blackwell  *         *      *      *            *            *         *      -
+bc/msnbc/00/msnbc_0004   9    9           take    VB                   (VP*          take  01   3    Ken_Blackwell  *         *      *      *          (V*)           *         *      -
+bc/msnbc/00/msnbc_0004   9   10    responsible    JJ           (NP(NP(ADJP*            -    -   -    Ken_Blackwell  *         *      *      *       (ARG1*   (ARGM-MNR*    (ARG1*      -
+bc/msnbc/00/msnbc_0004   9   11            and    CC                      *            -    -   -    Ken_Blackwell  *         *      *      *            *            *         *      -
+bc/msnbc/00/msnbc_0004   9   12     bipartisan    JJ                      *)           -    -   -    Ken_Blackwell  *         *      *      *            *            *)        *      -
+bc/msnbc/00/msnbc_0004   9   13     leadership    NN                      *)   leadership  01   1    Ken_Blackwell  *         *      *      *            *)         (V*)        *)     -
+bc/msnbc/00/msnbc_0004   9   14             to    TO            (SBAR(S(VP*            -    -   -    Ken_Blackwell  *         *      *      *   (ARGM-PRP*   (ARGM-ADJ*         *      -
+bc/msnbc/00/msnbc_0004   9   15            get    VB                   (VP*           get  03   3    Ken_Blackwell  *         *      *      *            *            *       (V*)     -
+bc/msnbc/00/msnbc_0004   9   16       involved    JJ   (ADJP*)))))))))))))))           -    -   -    Ken_Blackwell  *         *)     *      *            *)           *)   (ARG2*)     -
+bc/msnbc/00/msnbc_0004   9   17             /.     .                     *))           -    -   -    Ken_Blackwell  *         *      *      *            *            *         *      -
+
+bc/msnbc/00/msnbc_0004   9    0         And    CC         (TOP(S*         -    -   -    Ken_Blackwell          *    (ARGM-DIS*)       *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9    1           I   PRP            (NP*)        -    -   -    Ken_Blackwell          *        (ARG0*)       *        *        *        *    (147)
+bc/msnbc/00/msnbc_0004   9    2       think   VBP            (VP*      think  01   1    Ken_Blackwell          *           (V*)       *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9    3         the    DT  (SBAR(S(NP(NP*         -    -   -    Ken_Blackwell          *        (ARG1*        *   (ARG1*        *        *       -
+bc/msnbc/00/msnbc_0004   9    4       first    JJ               *         -    -   -    Ken_Blackwell   (ORDINAL)            *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9    5        step    NN               *)      step   -   1    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9    6          to    IN            (PP*         -    -   -    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9    7     getting   VBG          (S(VP*        get  05   4    Ken_Blackwell          *             *      (V*)       *        *        *       -
+bc/msnbc/00/msnbc_0004   9    8     towards    IN            (PP*         -    -   -    Ken_Blackwell          *             *   (ARG2*        *        *        *       -
+bc/msnbc/00/msnbc_0004   9    9         the    DT         (NP(NP*         -    -   -    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   10      bottom    NN               *)    bottom   -   -    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   11          of    IN            (PP*         -    -   -    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   12         the    DT         (NP(NP*         -    -   -    Ken_Blackwell          *             *        *        *        *        *     (70
+bc/msnbc/00/msnbc_0004   9   13     scandal    NN               *)   scandal   -   -    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   14          in    IN            (PP*         -    -   -    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   15    Columbus   NNP   (NP*))))))))))        -    -   -    Ken_Blackwell       (GPE)            *        *)       *)       *        *      70)
+bc/msnbc/00/msnbc_0004   9   16          is   VBZ            (VP*         be  01   1    Ken_Blackwell          *             *        *      (V*)       *        *       -
+bc/msnbc/00/msnbc_0004   9   17          to    TO          (S(VP*         -    -   -    Ken_Blackwell          *             *        *   (ARG2*        *        *       -
+bc/msnbc/00/msnbc_0004   9   18        have    VB            (VP*       have  04   6    Ken_Blackwell          *             *        *        *      (V*)       *       -
+bc/msnbc/00/msnbc_0004   9   19        guys   NNS       (S(NP(NP*)       guy   -   -    Ken_Blackwell          *             *        *        *   (ARG1*   (ARG0*       -
+bc/msnbc/00/msnbc_0004   9   20        like    IN            (PP*         -    -   -    Ken_Blackwell          *             *        *        *        *        *       -
+bc/msnbc/00/msnbc_0004   9   21        Bill   NNP            (NP*         -    -   -    Ken_Blackwell   (PERSON*             *        *        *        *        *    (151
+bc/msnbc/00/msnbc_0004   9   22      Berger   NNP             *)))        -    -   -    Ken_Blackwell          *)            *        *        *        *        *)    151)
+bc/msnbc/00/msnbc_0004   9   23      resign    VB    (VP*)))))))))    resign  01   1    Ken_Blackwell          *             *)       *        *)       *)     (V*)      -
+bc/msnbc/00/msnbc_0004   9   24          /.     .              *))        -    -   -    Ken_Blackwell          *             *        *        *        *        *       -
+
+bc/msnbc/00/msnbc_0004   9   0     Okay    UH   (TOP(S(INTJ*)      -    -   -    Chris_Matthews  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0004   9   1    thank   VBP           (VP*    thank  01   1    Chris_Matthews  *           (V*)      -
+bc/msnbc/00/msnbc_0004   9   2      you   PRP           (NP*)      -    -   -    Chris_Matthews  *        (ARG1*)   (147)
+bc/msnbc/00/msnbc_0004   9   3     very    RB         (ADVP*       -    -   -    Chris_Matthews  *    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0004   9   4     much    RB             *))      -    -   -    Chris_Matthews  *             *)      -
+bc/msnbc/00/msnbc_0004   9   5       /.     .             *))      -    -   -    Chris_Matthews  *             *       -
+
+bc/msnbc/00/msnbc_0004   9    0            Ken   NNP  (TOP(NP(NP(NP*   -   -   -    Chris_Matthews  (PERSON*            -
+bc/msnbc/00/msnbc_0004   9    1      Blackwell   NNP               *)  -   -   -    Chris_Matthews         *)           -
+bc/msnbc/00/msnbc_0004   9    2      Secretary   NNP         (NP(NP*)  -   -   -    Chris_Matthews         *            -
+bc/msnbc/00/msnbc_0004   9    3             of    IN            (PP*   -   -   -    Chris_Matthews         *            -
+bc/msnbc/00/msnbc_0004   9    4          State   NNP           (NP*))  -   -   -    Chris_Matthews      (ORG)           -
+bc/msnbc/00/msnbc_0004   9    5             of    IN            (PP*   -   -   -    Chris_Matthews         *            -
+bc/msnbc/00/msnbc_0004   9    6           Ohio   NNP         (NP*))))  -   -   -    Chris_Matthews      (GPE)           -
+bc/msnbc/00/msnbc_0004   9    7            and    CC               *   -   -   -    Chris_Matthews         *            -
+bc/msnbc/00/msnbc_0004   9    8             US   NNP      (NP(NP(NP*   -   -   -    Chris_Matthews      (GPE)        (105
+bc/msnbc/00/msnbc_0004   9    9    congressman    NN               *)  -   -   -    Chris_Matthews         *            -
+bc/msnbc/00/msnbc_0004   9   10        Sherrod   NNP            (NP*   -   -   -    Chris_Matthews  (PERSON*            -
+bc/msnbc/00/msnbc_0004   9   11          Brown   NNP              *))  -   -   -    Chris_Matthews         *)           -
+bc/msnbc/00/msnbc_0004   9   12             of    IN            (PP*   -   -   -    Chris_Matthews         *            -
+bc/msnbc/00/msnbc_0004   9   13           Ohio   NNP          (NP*)))  -   -   -    Chris_Matthews      (GPE)   (121)|105)
+bc/msnbc/00/msnbc_0004   9   14             /.     .              *))  -   -   -    Chris_Matthews         *            -
+
+bc/msnbc/00/msnbc_0004   9    0          When    WRB   (TOP(S(SBAR(WHADVP*)      -    -   -    Chris_Matthews         *    (ARGM-TMP*)   (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0004   9    1            we    PRP                (S(NP*)      -    -   -    Chris_Matthews         *        (ARG1*)            *         *    (171)
+bc/msnbc/00/msnbc_0004   9    2          come    VBP                  (VP*     come  01   1    Chris_Matthews         *           (V*)            *         *       -
+bc/msnbc/00/msnbc_0004   9    3          back     RB             (ADVP*))))      -    -   -    Chris_Matthews         *    (ARGM-DIR*)            *)        *       -
+bc/msnbc/00/msnbc_0004   9    4           for     IN                  (PP*       -    -   -    Chris_Matthews         *             *    (ARGM-ADV*         *       -
+bc/msnbc/00/msnbc_0004   9    5           the     DT                  (NP*       -    -   -    Chris_Matthews     (ORG*             *             *         *       -
+bc/msnbc/00/msnbc_0004   9    6    Washington    NNP                     *       -    -   -    Chris_Matthews         *             *             *         *       -
+bc/msnbc/00/msnbc_0004   9    7          Post    NNP                    *))      -    -   -    Chris_Matthews         *)            *             *)        *       -
+bc/msnbc/00/msnbc_0004   9    8          Mike    NNP                  (NP*       -    -   -    Chris_Matthews  (PERSON*             *        (ARG1*    (ARG0*    (145
+bc/msnbc/00/msnbc_0004   9    9         Gowan    NNP                     *)      -    -   -    Chris_Matthews         *)            *             *)        *)    145)
+bc/msnbc/00/msnbc_0004   9   10          will     MD                  (VP*       -    -   -    Chris_Matthews         *             *    (ARGM-MOD*)        *       -
+bc/msnbc/00/msnbc_0004   9   11            be     VB                  (VP*       be  01   4    Chris_Matthews         *             *           (V*)        *       -
+bc/msnbc/00/msnbc_0004   9   12          here     RB                (ADVP*)      -    -   -    Chris_Matthews         *             *        (ARG2*)        *       -
+bc/msnbc/00/msnbc_0004   9   13            to     TO                (S(VP*       -    -   -    Chris_Matthews         *             *    (ARGM-PRP*         *       -
+bc/msnbc/00/msnbc_0004   9   14          tell     VB                  (VP*     tell  01   1    Chris_Matthews         *             *             *       (V*)      -
+bc/msnbc/00/msnbc_0004   9   15            us    PRP                  (NP*)      -    -   -    Chris_Matthews         *             *             *    (ARG2*)   (171)
+bc/msnbc/00/msnbc_0004   9   16         about     IN                  (PP*       -    -   -    Chris_Matthews         *             *             *    (ARG1*       -
+bc/msnbc/00/msnbc_0004   9   17           his   PRP$               (NP(NP*       -    -   -    Chris_Matthews         *             *             *         *    (145)
+bc/msnbc/00/msnbc_0004   9   18         visit     NN                     *)   visit   -   2    Chris_Matthews         *             *             *         *       -
+bc/msnbc/00/msnbc_0004   9   19            to     IN                  (PP*       -    -   -    Chris_Matthews         *             *             *         *       -
+bc/msnbc/00/msnbc_0004   9   20         Gitmo    NNP          (NP*)))))))))      -    -   -    Chris_Matthews      (FAC)            *             *)        *)      -
+bc/msnbc/00/msnbc_0004   9   21            /.      .                    *))      -    -   -    Chris_Matthews         *             *             *         *       -

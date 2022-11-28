@@ -1,0 +1,809 @@
+bc/msnbc/00/msnbc_0003   15   0         Let    VB  (TOP(S(VP*         let  01   1    Chris_Matthews         *      (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   15   1          me   PRP      (S(NP*)         -    -   -    Chris_Matthews         *   (ARG1*        (ARG0*)            *    (221)
+bc/msnbc/00/msnbc_0003   15   2         ask    VB        (VP*         ask  01   1    Chris_Matthews         *        *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   15   3         you   PRP        (NP*)         -    -   -    Chris_Matthews         *        *        (ARG2*)            *    (151)
+bc/msnbc/00/msnbc_0003   15   4         the    DT        (NP*          -    -   -    Chris_Matthews         *        *        (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   15   5        same    JJ           *          -    -   -    Chris_Matthews         *        *             *    (ARGM-ADJ*)      -
+bc/msnbc/00/msnbc_0003   15   6    question    NN           *)   question  01   1    Chris_Matthews         *        *             *)          (V*)      -
+bc/msnbc/00/msnbc_0003   15   7        Paul   NNP     (NP*))))         -    -   -    Chris_Matthews   (PERSON)       *)   (ARGM-DIS*)            *    (151)
+bc/msnbc/00/msnbc_0003   15   8          /.     .          *))         -    -   -    Chris_Matthews         *        *             *             *       -
+
+bc/msnbc/00/msnbc_0003   15    0         How   WRB   (TOP(SBARQ(WHADVP*)      -    -   -    Chris_Matthews       *      *    (ARGM-MNR*)            *      -
+bc/msnbc/00/msnbc_0003   15    1          do   VBP                 (SQ*       do  01   -    Chris_Matthews       *    (V*)            *             *      -
+bc/msnbc/00/msnbc_0003   15    2         you   PRP                 (NP*)      -    -   -    Chris_Matthews       *      *        (ARG0*)            *      -
+bc/msnbc/00/msnbc_0003   15    3         get    VB                 (VP*      get  01   1    Chris_Matthews       *      *           (V*)            *      -
+bc/msnbc/00/msnbc_0003   15    4         the    DT                 (NP*       -    -   -    Chris_Matthews       *      *        (ARG1*             *   (120
+bc/msnbc/00/msnbc_0003   15    5         the    DT                    *       -    -   -    Chris_Matthews       *      *             *             *      -
+bc/msnbc/00/msnbc_0003   15    6        true    JJ                    *       -    -   -    Chris_Matthews       *      *             *             *      -
+bc/msnbc/00/msnbc_0003   15    7       scoop    NN                    *)   scoop   -   -    Chris_Matthews       *      *             *)            *    120)
+bc/msnbc/00/msnbc_0003   15    8        over    RB               (ADVP*       -    -   -    Chris_Matthews       *      *    (ARGM-LOC*             *      -
+bc/msnbc/00/msnbc_0003   15    9       there    RB                    *)      -    -   -    Chris_Matthews       *      *             *)            *      -
+bc/msnbc/00/msnbc_0003   15   10          if    IN               (SBAR*       -    -   -    Chris_Matthews       *      *    (ARGM-ADV*             *      -
+bc/msnbc/00/msnbc_0003   15   11         you   PRP               (S(NP*)      -    -   -    Chris_Matthews       *      *             *        (ARG1*)     -
+bc/msnbc/00/msnbc_0003   15   12         're   VBP                 (VP*       be  01   4    Chris_Matthews       *      *             *           (V*)     -
+bc/msnbc/00/msnbc_0003   15   13      always    RB               (ADVP*)      -    -   -    Chris_Matthews       *      *             *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0003   15   14        with    IN                 (PP*       -    -   -    Chris_Matthews       *      *             *        (ARG2*      -
+bc/msnbc/00/msnbc_0003   15   15         the    DT                 (NP*       -    -   -    Chris_Matthews       *      *             *             *      -
+bc/msnbc/00/msnbc_0003   15   16    American    JJ                    *       -    -   -    Chris_Matthews   (NORP)     *             *             *      -
+bc/msnbc/00/msnbc_0003   15   17      troops   NNS              *)))))))   troop   -   -    Chris_Matthews       *      *             *)            *)     -
+bc/msnbc/00/msnbc_0003   15   18          /?     .                   *))      -    -   -    Chris_Matthews       *      *             *             *      -
+
+bc/msnbc/00/msnbc_0003   15    0         I    PRP   (TOP(SQ(PRN(S(NP*)     -    -   -    Chris_Matthews       *    (ARG0*)     *             *         *    (221)
+bc/msnbc/00/msnbc_0003   15    1      mean     VB              (VP*)))   mean  01   1    Chris_Matthews       *       (V*)     *             *         *       -
+bc/msnbc/00/msnbc_0003   15    2        do    VBP                   *      do  01   -    Chris_Matthews       *         *    (V*)            *         *       -
+bc/msnbc/00/msnbc_0003   15    3       you    PRP                (NP*)     -    -   -    Chris_Matthews       *         *      *        (ARG0*)   (ARG0*)      -
+bc/msnbc/00/msnbc_0003   15    4      ever     RB              (ADVP*)     -    -   -    Chris_Matthews       *         *      *    (ARGM-TMP*)        *       -
+bc/msnbc/00/msnbc_0003   15    5       get     VB                (VP*     get  04   -    Chris_Matthews       *         *      *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   15    6        to     TO              (S(VP*      -    -   -    Chris_Matthews       *         *      *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   15    7      talk     VB                (VP*    talk  01   1    Chris_Matthews       *         *      *             *       (V*)      -
+bc/msnbc/00/msnbc_0003   15    8        to     IN                (PP*      -    -   -    Chris_Matthews       *         *      *             *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   15    9       the     DT                (NP*      -    -   -    Chris_Matthews       *         *      *             *         *    (213
+bc/msnbc/00/msnbc_0003   15   10    Iraqis   NNPS              *))))))     -    -   -    Chris_Matthews   (NORP)        *      *             *)        *)    213)
+bc/msnbc/00/msnbc_0003   15   11        /?      .                  *))     -    -   -    Chris_Matthews       *         *      *             *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0     Maybe     RB   (TOP(S(ADVP*)      -    -   -    Chris_Matthews           *    (ARGM-ADV*)  -
+bc/msnbc/00/msnbc_0003   15   1        it    PRP           (NP*)      -    -   -    Chris_Matthews           *        (ARG1*)  -
+bc/msnbc/00/msnbc_0003   15   2        's    VBZ           (VP*       be  01   1    Chris_Matthews           *           (V*)  -
+bc/msnbc/00/msnbc_0003   15   3      just     RB         (ADVP*)      -    -   -    Chris_Matthews           *    (ARGM-ADV*)  -
+bc/msnbc/00/msnbc_0003   15   4         a     DT           (NP*       -    -   -    Chris_Matthews           *        (ARG2*   -
+bc/msnbc/00/msnbc_0003   15   5     catch     NN              *    catch   -   1    Chris_Matthews           *             *   -
+bc/msnbc/00/msnbc_0003   15   6    twenty     CD              *       -    -   -    Chris_Matthews  (CARDINAL*             *   -
+bc/msnbc/00/msnbc_0003   15   7        -    HYPH              *       -    -   -    Chris_Matthews           *             *   -
+bc/msnbc/00/msnbc_0003   15   8       two     CD             *))      -    -   -    Chris_Matthews           *)            *)  -
+bc/msnbc/00/msnbc_0003   15   9        /.      .             *))      -    -   -    Chris_Matthews           *             *   -
+
+bc/msnbc/00/msnbc_0003   15   0         they   PRP   (TOP(S(NP*)     -    -   -    Chris_Matthews  *    (ARG1*)        *    (213)
+bc/msnbc/00/msnbc_0003   15   1          're   VBP         (VP*      be  01   1    Chris_Matthews  *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   2          too    RB       (ADJP*      -    -   -    Chris_Matthews  *    (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   15   3    dangerous    JJ            *      -    -   -    Chris_Matthews  *         *         *       -
+bc/msnbc/00/msnbc_0003   15   4           to    TO  (SBAR(S(VP*      -    -   -    Chris_Matthews  *         *         *       -
+bc/msnbc/00/msnbc_0003   15   5         deal    VB         (VP*    deal  01   2    Chris_Matthews  *         *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   6         with    IN   (PP*)))))))     -    -   -    Chris_Matthews  *         *)   (ARG1*)      -
+bc/msnbc/00/msnbc_0003   15   7           /.     .           *))     -    -   -    Chris_Matthews  *         *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0      But    CC  (TOP(SBARQ*       -    -   -    Chris_Matthews  *      *             *      -
+bc/msnbc/00/msnbc_0003   15   1      how   WRB     (WHADVP*)      -    -   -    Chris_Matthews  *      *    (ARGM-MNR*)     -
+bc/msnbc/00/msnbc_0003   15   2       do   VBP         (SQ*       do  01   -    Chris_Matthews  *    (V*)            *      -
+bc/msnbc/00/msnbc_0003   15   3      you   PRP         (NP*)      -    -   -    Chris_Matthews  *      *        (ARG0*)     -
+bc/msnbc/00/msnbc_0003   15   4      get    VB         (VP*      get  01   1    Chris_Matthews  *      *           (V*)     -
+bc/msnbc/00/msnbc_0003   15   5      the    DT         (NP*       -    -   -    Chris_Matthews  *      *        (ARG1*   (120
+bc/msnbc/00/msnbc_0003   15   6    story    NN          *)))   story   -   1    Chris_Matthews  *      *             *)   120)
+bc/msnbc/00/msnbc_0003   15   7       /?     .           *))      -    -   -    Chris_Matthews  *      *             *      -
+
+bc/msnbc/00/msnbc_0003   15   0        the    DT    (TOP(S(NP*         -    -   -    Paul_Rieckhoff  *   (ARG1*      *   -
+bc/msnbc/00/msnbc_0003   15   1    reality    NN             *)   reality   -   2    Paul_Rieckhoff  *        *)     *   -
+bc/msnbc/00/msnbc_0003   15   2         is   VBZ          (VP*         be  01   1    Paul_Rieckhoff  *      (V*)     *   -
+bc/msnbc/00/msnbc_0003   15   3        you   PRP   (SBAR(S(NP*)        -    -   -    Paul_Rieckhoff  *   (ARG2*      *   -
+bc/msnbc/00/msnbc_0003   15   4         do   VBP          (VP*         do  01   -    Paul_Rieckhoff  *        *    (V*)  -
+bc/msnbc/00/msnbc_0003   15   5        n't    RB          *))))        -    -   -    Paul_Rieckhoff  *        *)     *   -
+bc/msnbc/00/msnbc_0003   15   6         /.     .            *))        -    -   -    Paul_Rieckhoff  *        *      *   -
+
+bc/msnbc/00/msnbc_0003   15    0          And    CC              (TOP(S*        -    -    -    Paul_Rieckhoff         *    (ARGM-DIS*)     *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15    1            I   PRP                 (NP*)       -    -    -    Paul_Rieckhoff         *        (ARG0*)     *             *      *           *        *            *        *         *             *    (151)
+bc/msnbc/00/msnbc_0003   15    2        think   VBP                 (VP*     think  01    1    Paul_Rieckhoff         *           (V*)     *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15    3          Ms.   NNP          (SBAR(S(NP*        -    -    -    Paul_Rieckhoff         *        (ARG1*      *        (ARG0*      *           *   (ARG0*            *        *         *             *     (19
+bc/msnbc/00/msnbc_0003   15    4       Morgan   NNP                    *)       -    -    -    Paul_Rieckhoff   (PERSON)            *      *             *)     *           *        *)           *        *         *             *      19)
+bc/msnbc/00/msnbc_0003   15    5           is   VBZ                 (VP*        be  03    -    Paul_Rieckhoff         *             *    (V*)            *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15    6       really    RB               (ADVP*)       -    -    -    Paul_Rieckhoff         *             *      *    (ARGM-ADV*)     *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15    7    insulting   VBG                 (VP*    insult  01    -    Paul_Rieckhoff         *             *      *           (V*)     *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15    8          all   PDT              (NP(NP*        -    -    -    Paul_Rieckhoff         *             *      *        (ARG1*      *      (ARG1*        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15    9          the    DT                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   10       troops   NNS                    *)    troop   -    -    Paul_Rieckhoff         *             *      *             *      *           *)       *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   11          who    WP          (SBAR(WHNP*)       -    -    -    Paul_Rieckhoff         *             *      *             *      *    (R-ARG1*)       *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   12          've   VBP               (S(VP*      have  01   12    Paul_Rieckhoff         *             *      *             *    (V*)          *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   13         been   VBN                 (VP*        be  01    4    Paul_Rieckhoff         *             *      *             *      *         (V*)       *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   14        there    RB          (ADVP*))))))       -    -    -    Paul_Rieckhoff         *             *      *             *)     *      (ARG2*)       *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   15           to    TO               (S(VP*        -    -    -    Paul_Rieckhoff         *             *      *    (ARGM-ADV*      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   16       assume    VB                 (VP*    assume  02    1    Paul_Rieckhoff         *             *      *             *      *           *      (V*)           *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   17         that    IN               (SBAR*        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *   (ARG1*            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   18           by    IN            (SBAR(PP*        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   19        going   VBG            (S(VP(VP*        go  06    1    Paul_Rieckhoff         *             *      *             *      *           *        *          (V*)       *         *             *       -
+bc/msnbc/00/msnbc_0003   15   20          for    IN                 (PP*        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *   (ARGM-TMP*        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   21          ten    CD                 (NP*        -    -    -    Paul_Rieckhoff    (DATE*             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   22         days   NNS                  *)))      day   -    2    Paul_Rieckhoff         *)            *      *             *      *           *        *            *)       *         *             *       -
+bc/msnbc/00/msnbc_0003   15   23          and    CC                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   24       taking   VBG                 (VP*      take  01    1    Paul_Rieckhoff         *             *      *             *      *           *        *            *      (V*)        *             *       -
+bc/msnbc/00/msnbc_0003   15   25            a    DT              (NP(NP*        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *   (ARG1*         *             *       -
+bc/msnbc/00/msnbc_0003   15   26          few    JJ                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   27       casual    JJ                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   28    leisurely    JJ                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   29        trips   NNS                    *)     trip   -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   30      outside    IN                 (PP*        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   31          the    DT                 (NP*        -    -    -    Paul_Rieckhoff     (LOC*             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   32        Green   NNP                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   33         Zone   NNP              *)))))))       -    -    -    Paul_Rieckhoff         *)            *      *             *      *           *        *            *        *)        *             *       -
+bc/msnbc/00/msnbc_0003   15   34         that    IN                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+bc/msnbc/00/msnbc_0003   15   35          she   PRP               (S(NP*)       -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *    (ARG0*)            *     (19)
+bc/msnbc/00/msnbc_0003   15   36          got   VBD                 (VP*       get  01    1    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   15   37            a    DT              (NP(NP*        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *    (ARG1*             *       -
+bc/msnbc/00/msnbc_0003   15   38         full    JJ                    *        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *    (ARGM-EXT*)      -
+bc/msnbc/00/msnbc_0003   15   39        taste    NN                    *)    taste  01    4    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   40           of    IN                 (PP*        -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   15   41       combat    NN   (NP*)))))))))))))))   combat   -    -    Paul_Rieckhoff         *             *)     *             *)     *           *        *)           *        *         *)            *)      -
+bc/msnbc/00/msnbc_0003   15   42           /.     .                   *))       -    -    -    Paul_Rieckhoff         *             *      *             *      *           *        *            *        *         *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0            I   PRP   (TOP(S(NP*)        -    -   -    Paul_Rieckhoff  *    (ARG0*)       *    (151)
+bc/msnbc/00/msnbc_0003   15   1        think   VBP         (VP*      think  01   1    Paul_Rieckhoff  *       (V*)       *       -
+bc/msnbc/00/msnbc_0003   15   2          the    DT  (SBAR(S(NP*         -    -   -    Paul_Rieckhoff  *    (ARG1*   (ARG1*       -
+bc/msnbc/00/msnbc_0003   15   3      reality    NN            *)   reality   -   2    Paul_Rieckhoff  *         *        *)      -
+bc/msnbc/00/msnbc_0003   15   4           is   VBZ         (VP*         be  01   1    Paul_Rieckhoff  *         *      (V*)      -
+bc/msnbc/00/msnbc_0003   15   5         much    RB       (ADJP*         -    -   -    Paul_Rieckhoff  *         *   (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   6    different    JJ        *)))))        -    -   -    Paul_Rieckhoff  *         *)       *)      -
+bc/msnbc/00/msnbc_0003   15   7           /.     .           *))        -    -   -    Paul_Rieckhoff  *         *        *       -
+
+bc/msnbc/00/msnbc_0003   15    0              And    CC        (TOP(S*        -    -   -    Paul_Rieckhoff      *             *         *    (ARGM-DIS*)   (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   15    1               if    IN         (SBAR*        -    -   -    Paul_Rieckhoff      *             *         *    (ARGM-ADV*    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0003   15    2        reporters   NNS         (S(NP*)       -    -   -    Paul_Rieckhoff      *        (ARG0*)   (ARG0*)            *             *    (176)
+bc/msnbc/00/msnbc_0003   15    3           really    RB         (ADVP*)       -    -   -    Paul_Rieckhoff      *    (ARGM-DIS*)        *             *             *       -
+bc/msnbc/00/msnbc_0003   15    4             want   VBP           (VP*      want  01   1    Paul_Rieckhoff      *           (V*)        *             *             *       -
+bc/msnbc/00/msnbc_0003   15    5               to    TO         (S(VP*        -    -   -    Paul_Rieckhoff      *        (ARG1*         *             *             *       -
+bc/msnbc/00/msnbc_0003   15    6               do    VB           (VP*        do  02   1    Paul_Rieckhoff      *             *       (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   15    7             some    DT           (NP*        -    -   -    Paul_Rieckhoff      *             *    (ARG1*             *             *       -
+bc/msnbc/00/msnbc_0003   15    8    investigative    JJ              *        -    -   -    Paul_Rieckhoff      *             *         *             *             *       -
+bc/msnbc/00/msnbc_0003   15    9        reporting    NN        *)))))))   report   -   -    Paul_Rieckhoff      *             *)        *)            *)            *)      -
+bc/msnbc/00/msnbc_0003   15   10             they   PRP           (NP*)       -    -   -    Paul_Rieckhoff      *             *         *        (ARG1*)       (ARG0*)   (176)
+bc/msnbc/00/msnbc_0003   15   11              can    MD           (VP*        -    -   -    Paul_Rieckhoff      *             *         *    (ARGM-MOD*)   (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   15   12              fly    VB        (VP(VP*       fly  01   1    Paul_Rieckhoff      *             *         *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   15   13             into    IN           (PP*        -    -   -    Paul_Rieckhoff      *             *         *    (ARGM-DIR*             *       -
+bc/msnbc/00/msnbc_0003   15   14           Jordan   NNP         (NP*)))       -    -   -    Paul_Rieckhoff   (GPE)            *         *             *)            *       -
+bc/msnbc/00/msnbc_0003   15   15              and    CC              *        -    -   -    Paul_Rieckhoff      *             *         *             *             *       -
+bc/msnbc/00/msnbc_0003   15   16               go    VB           (VP*        go  02   4    Paul_Rieckhoff      *             *         *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   17       unembedded    JJ   (S(ADJP*)))))       -    -   -    Paul_Rieckhoff      *             *         *             *    (ARGM-PRD*)      -
+bc/msnbc/00/msnbc_0003   15   18               /.     .             *))       -    -   -    Paul_Rieckhoff      *             *         *             *             *       -
+
+bc/msnbc/00/msnbc_0003   15    0       Now     RB    (TOP(S(ADVP*)       -    -   -    Paul_Rieckhoff  *    (ARGM-TMP*)            *        *       -
+bc/msnbc/00/msnbc_0003   15    1     there     EX            (NP*)       -    -   -    Paul_Rieckhoff  *             *             *        *       -
+bc/msnbc/00/msnbc_0003   15    2        is    VBZ            (VP*        be  02   3    Paul_Rieckhoff  *           (V*)            *        *       -
+bc/msnbc/00/msnbc_0003   15    3         a     DT            (NP*        -    -   -    Paul_Rieckhoff  *        (ARG1*             *        *    (102
+bc/msnbc/00/msnbc_0003   15    4    chance     NN               *    chance   -   3    Paul_Rieckhoff  *             *             *        *       -
+bc/msnbc/00/msnbc_0003   15    5      they    PRP     (SBAR(S(NP*)       -    -   -    Paul_Rieckhoff  *             *        (ARG0*)       *    (176)
+bc/msnbc/00/msnbc_0003   15    6     might     MD            (VP*        -    -   -    Paul_Rieckhoff  *             *    (ARGM-MOD*)       *       -
+bc/msnbc/00/msnbc_0003   15    7       get     VB            (VP*       get  04   3    Paul_Rieckhoff  *             *           (V*)       *       -
+bc/msnbc/00/msnbc_0003   15    8     their   PRP$          (S(NP*        -    -   -    Paul_Rieckhoff  *             *        (ARG1*   (ARG1*    (176)
+bc/msnbc/00/msnbc_0003   15    9      head     NN               *)     head   -   1    Paul_Rieckhoff  *             *             *        *)      -
+bc/msnbc/00/msnbc_0003   15   10       cut     VB            (VP*       cut  04   -    Paul_Rieckhoff  *             *             *      (V*)      -
+bc/msnbc/00/msnbc_0003   15   11       off     RP   (PRT*)))))))))       -    -   -    Paul_Rieckhoff  *             *)            *)       *     102)
+bc/msnbc/00/msnbc_0003   15   12        /.      .              *))       -    -   -    Paul_Rieckhoff  *             *             *        *       -
+
+bc/msnbc/00/msnbc_0003   15    0         But    CC       (TOP(S*         -    -   -    Paul_Rieckhoff       *    (ARGM-DIS*)           *       -
+bc/msnbc/00/msnbc_0003   15    1        that    DT          (NP*)        -    -   -    Paul_Rieckhoff       *        (ARG1*)           *    (102)
+bc/msnbc/00/msnbc_0003   15    2          's   VBZ          (VP*         be  01   1    Paul_Rieckhoff       *           (V*)           *       -
+bc/msnbc/00/msnbc_0003   15    3         the    DT       (NP(NP*         -    -   -    Paul_Rieckhoff       *        (ARG2*       (ARG1*       -
+bc/msnbc/00/msnbc_0003   15    4     reality    NN             *)   reality   -   2    Paul_Rieckhoff       *             *            *)      -
+bc/msnbc/00/msnbc_0003   15    5        that    IN   (SBAR(WHNP*)        -    -   -    Paul_Rieckhoff       *             *     (R-ARG1*)      -
+bc/msnbc/00/msnbc_0003   15    6          we   PRP        (S(NP*)        -    -   -    Paul_Rieckhoff       *             *       (ARG0*)      -
+bc/msnbc/00/msnbc_0003   15    7        face   VBP          (VP*       face  01   1    Paul_Rieckhoff       *             *          (V*)      -
+bc/msnbc/00/msnbc_0003   15    8          as    IN          (PP*         -    -   -    Paul_Rieckhoff       *             *   (ARGM-PRD*       -
+bc/msnbc/00/msnbc_0003   15    9    soldiers   NNS         (NP*))   soldier   -   -    Paul_Rieckhoff       *             *            *)      -
+bc/msnbc/00/msnbc_0003   15   10       every    DT          (NP*         -    -   -    Paul_Rieckhoff  (DATE*             *   (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0003   15   11         day    NN        *))))))       day   -   2    Paul_Rieckhoff       *)            *)           *)      -
+bc/msnbc/00/msnbc_0003   15   12          /.     .            *))        -    -   -    Paul_Rieckhoff       *             *            *       -
+
+bc/msnbc/00/msnbc_0003   15    0         I   PRP         (TOP(S(NP*)      -    -   -    Paul_Rieckhoff  *        (ARG0*)           *        *        *         *    (151)
+bc/msnbc/00/msnbc_0003   15    1     think   VBP               (VP*    think  01   1    Paul_Rieckhoff  *           (V*)           *        *        *         *       -
+bc/msnbc/00/msnbc_0003   15    2    really    RB             (ADVP*)      -    -   -    Paul_Rieckhoff  *    (ARGM-ADV*)           *        *        *         *       -
+bc/msnbc/00/msnbc_0003   15    3       the    DT     (SBAR(S(NP(NP*       -    -   -    Paul_Rieckhoff  *        (ARG1*   (ARGM-MNR*   (ARG1*        *         *       -
+bc/msnbc/00/msnbc_0003   15    4      best   JJS                  *       -    -   -    Paul_Rieckhoff  *             *            *        *        *         *       -
+bc/msnbc/00/msnbc_0003   15    5       way    NN                  *)     way   -   2    Paul_Rieckhoff  *             *            *)       *        *         *       -
+bc/msnbc/00/msnbc_0003   15    6        to    TO        (SBAR(S(VP*       -    -   -    Paul_Rieckhoff  *             *            *        *        *         *       -
+bc/msnbc/00/msnbc_0003   15    7        do    VB               (VP*       do  02   1    Paul_Rieckhoff  *             *          (V*)       *        *         *       -
+bc/msnbc/00/msnbc_0003   15    8        it   PRP          (NP*))))))      -    -   -    Paul_Rieckhoff  *             *       (ARG1*)       *)       *         *       -
+bc/msnbc/00/msnbc_0003   15    9        is   VBZ               (VP*       be  01   1    Paul_Rieckhoff  *             *            *      (V*)       *         *       -
+bc/msnbc/00/msnbc_0003   15   10        to    TO             (S(VP*       -    -   -    Paul_Rieckhoff  *             *            *   (ARG2*        *         *       -
+bc/msnbc/00/msnbc_0003   15   11      talk    VB               (VP*     talk  01   1    Paul_Rieckhoff  *             *            *        *      (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   12        to    IN               (PP*       -    -   -    Paul_Rieckhoff  *             *            *        *   (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   15   13       the    DT            (NP(NP*       -    -   -    Paul_Rieckhoff  *             *            *        *        *    (ARG1*    (198
+bc/msnbc/00/msnbc_0003   15   14    troops   NNS                  *)   troop   -   -    Paul_Rieckhoff  *             *            *        *        *         *)      -
+bc/msnbc/00/msnbc_0003   15   15    coming   VBG               (VP*     come  01   1    Paul_Rieckhoff  *             *            *        *        *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   16      home    RB   (ADVP*)))))))))))      -    -   -    Paul_Rieckhoff  *             *)           *        *)       *)   (ARG4*)    198)
+bc/msnbc/00/msnbc_0003   15   17        /.     .                 *))      -    -   -    Paul_Rieckhoff  *             *            *        *        *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0       We   PRP   (TOP(S(NP*)   -    -   -    Paul_Rieckhoff  *    (ARG1*)   (198)
+bc/msnbc/00/msnbc_0003   15   1      're   VBP         (VP*    be  01   1    Paul_Rieckhoff  *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   2    ready    JJ      (ADJP*))   -    -   -    Paul_Rieckhoff  *    (ARG2*)      -
+bc/msnbc/00/msnbc_0003   15   3       /.     .           *))   -    -   -    Paul_Rieckhoff  *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0             we    PRP        (TOP(S(NP*)           -    -   -    Paul_Rieckhoff  *    (ARG1*)   (ARG1*)   (ARG0*)        *        (ARG0*)   (ARG0*)     *         (198)
+bc/msnbc/00/msnbc_0003   15    1            're    VBP              (VP*            be  01   1    Paul_Rieckhoff  *       (V*)        *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15    2        willing     JJ            (ADJP*            -    -   -    Paul_Rieckhoff  *    (ARG2*         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15    3            and     CC                 *            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15    4           able     JJ                 *            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15    5             to     TO            (S(VP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15    6           come     VB           (VP(VP*          come  01   1    Paul_Rieckhoff  *         *       (V*)        *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15    7             on     IN              (PP*            -    -   -    Paul_Rieckhoff  *         *    (ARG4*         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15    8           your   PRP$           (NP(NP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *    (154|(221)
+bc/msnbc/00/msnbc_0003   15    9        program     NN                 *)      program   -   2    Paul_Rieckhoff  *         *         *         *         *             *         *      *          154)
+bc/msnbc/00/msnbc_0003   15   10            and     CC                 *            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   11         others    NNS           (NP*))))           -    -   -    Paul_Rieckhoff  *         *         *)        *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   12            and     CC                 *            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   13           talk     VB              (VP*          talk  01   1    Paul_Rieckhoff  *         *         *       (V*)        *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   14          about     IN              (PP*            -    -   -    Paul_Rieckhoff  *         *         *    (ARG1*         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   15            our   PRP$              (NP*            -    -   -    Paul_Rieckhoff  *         *         *         *    (ARG0*)            *         *      *         (198)
+bc/msnbc/00/msnbc_0003   15   16    experiences    NNS               *)))   experience  01   2    Paul_Rieckhoff  *         *         *         *)      (V*)            *         *      *            -
+bc/msnbc/00/msnbc_0003   15   17            and     CC                 *            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   18         really     RB            (ADVP*)           -    -   -    Paul_Rieckhoff  *         *         *         *         *    (ARGM-ADV*)        *      *            -
+bc/msnbc/00/msnbc_0003   15   19            try     VB              (VP*           try  01   1    Paul_Rieckhoff  *         *         *         *         *           (V*)        *      *          (58)
+bc/msnbc/00/msnbc_0003   15   20             to     TO            (S(VP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *        (ARG1*         *      *            -
+bc/msnbc/00/msnbc_0003   15   21        educate     VB              (VP*       educate  01   1    Paul_Rieckhoff  *         *         *         *         *             *       (V*)     *            -
+bc/msnbc/00/msnbc_0003   15   22            the     DT              (NP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *    (ARG1*      *            -
+bc/msnbc/00/msnbc_0003   15   23         public     NN                 *)       public   -   1    Paul_Rieckhoff  *         *         *         *         *             *         *)     *            -
+bc/msnbc/00/msnbc_0003   15   24          about     IN              (PP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *    (ARG2*      *            -
+bc/msnbc/00/msnbc_0003   15   25            the     DT           (NP(NP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   26        reality     NN                 *)      reality   -   2    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   27             of     IN              (PP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   28            all     DT           (NP(NP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   29          sides    NNS                 *)         side   -   3    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   30             of     IN              (PP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   31           this     DT              (NP*            -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+bc/msnbc/00/msnbc_0003   15   32       conflict     NN   *)))))))))))))))     conflict  01   1    Paul_Rieckhoff  *         *)        *         *         *             *)        *)   (V*)           -
+bc/msnbc/00/msnbc_0003   15   33             /.      .                *))           -    -   -    Paul_Rieckhoff  *         *         *         *         *             *         *      *            -
+
+bc/msnbc/00/msnbc_0003   15   0     Well   UH    (TOP(S(INTJ*)      -    -   -    Melanie_Morgan  *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0003   15   1    guess   VB            (VP*    guess  01   2    Melanie_Morgan  *           (V*)  -
+bc/msnbc/00/msnbc_0003   15   2     what   WP   (SBAR(WHNP*)))      -    -   -    Melanie_Morgan  *        (ARG1*)  -
+bc/msnbc/00/msnbc_0003   15   3       /.    .              *))      -    -   -    Melanie_Morgan  *             *   -
+
+bc/msnbc/00/msnbc_0003   15   0       that    DT   (TOP(S(NP*)   -    -   -    Melanie_Morgan  *    (ARG1*)        *     (58)
+bc/msnbc/00/msnbc_0003   15   1         's   VBZ         (VP*    be  01   1    Melanie_Morgan  *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   2    exactly    RB  (SBAR(WHNP*    -    -   -    Melanie_Morgan  *    (ARG2*    (ARG1*       -
+bc/msnbc/00/msnbc_0003   15   3       what    WP            *)   -    -   -    Melanie_Morgan  *         *         *)      -
+bc/msnbc/00/msnbc_0003   15   4         we   PRP       (S(NP*)   -    -   -    Melanie_Morgan  *         *    (ARG0*)   (160)
+bc/msnbc/00/msnbc_0003   15   5        did   VBD      (VP*))))   do  02   1    Melanie_Morgan  *         *)      (V*)      -
+bc/msnbc/00/msnbc_0003   15   6         /.     .           *))   -    -   -    Melanie_Morgan  *         *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0            We   PRP   (TOP(S(NP*)      -    -   -    Melanie_Morgan  *    (ARG0*)   (160)
+bc/msnbc/00/msnbc_0003   15    1         stuck   VBD         (VP*    stick  01   2    Melanie_Morgan  *       (V*)    (55)
+bc/msnbc/00/msnbc_0003   15    2             a    DT         (NP*       -    -   -    Melanie_Morgan  *    (ARG1*       -
+bc/msnbc/00/msnbc_0003   15    3    microphone    NN            *)      -    -   -    Melanie_Morgan  *         *)      -
+bc/msnbc/00/msnbc_0003   15    4            in    IN         (PP*       -    -   -    Melanie_Morgan  *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   15    5         front    NN      (NP(NP*)   front   -   1    Melanie_Morgan  *         *       -
+bc/msnbc/00/msnbc_0003   15    6            of    IN         (PP*       -    -   -    Melanie_Morgan  *         *       -
+bc/msnbc/00/msnbc_0003   15    7           all    DT      (NP(NP*)      -    -   -    Melanie_Morgan  *         *     (98
+bc/msnbc/00/msnbc_0003   15    8            of    IN         (PP*       -    -   -    Melanie_Morgan  *         *       -
+bc/msnbc/00/msnbc_0003   15    9           the    DT         (NP*       -    -   -    Melanie_Morgan  *         *       -
+bc/msnbc/00/msnbc_0003   15   10        troops   NNS      *)))))))   troop   -   -    Melanie_Morgan  *         *)     98)
+bc/msnbc/00/msnbc_0003   15   11            /.     .           *))      -    -   -    Melanie_Morgan  *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0    Ma'am   NNP   (TOP(S(NP*)   -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*)   (19)
+bc/msnbc/00/msnbc_0003   15   1      you   PRP         (NP*)   -    -   -    Paul_Rieckhoff  *        (ARG0*)   (19)
+bc/msnbc/00/msnbc_0003   15   2      did   VBD         (VP*)   do  02   1    Paul_Rieckhoff  *           (V*)     -
+bc/msnbc/00/msnbc_0003   15   3      /-      .           *))   -    -   -    Paul_Rieckhoff  *             *      -
+
+bc/msnbc/00/msnbc_0003   15    0            We   PRP   (TOP(S(NP*)       -    -   -    Melanie_Morgan      *    (ARG0*)   (ARG0*)            *    (160)
+bc/msnbc/00/msnbc_0003   15    1         stuck   VBD      (VP(VP*     stick  01   2    Melanie_Morgan      *       (V*)        *             *     (55)
+bc/msnbc/00/msnbc_0003   15    2             a    DT         (NP*        -    -   -    Melanie_Morgan      *    (ARG1*         *             *       -
+bc/msnbc/00/msnbc_0003   15    3    microphone    NN           *))       -    -   -    Melanie_Morgan      *         *)        *             *       -
+bc/msnbc/00/msnbc_0003   15    4           and    CC            *        -    -   -    Melanie_Morgan      *         *         *             *       -
+bc/msnbc/00/msnbc_0003   15    5           let   VBD         (VP*       let  01   1    Melanie_Morgan      *         *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   15    6          them   PRP       (S(NP*)       -    -   -    Melanie_Morgan      *         *    (ARG1*        (ARG0*)    (98)
+bc/msnbc/00/msnbc_0003   15    7          talk    VB         (VP*      talk  01   1    Melanie_Morgan      *         *         *           (V*)      -
+bc/msnbc/00/msnbc_0003   15    8      directly    RB       (ADVP*)       -    -   -    Melanie_Morgan      *         *         *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0003   15    9            to    IN         (PP*        -    -   -    Melanie_Morgan      *         *         *        (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   10           the    DT      (NP(NP*        -    -   -    Melanie_Morgan      *         *         *             *       -
+bc/msnbc/00/msnbc_0003   15   11        people   NNS            *)   people   -   2    Melanie_Morgan      *         *         *             *       -
+bc/msnbc/00/msnbc_0003   15   12            of    IN         (PP*        -    -   -    Melanie_Morgan      *         *         *             *       -
+bc/msnbc/00/msnbc_0003   15   13           the    DT         (NP*        -    -   -    Melanie_Morgan  (GPE*         *         *             *       -
+bc/msnbc/00/msnbc_0003   15   14        United   NNP            *        -    -   -    Melanie_Morgan      *         *         *             *       -
+bc/msnbc/00/msnbc_0003   15   15        States   NNP     *))))))))       -    -   -    Melanie_Morgan      *)        *         *)            *)      -
+bc/msnbc/00/msnbc_0003   15   16            /.     .           *))       -    -   -    Melanie_Morgan      *         *         *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0       You   PRP   (TOP(S(NP*)     -    -   -    Paul_Rieckhoff  *       (ARG0*)        *    (19)
+bc/msnbc/00/msnbc_0003   15   1       did   VBD         (VP*      do  02   1    Paul_Rieckhoff  *          (V*)        *      -
+bc/msnbc/00/msnbc_0003   15   2        it   PRP         (NP*)     -    -   -    Paul_Rieckhoff  *       (ARG1*)        *    (55)
+bc/msnbc/00/msnbc_0003   15   3     while    IN       (SBAR*      -    -   -    Paul_Rieckhoff  *   (ARGM-TMP*         *      -
+bc/msnbc/00/msnbc_0003   15   4      they   PRP       (S(NP*)     -    -   -    Paul_Rieckhoff  *            *    (ARG1*)   (98)
+bc/msnbc/00/msnbc_0003   15   5      were   VBD         (VP*      be  01   1    Paul_Rieckhoff  *            *       (V*)     -
+bc/msnbc/00/msnbc_0003   15   6        on    IN         (PP*      -    -   -    Paul_Rieckhoff  *            *    (ARG2*      -
+bc/msnbc/00/msnbc_0003   15   7    active    JJ         (NP*      -    -   -    Paul_Rieckhoff  *            *         *      -
+bc/msnbc/00/msnbc_0003   15   8      duty    NN       *))))))   duty   -   2    Paul_Rieckhoff  *            *)        *)     -
+bc/msnbc/00/msnbc_0003   15   9        /.     .           *))     -    -   -    Paul_Rieckhoff  *            *         *      -
+
+bc/msnbc/00/msnbc_0003   15   0     Ma'am   NNP   (TOP(S(NP*)     -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*)        *    (19)
+bc/msnbc/00/msnbc_0003   15   1       you   PRP         (NP*)     -    -   -    Paul_Rieckhoff  *        (ARG0*)        *    (19)
+bc/msnbc/00/msnbc_0003   15   2       did   VBD         (VP*      do  02   1    Paul_Rieckhoff  *           (V*)        *      -
+bc/msnbc/00/msnbc_0003   15   3     while    IN       (SBAR*      -    -   -    Paul_Rieckhoff  *    (ARGM-TMP*         *      -
+bc/msnbc/00/msnbc_0003   15   4      they   PRP       (S(NP*)     -    -   -    Paul_Rieckhoff  *             *    (ARG1*)   (98)
+bc/msnbc/00/msnbc_0003   15   5      were   VBD         (VP*      be  01   1    Paul_Rieckhoff  *             *       (V*)     -
+bc/msnbc/00/msnbc_0003   15   6        on    IN         (PP*      -    -   -    Paul_Rieckhoff  *             *    (ARG2*      -
+bc/msnbc/00/msnbc_0003   15   7    active    JJ         (NP*      -    -   -    Paul_Rieckhoff  *             *         *      -
+bc/msnbc/00/msnbc_0003   15   8      duty    NN       *))))))   duty   -   2    Paul_Rieckhoff  *             *)        *)     -
+bc/msnbc/00/msnbc_0003   15   9        /.     .           *))     -    -   -    Paul_Rieckhoff  *             *         *      -
+
+bc/msnbc/00/msnbc_0003   15    0    Unfiltered    JJ    (TOP(ADJP*        -    -   -    Melanie_Morgan  *      *             *   -
+bc/msnbc/00/msnbc_0003   15    1            by    IN          (PP*        -    -   -    Melanie_Morgan  *      *             *   -
+bc/msnbc/00/msnbc_0003   15    2           the    DT       (NP(NP*        -    -   -    Melanie_Morgan  *      *        (ARG0*   -
+bc/msnbc/00/msnbc_0003   15    3          main    JJ         (NML*        -    -   -    Melanie_Morgan  *      *             *   -
+bc/msnbc/00/msnbc_0003   15    4        stream    NN             *)   stream   -   -    Melanie_Morgan  *      *             *   -
+bc/msnbc/00/msnbc_0003   15    5         media    NN             *)       -    -   -    Melanie_Morgan  *      *             *)  -
+bc/msnbc/00/msnbc_0003   15    6          that   WDT   (SBAR(WHNP*)       -    -   -    Melanie_Morgan  *      *      (R-ARG0*)  -
+bc/msnbc/00/msnbc_0003   15    7          does   VBZ        (S(VP*        do  01   -    Melanie_Morgan  *    (V*)            *   -
+bc/msnbc/00/msnbc_0003   15    8           n't    RB             *        -    -   -    Melanie_Morgan  *      *    (ARGM-NEG*)  -
+bc/msnbc/00/msnbc_0003   15    9          have    VB          (VP*      have  03   2    Melanie_Morgan  *      *           (V*)  -
+bc/msnbc/00/msnbc_0003   15   10           the    DT          (NP*        -    -   -    Melanie_Morgan  *      *        (ARG1*   -
+bc/msnbc/00/msnbc_0003   15   11          guts   NNS       *)))))))      gut   -   -    Melanie_Morgan  *      *             *)  -
+bc/msnbc/00/msnbc_0003   15   12           /-      .            *))       -    -   -    Melanie_Morgan  *      *             *   -
+
+bc/msnbc/00/msnbc_0003   15    0       Are   VBP  (TOP(SQ*      be  03   -    Paul_Rieckhoff  *    (V*)     *            *             *       -
+bc/msnbc/00/msnbc_0003   15    1       you   PRP      (NP*)     -    -   -    Paul_Rieckhoff  *      *      *       (ARG0*)            *     (19)
+bc/msnbc/00/msnbc_0003   15    2     going   VBG      (VP*      go  04   7    Paul_Rieckhoff  *      *    (V*)           *             *       -
+bc/msnbc/00/msnbc_0003   15    3        to    TO    (S(VP*      -    -   -    Paul_Rieckhoff  *      *      *            *             *       -
+bc/msnbc/00/msnbc_0003   15    4      yell    VB      (VP*    yell  01   1    Paul_Rieckhoff  *      *      *          (V*)            *       -
+bc/msnbc/00/msnbc_0003   15    5      over    IN      (PP*      -    -   -    Paul_Rieckhoff  *      *      *   (ARGM-ADV*             *       -
+bc/msnbc/00/msnbc_0003   15    6        me   PRP     (NP*))     -    -   -    Paul_Rieckhoff  *      *      *            *)            *    (151)
+bc/msnbc/00/msnbc_0003   15    7       the    DT      (NP*      -    -   -    Paul_Rieckhoff  *      *      *   (ARGM-TMP*             *       -
+bc/msnbc/00/msnbc_0003   15    8    entire    JJ         *      -    -   -    Paul_Rieckhoff  *      *      *            *    (ARGM-EXT*)      -
+bc/msnbc/00/msnbc_0003   15    9      show    NN     *)))))   show  01   2    Paul_Rieckhoff  *      *      *            *)          (V*)      -
+bc/msnbc/00/msnbc_0003   15   10        /?     .        *))     -    -   -    Paul_Rieckhoff  *      *      *            *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0          I   PRP   (TOP(S(NP*)        -    -   -    Melanie_Morgan  *      *    (ARG0*)   (ARG0*)   (19)
+bc/msnbc/00/msnbc_0003   15   1         'm   VBP         (VP*         be  03   -    Melanie_Morgan  *    (V*)        *         *      -
+bc/msnbc/00/msnbc_0003   15   2     trying   VBG            *        try  01   1    Melanie_Morgan  *      *       (V*)        *      -
+bc/msnbc/00/msnbc_0003   15   3         to    TO       (S(VP*         -    -   -    Melanie_Morgan  *      *    (ARG1*         *      -
+bc/msnbc/00/msnbc_0003   15   4    respond    VB         (VP*    respond  01   2    Melanie_Morgan  *      *         *       (V*)     -
+bc/msnbc/00/msnbc_0003   15   5         to    IN     (PP*)))))        -    -   -    Melanie_Morgan  *      *         *)   (ARG1*)     -
+bc/msnbc/00/msnbc_0003   15   6        /-      .           *))        -    -   -    Melanie_Morgan  *      *         *         *      -
+
+bc/msnbc/00/msnbc_0003   15   0     Okay     UH   (TOP(FRAG(INTJ*)     -   -   -    Chris_Matthews          *          -
+bc/msnbc/00/msnbc_0003   15   1      her   PRP$              (NP*      -   -   -    Chris_Matthews          *    (43|(19)
+bc/msnbc/00/msnbc_0003   15   2     turn     NN                 *)   turn  -   3    Chris_Matthews          *         43)
+bc/msnbc/00/msnbc_0003   15   3    first     RB            (ADJP*)     -   -   -    Chris_Matthews   (ORDINAL)         -
+bc/msnbc/00/msnbc_0003   15   4       /.      .                *))     -   -   -    Chris_Matthews          *          -
+
+bc/msnbc/00/msnbc_0003   15   0    Melanie    NNP   (TOP(FRAG(NP*)     -   -   -    Chris_Matthews   (PERSON)       (19)
+bc/msnbc/00/msnbc_0003   15   1       your   PRP$            (NP*      -   -   -    Chris_Matthews         *    (43|(19)
+bc/msnbc/00/msnbc_0003   15   2       turn     NN               *)   turn  -   3    Chris_Matthews         *         43)
+bc/msnbc/00/msnbc_0003   15   3         /.      .              *))     -   -   -    Chris_Matthews         *          -
+
+bc/msnbc/00/msnbc_0003   15   0       Take    VB  (TOP(S(VP*      take  01   1    Chris_Matthews         *           (V*)     -
+bc/msnbc/00/msnbc_0003   15   1          a    DT        (NP*        -    -   -    Chris_Matthews         *        (ARG1*      -
+bc/msnbc/00/msnbc_0003   15   2     minute    NN           *)   minute   -   1    Chris_Matthews         *             *)     -
+bc/msnbc/00/msnbc_0003   15   3    Melanie   NNP       (NP*))       -    -   -    Chris_Matthews   (PERSON)   (ARGM-DIS*)   (19)
+bc/msnbc/00/msnbc_0003   15   4         /.     .          *))       -    -   -    Chris_Matthews         *             *      -
+
+bc/msnbc/00/msnbc_0003   15   0    Melanie    NNP   (TOP(S(NP*)      -    -    -    Chris_Matthews   (PERSON)   (ARGM-DIS*)   (19)
+bc/msnbc/00/msnbc_0003   15   1       make     VB         (VP*     make  01   16    Chris_Matthews         *           (V*)     -
+bc/msnbc/00/msnbc_0003   15   2       your   PRP$         (NP*       -    -    -    Chris_Matthews         *        (ARG1*    (19)
+bc/msnbc/00/msnbc_0003   15   3      point     NN           *))   point   -    3    Chris_Matthews         *             *)     -
+bc/msnbc/00/msnbc_0003   15   4         /.      .           *))      -    -    -    Chris_Matthews         *             *      -
+
+bc/msnbc/00/msnbc_0003   15   0        I   PRP   (TOP(S(NP*)   -    -   -    Chris_Matthews  *    (ARG1*)   (221)
+bc/msnbc/00/msnbc_0003   15   1       'm   VBP         (VP*    be  01   1    Chris_Matthews  *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   2    sorry    JJ      (ADJP*))   -    -   -    Chris_Matthews  *    (ARG2*)      -
+bc/msnbc/00/msnbc_0003   15   3       /.     .           *))   -    -   -    Chris_Matthews  *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0               No    DT  (TOP(FRAG(NP*              -    -   -    Chris_Matthews         *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   15   1    interruptions   NNS              *)   interruption  01   2    Chris_Matthews         *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   2           please    UH         (INTJ*)             -    -   -    Chris_Matthews         *             *       -
+bc/msnbc/00/msnbc_0003   15   3             Paul   NNP           (NP*)             -    -   -    Chris_Matthews   (PERSON)            *    (151)
+bc/msnbc/00/msnbc_0003   15   4               /.     .             *))             -    -   -    Chris_Matthews         *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0      give    VB  (TOP(S(VP*      give  01   3    Chris_Matthews       *       (V*)     -
+bc/msnbc/00/msnbc_0003   15   1       her   PRP        (NP*)       -    -   -    Chris_Matthews       *    (ARG2*)   (19)
+bc/msnbc/00/msnbc_0003   15   2         a    DT        (NP*        -    -   -    Chris_Matthews  (TIME*    (ARG1*      -
+bc/msnbc/00/msnbc_0003   15   3    minute    NN          *))   minute   -   1    Chris_Matthews       *)        *)     -
+bc/msnbc/00/msnbc_0003   15   4        /.     .          *))       -    -   -    Chris_Matthews       *         *      -
+
+bc/msnbc/00/msnbc_0003   15    0           What     WP   (TOP(S(SBAR(WHNP*)      -    -   -    Melanie_Morgan      *         *    (ARG1*)  (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   15    1              I    PRP              (S(NP*)      -    -   -    Melanie_Morgan      *    (ARG0*)   (ARG0*)       *         *     (19)
+bc/msnbc/00/msnbc_0003   15    2           want    VBP                (VP*     want  01   1    Melanie_Morgan      *       (V*)        *        *         *       -
+bc/msnbc/00/msnbc_0003   15    3             to     TO              (S(VP*       -    -   -    Melanie_Morgan      *    (ARG1*         *        *         *       -
+bc/msnbc/00/msnbc_0003   15    4            say     VB           (VP*))))))     say  01   1    Melanie_Morgan      *         *)      (V*)       *)        *       -
+bc/msnbc/00/msnbc_0003   15    5             is    VBZ                (VP*       be  01   1    Melanie_Morgan      *         *         *      (V*)        *       -
+bc/msnbc/00/msnbc_0003   15    6           that     IN              (SBAR*       -    -   -    Melanie_Morgan      *         *         *   (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   15    7             we    PRP              (S(NP*)      -    -   -    Melanie_Morgan      *         *         *        *    (ARG0*)   (160)
+bc/msnbc/00/msnbc_0003   15    8           took    VBD                (VP*     take  01   4    Melanie_Morgan      *         *         *        *       (V*)      -
+bc/msnbc/00/msnbc_0003   15    9            our   PRP$                (NP*       -    -   -    Melanie_Morgan      *         *         *        *    (ARG1*    (160)
+bc/msnbc/00/msnbc_0003   15   10    microphones    NNS                   *)      -    -   -    Melanie_Morgan      *         *         *        *         *)      -
+bc/msnbc/00/msnbc_0003   15   11             to     IN                (PP*       -    -   -    Melanie_Morgan      *         *         *        *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   12            the     DT                (NP*       -    -   -    Melanie_Morgan      *         *         *        *         *     (98
+bc/msnbc/00/msnbc_0003   15   13             US    NNP                   *       -    -   -    Melanie_Morgan   (GPE)        *         *        *         *       -
+bc/msnbc/00/msnbc_0003   15   14         troops    NNS              *))))))   troop   -   -    Melanie_Morgan      *         *         *        *)        *)     98)
+bc/msnbc/00/msnbc_0003   15   15             /.      .                  *))      -    -   -    Melanie_Morgan      *         *         *        *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0             and     CC         (TOP(S*              -    -   -    Melanie_Morgan  *         *         *         *      *      *    (ARGM-DIS*)        *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15    1              if     IN          (SBAR*              -    -   -    Melanie_Morgan  *         *         *         *      *      *    (ARGM-ADV*         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15    2             you    PRP          (S(NP*)             -    -   -    Melanie_Morgan  *    (ARG0*)        *         *      *      *             *         *      *             *             *             *         *    (151)
+bc/msnbc/00/msnbc_0003   15    3           think    VBP            (VP*           think  01   1    Melanie_Morgan  *       (V*)        *         *      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15    4            that     IN          (SBAR*              -    -   -    Melanie_Morgan  *    (ARG1*         *         *      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15    5            what     WP   (S(SBAR(WHNP*)             -    -   -    Melanie_Morgan  *         *    (ARG1*)   (ARG1*      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15    6              we    PRP          (S(NP*)             -    -   -    Melanie_Morgan  *         *    (ARG0*)        *      *      *             *         *      *             *             *             *         *    (160)
+bc/msnbc/00/msnbc_0003   15    7           heard    VBD            (VP*            hear  01   1    Melanie_Morgan  *         *       (V*)        *      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15    8            from     IN            (PP*              -    -   -    Melanie_Morgan  *         *    (ARG2*         *      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15    9            them    PRP        (NP*)))))             -    -   -    Melanie_Morgan  *         *         *)        *)     *      *             *         *      *             *             *             *         *     (98)
+bc/msnbc/00/msnbc_0003   15   10             are    VBP            (VP*              be  01   1    Melanie_Morgan  *         *         *       (V*)     *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   11            lies    NNS      (NP*)))))))            lie  01   1    Melanie_Morgan  *         *)        *    (ARG2*)   (V*)     *             *)        *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   12            then     RB          (ADVP*)             -    -   -    Melanie_Morgan  *         *         *         *      *      *    (ARGM-ADV*)        *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   13             you    PRP            (NP*)             -    -   -    Melanie_Morgan  *         *         *         *      *      *        (ARG0*)        *      *             *             *             *         *    (151)
+bc/msnbc/00/msnbc_0003   15   14             are    VBP            (VP*              be  03   -    Melanie_Morgan  *         *         *         *      *    (V*)            *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   15        accusing    VBG            (VP*          accuse  01   1    Melanie_Morgan  *         *         *         *      *      *           (V*)        *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   16             the     DT            (NP*              -    -   -    Melanie_Morgan  *         *         *         *      *      *        (ARG1*    (ARG1*      *             *             *             *         *     (98
+bc/msnbc/00/msnbc_0003   15   17          troops    NNS               *)          troop   -   -    Melanie_Morgan  *         *         *         *      *      *             *)        *)     *             *             *             *         *      98)
+bc/msnbc/00/msnbc_0003   15   18              of     IN            (PP*              -    -   -    Melanie_Morgan  *         *         *         *      *      *        (ARG2*         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   19           being    VBG          (S(VP*              be  01   -    Melanie_Morgan  *         *         *         *      *      *             *       (V*)     *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   20           liars    NNS        (NP*)))))             -    -   -    Melanie_Morgan  *         *         *         *      *      *             *)   (ARG2*)     *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   21         because     IN          (SBAR*              -    -   -    Melanie_Morgan  *         *         *         *      *      *    (ARGM-CAU*         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   22              we    PRP          (S(NP*)             -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *        (ARG0*)       (ARG0*)       (ARG0*)   (ARG0*)   (160)
+bc/msnbc/00/msnbc_0003   15   23             did    VBD         (VP(VP*              do  01   -    Melanie_Morgan  *         *         *         *      *      *             *         *    (V*)            *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   24             not     RB               *              -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *    (ARGM-NEG*)   (ARGM-NEG*)   (ARGM-NEG*)        *       -
+bc/msnbc/00/msnbc_0003   15   25          filter     VB            (VP*          filter  02   1    Melanie_Morgan  *         *         *         *      *      *             *         *      *           (V*)            *             *         *       -
+bc/msnbc/00/msnbc_0003   15   26              or     CC               *              -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   27    editorialize     VB              *))   editorialize  01   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *           (V*)            *         *       -
+bc/msnbc/00/msnbc_0003   15   28              or     CC               *              -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   29              in     IN            (PP*              -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *    (ARGM-MNR*         *       -
+bc/msnbc/00/msnbc_0003   15   30             any     DT            (NP*              -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *             *         *       -
+bc/msnbc/00/msnbc_0003   15   31             way     NN              *))            way   -   1    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *             *)        *       -
+bc/msnbc/00/msnbc_0003   15   32             try     VB            (VP*             try  01   1    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   33              to     TO          (S(VP*              -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   15   34         massage     VB            (VP*         massage  01   1    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *             *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   35           their   PRP$            (NP*              -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *             *    (ARG1*     (98)
+bc/msnbc/00/msnbc_0003   15   36         message     NN       *)))))))))        message   -   1    Melanie_Morgan  *         *         *         *      *      *             *)        *      *             *             *             *)        *)      -
+bc/msnbc/00/msnbc_0003   15   37              /.      .              *))             -    -   -    Melanie_Morgan  *         *         *         *      *      *             *         *      *             *             *             *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0     They   PRP   (TOP(S(NP*)      -    -   -    Melanie_Morgan  *    (ARG0*)        *     (98)
+bc/msnbc/00/msnbc_0003   15   1     gave   VBD         (VP*     give  01   2    Melanie_Morgan  *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   2       us   PRP         (NP*)      -    -   -    Melanie_Morgan  *    (ARG2*)        *    (160)
+bc/msnbc/00/msnbc_0003   15   3      the    DT      (NP(NP*       -    -   -    Melanie_Morgan  *    (ARG1*         *    (153
+bc/msnbc/00/msnbc_0003   15   4    story    NN            *)   story   -   1    Melanie_Morgan  *         *         *       -
+bc/msnbc/00/msnbc_0003   15   5       as    IN       (SBAR*       -    -   -    Melanie_Morgan  *         *         *       -
+bc/msnbc/00/msnbc_0003   15   6     they   PRP       (S(NP*)      -    -   -    Melanie_Morgan  *         *    (ARG0*)    (98)
+bc/msnbc/00/msnbc_0003   15   7      see   VBP         (VP*      see  01   2    Melanie_Morgan  *         *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   8       it   PRP    (NP*))))))      -    -   -    Melanie_Morgan  *         *)   (ARG1*)    153)
+bc/msnbc/00/msnbc_0003   15   9       /.     .           *))      -    -   -    Melanie_Morgan  *         *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0           and     CC    (TOP(S*         -    -   -    Melanie_Morgan  *      *             *      *    (ARGM-DIS*)          -
+bc/msnbc/00/msnbc_0003   15    1            if     IN     (SBAR*         -    -   -    Melanie_Morgan  *      *             *      *    (ARGM-ADV*           -
+bc/msnbc/00/msnbc_0003   15    2           you    PRP     (S(NP*)        -    -   -    Melanie_Morgan  *      *        (ARG0*)     *             *        (151)
+bc/msnbc/00/msnbc_0003   15    3            do    VBP       (VP*         do  01   -    Melanie_Morgan  *    (V*)            *      *             *           -
+bc/msnbc/00/msnbc_0003   15    4           n't     RB          *         -    -   -    Melanie_Morgan  *      *    (ARGM-NEG*)     *             *           -
+bc/msnbc/00/msnbc_0003   15    5       believe     VB       (VP*    believe  01   1    Melanie_Morgan  *      *           (V*)     *             *           -
+bc/msnbc/00/msnbc_0003   15    6            it    PRP   (NP*)))))        -    -   -    Melanie_Morgan  *      *        (ARG1*)     *             *)       (153)
+bc/msnbc/00/msnbc_0003   15    7          then     RB     (ADVP*)        -    -   -    Melanie_Morgan  *      *             *      *    (ARGM-ADV*)          -
+bc/msnbc/00/msnbc_0003   15    8           you    PRP       (NP*)        -    -   -    Melanie_Morgan  *      *             *      *        (ARG0*)       (151)
+bc/msnbc/00/msnbc_0003   15    9           are    VBP       (VP*         be  03   -    Melanie_Morgan  *      *             *    (V*)            *           -
+bc/msnbc/00/msnbc_0003   15   10         doing    VBG       (VP*         do  02   1    Melanie_Morgan  *      *             *      *           (V*)          -
+bc/msnbc/00/msnbc_0003   15   11             a     DT       (NP*         -    -   -    Melanie_Morgan  *      *             *      *        (ARG1*           -
+bc/msnbc/00/msnbc_0003   15   12    disservice     NN          *)        -    -   -    Melanie_Morgan  *      *             *      *             *)          -
+bc/msnbc/00/msnbc_0003   15   13            to     IN       (PP*         -    -   -    Melanie_Morgan  *      *             *      *        (ARG2*           -
+bc/msnbc/00/msnbc_0003   15   14          your   PRP$       (NP*         -    -   -    Melanie_Morgan  *      *             *      *             *    (98|(151)
+bc/msnbc/00/msnbc_0003   15   15        fellow     JJ          *         -    -   -    Melanie_Morgan  *      *             *      *             *           -
+bc/msnbc/00/msnbc_0003   15   16        troops    NNS       *))))     troop   -   -    Melanie_Morgan  *      *             *      *             *)         98)
+bc/msnbc/00/msnbc_0003   15   17            /.      .         *))        -    -   -    Melanie_Morgan  *      *             *      *             *           -
+
+bc/msnbc/00/msnbc_0003   15   0    Ma'am   NNP   (TOP(S(NP*)   -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*)   (19)
+bc/msnbc/00/msnbc_0003   15   1       uh    UH       (INTJ*    -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*      -
+bc/msnbc/00/msnbc_0003   15   2       uh    UH            *)   -    -   -    Paul_Rieckhoff  *             *)     -
+bc/msnbc/00/msnbc_0003   15   3       go    VB         (VP*    go  02   1    Paul_Rieckhoff  *           (V*)     -
+bc/msnbc/00/msnbc_0003   15   4    ahead    RB      (ADVP*))   -    -   -    Paul_Rieckhoff  *    (ARGM-DIR*)     -
+bc/msnbc/00/msnbc_0003   15   5       /.     .           *))   -    -   -    Paul_Rieckhoff  *             *      -
+
+bc/msnbc/00/msnbc_0003   15   0        Oh    UH   (TOP(S(INTJ*)      -    -   -    Chris_Matthews         *    (ARGM-DIS*)            *         *       -
+bc/msnbc/00/msnbc_0003   15   1       let    VB           (VP*      let  01   1    Chris_Matthews         *           (V*)            *         *       -
+bc/msnbc/00/msnbc_0003   15   2        me   PRP         (S(NP*)      -    -   -    Chris_Matthews         *        (ARG1*        (ARG0*)        *    (221)
+bc/msnbc/00/msnbc_0003   15   3        go    VB           (VP*       go  02   1    Chris_Matthews         *             *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   4      Paul   NNP           (NP*)      -    -   -    Chris_Matthews   (PERSON)            *    (ARGM-DIS*)        *    (151)
+bc/msnbc/00/msnbc_0003   15   5    before    IN         (SBAR*       -    -   -    Chris_Matthews         *             *    (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0003   15   6       you   PRP         (S(NP*)      -    -   -    Chris_Matthews         *             *             *    (ARG0*)   (151)
+bc/msnbc/00/msnbc_0003   15   7     start   VBP      (VP*))))))   start  01   2    Chris_Matthews         *             *)            *)      (V*)      -
+bc/msnbc/00/msnbc_0003   15   8        /.     .             *))      -    -   -    Chris_Matthews         *             *             *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0        What     WP   (TOP(S(SBAR(WHNP*)        -    -   -    Chris_Matthews  *         *        (ARG1*)     *                  *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15    1           I    PRP              (S(NP*)        -    -   -    Chris_Matthews  *    (ARG0*)       (ARG0*)     *                  *           *         *             *    (221)
+bc/msnbc/00/msnbc_0003   15    2        keep    VBP                (VP*       keep  02   1    Chris_Matthews  *       (V*)            *      *                  *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15    3       doing    VBG              (S(VP*         do  02   1    Chris_Matthews  *    (ARG1*           (V*)     *                  *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15    4        here     RB         (ADVP*))))))        -    -   -    Chris_Matthews  *         *)   (ARGM-LOC*)     *                  *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15    5          is    VBZ                (VP*         be  03   -    Chris_Matthews  *         *             *    (V*)                 *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15    6      asking    VBG                (VP*        ask  01   1    Chris_Matthews  *         *             *      *                (V*)          *         *             *       -
+bc/msnbc/00/msnbc_0003   15    7      people    NNS        (NP(NP(NP*)))    people   -   1    Chris_Matthews  *         *             *      *             (ARG2*)     (ARG1*)        *             *    (135)
+bc/msnbc/00/msnbc_0003   15    8          on     IN                (PP*         -    -   -    Chris_Matthews  *         *             *      *         (ARGM-LOC*           *         *             *       -
+bc/msnbc/00/msnbc_0003   15    9         and     CC                   *         -    -   -    Chris_Matthews  *         *             *      *                  *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15   10         off     IN                   *         -    -   -    Chris_Matthews  *         *             *      *                  *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15   11      camera     NN               (NP*))        -    -   -    Chris_Matthews  *         *             *      *                  *)          *         *             *       -
+bc/msnbc/00/msnbc_0003   15   12         who     WP         (SBAR(WHNP*)        -    -   -    Chris_Matthews  *         *             *      *    (C-ARG2(R-ARG2*)   (R-ARG1*)        *             *       -
+bc/msnbc/00/msnbc_0003   15   13        come    VBP              (S(VP*       come  01   1    Chris_Matthews  *         *             *      *                  *         (V*)        *             *       -
+bc/msnbc/00/msnbc_0003   15   14          on     IN                (PP*         -    -   -    Chris_Matthews  *         *             *      *                  *      (ARG4*         *             *       -
+bc/msnbc/00/msnbc_0003   15   15        this     DT                (NP*         -    -   -    Chris_Matthews  *         *             *      *                  *           *         *             *    (154
+bc/msnbc/00/msnbc_0003   15   16     program     NN               *)))))   program   -   2    Chris_Matthews  *         *             *      *                  *)          *)        *             *     154)
+bc/msnbc/00/msnbc_0003   15   17        high     RB        (NP(NP(ADJP*         -    -   -    Chris_Matthews  *         *             *      *           (C-ARG2*           *    (ARG2*)            *    (135
+bc/msnbc/00/msnbc_0003   15   18          -    HYPH                   *         -    -   -    Chris_Matthews  *         *             *      *                  *           *         *             *       -
+bc/msnbc/00/msnbc_0003   15   19     ranking    VBG                   *)      rank  01   -    Chris_Matthews  *         *             *      *                  *           *       (V*)            *       -
+bc/msnbc/00/msnbc_0003   15   20    officers    NNS                   *)   officer   -   1    Chris_Matthews  *         *             *      *                  *           *    (ARG1*)            *       -
+bc/msnbc/00/msnbc_0003   15   21    enlisted    VBN                (NP*)    enlist  01   1    Chris_Matthews  *         *             *      *                  *           *         *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   22          uh     UH              (INTJ*)        -    -   -    Chris_Matthews  *         *             *      *                  *           *         *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   15   23      former     JJ                (NP*         -    -   -    Chris_Matthews  *         *             *      *                  *           *         *        (ARG1*       -
+bc/msnbc/00/msnbc_0003   15   24    officers    NNS                *))))   officer   -   1    Chris_Matthews  *         *             *      *                  *)          *         *             *)    135)
+bc/msnbc/00/msnbc_0003   15   25          /.      .                  *))        -    -   -    Chris_Matthews  *         *             *      *                  *           *         *             *       -
+
+bc/msnbc/00/msnbc_0003   15    0           Uh    UH    (TOP(S(INTJ*)        -    -   -    Chris_Matthews           *    (ARGM-DIS*)           *            *               *       -
+bc/msnbc/00/msnbc_0003   15    1            I   PRP            (NP*)        -    -   -    Chris_Matthews           *        (ARG0*)           *            *               *    (221)
+bc/msnbc/00/msnbc_0003   15    2          get   VBP            (VP*        get  01   1    Chris_Matthews           *           (V*)           *            *               *       -
+bc/msnbc/00/msnbc_0003   15    3    sometimes    RB      (UCP(ADVP*)        -    -   -    Chris_Matthews           *    (ARGM-TMP*            *            *               *       -
+bc/msnbc/00/msnbc_0003   15    4          not    RB            (NP*         -    -   -    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15    5          all   PDT               *         -    -   -    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15    6          the    DT               *         -    -   -    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15    7         time    NN              *))      time   -   4    Chris_Matthews           *             *)           *            *               *       -
+bc/msnbc/00/msnbc_0003   15    8          two    CD         (NP(NP*         -    -   -    Chris_Matthews   (CARDINAL)       (ARG1*            *            *               *       -
+bc/msnbc/00/msnbc_0003   15    9    different    JJ               *         -    -   -    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15   10     versions   NNS               *)   version   -   1    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15   11          the    DT      (NP(NP(NP*         -    -   -    Chris_Matthews           *             *       (ARG1*            *               *     (52
+bc/msnbc/00/msnbc_0003   15   12      version    NN               *)   version   -   1    Chris_Matthews           *             *            *)           *               *       -
+bc/msnbc/00/msnbc_0003   15   13         they   PRP     (SBAR(S(NP*)        -    -   -    Chris_Matthews           *             *       (ARG0*)           *               *    (135)
+bc/msnbc/00/msnbc_0003   15   14         give   VBP            (VP*       give  01   2    Chris_Matthews           *             *          (V*)           *               *       -
+bc/msnbc/00/msnbc_0003   15   15           me   PRP            (NP*)        -    -   -    Chris_Matthews           *             *       (ARG2*)           *               *    (221)
+bc/msnbc/00/msnbc_0003   15   16           on    IN            (PP*         -    -   -    Chris_Matthews           *             *   (ARGM-LOC*            *               *       -
+bc/msnbc/00/msnbc_0003   15   17          the    DT            (NP*         -    -   -    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15   18          air    NN          *))))))       air   -   5    Chris_Matthews           *             *            *)           *               *      52)
+bc/msnbc/00/msnbc_0003   15   19          and    CC               *         -    -   -    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15   20          the    DT         (NP(NP*         -    -   -    Chris_Matthews           *             *            *       (ARG1*               *    (167
+bc/msnbc/00/msnbc_0003   15   21      version    NN               *)   version   -   1    Chris_Matthews           *             *            *            *)              *       -
+bc/msnbc/00/msnbc_0003   15   22         they   PRP     (SBAR(S(NP*)        -    -   -    Chris_Matthews           *             *            *       (ARG0*)              *    (135)
+bc/msnbc/00/msnbc_0003   15   23         give   VBP            (VP*       give  01   2    Chris_Matthews           *             *            *          (V*)              *       -
+bc/msnbc/00/msnbc_0003   15   24           me   PRP            (NP*)        -    -   -    Chris_Matthews           *             *            *       (ARG2*)              *    (221)
+bc/msnbc/00/msnbc_0003   15   25          the    DT         (NP(NP*         -    -   -    Chris_Matthews      (TIME*             *            *   (ARGM-TMP*      (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0003   15   26       minute    NN               *)    minute   -   2    Chris_Matthews           *)            *            *            *               *)      -
+bc/msnbc/00/msnbc_0003   15   27         when   WRB   (SBAR(WHADVP*)        -    -   -    Chris_Matthews           *             *            *            *    (R-ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0003   15   28           we   PRP          (S(NP*)        -    -   -    Chris_Matthews           *             *            *            *          (ARG1*)   (154)
+bc/msnbc/00/msnbc_0003   15   29          're   VBP            (VP*         be  01   1    Chris_Matthews           *             *            *            *             (V*)      -
+bc/msnbc/00/msnbc_0003   15   30          off    IN            (PP*         -    -   -    Chris_Matthews           *             *            *            *          (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   31          the    DT            (NP*         -    -   -    Chris_Matthews           *             *            *            *               *       -
+bc/msnbc/00/msnbc_0003   15   32          air    NN   *)))))))))))))       air   -   5    Chris_Matthews           *             *)           *            *)              *)    167)
+bc/msnbc/00/msnbc_0003   15   33           /.     .              *))        -    -   -    Chris_Matthews           *             *            *            *               *       -
+
+bc/msnbc/00/msnbc_0003   15    0           The    DT   (TOP(S(NP(NP*         -    -   -    Chris_Matthews  *       (ARG1*             *   (ARG1*      *         *      *             *     (52
+bc/msnbc/00/msnbc_0003   15    1       version    NN               *)   version   -   1    Chris_Matthews  *            *)            *        *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15    2          they   PRP     (SBAR(S(NP*)        -    -   -    Chris_Matthews  *       (ARG0*)            *        *      *         *      *             *    (135)
+bc/msnbc/00/msnbc_0003   15    3          give   VBP            (VP*       give  01   2    Chris_Matthews  *          (V*)            *        *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15    4            me   PRP            (NP*)        -    -   -    Chris_Matthews  *       (ARG2*)            *        *      *         *      *             *    (221)
+bc/msnbc/00/msnbc_0003   15    5          when   WRB   (SBAR(WHADVP*)        -    -   -    Chris_Matthews  *   (ARGM-TMP*    (ARGM-TMP*)       *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15    6            we   PRP          (S(NP*)        -    -   -    Chris_Matthews  *            *        (ARG1*)       *      *         *      *             *    (154)
+bc/msnbc/00/msnbc_0003   15    7           're   VBP            (VP*         be  01   1    Chris_Matthews  *            *           (V*)       *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15    8            on    IN            (PP*         -    -   -    Chris_Matthews  *            *        (ARG2*        *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15    9           the    DT            (NP*         -    -   -    Chris_Matthews  *            *             *        *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15   10           air    NN       *)))))))))       air   -   5    Chris_Matthews  *            *)            *)       *)     *         *      *             *      52)
+bc/msnbc/00/msnbc_0003   15   11            is   VBZ            (VP*         be  01   2    Chris_Matthews  *            *             *      (V*)     *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15   12          gung    JJ     (ADJP(ADJP*         -    -   -    Chris_Matthews  *            *             *   (ARG2*      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15   13            ho    JJ               *)        -    -   -    Chris_Matthews  *            *             *        *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15   14            we   PRP        (S(S(NP*)        -    -   -    Chris_Matthews  *            *             *        *      *    (ARG0*)     *             *    (147)
+bc/msnbc/00/msnbc_0003   15   15           're   VBP            (VP*         be  03   -    Chris_Matthews  *            *             *        *    (V*)        *      *             *       -
+bc/msnbc/00/msnbc_0003   15   16         doing   VBG            (VP*         do  02   1    Chris_Matthews  *            *             *        *      *       (V*)     *             *       -
+bc/msnbc/00/msnbc_0003   15   17           the    DT            (NP*         -    -   -    Chris_Matthews  *            *             *        *      *    (ARG1*      *             *       -
+bc/msnbc/00/msnbc_0003   15   18         right    JJ               *         -    -   -    Chris_Matthews  *            *             *        *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15   19         thing    NN            *))))     thing   -   1    Chris_Matthews  *            *             *        *      *         *)     *             *       -
+bc/msnbc/00/msnbc_0003   15   20             ,     ,               *         -    -   -    Chris_Matthews  *            *             *        *      *         *      *             *       -
+bc/msnbc/00/msnbc_0003   15   21    everything    NN          (S(NP*)        -    -   -    Chris_Matthews  *            *             *        *      *         *      *        (ARG1*)      -
+bc/msnbc/00/msnbc_0003   15   22            is   VBZ            (VP*         be  03   -    Chris_Matthews  *            *             *        *      *         *    (V*)            *       -
+bc/msnbc/00/msnbc_0003   15   23        moving   VBG            (VP*       move  01   2    Chris_Matthews  *            *             *        *      *         *      *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   24         along    RB    (ADVP*)))))))        -    -   -    Chris_Matthews  *            *             *        *)     *         *      *    (ARGM-DIR*)      -
+bc/msnbc/00/msnbc_0003   15   25            /.     .              *))        -    -   -    Chris_Matthews  *            *             *        *      *         *      *             *       -
+
+bc/msnbc/00/msnbc_0003   15    0          The    DT  (TOP(S(NP(NP*         -    -   -    Chris_Matthews         *       (ARG1*   (ARG1*         *             *      *             *             *    (167
+bc/msnbc/00/msnbc_0003   15    1      version    NN              *)   version   -   1    Chris_Matthews         *            *)       *         *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15    2         they   PRP    (SBAR(S(NP*)        -    -   -    Chris_Matthews         *       (ARG0*)       *         *             *      *             *             *    (135)
+bc/msnbc/00/msnbc_0003   15    3         give   VBP           (VP*       give  01   2    Chris_Matthews         *          (V*)       *         *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15    4           me   PRP           (NP*)        -    -   -    Chris_Matthews         *       (ARG2*)       *         *             *      *             *             *    (221)
+bc/msnbc/00/msnbc_0003   15    5          off    IN           (PP*         -    -   -    Chris_Matthews         *   (ARGM-LOC*        *         *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15    6          the    DT           (NP*         -    -   -    Chris_Matthews         *            *        *         *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15    7          air    NN         *))))))       air   -   5    Chris_Matthews         *            *)       *)        *             *      *             *             *     167)
+bc/msnbc/00/msnbc_0003   15    8           is   VBZ           (VP*         be  01   2    Chris_Matthews         *            *      (V*)        *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15    9     Rumsfeld   NNP       (S(S(NP*)        -    -   -    Chris_Matthews   (PERSON)           *   (ARG2*    (ARG1*)            *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   10           is   VBZ           (VP*         be  01   1    Chris_Matthews         *            *        *       (V*)            *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   11        crazy    JJ       (ADJP*)))        -    -   -    Chris_Matthews         *            *        *    (ARG2*)            *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   12        there    EX         (S(NP*)        -    -   -    Chris_Matthews         *            *        *         *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   13          are   VBP           (VP*         be  02   3    Chris_Matthews         *            *        *         *           (V*)     *             *             *       -
+bc/msnbc/00/msnbc_0003   15   14          n't    RB              *         -    -   -    Chris_Matthews         *            *        *         *    (ARGM-NEG*)     *             *             *       -
+bc/msnbc/00/msnbc_0003   15   15       enough    JJ           (NP*         -    -   -    Chris_Matthews         *            *        *         *        (ARG1*      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   16       troops   NNS              *)     troop   -   -    Chris_Matthews         *            *        *         *             *)     *             *             *       -
+bc/msnbc/00/msnbc_0003   15   17         over    IN         (ADVP*         -    -   -    Chris_Matthews         *            *        *         *    (ARGM-LOC*      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   18        there    RB            *)))        -    -   -    Chris_Matthews         *            *        *         *             *)     *             *             *       -
+bc/msnbc/00/msnbc_0003   15   19           we   PRP         (S(NP*)        -    -   -    Chris_Matthews         *            *        *         *             *      *        (ARG0*)            *    (147)
+bc/msnbc/00/msnbc_0003   15   20          're   VBP           (VP*         be  03   -    Chris_Matthews         *            *        *         *             *    (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   15   21          not    RB              *         -    -   -    Chris_Matthews         *            *        *         *             *      *    (ARGM-NEG*)            *       -
+bc/msnbc/00/msnbc_0003   15   22       taking   VBG           (VP*       take  01   7    Chris_Matthews         *            *        *         *             *      *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   15   23         this    DT           (NP*)        -    -   -    Chris_Matthews         *            *        *         *             *      *        (ARG1*)            *       -
+bc/msnbc/00/msnbc_0003   15   24    seriously    RB         (ADVP*         -    -   -    Chris_Matthews         *            *        *         *             *      *    (ARGM-MNR*             *       -
+bc/msnbc/00/msnbc_0003   15   25       enough    RB           *))))        -    -   -    Chris_Matthews         *            *        *         *             *      *             *)            *       -
+bc/msnbc/00/msnbc_0003   15   26           or    CC              *         -    -   -    Chris_Matthews         *            *        *         *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   27           we   PRP         (S(NP*)        -    -   -    Chris_Matthews         *            *        *         *             *      *             *        (ARG1*)   (147)
+bc/msnbc/00/msnbc_0003   15   28       should    MD           (VP*         -    -   -    Chris_Matthews         *            *        *         *             *      *             *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   15   29          n't    RB              *         -    -   -    Chris_Matthews         *            *        *         *             *      *             *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   15   30           be    VB           (VP*         be  01   4    Chris_Matthews         *            *        *         *             *      *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   31        there    RB      (ADVP*))))        -    -   -    Chris_Matthews         *            *        *         *             *      *             *        (ARG2*)      -
+bc/msnbc/00/msnbc_0003   15   32    sometimes    RB       (ADVP*)))        -    -   -    Chris_Matthews         *            *        *)        *             *      *             *             *       -
+bc/msnbc/00/msnbc_0003   15   33           /.     .             *))        -    -   -    Chris_Matthews         *            *        *         *             *      *             *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0          It   PRP   (TOP(S(NP*)      -    -   -    Chris_Matthews  *        (ARG1*)  -
+bc/msnbc/00/msnbc_0003   15   1          is   VBZ         (VP*       be  01   1    Chris_Matthews  *           (V*)  -
+bc/msnbc/00/msnbc_0003   15   2         n't    RB            *       -    -   -    Chris_Matthews  *    (ARGM-NEG*)  -
+bc/msnbc/00/msnbc_0003   15   3      always    RB       (ADVP*)      -    -   -    Chris_Matthews  *    (ARGM-TMP*)  -
+bc/msnbc/00/msnbc_0003   15   4           a    DT         (NP*       -    -   -    Chris_Matthews  *        (ARG2*   -
+bc/msnbc/00/msnbc_0003   15   5    straight    JJ            *       -    -   -    Chris_Matthews  *             *   -
+bc/msnbc/00/msnbc_0003   15   6       scoop    NN           *))   scoop   -   -    Chris_Matthews  *             *)  -
+bc/msnbc/00/msnbc_0003   15   7         /-      .           *))      -    -   -    Chris_Matthews  *             *   -
+
+bc/msnbc/00/msnbc_0003   15   0    /.   .   (TOP(X*))  -   -   -    Chris_Matthews  *   -
+
+bc/msnbc/00/msnbc_0003   15    0         when    WRB   (TOP(FRAG(SBAR(WHADVP*)        -    -   -    Chris_Matthews  *    (ARGM-TMP*)        *         *       -
+bc/msnbc/00/msnbc_0003   15    1          you    PRP                   (S(NP*)        -    -   -    Chris_Matthews  *        (ARG0*)        *         *       -
+bc/msnbc/00/msnbc_0003   15    2           go    VBP                     (VP*         go  02   1    Chris_Matthews  *           (V*)        *         *       -
+bc/msnbc/00/msnbc_0003   15    3           on     IN                     (PP*         -    -   -    Chris_Matthews  *    (ARGM-LOC*         *         *       -
+bc/msnbc/00/msnbc_0003   15    4    televsion     NN                    (NP*))        -    -   -    Chris_Matthews  *             *)        *         *       -
+bc/msnbc/00/msnbc_0003   15    5         with     IN                     (PP*         -    -   -    Chris_Matthews  *    (ARGM-MNR*         *         *       -
+bc/msnbc/00/msnbc_0003   15    6       people    NNS                 (NP*)))))    people   -   1    Chris_Matthews  *             *)        *         *    (235)
+bc/msnbc/00/msnbc_0003   15    7      because     IN                   (SBAR*         -    -   -    Chris_Matthews  *             *         *         *       -
+bc/msnbc/00/msnbc_0003   15    8         they    PRP                   (S(NP*)        -    -   -    Chris_Matthews  *             *    (ARG0*)   (ARG1*)   (235)
+bc/msnbc/00/msnbc_0003   15    9         want    VBP                     (VP*       want  01   1    Chris_Matthews  *             *       (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   10           to     TO                   (S(VP*         -    -   -    Chris_Matthews  *             *    (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   15   11           be     VB                     (VP*         be  01   1    Chris_Matthews  *             *         *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   12        loyal     JJ                   (ADJP*         -    -   -    Chris_Matthews  *             *         *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   13           to     IN                     (PP*         -    -   -    Chris_Matthews  *             *         *         *       -
+bc/msnbc/00/msnbc_0003   15   14        their   PRP$                  (NP(NP*         -    -   -    Chris_Matthews  *             *         *         *    (235)
+bc/msnbc/00/msnbc_0003   15   15        units    NNS                        *)      unit   -   2    Chris_Matthews  *             *         *         *       -
+bc/msnbc/00/msnbc_0003   15   16          and     CC                        *         -    -   -    Chris_Matthews  *             *         *         *       -
+bc/msnbc/00/msnbc_0003   15   17        their   PRP$                     (NP*         -    -   -    Chris_Matthews  *             *         *         *    (235)
+bc/msnbc/00/msnbc_0003   15   18      service     NN               *))))))))))   service   -   6    Chris_Matthews  *             *         *)        *)      -
+bc/msnbc/00/msnbc_0003   15   19           /.      .                       *))        -    -   -    Chris_Matthews  *             *         *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0       That    DT   (TOP(S(NP*)   -    -   -    Paul_Rieckhoff  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0003   15   1         's   VBZ         (VP*    be  01   1    Paul_Rieckhoff  *       (V*)  -
+bc/msnbc/00/msnbc_0003   15   2    exactly    RB       (ADJP*    -    -   -    Paul_Rieckhoff  *    (ARG2*   -
+bc/msnbc/00/msnbc_0003   15   3      right    JJ           *))   -    -   -    Paul_Rieckhoff  *         *)  -
+bc/msnbc/00/msnbc_0003   15   4         /.     .           *))   -    -   -    Paul_Rieckhoff  *         *   -
+
+bc/msnbc/00/msnbc_0003   15    0       And    CC      (TOP(S*       -    -   -    Paul_Rieckhoff         *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0003   15    1     Chris   NNP         (NP*)      -    -   -    Paul_Rieckhoff   (PERSON)   (ARGM-DIS*)        *    (221)
+bc/msnbc/00/msnbc_0003   15    2     There    EX         (NP*)      -    -   -    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15    3        's   VBZ         (VP*       be  02   3    Paul_Rieckhoff         *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   15    4        no    DT      (NP(NP*       -    -   -    Paul_Rieckhoff         *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   15    5       one    NN            *)     one   -   2    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15    6      more   RBR  (ADJP(ADJP*       -    -   -    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15    7     loyal    JJ            *       -    -   -    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15    8        to    IN         (PP*       -    -   -    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15    9       the    DT         (NP*       -    -   -    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15   10    troops   NNS          *)))   troop   -   -    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15   11      than    IN       (SBAR*       -    -   -    Paul_Rieckhoff         *             *         *       -
+bc/msnbc/00/msnbc_0003   15   12         I   PRP       (S(NP*)      -    -   -    Paul_Rieckhoff         *             *    (ARG1*)   (151)
+bc/msnbc/00/msnbc_0003   15   13        am   VBP    (VP*))))))      be  01   1    Paul_Rieckhoff         *             *)      (V*)      -
+bc/msnbc/00/msnbc_0003   15   14        /.     .           *))      -    -   -    Paul_Rieckhoff         *             *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0           I   PRP   (TOP(S(NP*)        -    -   -    Paul_Rieckhoff  *        (ARG1*)   (151)
+bc/msnbc/00/msnbc_0003   15   1          am   VBP         (VP*         be  01   1    Paul_Rieckhoff  *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   2       still    RB       (ADVP*)        -    -   -    Paul_Rieckhoff  *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0003   15   3          in    IN         (PP*         -    -   -    Paul_Rieckhoff  *        (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   4         the    DT         (NP*         -    -   -    Paul_Rieckhoff  *             *       -
+bc/msnbc/00/msnbc_0003   15   5    reserves   NNS          *)))   reserve   -   5    Paul_Rieckhoff  *             *)      -
+bc/msnbc/00/msnbc_0003   15   6          /.     .           *))        -    -   -    Paul_Rieckhoff  *             *       -
+
+bc/msnbc/00/msnbc_0003   15    0         There     EX     (TOP(S(NP*)      -    -   -    Paul_Rieckhoff         *        *             *        *         *       -
+bc/msnbc/00/msnbc_0003   15    1            's    VBZ           (VP*       be  02   3    Paul_Rieckhoff         *      (V*)            *        *         *       -
+bc/msnbc/00/msnbc_0003   15    2             a     DT           (NP*       -    -   -    Paul_Rieckhoff         *   (ARG1*             *        *         *       -
+bc/msnbc/00/msnbc_0003   15    3    likelihood     NN              *       -    -   -    Paul_Rieckhoff         *        *             *        *         *       -
+bc/msnbc/00/msnbc_0003   15    4          that     IN         (SBAR*       -    -   -    Paul_Rieckhoff         *        *             *        *         *       -
+bc/msnbc/00/msnbc_0003   15    5             I    PRP         (S(NP*)      -    -   -    Paul_Rieckhoff         *        *        (ARG1*)       *         *    (151)
+bc/msnbc/00/msnbc_0003   15    6           'll     MD           (VP*       -    -   -    Paul_Rieckhoff         *        *    (ARGM-MOD*)       *         *       -
+bc/msnbc/00/msnbc_0003   15    7            go     VB           (VP*       go  19   1    Paul_Rieckhoff         *        *           (V*)       *         *       -
+bc/msnbc/00/msnbc_0003   15    8          back     RB         (ADVP*)      -    -   -    Paul_Rieckhoff         *        *             *        *         *       -
+bc/msnbc/00/msnbc_0003   15    9         while     IN         (SBAR*       -    -   -    Paul_Rieckhoff         *        *    (ARGM-ADV*        *         *       -
+bc/msnbc/00/msnbc_0003   15   10           Ms.    NNP         (S(NP*       -    -   -    Paul_Rieckhoff         *        *             *   (ARG1*         *     (19
+bc/msnbc/00/msnbc_0003   15   11        Morgan    NNP              *)      -    -   -    Paul_Rieckhoff   (PERSON)       *             *        *)        *      19)
+bc/msnbc/00/msnbc_0003   15   12            is    VBZ           (VP*       be  01   1    Paul_Rieckhoff         *        *             *      (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   13          back     RB         (ADVP*       -    -   -    Paul_Rieckhoff         *        *             *   (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   15   14            at     IN           (PP*       -    -   -    Paul_Rieckhoff         *        *             *        *         *       -
+bc/msnbc/00/msnbc_0003   15   15           her   PRP$           (NP*       -    -   -    Paul_Rieckhoff         *        *             *        *    (ARG0*)    (19)
+bc/msnbc/00/msnbc_0003   15   16         radio     NN              *    radio   -   -    Paul_Rieckhoff         *        *             *        *    (ARG3*)      -
+bc/msnbc/00/msnbc_0003   15   17          show     NN   *))))))))))))    show  01   2    Paul_Rieckhoff         *        *)            *)       *)      (V*)      -
+bc/msnbc/00/msnbc_0003   15   18            /.      .             *))      -    -   -    Paul_Rieckhoff         *        *             *        *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0           So    RB       (TOP(S(ADVP*)        -    -   -    Paul_Rieckhoff  *             *         *    (ARGM-DIS*)       *      *             *       -
+bc/msnbc/00/msnbc_0003   15    1         what    WP        (SBAR(WHNP*)        -    -   -    Paul_Rieckhoff  *             *    (ARG1*)       (ARG1*        *      *             *       -
+bc/msnbc/00/msnbc_0003   15    2            I   PRP             (S(NP*)        -    -   -    Paul_Rieckhoff  *        (ARG0*)   (ARG0*)            *        *      *             *    (151)
+bc/msnbc/00/msnbc_0003   15    3       really    RB             (ADVP*)        -    -   -    Paul_Rieckhoff  *    (ARGM-ADV*)        *             *        *      *             *       -
+bc/msnbc/00/msnbc_0003   15    4         want   VBP               (VP*       want  01   1    Paul_Rieckhoff  *           (V*)        *             *        *      *             *       -
+bc/msnbc/00/msnbc_0003   15    5           to    TO             (S(VP*         -    -   -    Paul_Rieckhoff  *        (ARG1*         *             *        *      *             *       -
+bc/msnbc/00/msnbc_0003   15    6           do    VB          (VP*))))))        do  02   1    Paul_Rieckhoff  *             *)      (V*)            *)       *      *             *       -
+bc/msnbc/00/msnbc_0003   15    7           is   VBZ               (VP*         be  01   -    Paul_Rieckhoff  *             *         *           (V*)       *      *             *       -
+bc/msnbc/00/msnbc_0003   15    8      educate    VB             (S(VP*    educate  01   1    Paul_Rieckhoff  *             *         *        (ARG2*      (V*)     *             *       -
+bc/msnbc/00/msnbc_0003   15    9          the    DT               (NP*         -    -   -    Paul_Rieckhoff  *             *         *             *   (ARG1*      *             *       -
+bc/msnbc/00/msnbc_0003   15   10       public    NN                  *)    public   -   1    Paul_Rieckhoff  *             *         *             *        *)     *             *       -
+bc/msnbc/00/msnbc_0003   15   11        about    IN               (PP*         -    -   -    Paul_Rieckhoff  *             *         *             *   (ARG2*      *             *       -
+bc/msnbc/00/msnbc_0003   15   12          the    DT            (NP(NP*         -    -   -    Paul_Rieckhoff  *             *         *             *        *      *             *       -
+bc/msnbc/00/msnbc_0003   15   13        truth    NN                  *)     truth   -   2    Paul_Rieckhoff  *             *         *             *        *      *             *       -
+bc/msnbc/00/msnbc_0003   15   14           of    IN               (PP*         -    -   -    Paul_Rieckhoff  *             *         *             *        *      *             *       -
+bc/msnbc/00/msnbc_0003   15   15         what    WP        (SBAR(WHNP*)        -    -   -    Paul_Rieckhoff  *             *         *             *        *      *        (ARG1*)      -
+bc/msnbc/00/msnbc_0003   15   16           's   VBZ             (S(VP*         be  03   -    Paul_Rieckhoff  *             *         *             *        *    (V*)            *       -
+bc/msnbc/00/msnbc_0003   15   17    happening   VBG               (VP*     happen  01   1    Paul_Rieckhoff  *             *         *             *        *      *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   18        there    RB   (ADVP*)))))))))))        -    -   -    Paul_Rieckhoff  *             *         *             *)       *)     *    (ARGM-LOC*)      -
+bc/msnbc/00/msnbc_0003   15   19           /.     .                 *))        -    -   -    Paul_Rieckhoff  *             *         *             *        *      *             *       -
+
+bc/msnbc/00/msnbc_0003   15    0         And    CC           (TOP(S*         -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*)       *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15    1           I   PRP              (NP*)        -    -   -    Paul_Rieckhoff  *        (ARG0*)       *             *            *        *    (151)
+bc/msnbc/00/msnbc_0003   15    2       think   VBP              (VP*      think  01   1    Paul_Rieckhoff  *           (V*)       *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15    3         the    DT       (SBAR(S(NP*         -    -   -    Paul_Rieckhoff  *        (ARG1*   (ARG1*             *            *        *       -
+bc/msnbc/00/msnbc_0003   15    4     reality    NN                 *)   reality   -   2    Paul_Rieckhoff  *             *        *)            *            *        *       -
+bc/msnbc/00/msnbc_0003   15    5          is   VBZ              (VP*         be  01   1    Paul_Rieckhoff  *             *      (V*)            *            *        *       -
+bc/msnbc/00/msnbc_0003   15    6        that    IN            (SBAR*         -    -   -    Paul_Rieckhoff  *             *   (ARG2*             *            *        *       -
+bc/msnbc/00/msnbc_0003   15    7        when   WRB   (S(SBAR(WHADVP*)        -    -   -    Paul_Rieckhoff  *             *        *    (ARGM-TMP*)  (ARGM-TMP*        *       -
+bc/msnbc/00/msnbc_0003   15    8      people   NNS         (S(NP(NP*)    people   -   1    Paul_Rieckhoff  *             *        *        (ARG0*            *        *       -
+bc/msnbc/00/msnbc_0003   15    9        like    IN              (PP*         -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15   10         her   PRP            (NP*)))        -    -   -    Paul_Rieckhoff  *             *        *             *)           *        *     (19)
+bc/msnbc/00/msnbc_0003   15   11          go   VBP              (VP*         go  02   1    Paul_Rieckhoff  *             *        *           (V*)           *        *       -
+bc/msnbc/00/msnbc_0003   15   12        over    RB            (ADVP*         -    -   -    Paul_Rieckhoff  *             *        *        (ARG4*            *        *       -
+bc/msnbc/00/msnbc_0003   15   13       there    RB              *))))        -    -   -    Paul_Rieckhoff  *             *        *             *)           *)       *       -
+bc/msnbc/00/msnbc_0003   15   14       there    EX              (NP*)        -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15   15          's   VBZ              (VP*         be  02   4    Paul_Rieckhoff  *             *        *             *          (V*)       *       -
+bc/msnbc/00/msnbc_0003   15   16           a    DT           (NP(NP*         -    -   -    Paul_Rieckhoff  *             *        *             *       (ARG1*   (ARG1*       -
+bc/msnbc/00/msnbc_0003   15   17      public    JJ             (NML*         -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15   18     affairs   NNS                 *)        -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15   19     officer    NN                 *)   officer   -   1    Paul_Rieckhoff  *             *        *             *            *        *)      -
+bc/msnbc/00/msnbc_0003   15   20    standing   VBG              (VP*      stand  01   1    Paul_Rieckhoff  *             *        *             *            *      (V*)      -
+bc/msnbc/00/msnbc_0003   15   21       right    RB            (ADVP*         -    -   -    Paul_Rieckhoff  *             *        *             *            *   (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   22        next    RB                 *         -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15   23          to    IN              (PP*         -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15   24        that    DT              (NP*         -    -   -    Paul_Rieckhoff  *             *        *             *            *        *    (232
+bc/msnbc/00/msnbc_0003   15   25       young    JJ                 *         -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+bc/msnbc/00/msnbc_0003   15   26     soldier    NN      *))))))))))))   soldier   -   -    Paul_Rieckhoff  *             *)       *)            *            *)       *)    232)
+bc/msnbc/00/msnbc_0003   15   27          /.     .                *))        -    -   -    Paul_Rieckhoff  *             *        *             *            *        *       -
+
+bc/msnbc/00/msnbc_0003   15   0       And    CC  (TOP(S*      -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   15   1        he   PRP     (NP*)     -    -   -    Paul_Rieckhoff  *        (ARG1*)   (232)
+bc/msnbc/00/msnbc_0003   15   2        's   VBZ     (VP*      be  01   1    Paul_Rieckhoff  *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   3        on    IN     (PP*      -    -   -    Paul_Rieckhoff  *        (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   4    active    JJ     (NP*      -    -   -    Paul_Rieckhoff  *             *       -
+bc/msnbc/00/msnbc_0003   15   5      duty    NN      *)))   duty   -   2    Paul_Rieckhoff  *             *)      -
+bc/msnbc/00/msnbc_0003   15   6        /.     .       *))     -    -   -    Paul_Rieckhoff  *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0        and    CC  (TOP(S*         -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0003   15   1         he   PRP     (NP*)        -    -   -    Paul_Rieckhoff  *        (ARG0*)   (ARG0*)   (232)
+bc/msnbc/00/msnbc_0003   15   2      wants   VBZ     (VP*       want  01   1    Paul_Rieckhoff  *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   15   3         to    TO   (S(VP*         -    -   -    Paul_Rieckhoff  *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0003   15   4    support    VB     (VP*    support  01   2    Paul_Rieckhoff  *             *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   5        the    DT     (NP*         -    -   -    Paul_Rieckhoff  *             *    (ARG1*       -
+bc/msnbc/00/msnbc_0003   15   6      cause    NN    *)))))     cause   -   3    Paul_Rieckhoff  *             *)        *)      -
+bc/msnbc/00/msnbc_0003   15   7         /.     .       *))        -    -   -    Paul_Rieckhoff  *             *         *       -
+
+bc/msnbc/00/msnbc_0003   15   0       And    CC    (TOP(S*       -    -   -    Paul_Rieckhoff  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0003   15   1        he   PRP       (NP*)      -    -   -    Paul_Rieckhoff  *        (ARG0*)   (232)
+bc/msnbc/00/msnbc_0003   15   2        ca    MD       (VP*       -    -   -    Paul_Rieckhoff  *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0003   15   3       n't    RB          *       -    -   -    Paul_Rieckhoff  *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   15   4     speak    VB       (VP*    speak  01   1    Paul_Rieckhoff  *           (V*)   (106)
+bc/msnbc/00/msnbc_0003   15   5    freely    RB   (ADVP*)))      -    -   -    Paul_Rieckhoff  *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0003   15   6        /.     .         *))      -    -   -    Paul_Rieckhoff  *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0    That    DT   (TOP(S(NP*)     -    -   -    Paul_Rieckhoff  *    (ARG1*)   (106)
+bc/msnbc/00/msnbc_0003   15   1      's   VBZ         (VP*      be  01   1    Paul_Rieckhoff  *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   2       a    DT         (NP*      -    -   -    Paul_Rieckhoff  *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   3    fact    NN           *))   fact   -   1    Paul_Rieckhoff  *         *)      -
+bc/msnbc/00/msnbc_0003   15   4      /.     .           *))     -    -   -    Paul_Rieckhoff  *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0              A    DT  (TOP(S(NP*           -    -   -    Paul_Rieckhoff       *      *        (ARG1*         *    (197
+bc/msnbc/00/msnbc_0003   15    1          young    JJ           *           -    -   -    Paul_Rieckhoff       *      *             *         *       -
+bc/msnbc/00/msnbc_0003   15    2        blogger    NN           *)          -    -   -    Paul_Rieckhoff       *      *             *)        *     197)
+bc/msnbc/00/msnbc_0003   15    3            was   VBD        (VP*           be  03   -    Paul_Rieckhoff       *    (V*)            *         *       -
+bc/msnbc/00/msnbc_0003   15    4           just    RB      (ADVP*)          -    -   -    Paul_Rieckhoff       *      *    (ARGM-ADV*)        *       -
+bc/msnbc/00/msnbc_0003   15    5    reprimanded   VBN        (VP*    reprimand  01   -    Paul_Rieckhoff       *      *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   15    6           last    JJ        (NP*           -    -   -    Paul_Rieckhoff  (DATE*      *    (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0003   15    7           week    NN           *)          -    -   -    Paul_Rieckhoff       *)     *             *)        *       -
+bc/msnbc/00/msnbc_0003   15    8        because    IN      (SBAR*           -    -   -    Paul_Rieckhoff       *      *        (ARG2*         *       -
+bc/msnbc/00/msnbc_0003   15    9             he   PRP      (S(NP*)          -    -   -    Paul_Rieckhoff       *      *             *    (ARG1*)   (197)
+bc/msnbc/00/msnbc_0003   15   10            was   VBD        (VP*           be  01   1    Paul_Rieckhoff       *      *             *       (V*)      -
+bc/msnbc/00/msnbc_0003   15   11              a    DT   (ADJP(NP*           -    -   -    Paul_Rieckhoff       *      *             *    (ARG2*       -
+bc/msnbc/00/msnbc_0003   15   12         little    JJ           *)          -    -   -    Paul_Rieckhoff       *      *             *         *       -
+bc/msnbc/00/msnbc_0003   15   13            too    RB           *           -    -   -    Paul_Rieckhoff       *      *             *         *       -
+bc/msnbc/00/msnbc_0003   15   14         candid    JJ      *))))))          -    -   -    Paul_Rieckhoff       *      *             *)        *)      -
+bc/msnbc/00/msnbc_0003   15   15             /.     .          *))          -    -   -    Paul_Rieckhoff       *      *             *         *       -
+
+bc/msnbc/00/msnbc_0003   15    0       let     VB      (TOP(S(VP*       let  01   1    Paul_Rieckhoff  *          (V*)            *             *       -
+bc/msnbc/00/msnbc_0003   15    1        me    PRP          (S(NP*)       -    -   -    Paul_Rieckhoff  *       (ARG1*        (ARG0*)            *    (151)
+bc/msnbc/00/msnbc_0003   15    2    finish     VB            (VP*    finish  01   1    Paul_Rieckhoff  *            *           (V*)            *       -
+bc/msnbc/00/msnbc_0003   15    3     ma'am     NN         (NP*))))       -    -   -    Paul_Rieckhoff  *            *)   (ARGM-DIS*)            *     (19)
+bc/msnbc/00/msnbc_0003   15    4      when    WRB   (SBAR(WHADVP*)       -    -   -    Paul_Rieckhoff  *   (ARGM-TMP*             *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0003   15    5      they    PRP          (S(NP*)       -    -   -    Paul_Rieckhoff  *            *             *        (ARG1*)    (12)
+bc/msnbc/00/msnbc_0003   15    6      come    VBP            (VP*      come  01   1    Paul_Rieckhoff  *            *             *           (V*)      -
+bc/msnbc/00/msnbc_0003   15    7      home     RB       (ADVP*))))       -    -   -    Paul_Rieckhoff  *            *)            *        (ARG4*)      -
+bc/msnbc/00/msnbc_0003   15    8     their   PRP$            (NP*        -    -   -    Paul_Rieckhoff  *            *             *             *     (12)
+bc/msnbc/00/msnbc_0003   15    9     cuffs    NNS               *)     cuff   -   -    Paul_Rieckhoff  *            *             *             *       -
+bc/msnbc/00/msnbc_0003   15   10       /-       .              *))       -    -   -    Paul_Rieckhoff  *            *             *             *       -
+
+bc/msnbc/00/msnbc_0003   15   0    That    DT   (TOP(S(NP*)   -    -   -    Melanie_Morgan  *        (ARG1*)   (106)
+bc/msnbc/00/msnbc_0003   15   1      's   VBZ         (VP*    be  01   1    Melanie_Morgan  *           (V*)      -
+bc/msnbc/00/msnbc_0003   15   2     not    RB            *    -    -   -    Melanie_Morgan  *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0003   15   3    true    JJ      (ADJP*))   -    -   -    Melanie_Morgan  *        (ARG2*)      -
+bc/msnbc/00/msnbc_0003   15   4      /.     .           *))   -    -   -    Melanie_Morgan  *             *       -

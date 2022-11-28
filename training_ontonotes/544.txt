@@ -1,0 +1,958 @@
+bc/cnn/00/cnn_0002   3    0        Still     RB   (TOP(FRAG(FRAG(ADVP*)          -    -   -    Anderson_Cooper       *             *             *             *             *             *           -
+bc/cnn/00/cnn_0002   3    1        ahead     RB                 (ADVP*)          -    -   -    Anderson_Cooper       *             *             *             *             *             *           -
+bc/cnn/00/cnn_0002   3    2      tonight     NN                  (NP*))          -    -   -    Anderson_Cooper   (TIME)            *             *             *             *             *         (83)
+bc/cnn/00/cnn_0002   3    3         more    JJR                (NP(NP*           -    -   -    Anderson_Cooper       *    (ARGM-ADJ*)            *             *             *             *           -
+bc/cnn/00/cnn_0002   3    4         late     JJ                      *           -    -   -    Anderson_Cooper       *    (ARGM-TMP*)            *             *             *             *           -
+bc/cnn/00/cnn_0002   3    5     election     NN                      *           -    -   -    Anderson_Cooper       *        (ARG1*)            *             *             *             *           -
+bc/cnn/00/cnn_0002   3    6      returns    NNS                      *)      return  04   7    Anderson_Cooper       *           (V*)            *             *             *             *           -
+bc/cnn/00/cnn_0002   3    7         more    JJR                (NP(NP*           -    -   -    Anderson_Cooper       *             *    (ARGM-EXT*)       (ARG2*             *             *           -
+bc/cnn/00/cnn_0002   3    8        races    NNS                      *)        race  01   1    Anderson_Cooper       *             *           (V*)            *)            *             *           -
+bc/cnn/00/cnn_0002   3    9         that    WDT            (SBAR(WHNP*)          -    -   -    Anderson_Cooper       *             *    (ARGM-ADJ*      (R-ARG2*)            *             *           -
+bc/cnn/00/cnn_0002   3   10        could     MD                 (S(VP*           -    -   -    Anderson_Cooper       *             *             *    (ARGM-MOD*)            *             *           -
+bc/cnn/00/cnn_0002   3   11       affect     VB                   (VP*       affect  01   1    Anderson_Cooper       *             *             *           (V*)            *             *           -
+bc/cnn/00/cnn_0002   3   12          you    PRP              (NP*))))))          -    -   -    Anderson_Cooper       *             *             *)       (ARG1*)            *             *           -
+bc/cnn/00/cnn_0002   3   13         more    JJR                (NP(NP*           -    -   -    Anderson_Cooper       *             *             *             *    (ARGM-EXT*)            *           -
+bc/cnn/00/cnn_0002   3   14    questions    NNS                      *)    question  01   1    Anderson_Cooper       *             *             *             *           (V*)            *           -
+bc/cnn/00/cnn_0002   3   15        about     IN                   (PP*           -    -   -    Anderson_Cooper       *             *             *             *        (ARG1*             *           -
+bc/cnn/00/cnn_0002   3   16          how    WRB          (SBAR(WHADVP*)          -    -   -    Anderson_Cooper       *             *             *             *             *    (ARGM-MNR*)          -
+bc/cnn/00/cnn_0002   3   17         this     DT                 (S(NP*)          -    -   -    Anderson_Cooper       *             *             *             *             *        (ARG2*)          -
+bc/cnn/00/cnn_0002   3   18      affects    VBZ                   (VP*       affect  01   1    Anderson_Cooper       *             *             *             *             *           (V*)          -
+bc/cnn/00/cnn_0002   3   19          the     DT                (NP(NP*           -    -   -    Anderson_Cooper       *             *             *             *             *        (ARG1*        (154
+bc/cnn/00/cnn_0002   3   20    president     NN                      *)   president   -   3    Anderson_Cooper       *             *             *             *             *             *         154)
+bc/cnn/00/cnn_0002   3   21          and     CC                      *           -    -   -    Anderson_Cooper       *             *             *             *             *             *           -
+bc/cnn/00/cnn_0002   3   22          his   PRP$                   (NP*           -    -   -    Anderson_Cooper       *             *             *             *             *             *    (75|(154)
+bc/cnn/00/cnn_0002   3   23        party     NN               *))))))))          -    -   -    Anderson_Cooper       *             *             *             *             *)            *)         75)
+bc/cnn/00/cnn_0002   3   24           /.      .                     *))          -    -   -    Anderson_Cooper       *             *             *             *             *             *           -
+
+bc/cnn/00/cnn_0002   3    0         Also    RB   (TOP(FRAG(FRAG(ADVP*)        -    -   -    Anderson_Cooper       *            *   (ARGM-ADV*         *      *             *      -
+bc/cnn/00/cnn_0002   3    1        ahead    RB                (ADVP*))        -    -   -    Anderson_Cooper       *            *            *)        *      *             *      -
+bc/cnn/00/cnn_0002   3    2           in    IN                   (PP*         -    -   -    Anderson_Cooper       *            *   (ARGM-LOC*         *      *             *      -
+bc/cnn/00/cnn_0002   3    3       Rwanda   NNP                (NP(NP*)        -    -   -    Anderson_Cooper    (GPE)           *            *         *      *             *      -
+bc/cnn/00/cnn_0002   3    4            a    DT                   (NP*         -    -   -    Anderson_Cooper       *            *            *         *      *             *      -
+bc/cnn/00/cnn_0002   3    5      country    NN                      *    country   -   2    Anderson_Cooper       *       (ARG1*)           *         *      *             *      -
+bc/cnn/00/cnn_0002   3    6       rocked   VBN                   (VP*       rock  01   -    Anderson_Cooper       *          (V*)           *         *      *             *      -
+bc/cnn/00/cnn_0002   3    7           by    IN                   (PP*         -    -   -    Anderson_Cooper       *       (ARG0*            *         *      *             *      -
+bc/cnn/00/cnn_0002   3    8     genocide    NN                  (NP*))        -    -   -    Anderson_Cooper       *            *)           *         *      *             *    (35)
+bc/cnn/00/cnn_0002   3    9          ten    CD              (ADVP(NP*         -    -   -    Anderson_Cooper  (DATE*   (ARGM-TMP*            *         *      *             *      -
+bc/cnn/00/cnn_0002   3   10        years   NNS                      *)        -    -   -    Anderson_Cooper       *            *            *         *      *             *      -
+bc/cnn/00/cnn_0002   3   11          ago    RB                  *)))))        -    -   -    Anderson_Cooper       *)           *)           *)        *      *             *      -
+bc/cnn/00/cnn_0002   3   12          let    VB                 (S(VP*        let  01   1    Anderson_Cooper       *            *          (V*)        *      *             *      -
+bc/cnn/00/cnn_0002   3   13           's   PRP                 (S(NP*)        -    -   -    Anderson_Cooper       *            *       (ARG1*    (ARG0*)     *             *      -
+bc/cnn/00/cnn_0002   3   14          see    VB                   (VP*        see  01   4    Anderson_Cooper       *            *            *       (V*)     *             *      -
+bc/cnn/00/cnn_0002   3   15          how   WRB          (SBAR(WHADVP*)        -    -   -    Anderson_Cooper       *            *            *    (ARG1*      *    (ARGM-MNR*)     -
+bc/cnn/00/cnn_0002   3   16           it   PRP                 (S(NP*)        -    -   -    Anderson_Cooper       *            *            *         *      *        (ARG2*)   (35)
+bc/cnn/00/cnn_0002   3   17           's   VBZ                   (VP*         be  03   9    Anderson_Cooper       *            *            *         *    (V*)            *      -
+bc/cnn/00/cnn_0002   3   18    affecting   VBG                   (VP*     affect  01   1    Anderson_Cooper       *            *            *         *      *           (V*)     -
+bc/cnn/00/cnn_0002   3   19          the    DT                   (NP*         -    -   -    Anderson_Cooper       *            *            *         *      *        (ARG1*      -
+bc/cnn/00/cnn_0002   3   20      animals   NNS                      *)        -    -   -    Anderson_Cooper       *            *            *         *      *             *)     -
+bc/cnn/00/cnn_0002   3   21        still    RB                 (ADVP*         -    -   -    Anderson_Cooper       *            *            *         *      *    (ARGM-TMP*      -
+bc/cnn/00/cnn_0002   3   22           to    IN                   (PP*         -    -   -    Anderson_Cooper       *            *            *         *      *             *      -
+bc/cnn/00/cnn_0002   3   23         this    DT                   (NP*         -    -   -    Anderson_Cooper  (DATE*            *            *         *      *             *      -
+bc/cnn/00/cnn_0002   3   24          day    NN            *)))))))))))       day   -   4    Anderson_Cooper       *)           *            *)        *)     *             *)     -
+bc/cnn/00/cnn_0002   3   25           /.     .                     *))        -    -   -    Anderson_Cooper       *            *            *         *      *             *      -
+
+bc/cnn/00/cnn_0002   3    0     Around    IN  (TOP(S(PP*         -    -   -    Anderson_Cooper              *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   3    1        the    DT     (NP(NP*         -    -   -    Anderson_Cooper              *            *    (167
+bc/cnn/00/cnn_0002   3    2    country    NN           *)   country   -   3    Anderson_Cooper              *            *     167)
+bc/cnn/00/cnn_0002   3    3        and    CC           *         -    -   -    Anderson_Cooper              *            *       -
+bc/cnn/00/cnn_0002   3    4        the    DT        (NP*         -    -   -    Anderson_Cooper              *            *       -
+bc/cnn/00/cnn_0002   3    5      world    NN         *)))        -    -   -    Anderson_Cooper              *            *)      -
+bc/cnn/00/cnn_0002   3    6       this    DT        (NP*)        -    -   -    Anderson_Cooper              *       (ARG1*)   (124)
+bc/cnn/00/cnn_0002   3    7         is   VBZ        (VP*         be  01   2    Anderson_Cooper              *          (V*)      -
+bc/cnn/00/cnn_0002   3    8      Three   NNP        (NP*         -    -   -    Anderson_Cooper  (WORK_OF_ART*       (ARG2*       -
+bc/cnn/00/cnn_0002   3    9      Sixty   NNP          *))        -    -   -    Anderson_Cooper              *)           *)      -
+bc/cnn/00/cnn_0002   3   10         /.     .          *))        -    -   -    Anderson_Cooper              *            *       -
+
+bc/cnn/00/cnn_0002   3    0             Uh    UH    (TOP(S(INTJ*)          -    -   -    Anderson_Cooper  *         *             *    (ARGM-DIS*)       *      -
+bc/cnn/00/cnn_0002   3    1            you   PRP      (PRN(S(NP*)          -    -   -    Anderson_Cooper  *    (ARG0*)            *             *        *      -
+bc/cnn/00/cnn_0002   3    2           know   VBP          (VP*)))        know  01   2    Anderson_Cooper  *       (V*)            *             *        *      -
+bc/cnn/00/cnn_0002   3    3             no    DT         (NP(NP*           -    -   -    Anderson_Cooper  *         *        (ARG2*    (ARGM-ADV*        *      -
+bc/cnn/00/cnn_0002   3    4         matter    NN               *)      matter   -   5    Anderson_Cooper  *         *             *)            *        *      -
+bc/cnn/00/cnn_0002   3    5          where   WRB   (SBAR(WHADVP*)          -    -   -    Anderson_Cooper  *         *      (R-ARG2*)            *        *      -
+bc/cnn/00/cnn_0002   3    6            you   PRP          (S(NP*)          -    -   -    Anderson_Cooper  *         *        (ARG1*)            *        *      -
+bc/cnn/00/cnn_0002   3    7          stand   VBP            (VP*        stand  01   3    Anderson_Cooper  *         *           (V*)            *        *      -
+bc/cnn/00/cnn_0002   3    8    politically    RB      (ADVP*)))))          -    -   -    Anderson_Cooper  *         *    (ARGM-MNR*)            *)       *      -
+bc/cnn/00/cnn_0002   3    9             it   PRP        (NP(NP*))          -    -   -    Anderson_Cooper  *         *             *             *        *      -
+bc/cnn/00/cnn_0002   3   10             is   VBZ            (VP*           be  01   1    Anderson_Cooper  *         *             *           (V*)       *      -
+bc/cnn/00/cnn_0002   3   11          tough    JJ          (ADJP*)          -    -   -    Anderson_Cooper  *         *             *        (ARG2*)       *      -
+bc/cnn/00/cnn_0002   3   12             to    TO          (S(VP*           -    -   -    Anderson_Cooper  *         *             *        (ARG1*        *      -
+bc/cnn/00/cnn_0002   3   13        dispute    VB            (VP*      dispute  01   1    Anderson_Cooper  *         *             *             *      (V*)     -
+bc/cnn/00/cnn_0002   3   14            the    DT         (NP(NP*           -    -   -    Anderson_Cooper  *         *             *             *   (ARG2*   (154
+bc/cnn/00/cnn_0002   3   15      president    NN               *    president   -   3    Anderson_Cooper  *         *             *             *        *      -
+bc/cnn/00/cnn_0002   3   16             's   POS               *)          -    -   -    Anderson_Cooper  *         *             *             *        *    154)
+bc/cnn/00/cnn_0002   3   17           good    JJ               *           -    -   -    Anderson_Cooper  *         *             *             *        *      -
+bc/cnn/00/cnn_0002   3   18        fortune    NN           *)))))     fortune   -   1    Anderson_Cooper  *         *             *             *)       *)     -
+bc/cnn/00/cnn_0002   3   19             /.     .              *))          -    -   -    Anderson_Cooper  *         *             *             *        *      -
+
+bc/cnn/00/cnn_0002   3    0      Though     IN  (TOP(S(SBAR*        -    -   -    Anderson_Cooper       *            *   (ARGM-ADV*        *   -
+bc/cnn/00/cnn_0002   3    1    battered    VBN        (S(VP*    batter  01   1    Anderson_Cooper       *          (V*)           *        *   -
+bc/cnn/00/cnn_0002   3    2          in     IN          (PP*        -    -   -    Anderson_Cooper       *   (ARGM-LOC*            *        *   -
+bc/cnn/00/cnn_0002   3    3         the     DT          (NP*        -    -   -    Anderson_Cooper       *            *            *        *   -
+bc/cnn/00/cnn_0002   3    4       polls    NNS         *)))))     poll   -   -    Anderson_Cooper       *            *)           *)       *   -
+bc/cnn/00/cnn_0002   3    5        this     DT          (NP*)       -    -   -    Anderson_Cooper       *            *       (ARG1*)       *   -
+bc/cnn/00/cnn_0002   3    6          is    VBZ          (VP*        be  01   2    Anderson_Cooper       *            *          (V*)       *   -
+bc/cnn/00/cnn_0002   3    7          an     DT       (NP(NP*        -    -   -    Anderson_Cooper  (DATE*            *       (ARG2*        *   -
+bc/cnn/00/cnn_0002   3    8         off     JJ             *        -    -   -    Anderson_Cooper       *            *            *        *   -
+bc/cnn/00/cnn_0002   3    9          -    HYPH             *        -    -   -    Anderson_Cooper       *            *            *        *   -
+bc/cnn/00/cnn_0002   3   10        year     NN             *)       -    -   -    Anderson_Cooper       *)           *            *        *   -
+bc/cnn/00/cnn_0002   3   11         for     IN          (PP*        -    -   -    Anderson_Cooper       *            *            *        *   -
+bc/cnn/00/cnn_0002   3   12       House    NNP      (NP(NML*        -    -   -    Anderson_Cooper    (ORG)           *            *   (ARG3*   -
+bc/cnn/00/cnn_0002   3   13         and     CC             *        -    -   -    Anderson_Cooper       *            *            *        *   -
+bc/cnn/00/cnn_0002   3   14      Senate    NNP             *)       -    -   -    Anderson_Cooper    (ORG)           *            *        *)  -
+bc/cnn/00/cnn_0002   3   15       races    NNS          *))))     race  01   1    Anderson_Cooper       *            *            *)     (V*)  -
+bc/cnn/00/cnn_0002   3   16          /.      .            *))       -    -   -    Anderson_Cooper       *            *            *        *   -
+
+bc/cnn/00/cnn_0002   3    0      There    EX   (TOP(S(NP*)       -    -   -    Anderson_Cooper       *        *      *      *             *           -
+bc/cnn/00/cnn_0002   3    1        are   VBP         (VP*        be  02   3    Anderson_Cooper       *      (V*)     *      *             *           -
+bc/cnn/00/cnn_0002   3    2          a    DT   (NP(NP(NP*        -    -   -    Anderson_Cooper       *   (ARG1*      *      *        (ARG1*        (214
+bc/cnn/00/cnn_0002   3    3     number    NN            *)   number   -   1    Anderson_Cooper       *        *      *      *             *           -
+bc/cnn/00/cnn_0002   3    4         of    IN         (PP*        -    -   -    Anderson_Cooper       *        *      *      *             *           -
+bc/cnn/00/cnn_0002   3    5      races   NNS       (NP*)))     race  01   1    Anderson_Cooper       *        *    (V*)     *             *)          -
+bc/cnn/00/cnn_0002   3    6    however    RB       (ADVP*)       -    -   -    Anderson_Cooper       *        *      *      *    (ARGM-ADV*)          -
+bc/cnn/00/cnn_0002   3    7      being   VBG         (VP*        be  03   -    Anderson_Cooper       *        *      *    (V*)            *           -
+bc/cnn/00/cnn_0002   3    8    decided   VBN         (VP*    decide  01   -    Anderson_Cooper       *        *      *      *           (V*)          -
+bc/cnn/00/cnn_0002   3    9    tonight    NN     (NP*)))))       -    -   -    Anderson_Cooper   (TIME)       *)     *      *    (ARGM-TMP*)   (83)|214)
+bc/cnn/00/cnn_0002   3   10         /.     .           *))       -    -   -    Anderson_Cooper       *        *      *      *             *           -
+
+bc/cnn/00/cnn_0002   3    0          and    CC       (TOP(S*         -    -   -    Anderson_Cooper  *            *      *      *    (ARGM-DIS*)           *             *       -
+bc/cnn/00/cnn_0002   3    1           as    IN        (SBAR*         -    -   -    Anderson_Cooper  *            *      *      *    (ARGM-TMP*            *             *       -
+bc/cnn/00/cnn_0002   3    2         they   PRP        (S(NP*)        -    -   -    Anderson_Cooper  *       (ARG0*)     *      *             *            *             *       -
+bc/cnn/00/cnn_0002   3    3        count   VBP          (VP*      count  01   1    Anderson_Cooper  *          (V*)     *      *             *            *             *       -
+bc/cnn/00/cnn_0002   3    4          the    DT          (NP*         -    -   -    Anderson_Cooper  *       (ARG1*      *      *             *            *             *       -
+bc/cnn/00/cnn_0002   3    5        votes   NNS             *)      vote  01   1    Anderson_Cooper  *            *)   (V*)     *             *            *             *       -
+bc/cnn/00/cnn_0002   3    6       across    IN          (PP*         -    -   -    Anderson_Cooper  *   (ARGM-LOC*      *      *             *            *             *       -
+bc/cnn/00/cnn_0002   3    7          the    DT          (NP*         -    -   -    Anderson_Cooper  *            *      *      *             *            *             *    (167
+bc/cnn/00/cnn_0002   3    8      country    NN         *)))))   country   -   3    Anderson_Cooper  *            *)     *      *             *)           *             *     167)
+bc/cnn/00/cnn_0002   3    9           we   PRP          (NP*)        -    -   -    Anderson_Cooper  *            *      *      *        (ARG0*)           *             *    (124)
+bc/cnn/00/cnn_0002   3   10          'll    MD          (VP*         -    -   -    Anderson_Cooper  *            *      *      *    (ARGM-MOD*)           *             *       -
+bc/cnn/00/cnn_0002   3   11           be    VB          (VP*         be  03   -    Anderson_Cooper  *            *      *    (V*)            *            *             *       -
+bc/cnn/00/cnn_0002   3   12       giving   VBG          (VP*       give  01   2    Anderson_Cooper  *            *      *      *           (V*)           *             *       -
+bc/cnn/00/cnn_0002   3   13          you   PRP          (NP*)        -    -   -    Anderson_Cooper  *            *      *      *        (ARG2*)           *             *       -
+bc/cnn/00/cnn_0002   3   14          the    DT       (NP(NP*         -    -   -    Anderson_Cooper  *            *      *      *        (ARG1*            *             *       -
+bc/cnn/00/cnn_0002   3   15       latest   JJS             *)        -    -   -    Anderson_Cooper  *            *      *      *             *            *             *       -
+bc/cnn/00/cnn_0002   3   16           on    IN          (PP*         -    -   -    Anderson_Cooper  *            *      *      *             *            *             *       -
+bc/cnn/00/cnn_0002   3   17        those    DT       (NP(NP*         -    -   -    Anderson_Cooper  *            *      *      *             *            *        (ARG0*    (214
+bc/cnn/00/cnn_0002   3   18        races   NNS             *)      race  01   1    Anderson_Cooper  *            *      *      *             *          (V*)            *)      -
+bc/cnn/00/cnn_0002   3   19        which   WDT   (SBAR(WHNP*)        -    -   -    Anderson_Cooper  *            *      *      *             *   (ARGM-ADJ*      (R-ARG0*)      -
+bc/cnn/00/cnn_0002   3   20          may    MD        (S(VP*         -    -   -    Anderson_Cooper  *            *      *      *             *            *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   3   21         have    VB          (VP*       have  03   2    Anderson_Cooper  *            *      *      *             *            *           (V*)      -
+bc/cnn/00/cnn_0002   3   22     national    JJ          (NP*         -    -   -    Anderson_Cooper  *            *      *      *             *            *        (ARG1*       -
+bc/cnn/00/cnn_0002   3   23    overtones   NNS             *)        -    -   -    Anderson_Cooper  *            *      *      *             *            *             *)      -
+bc/cnn/00/cnn_0002   3   24           as    RB        (ADVP*         -    -   -    Anderson_Cooper  *            *      *      *             *            *    (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   3   25         well    RB   *)))))))))))        -    -   -    Anderson_Cooper  *            *      *      *             *)           *)            *)    214)
+bc/cnn/00/cnn_0002   3   26           /.     .            *))        -    -   -    Anderson_Cooper  *            *      *      *             *            *             *       -
+
+bc/cnn/00/cnn_0002   3    0       Joining   VBG  (TOP(SINV(VP*    join  04   4    Anderson_Cooper         *           (V*)     *       -
+bc/cnn/00/cnn_0002   3    1            us   PRP           (NP*)     -    -   -    Anderson_Cooper         *        (ARG1*)     *    (124)
+bc/cnn/00/cnn_0002   3    2           now    RB        (ADVP*))     -    -   -    Anderson_Cooper         *    (ARGM-TMP*)     *       -
+bc/cnn/00/cnn_0002   3    3            is   VBZ           (VP*)     be  03   -    Anderson_Cooper         *             *    (V*)      -
+bc/cnn/00/cnn_0002   3    4           CNN   NNP        (NP(NP*      -    -   -    Anderson_Cooper      (ORG)            *      *    (203
+bc/cnn/00/cnn_0002   3    5            's   POS              *)     -    -   -    Anderson_Cooper         *             *      *     203)
+bc/cnn/00/cnn_0002   3    6          John   NNP      (NML(NML*      -    -   -    Anderson_Cooper  (PERSON*             *      *     (55
+bc/cnn/00/cnn_0002   3    7          King   NNP              *)     -    -   -    Anderson_Cooper         *)            *      *      55)
+bc/cnn/00/cnn_0002   3    8           and    CC              *      -    -   -    Anderson_Cooper         *             *      *       -
+bc/cnn/00/cnn_0002   3    9          Jeff   NNP          (NML*      -    -   -    Anderson_Cooper  (PERSON*             *      *    (132
+bc/cnn/00/cnn_0002   3   10    Greenfield   NNP            *)))     -    -   -    Anderson_Cooper         *)            *      *     132)
+bc/cnn/00/cnn_0002   3   11            /.     .             *))     -    -   -    Anderson_Cooper         *             *      *       -
+
+bc/cnn/00/cnn_0002   3    0          Uh    UH   (TOP(S(INTJ*)       -    -   -    Anderson_Cooper         *    (ARGM-DIS*)           *         *     -
+bc/cnn/00/cnn_0002   3    1         let    VB           (VP*       let  01   1    Anderson_Cooper         *           (V*)           *         *     -
+bc/cnn/00/cnn_0002   3    2          's   PRP         (S(NP*)       -    -   -    Anderson_Cooper         *        (ARG1*       (ARG1*)        *     -
+bc/cnn/00/cnn_0002   3    3       start    VB           (VP*     start  01   1    Anderson_Cooper         *             *          (V*)        *     -
+bc/cnn/00/cnn_0002   3    4        with    IN           (PP*        -    -   -    Anderson_Cooper         *             *   (ARGM-MNR*         *     -
+bc/cnn/00/cnn_0002   3    5        John   NNP        (NP(NP*        -    -   -    Anderson_Cooper  (PERSON*             *            *         *   (55
+bc/cnn/00/cnn_0002   3    6        King   NNP              *)       -    -   -    Anderson_Cooper         *)            *            *         *     -
+bc/cnn/00/cnn_0002   3    7        from    IN           (PP*        -    -   -    Anderson_Cooper         *             *            *         *     -
+bc/cnn/00/cnn_0002   3    8          DC   NNP          (NP*))       -    -   -    Anderson_Cooper      (GPE)            *            *         *     -
+bc/cnn/00/cnn_0002   3    9        with    IN           (PP*        -    -   -    Anderson_Cooper         *             *            *         *     -
+bc/cnn/00/cnn_0002   3   10    breaking   VBG        (NP(NP*     break  01   -    Anderson_Cooper         *             *            *       (V*)    -
+bc/cnn/00/cnn_0002   3   11        news    NN              *)     news   -   1    Anderson_Cooper         *             *            *    (ARG1*)    -
+bc/cnn/00/cnn_0002   3   12          on    IN           (PP*        -    -   -    Anderson_Cooper         *             *            *         *     -
+bc/cnn/00/cnn_0002   3   13         the    DT           (NP*        -    -   -    Anderson_Cooper         *             *            *         *     -
+bc/cnn/00/cnn_0002   3   14    election    NN              *        -    -   -    Anderson_Cooper         *             *            *         *     -
+bc/cnn/00/cnn_0002   3   15     results   NNS      *)))))))))   result   -   3    Anderson_Cooper         *             *)           *)        *    55)
+bc/cnn/00/cnn_0002   3   16          /.     .             *))       -    -   -    Anderson_Cooper         *             *            *         *     -
+
+bc/cnn/00/cnn_0002   3   0      John   NNP   (TOP(SBARQ(NP*)   -    -   -    Anderson_Cooper   (PERSON)   (ARGM-DIS*)   (55)
+bc/cnn/00/cnn_0002   3   1      what    WP           (WHNP*)   -    -   -    Anderson_Cooper         *        (ARG2*)     -
+bc/cnn/00/cnn_0002   3   2        's   VBZ             (SQ*    be  01   1    Anderson_Cooper         *           (V*)     -
+bc/cnn/00/cnn_0002   3   3       the    DT             (NP*    -    -   -    Anderson_Cooper         *        (ARG1*      -
+bc/cnn/00/cnn_0002   3   4    latest   JJS               *))   -    -   -    Anderson_Cooper         *             *)     -
+bc/cnn/00/cnn_0002   3   5        /?     .               *))   -    -   -    Anderson_Cooper         *             *      -
+
+bc/cnn/00/cnn_0002   3    0           Well     UH   (TOP(S(INTJ*)          -    -   -    John_King           *      *    (ARGM-DIS*)            *      -
+bc/cnn/00/cnn_0002   3    1       Anderson    NNP           (NP*)          -    -   -    John_King     (PERSON)     *    (ARGM-DIS*)            *    (46)
+bc/cnn/00/cnn_0002   3    2            the     DT           (NP*           -    -   -    John_King           *      *        (ARG0*             *   (155
+bc/cnn/00/cnn_0002   3    3      democrats   NNPS              *)          -    -   -    John_King           *      *             *)            *    155)
+bc/cnn/00/cnn_0002   3    4            are    VBP           (VP*           be  03   -    John_King           *    (V*)            *             *      -
+bc/cnn/00/cnn_0002   3    5    celebrating    VBG           (VP*    celebrate  01   1    John_King           *      *           (V*)            *      -
+bc/cnn/00/cnn_0002   3    6             in     IN           (PP*           -    -   -    John_King           *      *    (ARGM-LOC*             *      -
+bc/cnn/00/cnn_0002   3    7            the     DT           (NP*           -    -   -    John_King           *      *             *             *   (184
+bc/cnn/00/cnn_0002   3    8            two     CD              *           -    -   -    John_King   (CARDINAL)     *             *    (ARGM-ADJ*)     -
+bc/cnn/00/cnn_0002   3    9        biggest    JJS              *           -    -   -    John_King           *      *             *    (ARGM-ADJ*)     -
+bc/cnn/00/cnn_0002   3   10          races    NNS             *))        race  01   1    John_King           *      *             *)          (V*)   184)
+bc/cnn/00/cnn_0002   3   11        tonight     NN         (NP*)))          -    -   -    John_King       (TIME)     *    (ARGM-TMP*)            *    (83)
+bc/cnn/00/cnn_0002   3   12             /.      .             *))          -    -   -    John_King           *      *             *             *      -
+
+bc/cnn/00/cnn_0002   3    0            Those    DT   (TOP(S(NP*)     -    -   -    John_King      *    (ARG1*)           *    (184)
+bc/cnn/00/cnn_0002   3    1              are   VBP         (VP*      be  01   2    John_King      *       (V*)           *       -
+bc/cnn/00/cnn_0002   3    2              the    DT      (NP(NP*      -    -   -    John_King      *    (ARG2*            *       -
+bc/cnn/00/cnn_0002   3    3            races   NNS            *)   race  01   1    John_King      *         *          (V*)      -
+bc/cnn/00/cnn_0002   3    4              for    IN         (PP*      -    -   -    John_King      *         *       (ARG2*       -
+bc/cnn/00/cnn_0002   3    5              the    DT         (NP*      -    -   -    John_King      *         *            *       -
+bc/cnn/00/cnn_0002   3    6    governorships   NNS           *))     -    -   -    John_King      *         *            *)      -
+bc/cnn/00/cnn_0002   3    7               in    IN         (PP*      -    -   -    John_King      *         *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   3    8         Virginia   NNP      (NP(NP*)     -    -   -    John_King   (GPE)        *            *      (6)
+bc/cnn/00/cnn_0002   3    9              and    CC            *      -    -   -    John_King      *         *            *       -
+bc/cnn/00/cnn_0002   3   10              New   NNP         (NP*      -    -   -    John_King  (GPE*         *            *    (118
+bc/cnn/00/cnn_0002   3   11           Jersey   NNP        *)))))     -    -   -    John_King      *)        *)           *)    118)
+bc/cnn/00/cnn_0002   3   12               /.     .           *))     -    -   -    John_King      *         *            *       -
+
+bc/cnn/00/cnn_0002   3    0           CNN   NNP   (TOP(FRAG(NP*)        -    -   -    John_King      (ORG)   (ARG0*)            *    (203)
+bc/cnn/00/cnn_0002   3    1    projecting   VBG            (VP*    project  02   5    John_King         *       (V*)            *       -
+bc/cnn/00/cnn_0002   3    2          that    IN          (SBAR*         -    -   -    John_King         *    (ARG1*             *       -
+bc/cnn/00/cnn_0002   3    3           Tim   NNP       (S(NP(NP*         -    -   -    John_King  (PERSON*         *        (ARG1*     (53
+bc/cnn/00/cnn_0002   3    4         Kaine   NNP               *)        -    -   -    John_King         *)        *             *       -
+bc/cnn/00/cnn_0002   3    5     currently    RB      (RRC(ADVP*)        -    -   -    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3    6           the    DT            (NP*         -    -   -    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3    7    lieutenant    NN               *         -    -   -    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3    8      governor    NN             *)))        -    -   -    John_King         *         *             *)     53)
+bc/cnn/00/cnn_0002   3    9          will    MD            (VP*         -    -   -    John_King         *         *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   3   10            be    VB            (VP*         be  01   2    John_King         *         *           (V*)      -
+bc/cnn/00/cnn_0002   3   11           the    DT         (NP(NP*         -    -   -    John_King         *         *        (ARG2*       -
+bc/cnn/00/cnn_0002   3   12          next    JJ               *         -    -   -    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3   13      governor    NN               *)        -    -   -    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3   14            of    IN            (PP*         -    -   -    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3   15           the    DT         (NP(NP*         -    -   -    John_King         *         *             *      (6
+bc/cnn/00/cnn_0002   3   16         state    NN               *)     state   -   2    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3   17            of    IN            (PP*         -    -   -    John_King         *         *             *       -
+bc/cnn/00/cnn_0002   3   18      Virginia   NNP   (NP*))))))))))        -    -   -    John_King      (GPE)        *)            *)      6)
+bc/cnn/00/cnn_0002   3   19            /.     .              *))        -    -   -    John_King         *         *             *       -
+
+bc/cnn/00/cnn_0002   3    0          Tim   NNP  (TOP(FRAG(NP(NP*       -    -   -    John_King  (PERSON*       (ARG0*            *    (53
+bc/cnn/00/cnn_0002   3    1        Kaine   NNP                 *)      -    -   -    John_King         *)           *            *      -
+bc/cnn/00/cnn_0002   3    2            a    DT              (NP*       -    -   -    John_King         *            *            *      -
+bc/cnn/00/cnn_0002   3    3     democrat   NNP                *))      -    -   -    John_King     (NORP)           *)           *     53)
+bc/cnn/00/cnn_0002   3    4      winning   VBG              (VP*      win  01   1    John_King         *          (V*)           *    (99)
+bc/cnn/00/cnn_0002   3    5           in    IN              (PP*       -    -   -    John_King         *   (ARGM-LOC*            *      -
+bc/cnn/00/cnn_0002   3    6     Virginia   NNP           (NP(NP*)      -    -   -    John_King      (GPE)           *            *     (6
+bc/cnn/00/cnn_0002   3    7            a    DT           (NP(NP*       -    -   -    John_King         *            *       (ARG1*      -
+bc/cnn/00/cnn_0002   3    8        state    NN                 *)   state   -   2    John_King         *            *            *)     -
+bc/cnn/00/cnn_0002   3    9    President   NNP       (SBAR(S(NP*       -    -   -    John_King         *            *       (ARG0*   (154
+bc/cnn/00/cnn_0002   3   10         Bush   NNP                 *)      -    -   -    John_King   (PERSON)           *            *)   154)
+bc/cnn/00/cnn_0002   3   11      carried   VBD              (VP*    carry  01   4    John_King         *            *          (V*)     -
+bc/cnn/00/cnn_0002   3   12            a    DT         (ADVP(NP*       -    -   -    John_King    (DATE*            *   (ARGM-TMP*      -
+bc/cnn/00/cnn_0002   3   13         year    NN                 *)      -    -   -    John_King         *            *            *      -
+bc/cnn/00/cnn_0002   3   14          ago    RB          *))))))))      -    -   -    John_King         *)           *)           *)     6)
+bc/cnn/00/cnn_0002   3   15           /.     .                *))      -    -   -    John_King         *            *            *      -
+
+bc/cnn/00/cnn_0002   3   0           And    CC  (TOP(FRAG*   -   -   -    John_King       *      -
+bc/cnn/00/cnn_0002   3   1            in    IN        (PP*   -   -   -    John_King       *      -
+bc/cnn/00/cnn_0002   3   2           New   NNP        (NP*   -   -   -    John_King   (GPE*   (118
+bc/cnn/00/cnn_0002   3   3        Jersey   NNP          *))  -   -   -    John_King       *)   118)
+bc/cnn/00/cnn_0002   3   4       another    DT        (NP*   -   -   -    John_King       *      -
+bc/cnn/00/cnn_0002   3   5    democratic    JJ           *   -   -   -    John_King   (NORP)     -
+bc/cnn/00/cnn_0002   3   6       victory    NN           *)  -   -   -    John_King       *      -
+bc/cnn/00/cnn_0002   3   7            /.     .          *))  -   -   -    John_King       *      -
+
+bc/cnn/00/cnn_0002   3    0           John   NNP  (TOP(S(NP(NP*            -    -   -    John_King  (PERSON*        (ARG1*     (23
+bc/cnn/00/cnn_0002   3    1        Corzine   NNP              *)           -    -   -    John_King         *)            *       -
+bc/cnn/00/cnn_0002   3    2      currently    RB     (RRC(ADVP*)           -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3    3              a    DT        (NP(NP*            -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3    4         member    NN              *)       member   -   1    John_King         *             *       -
+bc/cnn/00/cnn_0002   3    5             of    IN           (PP*            -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3    6            the    DT           (NP*            -    -   -    John_King     (ORG*             *       -
+bc/cnn/00/cnn_0002   3    7         United   NNP          (NML*            -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3    8         States   NNP              *)           -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3    9         Senate   NNP          *)))))           -    -   -    John_King         *)            *)     23)
+bc/cnn/00/cnn_0002   3   10           will    MD           (VP*            -    -   -    John_King         *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   3   11             be    VB           (VP*            be  01   2    John_King         *           (V*)      -
+bc/cnn/00/cnn_0002   3   12            the    DT        (NP(NP*            -    -   -    John_King         *        (ARG2*       -
+bc/cnn/00/cnn_0002   3   13           next    JJ              *            -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3   14       governor    NN              *)           -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3   15             of    IN           (PP*            -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3   16            New   NNP           (NP*            -    -   -    John_King     (GPE*             *    (118
+bc/cnn/00/cnn_0002   3   17         Jersey   NNP            *)))           -    -   -    John_King         *)            *)    118)
+bc/cnn/00/cnn_0002   3   18      according   VBG           (PP*     according   -   -    John_King         *    (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   3   19             to    IN           (PP*            -    -   -    John_King         *             *       -
+bc/cnn/00/cnn_0002   3   20            CNN   NNP           (NP*            -    -   -    John_King      (ORG)            *    (203)
+bc/cnn/00/cnn_0002   3   21    projections   NNS          *)))))   projection   -   1    John_King         *             *)      -
+bc/cnn/00/cnn_0002   3   22             /.     .             *))           -    -   -    John_King         *             *       -
+
+bc/cnn/00/cnn_0002   3   0           One   CD  (TOP(FRAG(NP*   -   -   -    John_King   (CARDINAL)  (220
+bc/cnn/00/cnn_0002   3   1    republican   JJ              *   -   -   -    John_King           *      -
+bc/cnn/00/cnn_0002   3   2       victory   NN              *)  -   -   -    John_King           *    220)
+bc/cnn/00/cnn_0002   3   3       tonight   NN           (NP*)  -   -   -    John_King       (TIME)   (83)
+bc/cnn/00/cnn_0002   3   4            /.    .             *))  -   -   -    John_King           *      -
+
+bc/cnn/00/cnn_0002   3   0    That    DT   (TOP(S(NP*)   -    -   -    John_King      *    (ARG1*)   (220)
+bc/cnn/00/cnn_0002   3   1      is   VBZ         (VP*    be  01   4    John_King      *       (V*)      -
+bc/cnn/00/cnn_0002   3   2      in    IN         (PP*    -    -   -    John_King      *    (ARG2*       -
+bc/cnn/00/cnn_0002   3   3     New   NNP         (NP*    -    -   -    John_King  (GPE*         *    (175
+bc/cnn/00/cnn_0002   3   4    York   NNP            *    -    -   -    John_King      *         *       -
+bc/cnn/00/cnn_0002   3   5    City   NNP          *)))   -    -   -    John_King      *)        *)    175)
+bc/cnn/00/cnn_0002   3   6      /.     .           *))   -    -   -    John_King      *         *       -
+
+bc/cnn/00/cnn_0002   3    0         Mayor   NNP  (TOP(S(NP*          -    -   -    John_King         *      *    (ARG1*    (45
+bc/cnn/00/cnn_0002   3    1       Michael   NNP           *          -    -   -    John_King  (PERSON*      *         *      -
+bc/cnn/00/cnn_0002   3    2     Bloomberg   NNP           *)         -    -   -    John_King         *)     *         *)    45)
+bc/cnn/00/cnn_0002   3    3           the    DT  (PRN(S(NP*          -    -   -    John_King     (ORG*      *         *      -
+bc/cnn/00/cnn_0002   3    4    Associated   NNP           *          -    -   -    John_King         *      *         *      -
+bc/cnn/00/cnn_0002   3    5         Press   NNP           *)         -    -   -    John_King         *)     *         *      -
+bc/cnn/00/cnn_0002   3    6      projects   VBZ      (VP*)))    project   -   5    John_King         *      *         *      -
+bc/cnn/00/cnn_0002   3    7          will    MD        (VP*          -    -   -    John_King         *      *    (ARG1*)     -
+bc/cnn/00/cnn_0002   3    8            be    VB        (VP*          be  03   -    John_King         *    (V*)        *      -
+bc/cnn/00/cnn_0002   3    9    re-elected   VBN        (VP*    re-elect  01   -    John_King         *      *       (V*)     -
+bc/cnn/00/cnn_0002   3   10            as    IN        (PP*          -    -   -    John_King         *      *    (ARG2*      -
+bc/cnn/00/cnn_0002   3   11           the    DT     (NP(NP*          -    -   -    John_King         *      *         *      -
+bc/cnn/00/cnn_0002   3   12         mayor    NN           *)         -    -   -    John_King         *      *         *      -
+bc/cnn/00/cnn_0002   3   13            of    IN        (PP*          -    -   -    John_King         *      *         *      -
+bc/cnn/00/cnn_0002   3   14           New   NNP        (NP*          -    -   -    John_King     (GPE*      *         *   (175
+bc/cnn/00/cnn_0002   3   15          York   NNP           *          -    -   -    John_King         *      *         *      -
+bc/cnn/00/cnn_0002   3   16          City   NNP     *)))))))         -    -   -    John_King         *)     *         *)   175)
+bc/cnn/00/cnn_0002   3   17            /.     .          *))         -    -   -    John_King         *      *         *      -
+
+bc/cnn/00/cnn_0002   3   0             A    DT  (TOP(NP(NP*      -    -   -    John_King       *    (ARG1*   (45
+bc/cnn/00/cnn_0002   3   1      democrat   NNP            *)     -    -   -    John_King   (NORP)        *)    -
+bc/cnn/00/cnn_0002   3   2        turned   VBN         (VP*    turn  02   -    John_King       *       (V*)    -
+bc/cnn/00/cnn_0002   3   3    republican   NNP        (NP*))     -    -   -    John_King   (NORP)   (ARG2*)    -
+bc/cnn/00/cnn_0002   3   4            /.     .           *))     -    -   -    John_King       *         *    45)
+
+bc/cnn/00/cnn_0002   3   0             so     CC  (TOP(FRAG*      -    -   -    John_King       *             *      -
+bc/cnn/00/cnn_0002   3   1           that     DT        (NP*)     -    -   -    John_King       *             *      -
+bc/cnn/00/cnn_0002   3   2              a     DT     (NP(NP*      -    -   -    John_King       *             *      -
+bc/cnn/00/cnn_0002   3   3    frustrating     JJ           *      -    -   -    John_King       *    (ARGM-MNR*)     -
+bc/cnn/00/cnn_0002   3   4           race     NN           *)   race  01   1    John_King       *           (V*)     -
+bc/cnn/00/cnn_0002   3   5            for     IN        (PP*      -    -   -    John_King       *        (ARG0*      -
+bc/cnn/00/cnn_0002   3   6            the     DT        (NP*      -    -   -    John_King       *             *   (155
+bc/cnn/00/cnn_0002   3   7      democrats   NNPS         *)))     -    -   -    John_King   (NORP)            *)   155)
+bc/cnn/00/cnn_0002   3   8             /.      .          *))     -    -   -    John_King       *             *      -
+
+bc/cnn/00/cnn_0002   3    0            but     CC  (TOP(S*           -    -    -    John_King           *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0002   3    1      democrats   NNPS     (NP*)          -    -    -    John_King       (NORP)       (ARG0*)    -
+bc/cnn/00/cnn_0002   3    2           will     MD     (VP*           -    -    -    John_King           *    (ARGM-MOD*)    -
+bc/cnn/00/cnn_0002   3    3      celebrate     VB     (VP*    celebrate  01    1    John_King           *           (V*)    -
+bc/cnn/00/cnn_0002   3    4          those     DT     (NP*           -    -    -    John_King           *        (ARG1*     -
+bc/cnn/00/cnn_0002   3    5            two     CD        *           -    -    -    John_King   (CARDINAL)            *     -
+bc/cnn/00/cnn_0002   3    6          state     NN   (ADJP*        state   -    2    John_King           *             *     -
+bc/cnn/00/cnn_0002   3    7             -    HYPH        *           -    -    -    John_King           *             *     -
+bc/cnn/00/cnn_0002   3    8           wide     JJ        *)          -    -    -    John_King           *             *     -
+bc/cnn/00/cnn_0002   3    9      victories    NNS        *)          -    -    -    John_King           *             *)    -
+bc/cnn/00/cnn_0002   3   10       Virginia    NNP   (S(NP*)          -    -    -    John_King        (GPE)   (ARGM-PRD*    (6)
+bc/cnn/00/cnn_0002   3   11             of     IN     (PP*           -    -    -    John_King           *             *     -
+bc/cnn/00/cnn_0002   3   12         course     NN    (NP*))      course   -   13    John_King           *             *     -
+bc/cnn/00/cnn_0002   3   13            the     DT     (NP*           -    -    -    John_King           *             *     -
+bc/cnn/00/cnn_0002   3   14           most    RBS   (ADJP*           -    -    -    John_King           *             *     -
+bc/cnn/00/cnn_0002   3   15    significant     JJ    *)))))          -    -    -    John_King           *             *)    -
+bc/cnn/00/cnn_0002   3   16             /.      .       *))          -    -    -    John_King           *             *     -
+
+bc/cnn/00/cnn_0002   3   0    President   NNP  (TOP(S(NP*       -    -   -    John_King         *       (ARG0*   (154
+bc/cnn/00/cnn_0002   3   1         Bush   NNP           *)      -    -   -    John_King   (PERSON)           *)   154)
+bc/cnn/00/cnn_0002   3   2      carried   VBD        (VP*    carry  01   4    John_King         *          (V*)     -
+bc/cnn/00/cnn_0002   3   3         that    DT        (NP*       -    -   -    John_King         *       (ARG1*     (6
+bc/cnn/00/cnn_0002   3   4        state    NN           *)   state   -   2    John_King         *            *)     6)
+bc/cnn/00/cnn_0002   3   5            a    DT   (ADVP(NP*       -    -   -    John_King    (DATE*   (ARGM-TMP*      -
+bc/cnn/00/cnn_0002   3   6         year    NN           *)      -    -   -    John_King         *            *      -
+bc/cnn/00/cnn_0002   3   7          ago    RB          *))      -    -   -    John_King         *)           *)     -
+bc/cnn/00/cnn_0002   3   8           /.     .          *))      -    -   -    John_King         *            *      -
+
+bc/cnn/00/cnn_0002   3    0            He   PRP   (TOP(S(NP*)         -    -   -    John_King       *       (ARG0*)   (154)
+bc/cnn/00/cnn_0002   3    1    campaigned   VBD         (VP*    campaign  01   2    John_King       *          (V*)    (10)
+bc/cnn/00/cnn_0002   3    2           for    IN         (PP*          -    -   -    John_King       *       (ARG1*       -
+bc/cnn/00/cnn_0002   3    3           the    DT         (NP*          -    -   -    John_King       *            *       -
+bc/cnn/00/cnn_0002   3    4    republican    JJ            *          -    -   -    John_King   (NORP)           *       -
+bc/cnn/00/cnn_0002   3    5     candidate    NN           *))         -    -   -    John_King       *            *)      -
+bc/cnn/00/cnn_0002   3    6          just    RB         (NP*          -    -   -    John_King  (TIME*   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   3    7          last    JJ            *          -    -   -    John_King       *            *       -
+bc/cnn/00/cnn_0002   3    8         night    NN            *)      night   -   1    John_King       *)           *)      -
+bc/cnn/00/cnn_0002   3    9            an    DT         (NP*          -    -   -    John_King       *   (ARGM-ADV*     (10
+bc/cnn/00/cnn_0002   3   10      election    NN        (NML*          -    -   -    John_King       *            *       -
+bc/cnn/00/cnn_0002   3   11           eve    NN            *)         -    -   -    John_King       *            *       -
+bc/cnn/00/cnn_0002   3   12    appearance    NN           *))         -    -   -    John_King       *            *)     10)
+bc/cnn/00/cnn_0002   3   13            /.     .           *))         -    -   -    John_King       *            *       -
+
+bc/cnn/00/cnn_0002   3    0     Democrats   NNPS       (TOP(S(NP*)          -    -   -    John_King   (NORP)       (ARG0*)     *            *      -
+bc/cnn/00/cnn_0002   3    1          will     MD             (VP*           -    -   -    John_King       *    (ARGM-MOD*)     *            *      -
+bc/cnn/00/cnn_0002   3    2     certainly     RB           (ADVP*)          -    -   -    John_King       *    (ARGM-ADV*)     *            *      -
+bc/cnn/00/cnn_0002   3    3          make     VB             (VP*         make  01   2    John_King       *           (V*)     *            *      -
+bc/cnn/00/cnn_0002   3    4           the     DT             (NP*           -    -   -    John_King       *        (ARG1*      *            *      -
+bc/cnn/00/cnn_0002   3    5          case     NN                *         case   -   7    John_King       *             *      *            *      -
+bc/cnn/00/cnn_0002   3    6          that     IN           (SBAR*           -    -   -    John_King       *             *      *            *      -
+bc/cnn/00/cnn_0002   3    7           the     DT       (NP(NP(NP*           -    -   -    John_King       *             *      *       (ARG1*   (154
+bc/cnn/00/cnn_0002   3    8     president     NN                *    president   -   3    John_King       *             *      *            *      -
+bc/cnn/00/cnn_0002   3    9            's    POS                *)          -    -   -    John_King       *             *      *            *    154)
+bc/cnn/00/cnn_0002   3   10      troubles    NNS                *)     trouble   -   4    John_King       *             *      *            *)     -
+bc/cnn/00/cnn_0002   3   11           are    VBP             (VP*           be  03   -    John_King       *             *    (V*)           *      -
+bc/cnn/00/cnn_0002   3   12    continuing    VBG             (VP*     continue  01   1    John_King       *             *      *          (V*)     -
+bc/cnn/00/cnn_0002   3   13            in     IN             (PP*           -    -   -    John_King       *             *      *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0002   3   14           the     DT          (NP(NP*           -    -   -    John_King       *             *      *            *     (6
+bc/cnn/00/cnn_0002   3   15         state     NN                *)       state   -   2    John_King       *             *      *            *      -
+bc/cnn/00/cnn_0002   3   16            of     IN             (PP*           -    -   -    John_King       *             *      *            *      -
+bc/cnn/00/cnn_0002   3   17      Virginia    NNP   (NP*)))))))))))          -    -   -    John_King    (GPE)            *)     *            *)     6)
+bc/cnn/00/cnn_0002   3   18            /.      .               *))          -    -   -    John_King       *             *      *            *      -
+
+bc/cnn/00/cnn_0002   3    0            I   PRP       (TOP(S(NP*)         -    -   -    John_King         *        (ARG0*)        *             *         *    (55)
+bc/cnn/00/cnn_0002   3    1         will    MD             (VP*          -    -   -    John_King         *    (ARGM-MOD*)        *             *         *      -
+bc/cnn/00/cnn_0002   3    2          say    VB             (VP*         say  01   1    John_King         *           (V*)        *             *         *      -
+bc/cnn/00/cnn_0002   3    3       though    RB           (ADVP*)         -    -   -    John_King         *    (ARGM-ADV*)        *             *         *      -
+bc/cnn/00/cnn_0002   3    4     Anderson   NNP             (NP*)         -    -   -    John_King   (PERSON)   (ARGM-DIS*)        *             *         *    (46)
+bc/cnn/00/cnn_0002   3    5            I   PRP      (SBAR(S(NP*)         -    -   -    John_King         *        (ARG1*    (ARG0*)            *         *    (55)
+bc/cnn/00/cnn_0002   3    6        think   VBP             (VP*       think  01   1    John_King         *             *       (V*)            *         *      -
+bc/cnn/00/cnn_0002   3    7          the    DT   (SBAR(S(NP(NP*          -    -   -    John_King         *             *    (ARG1*        (ARG1*         *      -
+bc/cnn/00/cnn_0002   3    8       bigger   JJR                *          -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3    9     national    JJ                *          -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   10     question    NN                *)   question   -   2    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   11          out    IN             (PP*          -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   12           of    IN             (PP*          -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   13          the    DT          (NP(NP*          -    -   -    John_King         *             *         *             *         *     (6
+bc/cnn/00/cnn_0002   3   14        state    NN                *)      state   -   2    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   15           of    IN             (PP*          -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   16     Virginia   NNP        (NP*))))))         -    -   -    John_King      (GPE)            *         *             *)        *      6)
+bc/cnn/00/cnn_0002   3   17        might    MD             (VP*          -    -   -    John_King         *             *         *    (ARGM-MOD*)        *      -
+bc/cnn/00/cnn_0002   3   18           be    VB             (VP*          be  01   2    John_King         *             *         *           (V*)        *      -
+bc/cnn/00/cnn_0002   3   19         that    IN           (SBAR*          -    -   -    John_King         *             *         *        (ARG2*         *      -
+bc/cnn/00/cnn_0002   3   20         this    DT           (S(NP*)         -    -   -    John_King         *             *         *             *    (ARG0*)   (99)
+bc/cnn/00/cnn_0002   3   21        helps   VBZ             (VP*        help  01   1    John_King         *             *         *             *       (V*)     -
+bc/cnn/00/cnn_0002   3   22          the    DT          (NP(NP*          -    -   -    John_King         *             *         *             *    (ARG2*    (58
+bc/cnn/00/cnn_0002   3   23      current    JJ                *          -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   24    incumbant    JJ                *          -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   25     governor    NN                *)         -    -   -    John_King         *             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   26         Mark   NNP             (NP*          -    -   -    John_King  (PERSON*             *         *             *         *      -
+bc/cnn/00/cnn_0002   3   27       Warner   NNP   *))))))))))))))         -    -   -    John_King         *)            *)        *)            *)        *)    58)
+bc/cnn/00/cnn_0002   3   28           /.     .               *))         -    -   -    John_King         *             *         *             *         *      -
+
+bc/cnn/00/cnn_0002   3    0           He   PRP    (TOP(S(NP*)          -    -   -    John_King  *      *    (ARG0*)   (ARG0*)   (ARG0*)    (58)
+bc/cnn/00/cnn_0002   3    1           is   VBZ          (VP*           be  03   -    John_King  *    (V*)        *         *         *       -
+bc/cnn/00/cnn_0002   3    2      leaving   VBG       (VP(VP*        leave  01   1    John_King  *      *       (V*)        *         *       -
+bc/cnn/00/cnn_0002   3    3       office    NN         (NP*))      office   -   1    John_King  *      *    (ARG1*)        *         *       -
+bc/cnn/00/cnn_0002   3    4          and    CC             *           -    -   -    John_King  *      *         *         *         *       -
+bc/cnn/00/cnn_0002   3    5     thinking   VBG          (VP*        think  01   -    John_King  *      *         *       (V*)        *    (112)
+bc/cnn/00/cnn_0002   3    6        about    IN          (PP*           -    -   -    John_King  *      *         *    (ARG1*         *       -
+bc/cnn/00/cnn_0002   3    7      running   VBG        (S(VP*          run  02   7    John_King  *      *         *         *       (V*)      -
+bc/cnn/00/cnn_0002   3    8          for    IN          (PP*           -    -   -    John_King  *      *         *         *    (ARG1*       -
+bc/cnn/00/cnn_0002   3    9    president    NN   (NP*))))))))   president   -   3    John_King  *      *         *         *)        *)      -
+bc/cnn/00/cnn_0002   3   10           /.     .            *))          -    -   -    John_King  *      *         *         *         *       -
+
+bc/cnn/00/cnn_0002   3    0          His   PRP$  (TOP(S(NP(NP(NP*           -    -   -    John_King       *        (ARG0*    (155|(58)
+bc/cnn/00/cnn_0002   3    1        party     NN                 *           -    -   -    John_King       *             *           -
+bc/cnn/00/cnn_0002   3    2           's    POS                 *)          -    -   -    John_King       *             *         155)
+bc/cnn/00/cnn_0002   3    3     strength     NN                 *)    strength   -   1    John_King       *             *           -
+bc/cnn/00/cnn_0002   3    4        there     RB            (ADVP*)          -    -   -    John_King       *             *           -
+bc/cnn/00/cnn_0002   3    5      tonight     NN             (NP*))          -    -   -    John_King   (TIME)            *)        (83)
+bc/cnn/00/cnn_0002   3    6         will     MD              (VP*           -    -   -    John_King       *    (ARGM-MOD*)          -
+bc/cnn/00/cnn_0002   3    7         only     RB            (ADVP*)          -    -   -    John_King       *    (ARGM-ADV*)          -
+bc/cnn/00/cnn_0002   3    8    encourage     VB              (VP*    encourage  02   1    John_King       *           (V*)          -
+bc/cnn/00/cnn_0002   3    9         that     DT            (NP*)))          -    -   -    John_King       *        (ARG1*)       (112)
+bc/cnn/00/cnn_0002   3   10           /.      .                *))          -    -   -    John_King       *             *           -
+
+bc/cnn/00/cnn_0002   3   0         Jeff   NNP   (TOP(FRAG(NP*)         -    -   -    Anderson_Cooper   (PERSON)       *    (132)
+bc/cnn/00/cnn_0002   3   1          any    DT         (NP(NP*          -    -   -    Anderson_Cooper         *        *       -
+bc/cnn/00/cnn_0002   3   2    surprises   NNS               *)   surprise  01   2    Anderson_Cooper         *      (V*)      -
+bc/cnn/00/cnn_0002   3   3           to    IN            (PP*          -    -   -    Anderson_Cooper         *   (ARG1*       -
+bc/cnn/00/cnn_0002   3   4          you   PRP          (NP*)))         -    -   -    Anderson_Cooper         *        *)   (132)
+bc/cnn/00/cnn_0002   3   5           /?     .              *))         -    -   -    Anderson_Cooper         *        *       -
+
+bc/cnn/00/cnn_0002   3    0           No    UH   (TOP(S(INTJ*)       -    -   -    Jeff_Greenfield.  *      *             *    (ARGM-DIS*)          *   -
+bc/cnn/00/cnn_0002   3    1           uh    UH         (INTJ*)       -    -   -    Jeff_Greenfield.  *      *             *    (ARGM-DIS*)          *   -
+bc/cnn/00/cnn_0002   3    2          the    DT        (NP(NP*        -    -   -    Jeff_Greenfield.  *      *             *        (ARG1*           *   -
+bc/cnn/00/cnn_0002   3    3         most   RBS         (ADJP*        -    -   -    Jeff_Greenfield.  *      *             *             *           *   -
+bc/cnn/00/cnn_0002   3    4    startling    JJ              *)       -    -   -    Jeff_Greenfield.  *      *             *             *           *   -
+bc/cnn/00/cnn_0002   3    5        thing    NN              *)    thing   -   1    Jeff_Greenfield.  *      *             *             *           *   -
+bc/cnn/00/cnn_0002   3    6        which   WDT    (SBAR(WHNP*)       -    -   -    Jeff_Greenfield.  *      *             *             *           *   -
+bc/cnn/00/cnn_0002   3    7           we   PRP         (S(NP*)       -    -   -    Jeff_Greenfield.  *      *        (ARG0*)            *           *   -
+bc/cnn/00/cnn_0002   3    8           do   VBP           (VP*        do  01   -    Jeff_Greenfield.  *    (V*)            *             *           *   -
+bc/cnn/00/cnn_0002   3    9          n't    RB              *        -    -   -    Jeff_Greenfield.  *      *    (ARGM-NEG*)            *           *   -
+bc/cnn/00/cnn_0002   3   10        often    RB         (ADVP*)       -    -   -    Jeff_Greenfield.  *      *    (ARGM-TMP*)            *           *   -
+bc/cnn/00/cnn_0002   3   11         talk    VB           (VP*      talk  01   1    Jeff_Greenfield.  *      *           (V*)            *           *   -
+bc/cnn/00/cnn_0002   3   12        about    IN      (PP*))))))       -    -   -    Jeff_Greenfield.  *      *        (ARG1*)            *)          *   -
+bc/cnn/00/cnn_0002   3   13           is   VBZ           (VP*        be  01   2    Jeff_Greenfield.  *      *             *           (V*)          *   -
+bc/cnn/00/cnn_0002   3   14          the    DT     (NP(NP(NP*        -    -   -    Jeff_Greenfield.  *      *             *        (ARG2*      (ARG1*   -
+bc/cnn/00/cnn_0002   3   15        sheer    JJ              *        -    -   -    Jeff_Greenfield.  *      *             *             *           *   -
+bc/cnn/00/cnn_0002   3   16       amount    NN              *)   amount   -   3    Jeff_Greenfield.  *      *             *             *           *   -
+bc/cnn/00/cnn_0002   3   17           of    IN           (PP*        -    -   -    Jeff_Greenfield.  *      *             *             *           *   -
+bc/cnn/00/cnn_0002   3   18        money    NN         (NP*)))    money   -   2    Jeff_Greenfield.  *      *             *             *           *)  -
+bc/cnn/00/cnn_0002   3   19         that   WDT    (SBAR(WHNP*)       -    -   -    Jeff_Greenfield.  *      *             *             *    (R-ARG1*)  -
+bc/cnn/00/cnn_0002   3   20        these    DT         (S(NP*        -    -   -    Jeff_Greenfield.  *      *             *             *      (ARG0*   -
+bc/cnn/00/cnn_0002   3   21       people   NNS              *)   people   -   1    Jeff_Greenfield.  *      *             *             *           *)  -
+bc/cnn/00/cnn_0002   3   22         have   VBP       (VP*)))))     have  03   1    Jeff_Greenfield.  *      *             *             *)        (V*)  -
+bc/cnn/00/cnn_0002   3   23           /.     .             *))       -    -   -    Jeff_Greenfield.  *      *             *             *           *   -
+
+bc/cnn/00/cnn_0002   3    0         Mike   NNP    (TOP(S(NP*          -    -   -    Jeff_Greenfield.  (PERSON*   (ARG1*           *   (45
+bc/cnn/00/cnn_0002   3    1    Bloomberg   NNP             *)         -    -   -    Jeff_Greenfield.         *)       *)          *    45)
+bc/cnn/00/cnn_0002   3    2           is   VBZ          (VP*          be  01   1    Jeff_Greenfield.         *      (V*)          *     -
+bc/cnn/00/cnn_0002   3    3            a    DT       (NP(NP*          -    -   -    Jeff_Greenfield.         *   (ARG2*      (ARG0*     -
+bc/cnn/00/cnn_0002   3    4         five    CD      (NML(QP*          -    -   -    Jeff_Greenfield.   (MONEY*        *           *     -
+bc/cnn/00/cnn_0002   3    5      billion    CD             *)         -    -   -    Jeff_Greenfield.         *        *           *     -
+bc/cnn/00/cnn_0002   3    6       dollar    NN             *)         -    -   -    Jeff_Greenfield.         *)       *           *     -
+bc/cnn/00/cnn_0002   3    7          man    NN             *)        man   -   1    Jeff_Greenfield.         *        *           *)    -
+bc/cnn/00/cnn_0002   3    8          who    WP   (SBAR(WHNP*)         -    -   -    Jeff_Greenfield.         *        *    (R-ARG0*)    -
+bc/cnn/00/cnn_0002   3    9        threw   VBD        (S(VP*       throw  01   1    Jeff_Greenfield.         *        *         (V*)    -
+bc/cnn/00/cnn_0002   3   10      seventy    CD       (NP(QP*          -    -   -    Jeff_Greenfield.   (MONEY*        *      (ARG1*     -
+bc/cnn/00/cnn_0002   3   11      million    CD             *)         -    -   -    Jeff_Greenfield.         *        *           *     -
+bc/cnn/00/cnn_0002   3   12      dollars   NNS             *)         -    -   -    Jeff_Greenfield.         *)       *           *)    -
+bc/cnn/00/cnn_0002   3   13         into    IN          (PP*          -    -   -    Jeff_Greenfield.         *        *      (ARG2*     -
+bc/cnn/00/cnn_0002   3   14         this    DT          (NP*          -    -   -    Jeff_Greenfield.         *        *           *     -
+bc/cnn/00/cnn_0002   3   15     campaign    NN       *)))))))   campaign   -   1    Jeff_Greenfield.         *        *)          *)    -
+bc/cnn/00/cnn_0002   3   16           /.     .            *))         -    -   -    Jeff_Greenfield.         *        *           *     -
+
+bc/cnn/00/cnn_0002   3   0        There    EX   (TOP(S(NP*)   -    -   -    Jeff_Greenfield.           *        *   -
+bc/cnn/00/cnn_0002   3   1         were   VBD         (VP*    be  02   3    Jeff_Greenfield.           *      (V*)  -
+bc/cnn/00/cnn_0002   3   2          ads   NNS      (NP(NP*)   -    -   -    Jeff_Greenfield.           *   (ARG1*   -
+bc/cnn/00/cnn_0002   3   3           in    IN         (PP*    -    -   -    Jeff_Greenfield.           *        *   -
+bc/cnn/00/cnn_0002   3   4    Cantonese   NNP         (NP*    -    -   -    Jeff_Greenfield.   (LANGUAGE)       *   -
+bc/cnn/00/cnn_0002   3   5          and    CC            *    -    -   -    Jeff_Greenfield.           *        *   -
+bc/cnn/00/cnn_0002   3   6      Russian   NNP         *))))   -    -   -    Jeff_Greenfield.   (LANGUAGE)       *)  -
+bc/cnn/00/cnn_0002   3   7           /.     .           *))   -    -   -    Jeff_Greenfield.           *        *   -
+
+bc/cnn/00/cnn_0002   3   0           He   PRP   (TOP(S(NP*)    -    -   -    Jeff_Greenfield.  *    (ARG0*)   (45)
+bc/cnn/00/cnn_0002   3   1          won   VBD         (VP*    win  01   1    Jeff_Greenfield.  *       (V*)     -
+bc/cnn/00/cnn_0002   3   2            a    DT         (NP*     -    -   -    Jeff_Greenfield.  *    (ARG1*      -
+bc/cnn/00/cnn_0002   3   3    landslide    NN           *))    -    -   -    Jeff_Greenfield.  *         *)     -
+bc/cnn/00/cnn_0002   3   4           /.     .           *))    -    -   -    Jeff_Greenfield.  *         *      -
+
+bc/cnn/00/cnn_0002   3   0        I   PRP   (TOP(S(NP*)      -    -   -    Jeff_Greenfield.  *        (ARG0*)   (132)
+bc/cnn/00/cnn_0002   3   1      'll    MD         (VP*       -    -   -    Jeff_Greenfield.  *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   3   2    cross    VB         (VP*    cross  02   1    Jeff_Greenfield.  *           (V*)      -
+bc/cnn/00/cnn_0002   3   3      the    DT         (NP*       -    -   -    Jeff_Greenfield.  *        (ARG1*       -
+bc/cnn/00/cnn_0002   3   4    river    NN          *)))      -    -   -    Jeff_Greenfield.  *             *)      -
+bc/cnn/00/cnn_0002   3   5       /.     .           *))      -    -   -    Jeff_Greenfield.  *             *       -
+
+bc/cnn/00/cnn_0002   3    0         John   NNP  (TOP(S(NP*          -    -   -    Jeff_Greenfield.    (PERSON*   (ARG1*       (ARG0*         *         *   (23
+bc/cnn/00/cnn_0002   3    1      Corzine   NNP           *)         -    -   -    Jeff_Greenfield.           *)       *)           *)        *         *    23)
+bc/cnn/00/cnn_0002   3    2           's   VBZ     (VP(VP*          be  01   1    Jeff_Greenfield.           *      (V*)           *         *         *     -
+bc/cnn/00/cnn_0002   3    3        worth    JJ      (ADJP*          -    -   -    Jeff_Greenfield.           *   (ARG2*            *         *         *     -
+bc/cnn/00/cnn_0002   3    4        about    RB     (NP(QP*          -    -   -    Jeff_Greenfield.  (CARDINAL*        *            *         *         *     -
+bc/cnn/00/cnn_0002   3    5        three    CD           *          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3    6      hundred    CD           *          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3    7      million    CD        *))))         -    -   -    Jeff_Greenfield.           *)       *)           *         *         *     -
+bc/cnn/00/cnn_0002   3    8     defeated   VBD        (VP*      defeat  01   1    Jeff_Greenfield.           *        *          (V*)        *         *     -
+bc/cnn/00/cnn_0002   3    9         Doug   NNP     (NP(NP*          -    -   -    Jeff_Greenfield.    (PERSON*        *       (ARG1*         *         *     -
+bc/cnn/00/cnn_0002   3   10    Forrester   NNP           *)         -    -   -    Jeff_Greenfield.           *)       *            *         *         *     -
+bc/cnn/00/cnn_0002   3   11            a    DT     (NP(NP*          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   12        piker    NN           *)         -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   13         only    RB      (ADJP*          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   14        worth    JJ           *          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   15        about    RB     (NP(QP*          -    -   -    Jeff_Greenfield.     (MONEY*        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   16        fifty    CD           *          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   17      million    CD           *)         -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   18      dollars   NNS        *))))         -    -   -    Jeff_Greenfield.           *)       *            *)        *         *     -
+bc/cnn/00/cnn_0002   3   19       though    IN      (SBAR*          -    -   -    Jeff_Greenfield.           *        *   (ARGM-ADV*         *         *     -
+bc/cnn/00/cnn_0002   3   20           it   PRP      (S(NP*)         -    -   -    Jeff_Greenfield.           *        *            *    (ARG1*)        *     -
+bc/cnn/00/cnn_0002   3   21          was   VBD        (VP*          be  01   1    Jeff_Greenfield.           *        *            *       (V*)        *     -
+bc/cnn/00/cnn_0002   3   22            a    DT     (NP(NP*          -    -   -    Jeff_Greenfield.           *        *            *    (ARG2*         *     -
+bc/cnn/00/cnn_0002   3   23     combined   VBN           *     combine  01   -    Jeff_Greenfield.           *        *            *         *       (V*)    -
+bc/cnn/00/cnn_0002   3   24     campaign    NN           *)   campaign   -   1    Jeff_Greenfield.           *        *            *         *    (ARG3*)    -
+bc/cnn/00/cnn_0002   3   25           of    IN        (PP*          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   26        about    RB     (NP(QP*          -    -   -    Jeff_Greenfield.     (MONEY*        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   27        fifty    CD           *          -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   28      million    CD           *)         -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+bc/cnn/00/cnn_0002   3   29      dollars   NNS    *))))))))         -    -   -    Jeff_Greenfield.           *)       *            *)        *)        *     -
+bc/cnn/00/cnn_0002   3   30           /.     .          *))         -    -   -    Jeff_Greenfield.           *        *            *         *         *     -
+
+bc/cnn/00/cnn_0002   3    0        Mark   NNP  (TOP(S(NP(NP*        -    -   -    Jeff_Greenfield.    (PERSON*             *   (ARG0*   (58
+bc/cnn/00/cnn_0002   3    1      Warner   NNP              *)       -    -   -    Jeff_Greenfield.           *)            *        *     -
+bc/cnn/00/cnn_0002   3    2         who    WP    (SBAR(WHNP*)       -    -   -    Jeff_Greenfield.           *             *        *     -
+bc/cnn/00/cnn_0002   3    3        John   NNP         (S(NP*        -    -   -    Jeff_Greenfield.    (PERSON*        (ARG0*        *   (55
+bc/cnn/00/cnn_0002   3    4        King   NNP              *)       -    -   -    Jeff_Greenfield.           *)            *)       *    55)
+bc/cnn/00/cnn_0002   3    5        just    RB         (ADVP*)       -    -   -    Jeff_Greenfield.           *    (ARGM-ADV*)       *     -
+bc/cnn/00/cnn_0002   3    6      talked   VBD           (VP*      talk  01   1    Jeff_Greenfield.           *           (V*)       *     -
+bc/cnn/00/cnn_0002   3    7       about    IN       (PP*)))))       -    -   -    Jeff_Greenfield.           *        (ARG1*)       *)   58)
+bc/cnn/00/cnn_0002   3    8         has   VBZ           (VP*      have  03   1    Jeff_Greenfield.           *             *      (V*)    -
+bc/cnn/00/cnn_0002   3    9           a    DT        (NP(NP*        -    -   -    Jeff_Greenfield.           *             *   (ARG1*     -
+bc/cnn/00/cnn_0002   3   10    personal    JJ              *        -    -   -    Jeff_Greenfield.           *             *        *     -
+bc/cnn/00/cnn_0002   3   11      wealth    NN              *)   wealth   -   3    Jeff_Greenfield.           *             *        *     -
+bc/cnn/00/cnn_0002   3   12          of    IN           (PP*        -    -   -    Jeff_Greenfield.           *             *        *     -
+bc/cnn/00/cnn_0002   3   13         two    CD        (NP(QP*        -    -   -    Jeff_Greenfield.  (CARDINAL*             *        *     -
+bc/cnn/00/cnn_0002   3   14     hundred    CD              *        -    -   -    Jeff_Greenfield.           *             *        *     -
+bc/cnn/00/cnn_0002   3   15     million    CD          *)))))       -    -   -    Jeff_Greenfield.           *)            *        *)    -
+bc/cnn/00/cnn_0002   3   16          /.     .             *))       -    -   -    Jeff_Greenfield.           *             *        *     -
+
+bc/cnn/00/cnn_0002   3    0                and     CC         (TOP(S*        -    -   -    Jeff_Greenfield.           *               *         *           *               (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   3    1              later     RB       (NP(ADVP*)       -    -   -    Jeff_Greenfield.           *      (ARGM-TMP*         *           *               (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   3    2            tonight     NN               *)       -    -   -    Jeff_Greenfield.       (TIME)              *)        *           *                        *)      -
+bc/cnn/00/cnn_0002   3    3               when    WRB   (SBAR(WHADVP*)       -    -   -    Jeff_Greenfield.           *    (R-ARGM-TMP*)        *           *    (ARGM-TMP(R-ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   3    4                 we    PRP          (S(NP*)       -    -   -    Jeff_Greenfield.           *          (ARG1*)        *           *                        *       -
+bc/cnn/00/cnn_0002   3    5                 go    VBP            (VP*        go  02   1    Jeff_Greenfield.           *             (V*)        *           *                        *       -
+bc/cnn/00/cnn_0002   3    6                 to     IN            (PP*        -    -   -    Jeff_Greenfield.           *          (ARG4*         *           *                        *       -
+bc/cnn/00/cnn_0002   3    7         California    NNP        (NP*)))))       -    -   -    Jeff_Greenfield.        (GPE)              *)        *           *                        *)   (114)
+bc/cnn/00/cnn_0002   3    8                the     DT      (NP(NP(NP*        -    -   -    Jeff_Greenfield.           *               *    (ARG1*      (ARG0*                   (ARG0*     (81
+bc/cnn/00/cnn_0002   3    9          gentleman     NN               *)       -    -   -    Jeff_Greenfield.           *               *         *)          *                        *       -
+bc/cnn/00/cnn_0002   3   10              named    VBN            (VP*      name  01   -    Jeff_Greenfield.           *               *       (V*)          *                        *       -
+bc/cnn/00/cnn_0002   3   11    Schwartzeneggar    NNP       (S(NP*))))       -    -   -    Jeff_Greenfield.     (PERSON)              *    (ARG2*)          *)                       *       -
+bc/cnn/00/cnn_0002   3   12                who     WP     (SBAR(WHNP*)       -    -   -    Jeff_Greenfield.           *               *         *    (R-ARG0*)                       *       -
+bc/cnn/00/cnn_0002   3   13                has    VBZ          (S(VP*      have  03   1    Jeff_Greenfield.           *               *         *         (V*)                       *       -
+bc/cnn/00/cnn_0002   3   14              about     RB         (NP(QP*        -    -   -    Jeff_Greenfield.     (MONEY*               *         *      (ARG1*                        *       -
+bc/cnn/00/cnn_0002   3   15                  a     DT               *        -    -   -    Jeff_Greenfield.           *               *         *           *                        *       -
+bc/cnn/00/cnn_0002   3   16            hundred     CD               *        -    -   -    Jeff_Greenfield.           *               *         *           *                        *       -
+bc/cnn/00/cnn_0002   3   17            million     CD               *)       -    -   -    Jeff_Greenfield.           *               *         *           *                        *       -
+bc/cnn/00/cnn_0002   3   18            dollars    NNS           *)))))       -    -   -    Jeff_Greenfield.           *)              *         *           *)                       *)     81)
+bc/cnn/00/cnn_0002   3   19              threw    VBD            (VP*     throw  01   1    Jeff_Greenfield.           *               *         *           *                      (V*)      -
+bc/cnn/00/cnn_0002   3   20           millions    NNS            (NP*)       -    -   -    Jeff_Greenfield.   (CARDINAL)              *         *           *                   (ARG1*)      -
+bc/cnn/00/cnn_0002   3   21               into     IN            (PP*        -    -   -    Jeff_Greenfield.           *               *         *           *                   (ARG2*       -
+bc/cnn/00/cnn_0002   3   22                his   PRP$         (NP(NP*        -    -   -    Jeff_Greenfield.           *               *         *           *                        *     (81)
+bc/cnn/00/cnn_0002   3   23                big     JJ               *        -    -   -    Jeff_Greenfield.           *               *         *           *                        *       -
+bc/cnn/00/cnn_0002   3   24         successful     JJ               *        -    -   -    Jeff_Greenfield.           *               *         *           *                        *       -
+bc/cnn/00/cnn_0002   3   25             effort     NN               *)   effort   -   1    Jeff_Greenfield.           *               *         *           *                        *       -
+bc/cnn/00/cnn_0002   3   26                 at     IN            (PP*        -    -   -    Jeff_Greenfield.           *               *         *           *                        *       -
+bc/cnn/00/cnn_0002   3   27           governor     NN        (NP*)))))       -    -   -    Jeff_Greenfield.           *               *         *           *                        *)      -
+bc/cnn/00/cnn_0002   3   28                 /.      .              *))       -    -   -    Jeff_Greenfield.           *               *         *           *                        *       -
+
+bc/cnn/00/cnn_0002   3    0          But     CC           (TOP(SQ*      -    -   -    Anderson_Cooper       *    (ARGM-DIS*)     *            *      *            *      -
+bc/cnn/00/cnn_0002   3    1          can     MD                  *      -    -   -    Anderson_Cooper       *    (ARGM-MOD*)     *            *      *            *      -
+bc/cnn/00/cnn_0002   3    2          the     DT               (NP*      -    -   -    Anderson_Cooper       *        (ARG0*      *            *      *            *   (155
+bc/cnn/00/cnn_0002   3    3    democrats   NNPS                  *)     -    -   -    Anderson_Cooper   (NORP)            *)     *            *      *            *    155)
+bc/cnn/00/cnn_0002   3    4       really     RB             (ADVP*)     -    -   -    Anderson_Cooper       *    (ARGM-ADV*)     *            *      *            *      -
+bc/cnn/00/cnn_0002   3    5         crow     VB               (VP*    crow  01   1    Anderson_Cooper       *           (V*)     *            *      *            *      -
+bc/cnn/00/cnn_0002   3    6        about     IN               (PP*      -    -   -    Anderson_Cooper       *        (ARG1*      *            *      *            *      -
+bc/cnn/00/cnn_0002   3    7         what     WP   (SBAR(SBAR(WHNP*)     -    -   -    Anderson_Cooper       *             *      *       (ARG1*)     *            *      -
+bc/cnn/00/cnn_0002   3    8           's    VBZ             (S(VP*      be  03   9    Anderson_Cooper       *             *    (V*)           *      *            *      -
+bc/cnn/00/cnn_0002   3    9        going    VBG               (VP*      go  15   5    Anderson_Cooper       *             *      *          (V*)     *            *      -
+bc/cnn/00/cnn_0002   3   10           on     RP              (PRT*)     -    -   -    Anderson_Cooper       *             *      *            *      *            *      -
+bc/cnn/00/cnn_0002   3   11           in     IN               (PP*      -    -   -    Anderson_Cooper       *             *      *   (ARGM-LOC*      *            *      -
+bc/cnn/00/cnn_0002   3   12     Virginia    NNP          (NP*))))))     -    -   -    Anderson_Cooper    (GPE)            *      *            *)     *            *     (6)
+bc/cnn/00/cnn_0002   3   13          and     CC                  *      -    -   -    Anderson_Cooper       *             *      *            *      *            *      -
+bc/cnn/00/cnn_0002   3   14         what     WP        (SBAR(WHNP*)     -    -   -    Anderson_Cooper       *             *      *            *      *       (ARG1*)     -
+bc/cnn/00/cnn_0002   3   15           's    VBZ             (S(VP*      be  03   9    Anderson_Cooper       *             *      *            *    (V*)           *      -
+bc/cnn/00/cnn_0002   3   16        going    VBG               (VP*      go  06   5    Anderson_Cooper       *             *      *            *      *          (V*)     -
+bc/cnn/00/cnn_0002   3   17           in     IN               (PP*      -    -   -    Anderson_Cooper       *             *      *            *      *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0002   3   18          New    NNP               (NP*      -    -   -    Anderson_Cooper   (GPE*             *      *            *      *            *   (118
+bc/cnn/00/cnn_0002   3   19       Jersey    NNP          *)))))))))     -    -   -    Anderson_Cooper       *)            *)     *            *      *            *)   118)
+bc/cnn/00/cnn_0002   3   20           /?      .                 *))     -    -   -    Anderson_Cooper       *             *      *            *      *            *      -
+
+bc/cnn/00/cnn_0002   3   0    Well    UH   (TOP(S(INTJ*)  -   -   -    Jeff_Greenfield.  *       -
+bc/cnn/00/cnn_0002   3   1    they   PRP           (NP*)  -   -   -    Jeff_Greenfield.  *    (155)
+bc/cnn/00/cnn_0002   3   2    will    MD           (VP*)  -   -   -    Jeff_Greenfield.  *       -
+bc/cnn/00/cnn_0002   3   3      /.     .             *))  -   -   -    Jeff_Greenfield.  *       -
+
+bc/cnn/00/cnn_0002   3   0              um    UH   (TOP(S(INTJ*)    -    -   -    Jeff_Greenfield.      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   3   1             and    CC              *     -    -   -    Jeff_Greenfield.      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   3   2            they   PRP           (NP*)    -    -   -    Jeff_Greenfield.      *        (ARG0*)   (155)
+bc/cnn/00/cnn_0002   3   3             won   VBD           (VP*    win  01   1    Jeff_Greenfield.      *           (V*)      -
+bc/cnn/00/cnn_0002   3   4              uh    UH         (INTJ*)    -    -   -    Jeff_Greenfield.      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   3   5             and    CC          (NAC*     -    -   -    Jeff_Greenfield.      *    (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   3   6              in    IN      (FRAG(PP*     -    -   -    Jeff_Greenfield.      *             *       -
+bc/cnn/00/cnn_0002   3   7        Virginia   NNP          (NP*))    -    -   -    Jeff_Greenfield.   (GPE)            *      (6)
+bc/cnn/00/cnn_0002   3   8    particularly    RB      (ADVP*))))    -    -   -    Jeff_Greenfield.      *             *)      -
+bc/cnn/00/cnn_0002   3   9              /.     .             *))    -    -   -    Jeff_Greenfield.      *             *       -
+
+bc/cnn/00/cnn_0002   3    0      Virginia   NNP     (TOP(S(NP*)      -    -    -    Jeff_Greenfield.       (GPE)   (ARG1*)        *    (6)
+bc/cnn/00/cnn_0002   3    1           was   VBD           (VP*       be  01    2    Jeff_Greenfield.          *       (V*)        *     -
+bc/cnn/00/cnn_0002   3    2           one    CD     (NP(NP(NP*)      -    -    -    Jeff_Greenfield.          *    (ARG2*    (ARG1*     -
+bc/cnn/00/cnn_0002   3    3            of    IN           (PP*       -    -    -    Jeff_Greenfield.          *         *         *     -
+bc/cnn/00/cnn_0002   3    4           the    DT           (NP*       -    -    -    Jeff_Greenfield.          *         *         *     -
+bc/cnn/00/cnn_0002   3    5         first    JJ              *       -    -    -    Jeff_Greenfield.   (ORDINAL)        *         *     -
+bc/cnn/00/cnn_0002   3    6      southern    JJ              *       -    -    -    Jeff_Greenfield.          *         *         *     -
+bc/cnn/00/cnn_0002   3    7        states   NNS            *)))   state   -    2    Jeff_Greenfield.          *         *         *)    -
+bc/cnn/00/cnn_0002   3    8            to    TO    (SBAR(S(VP*       -    -    -    Jeff_Greenfield.          *         *         *     -
+bc/cnn/00/cnn_0002   3    9            go    VB           (VP*       go  08   13    Jeff_Greenfield.          *         *       (V*)    -
+bc/cnn/00/cnn_0002   3   10    republican    JJ   (ADJP*)))))))      -    -    -    Jeff_Greenfield.          *         *)   (ARG2*)    -
+bc/cnn/00/cnn_0002   3   11            /.     .             *))      -    -    -    Jeff_Greenfield.          *         *         *     -
+
+bc/cnn/00/cnn_0002   3   0           I   PRP    (TOP(S(NP*)      -    -   -    Jeff_Greenfield.         *    (ARG0*)           *    (132)
+bc/cnn/00/cnn_0002   3   1       think   VBP          (VP*    think  01   2    Jeff_Greenfield.         *       (V*)           *       -
+bc/cnn/00/cnn_0002   3   2       Nixon   NNP   (SBAR(S(NP*)      -    -   -    Jeff_Greenfield.   (PERSON)   (ARG1*       (ARG0*)      -
+bc/cnn/00/cnn_0002   3   3     carried   VBD          (VP*    carry  01   4    Jeff_Greenfield.         *         *          (V*)      -
+bc/cnn/00/cnn_0002   3   4          it   PRP          (NP*)      -    -   -    Jeff_Greenfield.         *         *       (ARG1*)     (6)
+bc/cnn/00/cnn_0002   3   5          in    IN          (PP*       -    -   -    Jeff_Greenfield.         *         *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   3   6    nineteen    CD          (NP*       -    -   -    Jeff_Greenfield.    (DATE*         *            *       -
+bc/cnn/00/cnn_0002   3   7       sixty    CD        *))))))      -    -   -    Jeff_Greenfield.         *)        *)           *)      -
+bc/cnn/00/cnn_0002   3   8          /.     .            *))      -    -   -    Jeff_Greenfield.         *         *            *       -
+
+bc/cnn/00/cnn_0002   3    0             It   PRP      (TOP(S(NP*)        -    -   -    Jeff_Greenfield.         *       (ARG1*)            *         *         *       -
+bc/cnn/00/cnn_0002   3    1             is   VBZ            (VP*         be  01   1    Jeff_Greenfield.         *          (V*)            *         *         *       -
+bc/cnn/00/cnn_0002   3    2    significant    JJ          (ADJP*)        -    -   -    Jeff_Greenfield.         *       (ARG2*)            *         *         *       -
+bc/cnn/00/cnn_0002   3    3           when   WRB   (SBAR(WHADVP*)        -    -   -    Jeff_Greenfield.         *   (ARGM-TMP*    (ARGM-TMP*)        *         *       -
+bc/cnn/00/cnn_0002   3    4              a    DT          (S(NP*         -    -   -    Jeff_Greenfield.         *            *        (ARG0*         *         *       -
+bc/cnn/00/cnn_0002   3    5       democrat   NNP               *)        -    -   -    Jeff_Greenfield.     (NORP)           *             *)        *         *       -
+bc/cnn/00/cnn_0002   3    6       succeeds   VBZ            (VP*    succeed  02   2    Jeff_Greenfield.         *            *           (V*)        *         *    (199)
+bc/cnn/00/cnn_0002   3    7              a    DT            (NP*         -    -   -    Jeff_Greenfield.         *            *        (ARG1*         *         *       -
+bc/cnn/00/cnn_0002   3    8       democrat   NNP               *)        -    -   -    Jeff_Greenfield.     (NORP)           *             *)        *         *       -
+bc/cnn/00/cnn_0002   3    9            not    RB     (SBAR(ADVP*         -    -   -    Jeff_Greenfield.         *            *    (ARGM-CAU*         *         *       -
+bc/cnn/00/cnn_0002   3   10           just    RB               *)        -    -   -    Jeff_Greenfield.         *            *             *         *         *       -
+bc/cnn/00/cnn_0002   3   11        because    IN               *         -    -   -    Jeff_Greenfield.         *            *             *         *         *       -
+bc/cnn/00/cnn_0002   3   12             it   PRP        (S(S(NP*)        -    -   -    Jeff_Greenfield.         *            *             *    (ARG0*)        *    (199)
+bc/cnn/00/cnn_0002   3   13          gives   VBZ            (VP*       give  01   4    Jeff_Greenfield.         *            *             *       (V*)        *       -
+bc/cnn/00/cnn_0002   3   14           Mark   NNP            (NP*         -    -   -    Jeff_Greenfield.  (PERSON*            *             *    (ARG2*         *     (58
+bc/cnn/00/cnn_0002   3   15         Warner   NNP               *)        -    -   -    Jeff_Greenfield.         *)           *             *         *)        *      58)
+bc/cnn/00/cnn_0002   3   16        talking    NN            (NP*       talk   -   -    Jeff_Greenfield.         *            *             *    (ARG1*         *       -
+bc/cnn/00/cnn_0002   3   17         points   NNS             *)))     point   -   4    Jeff_Greenfield.         *            *             *         *)        *       -
+bc/cnn/00/cnn_0002   3   18            but    CC               *         -    -   -    Jeff_Greenfield.         *            *             *         *         *       -
+bc/cnn/00/cnn_0002   3   19             it   PRP          (S(NP*)        -    -   -    Jeff_Greenfield.         *            *             *         *    (ARG1*)     (6)
+bc/cnn/00/cnn_0002   3   20             is   VBZ            (VP*         be  01   1    Jeff_Greenfield.         *            *             *         *       (V*)      -
+bc/cnn/00/cnn_0002   3   21              a    DT            (NP*         -    -   -    Jeff_Greenfield.         *            *             *         *    (ARG2*       -
+bc/cnn/00/cnn_0002   3   22        crimson    JJ          (ADJP*         -    -   -    Jeff_Greenfield.         *            *             *         *         *       -
+bc/cnn/00/cnn_0002   3   23            red    JJ               *)        -    -   -    Jeff_Greenfield.         *            *             *         *         *       -
+bc/cnn/00/cnn_0002   3   24          state    NN       *)))))))))     state   -   2    Jeff_Greenfield.         *            *)            *)        *         *)      -
+bc/cnn/00/cnn_0002   3   25             /.     .              *))        -    -   -    Jeff_Greenfield.         *            *             *         *         *       -
+
+bc/cnn/00/cnn_0002   3   0      Do   VBP      (TOP(SQ*      do  01   -    Jeff_Greenfield.  *    (V*)        *         *       -
+bc/cnn/00/cnn_0002   3   1      we   PRP          (NP*)     -    -   -    Jeff_Greenfield.  *      *    (ARG0*)   (ARG0*)      -
+bc/cnn/00/cnn_0002   3   2    want    VB          (VP*    want  01   1    Jeff_Greenfield.  *      *       (V*)        *       -
+bc/cnn/00/cnn_0002   3   3      to    TO        (S(VP*      -    -   -    Jeff_Greenfield.  *      *    (ARG1*         *       -
+bc/cnn/00/cnn_0002   3   4    make    VB          (VP*    make  01   5    Jeff_Greenfield.  *      *         *       (V*)      -
+bc/cnn/00/cnn_0002   3   5     too    RB  (NP(NP(ADJP*      -    -   -    Jeff_Greenfield.  *      *         *    (ARG1*       -
+bc/cnn/00/cnn_0002   3   6    much    JJ            *))     -    -   -    Jeff_Greenfield.  *      *         *         *       -
+bc/cnn/00/cnn_0002   3   7      of    IN          (PP*      -    -   -    Jeff_Greenfield.  *      *         *         *       -
+bc/cnn/00/cnn_0002   3   8      it   PRP    (NP*)))))))     -    -   -    Jeff_Greenfield.  *      *         *)        *)   (199)
+bc/cnn/00/cnn_0002   3   9      /?     .            *))     -    -   -    Jeff_Greenfield.  *      *         *         *       -
+
+bc/cnn/00/cnn_0002   3   0     No    UH   (TOP(S(INTJ*)   -    -   -    Jeff_Greenfield.  *      *   -
+bc/cnn/00/cnn_0002   3   1     we   PRP           (NP*)   -    -   -    Jeff_Greenfield.  *      *   -
+bc/cnn/00/cnn_0002   3   2     do   VBP           (VP*    do  01   -    Jeff_Greenfield.  *    (V*)  -
+bc/cnn/00/cnn_0002   3   3    n't    RB              *)   -    -   -    Jeff_Greenfield.  *      *   -
+bc/cnn/00/cnn_0002   3   4     /.     .             *))   -    -   -    Jeff_Greenfield.  *      *   -
+
+bc/cnn/00/cnn_0002   3    0               John   NNP  (TOP(S(NP*        -    -   -    Anderson_Cooper  (PERSON*    (ARGM-DIS*   (55
+bc/cnn/00/cnn_0002   3    1               King   NNP           *)       -    -   -    Anderson_Cooper         *)            *)   55)
+bc/cnn/00/cnn_0002   3    2                 uh    UH      (INTJ*)       -    -   -    Anderson_Cooper         *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0002   3    3             Arnold   NNP        (NP*        -    -   -    Anderson_Cooper  (PERSON*        (ARG1*   (81
+bc/cnn/00/cnn_0002   3    4    Schwartzeneggar   NNP           *)       -    -   -    Anderson_Cooper         *)            *)   81)
+bc/cnn/00/cnn_0002   3    5                 's   VBZ        (VP*        be  01   1    Anderson_Cooper         *           (V*)    -
+bc/cnn/00/cnn_0002   3    6                not    RB           *        -    -   -    Anderson_Cooper         *    (ARGM-NEG*)    -
+bc/cnn/00/cnn_0002   3    7                 on    IN        (PP*        -    -   -    Anderson_Cooper         *    (ARGM-LOC*     -
+bc/cnn/00/cnn_0002   3    8                the    DT        (NP*        -    -   -    Anderson_Cooper         *             *     -
+bc/cnn/00/cnn_0002   3    9             ballot    NN         *)))   ballot   -   -    Anderson_Cooper         *             *)    -
+bc/cnn/00/cnn_0002   3   10                 /.     .          *))       -    -   -    Anderson_Cooper         *             *     -
+
+bc/cnn/00/cnn_0002   3    0            but     CC       (TOP(S*            -    -   -    Anderson_Cooper  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   3    1             eh     UH        (INTJ*)           -    -   -    Anderson_Cooper  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   3    2           some     DT       (NP(NP*)           -    -   -    Anderson_Cooper  *        (ARG0*      -
+bc/cnn/00/cnn_0002   3    3             of     IN          (PP*            -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   3    4            his   PRP$          (NP*            -    -   -    Anderson_Cooper  *             *    (81)
+bc/cnn/00/cnn_0002   3    5        critics    NNS           *)))           -    -   -    Anderson_Cooper  *             *)     -
+bc/cnn/00/cnn_0002   3    6            say    VBP          (VP*           say  01   1    Anderson_Cooper  *           (V*)     -
+bc/cnn/00/cnn_0002   3    7             he    PRP   (SBAR(X(NP*)           -    -   -    Anderson_Cooper  *        (ARG1*    (81)
+bc/cnn/00/cnn_0002   3    8         really     RB        (ADVP*)           -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   3    9           with     IN          (PP*            -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   3   10           some     DT       (NP(NP*)           -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   3   11             of     IN          (PP*            -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   3   12          these     DT          (NP*            -    -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   3   13         ballot     NN             *        ballot   -   -    Anderson_Cooper  *             *      -
+bc/cnn/00/cnn_0002   3   14    initiatives    NNS       *)))))))   initiative   -   3    Anderson_Cooper  *             *)     -
+bc/cnn/00/cnn_0002   3   15             /.      .            *))           -    -   -    Anderson_Cooper  *             *      -
+
+bc/cnn/00/cnn_0002   3   0       Uh    UH   (TOP(SBARQ(INTJ*)      -    -   -    Anderson_Cooper  *      *             *     -
+bc/cnn/00/cnn_0002   3   1     when   WRB           (WHADVP*)      -    -   -    Anderson_Cooper  *      *    (ARGM-TMP*)    -
+bc/cnn/00/cnn_0002   3   2       do   VBP               (SQ*       do  01   -    Anderson_Cooper  *    (V*)            *     -
+bc/cnn/00/cnn_0002   3   3      the    DT               (NP*       -    -   -    Anderson_Cooper  *      *        (ARG0*   (72
+bc/cnn/00/cnn_0002   3   4    polls   NNS                  *)    poll   -   -    Anderson_Cooper  *      *             *)   72)
+bc/cnn/00/cnn_0002   3   5    close    VB               (VP*    close  01   1    Anderson_Cooper  *      *           (V*)    -
+bc/cnn/00/cnn_0002   3   6    there    RB           (ADVP*)))      -    -   -    Anderson_Cooper  *      *    (ARGM-LOC*)    -
+bc/cnn/00/cnn_0002   3   7       /?     .                 *))      -    -   -    Anderson_Cooper  *      *             *     -
+
+bc/cnn/00/cnn_0002   3   0           The    DT  (TOP(S(NP*       -    -   -    John_King       *       (ARG1*     (72
+bc/cnn/00/cnn_0002   3   1         polls   NNS           *)    poll   -   -    John_King       *            *)     72)
+bc/cnn/00/cnn_0002   3   2         close   VBP        (VP*    close  01   1    John_King       *          (V*)      -
+bc/cnn/00/cnn_0002   3   3        eleven    CD     (NP(NP*       -    -   -    John_King  (TIME*   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   3   4       o'clock    NN           *)      -    -   -    John_King       *            *       -
+bc/cnn/00/cnn_0002   3   5       eastern    JJ       (NP*))      -    -   -    John_King       *)           *)      -
+bc/cnn/00/cnn_0002   3   6           out    RP        (PP*       -    -   -    John_King       *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   3   7            in    IN           *       -    -   -    John_King       *            *       -
+bc/cnn/00/cnn_0002   3   8    California   NNP      (NP*)))      -    -   -    John_King    (GPE)           *)   (114)
+bc/cnn/00/cnn_0002   3   9            /.     .          *))      -    -   -    John_King       *            *       -
+
+bc/cnn/00/cnn_0002   3    0            and    CC             (TOP(S*           -    -   -    John_King         *    (ARGM-DIS*)            *             *        *    (ARGM-DIS*)            *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    1             to    TO              (S(VP*           -    -   -    John_King         *             *             *             *        *    (ARGM-CAU*             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    2         follow    VB                (VP*       follow  03   6    John_King         *           (V*)            *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    3             up    RP               (PRT*)          -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    4             on    IN                (PP*           -    -   -    John_King         *        (ARG1*             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    5            the    DT             (NP(NP*           -    -   -    John_King         *             *        (ARG1*             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    6          point    NN                   *)       point   -   4    John_King         *             *             *)            *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    7           Jeff   NNP         (SBAR(S(NP*)          -    -   -    John_King   (PERSON)            *        (ARG0*)            *        *             *             *        *      *        *        *         *    (132)
+bc/cnn/00/cnn_0002   3    8           just    RB              (ADVP*)          -    -   -    John_King         *             *    (ARGM-ADV*)            *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3    9           made   VBD              (VP*)))        make  01   2    John_King         *             *           (V*)            *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   10          about    IN                (PP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   11        perhaps    RB            (S(ADVP*)          -    -   -    John_King         *             *             *    (ARGM-ADV*)       *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   12            not    RB                (VP*           -    -   -    John_King         *             *             *    (ARGM-NEG*)       *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   13    overstating   VBG                   *    overstate  01   1    John_King         *             *             *           (V*)       *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   14            the    DT             (NP(NP*           -    -   -    John_King         *             *             *        (ARG1*        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   15         impact    NN                   *)      impact  01   2    John_King         *             *             *             *      (V*)            *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   16            for    IN                (PP*           -    -   -    John_King         *             *             *             *   (ARG1*             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   17            the    DT                (NP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *    (154
+bc/cnn/00/cnn_0002   3   18      president    NN         *)))))))))))   president   -   3    John_King         *             *)            *             *)       *)            *)            *        *      *        *        *         *     154)
+bc/cnn/00/cnn_0002   3   19              I   PRP                (NP*)          -    -   -    John_King         *             *             *             *        *        (ARG0*)            *        *      *        *        *         *     (55)
+bc/cnn/00/cnn_0002   3   20          think   VBP                (VP*        think  01   1    John_King         *             *             *             *        *           (V*)            *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   21            one    CD      (SBAR(S(NP(NP*)          -    -   -    John_King         *             *             *             *        *        (ARG1*             *   (ARG1*      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   22             of    IN                (PP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   23            the    DT             (NP(NP*           -    -   -    John_King         *             *             *             *        *             *        (ARG1*        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   24         things   NNS                   *)       thing   -   1    John_King         *             *             *             *        *             *             *)       *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   25             we   PRP         (SBAR(S(NP*)          -    -   -    John_King         *             *             *             *        *             *        (ARG0*)       *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   26           will    MD                (VP*           -    -   -    John_King         *             *             *             *        *             *    (ARGM-MOD*)       *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   27          watch    VB                (VP*        watch  01   2    John_King         *             *             *             *        *             *           (V*)       *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   28        closely    RB              (ADVP*)          -    -   -    John_King         *             *             *             *        *             *    (ARGM-MNR*)       *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   29        tonight    NN         (NP*))))))))          -    -   -    John_King     (TIME)            *             *             *        *             *    (ARGM-TMP*)       *)     *        *        *         *     (83)
+bc/cnn/00/cnn_0002   3   30             is   VBZ                (VP*           be  01   1    John_King         *             *             *             *        *             *             *      (V*)     *        *        *         *       -
+bc/cnn/00/cnn_0002   3   31           that    IN              (SBAR*           -    -   -    John_King         *             *             *             *        *             *             *   (ARG2*      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   32           some    DT           (S(NP(NP*)          -    -   -    John_King         *             *             *             *        *             *             *        *      *   (ARG0*        *         *       -
+bc/cnn/00/cnn_0002   3   33             of    IN                (PP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   34            the    DT                (NP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   35          polls   NNS                 *)))        poll   -   -    John_King         *             *             *             *        *             *             *        *      *        *)       *         *       -
+bc/cnn/00/cnn_0002   3   36            are   VBP                (VP*           be  03   -    John_King         *             *             *             *        *             *             *        *    (V*)       *        *         *       -
+bc/cnn/00/cnn_0002   3   37        showing   VBG                (VP*         show  01   1    John_King         *             *             *             *        *             *             *        *      *      (V*)       *         *       -
+bc/cnn/00/cnn_0002   3   38           that    IN              (SBAR*           -    -   -    John_King         *             *             *             *        *             *             *        *      *   (ARG1*        *         *       -
+bc/cnn/00/cnn_0002   3   39            the    DT              (S(NP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *   (ARG1*         *       -
+bc/cnn/00/cnn_0002   3   40       American    JJ                   *           -    -   -    John_King     (NORP)            *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   41         people   NNS                   *)      people   -   2    John_King         *             *             *             *        *             *             *        *      *        *        *)        *       -
+bc/cnn/00/cnn_0002   3   42            are   VBP                (VP*           be  01   1    John_King         *             *             *             *        *             *             *        *      *        *      (V*)        *    (190)
+bc/cnn/00/cnn_0002   3   43              a    DT      (ADJP(ADJP(NP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *   (ARG2*         *       -
+bc/cnn/00/cnn_0002   3   44            bit    NN                   *)        bite   -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   45          testy    JJ                   *)          -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   46          shall    MD          (PRN(SINV*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   47             we   PRP                (NP*)          -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *    (ARG0*)      -
+bc/cnn/00/cnn_0002   3   48            say    VB              (VP*)))         say  01   3    John_King         *             *             *             *        *             *             *        *      *        *        *       (V*)      -
+bc/cnn/00/cnn_0002   3   49             um    UH              (INTJ*)          -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   50            not    RB              (ADJP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   51        patient    JJ                   *           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   52        anymore    RB              (ADVP*)          -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   53           with    IN                (PP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   54            all    DT             (NP(NP*)          -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   55             of    IN                (PP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   56            the    DT                (NP*           -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+bc/cnn/00/cnn_0002   3   57    politicians   NNS   *)))))))))))))))))          -    -   -    John_King         *             *             *             *        *             *)            *        *)     *        *)       *)        *       -
+bc/cnn/00/cnn_0002   3   58             /.     .                  *))          -    -   -    John_King         *             *             *             *        *             *             *        *      *        *        *         *       -
+
+bc/cnn/00/cnn_0002   3    0            And     CC     (TOP(S*         -    -    -    John_King      *    (ARGM-DIS*)           *         *       -
+bc/cnn/00/cnn_0002   3    1           that     DT        (NP*)        -    -    -    John_King      *        (ARG2*)           *         *    (190)
+bc/cnn/00/cnn_0002   3    2             of     IN        (PP*         -    -    -    John_King      *    (ARGM-DIS*            *         *       -
+bc/cnn/00/cnn_0002   3    3         course     NN       (NP*))    course   -   13    John_King      *             *)           *         *       -
+bc/cnn/00/cnn_0002   3    4          would     MD        (VP*         -    -    -    John_King      *    (ARGM-MOD*)           *         *       -
+bc/cnn/00/cnn_0002   3    5         affect     VB        (VP*     affect  01    1    John_King      *           (V*)           *         *     (34)
+bc/cnn/00/cnn_0002   3    6            the     DT        (NP*         -    -    -    John_King      *        (ARG1*            *         *     (75
+bc/cnn/00/cnn_0002   3    7    republicans   NNPS           *)        -    -    -    John_King      *             *)           *         *      75)
+bc/cnn/00/cnn_0002   3    8           more    RBR      (ADVP*)        -    -    -    John_King      *    (ARGM-EXT*)           *         *       -
+bc/cnn/00/cnn_0002   3    9        because     IN      (SBAR*         -    -    -    John_King      *    (ARGM-CAU*            *         *       -
+bc/cnn/00/cnn_0002   3   10           they    PRP      (S(NP*)        -    -    -    John_King      *             *       (ARG1*)   (ARG0*)    (75)
+bc/cnn/00/cnn_0002   3   11            are    VBP        (VP*         be  01    1    John_King      *             *          (V*)        *       -
+bc/cnn/00/cnn_0002   3   12             in     IN        (PP*         -    -    -    John_King      *             *       (ARG2*         *       -
+bc/cnn/00/cnn_0002   3   13          power     NN       (NP*))     power   -    1    John_King      *             *            *)        *       -
+bc/cnn/00/cnn_0002   3   14             in     IN        (PP*         -    -    -    John_King      *             *   (ARGM-LOC*         *       -
+bc/cnn/00/cnn_0002   3   15     Washington    NNP       (NP*))        -    -    -    John_King   (GPE)            *            *)        *       -
+bc/cnn/00/cnn_0002   3   16    controlling    VBG      (S(VP*    control  01    1    John_King      *             *   (ARGM-ADV*       (V*)      -
+bc/cnn/00/cnn_0002   3   17            the     DT     (NP(NP*         -    -    -    John_King      *             *            *    (ARG1*       -
+bc/cnn/00/cnn_0002   3   18     presidency     NN           *)        -    -    -    John_King      *             *            *         *       -
+bc/cnn/00/cnn_0002   3   19            and     CC           *         -    -    -    John_King      *             *            *         *       -
+bc/cnn/00/cnn_0002   3   20            the     DT        (NP*         -    -    -    John_King      *             *            *         *       -
+bc/cnn/00/cnn_0002   3   21       Congress    NNP   *)))))))))        -    -    -    John_King   (ORG)            *)           *)        *)      -
+bc/cnn/00/cnn_0002   3   22             /.      .          *))        -    -    -    John_King      *             *            *         *       -
+
+bc/cnn/00/cnn_0002   3    0            Whether    IN  (TOP(S(SBAR*      -    -   -    John_King         *            *        (ARG1*       -
+bc/cnn/00/cnn_0002   3    1               they   PRP        (S(NP*)     -    -   -    John_King         *       (ARG0*)            *       -
+bc/cnn/00/cnn_0002   3    2               take   VBP          (VP*    take  26   1    John_King         *          (V*)            *       -
+bc/cnn/00/cnn_0002   3    3                 it   PRP          (NP*)     -    -   -    John_King         *       (ARG1*)            *    (190)
+bc/cnn/00/cnn_0002   3    4                out    RP         (PRT*)     -    -   -    John_King         *            *             *       -
+bc/cnn/00/cnn_0002   3    5                 on    IN          (PP*      -    -   -    John_King         *       (ARG2*             *       -
+bc/cnn/00/cnn_0002   3    6           Governor   NNP          (NP*      -    -   -    John_King         *            *             *     (81
+bc/cnn/00/cnn_0002   3    7    Schwartzeneggar   NNP            *))     -    -   -    John_King   (PERSON)           *)            *      81)
+bc/cnn/00/cnn_0002   3    8                 in    IN          (PP*      -    -   -    John_King         *   (ARGM-LOC*             *       -
+bc/cnn/00/cnn_0002   3    9         California   NNP      (NP*)))))     -    -   -    John_King      (GPE)           *)            *)   (114)
+bc/cnn/00/cnn_0002   3   10              could    MD          (VP*      -    -   -    John_King         *            *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   3   11                 be    VB          (VP*      be  01   2    John_King         *            *           (V*)      -
+bc/cnn/00/cnn_0002   3   12            another    DT       (NP(NP*      -    -   -    John_King         *            *        (ARG2*       -
+bc/cnn/00/cnn_0002   3   13               test    NN             *)   test   -   2    John_King         *            *             *       -
+bc/cnn/00/cnn_0002   3   14                 of    IN          (PP*      -    -   -    John_King         *            *             *       -
+bc/cnn/00/cnn_0002   3   15               that    DT        (NP*)))     -    -   -    John_King         *            *             *)    (34)
+bc/cnn/00/cnn_0002   3   16                 as    RB        (ADVP*      -    -   -    John_King         *            *    (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   3   17               well    RB           *)))     -    -   -    John_King         *            *             *)      -
+bc/cnn/00/cnn_0002   3   18                 /.     .            *))     -    -   -    John_King         *            *             *       -
+
+bc/cnn/00/cnn_0002   3   0    Jeff   NNP   (TOP(FRAG(NP*)  -   -   -    Anderson_Cooper  *    (132)
+bc/cnn/00/cnn_0002   3   1      /.     .              *))  -   -   -    Anderson_Cooper  *       -
+
+bc/cnn/00/cnn_0002   3   0      One   CD  (TOP(NP*       -   -   -    Jeff_Greenfield.   (CARDINAL)  -
+bc/cnn/00/cnn_0002   3   1    quick   JJ         *       -   -   -    Jeff_Greenfield.           *   -
+bc/cnn/00/cnn_0002   3   2    point   NN         *    point  -   4    Jeff_Greenfield.           *   -
+bc/cnn/00/cnn_0002   3   3       /.    .        *))      -   -   -    Jeff_Greenfield.           *   -
+
+bc/cnn/00/cnn_0002   3    0              the    DT  (TOP(S(NP(NP(NP*          -    -   -    Jeff_Greenfield.       *       (ARG1*      *        (ARG1*       (179
+bc/cnn/00/cnn_0002   3    1         election    NN                 *)   election   -   1    Jeff_Greenfield.       *            *)     *             *          -
+bc/cnn/00/cnn_0002   3    2             that   WDT       (SBAR(WHNP*)         -    -   -    Jeff_Greenfield.       *     (R-ARG1*)     *             *          -
+bc/cnn/00/cnn_0002   3    3         mattered   VBD            (S(VP*      matter  01   1    Jeff_Greenfield.       *          (V*)     *             *          -
+bc/cnn/00/cnn_0002   3    4              for    IN              (PP*          -    -   -    Jeff_Greenfield.       *   (ARGM-TMP*      *             *          -
+bc/cnn/00/cnn_0002   3    5             next    JJ              (NP*          -    -   -    Jeff_Greenfield.  (DATE*            *      *             *        (27
+bc/cnn/00/cnn_0002   3    6             year    NN           *)))))))         -    -   -    Jeff_Greenfield.       *)           *)     *             *)   179)|27)
+bc/cnn/00/cnn_0002   3    7              has   VBZ              (VP*        have  01   -    Jeff_Greenfield.       *            *    (V*)            *          -
+bc/cnn/00/cnn_0002   3    8          already    RB            (ADVP*)         -    -   -    Jeff_Greenfield.       *            *      *    (ARGM-TMP*)         -
+bc/cnn/00/cnn_0002   3    9         happened   VBN              (VP*      happen  01   1    Jeff_Greenfield.       *            *      *           (V*)         -
+bc/cnn/00/cnn_0002   3   10             that    DT           (NP(NP*          -    -   -    Jeff_Greenfield.       *            *      *      (C-ARG1*       (179
+bc/cnn/00/cnn_0002   3   11          special    JJ                 *          -    -   -    Jeff_Greenfield.       *            *      *             *          -
+bc/cnn/00/cnn_0002   3   12         election    NN                 *)   election   -   1    Jeff_Greenfield.       *            *      *             *          -
+bc/cnn/00/cnn_0002   3   13               in    IN              (PP*          -    -   -    Jeff_Greenfield.       *            *      *             *          -
+bc/cnn/00/cnn_0002   3   14              the    DT              (NP*          -    -   -    Jeff_Greenfield.       *            *      *             *       (140
+bc/cnn/00/cnn_0002   3   15             Ohio   NNP                 *          -    -   -    Jeff_Greenfield.    (GPE)           *      *             *          -
+bc/cnn/00/cnn_0002   3   16    congressional    JJ                 *          -    -   -    Jeff_Greenfield.       *            *      *             *          -
+bc/cnn/00/cnn_0002   3   17         district    NN                *))   district   -   1    Jeff_Greenfield.       *            *      *             *        140)
+bc/cnn/00/cnn_0002   3   18             with    IN              (PP*          -    -   -    Jeff_Greenfield.       *            *      *             *          -
+bc/cnn/00/cnn_0002   3   19       Cincinatti   NNP               (X*          -    -   -    Jeff_Greenfield.    (GPE)           *      *             *          -
+bc/cnn/00/cnn_0002   3   20                a    DT                 *          -    -   -    Jeff_Greenfield.       *            *      *             *          -
+bc/cnn/00/cnn_0002   3   21       republican    JJ                 *          -    -   -    Jeff_Greenfield.   (NORP)           *      *             *          -
+bc/cnn/00/cnn_0002   3   22         district    NN             *)))))   district   -   1    Jeff_Greenfield.       *            *      *             *)       179)
+bc/cnn/00/cnn_0002   3   23               /.     .                *))         -    -   -    Jeff_Greenfield.       *            *      *             *          -
+
+bc/cnn/00/cnn_0002   3    0        Former    JJ      (TOP(S(NP(NP*          -    -    -    Jeff_Greenfield.           *         *         *         *       (ARG1*   (ARG0*      *        *           *     (28
+bc/cnn/00/cnn_0002   3    1         Iraqi    JJ              (NML*          -    -    -    Jeff_Greenfield.       (NORP)   (ARG1*)        *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3    2           war    NN                  *)        war  01    1    Jeff_Greenfield.           *       (V*)        *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3    3        combat    NN                  *      combat   -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3    4       veteran    NN                  *)         -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *      28)
+bc/cnn/00/cnn_0002   3    5             I   PRP         (PRN(S(NP*)         -    -    -    Jeff_Greenfield.           *         *    (ARG0*)        *            *        *      *        *           *    (132)
+bc/cnn/00/cnn_0002   3    6         guess   VBP               (VP*       guess  01    1    Jeff_Greenfield.           *         *       (V*)        *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3    7            he   PRP        (SBAR(S(NP*)         -    -    -    Jeff_Greenfield.           *         *    (ARG1*    (ARG1*)           *        *      *        *           *     (28)
+bc/cnn/00/cnn_0002   3    8            is   VBZ               (VP*          be  01    1    Jeff_Greenfield.           *         *         *       (V*)           *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3    9             a    DT               (NP*          -    -    -    Jeff_Greenfield.           *         *         *    (ARG2*            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   10       present    JJ                  *          -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   11       veteran    NN            *)))))))         -    -    -    Jeff_Greenfield.           *         *         *)        *)           *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   12          Paul   NNP               (NP*          -    -    -    Jeff_Greenfield.    (PERSON*         *         *         *            *        *      *        *           *     (28
+bc/cnn/00/cnn_0002   3   13       Hackett   NNP                 *))         -    -    -    Jeff_Greenfield.           *)        *         *         *            *)       *)     *        *           *      28)
+bc/cnn/00/cnn_0002   3   14          came   VBD               (VP*        come  04    7    Jeff_Greenfield.           *         *         *         *          (V*)       *      *        *           *       -
+bc/cnn/00/cnn_0002   3   15        within    IN               (PP*          -    -    -    Jeff_Greenfield.           *         *         *         *       (ARG2*        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   16          four    CD            (NP(NP*          -    -    -    Jeff_Greenfield.   (CARDINAL)        *         *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   17        points   NNS                  *)      point   -   14    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   18            of    IN               (PP*          -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   19       beating   VBG             (S(VP*        beat  03    1    Jeff_Greenfield.           *         *         *         *            *      (V*)     *        *           *       -
+bc/cnn/00/cnn_0002   3   20           the    DT               (NP*          -    -    -    Jeff_Greenfield.           *         *         *         *            *   (ARG1*      *        *           *       -
+bc/cnn/00/cnn_0002   3   21    republican   NNP             *))))))         -    -    -    Jeff_Greenfield.       (NORP)        *         *         *            *)       *)     *        *           *       -
+bc/cnn/00/cnn_0002   3   22            in    IN               (PP*          -    -    -    Jeff_Greenfield.           *         *         *         *   (ARGM-LOC*        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   23             a    DT            (NP(NP*          -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *      (ARG1*    (140
+bc/cnn/00/cnn_0002   3   24      district    NN                  *)   district   -    1    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *)      -
+bc/cnn/00/cnn_0002   3   25          that   WDT        (SBAR(WHNP*)         -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *    (R-ARG1*)      -
+bc/cnn/00/cnn_0002   3   26            no    DT             (S(NP*          -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *   (ARG1*      (ARG0*       -
+bc/cnn/00/cnn_0002   3   27      democrat   NNP                  *)         -    -    -    Jeff_Greenfield.       (NORP)        *         *         *            *        *      *        *)          *)      -
+bc/cnn/00/cnn_0002   3   28           has   VBZ               (VP*        have  01    -    Jeff_Greenfield.           *         *         *         *            *        *    (V*)       *           *       -
+bc/cnn/00/cnn_0002   3   29          come   VBN               (VP*        come  01    7    Jeff_Greenfield.           *         *         *         *            *        *      *      (V*)          *       -
+bc/cnn/00/cnn_0002   3   30         close    RB             (ADVP*          -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *   (ARG4*           *       -
+bc/cnn/00/cnn_0002   3   31            to    IN               (PP*          -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *       -
+bc/cnn/00/cnn_0002   3   32      carrying   VBG   (S(VP*)))))))))))      carry  01    4    Jeff_Greenfield.           *         *         *         *            *)       *      *        *)        (V*)    140)
+bc/cnn/00/cnn_0002   3   33            /.     .                 *))         -    -    -    Jeff_Greenfield.           *         *         *         *            *        *      *        *           *       -
+
+bc/cnn/00/cnn_0002   3    0           That     DT    (TOP(S(NP*)     -    -   -    Jeff_Greenfield.       *    (ARG1*)     *           *    (179)
+bc/cnn/00/cnn_0002   3    1             's    VBZ          (VP*      be  01   2    Jeff_Greenfield.       *       (V*)     *           *       -
+bc/cnn/00/cnn_0002   3    2            the     DT       (NP(NP*      -    -   -    Jeff_Greenfield.       *    (ARG2*      *      (ARG0*       -
+bc/cnn/00/cnn_0002   3    3            one     NN             *)    one   -   2    Jeff_Greenfield.       *         *      *           *)      -
+bc/cnn/00/cnn_0002   3    4           that    WDT   (SBAR(WHNP*)     -    -   -    Jeff_Greenfield.       *         *      *    (R-ARG0*)      -
+bc/cnn/00/cnn_0002   3    5             's    VBZ        (S(VP*      be  03   9    Jeff_Greenfield.       *         *    (V*)          *       -
+bc/cnn/00/cnn_0002   3    6         giving    VBG          (VP*    give  01   4    Jeff_Greenfield.       *         *      *         (V*)      -
+bc/cnn/00/cnn_0002   3    7            the     DT          (NP*      -    -   -    Jeff_Greenfield.       *         *      *      (ARG2*     (75
+bc/cnn/00/cnn_0002   3    8    republicans   NNPS             *)     -    -   -    Jeff_Greenfield.   (NORP)        *      *           *)     75)
+bc/cnn/00/cnn_0002   3    9        willies    NNS       (NP(NP*)     -    -   -    Jeff_Greenfield.       *         *      *      (ARG1*       -
+bc/cnn/00/cnn_0002   3   10            for     IN          (PP*      -    -   -    Jeff_Greenfield.       *         *      *           *       -
+bc/cnn/00/cnn_0002   3   11           next     JJ          (NP*      -    -   -    Jeff_Greenfield.  (DATE*         *      *           *     (27
+bc/cnn/00/cnn_0002   3   12           year     NN     *)))))))))     -    -   -    Jeff_Greenfield.       *)        *)     *           *)     27)
+bc/cnn/00/cnn_0002   3   13             /.      .            *))     -    -   -    Jeff_Greenfield.       *         *      *           *       -
+
+bc/cnn/00/cnn_0002   3   0      All    RB  (TOP(S(ADVP*      -    -   -    Anderson_Cooper         *    (ARGM-DIS*       -
+bc/cnn/00/cnn_0002   3   1    right    RB             *)     -    -   -    Anderson_Cooper         *             *)      -
+bc/cnn/00/cnn_0002   3   2     Jeff   NNP          (NP*)     -    -   -    Anderson_Cooper   (PERSON)   (ARGM-DIS*)   (132)
+bc/cnn/00/cnn_0002   3   3       we   PRP          (NP*)     -    -   -    Anderson_Cooper         *        (ARG0*)      -
+bc/cnn/00/cnn_0002   3   4      'll    MD          (VP*      -    -   -    Anderson_Cooper         *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   3   5     join    VB          (VP*    join  04   4    Anderson_Cooper         *           (V*)      -
+bc/cnn/00/cnn_0002   3   6      you   PRP          (NP*)     -    -   -    Anderson_Cooper         *        (ARG1*)   (132)
+bc/cnn/00/cnn_0002   3   7    later    RB      (ADVP*)))     -    -   -    Anderson_Cooper         *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   3   8       /.     .            *))     -    -   -    Anderson_Cooper         *             *       -
+
+bc/cnn/00/cnn_0002   3   0      John   NNP  (TOP(FRAG(NP*        -    -   -    Anderson_Cooper  (PERSON*       (ARG1*   (55
+bc/cnn/00/cnn_0002   3   1      King   NNP              *)       -    -   -    Anderson_Cooper         *)           *)   55)
+bc/cnn/00/cnn_0002   3   2        as    RB         (ADVP*        -    -   -    Anderson_Cooper         *   (ARGM-ADJ*     -
+bc/cnn/00/cnn_0002   3   3      well    RB              *)       -    -   -    Anderson_Cooper         *            *)    -
+bc/cnn/00/cnn_0002   3   4    thanks   NNS           (NP*)   thanks  01   1    Anderson_Cooper         *          (V*)    -
+bc/cnn/00/cnn_0002   3   5      very    RB         (ADVP*        -    -   -    Anderson_Cooper         *   (ARGM-EXT*     -
+bc/cnn/00/cnn_0002   3   6      much    RB              *)       -    -   -    Anderson_Cooper         *            *)    -
+bc/cnn/00/cnn_0002   3   7        /.     .             *))       -    -   -    Anderson_Cooper         *            *     -

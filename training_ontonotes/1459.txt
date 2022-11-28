@@ -1,0 +1,373 @@
+bc/cnn/00/cnn_0003   12   0      New   NNP  (TOP(FRAG(NP*   -   -   -    Larry_King  (GPE*   -
+bc/cnn/00/cnn_0003   12   1     York   NNP              *   -   -   -    Larry_King      *   -
+bc/cnn/00/cnn_0003   12   2     City   NNP              *)  -   -   -    Larry_King      *)  -
+bc/cnn/00/cnn_0003   12   3    hello    UH         (INTJ*)  -   -   -    Larry_King      *   -
+bc/cnn/00/cnn_0003   12   4       /.     .             *))  -   -   -    Larry_King      *   -
+
+bc/cnn/00/cnn_0003   12   0    It   PRP   (TOP(S(NP*)   -    -   -    Linda_Hamilton  *    (ARG1*)  -
+bc/cnn/00/cnn_0003   12   1    is   VBZ         (VP*)   be  01   1    Linda_Hamilton  *       (V*)  -
+bc/cnn/00/cnn_0003   12   2    /.     .           *))   -    -   -    Linda_Hamilton  *         *   -
+
+bc/cnn/00/cnn_0003   12   0    Hello   UH  (TOP(INTJ*   -   -   -   caller_7   *   -
+bc/cnn/00/cnn_0003   12   1       /.    .          *))  -   -   -   caller_7   *   -
+
+bc/cnn/00/cnn_0003   12   0    Hi   UH  (TOP(INTJ*   -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0003   12   1    /.    .          *))  -   -   -    Larry_King  *   -
+
+bc/cnn/00/cnn_0003   12   0    Hi   UH  (TOP(INTJ*   -   -   -   caller_7   *   -
+bc/cnn/00/cnn_0003   12   1    /.    .          *))  -   -   -   caller_7   *   -
+
+bc/cnn/00/cnn_0003   12   0    It   PRP   (TOP(S(NP*)   -    -   -    Larry_King  *    (ARG1*)  -
+bc/cnn/00/cnn_0003   12   1    's   VBZ         (VP*    be  01   1    Larry_King  *       (V*)  -
+bc/cnn/00/cnn_0003   12   2    OK    JJ      (ADJP*))   -    -   -    Larry_King  *    (ARG2*)  -
+bc/cnn/00/cnn_0003   12   3    /.     .           *))   -    -   -    Larry_King  *         *   -
+
+bc/cnn/00/cnn_0003   12   0        Um    UH   (TOP(S(INTJ*)      -    -   -   caller_7   *      *         *      -
+bc/cnn/00/cnn_0003   12   1         I   PRP           (NP*)      -    -   -   caller_7   *      *    (ARG1*)   (64)
+bc/cnn/00/cnn_0003   12   2        'm   VBP           (VP*       be  03   -   caller_7   *    (V*)        *      -
+bc/cnn/00/cnn_0003   12   3    thrown   VBN           (VP*    throw  01   -   caller_7   *      *       (V*)     -
+bc/cnn/00/cnn_0003   12   4       off    RP          (PRT*)      -    -   -   caller_7   *      *    (ARG2*)     -
+bc/cnn/00/cnn_0003   12   5        by    IN           (PP*       -    -   -   caller_7   *      *    (ARG0*      -
+bc/cnn/00/cnn_0003   12   6       the    DT           (NP*       -    -   -   caller_7   *      *         *      -
+bc/cnn/00/cnn_0003   12   7     delay    NN           *))))   delay   -   3   caller_7   *      *         *)     -
+bc/cnn/00/cnn_0003   12   8        /.     .             *))      -    -   -   caller_7   *      *         *      -
+
+bc/cnn/00/cnn_0003   12   0        I   PRP   (TOP(S(NP*)   -    -   -   caller_7   *    (ARG1*)   (64)
+bc/cnn/00/cnn_0003   12   1       'm   VBP         (VP*    be  01   1   caller_7   *       (V*)     -
+bc/cnn/00/cnn_0003   12   2    sorry    JJ      (ADJP*))   -    -   -   caller_7   *    (ARG2*)     -
+bc/cnn/00/cnn_0003   12   3       /.     .           *))   -    -   -   caller_7   *         *      -
+
+bc/cnn/00/cnn_0003   12    0           I   PRP       (TOP(S(NP*)     -    -   -   caller_7   *      *      *    (ARG0*)   (64)
+bc/cnn/00/cnn_0003   12    1          'm   VBP             (VP*      be  03   -   caller_7   *    (V*)     *         *      -
+bc/cnn/00/cnn_0003   12    2       going   VBG             (VP*      go  04   7   caller_7   *      *    (V*)        *      -
+bc/cnn/00/cnn_0003   12    3          to    TO           (S(VP*      -    -   -   caller_7   *      *      *         *      -
+bc/cnn/00/cnn_0003   12    4        make    VB             (VP*    make  02   3   caller_7   *      *      *       (V*)     -
+bc/cnn/00/cnn_0003   12    5        this    DT           (S(NP*)     -    -   -   caller_7   *      *      *    (ARG1*      -
+bc/cnn/00/cnn_0003   12    6          as    RB      (ADJP(ADJP*      -    -   -   caller_7   *      *      *         *      -
+bc/cnn/00/cnn_0003   12    7    succinct    JJ                *)     -    -   -   caller_7   *      *      *         *      -
+bc/cnn/00/cnn_0003   12    8          as    IN             (PP*      -    -   -   caller_7   *      *      *         *      -
+bc/cnn/00/cnn_0003   12    9    possible    JJ   (ADJP*)))))))))     -    -   -   caller_7   *      *      *         *)     -
+bc/cnn/00/cnn_0003   12   10          /.     .               *))     -    -   -   caller_7   *      *      *         *      -
+
+bc/cnn/00/cnn_0003   12    0       Linda    NNP   (TOP(S(NP*)      -    -   -   caller_7    (PERSON)   (ARGM-DIS*)   (133)
+bc/cnn/00/cnn_0003   12    1           I    PRP         (NP*)      -    -   -   caller_7          *        (ARG1*)    (64)
+bc/cnn/00/cnn_0003   12    2          'm    VBP         (VP*       be  01   1   caller_7          *           (V*)      -
+bc/cnn/00/cnn_0003   12    3          in     IN         (PP*       -    -   -   caller_7          *        (ARG2*       -
+bc/cnn/00/cnn_0003   12    4         the     DT      (NP(NP*       -    -   -   caller_7          *             *       -
+bc/cnn/00/cnn_0003   12    5        same     JJ            *       -    -   -   caller_7          *             *       -
+bc/cnn/00/cnn_0003   12    6         age     NN            *      age   -   -   caller_7          *             *       -
+bc/cnn/00/cnn_0003   12    7       group     NN            *)   group   -   -   caller_7          *             *       -
+bc/cnn/00/cnn_0003   12    8          as     IN         (PP*       -    -   -   caller_7          *             *       -
+bc/cnn/00/cnn_0003   12    9        your   PRP$         (NP*       -    -   -   caller_7          *             *    (133)
+bc/cnn/00/cnn_0003   12   10    previous     JJ            *       -    -   -   caller_7          *             *       -
+bc/cnn/00/cnn_0003   12   11      caller     NN        *)))))      -    -   -   caller_7          *             *)      -
+bc/cnn/00/cnn_0003   12   12          /.      .           *))      -    -   -   caller_7          *             *       -
+
+bc/cnn/00/cnn_0003   12   0        and    CC   (TOP(S*      -    -    -   caller_7        *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0003   12   1        for    IN      (PP*      -    -    -   caller_7        *      *    (ARGM-TMP*      -
+bc/cnn/00/cnn_0003   12   2      years   NNS     (NP*))     -    -    -   caller_7    (DATE)     *             *)     -
+bc/cnn/00/cnn_0003   12   3          I   PRP      (NP*)     -    -    -   caller_7        *      *        (ARG0*)   (64)
+bc/cnn/00/cnn_0003   12   4        've   VBP      (VP*    have  01   12   caller_7        *    (V*)            *      -
+bc/cnn/00/cnn_0003   12   5       gone   VBN      (VP*      go  02    9   caller_7        *      *           (V*)     -
+bc/cnn/00/cnn_0003   12   6         to    IN      (PP*      -    -    -   caller_7        *      *        (ARG1*      -
+bc/cnn/00/cnn_0003   12   7    therapy    NN   (NP*))))     -    -    -   caller_7        *      *             *)     -
+bc/cnn/00/cnn_0003   12   8         /.     .        *))     -    -    -   caller_7        *      *             *      -
+
+bc/cnn/00/cnn_0003   12    0           and    CC       (TOP(S*            -    -   -   caller_7   *      *    (ARGM-DIS*)        *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    1             I   PRP          (NP*)           -    -   -   caller_7   *      *        (ARG0*)        *         *      *            *         *      *             *    (64)
+bc/cnn/00/cnn_0003   12    2          have   VBP          (VP*          have  01   -   caller_7   *    (V*)            *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    3         never    RB        (ADVP*)           -    -   -   caller_7   *      *    (ARGM-NEG*)        *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    4         heard   VBN          (VP*          hear  01   1   caller_7   *      *           (V*)        *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    5       anybody    NN        (S(NP*)           -    -   -   caller_7   *      *        (ARG1*    (ARG0*)   (ARG0*)     *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    6     verbalize    VB          (VP*     verbalize  01   -   caller_7   *      *             *       (V*)        *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    7           and    CC             *            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    8    articulate    VB             *    articulate  01   1   caller_7   *      *             *         *       (V*)     *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12    9       exactly    RB    (NP(NP(NP*            -    -   -   caller_7   *      *             *    (ARG1*    (ARG1*      *       (ARG1*         *      *             *      -
+bc/cnn/00/cnn_0003   12   10           the    DT             *            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   11           way    NN             *)          way   -   3   caller_7   *      *             *         *         *      *            *)        *      *             *      -
+bc/cnn/00/cnn_0003   12   12             I   PRP   (SBAR(S(NP*)           -    -   -   caller_7   *      *             *         *         *      *       (ARG0*)        *      *             *    (64)
+bc/cnn/00/cnn_0003   12   13          have   VBP          (VP*          have  01   -   caller_7   *      *             *         *         *    (V*)           *         *      *             *      -
+bc/cnn/00/cnn_0003   12   14          felt   VBN          (VP*          feel  01   1   caller_7   *      *             *         *         *      *          (V*)        *      *             *      -
+bc/cnn/00/cnn_0003   12   15         since    IN        (SBAR*            -    -   -   caller_7   *      *             *         *         *      *   (ARGM-TMP*         *      *             *      -
+bc/cnn/00/cnn_0003   12   16             I   PRP        (S(NP*)           -    -   -   caller_7   *      *             *         *         *      *            *    (ARG1*)     *             *    (64)
+bc/cnn/00/cnn_0003   12   17           was   VBD          (VP*            be  01   1   caller_7   *      *             *         *         *      *            *       (V*)     *             *      -
+bc/cnn/00/cnn_0003   12   18             a    DT          (NP*            -    -   -   caller_7   *      *             *         *         *      *            *    (ARG2*      *             *      -
+bc/cnn/00/cnn_0003   12   19         child    NN     *)))))))))        child   -   1   caller_7   *      *             *         *         *      *            *)        *)     *             *      -
+bc/cnn/00/cnn_0003   12   20     different    JJ   (FRAG(ADJP*)           -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   21          like    IN        (SBAR*            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   22             I   PRP        (S(NP*)           -    -   -   caller_7   *      *             *         *         *      *            *         *      *        (ARG0*)   (64)
+bc/cnn/00/cnn_0003   12   23          have   VBP          (VP*          have  01   -   caller_7   *      *             *         *         *      *            *         *    (V*)            *      -
+bc/cnn/00/cnn_0003   12   24           n't    RB             *            -    -   -   caller_7   *      *             *         *         *      *            *         *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0003   12   25      belonged   VBN       (VP*))))       belong  01   2   caller_7   *      *             *         *         *      *            *         *      *           (V*)     -
+bc/cnn/00/cnn_0003   12   26     different    JJ        (ADJP*            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   27          from    IN          (PP*            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   28     everybody    NN       (NP(NP*            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   29          else    RB             *)           -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   30            in    IN          (PP*            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   31        school    NN      (NP*)))))       school   -   2   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   32           and    CC             *            -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   33    everything    NN    (NP*)))))))           -    -   -   caller_7   *      *             *)        *)        *)     *            *         *      *             *      -
+bc/cnn/00/cnn_0003   12   34            /.     .            *))           -    -   -   caller_7   *      *             *         *         *      *            *         *      *             *      -
+
+bc/cnn/00/cnn_0003   12   0        I   PRP   (TOP(S(NP*)   -    -   -   caller_7   *      *             *       (ARG1*)   (64)
+bc/cnn/00/cnn_0003   12   1       'm   VBP         (VP*    be  03   -   caller_7   *    (V*)            *            *      -
+bc/cnn/00/cnn_0003   12   2      not    RB            *    -    -   -   caller_7   *      *    (ARGM-NEG*)           *      -
+bc/cnn/00/cnn_0003   12   3    going   VBG         (VP*    go  04   7   caller_7   *      *           (V*)           *      -
+bc/cnn/00/cnn_0003   12   4       to    TO       (S(VP*    -    -   -   caller_7   *      *             *            *      -
+bc/cnn/00/cnn_0003   12   5       go    VB         (VP*    go  15   1   caller_7   *      *             *          (V*)     -
+bc/cnn/00/cnn_0003   12   6       on    RB       (ADVP*)   -    -   -   caller_7   *      *             *            *      -
+bc/cnn/00/cnn_0003   12   7     with    IN         (PP*    -    -   -   caller_7   *      *             *   (ARGM-MNR*      -
+bc/cnn/00/cnn_0003   12   8     that    DT   (NP*)))))))   -    -   -   caller_7   *      *             *            *)     -
+bc/cnn/00/cnn_0003   12   9       /.     .           *))   -    -   -   caller_7   *      *             *            *      -
+
+bc/cnn/00/cnn_0003   12   0           Most    RBS  (TOP(S(ADVP*         -    -   -   caller_7   *   (ARGM-ADV*            -
+bc/cnn/00/cnn_0003   12   1    importantly     RB             *)        -    -   -   caller_7   *            *)           -
+bc/cnn/00/cnn_0003   12   2              I    PRP          (NP*)        -    -   -   caller_7   *       (ARG1*)         (64)
+bc/cnn/00/cnn_0003   12   3             'm    VBP          (VP*         be  01   1   caller_7   *          (V*)           -
+bc/cnn/00/cnn_0003   12   4           very     RB        (ADJP*         -    -   -   caller_7   *       (ARG2*            -
+bc/cnn/00/cnn_0003   12   5     interested     JJ             *         -    -   -   caller_7   *            *            -
+bc/cnn/00/cnn_0003   12   6             in     IN          (PP*         -    -   -   caller_7   *            *            -
+bc/cnn/00/cnn_0003   12   7           your   PRP$          (NP*         -    -   -   caller_7   *            *    (123|(133)
+bc/cnn/00/cnn_0003   12   8        program     NN          *))))   program   -   3   caller_7   *            *)         123)
+bc/cnn/00/cnn_0003   12   9             /.      .            *))        -    -   -   caller_7   *            *            -
+
+bc/cnn/00/cnn_0003   12   0         but    CC  (TOP(S*          -    -   -   caller_7   *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0003   12   1           I   PRP     (NP*)         -    -   -   caller_7   *      *        (ARG0*)   (64)
+bc/cnn/00/cnn_0003   12   2          do   VBP     (VP*          do  01   -   caller_7   *    (V*)            *      -
+bc/cnn/00/cnn_0003   12   3         not    RB        *          -    -   -   caller_7   *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0003   12   4        have    VB     (VP*        have  03   1   caller_7   *      *           (V*)     -
+bc/cnn/00/cnn_0003   12   5           a    DT     (NP*          -    -   -   caller_7   *      *        (ARG1*      -
+bc/cnn/00/cnn_0003   12   6    computer    NN      *)))   computer   -   1   caller_7   *      *             *)     -
+bc/cnn/00/cnn_0003   12   7          /.     .       *))         -    -   -   caller_7   *      *             *      -
+
+bc/cnn/00/cnn_0003   12    0           Is   VBZ     (TOP(SQ*           be  02   3   caller_7   *      (V*)             *         *          -
+bc/cnn/00/cnn_0003   12    1        there    EX         (NP*)          -    -   -   caller_7   *        *              *         *          -
+bc/cnn/00/cnn_0003   12    2            a    DT      (NP(NP*           -    -   -   caller_7   *   (ARG1*     (ARGM-MNR*         *        (83
+bc/cnn/00/cnn_0003   12    3    telephone    NN            *    telephone   -   2   caller_7   *        *              *         *          -
+bc/cnn/00/cnn_0003   12    4       number    NN            *)      number   -   3   caller_7   *        *              *)        *          -
+bc/cnn/00/cnn_0003   12    5           um    UH       (INTJ*)          -    -   -   caller_7   *        *              *         *          -
+bc/cnn/00/cnn_0003   12    6      through    IN  (SBAR(WHPP*           -    -   -   caller_7   *        *   (R-ARGM-MNR*         *          -
+bc/cnn/00/cnn_0003   12    7        which   WDT      (WHNP*))          -    -   -   caller_7   *        *              *)        *          -
+bc/cnn/00/cnn_0003   12    8           we   PRP       (S(NP*)          -    -   -   caller_7   *        *         (ARG0*)        *          -
+bc/cnn/00/cnn_0003   12    9          can    MD         (VP*           -    -   -   caller_7   *        *     (ARGM-MOD*)        *          -
+bc/cnn/00/cnn_0003   12   10        reach    VB         (VP*        reach  02   2   caller_7   *        *            (V*)        *          -
+bc/cnn/00/cnn_0003   12   11     somebody    NN      (NP(NP*)          -    -   -   caller_7   *        *         (ARG1*    (ARG1*)         -
+bc/cnn/00/cnn_0003   12   12      related   VBN         (VP*       relate  01   -   caller_7   *        *              *       (V*)         -
+bc/cnn/00/cnn_0003   12   13           to    IN         (PP*           -    -   -   caller_7   *        *              *    (ARG2*          -
+bc/cnn/00/cnn_0003   12   14         this    DT         (NP*           -    -   -   caller_7   *        *              *         *       (123
+bc/cnn/00/cnn_0003   12   15      program    NN    *)))))))))     program   -   3   caller_7   *        *)             *)        *)   123)|83)
+bc/cnn/00/cnn_0003   12   16           /?     .           *))          -    -   -   caller_7   *        *              *         *          -
+
+bc/cnn/00/cnn_0003   12   0     Where   WRB   (TOP(WHADVP(WHADVP*)  -   -   -    Larry_King      *      -
+bc/cnn/00/cnn_0003   12   1        in    IN                  (PP*   -   -   -    Larry_King      *      -
+bc/cnn/00/cnn_0003   12   2       New   NNP                  (NP*   -   -   -    Larry_King  (GPE*   (107
+bc/cnn/00/cnn_0003   12   3    Jersey   NNP                    *))  -   -   -    Larry_King      *)   107)
+bc/cnn/00/cnn_0003   12   4        /?     .                    *))  -   -   -    Larry_King      *      -
+
+bc/cnn/00/cnn_0003   12   0    Where   WRB   (TOP(SBARQ(WHADVP*)   -    -   -    Larry_King      *    (ARG2*)    -
+bc/cnn/00/cnn_0003   12   1       is   VBZ                 (SQ*    be  01   4    Larry_King      *       (V*)    -
+bc/cnn/00/cnn_0003   12   2      Eli   NNP                 (NP*    -    -   -    Larry_King  (ORG*    (ARG1*   (29
+bc/cnn/00/cnn_0003   12   3    Lilly   NNP                   *))   -    -   -    Larry_King      *)        *)   29)
+bc/cnn/00/cnn_0003   12   4       /?     .                   *))   -    -   -    Larry_King      *         *     -
+
+bc/cnn/00/cnn_0003   12   0      They   PRP   (TOP(SQ(S(NP*)   -    -   -    Larry_King      *    (ARG1*)            *    (29)
+bc/cnn/00/cnn_0003   12   1       're   VBP            (VP*    be  01   4    Larry_King      *       (V*)            *      -
+bc/cnn/00/cnn_0003   12   2        in    IN            (PP*    -    -   -    Larry_King      *    (ARG2*        (ARG2*      -
+bc/cnn/00/cnn_0003   12   3       New   NNP            (NP*    -    -   -    Larry_King  (GPE*         *             *   (107
+bc/cnn/00/cnn_0003   12   4    Jersey   NNP            *))))   -    -   -    Larry_King      *)        *)            *)   107)
+bc/cnn/00/cnn_0003   12   5         ,     ,               *    -    -   -    Larry_King      *         *             *      -
+bc/cnn/00/cnn_0003   12   6       are   VBP            (SQ*    be  01   4    Larry_King      *         *           (V*)     -
+bc/cnn/00/cnn_0003   12   7       n't    RB               *    -    -   -    Larry_King      *         *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0003   12   8      they   PRP           (NP*))   -    -   -    Larry_King      *         *        (ARG1*)   (29)
+bc/cnn/00/cnn_0003   12   9        /?     .              *))   -    -   -    Larry_King      *         *             *      -
+
+bc/cnn/00/cnn_0003   12   0    Yeah   UH  (TOP(INTJ*   -   -   -    Larry_King  *   -
+bc/cnn/00/cnn_0003   12   1      /.    .          *))  -   -   -    Larry_King  *   -
+
+bc/cnn/00/cnn_0003   12    0        In    IN  (TOP(S(PP*      -    -   -    Larry_King  *    (ARGM-DIS*         *      -
+bc/cnn/00/cnn_0003   12    1      fact    NN       (NP*))   fact   -   5    Larry_King  *             *)        *      -
+bc/cnn/00/cnn_0003   12    2        we   PRP        (NP*)     -    -   -    Larry_King  *        (ARG0*)        *    (46)
+bc/cnn/00/cnn_0003   12    3       may    MD        (VP*      -    -   -    Larry_King  *    (ARGM-MOD*)        *      -
+bc/cnn/00/cnn_0003   12    4      know    VB        (VP*    know  01   1    Larry_King  *           (V*)        *      -
+bc/cnn/00/cnn_0003   12    5    before    IN      (SBAR*      -    -   -    Larry_King  *    (ARGM-TMP*         *      -
+bc/cnn/00/cnn_0003   12    6        we   PRP      (S(NP*)     -    -   -    Larry_King  *             *    (ARG1*)   (46)
+bc/cnn/00/cnn_0003   12    7        go   VBP        (VP*      go  01   2    Larry_King  *             *       (V*)     -
+bc/cnn/00/cnn_0003   12    8       off    IN        (PP*      -    -   -    Larry_King  *             *    (ARG2*      -
+bc/cnn/00/cnn_0003   12    9       the    DT        (NP*      -    -   -    Larry_King  *             *         *      -
+bc/cnn/00/cnn_0003   12   10       air    NN     *)))))))    air   -   5    Larry_King  *             *)        *)     -
+bc/cnn/00/cnn_0003   12   11        /.     .          *))     -    -   -    Larry_King  *             *         *      -
+
+bc/cnn/00/cnn_0003   12   0       We   PRP   (TOP(S(NP*)   -    -   -    Larry_King  *        (ARG1*)   (46)
+bc/cnn/00/cnn_0003   12   1      'll    MD         (VP*    -    -   -    Larry_King  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0003   12   2       be    VB         (VP*    be  01   4    Larry_King  *           (V*)     -
+bc/cnn/00/cnn_0003   12   3    right    RB       (ADVP*    -    -   -    Larry_King  *        (ARG2*      -
+bc/cnn/00/cnn_0003   12   4     back    RB          *)))   -    -   -    Larry_King  *             *)     -
+bc/cnn/00/cnn_0003   12   5       /.     .           *))   -    -   -    Larry_King  *             *      -
+
+bc/cnn/00/cnn_0003   12   0      Do   VB  (TOP(S(VP*    do  01   -    Larry_King  *    (V*)            *   -
+bc/cnn/00/cnn_0003   12   1     n't   RB           *    -    -   -    Larry_King  *      *    (ARGM-NEG*)  -
+bc/cnn/00/cnn_0003   12   2      go   VB        (VP*    go  02   1    Larry_King  *      *           (V*)  -
+bc/cnn/00/cnn_0003   12   3    away   RB    (ADVP*)))   -    -   -    Larry_King  *      *    (ARGM-DIR*)  -
+bc/cnn/00/cnn_0003   12   4      /.    .          *))   -    -   -    Larry_King  *      *             *   -
+
+bc/cnn/00/cnn_0003   12   0        I   PRP    (TOP(S(NP*)   -    -   -    Linda_Hamilton  *    (ARG1*)     *    (133)
+bc/cnn/00/cnn_0003   12   1       'm   VBP          (VP*    be  01   1    Linda_Hamilton  *       (V*)     *       -
+bc/cnn/00/cnn_0003   12   2     sure    JJ        (ADJP*    -    -   -    Linda_Hamilton  *    (ARG2*      *       -
+bc/cnn/00/cnn_0003   12   3    there    EX   (SBAR(S(NP*)   -    -   -    Linda_Hamilton  *         *      *       -
+bc/cnn/00/cnn_0003   12   4       is   VBZ      (VP*)))))   be  02   3    Linda_Hamilton  *         *)   (V*)      -
+bc/cnn/00/cnn_0003   12   5       /.     .            *))   -    -   -    Linda_Hamilton  *         *      *       -
+
+bc/cnn/00/cnn_0003   12    0            Um    UH   (TOP(S(INTJ*)       -    -    -    Linda_Hamilton      *         *      *             *    (ARGM-DIS*)          -
+bc/cnn/00/cnn_0003   12    1            if    IN         (SBAR*        -    -    -    Linda_Hamilton      *         *      *             *    (ARGM-ADV*           -
+bc/cnn/00/cnn_0003   12    2             I   PRP         (S(NP*)       -    -    -    Linda_Hamilton      *    (ARG1*)     *             *             *        (133)
+bc/cnn/00/cnn_0003   12    3          were   VBD           (VP*        be  01    2    Linda_Hamilton      *       (V*)     *             *             *           -
+bc/cnn/00/cnn_0003   12    4           you   PRP        (NP*))))       -    -    -    Linda_Hamilton      *    (ARG2*)     *             *             *)        (64)
+bc/cnn/00/cnn_0003   12    5             ,     ,              *        -    -    -    Linda_Hamilton      *         *      *             *             *           -
+bc/cnn/00/cnn_0003   12    6       because    IN         (SBAR*        -    -    -    Linda_Hamilton      *         *      *             *    (ARGM-CAU*           -
+bc/cnn/00/cnn_0003   12    7             I   PRP         (S(NP*)       -    -    -    Linda_Hamilton      *         *      *        (ARG0*)            *        (133)
+bc/cnn/00/cnn_0003   12    8            do   VBP           (VP*        do  01    -    Linda_Hamilton      *         *    (V*)            *             *           -
+bc/cnn/00/cnn_0003   12    9           n't    RB              *        -    -    -    Linda_Hamilton      *         *      *    (ARGM-NEG*)            *           -
+bc/cnn/00/cnn_0003   12   10          know    VB           (VP*      know  01    1    Linda_Hamilton      *         *      *           (V*)            *           -
+bc/cnn/00/cnn_0003   12   11          that    DT           (NP*        -    -    -    Linda_Hamilton      *         *      *        (ARG1*             *         (83
+bc/cnn/00/cnn_0003   12   12        number    NN              *)   number   -    3    Linda_Hamilton      *         *      *             *)            *          83)
+bc/cnn/00/cnn_0003   12   13           off    IN           (PP*        -    -    -    Linda_Hamilton      *         *      *    (ARGM-MNR*             *           -
+bc/cnn/00/cnn_0003   12   14          hand    NN      (NP*))))))     hand   -   26    Linda_Hamilton      *         *      *             *)            *)          -
+bc/cnn/00/cnn_0003   12   15            um    UH         (INTJ*)       -    -    -    Linda_Hamilton      *         *      *             *    (ARGM-DIS*)          -
+bc/cnn/00/cnn_0003   12   16           you   PRP           (NP*)       -    -    -    Linda_Hamilton      *         *      *             *        (ARG0*)        (64)
+bc/cnn/00/cnn_0003   12   17           can    MD           (VP*        -    -    -    Linda_Hamilton      *         *      *             *    (ARGM-MOD*)          -
+bc/cnn/00/cnn_0003   12   18          call    VB           (VP*      call  02    4    Linda_Hamilton      *         *      *             *           (V*)          -
+bc/cnn/00/cnn_0003   12   19           the    DT        (NP(NP*        -    -    -    Linda_Hamilton  (ORG*         *      *             *        (ARG1*        (119
+bc/cnn/00/cnn_0003   12   20    University   NNP              *)       -    -    -    Linda_Hamilton      *         *      *             *             *           -
+bc/cnn/00/cnn_0003   12   21            of    IN           (PP*        -    -    -    Linda_Hamilton      *         *      *             *             *           -
+bc/cnn/00/cnn_0003   12   22      Medicine   NNP           (NP*        -    -    -    Linda_Hamilton      *         *      *             *             *           -
+bc/cnn/00/cnn_0003   12   23           and    CC              *        -    -    -    Linda_Hamilton      *         *      *             *             *           -
+bc/cnn/00/cnn_0003   12   24     Dentistry   NNP             *))       -    -    -    Linda_Hamilton      *)        *      *             *             *           -
+bc/cnn/00/cnn_0003   12   25            in    IN           (PP*        -    -    -    Linda_Hamilton      *         *      *             *             *           -
+bc/cnn/00/cnn_0003   12   26           New   NNP           (NP*        -    -    -    Linda_Hamilton  (GPE*         *      *             *             *        (107
+bc/cnn/00/cnn_0003   12   27        Jersey   NNP          *)))))       -    -    -    Linda_Hamilton      *)        *      *             *             *)   119)|107)
+bc/cnn/00/cnn_0003   12   28            /.     .             *))       -    -    -    Linda_Hamilton      *         *      *             *             *           -
+
+bc/cnn/00/cnn_0003   12    0        Um    UH           (TOP(S(INTJ*)     -    -   -    Linda_Hamilton      *      *             *      -
+bc/cnn/00/cnn_0003   12    1        oh    UH                 (INTJ*)     -    -   -    Linda_Hamilton      *      *             *      -
+bc/cnn/00/cnn_0003   12    2      they   PRP                   (NP*)     -    -   -    Linda_Hamilton      *      *        (ARG0*)   (99)
+bc/cnn/00/cnn_0003   12    3     would    MD                   (VP*      -    -   -    Linda_Hamilton      *      *             *      -
+bc/cnn/00/cnn_0003   12    4      have    VB                   (VP*    have  02   -    Linda_Hamilton      *    (V*)            *      -
+bc/cnn/00/cnn_0003   12    5        to    TO                 (S(VP*      -    -   -    Linda_Hamilton      *      *             *      -
+bc/cnn/00/cnn_0003   12    6      know    VB                   (VP*    know  01   1    Linda_Hamilton      *      *           (V*)     -
+bc/cnn/00/cnn_0003   12    7     where   WRB   (SBAR(WHADVP(WHADVP*)     -    -   -    Linda_Hamilton      *      *        (ARG1*      -
+bc/cnn/00/cnn_0003   12    8        in    IN                   (PP*      -    -   -    Linda_Hamilton      *      *             *      -
+bc/cnn/00/cnn_0003   12    9       New   NNP                   (NP*      -    -   -    Linda_Hamilton  (GPE*      *             *   (107
+bc/cnn/00/cnn_0003   12   10    Jersey   NNP                   *))))     -    -   -    Linda_Hamilton      *)     *             *)   107)
+bc/cnn/00/cnn_0003   12   11      then    RB            (ADVP*))))))     -    -   -    Linda_Hamilton      *      *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0003   12   12        /.     .                     *))     -    -   -    Linda_Hamilton      *      *             *      -
+
+bc/cnn/00/cnn_0003   12   0        Is   VBZ  (TOP(SQ*    be  01   4    Linda_Hamilton      *      (V*)     -
+bc/cnn/00/cnn_0003   12   1       Eli   NNP      (NP*    -    -   -    Linda_Hamilton  (ORG*   (ARG1*    (29
+bc/cnn/00/cnn_0003   12   2     Lilly   NNP         *)   -    -   -    Linda_Hamilton      *)       *)    29)
+bc/cnn/00/cnn_0003   12   3        in    IN      (PP*    -    -   -    Linda_Hamilton      *   (ARG2*      -
+bc/cnn/00/cnn_0003   12   4       New   NNP      (NP*    -    -   -    Linda_Hamilton  (GPE*        *   (107
+bc/cnn/00/cnn_0003   12   5    Jersey   NNP        *))   -    -   -    Linda_Hamilton      *)       *)   107)
+bc/cnn/00/cnn_0003   12   6        /?     .        *))   -    -   -    Linda_Hamilton      *        *      -
+
+bc/cnn/00/cnn_0003   12   0        I   PRP      (TOP(S(NP*)     -    -   -    Linda_Hamilton  *      *        (ARG0*)     *             *    (133)
+bc/cnn/00/cnn_0003   12   1       do   VBP            (VP*      do  01   -    Linda_Hamilton  *    (V*)            *      *             *       -
+bc/cnn/00/cnn_0003   12   2      n't    RB               *      -    -   -    Linda_Hamilton  *      *    (ARGM-NEG*)     *             *       -
+bc/cnn/00/cnn_0003   12   3     know    VB            (VP*    know  01   1    Linda_Hamilton  *      *           (V*)     *             *       -
+bc/cnn/00/cnn_0003   12   4    where   WRB   (SBAR(WHADVP*)     -    -   -    Linda_Hamilton  *      *        (ARG1*      *    (ARGM-LOC*)      -
+bc/cnn/00/cnn_0003   12   5     they   PRP          (S(NP*)     -    -   -    Linda_Hamilton  *      *             *      *        (ARG1*)    (29)
+bc/cnn/00/cnn_0003   12   6      're   VBP            (VP*      be  03   -    Linda_Hamilton  *      *             *    (V*)            *       -
+bc/cnn/00/cnn_0003   12   7    based   VBN       (VP*))))))   base  01   -    Linda_Hamilton  *      *             *)     *           (V*)      -
+bc/cnn/00/cnn_0003   12   8       /.     .              *))     -    -   -    Linda_Hamilton  *      *             *      *             *       -
+
+bc/cnn/00/cnn_0003   12    0           But    CC  (TOP(S*      -    -   -    Linda_Hamilton      *    (ARGM-DIS*)          -
+bc/cnn/00/cnn_0003   12    1            uh    UH   (INTJ*)     -    -   -    Linda_Hamilton      *    (ARGM-DIS*)          -
+bc/cnn/00/cnn_0003   12    2          they   PRP     (NP*)     -    -   -    Linda_Hamilton      *        (ARG0*)        (99)
+bc/cnn/00/cnn_0003   12    3           can    MD     (VP*      -    -   -    Linda_Hamilton      *    (ARGM-MOD*)          -
+bc/cnn/00/cnn_0003   12    4          find    VB     (VP*    find  01   1    Linda_Hamilton      *           (V*)          -
+bc/cnn/00/cnn_0003   12    5           the    DT  (NP(NP*      -    -   -    Linda_Hamilton  (ORG*        (ARG1*        (119
+bc/cnn/00/cnn_0003   12    6    University   NNP        *)     -    -   -    Linda_Hamilton      *             *           -
+bc/cnn/00/cnn_0003   12    7            of    IN     (PP*      -    -   -    Linda_Hamilton      *             *           -
+bc/cnn/00/cnn_0003   12    8      Medicine   NNP     (NP*      -    -   -    Linda_Hamilton      *             *           -
+bc/cnn/00/cnn_0003   12    9           and    CC        *      -    -   -    Linda_Hamilton      *             *           -
+bc/cnn/00/cnn_0003   12   10     Dentistry   NNP       *))     -    -   -    Linda_Hamilton      *)            *           -
+bc/cnn/00/cnn_0003   12   11            in    IN     (PP*      -    -   -    Linda_Hamilton      *             *           -
+bc/cnn/00/cnn_0003   12   12           New   NNP     (NP*      -    -   -    Linda_Hamilton  (GPE*             *        (107
+bc/cnn/00/cnn_0003   12   13        Jersey   NNP    *)))))     -    -   -    Linda_Hamilton      *)            *)   119)|107)
+bc/cnn/00/cnn_0003   12   14            /.     .       *))     -    -   -    Linda_Hamilton      *             *           -
+
+bc/cnn/00/cnn_0003   12   0       I   PRP   (TOP(S(NP*)     -    -   -    Linda_Hamilton  *      *        (ARG0*)   (133)
+bc/cnn/00/cnn_0003   12   1      do   VBP         (VP*      do  01   -    Linda_Hamilton  *    (V*)            *       -
+bc/cnn/00/cnn_0003   12   2     n't    RB            *      -    -   -    Linda_Hamilton  *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0003   12   3    know    VB         (VP*    know  01   1    Linda_Hamilton  *      *           (V*)      -
+bc/cnn/00/cnn_0003   12   4    what    WP  (SBAR(WHNP*      -    -   -    Linda_Hamilton  *      *        (ARG1*       -
+bc/cnn/00/cnn_0003   12   5    town    NN         *))))   town   -   1    Linda_Hamilton  *      *             *)      -
+bc/cnn/00/cnn_0003   12   6      /.     .           *))     -    -   -    Linda_Hamilton  *      *             *       -
+
+bc/cnn/00/cnn_0003   12   0     But    CC  (TOP(S*      -    -   -    Linda_Hamilton  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0003   12   1    call    VB     (VP*    call  02   4    Linda_Hamilton  *           (V*)      -
+bc/cnn/00/cnn_0003   12   2    them   PRP    (NP*))     -    -   -    Linda_Hamilton  *        (ARG1*)   (119)
+bc/cnn/00/cnn_0003   12   3      /.     .       *))     -    -   -    Linda_Hamilton  *             *       -
+
+bc/cnn/00/cnn_0003   12    0       and    CC    (TOP(S*        -    -   -    Linda_Hamilton  *             *             *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0003   12    1      they   PRP   (S(S(NP*)       -    -   -    Linda_Hamilton  *        (ARG0*)            *        (ARG1*    (119)
+bc/cnn/00/cnn_0003   12    2      will    MD       (VP*        -    -   -    Linda_Hamilton  *    (ARGM-MOD*)            *             *       -
+bc/cnn/00/cnn_0003   12    3    direct    VB       (VP*    direct  01   2    Linda_Hamilton  *           (V*)            *             *       -
+bc/cnn/00/cnn_0003   12    4       you   PRP       (NP*)       -    -   -    Linda_Hamilton  *        (ARG1*)            *             *     (64)
+bc/cnn/00/cnn_0003   12    5        to    IN       (PP*        -    -   -    Linda_Hamilton  *        (ARG2*             *             *       -
+bc/cnn/00/cnn_0003   12    6       the    DT       (NP*        -    -   -    Linda_Hamilton  *             *             *             *       -
+bc/cnn/00/cnn_0003   12    7    proper    JJ          *        -    -   -    Linda_Hamilton  *             *    (ARGM-MNR*)            *       -
+bc/cnn/00/cnn_0003   12    8      help    NN     *))))))     help  01   1    Linda_Hamilton  *             *)          (V*)            *)      -
+bc/cnn/00/cnn_0003   12    9         I   PRP       (NP*)       -    -   -    Linda_Hamilton  *             *             *        (ARG0*)   (133)
+bc/cnn/00/cnn_0003   12   10      hope   VBP       (VP*)     hope  01   1    Linda_Hamilton  *             *             *           (V*)      -
+bc/cnn/00/cnn_0003   12   11        /.     .         *))       -    -   -    Linda_Hamilton  *             *             *             *       -
+
+bc/cnn/00/cnn_0003   12   0       I   PRP   (TOP(S(NP*)     -    -   -    Linda_Hamilton  *    (ARG0*)   (133)
+bc/cnn/00/cnn_0003   12   1    hope   VBP         (VP*    hope  01   1    Linda_Hamilton  *       (V*)      -
+bc/cnn/00/cnn_0003   12   2      so    RB      (ADVP*))     -    -   -    Linda_Hamilton  *    (ARG1*)      -
+bc/cnn/00/cnn_0003   12   3      /.     .           *))     -    -   -    Linda_Hamilton  *         *       -
+
+bc/cnn/00/cnn_0003   12    0    University   NNP   (TOP(S(NP(NP*)   -    -   -    Larry_King  (ORG*   (ARG1*        (119
+bc/cnn/00/cnn_0003   12    1            of    IN            (PP*    -    -   -    Larry_King      *        *           -
+bc/cnn/00/cnn_0003   12    2      Medicine   NNP            (NP*    -    -   -    Larry_King      *        *           -
+bc/cnn/00/cnn_0003   12    3           and    CC               *    -    -   -    Larry_King      *        *           -
+bc/cnn/00/cnn_0003   12    4     Dentistry   NNP              *))   -    -   -    Larry_King      *)       *           -
+bc/cnn/00/cnn_0003   12    5            in    IN            (PP*    -    -   -    Larry_King      *        *           -
+bc/cnn/00/cnn_0003   12    6           New   NNP            (NP*    -    -   -    Larry_King  (GPE*        *        (107
+bc/cnn/00/cnn_0003   12    7        Jersey   NNP             *)))   -    -   -    Larry_King      *)       *)   119)|107)
+bc/cnn/00/cnn_0003   12    8            is   VBZ            (VP*    be  01   4    Larry_King      *      (V*)          -
+bc/cnn/00/cnn_0003   12    9            in    IN            (PP*    -    -   -    Larry_King      *   (ARG2*           -
+bc/cnn/00/cnn_0003   12   10    Piscataway   NNP      (NP(NP(NP*)   -    -   -    Larry_King   (GPE)       *        (157
+bc/cnn/00/cnn_0003   12   11           New   NNP            (NP*    -    -   -    Larry_King  (GPE*        *        (107
+bc/cnn/00/cnn_0003   12   12        Jersey   NNP              *))   -    -   -    Larry_King      *)       *    157)|107)
+bc/cnn/00/cnn_0003   12   13    piscataway   NNP            (NP*)   -    -   -    Larry_King   (GPE)       *        (157)
+bc/cnn/00/cnn_0003   12   14    Piscataway   NNP         (NP(NP*)   -    -   -    Larry_King   (GPE)       *        (157
+bc/cnn/00/cnn_0003   12   15           New   NNP            (NP*    -    -   -    Larry_King  (GPE*        *        (107
+bc/cnn/00/cnn_0003   12   16        Jersey   NNP           *)))))   -    -   -    Larry_King      *)       *)   157)|107)
+bc/cnn/00/cnn_0003   12   17            /.     .              *))   -    -   -    Larry_King      *        *           -
+
+bc/cnn/00/cnn_0003   12    0             and    CC   (TOP(S*         -    -   -    Larry_King      *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0003   12    1             the    DT   (NP(NP*         -    -   -    Larry_King  (ORG*        (ARG1*   (29
+bc/cnn/00/cnn_0003   12    2             Eli   NNP     (NML*         -    -   -    Larry_King      *             *     -
+bc/cnn/00/cnn_0003   12    3           Lilly   NNP         *)        -    -   -    Larry_King      *             *     -
+bc/cnn/00/cnn_0003   12    4         company    NN         *    company   -   1    Larry_King      *             *     -
+bc/cnn/00/cnn_0003   12    5              's   POS         *)        -    -   -    Larry_King      *)            *    29)
+bc/cnn/00/cnn_0003   12    6            main    JJ         *         -    -   -    Larry_King      *             *     -
+bc/cnn/00/cnn_0003   12    7            base    NN         *)      base   -   7    Larry_King      *             *)    -
+bc/cnn/00/cnn_0003   12    8              is   VBZ      (VP*         be  01   2    Larry_King      *           (V*)    -
+bc/cnn/00/cnn_0003   12    9    Indianapolis   NNP   (NP(NP*)        -    -   -    Larry_King   (GPE)       (ARG2*   (96
+bc/cnn/00/cnn_0003   12   10         Indiana   NNP    (NP*)))        -    -   -    Larry_King   (GPE)            *)   96)
+bc/cnn/00/cnn_0003   12   11              /.     .        *))        -    -   -    Larry_King      *             *     -
+
+bc/cnn/00/cnn_0003   12   0    Piscataway   NNP   (TOP(FRAG(NP(NP*)  -   -   -    Larry_King   (GPE)       (157
+bc/cnn/00/cnn_0003   12   1           New   NNP               (NP*   -   -   -    Larry_King  (GPE*        (107
+bc/cnn/00/cnn_0003   12   2        Jersey   NNP                 *))  -   -   -    Larry_King      *)   157)|107)
+bc/cnn/00/cnn_0003   12   3           for    IN               (PP*   -   -   -    Larry_King      *           -
+bc/cnn/00/cnn_0003   12   4           the    DT               (NP*   -   -   -    Larry_King      *        (119
+bc/cnn/00/cnn_0003   12   5    University   NNP                 *))  -   -   -    Larry_King   (ORG)        119)
+bc/cnn/00/cnn_0003   12   6            /.     .                 *))  -   -   -    Larry_King      *           -
+
+bc/cnn/00/cnn_0003   12   0             Eli   NNP  (TOP(FRAG(NP*   -   -   -    Larry_King  (ORG*    (29
+bc/cnn/00/cnn_0003   12   1           Lilly   NNP              *)  -   -   -    Larry_King      *)    29)
+bc/cnn/00/cnn_0003   12   2              in    IN           (PP*   -   -   -    Larry_King      *      -
+bc/cnn/00/cnn_0003   12   3    Indianapolis   NNP          (NP*))  -   -   -    Larry_King   (GPE)   (96)
+bc/cnn/00/cnn_0003   12   4              /.     .             *))  -   -   -    Larry_King      *      -

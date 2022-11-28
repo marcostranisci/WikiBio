@@ -1,0 +1,594 @@
+bc/msnbc/00/msnbc_0005   5    0               But     CC           (TOP(S*                -    -   -    Tim_Russert  *      *      *    (ARGM-DIS*)        *            *         *       -
+bc/msnbc/00/msnbc_0005   5    1            people    NNS              (NP*)           people   -   1    Tim_Russert  *      *      *        (ARG2*)   (ARG0*)           *         *       -
+bc/msnbc/00/msnbc_0005   5    2               are    VBP              (VP*                be  03   -    Tim_Russert  *    (V*)     *             *         *            *         *       -
+bc/msnbc/00/msnbc_0005   5    3             being    VBG              (VP*                be  03   -    Tim_Russert  *      *    (V*)            *         *            *         *       -
+bc/msnbc/00/msnbc_0005   5    4             asked    VBN              (VP*               ask  02   2    Tim_Russert  *      *      *           (V*)        *            *         *       -
+bc/msnbc/00/msnbc_0005   5    5                to     TO            (S(VP*                -    -   -    Tim_Russert  *      *      *        (ARG1*         *            *         *       -
+bc/msnbc/00/msnbc_0005   5    6              take     VB              (VP*              take  01   7    Tim_Russert  *      *      *             *       (V*)           *         *       -
+bc/msnbc/00/msnbc_0005   5    7              your   PRP$           (NP(NP*                -    -   -    Tim_Russert  *      *      *             *    (ARG1*            *         *    (124)
+bc/msnbc/00/msnbc_0005   5    8         judgement     NN                 *)               -    -   -    Tim_Russert  *      *      *             *         *            *         *       -
+bc/msnbc/00/msnbc_0005   5    9                on     IN              (PP*                -    -   -    Tim_Russert  *      *      *             *         *            *         *       -
+bc/msnbc/00/msnbc_0005   5   10              this     DT         (NP*))))))               -    -   -    Tim_Russert  *      *      *             *)        *)           *         *       -
+bc/msnbc/00/msnbc_0005   5   11                as     IN            (SBAR*                -    -   -    Tim_Russert  *      *      *    (ARGM-TMP*         *            *         *       -
+bc/msnbc/00/msnbc_0005   5   12                we    PRP            (S(NP*)               -    -   -    Tim_Russert  *      *      *             *         *       (ARG1*)   (ARG0*)      -
+bc/msnbc/00/msnbc_0005   5   13               sit    VBP           (VP(VP*               sit  01   1    Tim_Russert  *      *      *             *         *          (V*)        *       -
+bc/msnbc/00/msnbc_0005   5   14              here     RB            (ADVP*)               -    -   -    Tim_Russert  *      *      *             *         *       (ARG2*)        *       -
+bc/msnbc/00/msnbc_0005   5   15              this     DT              (NP*                -    -   -    Tim_Russert  *      *      *             *         *   (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0005   5   16           morning     NN                *))          morning   -   1    Tim_Russert  *      *      *             *         *            *)        *       -
+bc/msnbc/00/msnbc_0005   5   17               and     CC                 *                -    -   -    Tim_Russert  *      *      *             *         *            *         *       -
+bc/msnbc/00/msnbc_0005   5   18             refer    VBP              (VP*             refer  01   2    Tim_Russert  *      *      *             *         *            *       (V*)      -
+bc/msnbc/00/msnbc_0005   5   19                to     IN              (PP*                -    -   -    Tim_Russert  *      *      *             *         *            *    (ARG1*       -
+bc/msnbc/00/msnbc_0005   5   20          previous     JJ           (NP(NP*                -    -   -    Tim_Russert  *      *      *             *         *            *         *       -
+bc/msnbc/00/msnbc_0005   5   21        judgements    NNS                 *)               -    -   -    Tim_Russert  *      *      *             *         *            *         *       -
+bc/msnbc/00/msnbc_0005   5   22               the     DT       (SBAR(S(NP*                -    -   -    Tim_Russert  *      *      *             *         *            *         *     (11
+bc/msnbc/00/msnbc_0005   5   23    administration     NN                 *)   administration   -   1    Tim_Russert  *      *      *             *         *            *         *      11)
+bc/msnbc/00/msnbc_0005   5   24              made    VBD   (VP*))))))))))))             make   -   1    Tim_Russert  *      *      *             *)        *            *         *)      -
+bc/msnbc/00/msnbc_0005   5   25                /.      .                *))               -    -   -    Tim_Russert  *      *      *             *         *            *         *       -
+
+bc/msnbc/00/msnbc_0005   5   0        Weapons   NNP   (TOP(S(NP(NP*)   -    -   -    Tim_Russert  *      (ARG1*   -
+bc/msnbc/00/msnbc_0005   5   1             of    IN            (PP*    -    -   -    Tim_Russert  *           *   -
+bc/msnbc/00/msnbc_0005   5   2           mass    JJ            (NP*    -    -   -    Tim_Russert  *           *   -
+bc/msnbc/00/msnbc_0005   5   3    destruction    NN             *)))   -    -   -    Tim_Russert  *           *)  -
+bc/msnbc/00/msnbc_0005   5   4          there    EX            (NP*)   -    -   -    Tim_Russert  *           *   -
+bc/msnbc/00/msnbc_0005   5   5           were   VBD            (VP*    be  02   3    Tim_Russert  *         (V*)  -
+bc/msnbc/00/msnbc_0005   5   6           none    NN           (NP*))   -    -   -    Tim_Russert  *    (R-ARG1*)  -
+bc/msnbc/00/msnbc_0005   5   7             /.     .              *))   -    -   -    Tim_Russert  *           *   -
+
+bc/msnbc/00/msnbc_0005   5   0            We   PRP   (TOP(S(NP*)      -    -   -    Tim_Russert  *      *        (ARG1*)  -
+bc/msnbc/00/msnbc_0005   5   1         would    MD         (VP*       -    -   -    Tim_Russert  *      *    (ARGM-MOD*)  -
+bc/msnbc/00/msnbc_0005   5   2            be    VB         (VP*       be  03   -    Tim_Russert  *    (V*)            *   -
+bc/msnbc/00/msnbc_0005   5   3       greeted   VBN         (VP*    greet  01   1    Tim_Russert  *      *           (V*)  -
+bc/msnbc/00/msnbc_0005   5   4            as    IN         (PP*       -    -   -    Tim_Russert  *      *        (ARG2*   -
+bc/msnbc/00/msnbc_0005   5   5    liberators   NNS     (NP*)))))      -    -   -    Tim_Russert  *      *             *)  -
+bc/msnbc/00/msnbc_0005   5   6            /.     .           *))      -    -   -    Tim_Russert  *      *             *   -
+
+bc/msnbc/00/msnbc_0005   5   0     this    DT   (TOP(S(NP*)   -    -   -    Tim_Russert       *    (ARG1*)  -
+bc/msnbc/00/msnbc_0005   5   1       is   VBZ         (VP*    be  01   1    Tim_Russert       *       (V*)  -
+bc/msnbc/00/msnbc_0005   5   2    three    CD    (ADVP(NP*    -    -   -    Tim_Russert  (DATE*    (ARG2*   -
+bc/msnbc/00/msnbc_0005   5   3    years   NNS            *)   -    -   -    Tim_Russert       *         *   -
+bc/msnbc/00/msnbc_0005   5   4    later    RB           *))   -    -   -    Tim_Russert       *)        *)  -
+bc/msnbc/00/msnbc_0005   5   5       /.     .           *))   -    -   -    Tim_Russert       *         *   -
+
+bc/msnbc/00/msnbc_0005   5    0         That    IN   (TOP(SBAR*        -    -   -    Tim_Russert           *             *         *      -
+bc/msnbc/00/msnbc_0005   5    1           it   PRP   (S(NP(NP*))       -    -   -    Tim_Russert           *             *         *      -
+bc/msnbc/00/msnbc_0005   5    2        would    MD         (VP*        -    -   -    Tim_Russert           *    (ARGM-MOD*)        *      -
+bc/msnbc/00/msnbc_0005   5    3          not    RB            *        -    -   -    Tim_Russert           *    (ARGM-NEG*)        *      -
+bc/msnbc/00/msnbc_0005   5    4         take    VB         (VP*      take  10   3    Tim_Russert           *           (V*)        *      -
+bc/msnbc/00/msnbc_0005   5    5     hundreds   NNS   (NP(NP(QP*        -    -   -    Tim_Russert  (CARDINAL*        (ARG1*         *      -
+bc/msnbc/00/msnbc_0005   5    6           of    IN            *        -    -   -    Tim_Russert           *             *         *      -
+bc/msnbc/00/msnbc_0005   5    7    thousands   NNS           *))       -    -   -    Tim_Russert           *)            *         *      -
+bc/msnbc/00/msnbc_0005   5    8           of    IN         (PP*        -    -   -    Tim_Russert           *             *         *      -
+bc/msnbc/00/msnbc_0005   5    9     American    JJ         (NP*        -    -   -    Tim_Russert       (NORP)            *         *      -
+bc/msnbc/00/msnbc_0005   5   10       troops   NNS          *)))    troop   -   -    Tim_Russert           *             *)        *      -
+bc/msnbc/00/msnbc_0005   5   11           to    TO       (S(VP*        -    -   -    Tim_Russert           *        (ARG0*         *      -
+bc/msnbc/00/msnbc_0005   5   12       occupy    VB         (VP*    occupy  01   1    Tim_Russert           *             *       (V*)     -
+bc/msnbc/00/msnbc_0005   5   13         Iraq   NNP   (NP*)))))))       -    -   -    Tim_Russert        (GPE)            *)   (ARG1*)   (61)
+bc/msnbc/00/msnbc_0005   5   14           /.     .           *))       -    -   -    Tim_Russert           *             *         *      -
+
+bc/msnbc/00/msnbc_0005   5    0        Tommy   NNP    (TOP(S(NP*           -    -   -    Tim_Russert       (PERSON*       (ARG0*             *   -
+bc/msnbc/00/msnbc_0005   5    1       Franks   NNP             *)          -    -   -    Tim_Russert              *)           *)            *   -
+bc/msnbc/00/msnbc_0005   5    2    according   VBG          (PP*    according   -   -    Tim_Russert              *   (ARGM-ADV*             *   -
+bc/msnbc/00/msnbc_0005   5    3           to    IN          (PP*           -    -   -    Tim_Russert              *            *             *   -
+bc/msnbc/00/msnbc_0005   5    4          the    DT       (NP(NP*           -    -   -    Tim_Russert              *            *             *   -
+bc/msnbc/00/msnbc_0005   5    5         book    NN             *)        book   -   1    Tim_Russert              *            *             *   -
+bc/msnbc/00/msnbc_0005   5    6        Cobra   NNP          (NP*           -    -   -    Tim_Russert  (WORK_OF_ART*            *             *   -
+bc/msnbc/00/msnbc_0005   5    7          Two    CD          *))))          -    -   -    Tim_Russert              *)           *)            *   -
+bc/msnbc/00/msnbc_0005   5    8         said   VBD          (VP*          say  01   1    Tim_Russert              *          (V*)            *   -
+bc/msnbc/00/msnbc_0005   5    9           we   PRP   (SBAR(S(NP*)          -    -   -    Tim_Russert              *       (ARG1*        (ARG1*)  -
+bc/msnbc/00/msnbc_0005   5   10           'd    MD          (VP*           -    -   -    Tim_Russert              *            *    (ARGM-MOD*)  -
+bc/msnbc/00/msnbc_0005   5   11           be    VB          (VP*           be  01   1    Tim_Russert              *            *           (V*)  -
+bc/msnbc/00/msnbc_0005   5   12         down    RB        (ADVP*           -    -   -    Tim_Russert              *            *        (ARG2*   -
+bc/msnbc/00/msnbc_0005   5   13           to    IN          (PP*           -    -   -    Tim_Russert              *            *             *   -
+bc/msnbc/00/msnbc_0005   5   14       thirty    CD       (NP(QP*           -    -   -    Tim_Russert     (CARDINAL*            *             *   -
+bc/msnbc/00/msnbc_0005   5   15     thousand    CD             *)          -    -   -    Tim_Russert              *)           *             *   -
+bc/msnbc/00/msnbc_0005   5   16       troops   NNS           *)))       troop   -   -    Tim_Russert              *            *             *)  -
+bc/msnbc/00/msnbc_0005   5   17           in    IN          (PP*           -    -   -    Tim_Russert              *            *    (ARGM-TMP*   -
+bc/msnbc/00/msnbc_0005   5   18     November   NNP       (NP(NP*)          -    -   -    Tim_Russert         (DATE*            *             *   -
+bc/msnbc/00/msnbc_0005   5   19           of    IN          (PP*           -    -   -    Tim_Russert              *            *             *   -
+bc/msnbc/00/msnbc_0005   5   20           oh    CD          (NP*           -    -   -    Tim_Russert              *            *             *   -
+bc/msnbc/00/msnbc_0005   5   21        three    CD     *)))))))))          -    -   -    Tim_Russert              *)           *)            *)  -
+bc/msnbc/00/msnbc_0005   5   22           /.     .            *))          -    -   -    Tim_Russert              *            *             *   -
+
+bc/msnbc/00/msnbc_0005   5    0         The    DT  (TOP(S(NP(NP*        -    -   -    Tim_Russert        *      *     (ARG1*             *    (140
+bc/msnbc/00/msnbc_0005   5    1        cost    NN              *)     cost   -   1    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5    2          of    IN           (PP*        -    -   -    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5    3         the    DT           (NP*        -    -   -    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5    4         war    NN            *)))      war  01   1    Tim_Russert        *    (V*)         *)            *     140)
+bc/msnbc/00/msnbc_0005   5    5         the    DT        (NP(NP*        -    -   -    Tim_Russert        *      *     (ARG0*             *       -
+bc/msnbc/00/msnbc_0005   5    6      budget    NN              *    budget   -   -    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5    7    director    NN              *)       -    -   -    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5    8          of    IN           (PP*        -    -   -    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5    9         the    DT           (NP*        -    -   -    Tim_Russert    (ORG*      *          *             *     (11
+bc/msnbc/00/msnbc_0005   5   10       White   NNP              *        -    -   -    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5   11       House   NNP            *)))       -    -   -    Tim_Russert        *)     *          *)            *      11)
+bc/msnbc/00/msnbc_0005   5   12        said   VBD           (VP*       say  01   1    Tim_Russert        *      *        (V*)            *       -
+bc/msnbc/00/msnbc_0005   5   13          it   PRP    (SBAR(S(NP*)       -    -   -    Tim_Russert        *      *   (C-ARG1*        (ARG1*)   (140)
+bc/msnbc/00/msnbc_0005   5   14          'd    MD           (VP*        -    -   -    Tim_Russert        *      *          *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0005   5   15          be    VB           (VP*        be  01   7    Tim_Russert        *      *          *           (V*)      -
+bc/msnbc/00/msnbc_0005   5   16       fifty    CD        (NP(QP*        -    -   -    Tim_Russert  (MONEY*      *          *        (ARG2*       -
+bc/msnbc/00/msnbc_0005   5   17     billion    CD              *)       -    -   -    Tim_Russert        *      *          *             *       -
+bc/msnbc/00/msnbc_0005   5   18     dollars   NNS         *))))))       -    -   -    Tim_Russert        *)     *          *)            *)      -
+bc/msnbc/00/msnbc_0005   5   19          /.     .             *))       -    -   -    Tim_Russert        *      *          *             *       -
+
+bc/msnbc/00/msnbc_0005   5    0         It   PRP   (TOP(S(NP*)   -    -   -    Tim_Russert        *        (ARG1*)   (140)
+bc/msnbc/00/msnbc_0005   5    1         's   VBZ         (VP*    be  01   7    Tim_Russert        *           (V*)      -
+bc/msnbc/00/msnbc_0005   5    2        now    RB       (ADVP*)   -    -   -    Tim_Russert        *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0005   5    3       over    RB      (NP(QP*    -    -   -    Tim_Russert        *        (ARG2*       -
+bc/msnbc/00/msnbc_0005   5    4      three    CD            *    -    -   -    Tim_Russert  (MONEY*             *       -
+bc/msnbc/00/msnbc_0005   5    5    hundred    CD            *    -    -   -    Tim_Russert        *             *       -
+bc/msnbc/00/msnbc_0005   5    6        and    CC            *    -    -   -    Tim_Russert        *             *       -
+bc/msnbc/00/msnbc_0005   5    7      fifty    CD            *    -    -   -    Tim_Russert        *             *       -
+bc/msnbc/00/msnbc_0005   5    8    billion    CD            *)   -    -   -    Tim_Russert        *             *       -
+bc/msnbc/00/msnbc_0005   5    9    dollars   NNS           *))   -    -   -    Tim_Russert        *)            *)      -
+bc/msnbc/00/msnbc_0005   5   10         /.     .           *))   -    -   -    Tim_Russert        *             *       -
+
+bc/msnbc/00/msnbc_0005   5   0         Each    DT    (TOP(S(NP*       -    -   -    Tim_Russert  *      *        *    (ARG1*   -
+bc/msnbc/00/msnbc_0005   5   1    judgement    NN             *)      -    -   -    Tim_Russert  *      *        *         *)  -
+bc/msnbc/00/msnbc_0005   5   2          has   VBZ          (VP*     have  01   -    Tim_Russert  *    (V*)       *         *   -
+bc/msnbc/00/msnbc_0005   5   3       proven   VBN          (VP*    prove  01   2    Tim_Russert  *      *      (V*)        *   -
+bc/msnbc/00/msnbc_0005   5   4           to    TO        (S(VP*       -    -   -    Tim_Russert  *      *   (ARG1*         *   -
+bc/msnbc/00/msnbc_0005   5   5           be    VB          (VP*       be  01   1    Tim_Russert  *      *        *       (V*)  -
+bc/msnbc/00/msnbc_0005   5   6        wrong    JJ   (ADJP*))))))      -    -   -    Tim_Russert  *      *        *)   (ARG2*)  -
+bc/msnbc/00/msnbc_0005   5   7           /.     .            *))      -    -   -    Tim_Russert  *      *        *         *   -
+
+bc/msnbc/00/msnbc_0005   5    0            The    DT    (TOP(S(NP(NP*        -    -   -    Condoleezza_Rice         *      *             *      (ARG1*        (ARG1*      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    1      judgement    NN                *)       -    -   -    Condoleezza_Rice         *      *             *           *)            *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    2           that   WDT      (SBAR(WHNP*)       -    -   -    Condoleezza_Rice         *      *             *    (R-ARG1*)            *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    3            has   VBZ           (S(VP*      have  01   -    Condoleezza_Rice         *    (V*)            *           *             *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    4            not    RB                *        -    -   -    Condoleezza_Rice         *      *    (ARGM-NEG*)          *             *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    5         proven   VBN             (VP*     prove  01   2    Condoleezza_Rice         *      *           (V*)          *             *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    6             to    TO           (S(VP*        -    -   -    Condoleezza_Rice         *      *        (ARG1*           *             *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    7             be    VB             (VP*        be  01   1    Condoleezza_Rice         *      *             *         (V*)            *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5    8          wrong    JJ   (ADJP*)))))))))       -    -   -    Condoleezza_Rice         *      *             *)     (ARG2*)            *)     *            *        *      -
+bc/msnbc/00/msnbc_0005   5    9             uh    UH           (INTJ*)       -    -   -    Condoleezza_Rice         *      *             *           *    (ARGM-DIS*)     *            *        *      -
+bc/msnbc/00/msnbc_0005   5   10            Tim   NNP             (NP*)       -    -   -    Condoleezza_Rice   (PERSON)     *             *           *    (ARGM-DIS*)     *            *        *      -
+bc/msnbc/00/msnbc_0005   5   11             is   VBZ             (VP*        be  01   2    Condoleezza_Rice         *      *             *           *           (V*)     *            *        *      -
+bc/msnbc/00/msnbc_0005   5   12           that    IN           (SBAR*        -    -   -    Condoleezza_Rice         *      *             *           *        (ARG2*      *            *        *      -
+bc/msnbc/00/msnbc_0005   5   13            the    DT         (S(S(NP*        -    -   -    Condoleezza_Rice         *      *             *           *             *      *       (ARG1*        *     (0
+bc/msnbc/00/msnbc_0005   5   14         region    NN                *)   region   -   3    Condoleezza_Rice         *      *             *           *             *      *            *)       *      0)
+bc/msnbc/00/msnbc_0005   5   15             is   VBZ             (VP*        be  03   -    Condoleezza_Rice         *      *             *           *             *    (V*)           *        *      -
+bc/msnbc/00/msnbc_0005   5   16       changing   VBG             (VP*    change  01   1    Condoleezza_Rice         *      *             *           *             *      *          (V*)       *      -
+bc/msnbc/00/msnbc_0005   5   17             in    IN             (PP*        -    -   -    Condoleezza_Rice         *      *             *           *             *      *   (ARGM-MNR*        *      -
+bc/msnbc/00/msnbc_0005   5   18    fundemental    JJ             (NP*        -    -   -    Condoleezza_Rice         *      *             *           *             *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5   19           ways   NNS            *)))))      way   -   1    Condoleezza_Rice         *      *             *           *             *      *            *)       *      -
+bc/msnbc/00/msnbc_0005   5   20            and    CC                *        -    -   -    Condoleezza_Rice         *      *             *           *             *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5   21            the    DT           (S(NP*        -    -   -    Condoleezza_Rice         *      *             *           *             *      *            *   (ARG1*     (0
+bc/msnbc/00/msnbc_0005   5   22         region    NN                *)   region   -   3    Condoleezza_Rice         *      *             *           *             *      *            *        *)     0)
+bc/msnbc/00/msnbc_0005   5   23             is   VBZ             (VP*        be  01   1    Condoleezza_Rice         *      *             *           *             *      *            *      (V*)     -
+bc/msnbc/00/msnbc_0005   5   24         better   JJR           (ADJP*        -    -   -    Condoleezza_Rice         *      *             *           *             *      *            *   (ARG2*      -
+bc/msnbc/00/msnbc_0005   5   25        without    IN             (PP*        -    -   -    Condoleezza_Rice         *      *             *           *             *      *            *        *      -
+bc/msnbc/00/msnbc_0005   5   26         Saddam   NNP             (NP*        -    -   -    Condoleezza_Rice  (PERSON*      *             *           *             *      *            *        *   (165
+bc/msnbc/00/msnbc_0005   5   27        Hussein   NNP         *))))))))       -    -   -    Condoleezza_Rice         *)     *             *           *             *)     *            *        *)   165)
+bc/msnbc/00/msnbc_0005   5   28             /.     .               *))       -    -   -    Condoleezza_Rice         *      *             *           *             *      *            *        *      -
+
+bc/msnbc/00/msnbc_0005   5    0            Yes    UH   (TOP(S(INTJ*)       -    -   -    Condoleezza_Rice  *    (ARGM-DIS*)        *         *       -
+bc/msnbc/00/msnbc_0005   5    1             it   PRP       (NP(NP*))       -    -   -    Condoleezza_Rice  *             *         *         *       -
+bc/msnbc/00/msnbc_0005   5    2             is   VBZ           (VP*        be  01   1    Condoleezza_Rice  *           (V*)        *         *       -
+bc/msnbc/00/msnbc_0005   5    3           true    JJ         (ADJP*)       -    -   -    Condoleezza_Rice  *        (ARG2*)        *         *       -
+bc/msnbc/00/msnbc_0005   5    4           that    IN         (SBAR*        -    -   -    Condoleezza_Rice  *        (ARG1*         *         *       -
+bc/msnbc/00/msnbc_0005   5    5             uh    UH         (INTJ*)       -    -   -    Condoleezza_Rice  *             *         *         *       -
+bc/msnbc/00/msnbc_0005   5    6       everyone    NN         (S(NP*)       -    -   -    Condoleezza_Rice  *             *    (ARG0*)        *       -
+bc/msnbc/00/msnbc_0005   5    7        thought   VBD           (VP*     think  01   1    Condoleezza_Rice  *             *       (V*)        *       -
+bc/msnbc/00/msnbc_0005   5    8             he   PRP    (SBAR(S(NP*)       -    -   -    Condoleezza_Rice  *             *    (ARG1*    (ARG0*)   (165)
+bc/msnbc/00/msnbc_0005   5    9            had   VBD           (VP*      have  03   1    Condoleezza_Rice  *             *         *       (V*)      -
+bc/msnbc/00/msnbc_0005   5   10        weapons   NNS        (NP(NP*)   weapon   -   1    Condoleezza_Rice  *             *         *    (ARG1*       -
+bc/msnbc/00/msnbc_0005   5   11             of    IN           (PP*        -    -   -    Condoleezza_Rice  *             *         *         *       -
+bc/msnbc/00/msnbc_0005   5   12           mass    JJ           (NP*        -    -   -    Condoleezza_Rice  *             *         *         *       -
+bc/msnbc/00/msnbc_0005   5   13    destruction    NN     *))))))))))       -    -   -    Condoleezza_Rice  *             *)        *)        *)      -
+bc/msnbc/00/msnbc_0005   5   14             /.     .             *))       -    -   -    Condoleezza_Rice  *             *         *         *       -
+
+bc/msnbc/00/msnbc_0005   5   0     He   PRP   (TOP(S(NP*)   -    -   -    Condoleezza_Rice  *      *    (165)
+bc/msnbc/00/msnbc_0005   5   1    did   VBD         (VP*    do  01   -    Condoleezza_Rice  *    (V*)      -
+bc/msnbc/00/msnbc_0005   5   2    not    RB            *)   -    -   -    Condoleezza_Rice  *      *       -
+bc/msnbc/00/msnbc_0005   5   3     /.     .           *))   -    -   -    Condoleezza_Rice  *      *       -
+
+bc/msnbc/00/msnbc_0005   5    0           It    PRP   (TOP(S(NP(NP*))     -    -    -    Condoleezza_Rice       *            *        *      *        *       -
+bc/msnbc/00/msnbc_0005   5    1           is    VBZ             (VP*      be  01    1    Condoleezza_Rice       *          (V*)       *      *        *       -
+bc/msnbc/00/msnbc_0005   5    2           by     IN             (PP*      -    -    -    Condoleezza_Rice       *   (ARGM-DIS*        *      *        *       -
+bc/msnbc/00/msnbc_0005   5    3          the     DT             (NP*      -    -    -    Condoleezza_Rice       *            *        *      *        *       -
+bc/msnbc/00/msnbc_0005   5    4          way     NN               *))    way   -   10    Condoleezza_Rice       *            *)       *      *        *       -
+bc/msnbc/00/msnbc_0005   5    5          the     DT             (NP*      -    -    -    Condoleezza_Rice       *       (ARG2*        *      *        *       -
+bc/msnbc/00/msnbc_0005   5    6         case     NN                *)   case   -    1    Condoleezza_Rice       *            *)       *      *        *       -
+bc/msnbc/00/msnbc_0005   5    7         that     IN           (SBAR*      -    -    -    Condoleezza_Rice       *       (ARG1*        *      *        *       -
+bc/msnbc/00/msnbc_0005   5    8          the     DT           (S(NP*      -    -    -    Condoleezza_Rice       *            *   (ARG1*      *   (ARG0*       -
+bc/msnbc/00/msnbc_0005   5    9       Iraqis   NNPS                *)     -    -    -    Condoleezza_Rice   (NORP)           *        *)     *        *)      -
+bc/msnbc/00/msnbc_0005   5   10          are    VBP             (VP*      be  01    1    Condoleezza_Rice       *            *      (V*)     *        *       -
+bc/msnbc/00/msnbc_0005   5   11    delighted     JJ           (ADJP*      -    -    -    Condoleezza_Rice       *            *   (ARG2*      *        *       -
+bc/msnbc/00/msnbc_0005   5   12           to     TO           (S(VP*      -    -    -    Condoleezza_Rice       *            *        *      *        *       -
+bc/msnbc/00/msnbc_0005   5   13           be     VB             (VP*      be  03    -    Condoleezza_Rice       *            *        *    (V*)       *       -
+bc/msnbc/00/msnbc_0005   5   14          rid    VBN             (VP*     rid  01    1    Condoleezza_Rice       *            *        *      *      (V*)      -
+bc/msnbc/00/msnbc_0005   5   15           of     IN             (PP*      -    -    -    Condoleezza_Rice       *            *        *      *   (ARG1*       -
+bc/msnbc/00/msnbc_0005   5   16          him    PRP   (NP*)))))))))))     -    -    -    Condoleezza_Rice       *            *)       *)     *        *)   (165)
+bc/msnbc/00/msnbc_0005   5   17           /.      .               *))     -    -    -    Condoleezza_Rice       *            *        *      *        *       -
+
+bc/msnbc/00/msnbc_0005   5    0           And     CC        (TOP(S*       -    -      -    Condoleezza_Rice       *    (ARGM-DIS*)   (ARGM-DIS*)           *             *     -
+bc/msnbc/00/msnbc_0005   5    1            uh     UH         (INTJ*)      -    -      -    Condoleezza_Rice       *    (ARGM-DIS*)   (ARGM-DIS*)           *             *     -
+bc/msnbc/00/msnbc_0005   5    2          most    JJS           (NP*       -    -      -    Condoleezza_Rice       *        (ARG1*        (ARG0*            *             *    (5
+bc/msnbc/00/msnbc_0005   5    3        Iraqis   NNPS              *)      -    -      -    Condoleezza_Rice   (NORP)            *)            *)           *             *     5)
+bc/msnbc/00/msnbc_0005   5    4            in     IN           (PP*       -    -      -    Condoleezza_Rice       *    (ARGM-ADV*    (ARGM-ADV*            *             *     -
+bc/msnbc/00/msnbc_0005   5    5          fact     NN          (NP*))    fact   -      5    Condoleezza_Rice       *             *)            *)           *             *     -
+bc/msnbc/00/msnbc_0005   5    6            uh     UH         (INTJ*)      -    -      -    Condoleezza_Rice       *    (ARGM-DIS*)   (ARGM-DIS*)           *             *     -
+bc/msnbc/00/msnbc_0005   5    7           are    VBP        (VP(VP*       be  01      1    Condoleezza_Rice       *           (V*)            *            *             *     -
+bc/msnbc/00/msnbc_0005   5    8       willing     JJ        (ADJP*))      -    -      -    Condoleezza_Rice       *        (ARG2*)            *            *             *     -
+bc/msnbc/00/msnbc_0005   5    9           and     CC              *       -    -      -    Condoleezza_Rice       *             *             *            *             *     -
+bc/msnbc/00/msnbc_0005   5   10            uh     UH         (INTJ*)      -    -      -    Condoleezza_Rice       *             *    (ARGM-DIS*)           *             *     -
+bc/msnbc/00/msnbc_0005   5   11          want    VBP           (VP*)    want  01      1    Condoleezza_Rice       *             *           (V*)           *             *     -
+bc/msnbc/00/msnbc_0005   5   12            to     TO         (S(VP*       -    -      -    Condoleezza_Rice       *             *        (ARG1*            *             *     -
+bc/msnbc/00/msnbc_0005   5   13          keep     VB           (VP*     keep  02      3    Condoleezza_Rice       *             *             *          (V*)            *     -
+bc/msnbc/00/msnbc_0005   5   14     coalition     NN           (NP*       -    -      -    Condoleezza_Rice       *             *             *       (ARG1*             *     -
+bc/msnbc/00/msnbc_0005   5   15        forces    NNS              *)   force   -      2    Condoleezza_Rice       *             *             *            *)            *     -
+bc/msnbc/00/msnbc_0005   5   16         there     RB         (ADVP*)      -    -      -    Condoleezza_Rice       *             *             *     (C-ARG1*)            *     -
+bc/msnbc/00/msnbc_0005   5   17         until     IN         (SBAR*       -    -      -    Condoleezza_Rice       *             *             *   (ARGM-TMP*             *     -
+bc/msnbc/00/msnbc_0005   5   18          they    PRP         (S(NP*)      -    -      -    Condoleezza_Rice       *             *             *            *        (ARG0*)   (5)
+bc/msnbc/00/msnbc_0005   5   19           can     MD           (VP*       -    -      -    Condoleezza_Rice       *             *             *            *    (ARGM-MOD*)    -
+bc/msnbc/00/msnbc_0005   5   20            uh     UH         (INTJ*)      -    -      -    Condoleezza_Rice       *             *             *            *             *     -
+bc/msnbc/00/msnbc_0005   5   21          take     VB           (VP*     take  01   14.1    Condoleezza_Rice       *             *             *            *           (V*)    -
+bc/msnbc/00/msnbc_0005   5   22          care     NN           (NP*)    care   -      1    Condoleezza_Rice       *             *             *            *        (ARG1*)    -
+bc/msnbc/00/msnbc_0005   5   23            of     IN           (PP*       -    -      -    Condoleezza_Rice       *             *             *            *        (ARG2*     -
+bc/msnbc/00/msnbc_0005   5   24          this     DT          (NP*))      -    -      -    Condoleezza_Rice       *             *             *            *             *)    -
+bc/msnbc/00/msnbc_0005   5   25    themselves    PRP   (NP*)))))))))      -    -      -    Condoleezza_Rice       *             *             *)           *)   (ARGM-ADV*)   (5)
+bc/msnbc/00/msnbc_0005   5   26            /.      .             *))      -    -      -    Condoleezza_Rice       *             *             *            *             *     -
+
+bc/msnbc/00/msnbc_0005   5    0            But    CC   (TOP(S*             -    -    -    Condoleezza_Rice  *      *      *         *   -
+bc/msnbc/00/msnbc_0005   5    1             we   PRP      (NP*)            -    -    -    Condoleezza_Rice  *      *      *    (ARG0*)  -
+bc/msnbc/00/msnbc_0005   5    2             do   VBP      (VP*             do  01    -    Condoleezza_Rice  *    (V*)     *         *   -
+bc/msnbc/00/msnbc_0005   5    3           have    VB      (VP*           have  02   12    Condoleezza_Rice  *      *    (V*)        *   -
+bc/msnbc/00/msnbc_0005   5    4             to    TO    (S(VP*             -    -    -    Condoleezza_Rice  *      *      *         *   -
+bc/msnbc/00/msnbc_0005   5    5           keep    VB      (VP*           keep  04    3    Condoleezza_Rice  *      *      *       (V*)  -
+bc/msnbc/00/msnbc_0005   5    6         things   NNS      (NP*)         thing   -    1    Condoleezza_Rice  *      *      *    (ARG1*)  -
+bc/msnbc/00/msnbc_0005   5    7             in    IN      (PP*             -    -    -    Condoleezza_Rice  *      *      *    (ARG2*   -
+bc/msnbc/00/msnbc_0005   5    8     historical    JJ      (NP*             -    -    -    Condoleezza_Rice  *      *      *         *   -
+bc/msnbc/00/msnbc_0005   5    9    perspective    NN   *)))))))   perspective   -    1    Condoleezza_Rice  *      *      *         *)  -
+bc/msnbc/00/msnbc_0005   5   10             /.     .        *))            -    -    -    Condoleezza_Rice  *      *      *         *   -
+
+bc/msnbc/00/msnbc_0005   5    0        These    DT    (TOP(S(NP*           -    -   -    Condoleezza_Rice      *      *   (ARG0*           *      -
+bc/msnbc/00/msnbc_0005   5    1       people   NNS             *)      people   -   1    Condoleezza_Rice      *      *        *)          *      -
+bc/msnbc/00/msnbc_0005   5    2          are   VBP          (VP*           be  03   -    Condoleezza_Rice      *    (V*)       *           *      -
+bc/msnbc/00/msnbc_0005   5    3        doing   VBG          (VP*           do  02   1    Condoleezza_Rice      *      *      (V*)          *      -
+bc/msnbc/00/msnbc_0005   5    4    something    NN       (NP(NP*)   something   -   4    Condoleezza_Rice      *      *   (ARG1*      (ARG1*)     -
+bc/msnbc/00/msnbc_0005   5    5         that   WDT   (SBAR(WHNP*)          -    -   -    Condoleezza_Rice      *      *        *    (R-ARG1*)     -
+bc/msnbc/00/msnbc_0005   5    6           is   VBZ        (S(VP*           be  01   1    Condoleezza_Rice      *      *        *         (V*)     -
+bc/msnbc/00/msnbc_0005   5    7        quite    RB        (ADJP*           -    -   -    Condoleezza_Rice      *      *        *      (ARG2*      -
+bc/msnbc/00/msnbc_0005   5    8      unknown    JJ             *           -    -   -    Condoleezza_Rice      *      *        *           *      -
+bc/msnbc/00/msnbc_0005   5    9           in    IN          (PP*           -    -   -    Condoleezza_Rice      *      *        *           *      -
+bc/msnbc/00/msnbc_0005   5   10          the    DT          (NP*           -    -   -    Condoleezza_Rice  (LOC*      *        *           *   (116
+bc/msnbc/00/msnbc_0005   5   11       Middle   NNP             *           -    -   -    Condoleezza_Rice      *      *        *           *      -
+bc/msnbc/00/msnbc_0005   5   12         East   NNP     *)))))))))          -    -   -    Condoleezza_Rice      *)     *        *)          *)   116)
+bc/msnbc/00/msnbc_0005   5   13           /.     .            *))          -    -   -    Condoleezza_Rice      *      *        *           *      -
+
+bc/msnbc/00/msnbc_0005   5   0            and    CC        (TOP(S*      -    -    -    Condoleezza_Rice  *      *         *         *      -
+bc/msnbc/00/msnbc_0005   5   1            one   PRP           (NP*)     -    -    -    Condoleezza_Rice  *      *    (ARG0*)        *      -
+bc/msnbc/00/msnbc_0005   5   2            has   VBZ           (VP*    have  02   12    Condoleezza_Rice  *    (V*)        *         *      -
+bc/msnbc/00/msnbc_0005   5   3             to    TO         (S(VP*      -    -    -    Condoleezza_Rice  *      *         *         *      -
+bc/msnbc/00/msnbc_0005   5   4            ask    VB           (VP*     ask  01    1    Condoleezza_Rice  *      *       (V*)        *      -
+bc/msnbc/00/msnbc_0005   5   5           what    WP   (SBARQ(WHNP*)     -    -    -    Condoleezza_Rice  *      *    (ARG1*    (ARG2*)     -
+bc/msnbc/00/msnbc_0005   5   6            was   VBD           (SQ*      be  01    1    Condoleezza_Rice  *      *         *       (V*)     -
+bc/msnbc/00/msnbc_0005   5   7            the    DT           (NP*      -    -    -    Condoleezza_Rice  *      *         *    (ARG1*   (197
+bc/msnbc/00/msnbc_0005   5   8    alternative    NN        *)))))))     -    -    -    Condoleezza_Rice  *      *         *)        *)   197)
+bc/msnbc/00/msnbc_0005   5   9             /?     .             *))     -    -    -    Condoleezza_Rice  *      *         *         *      -
+
+bc/msnbc/00/msnbc_0005   5    0               Was    VBD           (TOP(SQ*                be  01   1    Condoleezza_Rice         *      (V*)            *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5    1               the     DT               (NP*                -    -   -    Condoleezza_Rice         *   (ARG1*             *        *        *        *        *             *        *        *             *             *        (197
+bc/msnbc/00/msnbc_0005   5    2       alternative     JJ                  *)               -    -   -    Condoleezza_Rice         *        *)            *        *        *        *        *             *        *        *             *             *         197)
+bc/msnbc/00/msnbc_0005   5    3                to     TO             (S(VP*                -    -   -    Condoleezza_Rice         *   (ARG2*             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5    4             leave     VB               (VP*             leave  01   3    Condoleezza_Rice         *        *           (V*)       *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5    5            Saddam    NNP               (NP*                -    -   -    Condoleezza_Rice  (PERSON*        *        (ARG1*   (ARG0*   (ARG0*   (ARG0*   (ARG0*        (ARG0*   (ARG0*   (ARG0*        (ARG0*        (ARG0*        (165
+bc/msnbc/00/msnbc_0005   5    6           Hussein    NNP                  *)               -    -   -    Condoleezza_Rice         *)       *             *)       *)       *)       *)       *)            *)       *)       *)            *)            *)        165)
+bc/msnbc/00/msnbc_0005   5    7                in     IN               (PP*                -    -   -    Condoleezza_Rice         *        *        (ARG2*        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5    8             power     NN              (NP*))            power   -   1    Condoleezza_Rice         *        *             *)       *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5    9                uh     UH             (INTJ*)               -    -   -    Condoleezza_Rice         *        *    (ARGM-DIS*)       *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   10        continuing    VBG             (S(VP*          continue  01   1    Condoleezza_Rice         *        *    (ARGM-ADV*      (V*)       *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   11                to     TO             (S(VP*                -    -   -    Condoleezza_Rice         *        *             *   (ARG1*        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   12          threaten     VB               (VP*          threaten  01   1    Condoleezza_Rice         *        *             *        *      (V*)       *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   13               his   PRP$               (NP*                -    -   -    Condoleezza_Rice         *        *             *        *   (ARG2*        *        *             *        *        *             *             *        (165)
+bc/msnbc/00/msnbc_0005   5   14         neighbors    NNS             *))))))        neighbour   -   -    Condoleezza_Rice         *        *             *)       *)       *)       *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   15        continuing    VBG             (S(VP*          continue  01   1    Condoleezza_Rice         *        *    (ARGM-ADV*        *        *      (V*)       *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   16              with     IN               (PP*                -    -   -    Condoleezza_Rice         *        *             *        *        *   (ARG1*        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   17               his   PRP$            (NP(NP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *    (29|(165)
+bc/msnbc/00/msnbc_0005   5   18                uh     UH                  *                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   19          windfall     NN                  *                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   20           profits    NNS                  *)           profit   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   21              from     IN               (PP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   22               the     DT               (NP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   23               oil     NN          (NML(NML*)              oil   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   24               for     IN               (PP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   25              food     NN             (NP*)))             food   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   26           scandal     NN             *))))))          scandal   -   -    Condoleezza_Rice         *        *             *)       *        *        *)       *             *        *        *             *             *          29)
+bc/msnbc/00/msnbc_0005   5   27        continuing    VBG             (S(VP*          continue  01   1    Condoleezza_Rice         *        *    (ARGM-ADV*        *        *        *      (V*)            *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   28                to     TO             (S(VP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *   (ARG1*             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   29           repress     VB            (VP(VP*           repress  01   -    Condoleezza_Rice         *        *             *        *        *        *        *           (V*)       *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   30                uh     UH             (INTJ*)               -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *    (ARGM-DIS*)       *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   31               his   PRP$               (NP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *        (ARG1*        *        *             *             *        (165)
+bc/msnbc/00/msnbc_0005   5   32            people    NNS                 *))           people   -   2    Condoleezza_Rice         *        *             *        *        *        *        *             *)       *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   33               and     CC                  *                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   34             build     VB               (VP*             build  01   1    Condoleezza_Rice         *        *             *        *        *        *        *             *      (V*)       *             *             *           -
+bc/msnbc/00/msnbc_0005   5   35              mass     NN               (NP*              mass   -   2    Condoleezza_Rice         *        *             *        *        *        *        *             *   (ARG1*        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   36            graves    NNS            *)))))))            grave   -   -    Condoleezza_Rice         *        *             *)       *        *        *        *)            *        *)       *             *             *           -
+bc/msnbc/00/msnbc_0005   5   37                uh     UH             (INTJ*)               -    -   -    Condoleezza_Rice         *        *    (ARGM-DIS*)       *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   38        continuing    VBG             (S(VP*          continue  01   1    Condoleezza_Rice         *        *    (ARGM-ADV*        *        *        *        *             *        *      (V*)            *             *           -
+bc/msnbc/00/msnbc_0005   5   39                to     TO             (S(VP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *   (ARG1*             *             *           -
+bc/msnbc/00/msnbc_0005   5   40                uh     UH             (INTJ*)               -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *    (ARGM-DIS*)            *           -
+bc/msnbc/00/msnbc_0005   5   41               use     VB               (VP*               use  01   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *           (V*)            *           -
+bc/msnbc/00/msnbc_0005   5   42             those     DT               (NP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *        (ARG1*             *         (29
+bc/msnbc/00/msnbc_0005   5   43               oil     NN          (NML(NML*)              oil   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   44               for     IN               (PP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   45              food     NN             (NP*)))             food   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   46           profits    NNS                  *)           profit   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *)            *          29)
+bc/msnbc/00/msnbc_0005   5   47                to     TO             (S(VP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *        (ARG2*             *           -
+bc/msnbc/00/msnbc_0005   5   48             again     RB             (ADVP*)               -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *    (ARGM-TMP*)          -
+bc/msnbc/00/msnbc_0005   5   49             build     VB               (VP*             build  01   3    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *           (V*)          -
+bc/msnbc/00/msnbc_0005   5   50               the     DT            (NP(NP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *        (ARG1*           -
+bc/msnbc/00/msnbc_0005   5   51    infrastructure     NN                  *)   infrastructure   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   52               for     IN               (PP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   53               his   PRP$            (NP(NP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *        (165)
+bc/msnbc/00/msnbc_0005   5   54           weapons    NNS                  *)           weapon   -   1    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   55                of     IN               (PP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   56              mass     JJ               (NP*                -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+bc/msnbc/00/msnbc_0005   5   57       destruction     NN   *))))))))))))))))               -    -   -    Condoleezza_Rice         *        *)            *)       *        *        *        *             *        *        *)            *)            *)          -
+bc/msnbc/00/msnbc_0005   5   58                /?      .                 *))               -    -   -    Condoleezza_Rice         *        *             *        *        *        *        *             *        *        *             *             *           -
+
+bc/msnbc/00/msnbc_0005   5    0          But     CC       (TOP(S*         -    -   -    Tim_Russert  *    (ARGM-DIS*)     *         *       -
+bc/msnbc/00/msnbc_0005   5    1         many     JJ          (NP*)        -    -   -    Tim_Russert  *        (ARG0*)     *         *       -
+bc/msnbc/00/msnbc_0005   5    2         will     MD          (VP*         -    -   -    Tim_Russert  *    (ARGM-MOD*)     *         *       -
+bc/msnbc/00/msnbc_0005   5    3          say     VB          (VP*        say  01   1    Tim_Russert  *           (V*)     *         *       -
+bc/msnbc/00/msnbc_0005   5    4           he    PRP   (SBAR(S(NP*)        -    -   -    Tim_Russert  *        (ARG1*      *    (ARG1*)   (165)
+bc/msnbc/00/msnbc_0005   5    5          was    VBD          (VP*         be  03   -    Tim_Russert  *             *    (V*)        *       -
+bc/msnbc/00/msnbc_0005   5    6    contained    VBN          (VP*    contain  01   2    Tim_Russert  *             *      *       (V*)      -
+bc/msnbc/00/msnbc_0005   5    7           by     IN          (PP*         -    -   -    Tim_Russert  *             *      *    (ARG0*       -
+bc/msnbc/00/msnbc_0005   5    8          the     DT          (NP*         -    -   -    Tim_Russert  *             *      *         *       -
+bc/msnbc/00/msnbc_0005   5    9           no     DT         (NML*         -    -   -    Tim_Russert  *             *      *         *       -
+bc/msnbc/00/msnbc_0005   5   10           -    HYPH             *         -    -   -    Tim_Russert  *             *      *         *       -
+bc/msnbc/00/msnbc_0005   5   11          fly     NN             *)       fly   -   -    Tim_Russert  *             *      *         *       -
+bc/msnbc/00/msnbc_0005   5   12         zone     NN      *))))))))      zone   -   2    Tim_Russert  *             *)     *         *)      -
+bc/msnbc/00/msnbc_0005   5   13           /.      .            *))        -    -   -    Tim_Russert  *             *      *         *       -
+
+bc/msnbc/00/msnbc_0005   5    0       Ah    UH   (TOP(S(INTJ*)      -    -   -    Condoleezza_Rice  *      *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0005   5    1        I   PRP           (NP*)      -    -   -    Condoleezza_Rice  *      *        (ARG0*)        *    (124)
+bc/msnbc/00/msnbc_0005   5    2       do   VBP           (VP*       do  01   -    Condoleezza_Rice  *    (V*)            *         *       -
+bc/msnbc/00/msnbc_0005   5    3      not    RB              *       -    -   -    Condoleezza_Rice  *      *    (ARGM-NEG*)        *       -
+bc/msnbc/00/msnbc_0005   5    4    think    VB           (VP*    think  01   1    Condoleezza_Rice  *      *           (V*)        *       -
+bc/msnbc/00/msnbc_0005   5    5     that    IN         (SBAR*       -    -   -    Condoleezza_Rice  *      *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0005   5    6       he   PRP         (S(NP*)      -    -   -    Condoleezza_Rice  *      *             *    (ARG1*)   (165)
+bc/msnbc/00/msnbc_0005   5    7      was   VBD           (VP*       be  01   4    Condoleezza_Rice  *      *             *       (V*)      -
+bc/msnbc/00/msnbc_0005   5    8       in    IN           (PP*       -    -   -    Condoleezza_Rice  *      *             *    (ARG2*       -
+bc/msnbc/00/msnbc_0005   5    9        a    DT           (NP*       -    -   -    Condoleezza_Rice  *      *             *         *       -
+bc/msnbc/00/msnbc_0005   5   10      box    NN        *)))))))     box   -   4    Condoleezza_Rice  *      *             *)        *)      -
+bc/msnbc/00/msnbc_0005   5   11       /.     .             *))      -    -   -    Condoleezza_Rice  *      *             *         *       -
+
+bc/msnbc/00/msnbc_0005   5   0     He   PRP   (TOP(S(NP*)    -    -   -    Tim_Russert  *    (ARG1*)   (165)
+bc/msnbc/00/msnbc_0005   5   1    was   VBD         (VP*     be  01   4    Tim_Russert  *       (V*)      -
+bc/msnbc/00/msnbc_0005   5   2     in    IN         (PP*     -    -   -    Tim_Russert  *    (ARG2*       -
+bc/msnbc/00/msnbc_0005   5   3      a    DT         (NP*     -    -   -    Tim_Russert  *         *       -
+bc/msnbc/00/msnbc_0005   5   4    box    NN          *)))   box   -   4    Tim_Russert  *         *)      -
+bc/msnbc/00/msnbc_0005   5   5     /.     .           *))    -    -   -    Tim_Russert  *         *       -
+
+bc/msnbc/00/msnbc_0005   5    0           the    DT    (TOP(S(NP*         -    -   -    Condoleezza_Rice        *   (ARG0*      *           *       -
+bc/msnbc/00/msnbc_0005   5    1           oil    NN     (NML(NML*)       oil   -   1    Condoleezza_Rice        *        *      *           *       -
+bc/msnbc/00/msnbc_0005   5    2           for    IN          (PP*         -    -   -    Condoleezza_Rice        *        *      *           *       -
+bc/msnbc/00/msnbc_0005   5    3          food    NN        (NP*)))      food   -   1    Condoleezza_Rice        *        *      *           *       -
+bc/msnbc/00/msnbc_0005   5    4       program    NN             *    program   -   3    Condoleezza_Rice        *        *      *           *       -
+bc/msnbc/00/msnbc_0005   5    5         alone    RB       (ADVP*))        -    -   -    Condoleezza_Rice        *        *)     *           *       -
+bc/msnbc/00/msnbc_0005   5    6         shows   VBZ          (VP*       show  01   1    Condoleezza_Rice        *      (V*)     *           *       -
+bc/msnbc/00/msnbc_0005   5    7          that    IN        (SBAR*         -    -   -    Condoleezza_Rice        *   (ARG1*      *           *       -
+bc/msnbc/00/msnbc_0005   5    8           the    DT  (S(NP(NP(NP*         -    -   -    Condoleezza_Rice  (MONEY*        *      *      (ARG1*       -
+bc/msnbc/00/msnbc_0005   5    9      billions   NNS             *)        -    -   -    Condoleezza_Rice        *        *      *           *       -
+bc/msnbc/00/msnbc_0005   5   10            of    IN          (PP*         -    -   -    Condoleezza_Rice        *        *      *           *       -
+bc/msnbc/00/msnbc_0005   5   11       dollars   NNS        (NP*)))        -    -   -    Condoleezza_Rice        *)       *      *           *)      -
+bc/msnbc/00/msnbc_0005   5   12          that   WDT   (SBAR(WHNP*)        -    -   -    Condoleezza_Rice        *        *      *    (R-ARG1*)      -
+bc/msnbc/00/msnbc_0005   5   13            he   PRP        (S(NP*)        -    -   -    Condoleezza_Rice        *        *      *      (ARG0*)   (165)
+bc/msnbc/00/msnbc_0005   5   14           was   VBD          (VP*         be  03   -    Condoleezza_Rice        *        *    (V*)          *       -
+bc/msnbc/00/msnbc_0005   5   15    collecting   VBG   (VP*))))))))   collect  01   2    Condoleezza_Rice        *        *)     *         (V*)      -
+bc/msnbc/00/msnbc_0005   5   16           /-      .            *))        -    -   -    Condoleezza_Rice        *        *      *           *       -
+
+bc/msnbc/00/msnbc_0005   5   0         He   PRP   (TOP(S(NP*)      -    -   -    Condoleezza_Rice  *      *             *    (ARG0*)   (165)
+bc/msnbc/00/msnbc_0005   5   1        was   VBD         (VP*       be  03   -    Condoleezza_Rice  *    (V*)            *         *       -
+bc/msnbc/00/msnbc_0005   5   2        not    RB            *       -    -   -    Condoleezza_Rice  *      *    (ARGM-NEG*)        *       -
+bc/msnbc/00/msnbc_0005   5   3       just    RB       (ADVP*)      -    -   -    Condoleezza_Rice  *      *             *         *       -
+bc/msnbc/00/msnbc_0005   5   4      going   VBG         (VP*       go  04   7    Condoleezza_Rice  *      *           (V*)        *       -
+bc/msnbc/00/msnbc_0005   5   5         to    TO       (S(VP*       -    -   -    Condoleezza_Rice  *      *             *         *       -
+bc/msnbc/00/msnbc_0005   5   6      build    VB         (VP*    build  01   1    Condoleezza_Rice  *      *             *       (V*)      -
+bc/msnbc/00/msnbc_0005   5   7    palaces   NNS    (NP*))))))      -    -   -    Condoleezza_Rice  *      *             *    (ARG1*)      -
+bc/msnbc/00/msnbc_0005   5   8         /.     .           *))      -    -   -    Condoleezza_Rice  *      *             *         *       -
+
+bc/msnbc/00/msnbc_0005   5    0          This     DT    (TOP(S(NP*)         -    -   -    Condoleezza_Rice  *    (ARG1*)          *           *         (165)
+bc/msnbc/00/msnbc_0005   5    1           was    VBD          (VP*          be  01   1    Condoleezza_Rice  *       (V*)          *           *            -
+bc/msnbc/00/msnbc_0005   5    2       someone     NN       (NP(NP*)         -    -   -    Condoleezza_Rice  *    (ARG2*      (ARG0*)     (ARG0*)           -
+bc/msnbc/00/msnbc_0005   5    3           who     WP   (SBAR(WHNP*)         -    -   -    Condoleezza_Rice  *         *    (R-ARG0*)   (R-ARG0*)           -
+bc/msnbc/00/msnbc_0005   5    4           had    VBD        (S(VP*        have  03   2    Condoleezza_Rice  *         *         (V*)          *            -
+bc/msnbc/00/msnbc_0005   5    5            an     DT       (NP(NP*          -    -   -    Condoleezza_Rice  *         *      (ARG1*           *            -
+bc/msnbc/00/msnbc_0005   5    6    insatiable     JJ             *          -    -   -    Condoleezza_Rice  *         *           *           *            -
+bc/msnbc/00/msnbc_0005   5    7      appetite     NN             *)         -    -   -    Condoleezza_Rice  *         *           *           *            -
+bc/msnbc/00/msnbc_0005   5    8            uh     UH        (INTJ*)         -    -   -    Condoleezza_Rice  *         *           *           *            -
+bc/msnbc/00/msnbc_0005   5    9            to     TO        (S(VP*          -    -   -    Condoleezza_Rice  *         *           *           *            -
+bc/msnbc/00/msnbc_0005   5   10      dominate     VB          (VP*    dominate  01   1    Condoleezza_Rice  *         *           *         (V*)           -
+bc/msnbc/00/msnbc_0005   5   11           his   PRP$          (NP*          -    -   -    Condoleezza_Rice  *         *           *      (ARG1*    (116|(165)
+bc/msnbc/00/msnbc_0005   5   12        region     NN    *))))))))))     region   -   3    Condoleezza_Rice  *         *)          *)          *)         116)
+bc/msnbc/00/msnbc_0005   5   13            /.      .            *))         -    -   -    Condoleezza_Rice  *         *           *           *            -
+
+bc/msnbc/00/msnbc_0005   5    0          Now    RB      (TOP(S(ADVP*)          -    -   -    Condoleezza_Rice         *    (ARGM-TMP*)   (ARGM-TMP*)     *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5    1      without    IN              (PP*           -    -   -    Condoleezza_Rice         *    (ARGM-MNR*    (ARGM-MNR*      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5    2       Saddam   NNP              (NP*           -    -   -    Condoleezza_Rice  (PERSON*             *             *      *            *             *             *   (165
+bc/msnbc/00/msnbc_0005   5    3      Hussein   NNP                *))          -    -   -    Condoleezza_Rice         *)            *)            *)     *            *             *             *    165)
+bc/msnbc/00/msnbc_0005   5    4          you   PRP              (NP*)          -    -   -    Condoleezza_Rice         *        (ARG0*)       (ARG0*)     *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5    5          can    MD              (VP*           -    -   -    Condoleezza_Rice         *    (ARGM-MOD*)   (ARGM-MOD*)     *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5    6         look    VB           (VP(VP*         look  01   1    Condoleezza_Rice         *           (V*)            *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5    7       across    IN              (PP*           -    -   -    Condoleezza_Rice         *    (ARGM-DIR*             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5    8          the    DT              (NP*           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *   (116
+bc/msnbc/00/msnbc_0005   5    9       region    NN               *)))      region   -   3    Condoleezza_Rice         *             *)            *      *            *             *             *    116)
+bc/msnbc/00/msnbc_0005   5   10          and    CC                 *           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   11          see    VB              (VP*          see  01   3    Condoleezza_Rice         *             *           (V*)     *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   12         that    IN            (SBAR*           -    -   -    Condoleezza_Rice         *             *        (ARG1*      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   13           uh    UH            (INTJ*)          -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   14            a    DT            (S(NP*           -    -   -    Condoleezza_Rice         *             *             *      *       (ARG1*             *             *      -
+bc/msnbc/00/msnbc_0005   5   15          lot    NN                 *)         lot   -   1    Condoleezza_Rice         *             *             *      *            *)            *             *      -
+bc/msnbc/00/msnbc_0005   5   16           is   VBZ              (VP*           be  03   -    Condoleezza_Rice         *             *             *    (V*)           *             *             *      -
+bc/msnbc/00/msnbc_0005   5   17     changing   VBG              (VP*       change  01   1    Condoleezza_Rice         *             *             *      *          (V*)            *             *      -
+bc/msnbc/00/msnbc_0005   5   18       thanks   NNS           (NP(NP*)      thanks   -   3    Condoleezza_Rice         *             *             *      *   (ARGM-CAU*             *             *      -
+bc/msnbc/00/msnbc_0005   5   19           to    IN              (PP*           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   20          the    DT        (NP(NP(NP*           -    -   -    Condoleezza_Rice         *             *             *      *            *        (ARG0*             *      -
+bc/msnbc/00/msnbc_0005   5   21    President   NNP                 *           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   22           's   POS                 *)          -    -   -    Condoleezza_Rice         *             *             *      *            *             *)            *      -
+bc/msnbc/00/msnbc_0005   5   23    democracy    NN                 *           -    -   -    Condoleezza_Rice         *             *             *      *            *        (ARG1*)            *      -
+bc/msnbc/00/msnbc_0005   5   24           uh    UH                 *           -    -   -    Condoleezza_Rice         *             *             *      *            *    (ARGM-DIS*)            *      -
+bc/msnbc/00/msnbc_0005   5   25    promotion    NN                 *)   promotion  02   3    Condoleezza_Rice         *             *             *      *            *           (V*)            *      -
+bc/msnbc/00/msnbc_0005   5   26          and    CC                 *           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   27          the    DT           (NP(NP*           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   28         hard    JJ                 *           -    -   -    Condoleezza_Rice         *             *             *      *            *             *    (ARGM-MNR*)     -
+bc/msnbc/00/msnbc_0005   5   29         work    NN                 *)        work  01   1    Condoleezza_Rice         *             *             *      *            *             *           (V*)     -
+bc/msnbc/00/msnbc_0005   5   30           of    IN              (PP*           -    -   -    Condoleezza_Rice         *             *             *      *            *             *        (ARG0*      -
+bc/msnbc/00/msnbc_0005   5   31       people   NNS           (NP(NP*)      people   -   1    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   32           in    IN              (PP*           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   33        those    DT              (NP*           -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+bc/msnbc/00/msnbc_0005   5   34    countries   NNS   *)))))))))))))))     country   -   3    Condoleezza_Rice         *             *             *)     *            *)            *             *)     -
+bc/msnbc/00/msnbc_0005   5   35           /.     .                *))          -    -   -    Condoleezza_Rice         *             *             *      *            *             *             *      -
+
+bc/msnbc/00/msnbc_0005   5   0        You   PRP   (TOP(S(NP*)      -    -   -    Condoleezza_Rice       *    (ARG0*)      -
+bc/msnbc/00/msnbc_0005   5   1       have   VBP         (VP*     have  03   4    Condoleezza_Rice       *       (V*)      -
+bc/msnbc/00/msnbc_0005   5   2     Syrian    JJ       (S(NP*       -    -   -    Condoleezza_Rice   (NORP)   (ARG1*       -
+bc/msnbc/00/msnbc_0005   5   3     forces   NNS            *)   force   -   2    Condoleezza_Rice       *         *       -
+bc/msnbc/00/msnbc_0005   5   4        out    IN         (PP*       -    -   -    Condoleezza_Rice       *         *       -
+bc/msnbc/00/msnbc_0005   5   5         of    IN         (PP*       -    -   -    Condoleezza_Rice       *         *       -
+bc/msnbc/00/msnbc_0005   5   6    Lebanon   NNP     (NP*)))))      -    -   -    Condoleezza_Rice    (GPE)        *)   (121)
+bc/msnbc/00/msnbc_0005   5   7         /.     .           *))      -    -   -    Condoleezza_Rice       *         *       -
+
+bc/msnbc/00/msnbc_0005   5   0        You   PRP   (TOP(S(NP*)     -    -   -    Condoleezza_Rice         *        (ARG0*)     -
+bc/msnbc/00/msnbc_0005   5   1       have   VBP         (VP*    have  03   4    Condoleezza_Rice         *           (V*)     -
+bc/msnbc/00/msnbc_0005   5   2         uh    UH       (INTJ*)     -    -   -    Condoleezza_Rice         *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0005   5   3     Saddam   NNP       (S(NP*      -    -   -    Condoleezza_Rice  (PERSON*        (ARG1*   (165
+bc/msnbc/00/msnbc_0005   5   4    Hussein   NNP            *)     -    -   -    Condoleezza_Rice         *)            *    165)
+bc/msnbc/00/msnbc_0005   5   5        out    IN         (PP*      -    -   -    Condoleezza_Rice         *             *      -
+bc/msnbc/00/msnbc_0005   5   6         of    IN         (PP*      -    -   -    Condoleezza_Rice         *             *      -
+bc/msnbc/00/msnbc_0005   5   7         uh    UH       (INTJ*)     -    -   -    Condoleezza_Rice         *             *      -
+bc/msnbc/00/msnbc_0005   5   8       Iraq   NNP     (NP*)))))     -    -   -    Condoleezza_Rice      (GPE)            *)   (61)
+bc/msnbc/00/msnbc_0005   5   9         /.     .           *))     -    -   -    Condoleezza_Rice         *             *      -
+
+bc/msnbc/00/msnbc_0005   5    0              The    DT  (TOP(S(NP(NP*            -    -   -    Condoleezza_Rice      *      *       (ARG0*      -
+bc/msnbc/00/msnbc_0005   5    1           people   NNS              *)       people   -   5    Condoleezza_Rice      *      *            *      -
+bc/msnbc/00/msnbc_0005   5    2               of    IN           (PP*            -    -   -    Condoleezza_Rice      *      *            *      -
+bc/msnbc/00/msnbc_0005   5    3              the    DT           (NP*            -    -   -    Condoleezza_Rice  (LOC*      *            *   (116
+bc/msnbc/00/msnbc_0005   5    4           Middle   NNP              *            -    -   -    Condoleezza_Rice      *      *            *      -
+bc/msnbc/00/msnbc_0005   5    5             East   NNP            *)))           -    -   -    Condoleezza_Rice      *)     *            *)   116)
+bc/msnbc/00/msnbc_0005   5    6              are   VBP           (VP*            be  03   -    Condoleezza_Rice      *    (V*)           *      -
+bc/msnbc/00/msnbc_0005   5    7           taking   VBG           (VP*          take  21   5    Condoleezza_Rice      *      *          (V*)     -
+bc/msnbc/00/msnbc_0005   5    8               on    RP          (PRT*)           -    -   -    Condoleezza_Rice      *      *            *      -
+bc/msnbc/00/msnbc_0005   5    9    authoritarian    JJ           (NP*            -    -   -    Condoleezza_Rice      *      *       (ARG1*      -
+bc/msnbc/00/msnbc_0005   5   10      governments   NNS              *)   government   -   7    Condoleezza_Rice      *      *            *)     -
+bc/msnbc/00/msnbc_0005   5   11           across    IN           (PP*            -    -   -    Condoleezza_Rice      *      *   (ARGM-LOC*      -
+bc/msnbc/00/msnbc_0005   5   12              the    DT           (NP*            -    -   -    Condoleezza_Rice  (LOC*      *            *   (116
+bc/msnbc/00/msnbc_0005   5   13           Middle   NNP              *            -    -   -    Condoleezza_Rice      *      *            *      -
+bc/msnbc/00/msnbc_0005   5   14             East   NNP           *))))           -    -   -    Condoleezza_Rice      *)     *            *)   116)
+bc/msnbc/00/msnbc_0005   5   15               /.     .             *))           -    -   -    Condoleezza_Rice      *      *            *      -
+
+bc/msnbc/00/msnbc_0005   5   0    Kuwait   NNP   (TOP(S(NP*)      -    -   -    Condoleezza_Rice   (GPE)     *    (ARG0*)        *   -
+bc/msnbc/00/msnbc_0005   5   1       has   VBZ         (VP*     have  01   -    Condoleezza_Rice      *    (V*)        *         *   -
+bc/msnbc/00/msnbc_0005   5   2     given   VBN         (VP*     give  01   3    Condoleezza_Rice      *      *       (V*)        *   -
+bc/msnbc/00/msnbc_0005   5   3     women   NNS         (NP*)   woman   -   1    Condoleezza_Rice      *      *    (ARG2*)   (ARG0*)  -
+bc/msnbc/00/msnbc_0005   5   4       the    DT      (NP(NP*       -    -   -    Condoleezza_Rice      *      *    (ARG1*         *   -
+bc/msnbc/00/msnbc_0005   5   5     right    NN            *)   right   -   1    Condoleezza_Rice      *      *         *         *   -
+bc/msnbc/00/msnbc_0005   5   6        to    TO       (S(VP*       -    -   -    Condoleezza_Rice      *      *         *         *   -
+bc/msnbc/00/msnbc_0005   5   7      vote    VB    (VP*))))))    vote  01   1    Condoleezza_Rice      *      *         *)      (V*)  -
+bc/msnbc/00/msnbc_0005   5   8        /.     .           *))      -    -   -    Condoleezza_Rice      *      *         *         *   -
+
+bc/msnbc/00/msnbc_0005   5    0             I   PRP          (TOP(S(NP*)       -    -   -    Condoleezza_Rice          *        (ARG1*)       *         *         *    (124)
+bc/msnbc/00/msnbc_0005   5    1            'd    MD                (VP*        -    -   -    Condoleezza_Rice          *    (ARGM-MOD*)       *         *         *       -
+bc/msnbc/00/msnbc_0005   5    2            be    VB                (VP*        be  01   2    Condoleezza_Rice          *           (V*)       *         *         *       -
+bc/msnbc/00/msnbc_0005   5    3           the    DT             (NP(NP*        -    -   -    Condoleezza_Rice          *        (ARG2*   (ARG0*         *         *       -
+bc/msnbc/00/msnbc_0005   5    4         first    JJ                   *)       -    -   -    Condoleezza_Rice   (ORDINAL)            *        *)        *         *       -
+bc/msnbc/00/msnbc_0005   5    5            to    TO         (SBAR(S(VP*        -    -   -    Condoleezza_Rice          *             *        *         *         *       -
+bc/msnbc/00/msnbc_0005   5    6           say    VB                (VP*       say  01   1    Condoleezza_Rice          *             *      (V*)        *         *       -
+bc/msnbc/00/msnbc_0005   5    7          that    IN              (SBAR*        -    -   -    Condoleezza_Rice          *             *   (ARG1*         *         *       -
+bc/msnbc/00/msnbc_0005   5    8         these    DT            (S(S(NP*        -    -   -    Condoleezza_Rice          *             *        *    (ARG1*         *     (51
+bc/msnbc/00/msnbc_0005   5    9           big    JJ                   *        -    -   -    Condoleezza_Rice          *             *        *         *         *       -
+bc/msnbc/00/msnbc_0005   5   10    historical    JJ                   *        -    -   -    Condoleezza_Rice          *             *        *         *         *       -
+bc/msnbc/00/msnbc_0005   5   11       changes   NNS                   *)   change   -   1    Condoleezza_Rice          *             *        *         *)        *      51)
+bc/msnbc/00/msnbc_0005   5   12           are   VBP                (VP*        be  01   1    Condoleezza_Rice          *             *        *       (V*)        *       -
+bc/msnbc/00/msnbc_0005   5   13     turbulent    JJ            (ADJP*)))       -    -   -    Condoleezza_Rice          *             *        *    (ARG2*)        *       -
+bc/msnbc/00/msnbc_0005   5   14           and    CC                   *        -    -   -    Condoleezza_Rice          *             *        *         *         *       -
+bc/msnbc/00/msnbc_0005   5   15          they   PRP              (S(NP*)       -    -   -    Condoleezza_Rice          *             *        *         *    (ARG1*)    (51)
+bc/msnbc/00/msnbc_0005   5   16           're   VBP                (VP*        be  01   1    Condoleezza_Rice          *             *        *         *       (V*)      -
+bc/msnbc/00/msnbc_0005   5   17     difficult    JJ   (ADJP*))))))))))))       -    -   -    Condoleezza_Rice          *             *)       *)        *    (ARG2*)      -
+bc/msnbc/00/msnbc_0005   5   18            /.     .                  *))       -    -   -    Condoleezza_Rice          *             *        *         *         *       -
+
+bc/msnbc/00/msnbc_0005   5    0           But    CC      (TOP(S*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0005   5    1           the    DT         (NP*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *        (ARG1*       -
+bc/msnbc/00/msnbc_0005   5    2        notion    NN            *       notion   -   1    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5    3          that    IN  (SBAR(SBAR*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5    4       somehow    RB     (S(ADVP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5    5         there    EX         (NP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5    6           was   VBD         (VP*           be  02   3    Condoleezza_Rice       *      (V*)        *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5    7             a    DT         (NP*           -    -   -    Condoleezza_Rice       *   (ARG1*         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5    8        placid    JJ            *           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5    9        Middle   NNP            *           -    -   -    Condoleezza_Rice   (LOC*        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   10          East   NNP         *))))          -    -   -    Condoleezza_Rice       *)       *)        *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   11             ,     ,            *           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   12          that    IN       (SBAR*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   13            if    IN     (S(SBAR*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *    (ARGM-ADV*             *       -
+bc/msnbc/00/msnbc_0005   5   14            we   PRP       (S(NP*)          -    -   -    Condoleezza_Rice       *        *    (ARG0*)            *      *             *      *             *             *             *    (188)
+bc/msnbc/00/msnbc_0005   5   15          just    RB       (ADVP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   16          left   VBD         (VP*        leave  01   2    Condoleezza_Rice       *        *       (V*)            *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   17            it   PRP         (NP*)          -    -   -    Condoleezza_Rice       *        *    (ARG1*)            *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   18         alone    RB    (ADVP*))))          -    -   -    Condoleezza_Rice       *        *    (ARG2*)            *      *             *      *             *             *)            *       -
+bc/msnbc/00/msnbc_0005   5   19             ,     ,            *           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   20            if    IN       (SBAR*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *    (ARGM-ADV*             *       -
+bc/msnbc/00/msnbc_0005   5   21            we   PRP       (S(NP*)          -    -   -    Condoleezza_Rice       *        *         *        (ARG0*)     *             *      *             *             *             *    (188)
+bc/msnbc/00/msnbc_0005   5   22            'd    MD         (VP*           -    -   -    Condoleezza_Rice       *        *         *    (ARGM-MOD*)     *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   23          just    RB       (ADVP*)          -    -   -    Condoleezza_Rice       *        *         *    (ARGM-ADV*)     *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   24           not    RB            *           -    -   -    Condoleezza_Rice       *        *         *    (ARGM-NEG*)     *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   25       invaded   VBN         (VP*       invade  01   1    Condoleezza_Rice       *        *         *           (V*)     *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   26          Iraq   NNP     (NP*)))))          -    -   -    Condoleezza_Rice    (GPE)       *         *        (ARG1*)     *             *      *             *             *)            *     (61)
+bc/msnbc/00/msnbc_0005   5   27             ,     ,            *           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   28            if    IN       (SBAR*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *    (ARGM-ADV*             *       -
+bc/msnbc/00/msnbc_0005   5   29            we   PRP       (S(NP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *        (ARG0*)     *             *             *             *    (188)
+bc/msnbc/00/msnbc_0005   5   30           had   VBD         (VP*         have  01   -    Condoleezza_Rice       *        *         *             *    (V*)            *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   31          just    RB       (ADVP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *    (ARGM-ADV*)     *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   32           not    RB            *           -    -   -    Condoleezza_Rice       *        *         *             *      *    (ARGM-NEG*)     *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   33    overthrown   VBN         (VP*    overthrow  01   1    Condoleezza_Rice       *        *         *             *      *           (V*)     *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   34     dictators   NNS     (NP*)))))          -    -   -    Condoleezza_Rice       *        *         *             *      *        (ARG1*)     *             *             *)            *       -
+bc/msnbc/00/msnbc_0005   5   35             ,     ,            *           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   36            if    IN       (SBAR*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *    (ARGM-ADV*             *       -
+bc/msnbc/00/msnbc_0005   5   37            we   PRP       (S(NP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *        (ARG0*)            *             *    (188)
+bc/msnbc/00/msnbc_0005   5   38        {had?}   VBD         (VP*         have  01   -    Condoleezza_Rice       *        *         *             *      *             *    (V*)            *             *             *       -
+bc/msnbc/00/msnbc_0005   5   39          just    RB       (ADVP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *    (ARGM-ADV*)            *             *       -
+bc/msnbc/00/msnbc_0005   5   40           not    RB            *           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *    (ARGM-NEG*)            *             *       -
+bc/msnbc/00/msnbc_0005   5   41    challenged   VBN         (VP*    challenge  01   2    Condoleezza_Rice       *        *         *             *      *             *      *           (V*)            *             *       -
+bc/msnbc/00/msnbc_0005   5   42        Syrian    JJ      (NP(NP*           -    -   -    Condoleezza_Rice   (NORP)       *         *             *      *             *      *        (ARG1*             *             *       -
+bc/msnbc/00/msnbc_0005   5   43         power    NN            *)       power   -   1    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   44            in    IN         (PP*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+bc/msnbc/00/msnbc_0005   5   45       Lebanon   NNP   (NP*)))))))          -    -   -    Condoleezza_Rice    (GPE)       *         *             *      *             *      *             *)            *)            *    (121)
+bc/msnbc/00/msnbc_0005   5   46    everything    NN         (NP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *        (ARG1*)            *       -
+bc/msnbc/00/msnbc_0005   5   47         would    MD         (VP*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *    (ARGM-MOD*)            *       -
+bc/msnbc/00/msnbc_0005   5   48            be    VB         (VP*           be  01   1    Condoleezza_Rice       *        *         *             *      *             *      *             *           (V*)            *       -
+bc/msnbc/00/msnbc_0005   5   49          just    RB       (ADJP*           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *        (ARG2*             *       -
+bc/msnbc/00/msnbc_0005   5   50          fine    JJ      *)))))))          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *)            *)      -
+bc/msnbc/00/msnbc_0005   5   51            uh    UH       (INTJ*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0005   5   52            is   VBZ         (VP*           be  01   1    Condoleezza_Rice       *        *         *             *      *             *      *             *             *           (V*)      -
+bc/msnbc/00/msnbc_0005   5   53        simply    RB       (ADVP*)          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *    (ARGM-ADV*)      -
+bc/msnbc/00/msnbc_0005   5   54           not    RB            *           -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0005   5   55          true    JJ      (ADJP*))          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *        (ARG2*)      -
+bc/msnbc/00/msnbc_0005   5   56            /.     .           *))          -    -   -    Condoleezza_Rice       *        *         *             *      *             *      *             *             *             *       -
+
+bc/msnbc/00/msnbc_0005   5    0            It   PRP     (TOP(S(NP*)        -    -   -    Condoleezza_Rice        *    (ARG1*)           *             *       -
+bc/msnbc/00/msnbc_0005   5    1           was   VBD           (VP*         be  01   1    Condoleezza_Rice        *       (V*)           *             *       -
+bc/msnbc/00/msnbc_0005   5    2          that    DT  (NP(NP(NP(NP*         -    -   -    Condoleezza_Rice    (LOC*    (ARG2*       (ARG1*        (ARG0*    (116
+bc/msnbc/00/msnbc_0005   5    3        Middle   NNP              *         -    -   -    Condoleezza_Rice        *         *            *             *       -
+bc/msnbc/00/msnbc_0005   5    4          East   NNP              *)        -    -   -    Condoleezza_Rice        *)        *            *             *     116)
+bc/msnbc/00/msnbc_0005   5    5           the    DT        (NP(NP*         -    -   -    Condoleezza_Rice        *         *            *             *       -
+bc/msnbc/00/msnbc_0005   5    6    malignancy    NN              *)        -    -   -    Condoleezza_Rice        *         *            *             *       -
+bc/msnbc/00/msnbc_0005   5    7            of    IN           (PP*         -    -   -    Condoleezza_Rice        *         *            *             *       -
+bc/msnbc/00/msnbc_0005   5    8           the    DT           (NP*         -    -   -    Condoleezza_Rice    (LOC*         *            *             *    (116
+bc/msnbc/00/msnbc_0005   5    9        Middle   NNP              *         -    -   -    Condoleezza_Rice        *         *            *             *       -
+bc/msnbc/00/msnbc_0005   5   10          East   NNP           *))))        -    -   -    Condoleezza_Rice        *)        *            *)            *     116)
+bc/msnbc/00/msnbc_0005   5   11          that   WDT    (SBAR(WHNP*)        -    -   -    Condoleezza_Rice        *         *     (R-ARG1*)            *       -
+bc/msnbc/00/msnbc_0005   5   12            we   PRP         (S(NP*)        -    -   -    Condoleezza_Rice        *         *       (ARG0*)            *    (188)
+bc/msnbc/00/msnbc_0005   5   13         quote    UH      (VP(INTJ*         -    -   -    Condoleezza_Rice        *         *   (ARGM-DIS*             *       -
+bc/msnbc/00/msnbc_0005   5   14       unquote    UH              *)        -    -   -    Condoleezza_Rice        *         *            *)            *       -
+bc/msnbc/00/msnbc_0005   5   15     disturbed   VBD           *))))   disturb  01   1    Condoleezza_Rice        *         *          (V*)            *)      -
+bc/msnbc/00/msnbc_0005   5   16          that   WDT    (SBAR(WHNP*)        -    -   -    Condoleezza_Rice        *         *            *      (R-ARG0*)      -
+bc/msnbc/00/msnbc_0005   5   17           led   VBD         (S(VP*       lead  01   1    Condoleezza_Rice        *         *            *           (V*)      -
+bc/msnbc/00/msnbc_0005   5   18      directly    RB         (ADVP*)        -    -   -    Condoleezza_Rice        *         *            *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0005   5   19            to    IN           (PP*         -    -   -    Condoleezza_Rice        *         *            *        (ARG4*       -
+bc/msnbc/00/msnbc_0005   5   20           the    DT           (NP*         -    -   -    Condoleezza_Rice  (EVENT*         *            *             *       -
+bc/msnbc/00/msnbc_0005   5   21     September   NNP          (NML*         -    -   -    Condoleezza_Rice        *         *            *             *       -
+bc/msnbc/00/msnbc_0005   5   22      eleventh    NN              *)        -    -   -    Condoleezza_Rice        *         *            *             *       -
+bc/msnbc/00/msnbc_0005   5   23         event    NN        *)))))))     event   -   2    Condoleezza_Rice        *)        *)           *             *)      -
+bc/msnbc/00/msnbc_0005   5   24            /.     .             *))        -    -   -    Condoleezza_Rice        *         *            *             *       -

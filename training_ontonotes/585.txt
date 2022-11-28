@@ -1,0 +1,644 @@
+bc/cnn/00/cnn_0001   15   0      Here     RB   (TOP(SINV(ADVP*)       -    -   -    Rick_Sanchez  *    (ARG2*)  -
+bc/cnn/00/cnn_0001   15   1        's    VBZ              (VP*)       be  01   4    Rick_Sanchez  *       (V*)  -
+bc/cnn/00/cnn_0001   15   2         a     DT              (NP*        -    -   -    Rick_Sanchez  *    (ARG1*   -
+bc/cnn/00/cnn_0001   15   3    follow     NN                 *    follow   -   -    Rick_Sanchez  *         *   -
+bc/cnn/00/cnn_0001   15   4        -    HYPH                 *        -    -   -    Rick_Sanchez  *         *   -
+bc/cnn/00/cnn_0001   15   5        up     NN                 *)       up   -   -    Rick_Sanchez  *         *)  -
+bc/cnn/00/cnn_0001   15   6        /.      .                *))       -    -   -    Rick_Sanchez  *         *   -
+
+bc/cnn/00/cnn_0001   15    0         High     RB  (TOP(S(ADVP*        -    -   -    Rick_Sanchez      *   (ARGM-LOC*            *      -
+bc/cnn/00/cnn_0001   15    1           in     IN          (PP*        -    -   -    Rick_Sanchez      *            *            *      -
+bc/cnn/00/cnn_0001   15    2          the     DT          (NP*        -    -   -    Rick_Sanchez  (LOC*            *            *      -
+bc/cnn/00/cnn_0001   15    3     Himalaya    NNP             *        -    -   -    Rick_Sanchez      *            *            *      -
+bc/cnn/00/cnn_0001   15    4    Mountains   NNPS           *)))       -    -   -    Rick_Sanchez      *)           *)           *      -
+bc/cnn/00/cnn_0001   15    5      tragedy     NN          (NP*)       -    -   -    Rick_Sanchez      *       (ARG1*)      (ARG0*)   (75)
+bc/cnn/00/cnn_0001   15    6           is    VBZ          (VP*        be  01   1    Rick_Sanchez      *          (V*)           *      -
+bc/cnn/00/cnn_0001   15    7        ready     JJ        (ADJP*        -    -   -    Rick_Sanchez      *       (ARG2*            *      -
+bc/cnn/00/cnn_0001   15    8           to     TO        (S(VP*        -    -   -    Rick_Sanchez      *            *            *      -
+bc/cnn/00/cnn_0001   15    9       strike     VB          (VP*    strike  01   1    Rick_Sanchez      *            *          (V*)     -
+bc/cnn/00/cnn_0001   15   10         once     RB        (ADVP*        -    -   -    Rick_Sanchez      *            *   (ARGM-TMP*      -
+bc/cnn/00/cnn_0001   15   11        again     RB        *))))))       -    -   -    Rick_Sanchez      *            *)           *)     -
+bc/cnn/00/cnn_0001   15   12           /.      .            *))       -    -   -    Rick_Sanchez      *            *            *      -
+
+bc/cnn/00/cnn_0001   15    0         First    RB   (TOP(S(ADVP*)           -    -   -    Rick_Sanchez   (ORDINAL)   (ARGM-TMP*)     -
+bc/cnn/00/cnn_0001   15    1            it   PRP           (NP*)           -    -   -    Rick_Sanchez          *        (ARG1*)   (75)
+bc/cnn/00/cnn_0001   15    2          came   VBD           (VP*          come  01   2    Rick_Sanchez          *           (V*)     -
+bc/cnn/00/cnn_0001   15    3            in    IN           (PP*            -    -   -    Rick_Sanchez          *    (ARGM-MNR*      -
+bc/cnn/00/cnn_0001   15    4           the    DT        (NP(NP*            -    -   -    Rick_Sanchez          *             *      -
+bc/cnn/00/cnn_0001   15    5          form    NN              *)         form   -   4    Rick_Sanchez          *             *      -
+bc/cnn/00/cnn_0001   15    6            of    IN           (PP*            -    -   -    Rick_Sanchez          *             *      -
+bc/cnn/00/cnn_0001   15    7             a    DT           (NP*            -    -   -    Rick_Sanchez          *             *   (153
+bc/cnn/00/cnn_0001   15    8       massive    JJ              *            -    -   -    Rick_Sanchez          *             *      -
+bc/cnn/00/cnn_0001   15    9    earthquake    NN          *)))))   earthquake   -   1    Rick_Sanchez          *             *)   153)
+bc/cnn/00/cnn_0001   15   10            /.     .             *))           -    -   -    Rick_Sanchez          *             *      -
+
+bc/cnn/00/cnn_0001   15    0            Soon    RB   (TOP(S(ADVP*)       -    -   -    Rick_Sanchez       *    (ARGM-TMP*)     *      *         *   -
+bc/cnn/00/cnn_0001   15    1          though    RB         (ADVP*)       -    -   -    Rick_Sanchez       *    (ARGM-ADV*)     *      *         *   -
+bc/cnn/00/cnn_0001   15    2              it   PRP           (NP*)       -    -   -    Rick_Sanchez       *        (ARG1*)     *      *         *   -
+bc/cnn/00/cnn_0001   15    3             may    MD           (VP*        -    -   -    Rick_Sanchez       *    (ARGM-MOD*)     *      *         *   -
+bc/cnn/00/cnn_0001   15    4              be    VB           (VP*        be  01   1    Rick_Sanchez       *           (V*)     *      *         *   -
+bc/cnn/00/cnn_0001   15    5             the    DT  (NP(NP(NP(NP*        -    -   -    Rick_Sanchez       *        (ARG2*      *      *         *   -
+bc/cnn/00/cnn_0001   15    6        freezing    JJ              *        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15    7    temperatures   NNS              *)       -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15    8             and    CC              *        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15    9             the    DT           (NP*        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15   10            snow    NN             *))     snow   -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15   11              of    IN           (PP*        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15   12               a    DT           (NP*        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15   13          bitter    JJ              *        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15   14          winter    NN            *)))   winter   -   -    Rick_Sanchez   (DATE)            *      *      *         *   -
+bc/cnn/00/cnn_0001   15   15            that   WDT    (SBAR(WHNP*)       -    -   -    Rick_Sanchez       *             *      *      *    (ARG0*)  -
+bc/cnn/00/cnn_0001   15   16              's   VBZ         (S(VP*        be  03   9    Rick_Sanchez       *             *    (V*)     *         *   -
+bc/cnn/00/cnn_0001   15   17           going   VBG           (VP*        go  04   7    Rick_Sanchez       *             *      *    (V*)        *   -
+bc/cnn/00/cnn_0001   15   18              to    TO         (S(VP*        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15   19            take    VB           (VP*      take  01   1    Rick_Sanchez       *             *      *      *       (V*)  -
+bc/cnn/00/cnn_0001   15   20               a    DT           (NP*        -    -   -    Rick_Sanchez       *             *      *      *    (ARG1*   -
+bc/cnn/00/cnn_0001   15   21        terrible    JJ              *        -    -   -    Rick_Sanchez       *             *      *      *         *   -
+bc/cnn/00/cnn_0001   15   22            toll    NN    *)))))))))))     toll   -   2    Rick_Sanchez       *             *)     *      *         *)  -
+bc/cnn/00/cnn_0001   15   23              /.     .             *))       -    -   -    Rick_Sanchez       *             *      *      *         *   -
+
+bc/cnn/00/cnn_0001   15   0        The    DT  (TOP(S(NP*        -    -   -    Rick_Sanchez  *        (ARG1*   -
+bc/cnn/00/cnn_0001   15   1     number    NN           *)   number   -   2    Rick_Sanchez  *             *)  -
+bc/cnn/00/cnn_0001   15   2         's   VBZ        (VP*        be  01   1    Rick_Sanchez  *           (V*)  -
+bc/cnn/00/cnn_0001   15   3    already    RB      (ADVP*)       -    -   -    Rick_Sanchez  *    (ARGM-TMP*)  -
+bc/cnn/00/cnn_0001   15   4     brutal    JJ     (ADJP*))       -    -   -    Rick_Sanchez  *        (ARG2*)  -
+bc/cnn/00/cnn_0001   15   5         /.     .          *))       -    -   -    Rick_Sanchez  *             *   -
+
+bc/cnn/00/cnn_0001   15   0       Death    NN   (TOP(FRAG(NP*       -    -   -    Rick_Sanchez           *      *   (ARG1*   -
+bc/cnn/00/cnn_0001   15   1        toll    NN               *)    toll   -   2    Rick_Sanchez           *      *        *)  -
+bc/cnn/00/cnn_0001   15   2      eighty    CD  (UCP(NP(NP(QP*       -    -   -    Rick_Sanchez  (CARDINAL*      *        *   -
+bc/cnn/00/cnn_0001   15   3    thousand    CD              *))      -    -   -    Rick_Sanchez           *)     *        *   -
+bc/cnn/00/cnn_0001   15   4          by    IN            (PP*       -    -   -    Rick_Sanchez           *      *        *   -
+bc/cnn/00/cnn_0001   15   5        some    DT            (NP*       -    -   -    Rick_Sanchez           *      *        *   -
+bc/cnn/00/cnn_0001   15   6      counts   NNS             *)))   count  01   2    Rick_Sanchez           *    (V*)       *   -
+bc/cnn/00/cnn_0001   15   7         and    CC               *       -    -   -    Rick_Sanchez           *      *        *   -
+bc/cnn/00/cnn_0001   15   8    climbing   VBG           (VP*))   climb  02   -    Rick_Sanchez           *      *      (V*)  -
+bc/cnn/00/cnn_0001   15   9          /.     .              *))      -    -   -    Rick_Sanchez           *      *        *   -
+
+bc/cnn/00/cnn_0001   15   0     Another   DT  (TOP(FRAG(NP(QP*         -   -   -    Rick_Sanchez  (CARDINAL*   -
+bc/cnn/00/cnn_0001   15   1       eight   CD                 *         -   -   -    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   2     hundred   CD                 *         -   -   -    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   3    thousand   CD                *))        -   -   -    Rick_Sanchez           *)  -
+bc/cnn/00/cnn_0001   15   4     without   IN              (PP*         -   -   -    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   5     shelter   NN             (NP*))   shelter  -   1    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   6          /.    .                *))        -   -   -    Rick_Sanchez           *   -
+
+bc/cnn/00/cnn_0001   15   0      not    RB  (TOP(NP(NP*      -   -   -    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   15   1     even    RB            *      -   -   -    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   15   2        a    DT            *      -   -   -    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   15   3     tent    NN            *)   tent  -   -    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   15   4       in    IN         (PP*      -   -   -    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   15   5     some    DT         (NP*      -   -   -    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   15   6    cases   NNS           *))   case  -   1    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   15   7       /.     .           *))     -   -   -    Rick_Sanchez  *   -
+
+bc/cnn/00/cnn_0001   15   0       More   JJR  (TOP(FRAG(NP(QP*      -   -   -    Rick_Sanchez  (CARDINAL*   -
+bc/cnn/00/cnn_0001   15   1       than    IN                 *      -   -   -    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   2        two    CD                 *      -   -   -    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   3    million    CD                *))     -   -   -    Rick_Sanchez           *)  -
+bc/cnn/00/cnn_0001   15   4         in    IN              (PP*      -   -   -    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   5       need    NN           (NP(NP*)   need  -   3    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   6         of    IN              (PP*      -   -   -    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   7       food    NN           (NP*))))   food  -   1    Rick_Sanchez           *   -
+bc/cnn/00/cnn_0001   15   8         /.     .                *))     -   -   -    Rick_Sanchez           *   -
+
+bc/cnn/00/cnn_0001   15    0           Many    JJ   (TOP(FRAG(NP*)       -    -   -    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    1             in    IN            (PP*        -    -   -    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    2       mountain    NN         (NP(NP*        -    -   -    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    3        regions   NNS               *)   region   -   3    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    4          where   WRB   (SBAR(WHADVP*)       -    -   -    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    5         relief    NN       (S(NP(NP*    relief   -   4    Rick_Sanchez  *        (ARG1*    (ARG1*   -
+bc/cnn/00/cnn_0001   15    6         trucks   NNS               *)    truck   -   1    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    7             or    CC               *        -    -   -    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    8           even    RB            (NP*        -    -   -    Rick_Sanchez  *             *         *   -
+bc/cnn/00/cnn_0001   15    9    helicopters   NNS              *))       -    -   -    Rick_Sanchez  *             *)        *)  -
+bc/cnn/00/cnn_0001   15   10             ca    MD            (VP*        -    -   -    Rick_Sanchez  *    (ARGM-MOD*)        *   -
+bc/cnn/00/cnn_0001   15   11            n't    RB               *        -    -   -    Rick_Sanchez  *    (ARGM-NEG*)        *   -
+bc/cnn/00/cnn_0001   15   12           seem    VB            (VP*      seem  01   1    Rick_Sanchez  *           (V*)        *   -
+bc/cnn/00/cnn_0001   15   13             to    TO          (S(VP*        -    -   -    Rick_Sanchez  *      (C-ARG1*         *   -
+bc/cnn/00/cnn_0001   15   14            get    VB            (VP*       get  05   4    Rick_Sanchez  *             *       (V*)  -
+bc/cnn/00/cnn_0001   15   15             to    IN   (PP*))))))))))       -    -   -    Rick_Sanchez  *             *)   (ARG2*)  -
+bc/cnn/00/cnn_0001   15   16             /.     .              *))       -    -   -    Rick_Sanchez  *             *         *   -
+
+bc/cnn/00/cnn_0001   15   0        Now    RB   (TOP(S(ADVP*)       -    -   -    Rick_Sanchez         *    (ARGM-TMP*)    -
+bc/cnn/00/cnn_0001   15   1        ITV   NNP        (NP(NP*        -    -   -    Rick_Sanchez      (ORG)       (ARG0*   (67
+bc/cnn/00/cnn_0001   15   2         's   POS              *)       -    -   -    Rick_Sanchez         *             *     -
+bc/cnn/00/cnn_0001   15   3       Bill   NNP              *        -    -   -    Rick_Sanchez  (PERSON*             *     -
+bc/cnn/00/cnn_0001   15   4      Neely   NNP              *)       -    -   -    Rick_Sanchez         *)            *)   67)
+bc/cnn/00/cnn_0001   15   5    reports   VBZ           (VP*)   report  01   1    Rick_Sanchez         *           (V*)    -
+bc/cnn/00/cnn_0001   15   6         /.     .             *))       -    -   -    Rick_Sanchez         *             *     -
+
+bc/cnn/00/cnn_0001   15   0       that    DT   (TOP(S(NP*)   -    -   -    Rick_Sanchez      *    (ARG1*)     -
+bc/cnn/00/cnn_0001   15   1         's   VBZ         (VP*    be  01   1    Rick_Sanchez      *       (V*)     -
+bc/cnn/00/cnn_0001   15   2       just    RB    (PP(ADVP*)   -    -   -    Rick_Sanchez      *    (ARG2*      -
+bc/cnn/00/cnn_0001   15   3       from    IN            *    -    -   -    Rick_Sanchez      *         *      -
+bc/cnn/00/cnn_0001   15   4        the    DT         (NP*    -    -   -    Rick_Sanchez  (LOC*         *   (100
+bc/cnn/00/cnn_0001   15   5    Kashmir   NNP            *    -    -   -    Rick_Sanchez      *         *      -
+bc/cnn/00/cnn_0001   15   6     region    NN          *)))   -    -   -    Rick_Sanchez      *)        *)   100)
+bc/cnn/00/cnn_0001   15   7         /.     .           *))   -    -   -    Rick_Sanchez      *         *      -
+
+bc/cnn/00/cnn_0001   15   0        that    DT   (TOP(S(NP*)     -    -   -    Rick_Sanchez      *    (ARG1*)   (100)
+bc/cnn/00/cnn_0001   15   1          's   VBZ         (VP*      be  01   2    Rick_Sanchez      *       (V*)      -
+bc/cnn/00/cnn_0001   15   2         the    DT      (NP(NP*      -    -   -    Rick_Sanchez      *    (ARG2*       -
+bc/cnn/00/cnn_0001   15   3        area    NN            *)   area   -   1    Rick_Sanchez      *         *       -
+bc/cnn/00/cnn_0001   15   4       right    RB    (PP(ADVP*)     -    -   -    Rick_Sanchez      *         *       -
+bc/cnn/00/cnn_0001   15   5     between    IN            *      -    -   -    Rick_Sanchez      *         *       -
+bc/cnn/00/cnn_0001   15   6       India   NNP         (NP*      -    -   -    Rick_Sanchez   (GPE)        *       -
+bc/cnn/00/cnn_0001   15   7         and    CC            *      -    -   -    Rick_Sanchez      *         *       -
+bc/cnn/00/cnn_0001   15   8    Pakistan   NNP         *))))     -    -   -    Rick_Sanchez   (GPE)        *)   (104)
+bc/cnn/00/cnn_0001   15   9          /.     .           *))     -    -   -    Rick_Sanchez      *         *       -
+
+bc/cnn/00/cnn_0001   15   0            The    DT  (TOP(S(NP*    -    -   -    Bill_Neely  *        (ARG1*   (88
+bc/cnn/00/cnn_0001   15   1    helicopters   NNS           *)   -    -   -    Bill_Neely  *             *)   88)
+bc/cnn/00/cnn_0001   15   2            are   VBP        (VP*    be  01   1    Bill_Neely  *           (V*)    -
+bc/cnn/00/cnn_0001   15   3          still    RB      (ADVP*)   -    -   -    Bill_Neely  *    (ARGM-TMP*)    -
+bc/cnn/00/cnn_0001   15   4           busy    JJ      (ADJP*)   -    -   -    Bill_Neely  *        (ARG2*)    -
+bc/cnn/00/cnn_0001   15   5           here    RB     (ADVP*))   -    -   -    Bill_Neely  *    (ARGM-LOC*)    -
+bc/cnn/00/cnn_0001   15   6             /.     .          *))   -    -   -    Bill_Neely  *             *     -
+
+bc/cnn/00/cnn_0001   15   0          but    CC  (TOP(S*         -    -   -    Bill_Neely  *      *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0001   15   1          the    DT     (NP*         -    -   -    Bill_Neely  *      *        (ARG1*   -
+bc/cnn/00/cnn_0001   15   2      weather    NN        *)   weather   -   -    Bill_Neely  *      *             *)  -
+bc/cnn/00/cnn_0001   15   3           is   VBZ     (VP*         be  03   -    Bill_Neely  *    (V*)            *   -
+bc/cnn/00/cnn_0001   15   4    worsening   VBG    (VP*))    worsen  01   1    Bill_Neely  *      *           (V*)  -
+bc/cnn/00/cnn_0001   15   5           /.     .       *))        -    -   -    Bill_Neely  *      *             *   -
+
+bc/cnn/00/cnn_0001   15    0     There    EX    (TOP(S(NP*)      -    -   -    Bill_Neely       *        *             *             *      -
+bc/cnn/00/cnn_0001   15    1       are   VBP          (VP*       be  02   3    Bill_Neely       *      (V*)            *             *      -
+bc/cnn/00/cnn_0001   15    2      days   NNS    (NP(NP(NP*)     day   -   4    Bill_Neely   (DATE)  (ARG1*    (ARGM-TMP*)            *      -
+bc/cnn/00/cnn_0001   15    3      they   PRP   (SBAR(S(NP*)      -    -   -    Bill_Neely       *        *        (ARG1*)            *    (88)
+bc/cnn/00/cnn_0001   15    4        wo    MD          (VP*       -    -   -    Bill_Neely       *        *    (ARGM-MOD*)            *      -
+bc/cnn/00/cnn_0001   15    5       n't    RB             *       -    -   -    Bill_Neely       *        *    (ARGM-NEG*)            *      -
+bc/cnn/00/cnn_0001   15    6       fly    VB      (VP*)))))     fly  01   1    Bill_Neely       *        *           (V*)            *      -
+bc/cnn/00/cnn_0001   15    7       and    CC             *       -    -   -    Bill_Neely       *        *             *             *      -
+bc/cnn/00/cnn_0001   15    8    places   NNS          (NP*    place   -   1    Bill_Neely       *        *             *        (ARG4*     (0
+bc/cnn/00/cnn_0001   15    9      they   PRP   (SBAR(S(NP*)      -    -   -    Bill_Neely       *        *             *        (ARG0*)   (88)
+bc/cnn/00/cnn_0001   15   10        wo    MD          (VP*       -    -   -    Bill_Neely       *        *             *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   15   11       n't    RB             *       -    -   -    Bill_Neely       *        *             *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   15   12        go    VB    (VP*)))))))      go  02   1    Bill_Neely       *        *)            *          (V*))     0)
+bc/cnn/00/cnn_0001   15   13        /.     .            *))      -    -   -    Bill_Neely       *        *             *             *      -
+
+bc/cnn/00/cnn_0001   15    0        Into    IN  (TOP(SINV(PP*        -    -   -    Bill_Neely           *        (ARG4*            *          -
+bc/cnn/00/cnn_0001   15    1         one    CD        (NP(NP*)       -    -   -    Bill_Neely   (CARDINAL)            *            *       (140
+bc/cnn/00/cnn_0001   15    2          of    IN           (PP*        -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15    3       these    DT        (NP*))))       -    -   -    Bill_Neely           *             *)           *    (0)|140)
+bc/cnn/00/cnn_0001   15    4       today    NN           (NP*)    today   -   1    Bill_Neely       (DATE)   (ARGM-TMP*)           *          -
+bc/cnn/00/cnn_0001   15    5        came   VBD           (VP*)     come  01   1    Bill_Neely           *           (V*)           *          -
+bc/cnn/00/cnn_0001   15    6        Save   NNP           (NP*        -    -   -    Bill_Neely       (ORG*        (ARG1*       (ARG0*          -
+bc/cnn/00/cnn_0001   15    7         the    DT              *        -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15    8    Children   NNP              *)       -    -   -    Bill_Neely           *)            *)           *)         -
+bc/cnn/00/cnn_0001   15    9     driving   VBG         (S(VP*     drive  01   1    Bill_Neely           *    (ARGM-ADV*          (V*)         -
+bc/cnn/00/cnn_0001   15   10           a    DT        (NP(NP*        -    -   -    Bill_Neely           *             *       (ARG1*          -
+bc/cnn/00/cnn_0001   15   11      convoy    NN              *)   convoy   -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   12          of    IN           (PP*        -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   13         two    CD        (NP(QP*        -    -   -    Bill_Neely  (CARDINAL*             *            *          -
+bc/cnn/00/cnn_0001   15   14     hundred    CD              *)       -    -   -    Bill_Neely           *)            *            *          -
+bc/cnn/00/cnn_0001   15   15       tents   NNS            *)))     tent   -   -    Bill_Neely           *             *            *)         -
+bc/cnn/00/cnn_0001   15   16         six    CD   (ADVP(NP(QP*        -    -   -    Bill_Neely  (QUANTITY*             *   (ARGM-DIR*          -
+bc/cnn/00/cnn_0001   15   17    thousand    CD              *)       -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   18        feet   NNS              *)     foot   -   2    Bill_Neely           *)            *            *          -
+bc/cnn/00/cnn_0001   15   19          up    RB              *        -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   20        into    IN           (PP*        -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   21         one    CD        (NP(NP*)       -    -   -    Bill_Neely   (CARDINAL)            *            *       (140
+bc/cnn/00/cnn_0001   15   22          of    IN           (PP*        -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   23     Kashmir   NNP        (NP(NP*        -    -   -    Bill_Neely        (LOC)            *            *       (100
+bc/cnn/00/cnn_0001   15   24          's   POS              *)       -    -   -    Bill_Neely           *             *            *        100)
+bc/cnn/00/cnn_0001   15   25        most   RBS         (ADJP*        -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   26      remote    JJ              *)       -    -   -    Bill_Neely           *             *            *          -
+bc/cnn/00/cnn_0001   15   27     corners   NNS        *)))))))   corner   -   -    Bill_Neely           *             *)           *)       140)
+bc/cnn/00/cnn_0001   15   28          /.     .             *))       -    -   -    Bill_Neely           *             *            *          -
+
+bc/cnn/00/cnn_0001   15   0        There    RB   (TOP(FRAG(ADVP*)     -    -   -    Bill_Neely           *    (ARGM-LOC*)  -
+bc/cnn/00/cnn_0001   15   1      waiting   VBG              (VP*)   wait  02   1    Bill_Neely           *           (V*)  -
+bc/cnn/00/cnn_0001   15   2     hundreds   NNS           (NP(NP*)     -    -   -    Bill_Neely   (CARDINAL)       (ARG1*   -
+bc/cnn/00/cnn_0001   15   3           of    IN              (PP*      -    -   -    Bill_Neely           *             *   -
+bc/cnn/00/cnn_0001   15   4    villagers   NNS            (NP*)))     -    -   -    Bill_Neely           *             *)  -
+bc/cnn/00/cnn_0001   15   5           /.     .                *))     -    -   -    Bill_Neely           *             *   -
+
+bc/cnn/00/cnn_0001   15   0          this   DT  (TOP(FRAG(NP*            -    -    -    Bill_Neely  *      *   -
+bc/cnn/00/cnn_0001   15   1           aid   NN              *)          aid  01    3    Bill_Neely  *    (V*)  -
+bc/cnn/00/cnn_0001   15   2           the   DT        (NP(NP*            -    -    -    Bill_Neely  *      *   -
+bc/cnn/00/cnn_0001   15   3    difference   NN              *)   difference   -    4    Bill_Neely  *      *   -
+bc/cnn/00/cnn_0001   15   4       between   IN           (PP*            -    -    -    Bill_Neely  *      *   -
+bc/cnn/00/cnn_0001   15   5          life   NN           (NP*          life   -   13    Bill_Neely  *      *   -
+bc/cnn/00/cnn_0001   15   6           and   CC              *            -    -    -    Bill_Neely  *      *   -
+bc/cnn/00/cnn_0001   15   7         death   NN            *)))        death   -    1    Bill_Neely  *      *   -
+bc/cnn/00/cnn_0001   15   8            /.    .             *))           -    -    -    Bill_Neely  *      *   -
+
+bc/cnn/00/cnn_0001   15   0         One    CD  (TOP(S(NP(NP*        -    -   -    Bill_Neely   (CARDINAL)     *   (ARG0*   (73
+bc/cnn/00/cnn_0001   15   1         man    NN              *)      man   -   1    Bill_Neely           *      *        *    73)
+bc/cnn/00/cnn_0001   15   2          at    IN         (ADVP*        -    -   -    Bill_Neely           *      *        *     -
+bc/cnn/00/cnn_0001   15   3       least   JJS             *))       -    -   -    Bill_Neely           *      *        *)    -
+bc/cnn/00/cnn_0001   15   4         has   VBZ           (VP*      have  01   -    Bill_Neely           *    (V*)       *     -
+bc/cnn/00/cnn_0001   15   5    suffered   VBN           (VP*    suffer  01   1    Bill_Neely           *      *      (V*)    -
+bc/cnn/00/cnn_0001   15   6      enough    JJ           (NP*        -    -   -    Bill_Neely           *      *   (ARG1*     -
+bc/cnn/00/cnn_0001   15   7       death    NN            *)))    death   -   1    Bill_Neely           *      *        *)    -
+bc/cnn/00/cnn_0001   15   8          /.     .             *))       -    -   -    Bill_Neely           *      *        *     -
+
+bc/cnn/00/cnn_0001   15   0       Is   VBZ  (TOP(FRAG*     be  01   2    Unidentified_Male           *      (V*)         -
+bc/cnn/00/cnn_0001   15   1    seven    CD     (NP(NP*     -    -   -    Unidentified_Male   (CARDINAL)  (ARG1*   (58|(151
+bc/cnn/00/cnn_0001   15   2     kids   NNS           *)   kid   -   -    Unidentified_Male           *        *         58)
+bc/cnn/00/cnn_0001   15   3      one    CD        (NP*     -    -   -    Unidentified_Male   (CARDINAL)       *        (77
+bc/cnn/00/cnn_0001   15   4      mom    NN           *)    -    -   -    Unidentified_Male           *        *         77)
+bc/cnn/00/cnn_0001   15   5      and    CC           *     -    -   -    Unidentified_Male           *        *          -
+bc/cnn/00/cnn_0001   15   6      one    CD        (NP*     -    -   -    Unidentified_Male   (CARDINAL)       *        (57
+bc/cnn/00/cnn_0001   15   7     wife    NN          *))    -    -   -    Unidentified_Male           *        *)   151)|57)
+bc/cnn/00/cnn_0001   15   8       /.     .          *))    -    -   -    Unidentified_Male           *        *          -
+
+bc/cnn/00/cnn_0001   15   0          He    PRP   (TOP(S(NP*)      -    -   -    Bill_Neely           *    (ARG0*)       (73)
+bc/cnn/00/cnn_0001   15   1        lost    VBD         (VP*     lose  02   4    Bill_Neely           *       (V*)         -
+bc/cnn/00/cnn_0001   15   2         his   PRP$         (NP*       -    -   -    Bill_Neely           *    (ARG1*    (58|(73)
+bc/cnn/00/cnn_0001   15   3       seven     CD            *       -    -   -    Bill_Neely   (CARDINAL)        *          -
+bc/cnn/00/cnn_0001   15   4    children    NNS           *))   child   -   2    Bill_Neely           *         *)        58)
+bc/cnn/00/cnn_0001   15   5          /.      .           *))      -    -   -    Bill_Neely           *         *          -
+
+bc/cnn/00/cnn_0001   15   0       Seven    CD  (TOP(NP*       -   -   -    Unidentified_Male   (CARDINAL)  (58
+bc/cnn/00/cnn_0001   15   1    children   NNS         *    child  -   2    Unidentified_Male           *     -
+bc/cnn/00/cnn_0001   15   2          /.     .        *))      -   -   -    Unidentified_Male           *    58)
+
+bc/cnn/00/cnn_0001   15    0           He    PRP   (TOP(S(NP*)     -    -   -    Unidentified_Male           *    (ARG0*)            (73)
+bc/cnn/00/cnn_0001   15    1         lost    VBD         (VP*    lose  02   4    Unidentified_Male           *       (V*)              -
+bc/cnn/00/cnn_0001   15    2          his   PRP$      (NP(NP*      -    -   -    Unidentified_Male           *    (ARG1*    (58|(151|(73)
+bc/cnn/00/cnn_0001   15    3        seven     CD            *      -    -   -    Unidentified_Male   (CARDINAL)        *               -
+bc/cnn/00/cnn_0001   15    4    childrens    NNS            *)     -    -   -    Unidentified_Male           *         *              58)
+bc/cnn/00/cnn_0001   15    5         plus     CC            *      -    -   -    Unidentified_Male           *         *               -
+bc/cnn/00/cnn_0001   15    6           eh     UH       (INTJ*)     -    -   -    Unidentified_Male           *         *               -
+bc/cnn/00/cnn_0001   15    7          his   PRP$         (NP*      -    -   -    Unidentified_Male           *         *         (57|(73)
+bc/cnn/00/cnn_0001   15    8         wife     NN            *)     -    -   -    Unidentified_Male           *         *              57)
+bc/cnn/00/cnn_0001   15    9          and     CC            *      -    -   -    Unidentified_Male           *         *               -
+bc/cnn/00/cnn_0001   15   10           eh     UH       (INTJ*)     -    -   -    Unidentified_Male           *         *               -
+bc/cnn/00/cnn_0001   15   11          his   PRP$         (NP*      -    -   -    Unidentified_Male           *         *         (77|(73)
+bc/cnn/00/cnn_0001   15   12          mom     NN          *)))     -    -   -    Unidentified_Male           *         *)        151)|77)
+bc/cnn/00/cnn_0001   15   13           /.      .           *))     -    -   -    Unidentified_Male           *         *               -
+
+bc/cnn/00/cnn_0001   15    0        Even    RB   (TOP(S(NP*       -    -   -    Bill_Neely       *       (ARG0*    (ARG1*   (125
+bc/cnn/00/cnn_0001   15    1         the    DT            *       -    -   -    Bill_Neely       *            *         *      -
+bc/cnn/00/cnn_0001   15    2       blind   NNS            *)   blind   -   -    Bill_Neely       *            *)        *)   125)
+bc/cnn/00/cnn_0001   15    3      walked   VBD         (VP*     walk  01   1    Bill_Neely       *          (V*)        *      -
+bc/cnn/00/cnn_0001   15    4         for    IN         (PP*       -    -   -    Bill_Neely       *   (ARGM-TMP*         *      -
+bc/cnn/00/cnn_0001   15    5       hours   NNS        (NP*))    hour   -   1    Bill_Neely   (TIME)           *)        *      -
+bc/cnn/00/cnn_0001   15    6      across    IN         (PP*       -    -   -    Bill_Neely       *   (ARGM-DIR*         *      -
+bc/cnn/00/cnn_0001   15    7           a    DT         (NP*       -    -   -    Bill_Neely       *            *         *      -
+bc/cnn/00/cnn_0001   15    8    mountain    NN           *))      -    -   -    Bill_Neely       *            *)        *      -
+bc/cnn/00/cnn_0001   15    9          to    TO       (S(VP*       -    -   -    Bill_Neely       *   (ARGM-PRP*         *      -
+bc/cnn/00/cnn_0001   15   10         get    VB         (VP*      get  05   4    Bill_Neely       *            *       (V*)     -
+bc/cnn/00/cnn_0001   15   11        here    RB   (ADVP*)))))      -    -   -    Bill_Neely       *            *)   (ARG2*)     -
+bc/cnn/00/cnn_0001   15   12          /.     .           *))      -    -   -    Bill_Neely       *            *         *      -
+
+bc/cnn/00/cnn_0001   15    0           The     DT  (TOP(FRAG(NP*            -    -   -    Bill_Neely  *             *       -
+bc/cnn/00/cnn_0001   15    1         tents    NNS              *          tent   -   -    Bill_Neely  *             *       -
+bc/cnn/00/cnn_0001   15    2      blankets    NNS              *       blanket   -   -    Bill_Neely  *             *       -
+bc/cnn/00/cnn_0001   15    3           and     CC              *            -    -   -    Bill_Neely  *             *       -
+bc/cnn/00/cnn_0001   15    4       clothes    NNS              *)       clothe   -   -    Bill_Neely  *             *       -
+bc/cnn/00/cnn_0001   15    5         their   PRP$        (NP(NP*            -    -   -    Bill_Neely  *        (ARG1*)   (125)
+bc/cnn/00/cnn_0001   15    6          only     JJ              *            -    -   -    Bill_Neely  *    (ARGM-ADJ*)      -
+bc/cnn/00/cnn_0001   15    7    protection     NN              *)   protection  01   1    Bill_Neely  *           (V*)      -
+bc/cnn/00/cnn_0001   15    8       against     IN           (PP*            -    -   -    Bill_Neely  *        (ARG2*       -
+bc/cnn/00/cnn_0001   15    9             a     DT           (NP*            -    -   -    Bill_Neely  *             *       -
+bc/cnn/00/cnn_0001   15   10        brutal     JJ              *            -    -   -    Bill_Neely  *             *       -
+bc/cnn/00/cnn_0001   15   11        winter     NN            *)))       winter   -   -    Bill_Neely  *             *)      -
+bc/cnn/00/cnn_0001   15   12            /.      .             *))           -    -   -    Bill_Neely  *             *       -
+
+bc/cnn/00/cnn_0001   15    0         It    PRP    (TOP(S(NP*)     -    -   -    Bill_Neely  *    (ARG1*)            *           *      -
+bc/cnn/00/cnn_0001   15    1         's    VBZ          (VP*      be  01   1    Bill_Neely  *       (V*)            *           *      -
+bc/cnn/00/cnn_0001   15    2          a     DT       (NP(NP*      -    -   -    Bill_Neely  *    (ARG2*             *           *      -
+bc/cnn/00/cnn_0001   15    3       race     NN             *)   race  01   1    Bill_Neely  *         *           (V*)          *      -
+bc/cnn/00/cnn_0001   15    4       here     RB        (ADVP*)     -    -   -    Bill_Neely  *         *    (ARGM-LOC*)          *      -
+bc/cnn/00/cnn_0001   15    5    against     IN       (PP(PP*      -    -   -    Bill_Neely  *         *        (ARG1*           *      -
+bc/cnn/00/cnn_0001   15    6       time     NN         (NP*))   time   -   4    Bill_Neely  *         *             *           *      -
+bc/cnn/00/cnn_0001   15    7        and     CC             *      -    -   -    Bill_Neely  *         *             *           *      -
+bc/cnn/00/cnn_0001   15    8    against     IN          (PP*      -    -   -    Bill_Neely  *         *             *           *      -
+bc/cnn/00/cnn_0001   15    9        the     DT       (NP(NP*      -    -   -    Bill_Neely  *         *             *      (ARG1*    (82
+bc/cnn/00/cnn_0001   15   10      heavy     JJ             *      -    -   -    Bill_Neely  *         *             *           *      -
+bc/cnn/00/cnn_0001   15   11      snows    NNS             *)   snow   -   -    Bill_Neely  *         *             *           *)     -
+bc/cnn/00/cnn_0001   15   12       that    WDT   (SBAR(WHNP*)     -    -   -    Bill_Neely  *         *             *    (R-ARG1*)     -
+bc/cnn/00/cnn_0001   15   13        are    VBP        (S(VP*      be  01   1    Bill_Neely  *         *             *         (V*)     -
+bc/cnn/00/cnn_0001   15   14         on     IN          (PP*      -    -   -    Bill_Neely  *         *             *      (ARG2*      -
+bc/cnn/00/cnn_0001   15   15      their   PRP$          (NP*      -    -   -    Bill_Neely  *         *             *           *    (82)
+bc/cnn/00/cnn_0001   15   16        way     NN    *))))))))))    way   -   6    Bill_Neely  *         *)            *)          *)    82)
+bc/cnn/00/cnn_0001   15   17         /.      .            *))     -    -   -    Bill_Neely  *         *             *           *      -
+
+bc/cnn/00/cnn_0001   15    0           In    IN   (TOP(S(PP*       -    -   -    Bill_Neely       *      *    (ARGM-TMP*   -
+bc/cnn/00/cnn_0001   15    1        about    RB  (NP(NML(QP*       -    -   -    Bill_Neely  (DATE*      *             *   -
+bc/cnn/00/cnn_0001   15    2          two    CD            *)      -    -   -    Bill_Neely       *      *             *   -
+bc/cnn/00/cnn_0001   15    3        weeks   NNS            *)      -    -   -    Bill_Neely       *)     *             *   -
+bc/cnn/00/cnn_0001   15    4         time    NN           *))    time   -   2    Bill_Neely       *      *             *)  -
+bc/cnn/00/cnn_0001   15    5        these    DT      (NP(NP*       -    -   -    Bill_Neely       *      *        (ARG1*   -
+bc/cnn/00/cnn_0001   15    6    mountains   NNS            *)      -    -   -    Bill_Neely       *      *             *   -
+bc/cnn/00/cnn_0001   15    7          and    CC            *       -    -   -    Bill_Neely       *      *             *   -
+bc/cnn/00/cnn_0001   15    8         this    DT         (NP*       -    -   -    Bill_Neely       *      *             *   -
+bc/cnn/00/cnn_0001   15    9       valley    NN           *))      -    -   -    Bill_Neely       *      *             *)  -
+bc/cnn/00/cnn_0001   15   10         will    MD         (VP*       -    -   -    Bill_Neely       *      *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   15   11           be    VB         (VP*       be  03   -    Bill_Neely       *    (V*)            *   -
+bc/cnn/00/cnn_0001   15   12      covered   VBN         (VP*    cover  02   -    Bill_Neely       *      *           (V*)  -
+bc/cnn/00/cnn_0001   15   13           in    IN         (PP*       -    -   -    Bill_Neely       *      *        (ARG2*   -
+bc/cnn/00/cnn_0001   15   14         snow    NN     (NP*)))))    snow   -   -    Bill_Neely       *      *             *)  -
+bc/cnn/00/cnn_0001   15   15           /.     .           *))      -    -   -    Bill_Neely       *      *             *   -
+
+bc/cnn/00/cnn_0001   15   0         and    CC  (TOP(S*          -    -   -    Bill_Neely  *      *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0001   15   1         the    DT  (NP(NP*          -    -   -    Bill_Neely  *      *        (ARG1*   -
+bc/cnn/00/cnn_0001   15   2       logic    NN        *)         -    -   -    Bill_Neely  *      *             *   -
+bc/cnn/00/cnn_0001   15   3          of    IN     (PP*          -    -   -    Bill_Neely  *      *             *   -
+bc/cnn/00/cnn_0001   15   4    survival    NN   (NP*)))   survival  01   1    Bill_Neely  *    (V*)            *)  -
+bc/cnn/00/cnn_0001   15   5        then    RB   (ADVP*)         -    -   -    Bill_Neely  *      *    (ARGM-TMP*)  -
+bc/cnn/00/cnn_0001   15   6          is   VBZ     (VP*          be  01   1    Bill_Neely  *      *           (V*)  -
+bc/cnn/00/cnn_0001   15   7    brutally    RB   (ADJP*          -    -   -    Bill_Neely  *      *        (ARG2*   -
+bc/cnn/00/cnn_0001   15   8      simple    JJ       *))         -    -   -    Bill_Neely  *      *             *)  -
+bc/cnn/00/cnn_0001   15   9          /.     .       *))         -    -   -    Bill_Neely  *      *             *   -
+
+bc/cnn/00/cnn_0001   15   0     Anyone   NN   (TOP(S(NP(NP*)        -    -   -    Bill_Neely  *        (ARG1*   -
+bc/cnn/00/cnn_0001   15   1    without   IN            (PP*         -    -   -    Bill_Neely  *             *   -
+bc/cnn/00/cnn_0001   15   2    shelter   NN          (NP*)))   shelter   -   1    Bill_Neely  *             *)  -
+bc/cnn/00/cnn_0001   15   3       will   MD            (VP*         -    -   -    Bill_Neely  *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   15   4        die   VB           (VP*))       die  01   1    Bill_Neely  *           (V*)  -
+bc/cnn/00/cnn_0001   15   5         /.    .              *))        -    -   -    Bill_Neely  *             *   -
+
+bc/cnn/00/cnn_0001   15    0         The    DT    (TOP(S(NP*         -    -   -    Bill_Neely  *   (ARG1*             *   -
+bc/cnn/00/cnn_0001   15    1     problem    NN             *)   problem   -   1    Bill_Neely  *        *)            *   -
+bc/cnn/00/cnn_0001   15    2          is   VBZ          (VP*         be  01   2    Bill_Neely  *      (V*)            *   -
+bc/cnn/00/cnn_0001   15    3       there    EX   (SBAR(S(NP*)        -    -   -    Bill_Neely  *   (ARG2*             *   -
+bc/cnn/00/cnn_0001   15    4         are   VBP          (VP*         be  02   3    Bill_Neely  *        *           (V*)  -
+bc/cnn/00/cnn_0001   15    5         n't    RB             *         -    -   -    Bill_Neely  *        *    (ARGM-NEG*)  -
+bc/cnn/00/cnn_0001   15    6      enough    JJ          (NP*         -    -   -    Bill_Neely  *        *        (ARG1*   -
+bc/cnn/00/cnn_0001   15    7       tents   NNS             *)      tent   -   -    Bill_Neely  *        *             *)  -
+bc/cnn/00/cnn_0001   15    8        here    RB   (ADVP(ADVP*)        -    -   -    Bill_Neely  *        *    (ARGM-LOC*   -
+bc/cnn/00/cnn_0001   15    9          or    CC             *         -    -   -    Bill_Neely  *        *             *   -
+bc/cnn/00/cnn_0001   15   10    anywhere    RB        (ADVP*         -    -   -    Bill_Neely  *        *             *   -
+bc/cnn/00/cnn_0001   15   11        else    RB        *))))))        -    -   -    Bill_Neely  *        *)            *)  -
+bc/cnn/00/cnn_0001   15   12          /.     .            *))        -    -   -    Bill_Neely  *        *             *   -
+
+bc/cnn/00/cnn_0001   15    0           so    RB   (TOP(S(ADVP*)         -    -   -    Bill_Neely           *          *             *      *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0001   15    1            a    DT        (NP(NP*          -    -   -    Bill_Neely           *   (R-ARG1*             *      *        (ARG1*   (36
+bc/cnn/00/cnn_0001   15    2       second    JJ              *          -    -   -    Bill_Neely           *          *             *      *             *     -
+bc/cnn/00/cnn_0001   15    3     disaster    NN              *)   disaster   -   1    Bill_Neely           *          *)            *      *             *     -
+bc/cnn/00/cnn_0001   15    4         that   WDT    (SBAR(WHNP*)         -    -   -    Bill_Neely           *          *        (ARG0*)     *             *     -
+bc/cnn/00/cnn_0001   15    5          the    DT         (S(NP*          -    -   -    Bill_Neely           *     (ARG0*             *      *             *     -
+bc/cnn/00/cnn_0001   15    6           UN   NNP              *)         -    -   -    Bill_Neely        (ORG)         *)            *      *             *     -
+bc/cnn/00/cnn_0001   15    7         says   VBZ           (VP*         say  01   1    Bill_Neely           *        (V*)            *      *             *     -
+bc/cnn/00/cnn_0001   15    8        could    MD    (SBAR(S(VP*          -    -   -    Bill_Neely           *     (ARG1*    (ARGM-MOD*)     *             *     -
+bc/cnn/00/cnn_0001   15    9         kill    VB           (VP*        kill  01   1    Bill_Neely           *          *           (V*)     *             *     -
+bc/cnn/00/cnn_0001   15   10    thousands   NNS   (NP*)))))))))         -    -   -    Bill_Neely   (CARDINAL)         *)       (ARG1*)     *             *)   36)
+bc/cnn/00/cnn_0001   15   11           is   VBZ           (VP*          be  03   -    Bill_Neely           *          *             *    (V*)            *     -
+bc/cnn/00/cnn_0001   15   12          n't    RB              *          -    -   -    Bill_Neely           *          *             *      *    (ARGM-NEG*)    -
+bc/cnn/00/cnn_0001   15   13         just    RB         (ADVP*)         -    -   -    Bill_Neely           *          *             *      *    (ARGM-ADV*)    -
+bc/cnn/00/cnn_0001   15   14      looming   VBG          (VP*))       loom  01   2    Bill_Neely           *          *             *      *           (V*)    -
+bc/cnn/00/cnn_0001   15   15           /.     .             *))         -    -   -    Bill_Neely           *          *             *      *             *     -
+
+bc/cnn/00/cnn_0001   15   0        it   PRP   (TOP(S(NP*)   -    -   -    Bill_Neely  *    (ARG1*)   (36)
+bc/cnn/00/cnn_0001   15   1        's   VBZ         (VP*    be  01   1    Bill_Neely  *       (V*)     -
+bc/cnn/00/cnn_0001   15   2    highly    RB       (ADJP*    -    -   -    Bill_Neely  *    (ARG2*      -
+bc/cnn/00/cnn_0001   15   3    likely    JJ           *))   -    -   -    Bill_Neely  *         *)     -
+bc/cnn/00/cnn_0001   15   4        /.     .           *))   -    -   -    Bill_Neely  *         *      -
+
+bc/cnn/00/cnn_0001   15   0         These    DT  (TOP(S(NP*            -    -   -    Bill_Neely  *   (ARG0*      -
+bc/cnn/00/cnn_0001   15   1      children   NNS           *)        child   -   1    Bill_Neely  *        *)     -
+bc/cnn/00/cnn_0001   15   2      survived   VBD        (VP*       survive  01   1    Bill_Neely  *      (V*)     -
+bc/cnn/00/cnn_0001   15   3           the    DT        (NP*            -    -   -    Bill_Neely  *   (ARG1*   (153
+bc/cnn/00/cnn_0001   15   4    earthquake    NN          *))   earthquake   -   1    Bill_Neely  *        *)   153)
+bc/cnn/00/cnn_0001   15   5            /.     .          *))           -    -   -    Bill_Neely  *        *      -
+
+bc/cnn/00/cnn_0001   15   0      Twenty    CD  (TOP(S(NP(QP*    -    -   -    Bill_Neely  (CARDINAL*      *   -
+bc/cnn/00/cnn_0001   15   1    thousand    CD             *))   -    -   -    Bill_Neely           *)     *   -
+bc/cnn/00/cnn_0001   15   2         did   VBD           (VP*    do  01   -    Bill_Neely           *    (V*)  -
+bc/cnn/00/cnn_0001   15   3         n't    RB              *)   -    -   -    Bill_Neely           *      *   -
+bc/cnn/00/cnn_0001   15   4          /.     .             *))   -    -   -    Bill_Neely           *      *   -
+
+bc/cnn/00/cnn_0001   15    0          The    DT  (TOP(S(NP*        -    -    -    Bill_Neely           *           *        (ARG0*   -
+bc/cnn/00/cnn_0001   15    1       coming   VBG           *      come  01    -    Bill_Neely           *         (V*)            *   -
+bc/cnn/00/cnn_0001   15    2         cold    NN           *      cold   -    -    Bill_Neely           *      (ARG1*)            *   -
+bc/cnn/00/cnn_0001   15    3          and    CC           *        -    -    -    Bill_Neely           *           *             *   -
+bc/cnn/00/cnn_0001   15    4       hunger    NN           *)   hunger   -    -    Bill_Neely           *    (C-ARG1*)            *)  -
+bc/cnn/00/cnn_0001   15    5        could    MD        (VP*        -    -    -    Bill_Neely           *           *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   15    6        carry    VB        (VP*     carry  05   10    Bill_Neely           *           *           (V*)  -
+bc/cnn/00/cnn_0001   15    7          off    RP       (PRT*)       -    -    -    Bill_Neely           *           *             *   -
+bc/cnn/00/cnn_0001   15    8    thousands   NNS        (NP*        -    -    -    Bill_Neely   (CARDINAL)          *        (ARG1*   -
+bc/cnn/00/cnn_0001   15    9         more   JJR         *)))       -    -    -    Bill_Neely           *           *             *)  -
+bc/cnn/00/cnn_0001   15   10           /.     .          *))       -    -    -    Bill_Neely           *           *             *   -
+
+bc/cnn/00/cnn_0001   15   0          So     RB   (TOP(S(ADVP*)         -    -   -    Bill_Neely  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   15   1        they    PRP           (NP*)         -    -   -    Bill_Neely  *        (ARG0*)   (66)
+bc/cnn/00/cnn_0001   15   2    struggle    VBP           (VP*    struggle  01   2    Bill_Neely  *           (V*)     -
+bc/cnn/00/cnn_0001   15   3        away     RB         (ADVP*)         -    -   -    Bill_Neely  *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0001   15   4        with     IN           (PP*          -    -   -    Bill_Neely  *        (ARG1*      -
+bc/cnn/00/cnn_0001   15   5       their   PRP$           (NP*          -    -   -    Bill_Neely  *             *    (66)
+bc/cnn/00/cnn_0001   15   6       tents    NNS            *)))       tent   -   -    Bill_Neely  *             *)     -
+bc/cnn/00/cnn_0001   15   7          /.      .             *))         -    -   -    Bill_Neely  *             *      -
+
+bc/cnn/00/cnn_0001   15    0         and    CC       (TOP(S*          -    -    -    Bill_Neely  *      *           *        *             *     -
+bc/cnn/00/cnn_0001   15    1        even    RB       (NP(NP*          -    -    -    Bill_Neely  *      *      (ARG1*   (ARG0*        (ARG0*     -
+bc/cnn/00/cnn_0001   15    2         the    DT             *          -    -    -    Bill_Neely  *      *           *        *             *     -
+bc/cnn/00/cnn_0001   15    3         aid    NN             *         aid   -    3    Bill_Neely  *      *           *        *             *     -
+bc/cnn/00/cnn_0001   15    4     workers   NNS             *)     worker   -    1    Bill_Neely  *      *           *)       *             *     -
+bc/cnn/00/cnn_0001   15    5         who    WP   (SBAR(WHNP*)         -    -    -    Bill_Neely  *      *    (R-ARG1*)       *             *     -
+bc/cnn/00/cnn_0001   15    6         've   VBP        (S(VP*        have  01   12    Bill_Neely  *    (V*)          *        *             *     -
+bc/cnn/00/cnn_0001   15    7        been   VBN          (VP*          be  01    1    Bill_Neely  *      *         (V*)       *             *     -
+bc/cnn/00/cnn_0001   15    8     through    IN          (PP*          -    -    -    Bill_Neely  *      *      (ARG2*        *             *     -
+bc/cnn/00/cnn_0001   15    9         the    DT          (NP*          -    -    -    Bill_Neely  *      *           *        *             *   (96
+bc/cnn/00/cnn_0001   15   10     tsunami    NN       *)))))))         -    -    -    Bill_Neely  *      *           *)       *)            *)   96)
+bc/cnn/00/cnn_0001   15   11    struggle   VBP          (VP*    struggle  02    2    Bill_Neely  *      *           *      (V*)            *     -
+bc/cnn/00/cnn_0001   15   12          to    TO        (S(VP*          -    -    -    Bill_Neely  *      *           *   (ARG1*             *     -
+bc/cnn/00/cnn_0001   15   13        cope    VB          (VP*        cope  01    1    Bill_Neely  *      *           *        *           (V*)    -
+bc/cnn/00/cnn_0001   15   14        here    RB    (ADVP*)))))         -    -    -    Bill_Neely  *      *           *        *)   (ARGM-LOC*)    -
+bc/cnn/00/cnn_0001   15   15          /.     .            *))         -    -    -    Bill_Neely  *      *           *        *             *     -
+
+bc/cnn/00/cnn_0001   15   0    Logistically    RB   (TOP(S(ADVP*)      -    -   -    Sam_Rush  *    (ARGM-ADV*)  -
+bc/cnn/00/cnn_0001   15   1              it   PRP           (NP*)      -    -   -    Sam_Rush  *        (ARG1*)  -
+bc/cnn/00/cnn_0001   15   2              's   VBZ           (VP*       be  01   1    Sam_Rush  *           (V*)  -
+bc/cnn/00/cnn_0001   15   3             the    DT           (NP*       -    -   -    Sam_Rush  *        (ARG2*   -
+bc/cnn/00/cnn_0001   15   4           worst   JJS              *)      -    -   -    Sam_Rush  *             *)  -
+bc/cnn/00/cnn_0001   15   5         without    IN           (PP*       -    -   -    Sam_Rush  *    (ARGM-ADV*   -
+bc/cnn/00/cnn_0001   15   6               a    DT           (NP*       -    -   -    Sam_Rush  *             *   -
+bc/cnn/00/cnn_0001   15   7           doubt    NN            *)))   doubt   -   2    Sam_Rush  *             *)  -
+bc/cnn/00/cnn_0001   15   8              /.     .             *))      -    -   -    Sam_Rush  *             *   -
+
+bc/cnn/00/cnn_0001   15   0           It   PRP   (TOP(S(NP*)    -    -   -    Sam_Rush  *      *    (ARG1*)  -
+bc/cnn/00/cnn_0001   15   1           's   VBZ         (VP*     be  03   9    Sam_Rush  *    (V*)        *   -
+bc/cnn/00/cnn_0001   15   2      getting   VBG         (VP*    get  05   3    Sam_Rush  *      *       (V*)  -
+bc/cnn/00/cnn_0001   15   3         high    RB       (ADVP*     -    -   -    Sam_Rush  *      *    (ARG2*   -
+bc/cnn/00/cnn_0001   15   4           in    IN         (PP*     -    -   -    Sam_Rush  *      *         *   -
+bc/cnn/00/cnn_0001   15   5    mountains   NNS     (NP*)))))    -    -   -    Sam_Rush  *      *         *)  -
+bc/cnn/00/cnn_0001   15   6           /.     .           *))    -    -   -    Sam_Rush  *      *         *   -
+
+bc/cnn/00/cnn_0001   15    0         The    DT  (TOP(S(NP(NP*      -    -   -    Sam_Rush  *             *        (ARG1*        *       -
+bc/cnn/00/cnn_0001   15    1        road    NN              *)   road   -   2    Sam_Rush  *             *             *        *       -
+bc/cnn/00/cnn_0001   15    2        that   WDT    (SBAR(WHNP*)     -    -   -    Sam_Rush  *             *             *        *       -
+bc/cnn/00/cnn_0001   15    3          we   PRP         (S(NP*)     -    -   -    Sam_Rush  *        (ARG1*)            *        *    (121)
+bc/cnn/00/cnn_0001   15    4        came   VBD           (VP*    come  01   1    Sam_Rush  *           (V*)            *        *       -
+bc/cnn/00/cnn_0001   15    5          up    IN       (PP*)))))     -    -   -    Sam_Rush  *    (ARGM-DIR*)            *)       *       -
+bc/cnn/00/cnn_0001   15    6         now    RB         (ADVP*)     -    -   -    Sam_Rush  *             *    (ARGM-TMP*)       *       -
+bc/cnn/00/cnn_0001   15    7          is   VBZ           (VP*      be  01   1    Sam_Rush  *             *           (V*)       *       -
+bc/cnn/00/cnn_0001   15    8      pretty    RB         (ADJP*      -    -   -    Sam_Rush  *             *        (ARG2*        *       -
+bc/cnn/00/cnn_0001   15    9    perilous    JJ              *)     -    -   -    Sam_Rush  *             *             *)       *       -
+bc/cnn/00/cnn_0001   15   10          to    TO         (S(VP*      -    -   -    Sam_Rush  *             *    (ARGM-ADV*        *       -
+bc/cnn/00/cnn_0001   15   11         say    VB           (VP*     say  01   1    Sam_Rush  *             *             *      (V*)      -
+bc/cnn/00/cnn_0001   15   12         the    DT           (NP*      -    -   -    Sam_Rush  *             *             *   (ARG1*       -
+bc/cnn/00/cnn_0001   15   13       least   JJS          *)))))     -    -   -    Sam_Rush  *             *             *)       *)      -
+bc/cnn/00/cnn_0001   15   14          /.     .             *))     -    -   -    Sam_Rush  *             *             *        *       -
+
+bc/cnn/00/cnn_0001   15   0         but    CC    (TOP(S*         -    -      -    Sam_Rush  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   15   1          we   PRP       (NP*)        -    -      -    Sam_Rush  *        (ARG0*)   (121)
+bc/cnn/00/cnn_0001   15   2       could    MD       (VP*         -    -      -    Sam_Rush  *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0001   15   3         get    VB       (VP*        get  05   11.2    Sam_Rush  *           (V*)      -
+bc/cnn/00/cnn_0001   15   4    vehicles   NNS       (NP*)   vehicle   -      1    Sam_Rush  *        (ARG1*)      -
+bc/cnn/00/cnn_0001   15   5          up    RB   (ADVP*)))        -    -      -    Sam_Rush  *        (ARG2*)      -
+bc/cnn/00/cnn_0001   15   6          /.     .         *))        -    -      -    Sam_Rush  *             *       -
+
+bc/cnn/00/cnn_0001   15    0            We   PRP      (TOP(S(NP*)       -    -   -    Sam_Rush  *      *    (ARG0*)     *        *             *   -
+bc/cnn/00/cnn_0001   15    1           're   VBP            (VP*        be  03   -    Sam_Rush  *    (V*)        *      *        *             *   -
+bc/cnn/00/cnn_0001   15    2       talking   VBG            (VP*      talk  01   1    Sam_Rush  *      *       (V*)     *        *             *   -
+bc/cnn/00/cnn_0001   15    3         about    IN            (PP*        -    -   -    Sam_Rush  *      *    (ARG1*      *        *             *   -
+bc/cnn/00/cnn_0001   15    4             a    DT       (S(NP(NP*        -    -   -    Sam_Rush  *      *         *      *   (ARG0*             *   -
+bc/cnn/00/cnn_0001   15    5           lot    NN               *)      lot   -   1    Sam_Rush  *      *         *      *        *             *   -
+bc/cnn/00/cnn_0001   15    6            of    IN            (PP*        -    -   -    Sam_Rush  *      *         *      *        *             *   -
+bc/cnn/00/cnn_0001   15    7        places   NNS          (NP*)))    place   -   1    Sam_Rush  *      *         *      *        *)            *   -
+bc/cnn/00/cnn_0001   15    8          have   VBP            (VP*      have  01   -    Sam_Rush  *      *         *    (V*)       *             *   -
+bc/cnn/00/cnn_0001   15    9           got   VBD            (VP*       get  02   1    Sam_Rush  *      *         *      *      (V*)            *   -
+bc/cnn/00/cnn_0001   15   10            no    DT         (NP(NP*        -    -   -    Sam_Rush  *      *         *      *   (ARG1*    (ARGM-NEG*)  -
+bc/cnn/00/cnn_0001   15   11     vehicular    JJ               *        -    -   -    Sam_Rush  *      *         *      *        *    (ARGM-MNR*)  -
+bc/cnn/00/cnn_0001   15   12        access    NN               *)   access  01   3    Sam_Rush  *      *         *      *        *           (V*)  -
+bc/cnn/00/cnn_0001   15   13    whatsoever    RB   (ADVP*))))))))       -    -   -    Sam_Rush  *      *         *)     *        *)   (ARGM-ADJ*)  -
+bc/cnn/00/cnn_0001   15   14            /.     .              *))       -    -   -    Sam_Rush  *      *         *      *        *             *   -
+
+bc/cnn/00/cnn_0001   15   0           Then    RB   (TOP(S(ADVP*)      -    -   -    Sam_Rush  *      *    (ARGM-TMP*)  -
+bc/cnn/00/cnn_0001   15   1             we   PRP           (NP*)      -    -   -    Sam_Rush  *      *        (ARG0*)  -
+bc/cnn/00/cnn_0001   15   2            're   VBP           (VP*       be  03   -    Sam_Rush  *    (V*)            *   -
+bc/cnn/00/cnn_0001   15   3        talking   VBG           (VP*     talk  01   1    Sam_Rush  *      *           (V*)  -
+bc/cnn/00/cnn_0001   15   4           meal    NN        (NP(NP*       -    -   -    Sam_Rush  *      *        (ARG1*   -
+bc/cnn/00/cnn_0001   15   5         trains   NNS              *)   train   -   1    Sam_Rush  *      *             *   -
+bc/cnn/00/cnn_0001   15   6            and    CC              *       -    -   -    Sam_Rush  *      *             *   -
+bc/cnn/00/cnn_0001   15   7    helicopters   NNS        (NP*))))      -    -   -    Sam_Rush  *      *             *)  -
+bc/cnn/00/cnn_0001   15   8             /.     .             *))      -    -   -    Sam_Rush  *      *             *   -
+
+bc/cnn/00/cnn_0001   15   0        and    CC    (TOP(S*      -    -      -    Sam_Rush  *      *             *   -
+bc/cnn/00/cnn_0001   15   1         we   PRP       (NP*)     -    -      -    Sam_Rush  *      *        (ARG0*)  -
+bc/cnn/00/cnn_0001   15   2        're   VBP       (VP*      be  03      -    Sam_Rush  *    (V*)            *   -
+bc/cnn/00/cnn_0001   15   3     really    RB     (ADVP*)     -    -      -    Sam_Rush  *      *    (ARGM-ADV*)  -
+bc/cnn/00/cnn_0001   15   4    running   VBG       (VP*     run  05   13.4    Sam_Rush  *      *           (V*)  -
+bc/cnn/00/cnn_0001   15   5        out    IN       (PP*      -    -      -    Sam_Rush  *      *             *   -
+bc/cnn/00/cnn_0001   15   6         of    IN       (PP*      -    -      -    Sam_Rush  *      *        (ARG1*   -
+bc/cnn/00/cnn_0001   15   7       time    NN   (NP*)))))   time   -      3    Sam_Rush  *      *             *)  -
+bc/cnn/00/cnn_0001   15   8         /.     .         *))     -    -      -    Sam_Rush  *      *             *   -
+
+bc/cnn/00/cnn_0001   15   0           It   PRP   (TOP(S(NP*)          -    -   -    Sam_Rush  *    (ARG1*)   (46)
+bc/cnn/00/cnn_0001   15   1           's   VBZ         (VP*           be  01   1    Sam_Rush  *       (V*)     -
+bc/cnn/00/cnn_0001   15   2        quite   PDT         (NP*           -    -   -    Sam_Rush  *    (ARG2*      -
+bc/cnn/00/cnn_0001   15   3            a    DT            *           -    -   -    Sam_Rush  *         *      -
+bc/cnn/00/cnn_0001   15   4      serious    JJ            *           -    -   -    Sam_Rush  *         *      -
+bc/cnn/00/cnn_0001   15   5    situation    NN           *))   situation   -   1    Sam_Rush  *         *)     -
+bc/cnn/00/cnn_0001   15   6           /.     .           *))          -    -   -    Sam_Rush  *         *      -
+
+bc/cnn/00/cnn_0001   15    0        the    DT   (TOP(S(NP*      -    -   -    Bill_Neely  *   (ARG1*         *    (96
+bc/cnn/00/cnn_0001   15    1    tsunami    NN            *)     -    -   -    Bill_Neely  *        *)        *     96)
+bc/cnn/00/cnn_0001   15    2        was   VBD         (VP*      be  01   1    Bill_Neely  *      (V*)        *      -
+bc/cnn/00/cnn_0001   15    3       much    RB  (ADJP(ADJP*      -    -   -    Bill_Neely  *   (ARG2*         *      -
+bc/cnn/00/cnn_0001   15    4     easier   JJR            *      -    -   -    Bill_Neely  *        *         *      -
+bc/cnn/00/cnn_0001   15    5         to    TO  (SBAR(S(VP*      -    -   -    Bill_Neely  *        *         *      -
+bc/cnn/00/cnn_0001   15    6       deal    VB         (VP*    deal  01   1    Bill_Neely  *        *       (V*)     -
+bc/cnn/00/cnn_0001   15    7       with    IN    (PP*))))))     -    -   -    Bill_Neely  *        *    (ARG1*)     -
+bc/cnn/00/cnn_0001   15    8       than    IN         (PP*      -    -   -    Bill_Neely  *        *         *      -
+bc/cnn/00/cnn_0001   15    9       this    DT      (NP*))))     -    -   -    Bill_Neely  *        *)        *    (46)
+bc/cnn/00/cnn_0001   15   10         /?     .           *))     -    -   -    Bill_Neely  *        *         *      -
+
+bc/cnn/00/cnn_0001   15   0        The    DT  (TOP(S(NP*        -    -   -    Sam_Rush       *      *        (ARG0*         *   (96
+bc/cnn/00/cnn_0001   15   1    tsunami    NN           *)       -    -   -    Sam_Rush       *      *             *)        *    96)
+bc/cnn/00/cnn_0001   15   2        did   VBD        (VP*        do  01   -    Sam_Rush       *    (V*)            *         *     -
+bc/cnn/00/cnn_0001   15   3        n't    RB           *        -    -   -    Sam_Rush       *      *    (ARGM-NEG*)        *     -
+bc/cnn/00/cnn_0001   15   4       have    VB        (VP*      have  04   4    Sam_Rush       *      *           (V*)        *     -
+bc/cnn/00/cnn_0001   15   5     winter    NN      (S(NP*)   winter   -   -    Sam_Rush   (DATE)     *        (ARG1*    (ARG1*)    -
+bc/cnn/00/cnn_0001   15   6     coming   VBG     (VP*))))     come  01   1    Sam_Rush       *      *             *)      (V*)    -
+bc/cnn/00/cnn_0001   15   7         /.     .          *))       -    -   -    Sam_Rush       *      *             *         *     -
+
+bc/cnn/00/cnn_0001   15    0          I   PRP   (TOP(S(PRN(S(NP*)       -    -    -    Sam_Rush  *    (ARG0*)     *             *            *      *      *             *   -
+bc/cnn/00/cnn_0001   15    1       mean   VBP             (VP*)))     mean  01    1    Sam_Rush  *       (V*)     *             *            *      *      *             *   -
+bc/cnn/00/cnn_0001   15    2       here    RB             (ADVP*)       -    -    -    Sam_Rush  *         *      *    (ARGM-LOC*)           *      *      *             *   -
+bc/cnn/00/cnn_0001   15    3         we   PRP               (NP*)       -    -    -    Sam_Rush  *         *      *        (ARG0*)           *      *      *             *   -
+bc/cnn/00/cnn_0001   15    4        've   VBP               (VP*      have  01   12    Sam_Rush  *         *    (V*)            *            *      *      *             *   -
+bc/cnn/00/cnn_0001   15    5       just    RB             (ADVP*)       -    -    -    Sam_Rush  *         *      *    (ARGM-ADV*)           *      *      *             *   -
+bc/cnn/00/cnn_0001   15    6        got   VBD               (VP*       get  02    1    Sam_Rush  *         *      *           (V*)           *      *      *             *   -
+bc/cnn/00/cnn_0001   15    7       this    DT            (NP(NP*        -    -    -    Sam_Rush  *         *      *        (ARG1*            *      *      *        (ARG1*   -
+bc/cnn/00/cnn_0001   15    8     hammer    NN                  *    hammer   -    -    Sam_Rush  *         *      *             *       (ARG2*)     *      *             *   -
+bc/cnn/00/cnn_0001   15    9       blow    NN                  *)     blow  01    1    Sam_Rush  *         *      *             *          (V*)     *      *             *)  -
+bc/cnn/00/cnn_0001   15   10       that   WDT        (SBAR(WHNP*)       -    -    -    Sam_Rush  *         *      *             *   (ARGM-ADJ*      *      *      (R-ARG1*)  -
+bc/cnn/00/cnn_0001   15   11         's   VBZ             (S(VP*        be  03    9    Sam_Rush  *         *      *             *            *    (V*)     *             *   -
+bc/cnn/00/cnn_0001   15   12      going   VBG               (VP*        go  04    7    Sam_Rush  *         *      *             *            *      *    (V*)            *   -
+bc/cnn/00/cnn_0001   15   13         to    TO             (S(VP*        -    -    -    Sam_Rush  *         *      *             *            *      *      *             *   -
+bc/cnn/00/cnn_0001   15   14       come    VB               (VP*      come  01   11    Sam_Rush  *         *      *             *            *      *      *           (V*)  -
+bc/cnn/00/cnn_0001   15   15       down    RB             (ADVP*)       -    -    -    Sam_Rush  *         *      *             *            *      *      *    (ARGM-DIR*)  -
+bc/cnn/00/cnn_0001   15   16       very    RB             (ADVP*        -    -    -    Sam_Rush  *         *      *             *            *      *      *    (ARGM-TMP*   -
+bc/cnn/00/cnn_0001   15   17       very    RB                  *        -    -    -    Sam_Rush  *         *      *             *            *      *      *             *   -
+bc/cnn/00/cnn_0001   15   18    shortly    RB        *)))))))))))       -    -    -    Sam_Rush  *         *      *             *)           *)     *      *             *)  -
+bc/cnn/00/cnn_0001   15   19         /.     .                 *))       -    -    -    Sam_Rush  *         *      *             *            *      *      *             *   -
+
+bc/cnn/00/cnn_0001   15   0         The    DT  (TOP(S(NP*          -    -   -    Bill_Neely          *   (ARG1*   (153
+bc/cnn/00/cnn_0001   15   1       first    JJ           *          -    -   -    Bill_Neely   (ORDINAL)       *      -
+bc/cnn/00/cnn_0001   15   2    disaster    NN           *)   disaster   -   1    Bill_Neely          *        *)   153)
+bc/cnn/00/cnn_0001   15   3         was   VBD        (VP*          be  01   1    Bill_Neely          *      (V*)     -
+bc/cnn/00/cnn_0001   15   4          an    DT     (NP(NP*          -    -   -    Bill_Neely          *   (ARG2*      -
+bc/cnn/00/cnn_0001   15   5         act    NN           *)        act   -   2    Bill_Neely          *        *      -
+bc/cnn/00/cnn_0001   15   6          of    IN        (PP*          -    -   -    Bill_Neely          *        *      -
+bc/cnn/00/cnn_0001   15   7         god    NN     (NP*))))         -    -   -    Bill_Neely          *        *)     -
+bc/cnn/00/cnn_0001   15   8          /.     .          *))         -    -   -    Bill_Neely          *        *      -
+
+bc/cnn/00/cnn_0001   15   0            A    DT  (TOP(S(NP*         -    -   -    Bill_Neely          *      *        (ARG1*   -
+bc/cnn/00/cnn_0001   15   1       second    JJ           *)        -    -   -    Bill_Neely   (ORDINAL)     *             *)  -
+bc/cnn/00/cnn_0001   15   2          can    MD        (VP*         -    -   -    Bill_Neely          *      *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   15   3           be    VB        (VP*         be  03   -    Bill_Neely          *    (V*)            *   -
+bc/cnn/00/cnn_0001   15   4    prevented   VBN        (VP*    prevent  01   1    Bill_Neely          *      *           (V*)  -
+bc/cnn/00/cnn_0001   15   5           by    IN        (PP*         -    -   -    Bill_Neely          *      *        (ARG3*   -
+bc/cnn/00/cnn_0001   15   6         time    NN    (NP*)))))      time   -   4    Bill_Neely          *      *             *)  -
+bc/cnn/00/cnn_0001   15   7           /.     .          *))        -    -   -    Bill_Neely          *      *             *   -
+
+bc/cnn/00/cnn_0001   15   0        and    CC   (TOP(S*     -    -      -    Bill_Neely  *      *        *   -
+bc/cnn/00/cnn_0001   15   1        aid    NN      (NP*    aid   -      -    Bill_Neely  *      *   (ARG1*   -
+bc/cnn/00/cnn_0001   15   2      money    NN         *)    -    -      -    Bill_Neely  *      *        *)  -
+bc/cnn/00/cnn_0001   15   3         is   VBZ      (VP*     be  03      -    Bill_Neely  *    (V*)       *   -
+bc/cnn/00/cnn_0001   15   4    running   VBG      (VP*    run  05   13.4    Bill_Neely  *      *      (V*)  -
+bc/cnn/00/cnn_0001   15   5        out    RP   (PRT*)))    -    -      -    Bill_Neely  *      *        *   -
+bc/cnn/00/cnn_0001   15   6         /.     .        *))    -    -      -    Bill_Neely  *      *        *   -
+
+bc/cnn/00/cnn_0001   15   0       As    IN  (TOP(S(SBAR*       -    -   -    Bill_Neely       *         *   (ARGM-TMP*   -
+bc/cnn/00/cnn_0001   15   1       we   PRP        (S(NP*)      -    -   -    Bill_Neely       *    (ARG0*)           *   -
+bc/cnn/00/cnn_0001   15   2     left   VBD        (VP*)))   leave  01   1    Bill_Neely       *       (V*)           *)  -
+bc/cnn/00/cnn_0001   15   3    night    NN          (NP*)   night   -   4    Bill_Neely   (TIME)        *       (ARG1*)  -
+bc/cnn/00/cnn_0001   15   4     fell   VBD          (VP*)    fall  04   4    Bill_Neely       *         *          (V*)  -
+bc/cnn/00/cnn_0001   15   5       /.     .            *))      -    -   -    Bill_Neely       *         *            *   -
+
+bc/cnn/00/cnn_0001   15   0      and    CC   (TOP(S*      -    -   -    Bill_Neely          *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   15   1      the    DT      (NP*      -    -   -    Bill_Neely          *        (ARG1*   (142
+bc/cnn/00/cnn_0001   15   2    first    JJ         *      -    -   -    Bill_Neely   (ORDINAL)            *      -
+bc/cnn/00/cnn_0001   15   3     snow    NN         *)   snow   -   -    Bill_Neely          *             *)   142)
+bc/cnn/00/cnn_0001   15   4     fell   VBD      (VP*    fall  01   1    Bill_Neely          *           (V*)     -
+bc/cnn/00/cnn_0001   15   5      too    RB   (ADVP*))     -    -   -    Bill_Neely          *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   15   6       /.     .        *))     -    -   -    Bill_Neely          *             *      -
+
+bc/cnn/00/cnn_0001   15   0        It   PRP   (TOP(S(NP*)       -    -   -    Bill_Neely  *      *        (ARG1*)   (142)
+bc/cnn/00/cnn_0001   15   1       did   VBD         (VP*        do  01   -    Bill_Neely  *    (V*)            *       -
+bc/cnn/00/cnn_0001   15   2       n't    RB            *        -    -   -    Bill_Neely  *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   15   3    settle    VB        (VP*))   settle  02   1    Bill_Neely  *      *           (V*)      -
+bc/cnn/00/cnn_0001   15   4        /.     .           *))       -    -   -    Bill_Neely  *      *             *       -
+
+bc/cnn/00/cnn_0001   15   0     but    CC       (TOP(S*   -   -   -    Bill_Neely  *   -
+bc/cnn/00/cnn_0001   15   1      it   PRP          (NP*)  -   -   -    Bill_Neely  *   -
+bc/cnn/00/cnn_0001   15   2    will    MD          (VP*   -   -   -    Bill_Neely  *   -
+bc/cnn/00/cnn_0001   15   3    soon    RB   (VP(ADVP*)))  -   -   -    Bill_Neely  *   -
+bc/cnn/00/cnn_0001   15   4      /.     .            *))  -   -   -    Bill_Neely  *   -
+
+bc/cnn/00/cnn_0001   15    0    Pakistan   NNP  (TOP(S(NP(NP*        -    -   -    Bill_Neely   (GPE)  (ARG1*   (104
+bc/cnn/00/cnn_0001   15    1          's   POS              *)       -    -   -    Bill_Neely      *        *    104)
+bc/cnn/00/cnn_0001   15    2    mountain    NN              *        -    -   -    Bill_Neely      *        *      -
+bc/cnn/00/cnn_0001   15    3      people   NNS              *)   people   -   5    Bill_Neely      *        *)     -
+bc/cnn/00/cnn_0001   15    4         are   VBP           (VP*        be  01   1    Bill_Neely      *      (V*)     -
+bc/cnn/00/cnn_0001   15    5      braced    JJ         (ADJP*        -    -   -    Bill_Neely      *   (ARG2*      -
+bc/cnn/00/cnn_0001   15    6         for    IN           (PP*        -    -   -    Bill_Neely      *        *      -
+bc/cnn/00/cnn_0001   15    7     another    DT           (NP*        -    -   -    Bill_Neely      *        *      -
+bc/cnn/00/cnn_0001   15    8    terrible    JJ              *        -    -   -    Bill_Neely      *        *      -
+bc/cnn/00/cnn_0001   15    9        test    NN           *))))     test   -   2    Bill_Neely      *        *)     -
+bc/cnn/00/cnn_0001   15   10          /.     .             *))       -    -   -    Bill_Neely      *        *      -
+
+bc/cnn/00/cnn_0001   15   0        Bill   NNP  (TOP(FRAG(NP*   -   -   -    Bill_Neely  (PERSON*     (67
+bc/cnn/00/cnn_0001   15   1       Neely    RB              *)  -   -   -    Bill_Neely         *)     67)
+bc/cnn/00/cnn_0001   15   2         ITV   NNP           (NP*   -   -   -    Bill_Neely     (ORG*       -
+bc/cnn/00/cnn_0001   15   3        News   NNP              *)  -   -   -    Bill_Neely         *)      -
+bc/cnn/00/cnn_0001   15   4    Naganari   NNP        (NP(NP*)  -   -   -    Bill_Neely      (GPE)      -
+bc/cnn/00/cnn_0001   15   5     Kashmir   NNP          (NP*))  -   -   -    Bill_Neely      (LOC)   (100)
+bc/cnn/00/cnn_0001   15   6          /.     .             *))  -   -   -    Bill_Neely         *       -

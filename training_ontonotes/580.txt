@@ -1,0 +1,573 @@
+bc/cnn/00/cnn_0001   10    0         Ever    RB   (TOP(S(SBAR(ADVP*)     -    -   -    Rick_Sanchez         *        *      *      *   (ARGM-TMP*     -
+bc/cnn/00/cnn_0001   10    1        since    IN                   *      -    -   -    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10    2           uh    UH              (INTJ*)     -    -   -    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10    3    President   NNP              (S(NP*      -    -   -    Rick_Sanchez         *   (ARG0*      *      *            *   (38
+bc/cnn/00/cnn_0001   10    4         Bush   NNP                   *)     -    -   -    Rick_Sanchez   (PERSON)       *)     *      *            *    38)
+bc/cnn/00/cnn_0001   10    5         said   VBD                (VP*     say  01   1    Rick_Sanchez         *      (V*)     *      *            *     -
+bc/cnn/00/cnn_0001   10    6          the    DT             (NP(NP*      -    -   -    Rick_Sanchez         *   (ARG1*      *      *            *     -
+bc/cnn/00/cnn_0001   10    7         name    NN                   *)   name   -   1    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10    8       Samuel   NNP                (NP*      -    -   -    Rick_Sanchez  (PERSON*        *      *      *            *   (26
+bc/cnn/00/cnn_0001   10    9        Alito   NNP               *)))))     -    -   -    Rick_Sanchez         *)       *)     *      *            *)   26)
+bc/cnn/00/cnn_0001   10   10           we   PRP                (NP*)     -    -   -    Rick_Sanchez         *        *      *      *       (ARG0*)    -
+bc/cnn/00/cnn_0001   10   11         have   VBP                (VP*    have  01   -    Rick_Sanchez         *        *    (V*)     *            *     -
+bc/cnn/00/cnn_0001   10   12         been   VBN                (VP*      be  03   -    Rick_Sanchez         *        *      *    (V*)           *     -
+bc/cnn/00/cnn_0001   10   13      hearing   VBG                (VP*    hear  01   1    Rick_Sanchez         *        *      *      *          (V*)    -
+bc/cnn/00/cnn_0001   10   14         from    IN                (PP*      -    -   -    Rick_Sanchez         *        *      *      *       (ARG2*     -
+bc/cnn/00/cnn_0001   10   15         both    DT             (NP(NP*      -    -   -    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10   16     extremes   NNS                   *)     -    -   -    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10   17           of    IN                (PP*      -    -   -    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10   18          the    DT                (NP*      -    -   -    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10   19    political    JJ                   *      -    -   -    Rick_Sanchez         *        *      *      *            *     -
+bc/cnn/00/cnn_0001   10   20     spectrum    NN             *)))))))     -    -   -    Rick_Sanchez         *        *      *      *            *)    -
+bc/cnn/00/cnn_0001   10   21           /.     .                  *))     -    -   -    Rick_Sanchez         *        *      *      *            *     -
+
+bc/cnn/00/cnn_0001   10    0        The    DT  (TOP(S(NP*         -    -   -    Rick_Sanchez      *       (ARG0*             *      -
+bc/cnn/00/cnn_0001   10    1        far    JJ           *         -    -   -    Rick_Sanchez      *            *             *      -
+bc/cnn/00/cnn_0001   10    2      right    NN           *)     right   -   4    Rick_Sanchez      *            *)            *      -
+bc/cnn/00/cnn_0001   10    3      loves   VBZ        (VP*       love  01   1    Rick_Sanchez      *          (V*)            *      -
+bc/cnn/00/cnn_0001   10    4        the    DT        (NP*         -    -   -    Rick_Sanchez      *       (ARG1*             *    (26
+bc/cnn/00/cnn_0001   10    5    Supreme   NNP       (NML*         -    -   -    Rick_Sanchez  (ORG*            *             *   (106
+bc/cnn/00/cnn_0001   10    6      Court   NNP           *)        -    -   -    Rick_Sanchez      *)           *             *    106)
+bc/cnn/00/cnn_0001   10    7    nominee    NN           *)        -    -   -    Rick_Sanchez      *            *)            *     26)
+bc/cnn/00/cnn_0001   10    8         as    IN      (SBAR*         -    -   -    Rick_Sanchez      *   (ARGM-PRD*             *      -
+bc/cnn/00/cnn_0001   10    9        you   PRP      (S(NP*)        -    -   -    Rick_Sanchez      *            *        (ARG0*)     -
+bc/cnn/00/cnn_0001   10   10      might    MD        (VP*         -    -   -    Rick_Sanchez      *            *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   10   11    imagine    VB    (VP*)))))   imagine  01   2    Rick_Sanchez      *            *)          (V*)     -
+bc/cnn/00/cnn_0001   10   12         /.     .          *))        -    -   -    Rick_Sanchez      *            *             *      -
+
+bc/cnn/00/cnn_0001   10   0      The    DT  (TOP(S(NP*       -    -   -    Rick_Sanchez  *        (ARG0*      -
+bc/cnn/00/cnn_0001   10   1      far    JJ           *       -    -   -    Rick_Sanchez  *             *      -
+bc/cnn/00/cnn_0001   10   2     left    NN           *)   leave   -   -    Rick_Sanchez  *             *)     -
+bc/cnn/00/cnn_0001   10   3       ca    MD        (VP*       -    -   -    Rick_Sanchez  *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   10   4      n't    RB           *       -    -   -    Rick_Sanchez  *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   10   5    stand    VB        (VP*    stand  03   4    Rick_Sanchez  *           (V*)     -
+bc/cnn/00/cnn_0001   10   6      him   PRP      (NP*)))      -    -   -    Rick_Sanchez  *        (ARG1*)   (26)
+bc/cnn/00/cnn_0001   10   7       /.     .          *))      -    -   -    Rick_Sanchez  *             *      -
+
+bc/cnn/00/cnn_0001   10    0           We    PRP   (TOP(S(NP*)       -    -   -    Rick_Sanchez         *      *        (ARG0*)       *         *      -
+bc/cnn/00/cnn_0001   10    1          're    VBP         (VP*        be  03   -    Rick_Sanchez         *    (V*)            *        *         *      -
+bc/cnn/00/cnn_0001   10    2     learning    VBG         (VP*     learn  01   2    Rick_Sanchez         *      *           (V*)       *         *      -
+bc/cnn/00/cnn_0001   10    3       though     RB       (ADVP*)       -    -   -    Rick_Sanchez         *      *    (ARGM-ADV*)       *         *      -
+bc/cnn/00/cnn_0001   10    4         that     IN       (SBAR*        -    -   -    Rick_Sanchez         *      *        (ARG1*        *         *      -
+bc/cnn/00/cnn_0001   10    5         some     DT    (S(NP(NP*        -    -   -    Rick_Sanchez         *      *             *   (ARG1*    (ARG0*      -
+bc/cnn/00/cnn_0001   10    6    Democrats   NNPS            *)       -    -   -    Rick_Sanchez     (NORP)     *             *        *         *      -
+bc/cnn/00/cnn_0001   10    7      liberal     JJ         (NP*        -    -   -    Rick_Sanchez         *      *             *        *         *      -
+bc/cnn/00/cnn_0001   10    8    Democrats   NNPS           *))       -    -   -    Rick_Sanchez     (NORP)     *             *        *)        *)     -
+bc/cnn/00/cnn_0001   10    9          are    VBP         (VP*        be  01   1    Rick_Sanchez         *      *             *      (V*)        *      -
+bc/cnn/00/cnn_0001   10   10      willing     JJ       (ADJP*        -    -   -    Rick_Sanchez         *      *             *   (ARG2*         *      -
+bc/cnn/00/cnn_0001   10   11           to     TO       (S(VP*        -    -   -    Rick_Sanchez         *      *             *        *         *      -
+bc/cnn/00/cnn_0001   10   12         give     VB         (VP*      give  01   2    Rick_Sanchez         *      *             *        *       (V*)     -
+bc/cnn/00/cnn_0001   10   13        Alito    NNP         (NP*)       -    -   -    Rick_Sanchez   (PERSON)     *             *        *    (ARG2*)   (26)
+bc/cnn/00/cnn_0001   10   14            a     DT         (NP*        -    -   -    Rick_Sanchez         *      *             *        *    (ARG1*      -
+bc/cnn/00/cnn_0001   10   15       chance     NN   *))))))))))   chance   -   1    Rick_Sanchez         *      *             *)       *)        *)     -
+bc/cnn/00/cnn_0001   10   16           /.      .           *))       -    -   -    Rick_Sanchez         *      *             *        *         *      -
+
+bc/cnn/00/cnn_0001   10   0              CNN   NNP  (TOP(S(NP(NML*         -    -   -    Rick_Sanchez      (ORG)  (ARG0*   (61
+bc/cnn/00/cnn_0001   10   1           senior    JJ               *         -    -   -    Rick_Sanchez         *        *     -
+bc/cnn/00/cnn_0001   10   2        political    JJ               *         -    -   -    Rick_Sanchez         *        *     -
+bc/cnn/00/cnn_0001   10   3    correspondent    NN               *)        -    -   -    Rick_Sanchez         *        *     -
+bc/cnn/00/cnn_0001   10   4            Candy   NNP               *         -    -   -    Rick_Sanchez  (PERSON*        *     -
+bc/cnn/00/cnn_0001   10   5          Crowley   NNP               *)        -    -   -    Rick_Sanchez         *)       *)   61)
+bc/cnn/00/cnn_0001   10   6         explains   VBZ            (VP*)   explain  01   1    Rick_Sanchez         *      (V*)    -
+bc/cnn/00/cnn_0001   10   7               /.     .              *))        -    -   -    Rick_Sanchez         *        *     -
+
+bc/cnn/00/cnn_0001   10    0           Meet    VB  (TOP(S(VP*     meet  02   1    Candy_Crowley         *      (V*)        -
+bc/cnn/00/cnn_0001   10    1        Jeffrey   NNP     (NP(NP*       -    -   -    Candy_Crowley  (PERSON*   (ARG1*       (32
+bc/cnn/00/cnn_0001   10    2    Wasserstein   NNP           *)      -    -   -    Candy_Crowley         *)       *         -
+bc/cnn/00/cnn_0001   10    3         former    JJ     (NP(NP*       -    -   -    Candy_Crowley         *        *         -
+bc/cnn/00/cnn_0001   10    4            law    NN           *      law   -   4    Candy_Crowley         *        *         -
+bc/cnn/00/cnn_0001   10    5          clerk    NN           *)   clerk   -   -    Candy_Crowley         *        *         -
+bc/cnn/00/cnn_0001   10    6            for    IN        (PP*       -    -   -    Candy_Crowley         *        *         -
+bc/cnn/00/cnn_0001   10    7          Judge   NNP        (NP*       -    -   -    Candy_Crowley         *        *       (26
+bc/cnn/00/cnn_0001   10    8            Sam   NNP           *       -    -   -    Candy_Crowley  (PERSON*        *         -
+bc/cnn/00/cnn_0001   10    9          Alito   NNP       *)))))      -    -   -    Candy_Crowley         *)       *)   32)|26)
+bc/cnn/00/cnn_0001   10   10             /.     .          *))      -    -   -    Candy_Crowley         *        *         -
+
+bc/cnn/00/cnn_0001   10    0             I    PRP      (TOP(S(NP*)       -    -   -    Jeffrey_Wasserstein  *    (ARG0*)        *         *        *    (32)
+bc/cnn/00/cnn_0001   10    1         think    VBP            (VP*     think  01   1    Jeffrey_Wasserstein  *       (V*)        *         *        *      -
+bc/cnn/00/cnn_0001   10    2           you    PRP   (SBAR(S(S(NP*)       -    -   -    Jeffrey_Wasserstein  *    (ARG1*    (ARG0*)        *        *      -
+bc/cnn/00/cnn_0001   10    3          look    VBP            (VP*      look  01   1    Jeffrey_Wasserstein  *         *       (V*)        *        *      -
+bc/cnn/00/cnn_0001   10    4            at     IN            (PP*        -    -   -    Jeffrey_Wasserstein  *         *    (ARG1*         *        *      -
+bc/cnn/00/cnn_0001   10    5           the     DT         (NP(NP*        -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10    6      totality     NN               *)       -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10    7            of     IN            (PP*        -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10    8           his   PRP$            (NP*        -    -   -    Jeffrey_Wasserstein  *         *         *         *        *    (26)
+bc/cnn/00/cnn_0001   10    9        career     NN          *))))))   career   -   -    Jeffrey_Wasserstein  *         *         *)        *        *      -
+bc/cnn/00/cnn_0001   10   10           and     CC               *        -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10   11          what     WP   (S(SBAR(WHNP*)       -    -   -    Jeffrey_Wasserstein  *         *         *    (ARG1*)  (ARG1*      -
+bc/cnn/00/cnn_0001   10   12           you    PRP          (S(NP*)       -    -   -    Jeffrey_Wasserstein  *         *         *    (ARG0*)       *      -
+bc/cnn/00/cnn_0001   10   13           see    VBP          (VP*)))      see  01   3    Jeffrey_Wasserstein  *         *         *       (V*)       *)     -
+bc/cnn/00/cnn_0001   10   14            is    VBZ            (VP*        be  01   2    Jeffrey_Wasserstein  *         *         *         *      (V*)     -
+bc/cnn/00/cnn_0001   10   15             a     DT         (NP(NP*        -    -   -    Jeffrey_Wasserstein  *         *         *         *   (ARG2*    (26
+bc/cnn/00/cnn_0001   10   16         judge     NN               *)    judge   -   1    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10   17      squarely     RB       (PP(ADVP*)       -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10   18        within     IN               *        -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10   19           the     DT            (NP*        -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+bc/cnn/00/cnn_0001   10   20    mainstream     NN        *))))))))       -    -   -    Jeffrey_Wasserstein  *         *)        *         *        *)    26)
+bc/cnn/00/cnn_0001   10   21            /.      .              *))       -    -   -    Jeffrey_Wasserstein  *         *         *         *        *      -
+
+bc/cnn/00/cnn_0001   10    0    Wasserstein   NNP      (TOP(S(NP*)     -    -   -    Candy_Crowley   (PERSON)      (ARG1*)            *    (32)
+bc/cnn/00/cnn_0001   10    1             is   VBZ            (VP*      be  01   1    Candy_Crowley         *          (V*)            *      -
+bc/cnn/00/cnn_0001   10    2              a    DT            (NP*      -    -   -    Candy_Crowley         *       (ARG2*             *      -
+bc/cnn/00/cnn_0001   10    3        liberal    JJ               *      -    -   -    Candy_Crowley         *            *             *      -
+bc/cnn/00/cnn_0001   10    4       Democrat   NNP               *)     -    -   -    Candy_Crowley     (NORP)           *)            *      -
+bc/cnn/00/cnn_0001   10    5         except    IN            (PP*      -    -   -    Candy_Crowley         *   (ARGM-ADV*             *      -
+bc/cnn/00/cnn_0001   10    6           when   WRB   (SBAR(WHADVP*)     -    -   -    Candy_Crowley         *            *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0001   10    7             he   PRP          (S(NP*)     -    -   -    Candy_Crowley         *            *        (ARG0*)   (32)
+bc/cnn/00/cnn_0001   10    8          votes   VBZ            (VP*    vote  01   1    Candy_Crowley         *            *           (V*)     -
+bc/cnn/00/cnn_0001   10    9          Green   NNP            (NP*      -    -   -    Candy_Crowley     (ORG*            *        (ARG1*      -
+bc/cnn/00/cnn_0001   10   10          party   NNP          *))))))     -    -   -    Candy_Crowley         *)           *)            *)     -
+bc/cnn/00/cnn_0001   10   11             /.     .              *))     -    -   -    Candy_Crowley         *            *             *      -
+
+bc/cnn/00/cnn_0001   10   0      and    CC   (TOP(S*    -    -   -    Candy_Crowley  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   10   1       he   PRP      (NP*)   -    -   -    Candy_Crowley  *        (ARG1*)   (32)
+bc/cnn/00/cnn_0001   10   2       is   VBZ      (VP*    be  01   1    Candy_Crowley  *           (V*)     -
+bc/cnn/00/cnn_0001   10   3      not    RB         *    -    -   -    Candy_Crowley  *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   10   4    alone    JJ   (ADJP*))   -    -   -    Candy_Crowley  *        (ARG2*)     -
+bc/cnn/00/cnn_0001   10   5       /.     .        *))   -    -   -    Candy_Crowley  *             *      -
+
+bc/cnn/00/cnn_0001   10   0               He   PRP   (TOP(S(NP*)     -    -   -    Jeffrey_Wasserstein  *      *        (ARG0*)   (26)
+bc/cnn/00/cnn_0001   10   1               's   VBZ         (VP*      be  03   9    Jeffrey_Wasserstein  *    (V*)            *      -
+bc/cnn/00/cnn_0001   10   2            hired   VBN         (VP*    hire  01   1    Jeffrey_Wasserstein  *      *           (V*)     -
+bc/cnn/00/cnn_0001   10   3         liberals   NNS         (NP*      -    -   -    Jeffrey_Wasserstein  *      *        (ARG1*      -
+bc/cnn/00/cnn_0001   10   4    conservatives   NNS            *      -    -   -    Jeffrey_Wasserstein  *      *             *      -
+bc/cnn/00/cnn_0001   10   5     libertarians   NNS            *      -    -   -    Jeffrey_Wasserstein  *      *             *      -
+bc/cnn/00/cnn_0001   10   6     independents   NNS            *)     -    -   -    Jeffrey_Wasserstein  *      *             *)     -
+bc/cnn/00/cnn_0001   10   7               um    UH     (INTJ*)))     -    -   -    Jeffrey_Wasserstein  *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   10   8               /.     .           *))     -    -   -    Jeffrey_Wasserstein  *      *             *      -
+
+bc/cnn/00/cnn_0001   10    0            and     CC       (TOP(S*            -    -   -    Jeffrey_Wasserstein  *         *    (ARGM-DIS*)     *             *         *          -
+bc/cnn/00/cnn_0001   10    1            all     DT       (NP(NP*)           -    -   -    Jeffrey_Wasserstein  *    (ARG1*)       (ARG1*      *             *         *          -
+bc/cnn/00/cnn_0001   10    2              I    PRP   (SBAR(S(NP*)           -    -   -    Jeffrey_Wasserstein  *    (ARG0*)            *      *             *         *        (32)
+bc/cnn/00/cnn_0001   10    3           know    VBP       (VP*))))         know  01   1    Jeffrey_Wasserstein  *       (V*)            *)     *             *         *          -
+bc/cnn/00/cnn_0001   10    4             is    VBZ          (VP*            be  01   2    Jeffrey_Wasserstein  *         *           (V*)     *             *         *          -
+bc/cnn/00/cnn_0001   10    5           that     IN        (SBAR*            -    -   -    Jeffrey_Wasserstein  *         *        (ARG2*      *             *         *          -
+bc/cnn/00/cnn_0001   10    6             we    PRP        (S(NP*)           -    -   -    Jeffrey_Wasserstein  *         *             *      *        (ARG0*)        *          -
+bc/cnn/00/cnn_0001   10    7            're    VBP          (VP*            be  03   9    Jeffrey_Wasserstein  *         *             *    (V*)            *         *          -
+bc/cnn/00/cnn_0001   10    8            all     DT             *            -    -   -    Jeffrey_Wasserstein  *         *             *      *    (ARGM-EXT*)        *          -
+bc/cnn/00/cnn_0001   10    9    unanimously     RB        (ADVP*)           -    -   -    Jeffrey_Wasserstein  *         *             *      *    (ARGM-MNR*)        *          -
+bc/cnn/00/cnn_0001   10   10     supporting    VBG          (VP*       support  01   2    Jeffrey_Wasserstein  *         *             *      *           (V*)        *          -
+bc/cnn/00/cnn_0001   10   11            the     DT          (NP*            -    -   -    Jeffrey_Wasserstein  *         *             *      *        (ARG1*         *        (26
+bc/cnn/00/cnn_0001   10   12          judge     NN             *)        judge   -   1    Jeffrey_Wasserstein  *         *             *      *             *)        *         26)
+bc/cnn/00/cnn_0001   10   13             in     IN          (PP*            -    -   -    Jeffrey_Wasserstein  *         *             *      *    (ARGM-ADV*         *          -
+bc/cnn/00/cnn_0001   10   14            his   PRP$          (NP*            -    -   -    Jeffrey_Wasserstein  *         *             *      *             *    (ARG1*)   (31|(26)
+bc/cnn/00/cnn_0001   10   15     nomination     NN       *)))))))   nomination  01   1    Jeffrey_Wasserstein  *         *             *)     *             *)      (V*)        31)
+bc/cnn/00/cnn_0001   10   16             /.      .            *))           -    -   -    Jeffrey_Wasserstein  *         *             *      *             *         *          -
+
+bc/cnn/00/cnn_0001   10    0          The     DT       (TOP(NP(NP(NP*        -    -   -    Candy_Crowley          *        (ARG0*        *         -
+bc/cnn/00/cnn_0001   10    1         kind     NN                    *)       -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10    2           of     IN                 (PP*        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10    3    testimony     NN               (NP*)))       -    -   -    Candy_Crowley          *             *)       *         -
+bc/cnn/00/cnn_0001   10    4         that    WDT          (SBAR(WHNP*)       -    -   -    Candy_Crowley          *      (R-ARG0*)       *         -
+bc/cnn/00/cnn_0001   10    5          may     MD               (S(VP*        -    -   -    Candy_Crowley          *    (ARGM-MOD*)       *         -
+bc/cnn/00/cnn_0001   10    6         make     VB                 (VP*      make  02   3    Candy_Crowley          *           (V*)       *         -
+bc/cnn/00/cnn_0001   10    7           it    PRP               (S(NP*)       -    -   -    Candy_Crowley          *        (ARG1*        *         -
+bc/cnn/00/cnn_0001   10    8       easier    JJR               (ADJP*        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10    9          for     IN                 (PP*        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   10       people    NNS              (NP(NP*)   people   -   1    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   11         like     IN                 (PP*        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   12      Senator    NNP              (NP(NP*        -    -   -    Candy_Crowley          *             *        *       (37
+bc/cnn/00/cnn_0001   10   13          Ben    NNP                    *        -    -   -    Candy_Crowley   (PERSON*             *        *         -
+bc/cnn/00/cnn_0001   10   14       Nelson    NNP                    *)       -    -   -    Candy_Crowley          *)            *        *         -
+bc/cnn/00/cnn_0001   10   15          the     DT              (NP(NP*        -    -   -    Candy_Crowley          *             *   (ARG0*         -
+bc/cnn/00/cnn_0001   10   16        third     JJ                    *        -    -   -    Candy_Crowley   (ORDINAL)            *        *         -
+bc/cnn/00/cnn_0001   10   17     Democrat    NNP                    *)       -    -   -    Candy_Crowley      (NORP)            *        *)        -
+bc/cnn/00/cnn_0001   10   18           to     TO          (SBAR(S(VP*        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   19          get     VB                 (VP*       get  01   1    Candy_Crowley          *             *      (V*)        -
+bc/cnn/00/cnn_0001   10   20           an     DT              (NP(NP*        -    -   -    Candy_Crowley          *             *   (ARG1*         -
+bc/cnn/00/cnn_0001   10   21           up     RB          (ADJP(ADJP*        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   22           -    HYPH                    *        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   23        close     JJ                    *)       -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   24          and     CC                    *        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   25     personal     JJ              (ADJP*))       -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   26         look     NN                    *)     look   -   2    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   27           at     IN                 (PP*        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   28          the     DT              (NP(NP*        -    -   -    Candy_Crowley          *             *        *   (26|(38
+bc/cnn/00/cnn_0001   10   29    President    NNP                    *        -    -   -    Candy_Crowley          *             *        *         -
+bc/cnn/00/cnn_0001   10   30           's    POS                    *)       -    -   -    Candy_Crowley          *             *        *        38)
+bc/cnn/00/cnn_0001   10   31      Supreme    NNP                (NML*        -    -   -    Candy_Crowley      (ORG*             *        *      (106
+bc/cnn/00/cnn_0001   10   32        Court    NNP                    *)       -    -   -    Candy_Crowley          *)            *        *       106)
+bc/cnn/00/cnn_0001   10   33      nominee     NN   *))))))))))))))))))       -    -   -    Candy_Crowley          *             *)       *)   37)|26)
+bc/cnn/00/cnn_0001   10   34           /.      .                   *))       -    -   -    Candy_Crowley          *             *        *         -
+
+bc/cnn/00/cnn_0001   10    0             A     DT   (TOP(S(NP(NP*       -    -    -    Candy_Crowley           *            *   (ARGM-PRD*              *    (37
+bc/cnn/00/cnn_0001   10    1      Democrat    NNP               *)      -    -    -    Candy_Crowley       (NORP)           *            *              *      -
+bc/cnn/00/cnn_0001   10    2          from     IN            (PP*       -    -    -    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10    3      Nebraska    NNP         (NP(NP*)      -    -    -    Candy_Crowley        (GPE)           *            *              *      -
+bc/cnn/00/cnn_0001   10    4             a     DT         (NP(NP*       -    -    -    Candy_Crowley           *       (ARG1*            *              *      -
+bc/cnn/00/cnn_0001   10    5         state     NN               *)   state   -    2    Candy_Crowley           *            *)           *              *      -
+bc/cnn/00/cnn_0001   10    6          that    WDT     (SBAR(WHNP*)      -    -    -    Candy_Crowley           *     (R-ARG1*)           *              *      -
+bc/cnn/00/cnn_0001   10    7          went    VBD          (S(VP*       go  01   13    Candy_Crowley           *          (V*)           *              *      -
+bc/cnn/00/cnn_0001   10    8          Bush    NNP            (NP*)      -    -    -    Candy_Crowley     (PERSON)      (ARG2*)           *              *    (38)
+bc/cnn/00/cnn_0001   10    9            in     IN            (PP*       -    -    -    Candy_Crowley           *   (ARGM-TMP*            *              *      -
+bc/cnn/00/cnn_0001   10   10            oh     CD            (NP*       -    -    -    Candy_Crowley      (DATE*            *            *              *      -
+bc/cnn/00/cnn_0001   10   11          four     CD       *)))))))))      -    -    -    Candy_Crowley           *)           *)           *)             *      -
+bc/cnn/00/cnn_0001   10   12        Nelson    NNP            (NP*)      -    -    -    Candy_Crowley     (PERSON)           *       (ARG1*)             *     37)
+bc/cnn/00/cnn_0001   10   13            is    VBZ            (VP*       be  01    1    Candy_Crowley           *            *          (V*)             *      -
+bc/cnn/00/cnn_0001   10   14           one     CD         (NP(NP*)      -    -    -    Candy_Crowley   (CARDINAL)           *       (ARG2*              *      -
+bc/cnn/00/cnn_0001   10   15            of     IN            (PP*       -    -    -    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10   16          five     CD      (NP(NP(NP*       -    -    -    Candy_Crowley   (CARDINAL)           *            *         (ARG0*      -
+bc/cnn/00/cnn_0001   10   17           red     JJ           (NML*       -    -    -    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10   18         state     NN               *)   state   -    2    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10   19     Democrats   NNPS               *)      -    -    -    Candy_Crowley       (NORP)           *            *              *      -
+bc/cnn/00/cnn_0001   10   20            up     IN            (PP*       -    -    -    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10   21           for     IN            (PP*       -    -    -    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10   22    reelection     NN         (NP(NP*)      -    -    -    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10   23            in     IN            (PP*       -    -    -    Candy_Crowley           *            *            *              *      -
+bc/cnn/00/cnn_0001   10   24            oh     CD            (NP*       -    -    -    Candy_Crowley      (DATE*            *            *              *      -
+bc/cnn/00/cnn_0001   10   25           six     CD          *))))))      -    -    -    Candy_Crowley           *)           *            *              *)     -
+bc/cnn/00/cnn_0001   10   26           who     WP     (SBAR(WHNP*)      -    -    -    Candy_Crowley           *            *            *       (R-ARG0*)     -
+bc/cnn/00/cnn_0001   10   27         would     MD          (S(VP*       -    -    -    Candy_Crowley           *            *            *     (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   10   28        rather     RB    (ADVP(ADVP*))      -    -    -    Candy_Crowley           *            *            *     (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   10   29          vote     VB            (VP*     vote  01    1    Candy_Crowley           *            *            *            (V*)     -
+bc/cnn/00/cnn_0001   10   30          than     IN            (PP*       -    -    -    Candy_Crowley           *            *     (C-ARG2*   (C-ARGM-ADV*      -
+bc/cnn/00/cnn_0001   10   31         fight     NN   (NP*))))))))))   fight   -    2    Candy_Crowley           *            *           *))             *)     -
+bc/cnn/00/cnn_0001   10   32            /.      .              *))      -    -    -    Candy_Crowley           *            *            *              *      -
+
+bc/cnn/00/cnn_0001   10    0           I    PRP     (TOP(S(NP*)         -    -   -    Senator_Ben_Nelson  *        (ARG0*)        *             *             *     (37)
+bc/cnn/00/cnn_0001   10    1        just     RB         (ADVP*)         -    -   -    Senator_Ben_Nelson  *    (ARGM-ADV*)        *             *             *       -
+bc/cnn/00/cnn_0001   10    2        hope    VBP           (VP*        hope  01   1    Senator_Ben_Nelson  *           (V*)        *             *             *       -
+bc/cnn/00/cnn_0001   10    3        that     IN         (SBAR*          -    -   -    Senator_Ben_Nelson  *        (ARG1*         *             *             *       -
+bc/cnn/00/cnn_0001   10    4          we    PRP         (S(NP*)         -    -   -    Senator_Ben_Nelson  *             *    (ARG1*)       (ARG0*)       (ARG0*)   (111)
+bc/cnn/00/cnn_0001   10    5         're    VBP           (VP*          be  01   1    Senator_Ben_Nelson  *             *       (V*)            *             *       -
+bc/cnn/00/cnn_0001   10    6        able     JJ         (ADJP*          -    -   -    Senator_Ben_Nelson  *             *    (ARG2*             *             *       -
+bc/cnn/00/cnn_0001   10    7          to     TO         (S(VP*          -    -   -    Senator_Ben_Nelson  *             *         *             *             *       -
+bc/cnn/00/cnn_0001   10    8        work     VB        (VP(VP*        work  06   4    Senator_Ben_Nelson  *             *         *           (V*)            *       -
+bc/cnn/00/cnn_0001   10    9         our   PRP$           (NP*          -    -   -    Senator_Ben_Nelson  *             *         *        (ARG1*             *    (111)
+bc/cnn/00/cnn_0001   10   10         way     NN              *)        way   -   4    Senator_Ben_Nelson  *             *         *             *)            *       -
+bc/cnn/00/cnn_0001   10   11     through     RB        (ADVP*))         -    -   -    Senator_Ben_Nelson  *             *         *    (ARGM-DIR*)            *       -
+bc/cnn/00/cnn_0001   10   12          uh     UH         (INTJ*)         -    -   -    Senator_Ben_Nelson  *             *         *    (ARGM-DIS*)   (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   10   13         and     CC              *          -    -   -    Senator_Ben_Nelson  *             *         *             *             *       -
+bc/cnn/00/cnn_0001   10   14        make     VB           (VP*        make   -   1    Senator_Ben_Nelson  *             *         *             *    (ARGM-LVB*)      -
+bc/cnn/00/cnn_0001   10   15          an     DT        (NP(NP*          -    -   -    Senator_Ben_Nelson  *             *         *             *             *       -
+bc/cnn/00/cnn_0001   10   16          up     JJ         (ADJP*          -    -   -    Senator_Ben_Nelson  *             *         *             *        (ARG1*       -
+bc/cnn/00/cnn_0001   10   17          or     CC              *          -    -   -    Senator_Ben_Nelson  *             *         *             *             *       -
+bc/cnn/00/cnn_0001   10   18        down     JJ              *)         -    -   -    Senator_Ben_Nelson  *             *         *             *             *)      -
+bc/cnn/00/cnn_0001   10   19    decision     NN              *)   decision  01   1    Senator_Ben_Nelson  *             *         *             *           (V*)      -
+bc/cnn/00/cnn_0001   10   20          on     IN           (PP*          -    -   -    Senator_Ben_Nelson  *             *         *             *        (ARG3*       -
+bc/cnn/00/cnn_0001   10   21        this     DT           (NP*          -    -   -    Senator_Ben_Nelson  *             *         *             *             *     (26
+bc/cnn/00/cnn_0001   10   22       judge     NN   *))))))))))))      judge   -   1    Senator_Ben_Nelson  *             *)        *)            *             *)     26)
+bc/cnn/00/cnn_0001   10   23          /.      .             *))         -    -   -    Senator_Ben_Nelson  *             *         *             *             *       -
+
+bc/cnn/00/cnn_0001   10    0           He   PRP   (TOP(S(NP*)       -    -   -    Candy_Crowley      *        (ARG1*)   (37)
+bc/cnn/00/cnn_0001   10    1           's   VBZ         (VP*        be  01   1    Candy_Crowley      *           (V*)     -
+bc/cnn/00/cnn_0001   10    2          not    RB            *        -    -   -    Candy_Crowley      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   10    3         even    RB       (ADVP*)       -    -   -    Candy_Crowley      *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   10    4            a    DT      (NP(NP*        -    -   -    Candy_Crowley      *        (ARG2*      -
+bc/cnn/00/cnn_0001   10    5       member    NN            *)   member   -   1    Candy_Crowley      *             *      -
+bc/cnn/00/cnn_0001   10    6           of    IN         (PP*        -    -   -    Candy_Crowley      *             *      -
+bc/cnn/00/cnn_0001   10    7          the    DT         (NP*        -    -   -    Candy_Crowley  (ORG*             *      -
+bc/cnn/00/cnn_0001   10    8    Judiciary   NNP            *        -    -   -    Candy_Crowley      *             *      -
+bc/cnn/00/cnn_0001   10    9    Committee   NNP         *))))       -    -   -    Candy_Crowley      *)            *)     -
+bc/cnn/00/cnn_0001   10   10           /.     .           *))       -    -   -    Candy_Crowley      *             *      -
+
+bc/cnn/00/cnn_0001   10    0            but     CC             (TOP(S*            -    -   -    Candy_Crowley         *    (ARGM-DIS*)          *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    1         Nelson    NNP             (NP(NP*)           -    -   -    Candy_Crowley   (PERSON)       (ARG1*           *         *         *        *      *        *    (37)
+bc/cnn/00/cnn_0001   10    2            and     CC                   *            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    3          other     JJ                (NP*            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    4      Democrats   NNPS                  *))           -    -   -    Candy_Crowley     (NORP)            *)          *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    5            are    VBP                (VP*            be  01   1    Candy_Crowley         *           (V*)          *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    6        targets    NNS             (NP(NP*)       target   -   2    Candy_Crowley         *        (ARG2*           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    7             of     IN                (PP*            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    8    opportunity     NN               (NP*))           -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10    9            for     IN                (PP*            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   10            the     DT             (NP(NP*            -    -   -    Candy_Crowley     (ORG*             *      (ARG0*         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   11          White    NNP                   *            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   12          House    NNP                   *)           -    -   -    Candy_Crowley         *)            *           *)        *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   13          which    WDT         (SBAR(WHNP*)           -    -   -    Candy_Crowley         *             *    (R-ARG0*)   (ARG0*)        *        *      *        *      -
+bc/cnn/00/cnn_0001   10   14          hopes    VBZ              (S(VP*          hope  01   1    Candy_Crowley         *             *         (V*)        *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   15             to     TO              (S(VP*            -    -   -    Candy_Crowley         *             *      (ARG1*         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   16            pad     VB                (VP*           pad  01   5    Candy_Crowley         *             *           *       (V*)        *        *      *        *      -
+bc/cnn/00/cnn_0001   10   17     Republican     JJ             (NP(NP*            -    -   -    Candy_Crowley     (NORP)            *           *    (ARG1*    (ARG0*)       *      *        *      -
+bc/cnn/00/cnn_0001   10   18        support     NN                   *)      support  01   7    Candy_Crowley         *             *           *         *       (V*)       *      *        *      -
+bc/cnn/00/cnn_0001   10   19            for     IN                (PP*            -    -   -    Candy_Crowley         *             *           *         *    (ARG1*        *      *        *      -
+bc/cnn/00/cnn_0001   10   20          Alito    NNP              (NP*)))           -    -   -    Candy_Crowley   (PERSON)            *           *         *)        *)       *      *        *    (26)
+bc/cnn/00/cnn_0001   10   21           with     IN                (PP*            -    -   -    Candy_Crowley         *             *           *    (ARG2*         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   22         enough     JJ             (NP(NP*            -    -   -    Candy_Crowley         *             *           *         *         *   (ARG0*      *   (ARG0*      -
+bc/cnn/00/cnn_0001   10   23      Democrats   NNPS                   *)           -    -   -    Candy_Crowley     (NORP)            *           *         *         *        *)     *        *)     -
+bc/cnn/00/cnn_0001   10   24             to     TO         (SBAR(S(VP*            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   25     discourage     VB             (VP(VP*)   discourage  01   2    Candy_Crowley         *             *           *         *         *      (V*)     *        *      -
+bc/cnn/00/cnn_0001   10   26            and     CC                   *            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   27             if     IN          (PRN(SBAR*            -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+bc/cnn/00/cnn_0001   10   28         needed    VBN           (S(VP*))))         need  01   -    Candy_Crowley         *             *           *         *         *        *    (V*)       *      -
+bc/cnn/00/cnn_0001   10   29         defeat     VB                (VP*)       defeat  01   4    Candy_Crowley         *             *           *         *         *        *      *      (V*)     -
+bc/cnn/00/cnn_0001   10   30              a     DT                (NP*            -    -   -    Candy_Crowley         *             *           *         *         *   (ARG1*      *   (ARG1*      -
+bc/cnn/00/cnn_0001   10   31     filibuster     NN   *)))))))))))))))))   filibuster   -   -    Candy_Crowley         *             *)          *)        *)        *        *)     *        *)     -
+bc/cnn/00/cnn_0001   10   32             /.      .                  *))           -    -   -    Candy_Crowley         *             *           *         *         *        *      *        *      -
+
+bc/cnn/00/cnn_0001   10   0    No   UH  (TOP(INTJ*   -   -   -    Crowd  *   -
+bc/cnn/00/cnn_0001   10   1    no   UH           *   -   -   -    Crowd  *   -
+bc/cnn/00/cnn_0001   10   2    no   UH           *   -   -   -    Crowd  *   -
+bc/cnn/00/cnn_0001   10   3    /.    .          *))  -   -   -    Crowd  *   -
+
+bc/cnn/00/cnn_0001   10   0    Alito   NNP   (TOP(S(NP*)     -    -   -    Crowd   (PERSON)       (ARG0*)   (26)
+bc/cnn/00/cnn_0001   10   1     will    MD         (VP*      -    -   -    Crowd         *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   10   2      not    RB         (VP*      -    -   -    Crowd         *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   10   3     save    VB            *    save  02   1    Crowd         *           (V*)     -
+bc/cnn/00/cnn_0001   10   4      Roe   NNP       (NP*)))     -    -   -    Crowd      (LAW)       (ARG1*)     -
+bc/cnn/00/cnn_0001   10   5       /.     .           *))     -    -   -    Crowd         *             *      -
+
+bc/cnn/00/cnn_0001   10   0         Here     RB   (TOP(SINV(ADVP*)        -    -   -    Candy_Crowley       *    (ARG1*)    -
+bc/cnn/00/cnn_0001   10   1           's    VBZ              (VP*)        be  01   4    Candy_Crowley       *       (V*)    -
+bc/cnn/00/cnn_0001   10   2          the     DT           (NP(NP*         -    -   -    Candy_Crowley       *    (ARG2*   (36
+bc/cnn/00/cnn_0001   10   3    Democrats   NNPS                 *         -    -   -    Candy_Crowley   (NORP)        *     -
+bc/cnn/00/cnn_0001   10   4            '    POS                 *)        -    -   -    Candy_Crowley       *         *    36)
+bc/cnn/00/cnn_0001   10   5      problem     NN                 *)   problem   -   1    Candy_Crowley       *         *)    -
+bc/cnn/00/cnn_0001   10   6           /.      .                *))        -    -   -    Candy_Crowley       *         *     -
+
+bc/cnn/00/cnn_0001   10    0              The    DT  (TOP(S(NP(NP(NP*         -    -   -    Candy_Crowley         *    (ARG1*           *           *            *        *   (ARG0*   (ARG0*    (36
+bc/cnn/00/cnn_0001   10    1            party    NN                 *         -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10    2               's   POS                 *)        -    -   -    Candy_Crowley         *         *)          *           *            *        *        *        *     36)
+bc/cnn/00/cnn_0001   10    3             base    JJ                 *         -    -   -    Candy_Crowley         *    (ARG0*)          *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10    4          support    NN                 *)   support  01   3    Candy_Crowley         *       (V*)          *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10    5          liberal    JJ           (NP(NP*         -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10    6            women   NNS              (NP*      woman   -   2    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10    7               's   POS                 *)        -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10    8           groups   NNS                 *)     group   -   1    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10    9            civil    JJ          (NP(NML*         -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   10           rights   NNS                 *)     right   -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   11           groups   NNS                 *)     group   -   1    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   12    environmental    JJ              (NP*         -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   13           groups   NNS                *))     group   -   1    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   14              the    DT           (NP(NP*         -    -   -    Candy_Crowley         *         *      (ARG0*      (ARG0*       (ARG0*        *        *        *      -
+bc/cnn/00/cnn_0001   10   15     footsoldiers   NNS                 *)        -    -   -    Candy_Crowley         *         *           *)          *)           *)       *        *        *      -
+bc/cnn/00/cnn_0001   10   16             that   WDT       (SBAR(WHNP*)        -    -   -    Candy_Crowley         *         *    (R-ARG0*)   (R-ARG0*)    (R-ARG0*)       *        *        *      -
+bc/cnn/00/cnn_0001   10   17            raise   VBP         (S(VP(VP*      raise  02   4    Candy_Crowley         *         *         (V*)          *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   18            money    NN             (NP*))     money   -   2    Candy_Crowley         *         *      (ARG1*)          *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   19            knock   VBP              (VP*      knock  01   2    Candy_Crowley         *         *           *         (V*)           *        *        *        *      -
+bc/cnn/00/cnn_0001   10   20               on    IN              (PP*         -    -   -    Candy_Crowley         *         *           *      (ARG1*            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   21            doors   NNS            (NP*)))      door   -   1    Candy_Crowley         *         *           *           *)           *        *        *        *      -
+bc/cnn/00/cnn_0001   10   22              and    CC                 *         -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   23             vote   VBP              (VP*       vote  01   1    Candy_Crowley         *         *           *           *          (V*)       *        *        *      -
+bc/cnn/00/cnn_0001   10   24             come   VBP            (SINV*       come  01   2    Candy_Crowley         *         *           *           *   (ARGM-ADV*      (V*)       *        *      -
+bc/cnn/00/cnn_0001   10   25             rain    NN              (NP*       rain   -   -    Candy_Crowley         *         *           *           *            *   (ARG1*        *        *      -
+bc/cnn/00/cnn_0001   10   26               or    CC                 *         -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+bc/cnn/00/cnn_0001   10   27            shine    NN          *))))))))     shine   -   3    Candy_Crowley         *         *           *           *            *)       *)       *)       *)     -
+bc/cnn/00/cnn_0001   10   28             want   VBP              (VP*       want  01   1    Candy_Crowley         *         *           *           *            *        *      (V*)       *      -
+bc/cnn/00/cnn_0001   10   29               to    TO            (S(VP*         -    -   -    Candy_Crowley         *         *           *           *            *        *   (ARG1*        *      -
+bc/cnn/00/cnn_0001   10   30            fight    VB              (VP*      fight  01   1    Candy_Crowley         *         *           *           *            *        *        *      (V*)     -
+bc/cnn/00/cnn_0001   10   31             over    IN              (PP*         -    -   -    Candy_Crowley         *         *           *           *            *        *        *   (ARG2*      -
+bc/cnn/00/cnn_0001   10   32            Alito   NNP         (NP*))))))        -    -   -    Candy_Crowley   (PERSON)        *           *           *            *        *        *)       *)   (26)
+bc/cnn/00/cnn_0001   10   33               /.     .                *))        -    -   -    Candy_Crowley         *         *           *           *            *        *        *        *      -
+
+bc/cnn/00/cnn_0001   10    0           An     DT   (TOP(NP(NP*          -    -   -    Candy_Crowley         *       (ARG0*   -
+bc/cnn/00/cnn_0001   10    1     argument     NN             *)   argument   -   1    Candy_Crowley         *            *)  -
+bc/cnn/00/cnn_0001   10    2         that    WDT   (SBAR(WHNP*)         -    -   -    Candy_Crowley         *     (R-ARG0*)  -
+bc/cnn/00/cnn_0001   10    3        finds    VBZ        (S(VP*        find  01   1    Candy_Crowley         *          (V*)  -
+bc/cnn/00/cnn_0001   10    4     sympathy     NN          (NP*)   sympathy   -   1    Candy_Crowley         *       (ARG1*)  -
+bc/cnn/00/cnn_0001   10    5           in     IN          (PP*          -    -   -    Candy_Crowley         *   (ARGM-LOC*   -
+bc/cnn/00/cnn_0001   10    6         blue     JJ   (NP(NP(NML*          -    -   -    Candy_Crowley         *            *   -
+bc/cnn/00/cnn_0001   10    7        state     NN             *)      state   -   2    Candy_Crowley         *            *   -
+bc/cnn/00/cnn_0001   10    8    Democrats   NNPS             *)         -    -   -    Candy_Crowley     (NORP)           *   -
+bc/cnn/00/cnn_0001   10    9         like     IN          (PP*          -    -   -    Candy_Crowley         *            *   -
+bc/cnn/00/cnn_0001   10   10     Illinois    NNP       (NP(NP*          -    -   -    Candy_Crowley      (GPE)           *   -
+bc/cnn/00/cnn_0001   10   11           's    POS             *)         -    -   -    Candy_Crowley         *            *   -
+bc/cnn/00/cnn_0001   10   12         Dick    NNP             *          -    -   -    Candy_Crowley  (PERSON*            *   -
+bc/cnn/00/cnn_0001   10   13       Durbin    NNP       *)))))))         -    -   -    Candy_Crowley         *)           *)  -
+bc/cnn/00/cnn_0001   10   14           /.      .            *))         -    -   -    Candy_Crowley         *            *   -
+
+bc/cnn/00/cnn_0001   10    0             It   PRP   (TOP(S(NP*)            -    -   -    Dick_Durbin  *        (ARG0*)       *      -
+bc/cnn/00/cnn_0001   10    1          could    MD         (VP*             -    -   -    Dick_Durbin  *    (ARGM-MOD*)       *      -
+bc/cnn/00/cnn_0001   10    2            tip    VB         (VP*            tip  01   7    Dick_Durbin  *           (V*)       *      -
+bc/cnn/00/cnn_0001   10    3            the    DT      (NP(NP*             -    -   -    Dick_Durbin  *        (ARG1*        *      -
+bc/cnn/00/cnn_0001   10    4        balance    NN           *))       balance   -   7    Dick_Durbin  *             *)       *      -
+bc/cnn/00/cnn_0001   10    5            for    IN         (PP*             -    -   -    Dick_Durbin  *    (ARGM-TMP*        *      -
+bc/cnn/00/cnn_0001   10    6              a    DT         (NP*             -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10    7     generation    NN           *))    generation   -   3    Dick_Durbin  *             *)       *      -
+bc/cnn/00/cnn_0001   10    8             in    IN         (PP*             -    -   -    Dick_Durbin  *        (ARG2*        *      -
+bc/cnn/00/cnn_0001   10    9        another    DT         (NP*             -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   10      direction    NN           *))     direction   -   2    Dick_Durbin  *             *)       *      -
+bc/cnn/00/cnn_0001   10   11             on    IN         (PP*             -    -   -    Dick_Durbin  *      (C-ARG1*        *      -
+bc/cnn/00/cnn_0001   10   12       critical    JJ      (NP(NP*             -    -   -    Dick_Durbin  *             *        *   (134
+bc/cnn/00/cnn_0001   10   13         issues   NNS            *)         issue   -   1    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   14          women   NNS   (NP(NP(NP*          woman   -   2    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   15             's   POS            *)            -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   16         rights   NNS            *)         right   -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   17            and    CC            *             -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   18        workers   NNS      (NP(NP*         worker   -   2    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   19              '   POS            *)            -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   20         rights   NNS            *)         right   -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   21            the    DT      (NP(NP*             -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   22          right    NN            *)         right   -   1    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   23             of    IN         (PP*             -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   24        privacy    NN       (NP*)))            -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   25             uh    UH       (INTJ*)            -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   26     protecting   VBG       (S(VP*        protect  01   1    Dick_Durbin  *             *      (V*)     -
+bc/cnn/00/cnn_0001   10   27            the    DT         (NP*             -    -   -    Dick_Durbin  *             *   (ARG1*      -
+bc/cnn/00/cnn_0001   10   28    environment    NN          *)))   environment   -   2    Dick_Durbin  *             *        *)     -
+bc/cnn/00/cnn_0001   10   29          human    JJ         (NP*             -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   30         rights   NNS            *)         right   -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   31          civil    JJ         (NP*             -    -   -    Dick_Durbin  *             *        *      -
+bc/cnn/00/cnn_0001   10   32         rights   NNS       *))))))         right   -   -    Dick_Durbin  *             *)       *    134)
+bc/cnn/00/cnn_0001   10   33             /.     .           *))            -    -   -    Dick_Durbin  *             *        *      -
+
+bc/cnn/00/cnn_0001   10    0           All    DT   (TOP(S(NP(NP*)           -    -   -    Dick_Durbin  *       (ARG1*      *   (134
+bc/cnn/00/cnn_0001   10    1            of    IN            (PP*            -    -   -    Dick_Durbin  *            *      *      -
+bc/cnn/00/cnn_0001   10    2         these    DT            (NP*            -    -   -    Dick_Durbin  *            *      *      -
+bc/cnn/00/cnn_0001   10    3        things   NNS             *)))        thing   -   1    Dick_Durbin  *            *)     *    134)
+bc/cnn/00/cnn_0001   10    4           are   VBP            (VP*            be  01   1    Dick_Durbin  *          (V*)     *      -
+bc/cnn/00/cnn_0001   10    5            at    IN            (PP*            -    -   -    Dick_Durbin  *       (ARG2*      *      -
+bc/cnn/00/cnn_0001   10    6         stake    NN           (NP*))        stake   -   3    Dick_Durbin  *            *)     *      -
+bc/cnn/00/cnn_0001   10    7            in    IN            (PP*            -    -   -    Dick_Durbin  *   (ARGM-LOC*      *      -
+bc/cnn/00/cnn_0001   10    8          this    DT            (NP*            -    -   -    Dick_Durbin  *            *      *    (31
+bc/cnn/00/cnn_0001   10    9    nomination    NN             *)))   nomination  01   1    Dick_Durbin  *            *)   (V*)    31)
+bc/cnn/00/cnn_0001   10   10            /.     .              *))           -    -   -    Dick_Durbin  *            *      *      -
+
+bc/cnn/00/cnn_0001   10    0           The    DT       (TOP(S(NP(NP*            -    -   -    Candy_Crowley         *             *        *        (ARG0*            *         *             *        *     -
+bc/cnn/00/cnn_0001   10    1    filibuster    NN                   *    filibuster   -   -    Candy_Crowley         *    (ARGM-MNR*)       *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10    2         fight    NN                   *)        fight  01   2    Candy_Crowley         *           (V*)       *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10    3            to    TO              (S(VP*            -    -   -    Candy_Crowley         *        (ARG2*        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10    4        please    VB                (VP*        please  01   1    Candy_Crowley         *             *      (V*)            *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10    5    Democratic    JJ                (NP*            -    -   -    Candy_Crowley     (NORP)            *   (ARG1*             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10    6     activists   NNS               *)))))           -    -   -    Candy_Crowley         *             *)       *)            *)           *         *             *        *     -
+bc/cnn/00/cnn_0001   10    7         could    MD                (VP*            -    -   -    Candy_Crowley         *             *        *    (ARGM-MOD*)           *         *             *        *     -
+bc/cnn/00/cnn_0001   10    8      alienate    VB                (VP*      alienate  01   1    Candy_Crowley         *             *        *           (V*)           *         *             *        *     -
+bc/cnn/00/cnn_0001   10    9           the    DT          (NP(NP(NP*            -    -   -    Candy_Crowley         *             *        *        (ARG1*       (ARG0*         *             *        *     -
+bc/cnn/00/cnn_0001   10   10          kind    NN                   *)           -    -   -    Candy_Crowley         *             *        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10   11            of    IN                (PP*            -    -   -    Candy_Crowley         *             *        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10   12     centrists   NNS              (NP*)))           -    -   -    Candy_Crowley         *             *        *             *            *)        *             *        *     -
+bc/cnn/00/cnn_0001   10   13           who    WP         (SBAR(WHNP*)           -    -   -    Candy_Crowley         *             *        *             *     (R-ARG0*)        *             *        *     -
+bc/cnn/00/cnn_0001   10   14          vote   VBP              (S(VP*          vote  01   1    Candy_Crowley         *             *        *             *          (V*)        *             *        *     -
+bc/cnn/00/cnn_0001   10   15           for    IN                (PP*            -    -   -    Candy_Crowley         *             *        *             *       (ARG1*         *             *        *     -
+bc/cnn/00/cnn_0001   10   16          both    CC                (NP*            -    -   -    Candy_Crowley         *             *        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10   17        George   NNP                (NP*            -    -   -    Candy_Crowley  (PERSON*             *        *             *            *         *             *        *   (38
+bc/cnn/00/cnn_0001   10   18          Bush   NNP                   *)           -    -   -    Candy_Crowley         *)            *        *             *            *         *             *        *    38)
+bc/cnn/00/cnn_0001   10   19           and    CC                   *            -    -   -    Candy_Crowley         *             *        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10   20           Ben   NNP                (NP*            -    -   -    Candy_Crowley  (PERSON*             *        *             *            *         *             *        *   (37
+bc/cnn/00/cnn_0001   10   21        Nelson   NNP                 *)))           -    -   -    Candy_Crowley         *)            *        *             *            *)        *             *        *    37)
+bc/cnn/00/cnn_0001   10   22            in    IN                (PP*            -    -   -    Candy_Crowley         *             *        *             *   (ARGM-LOC*         *             *        *     -
+bc/cnn/00/cnn_0001   10   23           the    DT                (NP*            -    -   -    Candy_Crowley         *             *        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10   24          same    JJ                   *            -    -   -    Candy_Crowley         *             *        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10   25         state    NN                  *))        state   -   2    Candy_Crowley         *             *        *             *            *)        *             *        *     -
+bc/cnn/00/cnn_0001   10   26         which   WDT         (SBAR(WHNP*)           -    -   -    Candy_Crowley         *             *        *             *   (ARGM-ADV*    (ARG1*)            *        *     -
+bc/cnn/00/cnn_0001   10   27            is   VBZ              (S(VP*            be  01   2    Candy_Crowley         *             *        *             *            *       (V*)            *        *     -
+bc/cnn/00/cnn_0001   10   28           why   WRB       (SBAR(WHADVP*)           -    -   -    Candy_Crowley         *             *        *             *            *    (ARG2*    (ARGM-CAU*)       *     -
+bc/cnn/00/cnn_0001   10   29           the    DT           (S(NP(NP*            -    -   -    Candy_Crowley         *             *        *             *            *         *        (ARG0*        *   (51
+bc/cnn/00/cnn_0001   10   30          word    NN                   *)         word   -   1    Candy_Crowley         *             *        *             *            *         *             *        *     -
+bc/cnn/00/cnn_0001   10   31    filibuster    NN               (NP*))   filibuster   -   -    Candy_Crowley         *             *        *             *            *         *             *)       *    51)
+bc/cnn/00/cnn_0001   10   32         makes   VBZ                (VP*          make  02   3    Candy_Crowley         *             *        *             *            *         *           (V*)       *     -
+bc/cnn/00/cnn_0001   10   33           Ben   NNP              (S(NP*            -    -   -    Candy_Crowley  (PERSON*             *        *             *            *         *        (ARG1*   (ARG0*   (37
+bc/cnn/00/cnn_0001   10   34        Nelson   NNP                   *)           -    -   -    Candy_Crowley         *)            *        *             *            *         *             *        *)   37)
+bc/cnn/00/cnn_0001   10   35         dance    VB   (VP*))))))))))))))        dance  01   1    Candy_Crowley         *             *        *             *)           *)        *)            *)     (V*)    -
+bc/cnn/00/cnn_0001   10   36            /.     .                  *))           -    -   -    Candy_Crowley         *             *        *             *            *         *             *        *     -
+
+bc/cnn/00/cnn_0001   10    0           You   PRP   (TOP(S(PRN(S(NP*)           -    -   -    Senator_Ben_Nelson  *    (ARG0*)       *            *      *      *     -
+bc/cnn/00/cnn_0001   10    1          know   VBP             (VP*)))         know  01   2    Senator_Ben_Nelson  *       (V*)       *            *      *      *     -
+bc/cnn/00/cnn_0001   10    2           the    DT            (NP(NP*            -    -   -    Senator_Ben_Nelson  *         *   (ARG0*       (ARG1*      *      *   (51
+bc/cnn/00/cnn_0001   10    3          word    NN                  *)         word   -   1    Senator_Ben_Nelson  *         *        *            *      *      *     -
+bc/cnn/00/cnn_0001   10    4    filibuster    NN              (NP*))   filibuster   -   -    Senator_Ben_Nelson  *         *        *)           *)     *      *    51)
+bc/cnn/00/cnn_0001   10    5         keeps   VBZ               (VP*          keep  02   1    Senator_Ben_Nelson  *         *      (V*)           *      *      *     -
+bc/cnn/00/cnn_0001   10    6        coming   VBG             (S(VP*          come  13   2    Senator_Ben_Nelson  *         *   (ARG1*          (V*)     *      *     -
+bc/cnn/00/cnn_0001   10    7            up    RP              (PRT*)           -    -   -    Senator_Ben_Nelson  *         *        *            *      *      *     -
+bc/cnn/00/cnn_0001   10    8            in    IN            (PP(PP*            -    -   -    Senator_Ben_Nelson  *         *        *   (ARGM-LOC*      *      *     -
+bc/cnn/00/cnn_0001   10    9           the    DT               (NP*            -    -   -    Senator_Ben_Nelson  *         *        *            *      *      *     -
+bc/cnn/00/cnn_0001   10   10     questions   NNS                 *))     question  01   1    Senator_Ben_Nelson  *         *        *            *    (V*)     *     -
+bc/cnn/00/cnn_0001   10   11        rather    RB            (CONJP*            -    -   -    Senator_Ben_Nelson  *         *        *            *      *      *     -
+bc/cnn/00/cnn_0001   10   12          than    IN                  *)           -    -   -    Senator_Ben_Nelson  *         *        *            *      *      *     -
+bc/cnn/00/cnn_0001   10   13            in    IN               (PP*            -    -   -    Senator_Ben_Nelson  *         *        *            *      *      *     -
+bc/cnn/00/cnn_0001   10   14           the    DT               (NP*            -    -   -    Senator_Ben_Nelson  *         *        *            *      *      *     -
+bc/cnn/00/cnn_0001   10   15       answers   NNS             *))))))       answer  01   1    Senator_Ben_Nelson  *         *        *)           *)     *    (V*)    -
+bc/cnn/00/cnn_0001   10   16            /.     .                 *))           -    -   -    Senator_Ben_Nelson  *         *        *            *      *      *     -
+
+bc/cnn/00/cnn_0001   10   0     but    CC   (TOP(S*      -    -   -    Senator_Ben_Nelson  *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   10   1     you   PRP      (NP*)     -    -   -    Senator_Ben_Nelson  *      *        (ARG0*)     -
+bc/cnn/00/cnn_0001   10   2      do   VBP      (VP*      do  01   -    Senator_Ben_Nelson  *    (V*)            *      -
+bc/cnn/00/cnn_0001   10   3     n't    RB         *      -    -   -    Senator_Ben_Nelson  *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   10   4    rule    VB      (VP*    rule  02   3    Senator_Ben_Nelson  *      *           (V*)     -
+bc/cnn/00/cnn_0001   10   5      it   PRP      (NP*)     -    -   -    Senator_Ben_Nelson  *      *        (ARG1*)   (98)
+bc/cnn/00/cnn_0001   10   6     out    RP   (PRT*)))     -    -   -    Senator_Ben_Nelson  *      *             *      -
+bc/cnn/00/cnn_0001   10   7      /.     .        *))     -    -   -    Senator_Ben_Nelson  *      *             *      -
+
+bc/cnn/00/cnn_0001   10   0       but    CC   (TOP(S*      -    -   -    Senator_Ben_Nelson  *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0001   10   1    nobody    NN      (NP*)     -    -   -    Senator_Ben_Nelson  *      *        (ARG0*)     -
+bc/cnn/00/cnn_0001   10   2        's   VBZ      (VP*      be  03   9    Senator_Ben_Nelson  *    (V*)            *      -
+bc/cnn/00/cnn_0001   10   3    ruling   VBG      (VP*    rule  01   6    Senator_Ben_Nelson  *      *           (V*)     -
+bc/cnn/00/cnn_0001   10   4        it   PRP      (NP*)     -    -   -    Senator_Ben_Nelson  *      *        (ARG1*)   (98)
+bc/cnn/00/cnn_0001   10   5        in    RP   (PRT*)))     -    -   -    Senator_Ben_Nelson  *      *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0001   10   6        /.     .        *))     -    -   -    Senator_Ben_Nelson  *      *             *      -
+
+bc/cnn/00/cnn_0001   10    0          While     IN       (TOP(S(SBAR*             -    -       -    Candy_Crowley         *             *         *             *        *        *   (ARGM-ADV*         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    1      Democrats   NNPS             (S(NP*)            -    -       -    Candy_Crowley     (NORP)       (ARG1*)        *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    2          still     RB             (ADVP*)            -    -       -    Candy_Crowley         *    (ARGM-TMP*)        *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    3           hold    VBP               (VP*           hold  09       3    Candy_Crowley         *           (V*)        *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    4            out     RP              (PRT*)            -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    5            the     DT            (NP(NP*             -    -       -    Candy_Crowley         *        (ARG2*         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    6    possibility     NN                  *)   possibility   -       2    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    7             of     IN               (PP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    8              a     DT               (NP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10    9     filibuster     NN             *))))))    filibuster   -       -    Candy_Crowley         *             *)        *             *        *        *            *)        *             *             *             *      -
+bc/cnn/00/cnn_0001   10   10            the     DT               (NP*             -    -       -    Candy_Crowley         *             *         *             *        *        *       (ARG0*         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   11      competing    VBG                  *        compete  01       -    Candy_Crowley         *             *       (V*)   (ARGM-ADJ*)       *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   12           need     NN                  *           need  01       1    Candy_Crowley         *             *    (ARG0*)          (V*)       *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   13             to     TO             (S(VP*             -    -       -    Candy_Crowley         *             *         *        (ARG1*        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   14         please     VB            (VP(VP*         please  01       1    Candy_Crowley         *             *         *             *      (V*)       *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   15            the     DT               (NP*             -    -       -    Candy_Crowley         *             *         *             *   (ARG1*        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   16           base     NN                 *))          base   -       3    Candy_Crowley         *             *         *             *        *)       *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   17            and     CC                  *             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   18          reach     VB               (VP*          reach  01       2    Candy_Crowley         *             *         *             *        *      (V*)           *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   19             to     IN               (PP*             -    -       -    Candy_Crowley         *             *         *             *        *   (ARG1*            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   20            the     DT               (NP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   21         center     NN            *)))))))        center   -       5    Candy_Crowley         *             *         *             *)       *        *)           *)        *             *             *             *      -
+bc/cnn/00/cnn_0001   10   22          makes    VBZ               (VP*           make  02       3    Candy_Crowley         *             *         *             *        *        *          (V*)        *             *             *             *      -
+bc/cnn/00/cnn_0001   10   23             it    PRP         (S(NP(NP*))            -    -       -    Candy_Crowley         *             *         *             *        *        *       (ARG1*         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   24           hard     JJ             (ADJP*)            -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   25             to     TO             (S(VP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   26           find     VB               (VP*           find  01       1    Candy_Crowley         *             *         *             *        *        *            *       (V*)            *             *             *      -
+bc/cnn/00/cnn_0001   10   27      consensus     NN           (NP*)))))            -    -       -    Candy_Crowley         *             *         *             *        *        *            *)   (ARG1*)            *             *             *      -
+bc/cnn/00/cnn_0001   10   28            all     DT   (SBAR(WHNP(WHNP*)            -    -       -    Candy_Crowley         *             *         *             *        *        *   (ARGM-ADV*         *        (ARG0*             *             *      -
+bc/cnn/00/cnn_0001   10   29             of     IN             (WHPP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   30          which    WDT           (WHNP*)))            -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *)            *             *      -
+bc/cnn/00/cnn_0001   10   31          could     MD             (S(VP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *    (ARGM-MOD*)            *             *      -
+bc/cnn/00/cnn_0001   10   32           bode     VB               (VP*           bode  01       -    Candy_Crowley         *             *         *             *        *        *            *         *           (V*)            *             *      -
+bc/cnn/00/cnn_0001   10   33           well     RB             (ADVP*)            -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *        (ARG1*)            *             *      -
+bc/cnn/00/cnn_0001   10   34            for     IN               (PP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *        (ARG2*             *             *      -
+bc/cnn/00/cnn_0001   10   35            Sam    NNP            (NP(NP*             -    -       -    Candy_Crowley  (PERSON*             *         *             *        *        *            *         *             *        (ARG0*             *    (26
+bc/cnn/00/cnn_0001   10   36          Alito    NNP                  *)            -    -       -    Candy_Crowley         *)            *         *             *        *        *            *         *             *             *)            *      -
+bc/cnn/00/cnn_0001   10   37            who     WP        (SBAR(WHNP*)            -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *      (R-ARG0*)            *      -
+bc/cnn/00/cnn_0001   10   38            may     MD             (S(VP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *    (ARGM-MOD*)            *      -
+bc/cnn/00/cnn_0001   10   39            get     VB               (VP*            get  17   11.20    Candy_Crowley         *             *         *             *        *        *            *         *             *           (V*)            *      -
+bc/cnn/00/cnn_0001   10   40             by     RP              (PRT*)            -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   41           with     IN               (PP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *        (ARG1*             *      -
+bc/cnn/00/cnn_0001   10   42              a     DT            (NP(NP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+bc/cnn/00/cnn_0001   10   43         little     JJ                  *             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *    (ARGM-EXT*)     -
+bc/cnn/00/cnn_0001   10   44           help     NN                  *)          help  01       1    Candy_Crowley         *             *         *             *        *        *            *         *             *             *           (V*)     -
+bc/cnn/00/cnn_0001   10   45           from     IN               (PP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *        (ARG0*      -
+bc/cnn/00/cnn_0001   10   46            his   PRP$               (NP*             -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *    (26)
+bc/cnn/00/cnn_0001   10   47        friends    NNS    *)))))))))))))))        friend   -       -    Candy_Crowley         *             *         *             *        *        *            *)        *             *)            *)            *)    26)
+bc/cnn/00/cnn_0001   10   48             /.      .                 *))            -    -       -    Candy_Crowley         *             *         *             *        *        *            *         *             *             *             *      -
+
+bc/cnn/00/cnn_0001   10    0            There    EX      (TOP(S(NP*)              -    -   -    Jeffrey_Wasserstein  *             *             *      -
+bc/cnn/00/cnn_0001   10    1              was   VBD            (VP*               be  02   3    Jeffrey_Wasserstein  *           (V*)            *      -
+bc/cnn/00/cnn_0001   10    2            never    RB          (ADVP*)              -    -   -    Jeffrey_Wasserstein  *    (ARGM-TMP*)            *      -
+bc/cnn/00/cnn_0001   10    3               an    DT         (NP(NP*               -    -   -    Jeffrey_Wasserstein  *        (ARG1*             *      -
+bc/cnn/00/cnn_0001   10    4      ideological    JJ          (ADJP*               -    -   -    Jeffrey_Wasserstein  *             *             *      -
+bc/cnn/00/cnn_0001   10    5               or    CC               *               -    -   -    Jeffrey_Wasserstein  *             *             *      -
+bc/cnn/00/cnn_0001   10    6        political    JJ               *)              -    -   -    Jeffrey_Wasserstein  *             *             *      -
+bc/cnn/00/cnn_0001   10    7    consideration    NN               *)   consideration   -   2    Jeffrey_Wasserstein  *             *             *      -
+bc/cnn/00/cnn_0001   10    8               in    IN            (PP*               -    -   -    Jeffrey_Wasserstein  *             *             *      -
+bc/cnn/00/cnn_0001   10    9              how   WRB   (SBAR(WHADVP*)              -    -   -    Jeffrey_Wasserstein  *             *    (ARGM-MNR*)     -
+bc/cnn/00/cnn_0001   10   10               he   PRP          (S(NP*)              -    -   -    Jeffrey_Wasserstein  *             *        (ARG0*)   (26)
+bc/cnn/00/cnn_0001   10   11           viewed   VBD            (VP*             view  02   1    Jeffrey_Wasserstein  *             *           (V*)     -
+bc/cnn/00/cnn_0001   10   12            cases   NNS      (NP*)))))))            case   -   2    Jeffrey_Wasserstein  *             *)       (ARG1*)     -
+bc/cnn/00/cnn_0001   10   13               /.     .              *))              -    -   -    Jeffrey_Wasserstein  *             *             *      -
+
+bc/cnn/00/cnn_0001   10   0       So    RB   (TOP(FRAG(ADVP*)      -   -   -    Candy_Crowley  *   -
+bc/cnn/00/cnn_0001   10   1        a    DT           (NP(NP*       -   -   -    Candy_Crowley  *   -
+bc/cnn/00/cnn_0001   10   2    judge    NN                 *    judge  -   1    Candy_Crowley  *   -
+bc/cnn/00/cnn_0001   10   3       's   POS                 *)      -   -   -    Candy_Crowley  *   -
+bc/cnn/00/cnn_0001   10   4    judge    NN                 *)   judge  -   1    Candy_Crowley  *   -
+bc/cnn/00/cnn_0001   10   5       /.     .                *))      -   -   -    Candy_Crowley  *   -
+
+bc/cnn/00/cnn_0001   10   0    Judge    NN  (TOP(NP(NP*    judge  -   1    Jeffrey_Wasserstein  *   -
+bc/cnn/00/cnn_0001   10   1       's   POS            *)      -   -   -    Jeffrey_Wasserstein  *   -
+bc/cnn/00/cnn_0001   10   2    judge    NN            *    judge  -   1    Jeffrey_Wasserstein  *   -
+bc/cnn/00/cnn_0001   10   3       /.     .           *))      -   -   -    Jeffrey_Wasserstein  *   -
+
+bc/cnn/00/cnn_0001   10   0    Absolutely   RB  (TOP(ADVP*   -   -   -    Jeffrey_Wasserstein  *   -
+bc/cnn/00/cnn_0001   10   1            /.    .          *))  -   -   -    Jeffrey_Wasserstein  *   -
+
+bc/cnn/00/cnn_0001   10   0         Candy   NNP  (TOP(FRAG(NP*   -   -   -    Candy_Crowley  (PERSON*   (61
+bc/cnn/00/cnn_0001   10   1       Crowley   NNP              *)  -   -   -    Candy_Crowley         *)   61)
+bc/cnn/00/cnn_0001   10   2           CNN   NNP           (NP*)  -   -   -    Candy_Crowley      (ORG)    -
+bc/cnn/00/cnn_0001   10   3    Washington   NNP           (NP*)  -   -   -    Candy_Crowley      (GPE)    -
+bc/cnn/00/cnn_0001   10   4            /.     .             *))  -   -   -    Candy_Crowley         *     -

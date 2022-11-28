@@ -1,0 +1,489 @@
+bc/cctv/00/cctv_0004   17   0       Good    JJ  (TOP(FRAG(INTJ*      -   -   -   speaker#2   *   -
+bc/cctv/00/cctv_0004   17   1    evening    NN                *)   even  -   -   speaker#2   *   -
+bc/cctv/00/cctv_0004   17   2          ,     ,                *      -   -   -   speaker#2   *   -
+bc/cctv/00/cctv_0004   17   3       dear    JJ             (NP*      -   -   -   speaker#2   *   -
+bc/cctv/00/cctv_0004   17   4    viewers   NNS                *)     -   -   -   speaker#2   *   -
+bc/cctv/00/cctv_0004   17   5          .     .               *))     -   -   -   speaker#2   *   -
+
+bc/cctv/00/cctv_0004   17    0       Tomorrow    NN   (TOP(S(NP*)        -    -   -   speaker#2        (DATE)   (ARGM-TMP*)   (48)
+bc/cctv/00/cctv_0004   17    1          there    EX         (NP*)        -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17    2           will    MD         (VP*         -    -   -   speaker#2            *    (ARGM-MOD*)     -
+bc/cctv/00/cctv_0004   17    3             be    VB         (VP*         be  02   5   speaker#2            *           (V*)     -
+bc/cctv/00/cctv_0004   17    4            two    CD      (NP(NP*         -    -   -   speaker#2    (CARDINAL)       (ARG1*      -
+bc/cctv/00/cctv_0004   17    5    significant    JJ            *         -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17    6        weather    NN            *    weather   -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17    7        changes   NNS            *)    change   -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17    8             in    IN         (PP*         -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17    9          China   NNP     (NP*)))))        -    -   -   speaker#2         (GPE)            *)     -
+bc/cctv/00/cctv_0004   17   10              .     .           *))        -    -   -   speaker#2            *             *      -
+
+bc/cctv/00/cctv_0004   17    0              The    DT  (TOP(S(NP(NP*          -    -   -   speaker#2       *        (ARG1*   (73
+bc/cctv/00/cctv_0004   17    1            scope    NN              *)         -    -   -   speaker#2       *             *     -
+bc/cctv/00/cctv_0004   17    2               of    IN           (PP*          -    -   -   speaker#2       *             *     -
+bc/cctv/00/cctv_0004   17    3    precipitation    NN          (NP*))         -    -   -   speaker#2       *             *     -
+bc/cctv/00/cctv_0004   17    4               in    IN           (PP*          -    -   -   speaker#2       *             *     -
+bc/cctv/00/cctv_0004   17    5              the    DT           (NP*          -    -   -   speaker#2       *             *     -
+bc/cctv/00/cctv_0004   17    6            South   NNP            *)))         -    -   -   speaker#2    (LOC)            *)   73)
+bc/cctv/00/cctv_0004   17    7             will    MD           (VP*          -    -   -   speaker#2       *    (ARGM-MOD*)    -
+bc/cctv/00/cctv_0004   17    8    significantly    RB         (ADVP*)         -    -   -   speaker#2       *    (ARGM-MNR*)    -
+bc/cctv/00/cctv_0004   17    9         increase    VB          (VP*))   increase  01   1   speaker#2       *           (V*)    -
+bc/cctv/00/cctv_0004   17   10                .     .             *))         -    -   -   speaker#2       *             *     -
+
+bc/cctv/00/cctv_0004   17   0         So    RB   (TOP(S(ADVP*)       -    -   -   speaker#2       *    (ARGM-DIS*)     -
+bc/cctv/00/cctv_0004   17   1         it   PRP           (NP*)       -    -   -   speaker#2       *        (ARG1*)   (73)
+bc/cctv/00/cctv_0004   17   2       will    MD           (VP*        -    -   -   speaker#2       *    (ARGM-MOD*)     -
+bc/cctv/00/cctv_0004   17   3    further    RB         (ADVP*)       -    -   -   speaker#2       *    (ARGM-ADV*)     -
+bc/cctv/00/cctv_0004   17   4     spread    VB           (VP*    spread  02   2   speaker#2       *           (V*)     -
+bc/cctv/00/cctv_0004   17   5         to    IN           (PP*        -    -   -   speaker#2       *    (ARGM-DIR*      -
+bc/cctv/00/cctv_0004   17   6      Hubei   NNP           (NP*        -    -   -   speaker#2    (GPE)            *      -
+bc/cctv/00/cctv_0004   17   7        and    CC              *        -    -   -   speaker#2       *             *      -
+bc/cctv/00/cctv_0004   17   8      Hunan   NNP           *))))       -    -   -   speaker#2    (GPE)            *)     -
+bc/cctv/00/cctv_0004   17   9          .     .             *))       -    -   -   speaker#2       *             *      -
+
+bc/cctv/00/cctv_0004   17    0          In    IN   (TOP(S(PP*        -    -   -   speaker#2       *        *    (ARGM-ADV*        *   -
+bc/cctv/00/cctv_0004   17    1       spite    NN      (NP(NP*)    spite   -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17    2          of    IN         (PP*        -    -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17    3       being   VBG       (S(VP*        be  01   1   speaker#2       *      (V*)            *        *   -
+bc/cctv/00/cctv_0004   17    4    overcast    JJ       (ADJP*        -    -   -   speaker#2       *   (ARG2*             *        *   -
+bc/cctv/00/cctv_0004   17    5         and    CC            *        -    -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17    6      frigid    JJ       *))))))       -    -   -   speaker#2       *        *)            *)       *   -
+bc/cctv/00/cctv_0004   17    7           ,     ,            *        -    -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17    8    rainfall    NN         (NP*)       -    -   -   speaker#2       *        *        (ARG0*)       *   -
+bc/cctv/00/cctv_0004   17    9        will    MD         (VP*        -    -   -   speaker#2       *        *    (ARGM-MOD*)       *   -
+bc/cctv/00/cctv_0004   17   10        also    RB       (ADVP*)       -    -   -   speaker#2       *        *    (ARGM-ADV*)       *   -
+bc/cctv/00/cctv_0004   17   11       bring    VB         (VP*     bring  01   2   speaker#2       *        *           (V*)       *   -
+bc/cctv/00/cctv_0004   17   12     cleaner   JJR         (NP*        -    -   -   speaker#2       *        *        (ARG1*        *   -
+bc/cctv/00/cctv_0004   17   13         air    NN            *)      air   -   -   speaker#2       *        *             *)       *   -
+bc/cctv/00/cctv_0004   17   14          to    IN         (PP*        -    -   -   speaker#2       *        *        (ARG2*        *   -
+bc/cctv/00/cctv_0004   17   15         the    DT   (NP(NP(NP*        -    -   -   speaker#2       *        *             *   (ARG1*   -
+bc/cctv/00/cctv_0004   17   16        area    NN            *)       -    -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17   17       south    RB       (ADVP*        -    -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17   18          of    IN         (PP*        -    -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17   19         the    DT         (NP*        -    -   -   speaker#2   (LOC*        *             *        *   -
+bc/cctv/00/cctv_0004   17   20     Yangtze   NNP            *        -    -   -   speaker#2       *        *             *        *   -
+bc/cctv/00/cctv_0004   17   21       River   NNP         *))))       -    -   -   speaker#2       *)       *             *        *)  -
+bc/cctv/00/cctv_0004   17   22     plagued   VBN         (VP*    plague  01   1   speaker#2       *        *             *      (V*)  -
+bc/cctv/00/cctv_0004   17   23        with    IN         (PP*        -    -   -   speaker#2       *        *             *   (ARG2*   -
+bc/cctv/00/cctv_0004   17   24        smog    NN   (NP*)))))))       -    -   -   speaker#2       *        *             *)       *)  -
+bc/cctv/00/cctv_0004   17   25           .     .           *))       -    -   -   speaker#2       *        *             *        *   -
+
+bc/cctv/00/cctv_0004   17    0             In    IN  (TOP(S(PP*        -    -   -   speaker#2       *    (ARGM-TMP*   -
+bc/cctv/00/cctv_0004   17    1            the    DT        (NP*        -    -   -   speaker#2       *             *   -
+bc/cctv/00/cctv_0004   17    2       meantime    NN          *))       -    -   -   speaker#2       *             *)  -
+bc/cctv/00/cctv_0004   17    3              ,     ,           *        -    -   -   speaker#2       *             *   -
+bc/cctv/00/cctv_0004   17    4        another    DT        (NP*        -    -   -   speaker#2       *        (ARG1*   -
+bc/cctv/00/cctv_0004   17    5    significant    JJ           *        -    -   -   speaker#2       *             *   -
+bc/cctv/00/cctv_0004   17    6         change    NN           *)   change   -   -   speaker#2       *             *)  -
+bc/cctv/00/cctv_0004   17    7           will    MD        (VP*        -    -   -   speaker#2       *    (ARGM-MOD*)  -
+bc/cctv/00/cctv_0004   17    8          occur    VB        (VP*     occur  01   1   speaker#2       *           (V*)  -
+bc/cctv/00/cctv_0004   17    9             in    IN        (PP*        -    -   -   speaker#2       *    (ARGM-LOC*   -
+bc/cctv/00/cctv_0004   17   10            the    DT     (NP(NP*        -    -   -   speaker#2       *             *   -
+bc/cctv/00/cctv_0004   17   11           most   JJS           *        -    -   -   speaker#2       *             *   -
+bc/cctv/00/cctv_0004   17   12           part    NN           *)     part   -   -   speaker#2       *             *   -
+bc/cctv/00/cctv_0004   17   13             of    IN        (PP*        -    -   -   speaker#2       *             *   -
+bc/cctv/00/cctv_0004   17   14        Eastern   NNP        (NP*        -    -   -   speaker#2   (LOC*             *   -
+bc/cctv/00/cctv_0004   17   15          China   NNP      *))))))       -    -   -   speaker#2       *)            *)  -
+bc/cctv/00/cctv_0004   17   16              .     .          *))       -    -   -   speaker#2       *             *   -
+
+bc/cctv/00/cctv_0004   17    0       Affected   VBN  (TOP(S(S(VP*    affect  01   1   speaker#2   *      (V*)   (ARGM-PRD*   -
+bc/cctv/00/cctv_0004   17    1             by    IN          (PP*        -    -   -   speaker#2   *   (ARG2*             *   -
+bc/cctv/00/cctv_0004   17    2           cold    JJ          (NP*        -    -   -   speaker#2   *        *             *   -
+bc/cctv/00/cctv_0004   17    3            air    NN          *))))      air   -   -   speaker#2   *        *)            *)  -
+bc/cctv/00/cctv_0004   17    4              ,     ,             *        -    -   -   speaker#2   *        *             *   -
+bc/cctv/00/cctv_0004   17    5             it   PRP          (NP*)       -    -   -   speaker#2   *        *        (ARG1*)  -
+bc/cctv/00/cctv_0004   17    6           will    MD          (VP*        -    -   -   speaker#2   *        *    (ARGM-MOD*)  -
+bc/cctv/00/cctv_0004   17    7             be    VB          (VP*        be  01   1   speaker#2   *        *           (V*)  -
+bc/cctv/00/cctv_0004   17    8      generally    RB        (ADJP*        -    -   -   speaker#2   *        *        (ARG2*   -
+bc/cctv/00/cctv_0004   17    9          windy    JJ             *)       -    -   -   speaker#2   *        *             *)  -
+bc/cctv/00/cctv_0004   17   10           here    RB        (ADVP*)       -    -   -   speaker#2   *        *    (ARGM-LOC*)  -
+bc/cctv/00/cctv_0004   17   11           with    IN          (PP*        -    -   -   speaker#2   *        *    (ARGM-ADV*   -
+bc/cctv/00/cctv_0004   17   12    temperature    NN          (NP*        -    -   -   speaker#2   *        *             *   -
+bc/cctv/00/cctv_0004   17   13          drops   NNS          *))))     drop   -   -   speaker#2   *        *             *)  -
+bc/cctv/00/cctv_0004   17   14              .     .            *))       -    -   -   speaker#2   *        *             *   -
+
+bc/cctv/00/cctv_0004   17    0             From     IN  (TOP(S(PP(PP*       -    -   -   speaker#2            *    (ARGM-TMP*      -
+bc/cctv/00/cctv_0004   17    1          tonight     NN          (NP*))      -    -   -   speaker#2       (TIME*             *      -
+bc/cctv/00/cctv_0004   17    2          through     IN           (PP*       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17    3         tomorrow     NN         (NP*)))      -    -   -   speaker#2            *)            *)   (48)
+bc/cctv/00/cctv_0004   17    4                ,      ,              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17    5     temperatures    NNS           (NP*)      -    -   -   speaker#2            *        (ARG1*)     -
+bc/cctv/00/cctv_0004   17    6             will     MD           (VP*       -    -   -   speaker#2            *    (ARGM-MOD*)     -
+bc/cctv/00/cctv_0004   17    7    significantly     RB         (ADVP*)      -    -   -   speaker#2            *    (ARGM-MNR*)     -
+bc/cctv/00/cctv_0004   17    8             drop     VB           (VP*     drop  01   2   speaker#2            *           (V*)     -
+bc/cctv/00/cctv_0004   17    9               4      CD        (NP(QP*       -    -   -   speaker#2    (CARDINAL)       (ARG2*      -
+bc/cctv/00/cctv_0004   17   10               to     TO              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   11               8      CD              *)      -    -   -   speaker#2   (QUANTITY*             *      -
+bc/cctv/00/cctv_0004   17   12          degrees    NNS              *)      -    -   -   speaker#2            *)            *)     -
+bc/cctv/00/cctv_0004   17   13               in     IN           (PP*       -    -   -   speaker#2            *    (ARGM-LOC*      -
+bc/cctv/00/cctv_0004   17   14           places    NNS        (NP(NP*)   place   -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   15             from     IN        (PP(PP*       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   16        northeast     JJ        (NP(NP*       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   17            China    NNP              *)      -    -   -   speaker#2         (GPE)            *      -
+bc/cctv/00/cctv_0004   17   18                ,      ,              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   19            North    NNP           (NP*       -    -   -   speaker#2        (LOC*             *      -
+bc/cctv/00/cctv_0004   17   20            China    NNP            *)))      -    -   -   speaker#2            *)            *      -
+bc/cctv/00/cctv_0004   17   21               to     IN           (PP*       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   22              the     DT   (NP(NML(NML*       -    -   -   speaker#2        (GPE*             *      -
+bc/cctv/00/cctv_0004   17   23            Huang    NNP              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   24               -    HYPH              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   25             Huai    NNP              *)      -    -   -   speaker#2            *)            *      -
+bc/cctv/00/cctv_0004   17   26              and     CC              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   27              the     DT          (NML*       -    -   -   speaker#2        (GPE*             *      -
+bc/cctv/00/cctv_0004   17   28            Jiang    NNP              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   29               -    HYPH              *       -    -   -   speaker#2            *             *      -
+bc/cctv/00/cctv_0004   17   30             Huai    NNP             *))      -    -   -   speaker#2            *)            *      -
+bc/cctv/00/cctv_0004   17   31          regions    NNS        *)))))))      -    -   -   speaker#2            *             *)     -
+bc/cctv/00/cctv_0004   17   32                .      .             *))      -    -   -   speaker#2            *             *      -
+
+bc/cctv/00/cctv_0004   17    0        At    IN  (TOP(S(PP*        -    -   -   speaker#2   *      *    (ARGM-TMP*   -
+bc/cctv/00/cctv_0004   17    1       the    DT        (NP*        -    -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17    2      same    JJ           *        -    -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17    3      time    NN          *))     time   -   -   speaker#2   *      *             *)  -
+bc/cctv/00/cctv_0004   17    4         ,     ,           *        -    -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17    5       the    DT     (NP(NP*        -    -   -   speaker#2   *      *        (ARG1*   -
+bc/cctv/00/cctv_0004   17    6    effect    NN           *)   effect   -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17    7        of    IN        (PP*        -    -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17    8      this    DT        (NP*        -    -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17    9      cold    JJ           *        -    -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17   10      wave    NN         *)))     wave   -   5   speaker#2   *      *             *)  -
+bc/cctv/00/cctv_0004   17   11      will    MD        (VP*        -    -   -   speaker#2   *      *    (ARGM-MOD*)  -
+bc/cctv/00/cctv_0004   17   12        be    VB        (VP*        be  03   -   speaker#2   *    (V*)            *   -
+bc/cctv/00/cctv_0004   17   13    coming   VBG        (VP*      come  04   3   speaker#2   *      *           (V*)  -
+bc/cctv/00/cctv_0004   17   14        to    IN        (PP*        -    -   -   speaker#2   *      *        (ARG2*   -
+bc/cctv/00/cctv_0004   17   15        an    DT        (NP*        -    -   -   speaker#2   *      *             *   -
+bc/cctv/00/cctv_0004   17   16       end    NN       *)))))      end   -   -   speaker#2   *      *             *)  -
+bc/cctv/00/cctv_0004   17   17         .     .          *))       -    -   -   speaker#2   *      *             *   -
+
+bc/cctv/00/cctv_0004   17    0     However     RB   (TOP(S(ADVP*)      -    -   -   speaker#2        *    (ARGM-ADV*)     -
+bc/cctv/00/cctv_0004   17    1           ,      ,              *       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17    2         the     DT        (NP(NP*       -    -   -   speaker#2   (DATE*    (ARGM-TMP*      -
+bc/cctv/00/cctv_0004   17    3         day     NN              *)      -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17    4       after     IN           (PP*       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17    5    tomorrow     NN          (NP*))      -    -   -   speaker#2        *)            *    (48)
+bc/cctv/00/cctv_0004   17    6           ,      ,              *       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17    7        that     RB      (NP(ADVP*       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17    8          is     RB              *)      -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17    9           ,      ,              *       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17   10        this     DT              *       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17   11      Friday    NNP             *))      -    -   -   speaker#2    (DATE)            *)     -
+bc/cctv/00/cctv_0004   17   12           ,      ,              *       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17   13           a     DT           (NP*       -    -   -   speaker#2        *        (ARG0*    (31
+bc/cctv/00/cctv_0004   17   14    stronger    JJR              *       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17   15        cold     JJ              *       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17   16     current     NN              *)      -    -   -   speaker#2        *             *)    31)
+bc/cctv/00/cctv_0004   17   17        will     MD           (VP*       -    -   -   speaker#2        *    (ARGM-MOD*)     -
+bc/cctv/00/cctv_0004   17   18       enter     VB           (VP*    enter  01   1   speaker#2        *           (V*)     -
+bc/cctv/00/cctv_0004   17   19    Xinjiang    NNP        (NP(NP*)      -    -   -   speaker#2     (GPE)       (ARG1*      -
+bc/cctv/00/cctv_0004   17   20          in     IN           (PP*       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17   21         our   PRP$           (NP*       -    -   -   speaker#2        *             *      -
+bc/cctv/00/cctv_0004   17   22     country     NN          *)))))      -    -   -   speaker#2        *             *)     -
+bc/cctv/00/cctv_0004   17   23           .      .             *))      -    -   -   speaker#2        *             *      -
+
+bc/cctv/00/cctv_0004   17    0             In    IN  (TOP(S(PP*        -    -   -   speaker#2   *         *    (ARGM-DIS*      -
+bc/cctv/00/cctv_0004   17    1       addition    NN       (NP*))       -    -   -   speaker#2   *         *             *)     -
+bc/cctv/00/cctv_0004   17    2              ,     ,           *        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17    3             in    IN        (PP*        -    -   -   speaker#2   *         *    (ARGM-TMP*      -
+bc/cctv/00/cctv_0004   17    4            the    DT        (NP*        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17    5      following   VBG           *    follow  01   -   speaker#2   *       (V*)            *      -
+bc/cctv/00/cctv_0004   17    6           days   NNS          *))       -    -   -   speaker#2   *    (ARG1*)            *)     -
+bc/cctv/00/cctv_0004   17    7              ,     ,           *        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17    8             it   PRP        (NP*)       -    -   -   speaker#2   *         *        (ARG0*)   (31)
+bc/cctv/00/cctv_0004   17    9           will    MD        (VP*        -    -   -   speaker#2   *         *    (ARGM-MOD*)     -
+bc/cctv/00/cctv_0004   17   10          bring    VB        (VP*     bring  01   2   speaker#2   *         *           (V*)     -
+bc/cctv/00/cctv_0004   17   11              a    DT     (NP(NP*        -    -   -   speaker#2   *         *        (ARG1*      -
+bc/cctv/00/cctv_0004   17   12            new    JJ           *        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   13          round    NN           *)    round   -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   14             of    IN        (PP*        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   15    temperature    NN        (NP*        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   16          drops   NNS         *)))     drop   -   -   speaker#2   *         *             *)     -
+bc/cctv/00/cctv_0004   17   17             in    IN        (PP*        -    -   -   speaker#2   *         *    (ARGM-LOC*      -
+bc/cctv/00/cctv_0004   17   18            the    DT     (NP(NP*        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   19           most   JJS           *        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   20           part    NN           *)     part   -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   21             of    IN        (PP*        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   22            the    DT        (NP*        -    -   -   speaker#2   *         *             *      -
+bc/cctv/00/cctv_0004   17   23        country    NN      *))))))       -    -   -   speaker#2   *         *             *)     -
+bc/cctv/00/cctv_0004   17   24              .     .          *))       -    -   -   speaker#2   *         *             *      -
+
+bc/cctv/00/cctv_0004   17    0          All    RB  (TOP(S(ADVP*          -    -   -   speaker#2   *    (ARGM-DIS*         *   -
+bc/cctv/00/cctv_0004   17    1        right    RB             *)         -    -   -   speaker#2   *             *)        *   -
+bc/cctv/00/cctv_0004   17    2            ,     ,             *          -    -   -   speaker#2   *             *         *   -
+bc/cctv/00/cctv_0004   17    3         next    RB        (ADVP*)         -    -   -   speaker#2   *    (ARGM-TMP*)        *   -
+bc/cctv/00/cctv_0004   17    4          let    VB          (VP*         let  01   1   speaker#2   *           (V*)        *   -
+bc/cctv/00/cctv_0004   17    5           's   PRP        (S(NP*)         -    -   -   speaker#2   *        (ARG1*    (ARG0*)  -
+bc/cctv/00/cctv_0004   17    6         take    VB          (VP*        take  01   2   speaker#2   *             *       (V*)  -
+bc/cctv/00/cctv_0004   17    7            a    DT       (NP(NP*          -    -   -   speaker#2   *             *    (ARG1*   -
+bc/cctv/00/cctv_0004   17    8         look    NN             *)       look   -   -   speaker#2   *             *         *   -
+bc/cctv/00/cctv_0004   17    9           at    IN          (PP*          -    -   -   speaker#2   *             *         *   -
+bc/cctv/00/cctv_0004   17   10          the    DT          (NP*          -    -   -   speaker#2   *             *         *   -
+bc/cctv/00/cctv_0004   17   11         city    NN             *          -    -   -   speaker#2   *             *         *   -
+bc/cctv/00/cctv_0004   17   12      weather    NN             *     weather   -   -   speaker#2   *             *         *   -
+bc/cctv/00/cctv_0004   17   13    forecasts   NNS        *))))))   forecast   -   -   speaker#2   *             *)        *)  -
+bc/cctv/00/cctv_0004   17   14            .     .            *))         -    -   -   speaker#2   *             *         *   -
+
+bc/cctv/00/cctv_0004   17    0     Beijing   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)        *   -
+bc/cctv/00/cctv_0004   17    1           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    2      cloudy    JJ         (NP(NP*)       -    -   -   speaker#2            *    (ARG3*)  -
+bc/cctv/00/cctv_0004   17    3    changing   VBG            (VP*    change  01   1   speaker#2            *       (V*)  -
+bc/cctv/00/cctv_0004   17    4          to    IN            (PP*        -    -   -   speaker#2            *    (ARG2*   -
+bc/cctv/00/cctv_0004   17    5       sunny    JJ       (ADJP*))))       -    -   -   speaker#2            *         *)  -
+bc/cctv/00/cctv_0004   17    6           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    7          to    IN            (PP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    8          6     CD            (NP*        -    -   -   speaker#2   (QUANTITY*         *   -
+bc/cctv/00/cctv_0004   17    9     degrees   NNS              *))       -    -   -   speaker#2            *)        *   -
+bc/cctv/00/cctv_0004   17   10           .     .              *))       -    -   -   speaker#2            *         *   -
+
+bc/cctv/00/cctv_0004   17    0     Harbin   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17    1          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    2      sunny    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    3          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    4        14     CD      (NP(NP(NP*   -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17    5    degrees   NNS               *)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    6      below    IN            (PP*   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    7       zero    CD          (NP*)))  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17    8         to    IN            (PP*   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    9         6     CD         (NP(NP*   -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   10    degrees   NNS               *)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   11      below    IN            (PP*   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   12       zero    CD        (NP*)))))  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   13          .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17    0    Changchun   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)       *   -
+bc/cctv/00/cctv_0004   17    1            ,     ,               *        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17    2        light    JJ         (NP(NP*        -    -   -   speaker#2            *   (ARG3*   -
+bc/cctv/00/cctv_0004   17    3         snow    NN               *)     snow   -   -   speaker#2            *        *)  -
+bc/cctv/00/cctv_0004   17    4     changing   VBG            (VP*    change  01   1   speaker#2            *      (V*)  -
+bc/cctv/00/cctv_0004   17    5           to    IN            (PP*        -    -   -   speaker#2            *   (ARG2*   -
+bc/cctv/00/cctv_0004   17    6       cloudy    JJ         (NP*))))       -    -   -   speaker#2            *        *)  -
+bc/cctv/00/cctv_0004   17    7            ,     ,               *        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17    8          11     CD      (NP(NP(NP*        -    -   -   speaker#2   (QUANTITY*        *   -
+bc/cctv/00/cctv_0004   17    9      degrees   NNS               *)       -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17   10        below    IN            (PP*        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17   11         zero    CD          (NP*)))       -    -   -   speaker#2            *)       *   -
+bc/cctv/00/cctv_0004   17   12           to    IN            (PP*        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17   13           5     CD         (NP(NP*        -    -   -   speaker#2   (QUANTITY*        *   -
+bc/cctv/00/cctv_0004   17   14      degrees   NNS               *)       -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17   15        below    IN            (PP*        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17   16         zero    CD        (NP*)))))       -    -   -   speaker#2            *)       *   -
+bc/cctv/00/cctv_0004   17   17            .     .              *))       -    -   -   speaker#2            *        *   -
+
+bc/cctv/00/cctv_0004   17    0       Xi'an   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)       *   -
+bc/cctv/00/cctv_0004   17    1           ,     ,               *        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17    2      mostly    RB       (NP(ADJP*        -    -   -   speaker#2            *   (ARG3*   -
+bc/cctv/00/cctv_0004   17    3      cloudy    JJ               *)       -    -   -   speaker#2            *        *)  -
+bc/cctv/00/cctv_0004   17    4    changing   VBG            (VP*    change  01   1   speaker#2            *      (V*)  -
+bc/cctv/00/cctv_0004   17    5          to    IN            (PP*        -    -   -   speaker#2            *   (ARG2*   -
+bc/cctv/00/cctv_0004   17    6    overcast    JJ         (NP*))))       -    -   -   speaker#2            *        *)  -
+bc/cctv/00/cctv_0004   17    7           ,     ,               *        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17    8          to    IN            (PP*        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17    9          9     CD            (NP*        -    -   -   speaker#2   (QUANTITY*        *   -
+bc/cctv/00/cctv_0004   17   10     degrees   NNS              *))       -    -   -   speaker#2            *)       *   -
+bc/cctv/00/cctv_0004   17   11           .     .              *))       -    -   -   speaker#2            *        *   -
+
+bc/cctv/00/cctv_0004   17   0    Shijiazhuang   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1               ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2           sunny    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3               ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4              1     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5              to    TO               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   6             10     CD               *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   7         degrees   NNS               *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   8               .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17    0     Nanjing   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)       *   -
+bc/cctv/00/cctv_0004   17    1           ,     ,               *        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17    2      mostly    RB       (NP(ADJP*        -    -   -   speaker#2            *   (ARG3*   -
+bc/cctv/00/cctv_0004   17    3      cloudy    JJ               *)       -    -   -   speaker#2            *        *)  -
+bc/cctv/00/cctv_0004   17    4    changing   VBG            (VP*    change  01   1   speaker#2            *      (V*)  -
+bc/cctv/00/cctv_0004   17    5          to    IN            (PP*        -    -   -   speaker#2            *   (ARG2*   -
+bc/cctv/00/cctv_0004   17    6    overcast    JJ         (NP*))))       -    -   -   speaker#2            *        *)  -
+bc/cctv/00/cctv_0004   17    7           ,     ,               *        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17    8          6     CD         (NP(QP*        -    -   -   speaker#2    (CARDINAL)       *   -
+bc/cctv/00/cctv_0004   17    9          to    TO               *        -    -   -   speaker#2            *        *   -
+bc/cctv/00/cctv_0004   17   10         13     CD               *)       -    -   -   speaker#2   (QUANTITY*        *   -
+bc/cctv/00/cctv_0004   17   11     degrees   NNS               *)       -    -   -   speaker#2            *)       *   -
+bc/cctv/00/cctv_0004   17   12           .     .              *))       -    -   -   speaker#2            *        *   -
+
+bc/cctv/00/cctv_0004   17   0     Taipei   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2     cloudy    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4        18     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5         to    TO               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   6        24     CD               *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   7    degrees   NNS               *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   8          .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17   0    Guangzhou   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1            ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2        sunny    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3            ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4          17     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5           to    TO               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   6          26     CD               *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   7      degrees   NNS               *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   8            .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17    0      Dalian   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)        *   -
+bc/cctv/00/cctv_0004   17    1           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    2    overcast    JJ         (NP(NP*)       -    -   -   speaker#2            *    (ARG3*)  -
+bc/cctv/00/cctv_0004   17    3    changing   VBG            (VP*    change  01   1   speaker#2            *       (V*)  -
+bc/cctv/00/cctv_0004   17    4          to    IN            (PP*        -    -   -   speaker#2            *    (ARG2*   -
+bc/cctv/00/cctv_0004   17    5      mostly    RB       (NP(ADJP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    6      cloudy    JJ           *)))))       -    -   -   speaker#2            *         *)  -
+bc/cctv/00/cctv_0004   17    7           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    8          to    IN            (PP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    9          4     CD            (NP*        -    -   -   speaker#2   (QUANTITY*         *   -
+bc/cctv/00/cctv_0004   17   10     degrees   NNS              *))       -    -   -   speaker#2            *)        *   -
+bc/cctv/00/cctv_0004   17   11           .     .              *))       -    -   -   speaker#2            *         *   -
+
+bc/cctv/00/cctv_0004   17    0    Changzhou   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)        *   -
+bc/cctv/00/cctv_0004   17    1            ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    2        sunny    JJ         (NP(NP*)       -    -   -   speaker#2            *    (ARG3*)  -
+bc/cctv/00/cctv_0004   17    3     changing   VBG            (VP*    change  01   1   speaker#2            *       (V*)  -
+bc/cctv/00/cctv_0004   17    4           to    IN            (PP*        -    -   -   speaker#2            *    (ARG2*   -
+bc/cctv/00/cctv_0004   17    5       cloudy    JJ         (NP*))))       -    -   -   speaker#2            *         *)  -
+bc/cctv/00/cctv_0004   17    6            ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    7           5     CD         (NP(QP*        -    -   -   speaker#2    (CARDINAL)        *   -
+bc/cctv/00/cctv_0004   17    8           to    TO               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    9          13     CD               *)       -    -   -   speaker#2   (QUANTITY*         *   -
+bc/cctv/00/cctv_0004   17   10      degrees   NNS               *)       -    -   -   speaker#2            *)        *   -
+bc/cctv/00/cctv_0004   17   11            .     .              *))       -    -   -   speaker#2            *         *   -
+
+bc/cctv/00/cctv_0004   17    0     Luoyang   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)        *   -
+bc/cctv/00/cctv_0004   17    1           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    2       sunny    JJ         (NP(NP*)       -    -   -   speaker#2            *    (ARG3*)  -
+bc/cctv/00/cctv_0004   17    3    changing   VBG            (VP*    change  01   1   speaker#2            *       (V*)  -
+bc/cctv/00/cctv_0004   17    4          to    IN            (PP*        -    -   -   speaker#2            *    (ARG2*   -
+bc/cctv/00/cctv_0004   17    5      cloudy    JJ         (NP*))))       -    -   -   speaker#2            *         *)  -
+bc/cctv/00/cctv_0004   17    6           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    7          3     CD         (NP(QP*        -    -   -   speaker#2    (CARDINAL)        *   -
+bc/cctv/00/cctv_0004   17    8          to    TO               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    9         11     CD               *)       -    -   -   speaker#2   (QUANTITY*         *   -
+bc/cctv/00/cctv_0004   17   10     degrees   NNS               *)       -    -   -   speaker#2            *)        *   -
+bc/cctv/00/cctv_0004   17   11           .     .              *))       -    -   -   speaker#2            *         *   -
+
+bc/cctv/00/cctv_0004   17   0    Bangkok   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2     cloudy    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4        25     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5         to    TO               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   6        32     CD               *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   7    degrees   NNS               *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   8          .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17   0       New   NNP  (TOP(FRAG(NP*   -   -   -   speaker#2        (GPE*   -
+bc/cctv/00/cctv_0004   17   1     Delhi   NNP              *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   2         ,     ,              *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3     sunny    JJ         (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4         ,     ,              *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   5       10     CD        (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   6        to    TO              *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   7       24     CD              *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   8    degree    NN              *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   9         .     .             *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17   0      Seoul   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2      sunny    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4         2     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5         to    TO               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   6        10     CD               *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   7    degrees   NNS               *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   8          .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17   0      Tokyo   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2      sunny    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4         7     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5         to    TO               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   6        14     CD               *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   7    degrees   NNS               *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   8          .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17   0      London   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1           ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2    overcast    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3           ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4          5     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5          to    TO               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   6          9     CD               *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   7     degrees   NNS               *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   8           .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17    0      Moscow   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)        *   -
+bc/cctv/00/cctv_0004   17    1           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    2    overcast    JJ         (NP(NP*)       -    -   -   speaker#2            *    (ARG3*)  -
+bc/cctv/00/cctv_0004   17    3    changing   VBG            (VP*    change  01   1   speaker#2            *       (V*)  -
+bc/cctv/00/cctv_0004   17    4          to    IN            (PP*        -    -   -   speaker#2            *    (ARG2*   -
+bc/cctv/00/cctv_0004   17    5    moderate    JJ            (NP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    6        snow    NN            *))))     snow   -   -   speaker#2            *         *)  -
+bc/cctv/00/cctv_0004   17    7           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    8          2     CD      (NP(NP(NP*        -    -   -   speaker#2   (QUANTITY*         *   -
+bc/cctv/00/cctv_0004   17    9     degrees   NNS               *)       -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17   10       below    IN            (PP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17   11        zero    CD          (NP*)))       -    -   -   speaker#2            *)        *   -
+bc/cctv/00/cctv_0004   17   12          to    IN            (PP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17   13          1     CD            (NP*        -    -   -   speaker#2   (QUANTITY*         *   -
+bc/cctv/00/cctv_0004   17   14      degree    NN             *)))       -    -   -   speaker#2            *)        *   -
+bc/cctv/00/cctv_0004   17   15           .     .              *))       -    -   -   speaker#2            *         *   -
+
+bc/cctv/00/cctv_0004   17    0      Paris   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17    1          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    2     cloudy    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    3          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    4         1     CD      (NP(NP(NP*   -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17    5     degree    NN               *)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    6      below    IN            (PP*   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    7       zero    CD          (NP*)))  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17    8         to    IN            (PP*   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    9         4     CD            (NP*   -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   10    degrees   NNS             *)))  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   11          .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17    0     Vienna   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17    1          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    2     cloudy    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    3          ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    4         1     CD      (NP(NP(NP*   -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17    5     degree    NN               *)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    6      below    IN            (PP*   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    7       zero    CD          (NP*)))  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17    8         to    IN            (PP*   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17    9         2     CD            (NP*   -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   10    degrees   NNS             *)))  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   11          .     .              *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17   0        New   NNP  (TOP(FRAG(NP*   -   -   -   speaker#2        (GPE*   -
+bc/cctv/00/cctv_0004   17   1       York   NNP              *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   2          ,     ,              *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3     cloudy    JJ         (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4          ,     ,              *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   5         5     CD        (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   6         to    TO              *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   7        13     CD              *)  -   -   -   speaker#2   (QUANTITY*   -
+bc/cctv/00/cctv_0004   17   8    degrees   NNS              *)  -   -   -   speaker#2            *)  -
+bc/cctv/00/cctv_0004   17   9          .     .             *))  -   -   -   speaker#2            *   -
+
+bc/cctv/00/cctv_0004   17    0     Seattle   NNP   (TOP(FRAG(NP*)       -    -   -   speaker#2         (GPE)        *   -
+bc/cctv/00/cctv_0004   17    1           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    2       sleet    NN         (NP(NP*)    sleet   -   -   speaker#2            *    (ARG3*)  -
+bc/cctv/00/cctv_0004   17    3    changing   VBG            (VP*    change  01   1   speaker#2            *       (V*)  -
+bc/cctv/00/cctv_0004   17    4          to    IN            (PP*        -    -   -   speaker#2            *    (ARG2*   -
+bc/cctv/00/cctv_0004   17    5      medium    JJ            (NP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    6        snow    NN            *))))     snow   -   -   speaker#2            *         *)  -
+bc/cctv/00/cctv_0004   17    7           ,     ,               *        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    8          to    IN            (PP*        -    -   -   speaker#2            *         *   -
+bc/cctv/00/cctv_0004   17    9          3     CD            (NP*        -    -   -   speaker#2   (QUANTITY*         *   -
+bc/cctv/00/cctv_0004   17   10     degrees   NNS              *))       -    -   -   speaker#2            *)        *   -
+bc/cctv/00/cctv_0004   17   11           .     .              *))       -    -   -   speaker#2            *         *   -
+
+bc/cctv/00/cctv_0004   17   0    Washington   NNP   (TOP(FRAG(NP*)  -   -   -   speaker#2         (GPE)  -
+bc/cctv/00/cctv_0004   17   1             ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   2      overcast    JJ          (ADJP*)  -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   3             ,     ,               *   -   -   -   speaker#2            *   -
+bc/cctv/00/cctv_0004   17   4            8     CD         (NP(QP*   -   -   -   speaker#2    (CARDINAL)  -
+bc/cctv/00/cctv_0004   17   5            to    TO            *))))  -   -   -   speaker#2            *   -

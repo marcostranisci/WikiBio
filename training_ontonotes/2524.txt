@@ -1,0 +1,202 @@
+mz/sinorama/10/ectb_1035   7    0    Question    NN      (TOP(FRAG(NP*    question   -   1   -            *      *         *         *   -
+mz/sinorama/10/ectb_1035   7    1           #    NN                  *          -    -   -   -   (CARDINAL*      *         *         *   -
+mz/sinorama/10/ectb_1035   7    2          7     CD                  *)         -    -   -   -            *)     *         *         *   -
+mz/sinorama/10/ectb_1035   7    3           :     :                  *          -    -   -   -            *      *         *         *   -
+mz/sinorama/10/ectb_1035   7    4        What   WDT  (SBARQ(WHNP(WHNP*          -    -   -   -            *      *         *    (ARG1*   -
+mz/sinorama/10/ectb_1035   7    5        sort    NN                  *)       sort   -   1   -            *      *         *         *   -
+mz/sinorama/10/ectb_1035   7    6          of    IN               (PP*          -    -   -   -            *      *         *         *   -
+mz/sinorama/10/ectb_1035   7    7    problems   NNS             (NP*)))    problem   -   2   -            *      *         *         *)  -
+mz/sinorama/10/ectb_1035   7    8          do   VBP               (SQ*          do  01   -   -            *    (V*)        *         *   -
+mz/sinorama/10/ectb_1035   7    9         you   PRP               (NP*)         -    -   -   -            *      *    (ARG0*)   (ARG0*)  -
+mz/sinorama/10/ectb_1035   7   10        want   VBP               (VP*        want  01   1   -            *      *       (V*)        *   -
+mz/sinorama/10/ectb_1035   7   11          to    TO             (S(VP*          -    -   -   -            *      *    (ARG1*         *   -
+mz/sinorama/10/ectb_1035   7   12       solve    VB          (VP*))))))      solve  01   2   -            *      *         *)      (V*)  -
+mz/sinorama/10/ectb_1035   7   13           ?     .                 *))         -    -   -   -            *      *         *         *   -
+
+mz/sinorama/10/ectb_1035   7   0        What    WDT  (TOP(SBARQ(WHNP*         -    -   -   -   *      *        *   (ARG1*   -
+mz/sinorama/10/ectb_1035   7   1    problems    NNS                 *)   problem   -   2   -   *      *        *        *)  -
+mz/sinorama/10/ectb_1035   7   2          is    VBZ              (SQ*         be  03   -   -   *    (V*)       *        *   -
+mz/sinorama/10/ectb_1035   7   3        your   PRP$              (NP*         -    -   -   -   *      *   (ARG0*   (ARG0*   -
+mz/sinorama/10/ectb_1035   7   4     company     NN                 *    company   -   1   -   *      *        *        *   -
+mz/sinorama/10/ectb_1035   7   5        plan     NN                 *)      plan   -   2   -   *      *        *)       *)  -
+mz/sinorama/10/ectb_1035   7   6      trying    VBG              (VP*        try  01   1   -   *      *      (V*)       *   -
+mz/sinorama/10/ectb_1035   7   7          to     TO            (S(VP*         -    -   -   -   *      *   (ARG1*        *   -
+mz/sinorama/10/ectb_1035   7   8       solve     VB          (VP*)))))     solve  01   2   -   *      *        *)     (V*)  -
+mz/sinorama/10/ectb_1035   7   9           ?      .                *))        -    -   -   -   *      *        *        *   -
+
+mz/sinorama/10/ectb_1035   7    0          If     IN  (TOP(S(SBAR*        -    -   -   -   *             *      *    (ARGM-ADV*   -
+mz/sinorama/10/ectb_1035   7    1         you    PRP        (S(NP*)       -    -   -   -   *        (ARG0*)     *             *   -
+mz/sinorama/10/ectb_1035   7    2          ca     MD          (VP*        -    -   -   -   *             *      *             *   -
+mz/sinorama/10/ectb_1035   7    3         n't     RB             *        -    -   -   -   *    (ARGM-NEG*)     *             *   -
+mz/sinorama/10/ectb_1035   7    4      answer     VB          (VP*    answer  01   1   -   *           (V*)     *             *   -
+mz/sinorama/10/ectb_1035   7    5        this     DT          (NP*)       -    -   -   -   *        (ARG1*)     *             *   -
+mz/sinorama/10/ectb_1035   7    6     clearly     RB    (ADVP*)))))       -    -   -   -   *    (ARGM-MNR*)     *             *)  -
+mz/sinorama/10/ectb_1035   7    7           ,      ,             *        -    -   -   -   *             *      *             *   -
+mz/sinorama/10/ectb_1035   7    8        then     RB        (ADVP*)       -    -   -   -   *             *      *    (ARGM-ADV*)  -
+mz/sinorama/10/ectb_1035   7    9       maybe     RB        (ADVP*)       -    -   -   -   *             *      *    (ARGM-ADV*)  -
+mz/sinorama/10/ectb_1035   7   10         you    PRP          (NP*)       -    -   -   -   *             *      *        (ARG0*)  -
+mz/sinorama/10/ectb_1035   7   11      should     MD          (VP*        -    -   -   -   *             *      *    (ARGM-MOD*)  -
+mz/sinorama/10/ectb_1035   7   12          be     VB          (VP*        be  03   -   -   *             *    (V*)            *   -
+mz/sinorama/10/ectb_1035   7   13    worrying    VBG          (VP*     worry  02   1   -   *             *      *           (V*)  -
+mz/sinorama/10/ectb_1035   7   14       about     IN          (PP*        -    -   -   -   *             *      *        (ARG1*   -
+mz/sinorama/10/ectb_1035   7   15        your   PRP$          (NP*        -    -   -   -   *             *      *             *   -
+mz/sinorama/10/ectb_1035   7   16      future     NN         *)))))   future   -   4   -   *             *      *             *)  -
+mz/sinorama/10/ectb_1035   7   17           .      .            *))       -    -   -   -   *             *      *             *   -
+
+mz/sinorama/10/ectb_1035   7    0        Taiwanese     JJ          (TOP(S(NP*          -    -   -   -    (NORP)     *   (ARG0*   (ARG0*           *        *         *    (28
+mz/sinorama/10/ectb_1035   7    1    entrepreneurs    NNS                   *)         -    -   -   -        *      *        *)       *)          *        *         *     28)
+mz/sinorama/10/ectb_1035   7    2              are    VBP                (VP*          be  03   -   -        *    (V*)       *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7    3           facing    VBG                (VP*        face  01   1   -        *      *      (V*)       *           *        *         *      -
+mz/sinorama/10/ectb_1035   7    4              the     DT             (NP(NP*          -    -   -   -        *      *   (ARG1*        *           *        *         *    (48
+mz/sinorama/10/ectb_1035   7    5          problem     NN                   *)    problem   -   1   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7    6               of     IN                (PP*          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7    7           having    VBG              (S(VP*        have  03   2   -        *      *        *      (V*)          *        *         *      -
+mz/sinorama/10/ectb_1035   7    8               an     DT          (NP(NP(NP*          -    -   -   -        *      *        *   (ARG1*      (ARG1*        *         *      -
+mz/sinorama/10/ectb_1035   7    9       incomplete     JJ                   *          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   10            chain     NN                   *)      chain   -   1   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   11               of     IN                (PP*          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   12            value     NN              (NP*)))      value   -   3   -        *      *        *        *           *)       *         *      -
+mz/sinorama/10/ectb_1035   7   13                ,      ,                   *          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   14            which    WDT         (SBAR(WHNP*)         -    -   -   -        *      *        *        *    (R-ARG1*)       *         *      -
+mz/sinorama/10/ectb_1035   7   15               is    VBZ              (S(VP*          be  01   1   -        *      *        *        *         (V*)       *         *      -
+mz/sinorama/10/ectb_1035   7   16                a     DT             (NP(NP*          -    -   -   -        *      *        *        *      (ARG2*        *         *      -
+mz/sinorama/10/ectb_1035   7   17           result     NN                   *)     result   -   1   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   18               of     IN                (PP*          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   19            their   PRP$              (S(NP*          -    -   -   -        *      *        *        *           *   (ARG0*         *    (28)
+mz/sinorama/10/ectb_1035   7   20        customers    NNS                   *)         -    -   -   -        *      *        *        *           *        *)        *      -
+mz/sinorama/10/ectb_1035   7   21         handling    VBG                (VP*      handle  01   2   -        *      *        *        *           *      (V*)        *      -
+mz/sinorama/10/ectb_1035   7   22              the     DT             (NP(NP*          -    -   -   -        *      *        *        *           *   (ARG1*         *      -
+mz/sinorama/10/ectb_1035   7   23       activities    NNS                   *)   activity   -   1   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   24             with     IN                (PP*          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   25              the     DT                (NP*          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   26         greatest    JJS                   *          -    -   -   -        *      *        *        *           *        *         *      -
+mz/sinorama/10/ectb_1035   7   27            added    VBN                   *         add  02   -   -        *      *        *        *           *        *       (V*)     -
+mz/sinorama/10/ectb_1035   7   28            value     NN   *)))))))))))))))))      value   -   3   -        *      *        *)       *)          *)       *)   (ARG1*)    48)
+mz/sinorama/10/ectb_1035   7   29                .      .                  *))         -    -   -   -        *      *        *        *           *        *         *      -
+
+mz/sinorama/10/ectb_1035   7    0       This     DT   (TOP(S(NP*)        -    -   -   -   *    (ARG1*)   (48)
+mz/sinorama/10/ectb_1035   7    1         is    VBZ         (VP*         be  01   1   -   *       (V*)     -
+mz/sinorama/10/ectb_1035   7    2          a     DT   (NP(NP(NP*         -    -   -   -   *    (ARG2*      -
+mz/sinorama/10/ectb_1035   7    3     result     NN            *)    result   -   1   -   *         *      -
+mz/sinorama/10/ectb_1035   7    4         of     IN         (PP*         -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1035   7    5        the     DT         (NP*         -    -   -   -   *         *    (24
+mz/sinorama/10/ectb_1035   7    6    problem     NN          *)))   problem   -   1   -   *         *     24)
+mz/sinorama/10/ectb_1035   7    7          ,      ,            *         -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1035   7    8        not     CC            *         -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1035   7    9        its   PRP$         (NP*         -    -   -   -   *         *    (24)
+mz/sinorama/10/ectb_1035   7   10      cause     NN          *)))     cause   -   1   -   *         *)     -
+mz/sinorama/10/ectb_1035   7   11          !      .           *))        -    -   -   -   *         *      -
+
+mz/sinorama/10/ectb_1035   7    0              The    DT      (TOP(S(NP*             -    -   -   -       *   (ARG1*      *             *             *        *             *        *    (24
+mz/sinorama/10/ectb_1035   7    1             real    JJ               *             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7    2          problem    NN               *)       problem   -   1   -       *        *)     *             *             *        *             *        *     24)
+mz/sinorama/10/ectb_1035   7    3               is   VBZ            (VP*             be  01   1   -       *      (V*)     *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7    4             that    IN          (SBAR*             -    -   -   -       *   (ARG2*      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7    5    entrepreneurs   NNS     (S(S(NP(NP*)            -    -   -   -       *        *      *        (ARG0*        (ARG0*   (ARG0*             *        *    (50
+mz/sinorama/10/ectb_1035   7    6               in    IN            (PP*             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7    7           Taiwan   NNP          (NP*)))            -    -   -   -    (GPE)       *      *             *)            *)       *)            *        *     50)
+mz/sinorama/10/ectb_1035   7    8               do   VBP            (VP*             do  01   -   -       *        *    (V*)            *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7    9              not    RB               *             -    -   -   -       *        *      *    (ARGM-NEG*)            *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   10             make    VB            (VP*           make  01   2   -       *        *      *           (V*)            *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   11            clear    JJ       (NP(ADJP*             -    -   -   -       *        *      *        (ARG1*             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   12           enough    JJ               *)            -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   13      definitions   NNS               *)            -    -   -   -       *        *      *             *)            *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   14             when   WRB   (SBAR(WHADVP*)            -    -   -   -       *        *      *    (ARGM-TMP*    (ARGM-TMP*)       *             *        *      -
+mz/sinorama/10/ectb_1035   7   15           trying   VBG          (S(VP*            try  01   1   -       *        *      *             *           (V*)       *             *        *      -
+mz/sinorama/10/ectb_1035   7   16               to    TO          (S(VP*             -    -   -   -       *        *      *             *        (ARG1*        *             *        *      -
+mz/sinorama/10/ectb_1035   7   17          resolve    VB            (VP*        resolve  01   2   -       *        *      *             *             *      (V*)            *        *      -
+mz/sinorama/10/ectb_1035   7   18                a    DT            (NP*             -    -   -   -       *        *      *             *             *   (ARG1*             *        *    (38
+mz/sinorama/10/ectb_1035   7   19          problem    NN      *))))))))))       problem   -   2   -       *        *      *             *)            *)       *)            *        *     38)
+mz/sinorama/10/ectb_1035   7   20                ,     ,               *             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   21               or    CC               *             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   22             they   PRP          (S(NP*)            -    -   -   -       *        *      *             *             *        *        (ARG0*)       *    (50)
+mz/sinorama/10/ectb_1035   7   23         narrowly    RB          (ADVP*)            -    -   -   -       *        *      *             *             *        *    (ARGM-MNR*)       *      -
+mz/sinorama/10/ectb_1035   7   24             look   VBP            (VP*           look  01   1   -       *        *      *             *             *        *           (V*)       *      -
+mz/sinorama/10/ectb_1035   7   25               at    IN            (PP*             -    -   -   -       *        *      *             *             *        *        (ARG1*        *      -
+mz/sinorama/10/ectb_1035   7   26                "    ``               *             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   27    manufacturing    NN           (NP*))   manufacture   -   1   -       *        *      *             *             *        *             *)       *      -
+mz/sinorama/10/ectb_1035   7   28                "    ``               *             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   29               as    IN            (PP*             -    -   -   -       *        *      *             *             *        *        (ARG2*        *      -
+mz/sinorama/10/ectb_1035   7   30                a    DT         (NP(NP*             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   31              way    NN               *)           way   -   2   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   32               of    IN            (PP*             -    -   -   -       *        *      *             *             *        *             *        *      -
+mz/sinorama/10/ectb_1035   7   33          solving   VBG          (S(VP*          solve  01   -   -       *        *      *             *             *        *             *      (V*)     -
+mz/sinorama/10/ectb_1035   7   34              the    DT            (NP*             -    -   -   -       *        *      *             *             *        *             *   (ARG1*    (38
+mz/sinorama/10/ectb_1035   7   35          problem    NN     *)))))))))))       problem   -   2   -       *        *)     *             *             *        *             *)       *)    38)
+mz/sinorama/10/ectb_1035   7   36                .     .              *))            -    -   -   -       *        *      *             *             *        *             *        *      -
+
+mz/sinorama/10/ectb_1035   7    0     Raising   VBG  (TOP(S(S(VP*       raise  01   -   -   *      (V*)     *   (ARG0*        *         *      -
+mz/sinorama/10/ectb_1035   7    1         one    CD       (NP(NP*          -    -   -   -   *   (ARG1*      *        *        *         *      -
+mz/sinorama/10/ectb_1035   7    2          's   POS             *)         -    -   -   -   *        *      *        *        *         *      -
+mz/sinorama/10/ectb_1035   7    3     ability    NN             *     ability   -   1   -   *        *      *        *        *         *      -
+mz/sinorama/10/ectb_1035   7    4          to    TO        (S(VP*          -    -   -   -   *        *      *        *        *         *      -
+mz/sinorama/10/ectb_1035   7    5    innovate    VB     (VP*))))))   innovate  01   -   -   *        *)   (V*)       *)       *         *      -
+mz/sinorama/10/ectb_1035   7    6       means   VBZ          (VP*        mean  01   4   -   *        *      *      (V*)       *         *    (19)
+mz/sinorama/10/ectb_1035   7    7     raising   VBG        (S(VP*       raise  01   -   -   *        *      *   (ARG1*      (V*)        *      -
+mz/sinorama/10/ectb_1035   7    8         one    CD       (NP(NP*          -    -   -   -   *        *      *        *   (ARG1*         *      -
+mz/sinorama/10/ectb_1035   7    9          's   POS             *)         -    -   -   -   *        *      *        *        *         *      -
+mz/sinorama/10/ectb_1035   7   10     ability    NN             *     ability   -   1   -   *        *      *        *        *         *      -
+mz/sinorama/10/ectb_1035   7   11          to    TO        (S(VP*          -    -   -   -   *        *      *        *        *         *      -
+mz/sinorama/10/ectb_1035   7   12       solve    VB          (VP*       solve  01   2   -   *        *      *        *        *       (V*)     -
+mz/sinorama/10/ectb_1035   7   13    problems   NNS   (NP*))))))))    problem   -   2   -   *        *      *        *)       *)   (ARG1*)     -
+mz/sinorama/10/ectb_1035   7   14           .     .            *))         -    -   -   -   *        *      *        *        *         *      -
+
+mz/sinorama/10/ectb_1035   7   0           This    DT   (TOP(S(NP*)           -    -   -   -   *    (ARG0*)        *    (19)
+mz/sinorama/10/ectb_1035   7   1          leads   VBZ         (VP*          lead  01   1   -   *       (V*)        *      -
+mz/sinorama/10/ectb_1035   7   2             us   PRP         (NP*)           -    -   -   -   *    (ARG1*)        *      -
+mz/sinorama/10/ectb_1035   7   3             to    IN         (PP*            -    -   -   -   *    (ARG4*         *      -
+mz/sinorama/10/ectb_1035   7   4            the    DT         (NP*            -    -   -   -   *         *         *      -
+mz/sinorama/10/ectb_1035   7   5      following   VBG            *        follow  01   -   -   *         *       (V*)     -
+mz/sinorama/10/ectb_1035   7   6    conclusions   NNS          *)))   conclusion   -   1   -   *         *)   (ARG1*)     -
+mz/sinorama/10/ectb_1035   7   7              :     :           *))           -    -   -   -   *         *         *      -
+
+mz/sinorama/10/ectb_1035   7    0            1.    LS   (TOP(S(LST*)         -    -   -   -    (CARDINAL)       *        *        *   -
+mz/sinorama/10/ectb_1035   7    1       Finding   VBG        (S(VP*        find  01   -   -            *      (V*)  (ARG1*        *   -
+mz/sinorama/10/ectb_1035   7    2             a    DT          (NP*          -    -   -   -            *   (ARG1*        *        *   -
+mz/sinorama/10/ectb_1035   7    3      solution    NN           *)))   solution   -   4   -            *        *)       *)       *   -
+mz/sinorama/10/ectb_1035   7    4            is   VBZ          (VP*          be  01   -   -            *        *      (V*)       *   -
+mz/sinorama/10/ectb_1035   7    5       finding   VBG        (S(VP*        find  01   1   -            *        *   (ARG2*      (V*)  -
+mz/sinorama/10/ectb_1035   7    6             a    DT          (NP*          -    -   -   -            *        *        *   (ARG1*   -
+mz/sinorama/10/ectb_1035   7    7    profitable    JJ             *          -    -   -   -            *        *        *        *   -
+mz/sinorama/10/ectb_1035   7    8        market    NN             *      market   -   1   -            *        *        *        *   -
+mz/sinorama/10/ectb_1035   7    9          base    NN          *))))       base   -   8   -            *        *        *)       *)  -
+mz/sinorama/10/ectb_1035   7   10             .     .            *))         -    -   -   -            *        *        *        *   -
+
+mz/sinorama/10/ectb_1035   7    0         2.    LS   (TOP(S(LST*)        -    -   -   -    (CARDINAL)            *        *     -
+mz/sinorama/10/ectb_1035   7    1        You   PRP          (NP*)        -    -   -   -            *        (ARG0*)       *     -
+mz/sinorama/10/ectb_1035   7    2        can    MD          (VP*         -    -   -   -            *    (ARGM-MOD*)       *     -
+mz/sinorama/10/ectb_1035   7    3       only    RB        (ADVP*)        -    -   -   -            *    (ARGM-ADV*)       *     -
+mz/sinorama/10/ectb_1035   7    4      solve    VB          (VP*      solve  01   2   -            *           (V*)       *     -
+mz/sinorama/10/ectb_1035   7    5        the    DT          (NP*         -    -   -   -            *        (ARG1*        *   (29
+mz/sinorama/10/ectb_1035   7    6    problem    NN             *)   problem   -   2   -            *             *)       *    29)
+mz/sinorama/10/ectb_1035   7    7         by    IN          (PP*         -    -   -   -            *        (ARG2*        *     -
+mz/sinorama/10/ectb_1035   7    8    finding   VBG        (S(VP*       find  01   1   -            *             *      (V*)    -
+mz/sinorama/10/ectb_1035   7    9        the    DT          (NP*         -    -   -   -            *             *   (ARG1*   (29
+mz/sinorama/10/ectb_1035   7   10    problem    NN        *))))))   problem   -   2   -            *             *)       *)   29)
+mz/sinorama/10/ectb_1035   7   11          .     .            *))        -    -   -   -            *             *        *     -
+
+mz/sinorama/10/ectb_1035   7   0          3.     LS   (TOP(S(LST*)        -    -   -   -    (CARDINAL)       *        *   -
+mz/sinorama/10/ectb_1035   7   1         Put     VB          (VP*        put  01   4   -            *      (V*)       *   -
+mz/sinorama/10/ectb_1035   7   2        your   PRP$          (NP*         -    -   -   -            *   (ARG1*        *   -
+mz/sinorama/10/ectb_1035   7   3    energies    NNS             *)    energy   -   2   -            *        *)       *   -
+mz/sinorama/10/ectb_1035   7   4        into     IN          (PP*         -    -   -   -            *   (ARG2*        *   -
+mz/sinorama/10/ectb_1035   7   5     solving    VBG        (S(VP*      solve  01   -   -            *        *      (V*)  -
+mz/sinorama/10/ectb_1035   7   6       today     NN       (NP(NP*      today   -   1   -        (DATE)       *   (ARG1*   -
+mz/sinorama/10/ectb_1035   7   7          's    POS             *)        -    -   -   -            *        *        *   -
+mz/sinorama/10/ectb_1035   7   8    problems    NNS         *)))))   problem   -   2   -            *        *)       *)  -
+mz/sinorama/10/ectb_1035   7   9           .      .            *))        -    -   -   -            *        *        *   -
+
+mz/sinorama/10/ectb_1035   7    0          4.     LS   (TOP(S(LST*)        -    -   -   -    (CARDINAL)       *         *             *      *   -
+mz/sinorama/10/ectb_1035   7    1         The     DT       (NP(NP*         -    -   -   -            *   (ARG1*         *        (ARG0*      *   -
+mz/sinorama/10/ectb_1035   7    2    problems    NNS             *)   problem   -   2   -            *        *)        *             *      *   -
+mz/sinorama/10/ectb_1035   7    3     created    VBN          (VP*     create  01   1   -            *      (V*)        *             *      *   -
+mz/sinorama/10/ectb_1035   7    4          by     IN          (PP*         -    -   -   -            *   (ARG0*         *             *      *   -
+mz/sinorama/10/ectb_1035   7    5        your   PRP$          (NP*         -    -   -   -            *        *    (ARG0*)            *      *   -
+mz/sinorama/10/ectb_1035   7    6     actions    NNS          *))))    action  01   1   -            *        *)      (V*)            *)     *   -
+mz/sinorama/10/ectb_1035   7    7      should     MD          (VP*         -    -   -   -            *        *         *    (ARGM-MOD*)     *   -
+mz/sinorama/10/ectb_1035   7    8         not     RB             *         -    -   -   -            *        *         *    (ARGM-NEG*)     *   -
+mz/sinorama/10/ectb_1035   7    9      exceed     VB          (VP*     exceed  01   1   -            *        *         *           (V*)     *   -
+mz/sinorama/10/ectb_1035   7   10         the     DT       (NP(NP*         -    -   -   -            *        *         *        (ARG1*      *   -
+mz/sinorama/10/ectb_1035   7   11    problems    NNS             *)   problem   -   2   -            *        *         *             *      *   -
+mz/sinorama/10/ectb_1035   7   12      solved    VBN       (VP*))))     solve  01   -   -            *        *         *             *)   (V*)  -
+mz/sinorama/10/ectb_1035   7   13           .      .            *))        -    -   -   -            *        *         *             *      *   -

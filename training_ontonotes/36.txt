@@ -1,0 +1,675 @@
+bc/msnbc/00/msnbc_0006   11    0          What    WP   (TOP(S(SBAR(WHNP*)          -    -   -    Andrea_Mitchel           *         *   (ARG1*      *             *          -
+bc/msnbc/00/msnbc_0006   11    1          they   PRP              (S(NP*)          -    -   -    Andrea_Mitchel           *    (ARG0*)       *      *             *        (93)
+bc/msnbc/00/msnbc_0006   11    2    apologized   VBD                (VP*    apologize  01   1    Andrea_Mitchel           *       (V*)       *      *             *          -
+bc/msnbc/00/msnbc_0006   11    3           for    IN             (PP*))))          -    -   -    Andrea_Mitchel           *    (ARG1*)       *)     *             *          -
+bc/msnbc/00/msnbc_0006   11    4            is   VBZ                (VP*           be  01   1    Andrea_Mitchel           *         *      (V*)     *             *          -
+bc/msnbc/00/msnbc_0006   11    5          that    IN              (SBAR*           -    -   -    Andrea_Mitchel           *         *   (ARG2*      *             *          -
+bc/msnbc/00/msnbc_0006   11    6           one    CD        (S(NP(NP(NP*)          -    -   -    Andrea_Mitchel   (CARDINAL)        *        *      *        (ARG0*          -
+bc/msnbc/00/msnbc_0006   11    7            of    IN                (PP*           -    -   -    Andrea_Mitchel           *         *        *      *             *          -
+bc/msnbc/00/msnbc_0006   11    8           the    DT                (NP*           -    -   -    Andrea_Mitchel           *         *        *      *             *       (181
+bc/msnbc/00/msnbc_0006   11    9     companies   NNS                 *)))     company   -   1    Andrea_Mitchel           *         *        *      *             *        181)
+bc/msnbc/00/msnbc_0006   11   10            or    CC                   *           -    -   -    Andrea_Mitchel           *         *        *      *             *          -
+bc/msnbc/00/msnbc_0006   11   11           two    CD             (NP(NP*)          -    -   -    Andrea_Mitchel   (CARDINAL)        *        *      *             *        (89
+bc/msnbc/00/msnbc_0006   11   12            of    IN                (PP*           -    -   -    Andrea_Mitchel           *         *        *      *             *          -
+bc/msnbc/00/msnbc_0006   11   13           the    DT                (NP*           -    -   -    Andrea_Mitchel           *         *        *      *             *       (181
+bc/msnbc/00/msnbc_0006   11   14     companies   NNS                *))))     company   -   1    Andrea_Mitchel           *         *        *      *             *)   181)|89)
+bc/msnbc/00/msnbc_0006   11   15           did   VBD                (VP*           do  01   -    Andrea_Mitchel           *         *        *    (V*)            *          -
+bc/msnbc/00/msnbc_0006   11   16           not    RB                   *           -    -   -    Andrea_Mitchel           *         *        *      *    (ARGM-NEG*)         -
+bc/msnbc/00/msnbc_0006   11   17          have    VB                (VP*         have  03   2    Andrea_Mitchel           *         *        *      *           (V*)         -
+bc/msnbc/00/msnbc_0006   11   18     contracts   NNS           (NP*))))))    contract   -   1    Andrea_Mitchel           *         *        *)     *        (ARG1*)         -
+bc/msnbc/00/msnbc_0006   11   19            /.     .                  *))          -    -   -    Andrea_Mitchel           *         *        *      *             *          -
+
+bc/msnbc/00/msnbc_0006   11   0          Two    CD   (TOP(NP(NP*)        -   -   -    Bill_Bennett   (CARDINAL)   (89
+bc/msnbc/00/msnbc_0006   11   1           of    IN          (PP*         -   -   -    Bill_Bennett           *      -
+bc/msnbc/00/msnbc_0006   11   2          the    DT          (NP*         -   -   -    Bill_Bennett           *   (181
+bc/msnbc/00/msnbc_0006   11   3    companies   NNS            *))   company  -   1    Bill_Bennett           *    181)
+bc/msnbc/00/msnbc_0006   11   4           /.     .            *))        -   -   -    Bill_Bennett           *     89)
+
+bc/msnbc/00/msnbc_0006   11   0      Big   JJ  (TOP(NP(NP*       -   -   -    Bill_Bennett  *      -
+bc/msnbc/00/msnbc_0006   11   1      big   JJ            *       -   -   -    Bill_Bennett  *      -
+bc/msnbc/00/msnbc_0006   11   2     part   NN            *)    part  -   1    Bill_Bennett  *      -
+bc/msnbc/00/msnbc_0006   11   3       of   IN         (PP*       -   -   -    Bill_Bennett  *      -
+bc/msnbc/00/msnbc_0006   11   4      the   DT         (NP*       -   -   -    Bill_Bennett  *   (208
+bc/msnbc/00/msnbc_0006   11   5    story   NN           *))   story  -   1    Bill_Bennett  *    208)
+bc/msnbc/00/msnbc_0006   11   6       /.    .           *))      -   -   -    Bill_Bennett  *      -
+
+bc/msnbc/00/msnbc_0006   11   0            But    CC  (TOP(FRAG*             -    -   -    Andrea_Mitchel  *      *      *   -
+bc/msnbc/00/msnbc_0006   11   1           that    IN      (SBAR*             -    -   -    Andrea_Mitchel  *      *      *   -
+bc/msnbc/00/msnbc_0006   11   2            the    DT      (S(NP*             -    -   -    Andrea_Mitchel  *      *      *   -
+bc/msnbc/00/msnbc_0006   11   3    information    NN           *)   information   -   1    Andrea_Mitchel  *      *      *   -
+bc/msnbc/00/msnbc_0006   11   4            was   VBD        (VP*             be  03   -    Andrea_Mitchel  *    (V*)     *   -
+bc/msnbc/00/msnbc_0006   11   5          still    RB      (ADVP*)            -    -   -    Andrea_Mitchel  *      *      *   -
+bc/msnbc/00/msnbc_0006   11   6          being   VBG     (VP*))))            be  03   -    Andrea_Mitchel  *      *    (V*)  -
+bc/msnbc/00/msnbc_0006   11   7            /-      .          *))            -    -   -    Andrea_Mitchel  *      *      *   -
+
+bc/msnbc/00/msnbc_0006   11   0    Yeah   UH  (TOP(INTJ*   -   -   -    Dana_Priest  *   -
+bc/msnbc/00/msnbc_0006   11   1      /.    .          *))  -   -   -    Dana_Priest  *   -
+
+bc/msnbc/00/msnbc_0006   11   0        The    DT  (TOP(S(NP*         -    -   -    Dana_Priest  *        (ARG1*   -
+bc/msnbc/00/msnbc_0006   11   1    program    NN           *)   program   -   3    Dana_Priest  *             *)  -
+bc/msnbc/00/msnbc_0006   11   2        was   VBD        (VP*         be  01   1    Dana_Priest  *           (V*)  -
+bc/msnbc/00/msnbc_0006   11   3      still    RB      (ADVP*)        -    -   -    Dana_Priest  *    (ARGM-TMP*)  -
+bc/msnbc/00/msnbc_0006   11   4      valid    JJ     (ADJP*))        -    -   -    Dana_Priest  *        (ARG2*)  -
+bc/msnbc/00/msnbc_0006   11   5         /.     .          *))        -    -   -    Dana_Priest  *             *   -
+
+bc/msnbc/00/msnbc_0006   11   0            But   CC  (TOP(S*       -   -   -    Andrea_Mitchel  *      -
+bc/msnbc/00/msnbc_0006   11   1            the   DT  (NP(NP*       -   -   -    Andrea_Mitchel  *      -
+bc/msnbc/00/msnbc_0006   11   2    fundamental   JJ        *       -   -   -    Andrea_Mitchel  *      -
+bc/msnbc/00/msnbc_0006   11   3           part   NN        *)    part  -   1    Andrea_Mitchel  *      -
+bc/msnbc/00/msnbc_0006   11   4             of   IN     (PP*       -   -   -    Andrea_Mitchel  *      -
+bc/msnbc/00/msnbc_0006   11   5            the   DT     (NP*       -   -   -    Andrea_Mitchel  *   (208
+bc/msnbc/00/msnbc_0006   11   6          story   NN      *)))   story  -   1    Andrea_Mitchel  *    208)
+bc/msnbc/00/msnbc_0006   11   7            /-     .       *))      -   -   -    Andrea_Mitchel  *      -
+
+bc/msnbc/00/msnbc_0006   11    0      big    JJ  (TOP(S(NP(NP(ADJP*       -    -   -    Bill_Bennett  *         *      -
+bc/msnbc/00/msnbc_0006   11    1      big    JJ                   *       -    -   -    Bill_Bennett  *         *      -
+bc/msnbc/00/msnbc_0006   11    2      big    JJ                   *)      -    -   -    Bill_Bennett  *         *      -
+bc/msnbc/00/msnbc_0006   11    3     part    NN                   *)    part   -   1    Bill_Bennett  *         *      -
+bc/msnbc/00/msnbc_0006   11    4       of    IN                (PP*       -    -   -    Bill_Bennett  *         *      -
+bc/msnbc/00/msnbc_0006   11    5      the    DT                (NP*       -    -   -    Bill_Bennett  *         *   (208
+bc/msnbc/00/msnbc_0006   11    6    story    NN                 *)))   story   -   1    Bill_Bennett  *         *    208)
+bc/msnbc/00/msnbc_0006   11    7     they   PRP                (NP*)      -    -   -    Bill_Bennett  *    (ARG0*)   (93)
+bc/msnbc/00/msnbc_0006   11    8      got   VBD                (VP*      get  04   3    Bill_Bennett  *       (V*)     -
+bc/msnbc/00/msnbc_0006   11    9    wrong    JJ          (S(ADJP*)))      -    -   -    Bill_Bennett  *    (ARG1*)     -
+bc/msnbc/00/msnbc_0006   11   10       /.     .                  *))      -    -   -    Bill_Bennett  *         *      -
+
+bc/msnbc/00/msnbc_0006   11    0        All     RB    (TOP(S(ADVP*       -    -   -    Bill_Bennett  *   (ARGM-DIS*      *             *   -
+bc/msnbc/00/msnbc_0006   11    1      right     RB               *)      -    -   -    Bill_Bennett  *            *)     *             *   -
+bc/msnbc/00/msnbc_0006   11    2      check     VB            (VP*    check  01   2    Bill_Bennett  *          (V*)     *             *   -
+bc/msnbc/00/msnbc_0006   11    3       your   PRP$            (NP*       -    -   -    Bill_Bennett  *       (ARG1*      *             *   -
+bc/msnbc/00/msnbc_0006   11    4      facts    NNS               *)    fact   -   1    Bill_Bennett  *            *)     *             *   -
+bc/msnbc/00/msnbc_0006   11    5       when    WRB   (SBAR(WHADVP*)      -    -   -    Bill_Bennett  *   (ARGM-TMP*      *    (ARGM-TMP*)  -
+bc/msnbc/00/msnbc_0006   11    6        you    PRP          (S(NP*)      -    -   -    Bill_Bennett  *            *      *        (ARG0*)  -
+bc/msnbc/00/msnbc_0006   11    7        're    VBP            (VP*       be  03   -    Bill_Bennett  *            *    (V*)            *   -
+bc/msnbc/00/msnbc_0006   11    8    running    VBG            (VP*      run  09   6    Bill_Bennett  *            *      *           (V*)  -
+bc/msnbc/00/msnbc_0006   11    9          a     DT            (NP*       -    -   -    Bill_Bennett  *            *      *        (ARG1*   -
+bc/msnbc/00/msnbc_0006   11   10      front     JJ               *       -    -   -    Bill_Bennett  *            *      *             *   -
+bc/msnbc/00/msnbc_0006   11   11       page     NN          *))))))    page   -   1    Bill_Bennett  *            *)     *             *)  -
+bc/msnbc/00/msnbc_0006   11   12         /.      .              *))      -    -   -    Bill_Bennett  *            *      *             *   -
+
+bc/msnbc/00/msnbc_0006   11   0       I   PRP   (TOP(S(NP*)     -    -   -    Andrea_Mitchel  *      *   -
+bc/msnbc/00/msnbc_0006   11   1    have   VBP         (VP*)   have  01   -    Andrea_Mitchel  *    (V*)  -
+bc/msnbc/00/msnbc_0006   11   2      /.     .           *))     -    -   -    Andrea_Mitchel  *      *   -
+
+bc/msnbc/00/msnbc_0006   11    0       when    WRB   (TOP(S(SBAR(WHADVP*)      -    -   -    Bill_Bennett      *      *    (ARGM-TMP*)  (ARGM-TMP*        *      -
+bc/msnbc/00/msnbc_0006   11    1       they    PRP                (S(NP*)      -    -   -    Bill_Bennett      *      *        (ARG0*)           *        *    (93)
+bc/msnbc/00/msnbc_0006   11    2        're    VBP                  (VP*       be  03   -    Bill_Bennett      *    (V*)            *            *        *      -
+bc/msnbc/00/msnbc_0006   11    3    running    VBG                  (VP*      run  09   6    Bill_Bennett      *      *           (V*)           *        *      -
+bc/msnbc/00/msnbc_0006   11    4      front     JJ                  (NP*       -    -   -    Bill_Bennett      *      *        (ARG1*            *        *      -
+bc/msnbc/00/msnbc_0006   11    5       page     NN                 *)))))    page   -   1    Bill_Bennett      *      *             *)           *)       *      -
+bc/msnbc/00/msnbc_0006   11    6        USA    NNP                  (NP*       -    -   -    Bill_Bennett  (ORG*      *             *       (ARG0*   (ARG0*    (93
+bc/msnbc/00/msnbc_0006   11    7      Today    NNP                     *)      -    -   -    Bill_Bennett      *)     *             *            *)       *)    93)
+bc/msnbc/00/msnbc_0006   11    8      needs    VBZ                  (VP*     need  01   2    Bill_Bennett      *      *             *          (V*)       *      -
+bc/msnbc/00/msnbc_0006   11    9         to     TO                (S(VP*       -    -   -    Bill_Bennett      *      *             *       (ARG1*        *      -
+bc/msnbc/00/msnbc_0006   11   10      check     VB                  (VP*    check  01   2    Bill_Bennett      *      *             *            *      (V*)     -
+bc/msnbc/00/msnbc_0006   11   11        its   PRP$                  (NP*       -    -   -    Bill_Bennett      *      *             *            *   (ARG1*    (93)
+bc/msnbc/00/msnbc_0006   11   12      facts    NNS                 *)))))    fact   -   1    Bill_Bennett      *      *             *            *)       *)     -
+bc/msnbc/00/msnbc_0006   11   13         /.      .                    *))      -    -   -    Bill_Bennett      *      *             *            *        *      -
+
+bc/msnbc/00/msnbc_0006   11   0       and    CC  (TOP(FRAG*       -   -   -    Bill_Bennett      *      -
+bc/msnbc/00/msnbc_0006   11   1       now    RB      (ADVP*)      -   -   -    Bill_Bennett      *      -
+bc/msnbc/00/msnbc_0006   11   2      this    DT     (NP(NP*       -   -   -    Bill_Bennett      *      -
+bc/msnbc/00/msnbc_0006   11   3     story    NN           *)   story  -   1    Bill_Bennett      *      -
+bc/msnbc/00/msnbc_0006   11   4        uh    UH      (INTJ*)      -   -   -    Bill_Bennett      *      -
+bc/msnbc/00/msnbc_0006   11   5        on    IN        (PP*       -   -   -    Bill_Bennett      *      -
+bc/msnbc/00/msnbc_0006   11   6       the    DT        (NP*       -   -   -    Bill_Bennett      *   (165
+bc/msnbc/00/msnbc_0006   11   7    @SWIFT   NNP         *)))      -   -   -    Bill_Bennett   (ORG)   165)
+bc/msnbc/00/msnbc_0006   11   8        /.     .          *))      -   -   -    Bill_Bennett      *      -
+
+bc/msnbc/00/msnbc_0006   11   0            And    CC     (TOP(S*             -    -   -    Bill_Bennett  *      *    (ARGM-DIS*)            *      *   -
+bc/msnbc/00/msnbc_0006   11   1         people   NNS        (NP*)        people   -   1    Bill_Bennett  *      *        (ARG0*)            *      *   -
+bc/msnbc/00/msnbc_0006   11   2            are   VBP        (VP*             be  03   -    Bill_Bennett  *    (V*)            *             *      *   -
+bc/msnbc/00/msnbc_0006   11   3         saying   VBG        (VP*            say  01   1    Bill_Bennett  *      *           (V*)            *      *   -
+bc/msnbc/00/msnbc_0006   11   4             is   VBZ        (SQ*             be  02   3    Bill_Bennett  *      *        (ARG1*           (V*)     *   -
+bc/msnbc/00/msnbc_0006   11   5          there    EX        (NP*)            -    -   -    Bill_Bennett  *      *             *             *      *   -
+bc/msnbc/00/msnbc_0006   11   6              a    DT        (NP*             -    -   -    Bill_Bennett  *      *             *        (ARG1*      *   -
+bc/msnbc/00/msnbc_0006   11   7    competition    NN           *)   competition  01   1    Bill_Bennett  *      *             *             *)   (V*)  -
+bc/msnbc/00/msnbc_0006   11   8           here    RB   (ADVP*))))            -    -   -    Bill_Bennett  *      *             *)   (ARGM-LOC*)     *   -
+bc/msnbc/00/msnbc_0006   11   9             /?     .          *))            -    -   -    Bill_Bennett  *      *             *             *      *   -
+
+bc/msnbc/00/msnbc_0006   11   0     Which   WDT   (TOP(SBAR(WHNP*)     -    -   -    Andrea_Mitchel  *      *    (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11   1        no    DT            (S(NP*      -    -   -    Andrea_Mitchel  *      *    (ARG0*   -
+bc/msnbc/00/msnbc_0006   11   2       one    NN                 *)    one   -   2    Andrea_Mitchel  *      *         *)  -
+bc/msnbc/00/msnbc_0006   11   3       has   VBZ              (VP*    have  01   -    Andrea_Mitchel  *    (V*)        *   -
+bc/msnbc/00/msnbc_0006   11   4    denied   VBN            (VP*)))   deny  01   1    Andrea_Mitchel  *      *       (V*)  -
+bc/msnbc/00/msnbc_0006   11   5        /.     .                *))     -    -   -    Andrea_Mitchel  *      *         *   -
+
+bc/msnbc/00/msnbc_0006   11   0        No    UH   (TOP(S(INTJ*)     -    -   -    Bill_Bennett  *      *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0006   11   1        no    DT           (NP*      -    -   -    Bill_Bennett  *      *        (ARG0*   -
+bc/msnbc/00/msnbc_0006   11   2       one    NN              *)    one   -   2    Bill_Bennett  *      *             *)  -
+bc/msnbc/00/msnbc_0006   11   3       has   VBZ           (VP*    have  01   -    Bill_Bennett  *    (V*)            *   -
+bc/msnbc/00/msnbc_0006   11   4    denied   VBN           (VP*    deny  01   1    Bill_Bennett  *      *           (V*)  -
+bc/msnbc/00/msnbc_0006   11   5        it   PRP         (NP*)))     -    -   -    Bill_Bennett  *      *        (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11   6        /.     .             *))     -    -   -    Bill_Bennett  *      *             *   -
+
+bc/msnbc/00/msnbc_0006   11    0       Except     IN    (TOP(SBAR*          -    -   -    Bill_Bennett         *      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11    1          the     DT  (S(NP(NP(NP*          -    -   -    Bill_Bennett         *      *   (ARG0*      *             *      -
+bc/msnbc/00/msnbc_0006   11    2       people    NNS             *)     people   -   1    Bill_Bennett         *      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11    3           at     IN          (PP*          -    -   -    Bill_Bennett         *      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11    4     Treasury    NNP        (NP*)))         -    -   -    Bill_Bennett      (ORG)     *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11    5          and     CC             *          -    -   -    Bill_Bennett         *      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11    6        again     RB        (ADVP*)         -    -   -    Bill_Bennett         *      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11    7          Tom    NNP          (NP*          -    -   -    Bill_Bennett  (PERSON*      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11    8         Kean    NNP            *))         -    -   -    Bill_Bennett         *)     *        *)     *             *      -
+bc/msnbc/00/msnbc_0006   11    9          are    VBP          (VP*          be  03   -    Bill_Bennett         *    (V*)       *      *             *      -
+bc/msnbc/00/msnbc_0006   11   10       saying    VBG          (VP*         say  01   1    Bill_Bennett         *      *      (V*)     *             *      -
+bc/msnbc/00/msnbc_0006   11   11         this     DT   (SBAR(S(NP*          -    -   -    Bill_Bennett         *      *   (ARG1*      *        (ARG0*      -
+bc/msnbc/00/msnbc_0006   11   12        thing     NN             *)      thing   -   1    Bill_Bennett         *      *        *      *             *)     -
+bc/msnbc/00/msnbc_0006   11   13          has    VBZ          (VP*        have  01   -    Bill_Bennett         *      *        *    (V*)            *      -
+bc/msnbc/00/msnbc_0006   11   14          now     RB        (ADVP*)         -    -   -    Bill_Bennett         *      *        *      *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0006   11   15    destroyed    VBN          (VP*     destroy  01   1    Bill_Bennett         *      *        *      *           (V*)     -
+bc/msnbc/00/msnbc_0006   11   16          the     DT       (NP(NP*          -    -   -    Bill_Bennett         *      *        *      *        (ARG1*      -
+bc/msnbc/00/msnbc_0006   11   17     capacity     NN             *)   capacity   -   1    Bill_Bennett         *      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11   18           of     IN          (PP*          -    -   -    Bill_Bennett         *      *        *      *             *      -
+bc/msnbc/00/msnbc_0006   11   19          our   PRP$          (NP*          -    -   -    Bill_Bennett         *      *        *      *             *   (165
+bc/msnbc/00/msnbc_0006   11   20      program     NN    *))))))))))    program   -   3    Bill_Bennett         *      *        *)     *             *)   165)
+bc/msnbc/00/msnbc_0006   11   21           /.      .            *))         -    -   -    Bill_Bennett         *      *        *      *             *      -
+
+bc/msnbc/00/msnbc_0006   11    0         Again     RB    (TOP(S(ADVP*)           -    -   -    Bill_Bennett      *    (ARGM-ADV*)     *            *        *      -
+bc/msnbc/00/msnbc_0006   11    1           the     DT            (NP*            -    -   -    Bill_Bennett      *        (ARG1*      *            *        *      -
+bc/msnbc/00/msnbc_0006   11    2    difference     NN               *)   difference   -   1    Bill_Bennett      *             *)     *            *        *      -
+bc/msnbc/00/msnbc_0006   11    3            is    VBZ            (VP*            be  01   2    Bill_Bennett      *           (V*)     *            *        *      -
+bc/msnbc/00/msnbc_0006   11    4           the     DT  (SBAR(S(NP(NP*            -    -   -    Bill_Bennett      *        (ARG2*      *       (ARG2*   (ARG0*   (209
+bc/msnbc/00/msnbc_0006   11    5    government     NN               *)   government   -   1    Bill_Bennett      *             *      *            *        *      -
+bc/msnbc/00/msnbc_0006   11    6            of     IN            (PP*            -    -   -    Bill_Bennett      *             *      *            *        *      -
+bc/msnbc/00/msnbc_0006   11    7           the     DT            (NP*            -    -   -    Bill_Bennett  (GPE*             *      *            *        *      -
+bc/msnbc/00/msnbc_0006   11    8        United    NNP               *            -    -   -    Bill_Bennett      *             *      *            *        *      -
+bc/msnbc/00/msnbc_0006   11    9        States    NNP             *)))           -    -   -    Bill_Bennett      *)            *      *            *)       *)   209)
+bc/msnbc/00/msnbc_0006   11   10           was    VBD            (VP*            be  03   -    Bill_Bennett      *             *    (V*)           *        *      -
+bc/msnbc/00/msnbc_0006   11   11       elected    VBN            (VP*         elect  01   -    Bill_Bennett      *             *      *          (V*)       *      -
+bc/msnbc/00/msnbc_0006   11   12            to     TO          (S(VP*            -    -   -    Bill_Bennett      *             *      *   (ARGM-PRP*        *      -
+bc/msnbc/00/msnbc_0006   11   13       protect     VB            (VP*       protect  01   1    Bill_Bennett      *             *      *            *      (V*)     -
+bc/msnbc/00/msnbc_0006   11   14           our   PRP$            (NP*            -    -   -    Bill_Bennett      *             *      *            *   (ARG1*      -
+bc/msnbc/00/msnbc_0006   11   15      security     NN       *)))))))))     security   -   3    Bill_Bennett      *             *)     *            *)       *)     -
+bc/msnbc/00/msnbc_0006   11   16            /.      .              *))           -    -   -    Bill_Bennett      *             *      *            *        *      -
+
+bc/msnbc/00/msnbc_0006   11    0          It   PRP   (TOP(S(NP(NP*))         -    -   -    Bill_Bennett  *             *        *      *   -
+bc/msnbc/00/msnbc_0006   11    1          is   VBZ             (VP*          be  01   1    Bill_Bennett  *           (V*)       *      *   -
+bc/msnbc/00/msnbc_0006   11    2         n't    RB                *          -    -   -    Bill_Bennett  *    (ARGM-NEG*)       *      *   -
+bc/msnbc/00/msnbc_0006   11    3      always    RB           (ADVP*)         -    -   -    Bill_Bennett  *    (ARGM-TMP*)       *      *   -
+bc/msnbc/00/msnbc_0006   11    4          in    IN             (PP*          -    -   -    Bill_Bennett  *        (ARG1*        *      *   -
+bc/msnbc/00/msnbc_0006   11    5         the    DT          (NP(NP*          -    -   -    Bill_Bennett  *             *        *      *   -
+bc/msnbc/00/msnbc_0006   11    6     service    NN                *)    service  01   7    Bill_Bennett  *             *      (V*)     *   -
+bc/msnbc/00/msnbc_0006   11    7          of    IN             (PP*          -    -   -    Bill_Bennett  *             *   (ARG2*      *   -
+bc/msnbc/00/msnbc_0006   11    8    security    NN          (NP*))))   security   -   3    Bill_Bennett  *             *)       *)     *   -
+bc/msnbc/00/msnbc_0006   11    9          to    TO           (S(VP*          -    -   -    Bill_Bennett  *    (ARGM-ADV*        *      *   -
+bc/msnbc/00/msnbc_0006   11   10        leak    VB          (VP*))))       leak  01   1    Bill_Bennett  *             *)       *    (V*)  -
+bc/msnbc/00/msnbc_0006   11   11          /.     .               *))         -    -   -    Bill_Bennett  *             *        *      *   -
+
+bc/msnbc/00/msnbc_0006   11    0      Katharine   NNP      (TOP(S(NP*         -    -    -    Bill_Bennett  (PERSON*      (R-ARG0*               *        *    (25
+bc/msnbc/00/msnbc_0006   11    1         Graham   NNP               *)        -    -    -    Bill_Bennett         *)            *)              *        *     25)
+bc/msnbc/00/msnbc_0006   11    2             in    IN            (PP*         -    -    -    Bill_Bennett         *    (ARGM-LOC*               *        *      -
+bc/msnbc/00/msnbc_0006   11    3            The    DT            (NP*         -    -    -    Bill_Bennett     (ORG*             *               *        *      -
+bc/msnbc/00/msnbc_0006   11    4            New   NNP           (NML*         -    -    -    Bill_Bennett         *             *               *        *      -
+bc/msnbc/00/msnbc_0006   11    5           York   NNP               *)        -    -    -    Bill_Bennett         *             *               *        *      -
+bc/msnbc/00/msnbc_0006   11    6          Times   NNP              *))        -    -    -    Bill_Bennett         *)            *)              *        *      -
+bc/msnbc/00/msnbc_0006   11    7          today    NN            (NP*)     today   -    2    Bill_Bennett         *    (ARGM-TMP*)              *        *      -
+bc/msnbc/00/msnbc_0006   11    8      Katharine   NNP            (NP*         -    -    -    Bill_Bennett  (PERSON*        (ARG0*               *        *    (25
+bc/msnbc/00/msnbc_0006   11    9         Graham   NNP               *)        -    -    -    Bill_Bennett         *)            *)              *        *     25)
+bc/msnbc/00/msnbc_0006   11   10          cites   VBZ            (VP*       cite  01    2    Bill_Bennett         *           (V*)              *        *      -
+bc/msnbc/00/msnbc_0006   11   11              a    DT      (NP(NP(NP*         -    -    -    Bill_Bennett         *        (ARG1*      (ARGM-LOC*        *      -
+bc/msnbc/00/msnbc_0006   11   12           very    RB          (ADJP*         -    -    -    Bill_Bennett         *             *               *        *      -
+bc/msnbc/00/msnbc_0006   11   13    interesting    JJ               *)        -    -    -    Bill_Bennett         *             *               *        *      -
+bc/msnbc/00/msnbc_0006   11   14        example    NN               *)   example   -    1    Bill_Bennett         *             *               *        *      -
+bc/msnbc/00/msnbc_0006   11   15             in    IN            (PP*         -    -    -    Bill_Bennett         *             *               *        *      -
+bc/msnbc/00/msnbc_0006   11   16       nineteen    CD            (NP*         -    -    -    Bill_Bennett    (DATE*             *               *        *      -
+bc/msnbc/00/msnbc_0006   11   17         eighty    CD               *         -    -    -    Bill_Bennett         *             *               *        *      -
+bc/msnbc/00/msnbc_0006   11   18          three    CD             *)))        -    -    -    Bill_Bennett         *)            *               *)       *      -
+bc/msnbc/00/msnbc_0006   11   19          where   WRB   (SBAR(WHADVP*)        -    -    -    Bill_Bennett         *             *    (R-ARGM-LOC*)       *      -
+bc/msnbc/00/msnbc_0006   11   20            she   PRP          (S(NP*)        -    -    -    Bill_Bennett         *             *          (ARG0*)       *    (25)
+bc/msnbc/00/msnbc_0006   11   21           said   VBD            (VP*        say  01    1    Bill_Bennett         *             *             (V*)       *      -
+bc/msnbc/00/msnbc_0006   11   22            the    DT     (SBAR(S(NP*         -    -    -    Bill_Bennett         *             *          (ARG1*   (ARG1*   (150
+bc/msnbc/00/msnbc_0006   11   23          press    NN               *)     press   -    1    Bill_Bennett         *             *               *        *)   150)
+bc/msnbc/00/msnbc_0006   11   24           went   VBD            (VP*         go  01   15    Bill_Bennett         *             *               *      (V*)     -
+bc/msnbc/00/msnbc_0006   11   25            too    RB          (ADVP*         -    -    -    Bill_Bennett         *             *               *   (ARG2*      -
+bc/msnbc/00/msnbc_0006   11   26            far    RB       *)))))))))        -    -    -    Bill_Bennett         *             *)              *)       *)     -
+bc/msnbc/00/msnbc_0006   11   27             /.     .              *))        -    -    -    Bill_Bennett         *             *               *        *      -
+
+bc/msnbc/00/msnbc_0006   11    0                It    PRP    (TOP(S(NP*)              -    -   -    Bill_Bennett           *       (ARG0*)            *             *         *    (150)
+bc/msnbc/00/msnbc_0006   11    1          reported    VBD          (VP*           report  01   1    Bill_Bennett           *          (V*)            *             *         *       -
+bc/msnbc/00/msnbc_0006   11    2             about     IN          (PP*               -    -   -    Bill_Bennett           *       (ARG1*             *             *         *       -
+bc/msnbc/00/msnbc_0006   11    3            secret     JJ       (NP(NP*               -    -   -    Bill_Bennett           *            *    (ARGM-MNR*)       (ARG0*         *       -
+bc/msnbc/00/msnbc_0006   11    4    communications    NNS             *)   communication  01   1    Bill_Bennett           *            *           (V*)            *         *       -
+bc/msnbc/00/msnbc_0006   11    5           between     IN          (PP*               -    -   -    Bill_Bennett           *            *        (ARG0*             *         *       -
+bc/msnbc/00/msnbc_0006   11    6            Syrian     JJ       (NP(NP*               -    -   -    Bill_Bennett       (NORP)           *             *             *         *    (221
+bc/msnbc/00/msnbc_0006   11    7        terrorists    NNS             *)              -    -   -    Bill_Bennett           *            *             *             *         *     221)
+bc/msnbc/00/msnbc_0006   11    8               and     CC             *               -    -   -    Bill_Bennett           *            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11    9                uh     UH        (INTJ*)              -    -   -    Bill_Bennett           *            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   10             their   PRP$          (NP*               -    -   -    Bill_Bennett           *            *             *             *         *    (221)
+bc/msnbc/00/msnbc_0006   11   11           Iranian     JJ             *               -    -   -    Bill_Bennett       (NORP)           *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   12            bosses    NNS         *)))))            boss   -   -    Bill_Bennett           *            *)            *)            *)        *       -
+bc/msnbc/00/msnbc_0006   11   13             which    WDT   (SBAR(WHNP*)              -    -   -    Bill_Bennett           *   (ARGM-ADV*             *      (R-ARG0*)        *       -
+bc/msnbc/00/msnbc_0006   11   14               led    VBD        (S(VP*             lead  03   1    Bill_Bennett           *            *             *           (V*)        *       -
+bc/msnbc/00/msnbc_0006   11   15             later     RB        (ADVP*)              -    -   -    Bill_Bennett           *            *             *    (ARGM-TMP*)        *       -
+bc/msnbc/00/msnbc_0006   11   16               she    PRP    (PRN(S(NP*)              -    -   -    Bill_Bennett           *            *             *    (ARGM-DIS*    (ARG0*)    (25)
+bc/msnbc/00/msnbc_0006   11   17              said    VBD        (VP*)))             say  01   1    Bill_Bennett           *            *             *             *)      (V*)      -
+bc/msnbc/00/msnbc_0006   11   18                to     IN          (PP*               -    -   -    Bill_Bennett           *            *             *        (ARG2*         *       -
+bc/msnbc/00/msnbc_0006   11   19               the     DT       (NP(NP*               -    -   -    Bill_Bennett           *            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   20            deaths    NNS             *)           death   -   1    Bill_Bennett           *            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   21                of     IN          (PP*               -    -   -    Bill_Bennett           *            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   22               two     CD       (NP(QP*               -    -   -    Bill_Bennett  (CARDINAL*            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   23           hundred     CD             *               -    -   -    Bill_Bennett           *            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   24               and     CC             *               -    -   -    Bill_Bennett           *            *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   25             forty     CD             *)              -    -   -    Bill_Bennett           *)           *             *             *         *       -
+bc/msnbc/00/msnbc_0006   11   26           Marines    NNS      *))))))))              -    -   -    Bill_Bennett           *            *)            *             *)        *       -
+bc/msnbc/00/msnbc_0006   11   27                /.      .            *))              -    -   -    Bill_Bennett           *            *             *             *         *       -
+
+bc/msnbc/00/msnbc_0006   11   0      This   DT   (TOP(S(NP*)       -    -   -    Bill_Bennett  *        (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11   1       can   MD         (VP*        -    -   -    Bill_Bennett  *    (ARGM-MOD*)  -
+bc/msnbc/00/msnbc_0006   11   2    happen   VB        (VP*))   happen  01   1    Bill_Bennett  *           (V*)  -
+bc/msnbc/00/msnbc_0006   11   3        /.    .           *))       -    -   -    Bill_Bennett  *             *   -
+
+bc/msnbc/00/msnbc_0006   11   0     We   PRP   (TOP(S(NP*)    -    -   -    Bill_Bennett  *    (ARG1*)     *   -
+bc/msnbc/00/msnbc_0006   11   1    are   VBP         (VP*     be  01   1    Bill_Bennett  *       (V*)     *   -
+bc/msnbc/00/msnbc_0006   11   2     in    IN         (PP*     -    -   -    Bill_Bennett  *    (ARG2*      *   -
+bc/msnbc/00/msnbc_0006   11   3    war    NN       (NP*)))   war  01   1    Bill_Bennett  *         *)   (V*)  -
+bc/msnbc/00/msnbc_0006   11   4     /.     .           *))    -    -   -    Bill_Bennett  *         *      *   -
+
+bc/msnbc/00/msnbc_0006   11    0           You    PRP   (TOP(S(PRN(S(NP*)           -    -   -    Dana_Priest       *    (ARG0*)            *            *       -
+bc/msnbc/00/msnbc_0006   11    1          know    VBP             (VP*)))         know  01   1    Dana_Priest       *       (V*)            *            *       -
+bc/msnbc/00/msnbc_0006   11    2             I    PRP               (NP*)           -    -   -    Dana_Priest       *         *        (ARG0*)           *    (105)
+bc/msnbc/00/msnbc_0006   11    3      heartily     RB             (ADVP*)           -    -   -    Dana_Priest       *         *    (ARGM-ADV*)           *       -
+bc/msnbc/00/msnbc_0006   11    4    appreciate    VBP               (VP*    appreciate  02   2    Dana_Priest       *         *           (V*)           *       -
+bc/msnbc/00/msnbc_0006   11    5          your   PRP$             (S(NP*)           -    -   -    Dana_Priest       *         *        (ARG1*       (ARG0*)   (146)
+bc/msnbc/00/msnbc_0006   11    6       talking    VBG               (VP*          talk  01   -    Dana_Priest       *         *             *          (V*)      -
+bc/msnbc/00/msnbc_0006   11    7            on     IN               (PP*            -    -   -    Dana_Priest       *         *             *   (ARGM-PRP*       -
+bc/msnbc/00/msnbc_0006   11    8        behalf     NN            (NP(NP*)           -    -   -    Dana_Priest       *         *             *            *       -
+bc/msnbc/00/msnbc_0006   11    9            of     IN               (PP*            -    -   -    Dana_Priest       *         *             *            *       -
+bc/msnbc/00/msnbc_0006   11   10           all    PDT               (NP*            -    -   -    Dana_Priest       *         *             *            *       -
+bc/msnbc/00/msnbc_0006   11   11           the     DT                  *            -    -   -    Dana_Priest       *         *             *            *       -
+bc/msnbc/00/msnbc_0006   11   12      American     JJ                  *            -    -   -    Dana_Priest   (NORP)        *             *            *       -
+bc/msnbc/00/msnbc_0006   11   13        people    NNS            *)))))))       people   -   2    Dana_Priest       *         *             *)           *)      -
+bc/msnbc/00/msnbc_0006   11   14            /.      .                 *))           -    -   -    Dana_Priest       *         *             *            *       -
+
+bc/msnbc/00/msnbc_0006   11   0          This    DT   (TOP(S(NP*)   -    -   -    Bill_Bennett  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11   1            is   VBZ         (VP*    be  01   1    Bill_Bennett  *       (V*)  -
+bc/msnbc/00/msnbc_0006   11   2    classified    JJ      (ADJP*))   -    -   -    Bill_Bennett  *    (ARG2*)  -
+bc/msnbc/00/msnbc_0006   11   3           /-      .           *))   -    -   -    Bill_Bennett  *         *   -
+
+bc/msnbc/00/msnbc_0006   11   0      I   PRP   (TOP(S(NP*)   -    -   -    Bill_Bennett  *      *    (146)
+bc/msnbc/00/msnbc_0006   11   1     'm   VBP         (VP*    be  03   -    Bill_Bennett  *    (V*)      -
+bc/msnbc/00/msnbc_0006   11   2    not    RB            *)   -    -   -    Bill_Bennett  *      *       -
+bc/msnbc/00/msnbc_0006   11   3     /.     .           *))   -    -   -    Bill_Bennett  *      *       -
+
+bc/msnbc/00/msnbc_0006   11    0     Because     IN        (TOP(SBAR*         -    -   -    Dana_Priest  *             *            *         *       -
+bc/msnbc/00/msnbc_0006   11    1        when    WRB   (S(SBAR(WHADVP*)        -    -   -    Dana_Priest  *    (ARGM-TMP*)  (ARGM-TMP*         *       -
+bc/msnbc/00/msnbc_0006   11    2          my   PRP$            (S(NP*         -    -   -    Dana_Priest  *        (ARG1*            *         *    (105)
+bc/msnbc/00/msnbc_0006   11    3     stories    NNS                 *)     story   -   1    Dana_Priest  *             *)           *         *       -
+bc/msnbc/00/msnbc_0006   11    4         ran    VBD            (VP*)))       run  09   6    Dana_Priest  *           (V*)           *)        *       -
+bc/msnbc/00/msnbc_0006   11    5           I    PRP              (NP*)        -    -   -    Dana_Priest  *             *       (ARG0*)        *    (105)
+bc/msnbc/00/msnbc_0006   11    6    received    VBD              (VP*    receive  01   1    Dana_Priest  *             *          (V*)        *       -
+bc/msnbc/00/msnbc_0006   11    7        many     JJ            (S(NP*         -    -   -    Dana_Priest  *             *       (ARG1*    (ARG0*     (46
+bc/msnbc/00/msnbc_0006   11    8        many     JJ                 *         -    -   -    Dana_Priest  *             *            *         *       -
+bc/msnbc/00/msnbc_0006   11    9      people    NNS                 *)    people   -   1    Dana_Priest  *             *            *         *)     46)
+bc/msnbc/00/msnbc_0006   11   10    thanking    VBG              (VP*      thank  01   1    Dana_Priest  *             *            *       (V*)      -
+bc/msnbc/00/msnbc_0006   11   11          me    PRP          (NP*)))))        -    -   -    Dana_Priest  *             *            *)   (ARG1*)   (105)
+bc/msnbc/00/msnbc_0006   11   12          /.      .                *))        -    -   -    Dana_Priest  *             *            *         *       -
+
+bc/msnbc/00/msnbc_0006   11   0           I   PRP   (TOP(S(NP*)     -    -   -    Bill_Bennett       *      *    (ARG0*)   (146)
+bc/msnbc/00/msnbc_0006   11   1          'm   VBP         (VP*      be  03   -    Bill_Bennett       *    (V*)        *       -
+bc/msnbc/00/msnbc_0006   11   2     talking   VBG         (VP*    talk  01   1    Bill_Bennett       *      *       (V*)      -
+bc/msnbc/00/msnbc_0006   11   3       about    IN         (PP*      -    -   -    Bill_Bennett       *      *    (ARG1*       -
+bc/msnbc/00/msnbc_0006   11   4           a    DT      (NP(NP*      -    -   -    Bill_Bennett       *      *         *       -
+bc/msnbc/00/msnbc_0006   11   5         lot    NN            *)    lot   -   1    Bill_Bennett       *      *         *       -
+bc/msnbc/00/msnbc_0006   11   6          of    IN         (PP*      -    -   -    Bill_Bennett       *      *         *       -
+bc/msnbc/00/msnbc_0006   11   7         the    DT         (NP*      -    -   -    Bill_Bennett       *      *         *       -
+bc/msnbc/00/msnbc_0006   11   8    American    JJ       *))))))     -    -   -    Bill_Bennett   (NORP)     *         *)      -
+bc/msnbc/00/msnbc_0006   11   9         /-      .           *))     -    -   -    Bill_Bennett       *      *         *       -
+
+bc/msnbc/00/msnbc_0006   11   0    Wait   VB   (TOP(S(VP*)   wait  01   1    Bill_Bennett  *    (V*)  -
+bc/msnbc/00/msnbc_0006   11   1      /.    .           *))     -    -   -    Bill_Bennett  *      *   -
+
+bc/msnbc/00/msnbc_0006   11   0       let    VB  (TOP(S(VP*       let  01   1    Bill_Bennett  *      (V*)        *       -
+bc/msnbc/00/msnbc_0006   11   1        me   PRP      (S(NP*)       -    -   -    Bill_Bennett  *   (ARG1*    (ARG0*)   (146)
+bc/msnbc/00/msnbc_0006   11   2    finish    VB      (VP*)))   finish  01   1    Bill_Bennett  *        *)      (V*)      -
+bc/msnbc/00/msnbc_0006   11   3        /.     .          *))       -    -   -    Bill_Bennett  *        *         *       -
+
+bc/msnbc/00/msnbc_0006   11   0       Let    VB  (TOP(S(VP*       let  01   1    Bill_Bennett  *      (V*)        *       -
+bc/msnbc/00/msnbc_0006   11   1        me   PRP      (S(NP*)       -    -   -    Bill_Bennett  *   (ARG1*    (ARG0*)   (146)
+bc/msnbc/00/msnbc_0006   11   2    finish    VB      (VP*)))   finish  01   1    Bill_Bennett  *        *)      (V*)      -
+bc/msnbc/00/msnbc_0006   11   3        /.     .          *))       -    -   -    Bill_Bennett  *        *         *       -
+
+bc/msnbc/00/msnbc_0006   11    0        you   PRP   (TOP(S(NP*)        -    -   -    Bill_Bennett  *      *        (ARG0*)   (ARG0*)  -
+bc/msnbc/00/msnbc_0006   11    1         do   VBP         (VP*         do  01   -    Bill_Bennett  *    (V*)            *         *   -
+bc/msnbc/00/msnbc_0006   11    2        n't    RB            *         -    -   -    Bill_Bennett  *      *    (ARGM-NEG*)        *   -
+bc/msnbc/00/msnbc_0006   11    3       want    VB         (VP*       want  01   1    Bill_Bennett  *      *           (V*)        *   -
+bc/msnbc/00/msnbc_0006   11    4         to    TO       (S(VP*         -    -   -    Bill_Bennett  *      *        (ARG1*         *   -
+bc/msnbc/00/msnbc_0006   11    5        put    VB         (VP*        put  01   3    Bill_Bennett  *      *             *       (V*)  -
+bc/msnbc/00/msnbc_0006   11    6       this    DT         (NP*)        -    -   -    Bill_Bennett  *      *             *    (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11    7         to    IN         (PP*         -    -   -    Bill_Bennett  *      *             *    (ARG2*   -
+bc/msnbc/00/msnbc_0006   11    8         an    DT         (NP*         -    -   -    Bill_Bennett  *      *             *         *   -
+bc/msnbc/00/msnbc_0006   11    9    opinion    NN            *    opinion   -   1    Bill_Bennett  *      *             *         *   -
+bc/msnbc/00/msnbc_0006   11   10       poll    NN      *)))))))      poll   -   -    Bill_Bennett  *      *             *)        *)  -
+bc/msnbc/00/msnbc_0006   11   11         /.     .           *))        -    -   -    Bill_Bennett  *      *             *         *   -
+
+bc/msnbc/00/msnbc_0006   11   0    Because    IN  (TOP(SBAR*       -    -   -    Dana_Priest  *         *         *      -
+bc/msnbc/00/msnbc_0006   11   1       they   PRP      (S(NP*)      -    -   -    Dana_Priest  *    (ARG0*)        *    (46)
+bc/msnbc/00/msnbc_0006   11   2    thought   VBD        (VP*    think  01   1    Dana_Priest  *       (V*)        *      -
+bc/msnbc/00/msnbc_0006   11   3       that    IN      (SBAR*       -    -   -    Dana_Priest  *    (ARG1*         *      -
+bc/msnbc/00/msnbc_0006   11   4       they   PRP      (S(NP*)      -    -   -    Dana_Priest  *         *    (ARG0*)   (42)
+bc/msnbc/00/msnbc_0006   11   5       went   VBD    (VP*)))))      go  02   1    Dana_Priest  *         *)      (V*)     -
+bc/msnbc/00/msnbc_0006   11   6        /-      .          *))      -    -   -    Dana_Priest  *         *         *      -
+
+bc/msnbc/00/msnbc_0006   11   0    including   VBG  (TOP(PP*    include  01   -    Dana_Priest           *      (V*)  -
+bc/msnbc/00/msnbc_0006   11   1       active    JJ  (NP(NML*         -    -   -    Dana_Priest           *   (ARG1*   -
+bc/msnbc/00/msnbc_0006   11   2         duty    NN         *)      duty   -   2    Dana_Priest           *        *   -
+bc/msnbc/00/msnbc_0006   11   3         four    CD     (NML*         -    -   -    Dana_Priest   (CARDINAL)       *   -
+bc/msnbc/00/msnbc_0006   11   4         star    NN         *)      star   -   3    Dana_Priest           *        *   -
+bc/msnbc/00/msnbc_0006   11   5     generals   NNS         *)   general   -   1    Dana_Priest           *        *)  -
+bc/msnbc/00/msnbc_0006   11   6           /.     .        *))        -    -   -    Dana_Priest           *        *   -
+
+bc/msnbc/00/msnbc_0006   11    0        You   PRP   (TOP(S(NP*)        -    -   -    Bill_Bennett  *      *        (ARG0*)      (ARG0*)  -
+bc/msnbc/00/msnbc_0006   11    1         do   VBP         (VP*         do  01   -    Bill_Bennett  *    (V*)            *            *   -
+bc/msnbc/00/msnbc_0006   11    2        not    RB            *         -    -   -    Bill_Bennett  *      *    (ARGM-NEG*)           *   -
+bc/msnbc/00/msnbc_0006   11    3       want    VB         (VP*       want  01   1    Bill_Bennett  *      *           (V*)           *   -
+bc/msnbc/00/msnbc_0006   11    4         to    TO       (S(VP*         -    -   -    Bill_Bennett  *      *        (ARG1*            *   -
+bc/msnbc/00/msnbc_0006   11    5         do    VB         (VP*         do  02   1    Bill_Bennett  *      *             *          (V*)  -
+bc/msnbc/00/msnbc_0006   11    6       this    DT         (NP*)        -    -   -    Bill_Bennett  *      *             *       (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11    7         on    IN         (PP*         -    -   -    Bill_Bennett  *      *             *   (ARGM-MNR*   -
+bc/msnbc/00/msnbc_0006   11    8         an    DT         (NP*         -    -   -    Bill_Bennett  *      *             *            *   -
+bc/msnbc/00/msnbc_0006   11    9    opinion    NN            *    opinion   -   1    Bill_Bennett  *      *             *            *   -
+bc/msnbc/00/msnbc_0006   11   10       poll    NN      *)))))))      poll   -   -    Bill_Bennett  *      *             *)           *)  -
+bc/msnbc/00/msnbc_0006   11   11         /.     .           *))        -    -   -    Bill_Bennett  *      *             *            *   -
+
+bc/msnbc/00/msnbc_0006   11   0     can    MD  (TOP(SQ*   -   -   -    Bill_Bennett  *       -
+bc/msnbc/00/msnbc_0006   11   1       I   PRP      (NP*)  -   -   -    Bill_Bennett  *    (146)
+bc/msnbc/00/msnbc_0006   11   2    just    RB    (ADVP*)  -   -   -    Bill_Bennett  *       -
+bc/msnbc/00/msnbc_0006   11   3     /-      .        *))  -   -   -    Bill_Bennett  *       -
+
+bc/msnbc/00/msnbc_0006   11    0                Some    DT           (TOP(S(NP*                -    -    -    Dana_Priest  *   (ARG0*      *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    1              people   NNS                    *)           people   -    1    Dana_Priest  *        *)     *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    2               think   VBP                 (VP*             think  01    1    Dana_Priest  *      (V*)     *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    3                that    IN          (SBAR(SBAR*                -    -    -    Dana_Priest  *   (ARG1*      *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    4                 the    DT               (S(NP*                -    -    -    Dana_Priest  *        *      *       (ARG1*            *      *         *      *           *      *        *            *      *             *    (42
+bc/msnbc/00/msnbc_0006   11    5      administration    NN                    *)   administration   -    1    Dana_Priest  *        *      *            *)           *      *         *      *           *      *        *            *      *             *     42)
+bc/msnbc/00/msnbc_0006   11    6                 has   VBZ                 (VP*              have  01    -    Dana_Priest  *        *    (V*)           *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    7                gone   VBN                 (VP*                go  01   15    Dana_Priest  *        *      *          (V*)           *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    8                 too    RB               (ADVP*                -    -    -    Dana_Priest  *        *      *       (ARG2*            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    9                 far    RB                    *)               -    -    -    Dana_Priest  *        *      *            *)           *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   10                  in    IN                 (PP*                -    -    -    Dana_Priest  *        *      *   (ARGM-LOC*            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   11                some    DT              (NP(NP*)               -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   12                  of    IN                 (PP*                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   13                 the    DT              (NP(NP*                -    -    -    Dana_Priest  *        *      *            *            *      *    (ARG1*      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   14    counterterrorism    NN                    *                -    -    -    Dana_Priest  *        *      *            *       (ARG1*)     *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   15            measures   NNS                    *)          measure  02    4    Dana_Priest  *        *      *            *          (V*)     *         *)     *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   16                they   PRP          (SBAR(S(NP*)               -    -    -    Dana_Priest  *        *      *            *   (ARGM-ADJ*      *    (ARG0*)     *           *      *        *            *      *             *    (42)
+bc/msnbc/00/msnbc_0006   11   17                 've   VBP                 (VP*              have  01   12    Dana_Priest  *        *      *            *            *    (V*)        *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   18               taken   VBN      (VP*))))))))))))             take  01    1    Dana_Priest  *        *      *            *)           *)     *       (V*)     *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   19                 And    CC                    *                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   20                that    IN               (SBAR*                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   21                some    DT            (S(NP(NP*)               -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *   (ARG0*            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   22                  of    IN                 (PP*                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   23                 the    DT              (NP(NP*                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *      (ARG1*      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   24              things   NNS                    *)            thing   -    1    Dana_Priest  *        *      *            *            *      *         *      *           *)     *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   25                that   WDT          (SBAR(WHNP*)               -    -    -    Dana_Priest  *        *      *            *            *      *         *      *    (R-ARG1*)     *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   26                  we   PRP               (S(NP*)               -    -    -    Dana_Priest  *        *      *            *            *      *         *      *      (ARG0*)     *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   27                 are   VBP                 (VP*                be  03    -    Dana_Priest  *        *      *            *            *      *         *    (V*)          *      *        *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   28           revealing   VBG           (VP*)))))))           reveal  01    2    Dana_Priest  *        *      *            *            *      *         *      *         (V*)     *        *)           *      *             *      -
+bc/msnbc/00/msnbc_0006   11   29                 are   VBP                 (VP*                be  03    -    Dana_Priest  *        *      *            *            *      *         *      *           *    (V*)       *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11   30            creating   VBG                 (VP*            create  01    1    Dana_Priest  *        *      *            *            *      *         *      *           *      *      (V*)           *      *             *      -
+bc/msnbc/00/msnbc_0006   11   31                   a    DT              (NP(NP*                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *   (ARG1*            *      *        (ARG1*      -
+bc/msnbc/00/msnbc_0006   11   32              debate    NN                    *)           debate  01    1    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *          (V*)     *             *)     -
+bc/msnbc/00/msnbc_0006   11   33                that   WDT          (SBAR(WHNP*)               -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *   (ARGM-ADJ*      *      (R-ARG1*)     -
+bc/msnbc/00/msnbc_0006   11   34               could    MD               (S(VP*                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0006   11   35                 not    RB                    *                -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0006   11   36                have    VB                 (VP*              have  01    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *    (V*)            *      -
+bc/msnbc/00/msnbc_0006   11   37            happened   VBN                 (VP*            happen  01    1    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *           (V*)     -
+bc/msnbc/00/msnbc_0006   11   38              before    RB   (ADVP*)))))))))))))               -    -    -    Dana_Priest  *        *)     *            *            *      *         *      *           *      *        *)           *)     *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0006   11   39                  /.     .                   *))               -    -    -    Dana_Priest  *        *      *            *            *      *         *      *           *      *        *            *      *             *      -
+
+bc/msnbc/00/msnbc_0006   11   0        Yeah    UH   (TOP(FRAG(INTJ*)     -   -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   1         and    CC                 *      -   -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   2         the    DT           (NP(NP*      -   -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   3    shutting    NN                 *    shut  -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   4        down    RP                 *)     -   -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   5          of    IN              (PP*      -   -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   6     prisons   NNS            (NP*)))     -   -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   7          /.     .                *))     -   -   -    Bill_Bennett  *   -
+
+bc/msnbc/00/msnbc_0006   11   0          And    CC       (TOP(S*         -    -   -    Bill_Bennett  *           *   -
+bc/msnbc/00/msnbc_0006   11   1    countries   NNS       (NP(NP*)   country   -   3    Bill_Bennett  *      (ARG0*)  -
+bc/msnbc/00/msnbc_0006   11   2         that   WDT   (SBAR(WHNP*)        -    -   -    Bill_Bennett  *    (R-ARG0*)  -
+bc/msnbc/00/msnbc_0006   11   3          say   VBP     (S(VP*))))       say  01   1    Bill_Bennett  *         (V*)  -
+bc/msnbc/00/msnbc_0006   11   4          /-      .            *))        -    -   -    Bill_Bennett  *           *   -
+
+bc/msnbc/00/msnbc_0006   11   0        The    DT  (TOP(S(NP*      -    -   -    Dana_Priest  *      *      *   (ARG1*   (97
+bc/msnbc/00/msnbc_0006   11   1    prisons   NNS           *)     -    -   -    Dana_Priest  *      *      *        *)   97)
+bc/msnbc/00/msnbc_0006   11   2       have   VBP        (VP*    have  01   -    Dana_Priest  *    (V*)     *        *     -
+bc/msnbc/00/msnbc_0006   11   3       been   VBN        (VP*      be  03   -    Dana_Priest  *      *    (V*)       *     -
+bc/msnbc/00/msnbc_0006   11   4      moved   VBN      (VP*)))   move  01   1    Dana_Priest  *      *      *      (V*)    -
+bc/msnbc/00/msnbc_0006   11   5         /.     .          *))     -    -   -    Dana_Priest  *      *      *        *     -
+
+bc/msnbc/00/msnbc_0006   11   0    They   PRP   (TOP(S(NP*)     -    -   -    Dana_Priest  *      *      *        (ARG1*)   (97)
+bc/msnbc/00/msnbc_0006   11   1    have   VBP         (VP*    have  01   -    Dana_Priest  *    (V*)     *             *      -
+bc/msnbc/00/msnbc_0006   11   2     not    RB            *      -    -   -    Dana_Priest  *      *      *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0006   11   3    been   VBN         (VP*      be  03   -    Dana_Priest  *      *    (V*)            *      -
+bc/msnbc/00/msnbc_0006   11   4    shut   VBN         (VP*    shut  05   -    Dana_Priest  *      *      *           (V*)     -
+bc/msnbc/00/msnbc_0006   11   5    down    RP     (PRT*))))     -    -   -    Dana_Priest  *      *      *             *      -
+bc/msnbc/00/msnbc_0006   11   6      /.     .           *))     -    -   -    Dana_Priest  *      *      *             *      -
+
+bc/msnbc/00/msnbc_0006   11   0          That    DT   (TOP(S(NP*)           -    -   -    Dana_Priest  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11   1            's   VBZ         (VP*            be  01   1    Dana_Priest  *       (V*)  -
+bc/msnbc/00/msnbc_0006   11   2             a    DT         (NP*            -    -   -    Dana_Priest  *    (ARG2*   -
+bc/msnbc/00/msnbc_0006   11   3           big    JJ            *            -    -   -    Dana_Priest  *         *   -
+bc/msnbc/00/msnbc_0006   11   4    difference    NN           *))   difference   -   1    Dana_Priest  *         *)  -
+bc/msnbc/00/msnbc_0006   11   5            /.     .           *))           -    -   -    Dana_Priest  *         *   -
+
+bc/msnbc/00/msnbc_0006   11   0         That    DT   (TOP(S(NP*)   -    -   -    Andrea_Mitchel  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0006   11   1           's   VBZ         (VP*    be  01   1    Andrea_Mitchel  *       (V*)  -
+bc/msnbc/00/msnbc_0006   11   2            a    DT         (NP*    -    -   -    Andrea_Mitchel  *    (ARG2*   -
+bc/msnbc/00/msnbc_0006   11   3    different    JJ           *))   -    -   -    Andrea_Mitchel  *         *)  -
+bc/msnbc/00/msnbc_0006   11   4          /-      .           *))   -    -   -    Andrea_Mitchel  *         *   -
+
+bc/msnbc/00/msnbc_0006   11   0      Bill   NNP  (TOP(S(NP*       -    -   -    Andrea_Mitchel  (PERSON*    (ARGM-DIS*   (14
+bc/msnbc/00/msnbc_0006   11   1    Safire   NNP           *)      -    -   -    Andrea_Mitchel         *)            *)   14)
+bc/msnbc/00/msnbc_0006   11   2     weigh    VB        (VP*    weigh  03   7    Andrea_Mitchel         *           (V*)    -
+bc/msnbc/00/msnbc_0006   11   3        in    RP       (PRT*)      -    -   -    Andrea_Mitchel         *             *     -
+bc/msnbc/00/msnbc_0006   11   4      here    RB     (ADVP*))      -    -   -    Andrea_Mitchel         *    (ARGM-LOC*)    -
+bc/msnbc/00/msnbc_0006   11   5        /.     .          *))      -    -   -    Andrea_Mitchel         *             *     -
+
+bc/msnbc/00/msnbc_0006   11    0          Let    VB         (TOP(S(VP*          let  01   1    Bill_Safire  *      (V*)        *      *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11    1           me   PRP             (S(NP*)          -    -   -    Bill_Safire  *   (ARG1*    (ARG0*)     *         *            *        *             *     (14)
+bc/msnbc/00/msnbc_0006   11    2      respond    VB               (VP*      respond  01   2    Bill_Safire  *        *       (V*)     *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11    3           to    IN               (PP*           -    -   -    Bill_Safire  *        *    (ARG1*      *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11    4           um    UH             (INTJ*)          -    -   -    Bill_Safire  *        *         *      *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11    5          the    DT         (NP(NP(NP*           -    -   -    Bill_Safire  *        *         *      *    (ARG1*            *        *             *    (185
+bc/msnbc/00/msnbc_0006   11    6        point    NN                  *)       point   -   3    Bill_Safire  *        *         *      *         *)           *        *             *       -
+bc/msnbc/00/msnbc_0006   11    7           he   PRP        (SBAR(S(NP*)          -    -   -    Bill_Safire  *        *         *      *    (ARG0*)           *        *             *    (146)
+bc/msnbc/00/msnbc_0006   11    8           's   VBZ               (VP*           be  03   -    Bill_Safire  *        *         *    (V*)        *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11    9       making   VBG           (VP*)))))        make  01   2    Bill_Safire  *        *         *      *       (V*)           *        *             *       -
+bc/msnbc/00/msnbc_0006   11   10         that    IN             (SBAR*           -    -   -    Bill_Safire  *        *         *      *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11   11          who    WP       (SBARQ(WHNP*)          -    -   -    Bill_Safire  *        *         *      *         *       (ARG0*)       *             *       -
+bc/msnbc/00/msnbc_0006   11   12      elected   VBD            (SQ(VP*        elect  01   2    Bill_Safire  *        *         *      *         *          (V*)       *             *       -
+bc/msnbc/00/msnbc_0006   11   13          the    DT               (NP*           -    -   -    Bill_Safire  *        *         *      *         *       (ARG2*   (ARG0*             *       -
+bc/msnbc/00/msnbc_0006   11   14        media   NNS                  *)          -    -   -    Bill_Safire  *        *         *      *         *            *)       *)            *       -
+bc/msnbc/00/msnbc_0006   11   15           to    TO             (S(VP*           -    -   -    Bill_Safire  *        *         *      *         *   (ARGM-PRP*        *             *       -
+bc/msnbc/00/msnbc_0006   11   16    determine    VB               (VP*    determine  01   2    Bill_Safire  *        *         *      *         *            *      (V*)            *       -
+bc/msnbc/00/msnbc_0006   11   17         what    WP   (SBAR(SBAR(WHNP*)          -    -   -    Bill_Safire  *        *         *      *         *            *   (ARG1*        (ARG1*)      -
+bc/msnbc/00/msnbc_0006   11   18       should    MD             (S(VP*           -    -   -    Bill_Safire  *        *         *      *         *            *        *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0006   11   19           be    VB               (VP*           be  01   1    Bill_Safire  *        *         *      *         *            *        *           (V*)      -
+bc/msnbc/00/msnbc_0006   11   20       secret    JJ         (ADJP*)))))          -    -   -    Bill_Safire  *        *         *      *         *            *        *        (ARG2*)      -
+bc/msnbc/00/msnbc_0006   11   21          and    CC                  *           -    -   -    Bill_Safire  *        *         *      *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11   22         what    WP        (SBAR(WHNP*)          -    -   -    Bill_Safire  *        *         *      *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11   23       should    MD             (S(VP*           -    -   -    Bill_Safire  *        *         *      *         *            *        *             *       -
+bc/msnbc/00/msnbc_0006   11   24          not    RB   *))))))))))))))))          -    -   -    Bill_Safire  *        *)        *)     *         *            *)       *)            *     185)
+bc/msnbc/00/msnbc_0006   11   25           /?     .                 *))          -    -   -    Bill_Safire  *        *         *      *         *            *        *             *       -
+
+bc/msnbc/00/msnbc_0006   11   0          Which   WDT   (TOP(SBAR(WHNP*)      -    -   -    Andrea_Mitchel  *    (ARG1*)     -
+bc/msnbc/00/msnbc_0006   11   1             is   VBZ            (S(VP*       be  01   1    Andrea_Mitchel  *       (V*)     -
+bc/msnbc/00/msnbc_0006   11   2            the    DT              (NP*       -    -   -    Andrea_Mitchel  *    (ARG2*   (185
+bc/msnbc/00/msnbc_0006   11   3    fundamental    JJ                 *       -    -   -    Andrea_Mitchel  *         *      -
+bc/msnbc/00/msnbc_0006   11   4          point    NN               *)))   point   -   3    Andrea_Mitchel  *         *)   185)
+bc/msnbc/00/msnbc_0006   11   5             /.     .                *))      -    -   -    Andrea_Mitchel  *         *      -
+
+bc/msnbc/00/msnbc_0006   11   0    Right   UH  (TOP(INTJ*   -   -   -    Bill_Safire  *   -
+bc/msnbc/00/msnbc_0006   11   1       /.    .          *))  -   -   -    Bill_Safire  *   -
+
+bc/msnbc/00/msnbc_0006   11    0         And     CC      (TOP(S*        -    -   -    Bill_Safire  *        *    (ARGM-DIS*)     *       -
+bc/msnbc/00/msnbc_0006   11    1         the     DT      (NP(NP*        -    -   -    Bill_Safire  *        *        (ARG1*      *       -
+bc/msnbc/00/msnbc_0006   11    2      answer     NN            *)   answer  01   1    Bill_Safire  *      (V*)            *      *       -
+bc/msnbc/00/msnbc_0006   11    3          to     IN         (PP*        -    -   -    Bill_Safire  *   (ARG1*             *      *       -
+bc/msnbc/00/msnbc_0006   11    4        that     DT       (NP*)))       -    -   -    Bill_Safire  *        *)            *)     *    (185)
+bc/msnbc/00/msnbc_0006   11    5          is    VBZ         (VP*        be  01   2    Bill_Safire  *        *           (V*)     *       -
+bc/msnbc/00/msnbc_0006   11    6         the     DT  (SBAR(S(NP*        -    -   -    Bill_Safire  *        *        (ARG2*      *    (213
+bc/msnbc/00/msnbc_0006   11    7    Founding    NNP            *        -    -   -    Bill_Safire  *        *             *      *       -
+bc/msnbc/00/msnbc_0006   11    8     Fathers   NNPS            *)       -    -   -    Bill_Safire  *        *             *      *     213)
+bc/msnbc/00/msnbc_0006   11    9         did    VBD      (VP*))))       do  01   -    Bill_Safire  *        *             *)   (V*)      -
+bc/msnbc/00/msnbc_0006   11   10          /.      .           *))       -    -   -    Bill_Safire  *        *             *      *       -
+
+bc/msnbc/00/msnbc_0006   11    0                uh     UH          (TOP(S(INTJ*)           -    -   -    Bill_Safire       *    (ARGM-DIS*)             *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11    1              They    PRP                  (NP*)           -    -   -    Bill_Safire       *        (ARG0*)             *        *            *        *    (213)
+bc/msnbc/00/msnbc_0006   11    2              came    VBD                  (VP*          come  11   8    Bill_Safire       *           (V*)             *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11    3                up     RP                 (PRT*)           -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11    4              with     IN                  (PP*            -    -   -    Bill_Safire       *        (ARG1*              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11    5              this     DT            (NP(NP(NP*            -    -   -    Bill_Safire   (LAW*             *     (ARGM-DIR*        *            *        *       -
+bc/msnbc/00/msnbc_0006   11    6              Bill    NNP                     *)           -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11    7                of     IN                  (PP*            -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11    8            Rights   NNPS                (NP*)))           -    -   -    Bill_Safire       *)            *              *)       *            *        *       -
+bc/msnbc/00/msnbc_0006   11    9            beyond     IN           (SBAR(WHPP*            -    -   -    Bill_Safire       *             *   (R-ARGM-DIR*        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   10             which    WDT               (WHNP*))           -    -   -    Bill_Safire       *             *              *)       *            *        *       -
+bc/msnbc/00/msnbc_0006   11   11                uh     UH                (INTJ*)           -    -   -    Bill_Safire       *             *     (ARGM-DIS*)       *            *        *       -
+bc/msnbc/00/msnbc_0006   11   12               the     DT                (S(NP*            -    -   -    Bill_Safire       *             *         (ARG1*        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   13    constitutional     JJ                     *            -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   14        convention     NN                     *)   convention   -   1    Bill_Safire       *             *              *)       *            *        *       -
+bc/msnbc/00/msnbc_0006   11   15             would     MD                  (VP*            -    -   -    Bill_Safire       *             *     (ARGM-MOD*)       *            *        *       -
+bc/msnbc/00/msnbc_0006   11   16               not     RB                     *            -    -   -    Bill_Safire       *             *     (ARGM-NEG*)       *            *        *       -
+bc/msnbc/00/msnbc_0006   11   17              move     VB                  (VP*          move  01   2    Bill_Safire       *             *            (V*)       *            *        *       -
+bc/msnbc/00/msnbc_0006   11   18            unless     IN                (SBAR*            -    -   -    Bill_Safire       *             *     (ARGM-ADV*        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   19             there     EX                (S(NP*)           -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   20              were    VBD                  (VP*            be  02   3    Bill_Safire       *             *              *      (V*)           *        *       -
+bc/msnbc/00/msnbc_0006   11   21                 a     DT               (NP(NP*            -    -   -    Bill_Safire   (LAW*             *              *   (ARG1*       (ARG0*        *       -
+bc/msnbc/00/msnbc_0006   11   22             First    NNP                     *            -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   23         Amendment    NNP                     *)           -    -   -    Bill_Safire       *)            *              *        *            *)       *       -
+bc/msnbc/00/msnbc_0006   11   24                to     TO           (SBAR(S(VP*            -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   25         challenge     VB                  (VP*     challenge  01   2    Bill_Safire       *             *              *        *          (V*)       *       -
+bc/msnbc/00/msnbc_0006   11   26               the     DT                  (NP*            -    -   -    Bill_Safire       *             *              *        *       (ARG1*        *    (209
+bc/msnbc/00/msnbc_0006   11   27        government     NN                     *)   government   -   1    Bill_Safire       *             *              *        *            *)       *     209)
+bc/msnbc/00/msnbc_0006   11   28              just     RB           (SBAR(ADVP*)           -    -   -    Bill_Safire       *             *              *        *   (ARGM-MNR*        *       -
+bc/msnbc/00/msnbc_0006   11   29                as     IN                     *            -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   30               the     DT                (S(NP*            -    -   -    Bill_Safire       *             *              *        *            *   (ARG0*    (213
+bc/msnbc/00/msnbc_0006   11   31          American     JJ                     *            -    -   -    Bill_Safire   (NORP)            *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   32          Founding    NNP                     *            -    -   -    Bill_Safire       *             *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   33           Fathers   NNPS                     *)           -    -   -    Bill_Safire       *             *              *        *            *        *)    213)
+bc/msnbc/00/msnbc_0006   11   34        challenged    VBD                  (VP*     challenge  01   2    Bill_Safire       *             *              *        *            *      (V*)      -
+bc/msnbc/00/msnbc_0006   11   35               the     DT                  (NP*            -    -   -    Bill_Safire       *             *              *        *            *   (ARG1*       -
+bc/msnbc/00/msnbc_0006   11   36           British     JJ                     *            -    -   -    Bill_Safire   (NORP)            *              *        *            *        *       -
+bc/msnbc/00/msnbc_0006   11   37        government     NN   *)))))))))))))))))))   government   -   1    Bill_Safire       *             *)             *)       *)           *)       *)      -
+bc/msnbc/00/msnbc_0006   11   38                /.      .                    *))           -    -   -    Bill_Safire       *             *              *        *            *        *       -
+
+bc/msnbc/00/msnbc_0006   11   0    Right   UH  (TOP(INTJ*   -   -   -    Bill_Bennett  *   -
+bc/msnbc/00/msnbc_0006   11   1       /.    .          *))  -   -   -    Bill_Bennett  *   -
+
+bc/msnbc/00/msnbc_0006   11    0            Now    RB       (TOP(S(ADVP*)      -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    1             it   PRP         (S(NP(NP*))      -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    2             's   VBZ               (VP*       be  01   1    Bill_Safire  *           (V*)            *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    3            not    RB                  *       -    -   -    Bill_Safire  *    (ARGM-NEG*)            *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    4    treasonable    JJ           (ADJP*)))      -    -   -    Bill_Safire  *        (ARG2*)            *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    5             It   PRP         (S(NP(NP*))      -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    6             's   VBZ               (VP*       be  01   1    Bill_Safire  *             *           (V*)       *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    7            not    RB                  *       -    -   -    Bill_Safire  *             *    (ARGM-NEG*)       *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    8           even    RB             (ADVP*)      -    -   -    Bill_Safire  *             *    (ARGM-ADV*)       *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11    9          wrong    JJ           (ADJP*)))      -    -   -    Bill_Safire  *             *        (ARG2*)       *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11   10              ,     ,                  *       -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11   11            for    IN             (SBAR*       -    -   -    Bill_Safire  *        (ARG1*        (ARG1*        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11   12            the    DT             (S(NP*       -    -   -    Bill_Safire  *             *             *   (ARG0*      *      *         *    (126
+bc/msnbc/00/msnbc_0006   11   13          press    NN                  *)   press   -   1    Bill_Safire  *             *             *        *)     *      *         *     126)
+bc/msnbc/00/msnbc_0006   11   14             to    TO               (VP*       -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11   15            say    VB               (VP*      say  01   1    Bill_Safire  *             *             *      (V*)     *      *         *       -
+bc/msnbc/00/msnbc_0006   11   16             we   PRP             (S(NP*)      -    -   -    Bill_Safire  *             *             *   (ARG1*      *      *    (ARG0*)   (126)
+bc/msnbc/00/msnbc_0006   11   17            're   VBP               (VP*       be  03   -    Bill_Safire  *             *             *        *    (V*)     *         *       -
+bc/msnbc/00/msnbc_0006   11   18          going   VBG               (VP*       go  04   7    Bill_Safire  *             *             *        *      *    (V*)        *       -
+bc/msnbc/00/msnbc_0006   11   19             to    TO             (S(VP*       -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11   20           find    VB               (VP*     find  03   1    Bill_Safire  *             *             *        *      *      *       (V*)      -
+bc/msnbc/00/msnbc_0006   11   21            out    RP              (PRT*)      -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+bc/msnbc/00/msnbc_0006   11   22           what    WP        (SBAR(WHNP*)      -    -   -    Bill_Safire  *             *             *        *      *      *    (ARG1*       -
+bc/msnbc/00/msnbc_0006   11   23             we   PRP             (S(NP*)      -    -   -    Bill_Safire  *             *             *        *      *      *         *    (126)
+bc/msnbc/00/msnbc_0006   11   24            can    MD   (VP*)))))))))))))      -    -   -    Bill_Safire  *             *)            *)       *)     *      *         *)      -
+bc/msnbc/00/msnbc_0006   11   25             /.     .                 *))      -    -   -    Bill_Safire  *             *             *        *      *      *         *       -
+
+bc/msnbc/00/msnbc_0006   11    0           and    CC  (TOP(S*            -    -   -    Bill_Safire  *    (ARGM-DIS*)     *       -
+bc/msnbc/00/msnbc_0006   11    1            we   PRP     (NP*)           -    -   -    Bill_Safire  *        (ARG0*)     *    (126)
+bc/msnbc/00/msnbc_0006   11    2           'll    MD     (VP*            -    -   -    Bill_Safire  *    (ARGM-MOD*)     *       -
+bc/msnbc/00/msnbc_0006   11    3           act    VB     (VP*           act  01   2    Bill_Safire  *           (V*)     *       -
+bc/msnbc/00/msnbc_0006   11    4            as    IN     (PP*            -    -   -    Bill_Safire  *        (ARG1*      *       -
+bc/msnbc/00/msnbc_0006   11    5             a    DT  (NP(NP*            -    -   -    Bill_Safire  *             *      *       -
+bc/msnbc/00/msnbc_0006   11    6         check    NN        *         check  02   6    Bill_Safire  *             *    (V*)      -
+bc/msnbc/00/msnbc_0006   11    7           and    CC        *            -    -   -    Bill_Safire  *             *      *       -
+bc/msnbc/00/msnbc_0006   11    8       balance    NN        *)      balance   -   7    Bill_Safire  *             *      *       -
+bc/msnbc/00/msnbc_0006   11    9            on    IN     (PP*            -    -   -    Bill_Safire  *             *      *       -
+bc/msnbc/00/msnbc_0006   11   10           the    DT     (NP*            -    -   -    Bill_Safire  *             *      *    (209
+bc/msnbc/00/msnbc_0006   11   11    government    NN   *))))))   government   -   2    Bill_Safire  *             *)     *     209)
+bc/msnbc/00/msnbc_0006   11   12            /.     .       *))           -    -   -    Bill_Safire  *             *      *       -
+
+bc/msnbc/00/msnbc_0006   11   0    Sometimes    RB   (TOP(S(ADVP*)        -   -   -    Bill_Safire  *       -
+bc/msnbc/00/msnbc_0006   11   1           we   PRP           (NP*)        -   -   -    Bill_Safire  *    (126)
+bc/msnbc/00/msnbc_0006   11   2          'll    MD           (VP*         -   -   -    Bill_Safire  *       -
+bc/msnbc/00/msnbc_0006   11   3         make    VB           (VP*       make  -   1    Bill_Safire  *       -
+bc/msnbc/00/msnbc_0006   11   4     mistakes   NNS         (NP*)))   mistake  -   2    Bill_Safire  *       -
+bc/msnbc/00/msnbc_0006   11   5           /.     .             *))        -   -   -    Bill_Safire  *       -
+
+bc/msnbc/00/msnbc_0006   11   0     Sometimes   RB   (TOP(S(ADVP*)           -    -   -    Bill_Safire  *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0006   11   1           the   DT           (NP*            -    -   -    Bill_Safire  *        (ARG0*   (209
+bc/msnbc/00/msnbc_0006   11   2    government   NN              *)   government   -   1    Bill_Safire  *             *)   209)
+bc/msnbc/00/msnbc_0006   11   3          will   MD           (VP*            -    -   -    Bill_Safire  *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0006   11   4       mistake   VB          (VP*))      mistake  01   1    Bill_Safire  *           (V*)     -
+bc/msnbc/00/msnbc_0006   11   5            /.    .             *))           -    -   -    Bill_Safire  *             *      -
+
+bc/msnbc/00/msnbc_0006   11    0            Is   VBZ        (TOP(SQ*            be  01    1    Bill_Bennett  *       (V*)           *      *             *      -
+bc/msnbc/00/msnbc_0006   11    1            it   PRP        (NP(NP*))           -    -    -    Bill_Bennett  *         *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    2         wrong    JJ          (ADJP*)           -    -    -    Bill_Bennett  *    (ARG2*)           *      *             *      -
+bc/msnbc/00/msnbc_0006   11    3           for    IN          (SBAR*            -    -    -    Bill_Bennett  *    (ARG1*            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    4           the    DT          (S(NP*            -    -    -    Bill_Bennett  *         *       (ARG0*      *             *   (209
+bc/msnbc/00/msnbc_0006   11    5    government    NN               *)   government   -    1    Bill_Bennett  *         *            *)     *             *    209)
+bc/msnbc/00/msnbc_0006   11    6            to    TO            (VP*            -    -    -    Bill_Bennett  *         *            *      *             *      -
+bc/msnbc/00/msnbc_0006   11    7            go    VB            (VP*            go  03    1    Bill_Bennett  *         *          (V*)     *             *      -
+bc/msnbc/00/msnbc_0006   11    8         after    IN            (PP*            -    -    -    Bill_Bennett  *         *       (ARG1*      *             *      -
+bc/msnbc/00/msnbc_0006   11    9           the    DT            (NP*            -    -    -    Bill_Bennett  *         *            *      *             *   (126
+bc/msnbc/00/msnbc_0006   11   10         press    NN              *))        press   -    1    Bill_Bennett  *         *            *)     *             *    126)
+bc/msnbc/00/msnbc_0006   11   11          when   WRB   (SBAR(WHADVP*)           -    -    -    Bill_Bennett  *         *   (ARGM-TMP*      *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0006   11   12           the    DT          (S(NP*            -    -    -    Bill_Bennett  *         *            *      *        (ARG1*   (126
+bc/msnbc/00/msnbc_0006   11   13         press    NN               *)        press   -    1    Bill_Bennett  *         *            *      *             *)   126)
+bc/msnbc/00/msnbc_0006   11   14           has   VBZ            (VP*          have  01    -    Bill_Bennett  *         *            *    (V*)            *      -
+bc/msnbc/00/msnbc_0006   11   15          gone   VBN            (VP*            go  01   15    Bill_Bennett  *         *            *      *           (V*)     -
+bc/msnbc/00/msnbc_0006   11   16           too    RB          (ADVP*            -    -    -    Bill_Bennett  *         *            *      *        (ARG2*      -
+bc/msnbc/00/msnbc_0006   11   17           far    RB       *)))))))))           -    -    -    Bill_Bennett  *         *)           *)     *             *)     -
+bc/msnbc/00/msnbc_0006   11   18            /?     .              *))           -    -    -    Bill_Bennett  *         *            *      *             *      -
+
+bc/msnbc/00/msnbc_0006   11    0    sometimes    RB   (TOP(S(ADVP*)        -    -   -    Bill_Safire      *    (ARGM-TMP*)  -
+bc/msnbc/00/msnbc_0006   11    1         even    RB           (NP*         -    -   -    Bill_Safire      *        (ARG0*   -
+bc/msnbc/00/msnbc_0006   11    2          the    DT              *         -    -   -    Bill_Safire      *             *   -
+bc/msnbc/00/msnbc_0006   11    3           uh    UH              *         -    -   -    Bill_Safire      *             *   -
+bc/msnbc/00/msnbc_0006   11    4      Supreme   NNP              *         -    -   -    Bill_Safire  (ORG*             *   -
+bc/msnbc/00/msnbc_0006   11    5        Court   NNP              *)        -    -   -    Bill_Safire      *)            *)  -
+bc/msnbc/00/msnbc_0006   11    6       admits   VBZ           (VP*      admit  01   1    Bill_Safire      *           (V*)  -
+bc/msnbc/00/msnbc_0006   11    7           to    IN           (PP*         -    -   -    Bill_Safire      *        (ARG1*   -
+bc/msnbc/00/msnbc_0006   11    8       making   VBG         (S(VP*       make   -   1    Bill_Safire      *             *   -
+bc/msnbc/00/msnbc_0006   11    9     mistakes   NNS       (NP*)))))   mistake   -   2    Bill_Safire      *             *)  -
+bc/msnbc/00/msnbc_0006   11   10           /.     .             *))        -    -   -    Bill_Safire      *             *   -
+
+bc/msnbc/00/msnbc_0006   11    0         Should    MD    (TOP(SQ*       -    -    -    Bill_Bennett  *      *    (ARGM-MOD*)     *         *       -
+bc/msnbc/00/msnbc_0006   11    1            the    DT        (NP*       -    -    -    Bill_Bennett  *      *             *      *         *    (126
+bc/msnbc/00/msnbc_0006   11    2          press    NN           *)   press   -    1    Bill_Bennett  *      *             *      *         *     126)
+bc/msnbc/00/msnbc_0006   11    3             be    VB        (VP*       be  03    -    Bill_Bennett  *    (V*)            *      *         *       -
+bc/msnbc/00/msnbc_0006   11    4           held   VBN        (VP*     hold  02    4    Bill_Bennett  *      *           (V*)     *         *       -
+bc/msnbc/00/msnbc_0006   11    5    responsible    JJ   (S(ADJP*))      -    -    -    Bill_Bennett  *      *        (ARG1*)     *         *       -
+bc/msnbc/00/msnbc_0006   11    6             if    IN      (SBAR*       -    -    -    Bill_Bennett  *      *    (ARGM-ADV*      *         *       -
+bc/msnbc/00/msnbc_0006   11    7             it   PRP      (S(NP*)      -    -    -    Bill_Bennett  *      *             *      *    (ARG1*)   (126)
+bc/msnbc/00/msnbc_0006   11    8             's   VBZ        (VP*       be  03    -    Bill_Bennett  *      *             *    (V*)        *       -
+bc/msnbc/00/msnbc_0006   11    9           gone   VBN        (VP*       go  01   15    Bill_Bennett  *      *             *      *       (V*)      -
+bc/msnbc/00/msnbc_0006   11   10            too    RB      (ADVP*       -    -    -    Bill_Bennett  *      *             *      *    (ARG2*       -
+bc/msnbc/00/msnbc_0006   11   11            far    RB     *)))))))      -    -    -    Bill_Bennett  *      *             *)     *         *)      -
+bc/msnbc/00/msnbc_0006   11   12             /?     .          *))      -    -    -    Bill_Bennett  *      *             *      *         *       -
+
+bc/msnbc/00/msnbc_0006   11    0         Should    MD    (TOP(SQ*       -    -    -    Bill_Bennett  *      *    (ARGM-MOD*)     *         *       -
+bc/msnbc/00/msnbc_0006   11    1            the    DT        (NP*       -    -    -    Bill_Bennett  *      *             *      *         *    (126
+bc/msnbc/00/msnbc_0006   11    2          press    NN           *)   press   -    1    Bill_Bennett  *      *             *      *         *     126)
+bc/msnbc/00/msnbc_0006   11    3             be    VB        (VP*       be  03    -    Bill_Bennett  *    (V*)            *      *         *       -
+bc/msnbc/00/msnbc_0006   11    4           held   VBN        (VP*     hold  02    4    Bill_Bennett  *      *           (V*)     *         *       -
+bc/msnbc/00/msnbc_0006   11    5    responsible    JJ   (S(ADJP*))      -    -    -    Bill_Bennett  *      *        (ARG1*)     *         *       -
+bc/msnbc/00/msnbc_0006   11    6             if    IN      (SBAR*       -    -    -    Bill_Bennett  *      *    (ARGM-ADV*      *         *       -
+bc/msnbc/00/msnbc_0006   11    7             it   PRP      (S(NP*)      -    -    -    Bill_Bennett  *      *             *      *    (ARG1*)   (126)
+bc/msnbc/00/msnbc_0006   11    8             's   VBZ        (VP*       be  03    -    Bill_Bennett  *      *             *    (V*)        *       -
+bc/msnbc/00/msnbc_0006   11    9           gone   VBN        (VP*       go  01   15    Bill_Bennett  *      *             *      *       (V*)      -
+bc/msnbc/00/msnbc_0006   11   10            too    RB      (ADVP*       -    -    -    Bill_Bennett  *      *             *      *    (ARG2*       -
+bc/msnbc/00/msnbc_0006   11   11            far    RB     *)))))))      -    -    -    Bill_Bennett  *      *             *)     *         *)      -
+bc/msnbc/00/msnbc_0006   11   12             /?     .          *))      -    -    -    Bill_Bennett  *      *             *      *         *       -

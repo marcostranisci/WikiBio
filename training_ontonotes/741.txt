@@ -1,0 +1,847 @@
+bc/phoenix/00/phoenix_0002   6    0             This    DT   (TOP(S(NP*)      -    -   -   speaker#1        *      *        (ARG1*)  -
+bc/phoenix/00/phoenix_0002   6    1              has   VBZ         (VP*     have  01   -   speaker#1        *    (V*)            *   -
+bc/phoenix/00/phoenix_0002   6    2           always    RB       (ADVP*)      -    -   -   speaker#1        *      *    (ARGM-TMP*)  -
+bc/phoenix/00/phoenix_0002   6    3             been   VBN         (VP*       be  01   2   speaker#1        *      *           (V*)  -
+bc/phoenix/00/phoenix_0002   6    4              the    DT      (NP(NP*       -    -   -   speaker#1        *      *        (ARG2*   -
+bc/phoenix/00/phoenix_0002   6    5             pain    NN            *)    pain   -   -   speaker#1        *      *             *   -
+bc/phoenix/00/phoenix_0002   6    6               in    IN         (PP*       -    -   -   speaker#1        *      *             *   -
+bc/phoenix/00/phoenix_0002   6    7              the    DT      (NP(NP*       -    -   -   speaker#1        *      *             *   -
+bc/phoenix/00/phoenix_0002   6    8           hearts   NNS            *)   heart   -   -   speaker#1        *      *             *   -
+bc/phoenix/00/phoenix_0002   6    9               of    IN         (PP*       -    -   -   speaker#1        *      *             *   -
+bc/phoenix/00/phoenix_0002   6   10             many    JJ         (NP*       -    -   -   speaker#1        *      *             *   -
+bc/phoenix/00/phoenix_0002   6   11          Chinese    JJ            *       -    -   -   speaker#1    (NORP)     *             *   -
+bc/phoenix/00/phoenix_0002   6   12    seismologists   NNS      *)))))))      -    -   -   speaker#1        *      *             *)  -
+bc/phoenix/00/phoenix_0002   6   13                .     .           *))      -    -   -   speaker#1        *      *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0        Before     IN  (TOP(S(PP*          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6    1           the     DT        (NP*          -    -   -   speaker#1   (EVENT*         *         *         *    (77
+bc/phoenix/00/phoenix_0002   6    2         Great    NNP           *          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6    3      Tangshan    NNP           *          -    -   -   speaker#1         *         *         *         *     (8)
+bc/phoenix/00/phoenix_0002   6    4    Earthquake    NNP          *))         -    -   -   speaker#1         *)        *         *         *     77)
+bc/phoenix/00/phoenix_0002   6    5             ,      ,           *          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6    6         China    NNP      (S(NP*)         -    -   -   speaker#1      (GPE)   (ARG0*)        *         *    (31)
+bc/phoenix/00/phoenix_0002   6    7           had    VBD        (VP*        have  03   2   speaker#1         *       (V*)        *         *      -
+bc/phoenix/00/phoenix_0002   6    8        medium     JJ    (NP(NML*          -    -   -   speaker#1         *    (ARG1*         *         *      -
+bc/phoenix/00/phoenix_0002   6    9            -    HYPH           *          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6   10          long     JJ           *          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6   11            -    HYPH           *          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6   12         range     NN           *)      range   -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6   13     forecasts    NNS         *)))   forecast   -   -   speaker#1         *         *)        *         *      -
+bc/phoenix/00/phoenix_0002   6   14             ,      ,           *          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6   15            it    PRP      (S(NP*)         -    -   -   speaker#1         *         *    (ARG0*)        *    (31)
+bc/phoenix/00/phoenix_0002   6   16           had    VBD        (VP*        have  03   2   speaker#1         *         *       (V*)        *      -
+bc/phoenix/00/phoenix_0002   6   17        annual     JJ        (NP*          -    -   -   speaker#1         *         *    (ARG1*         *      -
+bc/phoenix/00/phoenix_0002   6   18     forecasts    NNS         *)))   forecast   -   -   speaker#1         *         *         *)        *      -
+bc/phoenix/00/phoenix_0002   6   19             ,      ,           *          -    -   -   speaker#1         *         *         *         *      -
+bc/phoenix/00/phoenix_0002   6   20            it    PRP      (S(NP*)         -    -   -   speaker#1         *         *         *    (ARG0*)   (31)
+bc/phoenix/00/phoenix_0002   6   21           had    VBD        (VP*        have  03   2   speaker#1         *         *         *       (V*)     -
+bc/phoenix/00/phoenix_0002   6   22      imminent     JJ        (NP*          -    -   -   speaker#1         *         *         *    (ARG1*      -
+bc/phoenix/00/phoenix_0002   6   23     forecasts    NNS         *)))   forecast   -   -   speaker#1         *         *         *         *)     -
+bc/phoenix/00/phoenix_0002   6   24             .      .          *))         -    -   -   speaker#1         *         *         *         *      -
+
+bc/phoenix/00/phoenix_0002   6    0        But     CC  (TOP(S*        -    -   -   speaker#1            *    (ARGM-DIS*)       *      -
+bc/phoenix/00/phoenix_0002   6    1         in     IN     (PP*        -    -   -   speaker#1            *    (ARGM-TMP*        *      -
+bc/phoenix/00/phoenix_0002   6    2        the     DT     (NP*        -    -   -   speaker#1            *             *        *      -
+bc/phoenix/00/phoenix_0002   6    3        end     NN       *))      end   -   -   speaker#1            *             *)       *      -
+bc/phoenix/00/phoenix_0002   6    4          ,      ,        *        -    -   -   speaker#1            *             *        *      -
+bc/phoenix/00/phoenix_0002   6    5        the     DT     (NP*        -    -   -   speaker#1            *        (ARG1*        *      -
+bc/phoenix/00/phoenix_0002   6    6     tragic     JJ        *        -    -   -   speaker#1            *             *        *      -
+bc/phoenix/00/phoenix_0002   6    7     result     NN        *)   result   -   -   speaker#1            *             *)       *      -
+bc/phoenix/00/phoenix_0002   6    8        was    VBD     (VP*        be  01   2   speaker#1            *           (V*)       *      -
+bc/phoenix/00/phoenix_0002   6    9       that     IN   (SBAR*        -    -   -   speaker#1            *        (ARG2*        *      -
+bc/phoenix/00/phoenix_0002   6   10   240,000      CD   (S(NP*        -    -   -   speaker#1    (CARDINAL)            *   (ARG0*    (87
+bc/phoenix/00/phoenix_0002   6   11     people    NNS        *)   people   -   -   speaker#1            *             *        *)    87)
+bc/phoenix/00/phoenix_0002   6   12       lost    VBD     (VP*      lose  02   4   speaker#1            *             *      (V*)   (70)
+bc/phoenix/00/phoenix_0002   6   13      their   PRP$     (NP*        -    -   -   speaker#1            *             *   (ARG1*    (87)
+bc/phoenix/00/phoenix_0002   6   14      lives    NNS    *)))))     live   -   -   speaker#1            *             *)       *)     -
+bc/phoenix/00/phoenix_0002   6   15          .      .       *))       -    -   -   speaker#1            *             *        *      -
+
+bc/phoenix/00/phoenix_0002   6    0          We   PRP    (TOP(S(NP*)       -    -   -   speaker#1   *        (ARG0*)       *      -
+bc/phoenix/00/phoenix_0002   6    1      should    MD          (VP*        -    -   -   speaker#1   *    (ARGM-MOD*)       *      -
+bc/phoenix/00/phoenix_0002   6    2         say    VB          (VP*       say  01   1   speaker#1   *           (V*)       *      -
+bc/phoenix/00/phoenix_0002   6    3       there    EX   (SBAR(S(NP*)       -    -   -   speaker#1   *        (ARG1*        *      -
+bc/phoenix/00/phoenix_0002   6    4          is   VBZ          (VP*        be  02   3   speaker#1   *             *      (V*)     -
+bc/phoenix/00/phoenix_0002   6    5           a    DT       (NP(NP*        -    -   -   speaker#1   *             *   (ARG1*      -
+bc/phoenix/00/phoenix_0002   6    6    profound    JJ             *        -    -   -   speaker#1   *             *        *      -
+bc/phoenix/00/phoenix_0002   6    7      lesson    NN             *)   lesson   -   -   speaker#1   *             *        *      -
+bc/phoenix/00/phoenix_0002   6    8          in    IN          (PP*        -    -   -   speaker#1   *             *        *      -
+bc/phoenix/00/phoenix_0002   6    9        this    DT   (NP*))))))))       -    -   -   speaker#1   *             *)       *)   (70)
+bc/phoenix/00/phoenix_0002   6   10           .     .            *))       -    -   -   speaker#1   *             *        *      -
+
+bc/phoenix/00/phoenix_0002   6    0               Why   WRB   (TOP(SBARQ(WHADVP*)        -    -   -   speaker#2   *      *    (ARGM-CAU*)       *        *      -
+bc/phoenix/00/phoenix_0002   6    1                do   VBP                 (SQ*         do  01   -   speaker#2   *    (V*)            *        *        *      -
+bc/phoenix/00/phoenix_0002   6    2               you   PRP                 (NP*)        -    -   -   speaker#2   *      *        (ARG0*)       *        *    (21)
+bc/phoenix/00/phoenix_0002   6    3           believe    VB                 (VP*    believe  01   1   speaker#2   *      *           (V*)       *        *      -
+bc/phoenix/00/phoenix_0002   6    4              that    IN               (SBAR*         -    -   -   speaker#2   *      *        (ARG1*        *        *      -
+bc/phoenix/00/phoenix_0002   6    5               the    DT            (S(NP(NP*         -    -   -   speaker#2   *      *             *   (ARG0*   (ARG0*    (72
+bc/phoenix/00/phoenix_0002   6    6           leaders   NNS                    *)        -    -   -   speaker#2   *      *             *        *        *      -
+bc/phoenix/00/phoenix_0002   6    7          involved    JJ              (ADJP*))        -    -   -   speaker#2   *      *             *        *)       *)    72)
+bc/phoenix/00/phoenix_0002   6    8              need   VBP                 (VP*       need  01   2   speaker#2   *      *             *      (V*)       *      -
+bc/phoenix/00/phoenix_0002   6    9                to    TO               (S(VP*         -    -   -   speaker#2   *      *             *   (ARG1*        *      -
+bc/phoenix/00/phoenix_0002   6   10              take    VB                 (VP*       take  01   5   speaker#2   *      *             *        *      (V*)     -
+bc/phoenix/00/phoenix_0002   6   11    responsibility    NN              (NP(NP*)        -    -   -   speaker#2   *      *             *        *   (ARG1*      -
+bc/phoenix/00/phoenix_0002   6   12               for    IN                 (PP*         -    -   -   speaker#2   *      *             *        *        *      -
+bc/phoenix/00/phoenix_0002   6   13              this    DT       (NP*)))))))))))        -    -   -   speaker#2   *      *             *)       *)       *)   (70)
+bc/phoenix/00/phoenix_0002   6   14                 ?     .                   *))        -    -   -   speaker#2   *      *             *        *        *      -
+
+bc/phoenix/00/phoenix_0002   6    0          Maybe    RB   (TOP(S(ADVP*)          -    -   -   speaker#2   *    (ARGM-ADV*)     *      -
+bc/phoenix/00/phoenix_0002   6    1            for    IN           (PP*           -    -   -   speaker#2   *    (ARGM-ADV*      *      -
+bc/phoenix/00/phoenix_0002   6    2           them   PRP          (NP*))          -    -   -   speaker#2   *             *)     *    (72)
+bc/phoenix/00/phoenix_0002   6    3             it   PRP           (NP*)          -    -   -   speaker#2   *        (ARG1*)     *      -
+bc/phoenix/00/phoenix_0002   6    4            was   VBD           (VP*           be  01   1   speaker#2   *           (V*)     *      -
+bc/phoenix/00/phoenix_0002   6    5           just    RB        (NP(NP*           -    -   -   speaker#2   *        (ARG2*      *      -
+bc/phoenix/00/phoenix_0002   6    6             an    DT              *           -    -   -   speaker#2   *             *      *      -
+bc/phoenix/00/phoenix_0002   6    7    inadvertent    JJ              *           -    -   -   speaker#2   *             *      *      -
+bc/phoenix/00/phoenix_0002   6    8        mistake    NN              *)     mistake   -   -   speaker#2   *             *      *      -
+bc/phoenix/00/phoenix_0002   6    9              ,     ,              *           -    -   -   speaker#2   *             *      *      -
+bc/phoenix/00/phoenix_0002   6   10             or    CC              *           -    -   -   speaker#2   *             *      *      -
+bc/phoenix/00/phoenix_0002   6   11             an    DT           (NP*           -    -   -   speaker#2   *             *      *      -
+bc/phoenix/00/phoenix_0002   6   12      oversight    NN            *)))   oversight  02   1   speaker#2   *             *)   (V*)     -
+bc/phoenix/00/phoenix_0002   6   13              .     .             *))          -    -   -   speaker#2   *             *      *      -
+
+bc/phoenix/00/phoenix_0002   6    0          I   PRP    (TOP(S(NP*)        -    -   -    Huang__xiangning  *    (ARG0*)     *         *             *    (21)
+bc/phoenix/00/phoenix_0002   6    1    believe   VBP          (VP*    believe  01   1    Huang__xiangning  *       (V*)     *         *             *      -
+bc/phoenix/00/phoenix_0002   6    2       they   PRP   (SBAR(S(NP*)        -    -   -    Huang__xiangning  *    (ARG1*      *    (ARG0*)       (ARG0*)   (72)
+bc/phoenix/00/phoenix_0002   6    3      ought    MD             *         -    -   -    Huang__xiangning  *         *      *         *             *      -
+bc/phoenix/00/phoenix_0002   6    4         to    TO        (S(VP*         -    -   -    Huang__xiangning  *         *      *         *             *      -
+bc/phoenix/00/phoenix_0002   6    5          ,     ,             *         -    -   -    Huang__xiangning  *         *      *         *             *      -
+bc/phoenix/00/phoenix_0002   6    6          ,     ,             *         -    -   -    Huang__xiangning  *         *      *         *             *      -
+bc/phoenix/00/phoenix_0002   6    7       have   VBP          (VP*       have  01   -    Huang__xiangning  *         *    (V*)        *             *      -
+bc/phoenix/00/phoenix_0002   6    8       held   VBN       (VP(VP*       hold  04   8    Huang__xiangning  *         *      *       (V*)            *      -
+bc/phoenix/00/phoenix_0002   6    9          a    DT          (NP*         -    -   -    Huang__xiangning  *         *      *    (ARG1*             *      -
+bc/phoenix/00/phoenix_0002   6   10    meeting    NN            *))      meet   -   -    Huang__xiangning  *         *      *         *)            *      -
+bc/phoenix/00/phoenix_0002   6   11          ,     ,             *         -    -   -    Huang__xiangning  *         *      *         *             *      -
+bc/phoenix/00/phoenix_0002   6   12        and    CC             *         -    -   -    Huang__xiangning  *         *      *         *             *      -
+bc/phoenix/00/phoenix_0002   6   13      maybe    RB        (ADVP*)        -    -   -    Huang__xiangning  *         *      *         *    (ARGM-ADV*)     -
+bc/phoenix/00/phoenix_0002   6   14    reduced   VBN          (VP*     reduce  01   1    Huang__xiangning  *         *      *         *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   15        the    DT          (NP*         -    -   -    Huang__xiangning  *         *      *         *        (ARG1*      -
+bc/phoenix/00/phoenix_0002   6   16     losses   NNS     *)))))))))        -    -   -    Huang__xiangning  *         *)     *         *             *)     -
+bc/phoenix/00/phoenix_0002   6   17          .     .            *))        -    -   -    Huang__xiangning  *         *      *         *             *      -
+
+bc/phoenix/00/phoenix_0002   6    0        Therefore    RB   (TOP(S(ADVP*)         -    -   -    Huang__xiangning       *    (ARGM-DIS*)            *            *      -
+bc/phoenix/00/phoenix_0002   6    1              the    DT           (NP*          -    -   -    Huang__xiangning       *    (ARGM-PRD*             *            *    (77
+bc/phoenix/00/phoenix_0002   6    2         Tangshan   NNP              *          -    -   -    Huang__xiangning    (GPE)            *             *            *     (8)
+bc/phoenix/00/phoenix_0002   6    3       earthquake    NN              *)         -    -   -    Huang__xiangning       *             *)            *            *     77)
+bc/phoenix/00/phoenix_0002   6    4                ,     ,              *          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6    5                I   PRP           (NP*)         -    -   -    Huang__xiangning       *        (ARG0*)            *            *    (21)
+bc/phoenix/00/phoenix_0002   6    6            still    RB         (ADVP*)         -    -   -    Huang__xiangning       *    (ARGM-TMP*)            *            *      -
+bc/phoenix/00/phoenix_0002   6    7              say   VBP           (VP*         say  01   1    Huang__xiangning       *           (V*)            *            *      -
+bc/phoenix/00/phoenix_0002   6    8                ,     ,              *          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6    9               we   PRP    (SBAR(S(NP*)         -    -   -    Huang__xiangning       *        (ARG1*        (ARG1*)      (ARG0*)     -
+bc/phoenix/00/phoenix_0002   6   10              are   VBP           (VP*          be  01   4    Huang__xiangning       *             *           (V*)           *      -
+bc/phoenix/00/phoenix_0002   6   11              not    RB              *          -    -   -    Huang__xiangning       *             *    (ARGM-NEG*)           *      -
+bc/phoenix/00/phoenix_0002   6   12               at    IN           (PP*          -    -   -    Huang__xiangning       *             *        (ARG2*            *      -
+bc/phoenix/00/phoenix_0002   6   13              the    DT           (NP*          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   14           levels   NNS             *))      level   -   -    Huang__xiangning       *             *             *)           *      -
+bc/phoenix/00/phoenix_0002   6   15                ,     ,              *          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   16                ,     ,            (S*          -    -   -    Huang__xiangning       *             *    (ARGM-PRP*            *      -
+bc/phoenix/00/phoenix_0002   6   17               to    TO           (VP*          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   18         forecast    VB           (VP*    forecast  01   1    Huang__xiangning       *             *             *          (V*)     -
+bc/phoenix/00/phoenix_0002   6   19               on    IN           (PP*          -    -   -    Huang__xiangning       *             *             *   (ARGM-TMP*      -
+bc/phoenix/00/phoenix_0002   6   20             time    NN          (NP*))       time   -   -    Huang__xiangning       *             *             *            *)     -
+bc/phoenix/00/phoenix_0002   6   21                ,     ,              *          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   22               on    IN           (PP*          -    -   -    Huang__xiangning       *             *             *   (ARGM-TMP*      -
+bc/phoenix/00/phoenix_0002   6   23             July   NNP        (NP(NP*          -    -   -    Huang__xiangning  (DATE*             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   24              28     CD              *)         -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   25                ,     ,              *          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   26            1976     CD           (NP*)         -    -   -    Huang__xiangning       *)            *             *            *      -
+bc/phoenix/00/phoenix_0002   6   27                ,     ,              *          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   28               at    IN           (PP*          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   29    approximately    RB           (NP*          -    -   -    Huang__xiangning       *             *             *            *      -
+bc/phoenix/00/phoenix_0002   6   30            3:42     CD    *)))))))))))         -    -   -    Huang__xiangning   (TIME)            *)            *)           *)     -
+bc/phoenix/00/phoenix_0002   6   31                .     .             *))         -    -   -    Huang__xiangning       *             *             *            *      -
+
+bc/phoenix/00/phoenix_0002   6    0       But    CC           (TOP(S*       -    -   -    Huang__xiangning       *    (ARGM-DIS*)              *   -
+bc/phoenix/00/phoenix_0002   6    1        we   PRP              (NP*)      -    -   -    Huang__xiangning       *        (ARG1*)              *   -
+bc/phoenix/00/phoenix_0002   6    2       are   VBP              (VP*       be  01   4    Huang__xiangning       *           (V*)              *   -
+bc/phoenix/00/phoenix_0002   6    3        at    IN              (PP*       -    -   -    Huang__xiangning       *        (ARG2*               *   -
+bc/phoenix/00/phoenix_0002   6    4       the    DT           (NP(NP*       -    -   -    Huang__xiangning       *             *      (ARGM-LOC*   -
+bc/phoenix/00/phoenix_0002   6    5     level    NN                 *)   level   -   -    Huang__xiangning       *             *               *)  -
+bc/phoenix/00/phoenix_0002   6    6     where   WRB     (SBAR(WHADVP*)      -    -   -    Huang__xiangning       *             *    (R-ARGM-LOC*)  -
+bc/phoenix/00/phoenix_0002   6    7        we   PRP            (S(NP*)      -    -   -    Huang__xiangning       *             *          (ARG0*)  -
+bc/phoenix/00/phoenix_0002   6    8       can    MD              (VP*       -    -   -    Huang__xiangning       *             *      (ARGM-MOD*)  -
+bc/phoenix/00/phoenix_0002   6    9       say    VB              (VP*      say  01   1    Huang__xiangning       *             *             (V*)  -
+bc/phoenix/00/phoenix_0002   6   10         ,     ,                 *       -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   11        in    IN           (PP(PP*       -    -   -    Huang__xiangning       *             *          (ARG1*   -
+bc/phoenix/00/phoenix_0002   6   12      late    JJ           (NP(NP*       -    -   -    Huang__xiangning  (DATE*             *               *   -
+bc/phoenix/00/phoenix_0002   6   13      July   NNP                 *)      -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   14        or    CC                 *       -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   15     early    JJ              (NP*       -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   16    August   NNP               *)))      -    -   -    Huang__xiangning       *)            *               *   -
+bc/phoenix/00/phoenix_0002   6   17         ,     ,                 *       -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   18        in    IN              (PP*       -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   19      that    DT           (NP(NP*       -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   20      week    NN                 *)      -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   21        of    IN              (PP*       -    -   -    Huang__xiangning       *             *               *   -
+bc/phoenix/00/phoenix_0002   6   22      time    NN   (NP*))))))))))))    time   -   -    Huang__xiangning       *             *)              *)  -
+bc/phoenix/00/phoenix_0002   6   23         ,     ,                *))      -    -   -    Huang__xiangning       *             *               *   -
+
+bc/phoenix/00/phoenix_0002   6   0        ,     ,   (TOP(S*      -    -   -    Huang__xiangning  *      *      *             *   -
+bc/phoenix/00/phoenix_0002   6   1     this    DT   (NP(NP*)     -    -   -    Huang__xiangning  *      *      *        (ARG1*   -
+bc/phoenix/00/phoenix_0002   6   2      all    DT     (NP*))     -    -   -    Huang__xiangning  *      *      *             *)  -
+bc/phoenix/00/phoenix_0002   6   3    could    MD      (VP*      -    -   -    Huang__xiangning  *      *      *    (ARGM-MOD*)  -
+bc/phoenix/00/phoenix_0002   6   4     have    VB      (VP*    have  01   -    Huang__xiangning  *    (V*)     *             *   -
+bc/phoenix/00/phoenix_0002   6   5     been   VBN      (VP*      be  03   -    Huang__xiangning  *      *    (V*)            *   -
+bc/phoenix/00/phoenix_0002   6   6     said   VBD   (VP*))))    say  01   1    Huang__xiangning  *      *      *           (V*)  -
+bc/phoenix/00/phoenix_0002   6   7        .     .        *))     -    -   -    Huang__xiangning  *      *      *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0             We   PRP        (TOP(S(S(NP*)       -    -   -    Huang__xiangning      *        (ARG1*)           *             *     -
+bc/phoenix/00/phoenix_0002   6    1            're   VBP                (VP*        be  01   1    Huang__xiangning      *           (V*)           *             *     -
+bc/phoenix/00/phoenix_0002   6    2            not    RB                   *        -    -   -    Huang__xiangning      *    (ARGM-NEG*)           *             *     -
+bc/phoenix/00/phoenix_0002   6    3             at    IN                (PP*        -    -   -    Huang__xiangning      *        (ARG2*            *             *     -
+bc/phoenix/00/phoenix_0002   6    4            the    DT             (NP(NP*        -    -   -    Huang__xiangning      *             *   (ARGM-LOC*             *     -
+bc/phoenix/00/phoenix_0002   6    5          level    NN                   *)    level   -   -    Huang__xiangning      *             *            *)            *     -
+bc/phoenix/00/phoenix_0002   6    6             to    TO         (SBAR(S(VP*        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6    7         report    VB                (VP*    report  01   1    Huang__xiangning      *             *          (V*)            *     -
+bc/phoenix/00/phoenix_0002   6    8           that    IN              (SBAR*        -    -   -    Huang__xiangning      *             *       (ARG1*             *     -
+bc/phoenix/00/phoenix_0002   6    9       Tangshan   NNP           (X(NP(NP*        -    -   -    Huang__xiangning  (GPE*             *            *             *    (8
+bc/phoenix/00/phoenix_0002   6   10           City   NNP                   *)       -    -   -    Huang__xiangning      *)            *            *             *     8)
+bc/phoenix/00/phoenix_0002   6   11              ,     ,                   *        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   12            the    DT             (NP(NP*        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   13          small    JJ                   *        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   14           area    NN                   *)       -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   15             of    IN                (PP*        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   16        Fengnan   NNP               (NP*))       -    -   -    Huang__xiangning   (GPE)            *            *             *     -
+bc/phoenix/00/phoenix_0002   6   17             in    IN                (PP*        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   18       Tangshan   NNP   (NP*))))))))))))))       -    -   -    Huang__xiangning   (GPE)            *)           *)            *    (8)
+bc/phoenix/00/phoenix_0002   6   19              ,     ,                   *        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   20            but    CC                   *        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   21             we   PRP              (S(NP*)       -    -   -    Huang__xiangning      *             *            *        (ARG0*)    -
+bc/phoenix/00/phoenix_0002   6   22            can    MD                (VP*        -    -   -    Huang__xiangning      *             *            *    (ARGM-MOD*)    -
+bc/phoenix/00/phoenix_0002   6   23         report    VB                (VP*    report  01   1    Huang__xiangning      *             *            *           (V*)    -
+bc/phoenix/00/phoenix_0002   6   24            for    IN                (PP*        -    -   -    Huang__xiangning      *             *            *        (ARG2*     -
+bc/phoenix/00/phoenix_0002   6   25            the    DT                (NP*        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   26        Beijing   NNP               (NML*        -    -   -    Huang__xiangning   (GPE)            *            *             *     -
+bc/phoenix/00/phoenix_0002   6   27              ,     ,                   *        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   28        Tianjin   NNP                   *        -    -   -    Huang__xiangning   (GPE)            *            *             *     -
+bc/phoenix/00/phoenix_0002   6   29              ,     ,                   *        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   30       Tangshan   NNP                   *        -    -   -    Huang__xiangning   (GPE)            *            *             *    (8)
+bc/phoenix/00/phoenix_0002   6   31            and    CC                   *        -    -   -    Huang__xiangning      *             *            *             *     -
+bc/phoenix/00/phoenix_0002   6   32    Zhangjiakou   NNP                   *)       -    -   -    Huang__xiangning   (GPE)            *            *             *     -
+bc/phoenix/00/phoenix_0002   6   33           area    NN               *)))))       -    -   -    Huang__xiangning      *             *            *             *)    -
+bc/phoenix/00/phoenix_0002   6   34              .     .                  *))       -    -   -    Huang__xiangning      *             *            *             *     -
+
+bc/phoenix/00/phoenix_0002   6   0          ,     ,  (TOP(S*      -    -    -    Huang__xiangning  *      *             *   -
+bc/phoenix/00/phoenix_0002   6   1         we   PRP     (NP*)     -    -    -    Huang__xiangning  *      *        (ARG0*)  -
+bc/phoenix/00/phoenix_0002   6   2       have   VBP     (VP*    have  01   12    Huang__xiangning  *    (V*)            *   -
+bc/phoenix/00/phoenix_0002   6   3    already    RB   (ADVP*)     -    -    -    Huang__xiangning  *      *    (ARGM-TMP*)  -
+bc/phoenix/00/phoenix_0002   6   4          ,     ,        *      -    -    -    Huang__xiangning  *      *             *   -
+bc/phoenix/00/phoenix_0002   6   5       very    RB   (ADVP*      -    -    -    Huang__xiangning  *      *    (ARGM-MNR*   -
+bc/phoenix/00/phoenix_0002   6   6    clearly    RB        *)     -    -    -    Huang__xiangning  *      *             *)  -
+bc/phoenix/00/phoenix_0002   6   7       said   VBD     (VP*     say  01    1    Huang__xiangning  *      *           (V*)  -
+bc/phoenix/00/phoenix_0002   6   8       that    DT   (NP*)))     -    -    -    Huang__xiangning  *      *        (ARG1*)  -
+bc/phoenix/00/phoenix_0002   6   9          .     .       *))     -    -    -    Huang__xiangning  *      *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0            We   PRP   (TOP(S(S(NP*)         -    -   -    Huang__xiangning           *        (ARG0*)            *             *   -
+bc/phoenix/00/phoenix_0002   6    1            ca    MD           (VP*          -    -   -    Huang__xiangning           *    (ARGM-MOD*)            *             *   -
+bc/phoenix/00/phoenix_0002   6    2           n't    RB              *          -    -   -    Huang__xiangning           *    (ARGM-NEG*)            *             *   -
+bc/phoenix/00/phoenix_0002   6    3     correctly    RB         (ADVP*)         -    -   -    Huang__xiangning           *    (ARGM-MNR*)            *             *   -
+bc/phoenix/00/phoenix_0002   6    4       predict    VB           (VP*     predict  01   1    Huang__xiangning           *           (V*)            *             *   -
+bc/phoenix/00/phoenix_0002   6    5             a    DT           (NP*          -    -   -    Huang__xiangning           *        (ARG1*             *             *   -
+bc/phoenix/00/phoenix_0002   6    6          7.8     CD              *          -    -   -    Huang__xiangning   (CARDINAL)            *             *             *   -
+bc/phoenix/00/phoenix_0002   6    7    earthquake    NN           *))))         -    -   -    Huang__xiangning           *             *)            *             *   -
+bc/phoenix/00/phoenix_0002   6    8             ,     ,              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6    9           but    CC              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   10            we   PRP       (S(S(NP*)         -    -   -    Huang__xiangning           *             *        (ARG0*)            *   -
+bc/phoenix/00/phoenix_0002   6   11           can    MD           (VP*          -    -   -    Huang__xiangning           *             *    (ARGM-MOD*)            *   -
+bc/phoenix/00/phoenix_0002   6   12      forecast    VB           (VP*    forecast  01   1    Huang__xiangning           *             *           (V*)            *   -
+bc/phoenix/00/phoenix_0002   6   13            an    DT           (NP*          -    -   -    Huang__xiangning           *             *        (ARG1*             *   -
+bc/phoenix/00/phoenix_0002   6   14         above    IN        (QP(QP*          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   15          5.0     CD              *)         -    -   -    Huang__xiangning   (CARDINAL)            *             *             *   -
+bc/phoenix/00/phoenix_0002   6   16             ,     ,              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   17          even    RB           (QP*          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   18         above    IN              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   19          6.0     CD              *)         -    -   -    Huang__xiangning   (CARDINAL)            *             *             *   -
+bc/phoenix/00/phoenix_0002   6   20             ,     ,              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   21            or    CC              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   22          even    RB           (NP*          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   23          that    DT              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   24           not    RB            (S*          -    -   -    Huang__xiangning           *             *             *    (ARGM-NEG*)  -
+bc/phoenix/00/phoenix_0002   6   25     excluding   VBG           (VP*     exclude  01   1    Huang__xiangning           *             *             *           (V*)  -
+bc/phoenix/00/phoenix_0002   6   26             a    DT           (NP*          -    -   -    Huang__xiangning           *             *             *        (ARG1*   -
+bc/phoenix/00/phoenix_0002   6   27          7.0     CD              *          -    -   -    Huang__xiangning   (CARDINAL)            *             *             *   -
+bc/phoenix/00/phoenix_0002   6   28    earthquake    NN      *)))))))))         -    -   -    Huang__xiangning           *             *             *)            *)  -
+bc/phoenix/00/phoenix_0002   6   29             ,     ,              *          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   30          that    DT           (NP*)         -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   31            we   PRP         (S(NP*)         -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   32           can    MD           (VP*          -    -   -    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   33           say    VB        (VP*))))        say   -   1    Huang__xiangning           *             *             *             *   -
+bc/phoenix/00/phoenix_0002   6   34             .     .             *))         -    -   -    Huang__xiangning           *             *             *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0            If    IN  (TOP(S(SBAR*        -    -   -   speaker#2         *         *    (ARGM-ADV*             *      *         *      -
+bc/phoenix/00/phoenix_0002   6    1           you   PRP        (S(NP*)       -    -   -   speaker#2         *    (ARG0*)            *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6    2          look   VBP          (VP*      look  01   1   speaker#2         *       (V*)            *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6    3            at    IN          (PP*        -    -   -   speaker#2         *    (ARG1*             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6    4           the    DT          (NP*        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6    5      Tangshan   NNP         (NML*        -    -   -   speaker#2      (GPE)        *             *             *      *         *     (8)
+bc/phoenix/00/phoenix_0002   6    6      disaster    NN             *)       -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6    7       records   NNS         *)))))   record   -   -   speaker#2         *         *)            *)            *      *         *      -
+bc/phoenix/00/phoenix_0002   6    8             ,     ,             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6    9          many    JJ          (NP*        -    -   -   speaker#2         *         *        (ARG0*             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   10        people   NNS             *)   people   -   -   speaker#2         *         *             *)            *      *         *      -
+bc/phoenix/00/phoenix_0002   6   11         might    MD          (VP*        -    -   -   speaker#2         *         *    (ARGM-MOD*)            *      *         *      -
+bc/phoenix/00/phoenix_0002   6   12           get    VB          (VP*       get  01   1   speaker#2         *         *           (V*)            *      *         *      -
+bc/phoenix/00/phoenix_0002   6   13           the    DT          (NP*        -    -   -   speaker#2         *         *        (ARG1*             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   14    impression    NN             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   15          that    IN   (SBAR(SBAR*        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   16           the    DT        (S(NP*        -    -   -   speaker#2   (EVENT*         *             *        (ARG1*      *         *    (77
+bc/phoenix/00/phoenix_0002   6   17         Great   NNP             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   18      Tangshan   NNP             *        -    -   -   speaker#2         *         *             *             *      *         *     (8)
+bc/phoenix/00/phoenix_0002   6   19    earthquake    NN             *)       -    -   -   speaker#2         *)        *             *             *)     *         *     77)
+bc/phoenix/00/phoenix_0002   6   20           was   VBD          (VP*        be  01   1   speaker#2         *         *             *           (V*)     *         *      -
+bc/phoenix/00/phoenix_0002   6   21           not    RB             *        -    -   -   speaker#2         *         *             *    (ARGM-NEG*)     *         *      -
+bc/phoenix/00/phoenix_0002   6   22          just    RB          (NP*        -    -   -   speaker#2         *         *             *        (ARG2*      *         *      -
+bc/phoenix/00/phoenix_0002   6   23             a    DT             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   24       natural    JJ             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   25      disaster    NN          *))))       -    -   -   speaker#2         *         *             *             *)     *         *      -
+bc/phoenix/00/phoenix_0002   6   26             ,     ,             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   27           but    CC             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   28          that    IN        (SBAR*        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   29            it   PRP        (S(NP*)       -    -   -   speaker#2         *         *             *             *      *    (ARG1*)   (77)
+bc/phoenix/00/phoenix_0002   6   30           was   VBD          (VP*        be  03   -   speaker#2         *         *             *             *    (V*)        *      -
+bc/phoenix/00/phoenix_0002   6   31          made   VBN          (VP*      make  07   -   speaker#2         *         *             *             *      *       (V*)     -
+bc/phoenix/00/phoenix_0002   6   32            up    RP         (PRT*)       -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   33            of    IN          (PP*        -    -   -   speaker#2         *         *             *             *      *    (ARG0*      -
+bc/phoenix/00/phoenix_0002   6   34          many    JJ          (NP*        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   35         human    JJ             *        -    -   -   speaker#2         *         *             *             *      *         *      -
+bc/phoenix/00/phoenix_0002   6   36     disasters   NNS    *))))))))))       -    -   -   speaker#2         *         *             *)            *      *         *)     -
+bc/phoenix/00/phoenix_0002   6   37             .     .            *))       -    -   -   speaker#2         *         *             *             *      *         *      -
+
+bc/phoenix/00/phoenix_0002   6   0     How   WRB   (TOP(SBARQ(WHADVP*)    -    -   -   speaker#2   *      *    (ARGM-MNR*)     -
+bc/phoenix/00/phoenix_0002   6   1      do    VB                 (SQ*     do  01   -   speaker#2   *    (V*)            *      -
+bc/phoenix/00/phoenix_0002   6   2     you   PRP                 (NP*)    -    -   -   speaker#2   *      *        (ARG0*)   (21)
+bc/phoenix/00/phoenix_0002   6   3     see    VB                 (VP*    see  01   2   speaker#2   *      *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   4    that    DT               (NP*)))    -    -   -   speaker#2   *      *        (ARG1*)     -
+bc/phoenix/00/phoenix_0002   6   5       ?     .                   *))    -    -   -   speaker#2   *      *             *      -
+
+bc/phoenix/00/phoenix_0002   6    0           ,     ,       (TOP(S(S*          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6    1           ,     ,               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6    2           ,     ,               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6    3          it   PRP            (NP*)         -    -   -    Huang__xiangning  *    (ARG1*)            *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6    4          's   VBZ            (VP*          be  01   1    Huang__xiangning  *       (V*)            *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6    5           a    DT         (NP(NP*          -    -   -    Huang__xiangning  *    (ARG2*        (ARG1*         *         *             *      -
+bc/phoenix/00/phoenix_0002   6    6    question    NN               *)   question   -   -    Huang__xiangning  *         *             *)        *         *             *      -
+bc/phoenix/00/phoenix_0002   6    7           I   PRP     (SBAR(S(NP*)         -    -   -    Huang__xiangning  *         *        (ARG0*)        *         *             *    (21)
+bc/phoenix/00/phoenix_0002   6    8          ca    MD            (VP*          -    -   -    Huang__xiangning  *         *    (ARGM-MOD*)        *         *             *      -
+bc/phoenix/00/phoenix_0002   6    9         n't    RB               *          -    -   -    Huang__xiangning  *         *    (ARGM-NEG*)        *         *             *      -
+bc/phoenix/00/phoenix_0002   6   10      answer    VB            (VP*      answer  01   1    Huang__xiangning  *         *           (V*)        *         *             *      -
+bc/phoenix/00/phoenix_0002   6   11     clearly    RB          (ADVP*)         -    -   -    Huang__xiangning  *         *    (ARGM-MNR*)        *         *             *      -
+bc/phoenix/00/phoenix_0002   6   12        here    RB   (ADVP*))))))))         -    -   -    Huang__xiangning  *         *)   (ARGM-LOC*)        *         *             *      -
+bc/phoenix/00/phoenix_0002   6   13           ,     ,               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   14           I   PRP      (PRN(S(NP*)         -    -   -    Huang__xiangning  *         *             *    (ARG0*)        *             *    (21)
+bc/phoenix/00/phoenix_0002   6   15        mean   VBP          (VP*)))       mean  01   1    Huang__xiangning  *         *             *       (V*)        *             *      -
+bc/phoenix/00/phoenix_0002   6   16           ,     ,               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   17          to    TO        (S(S(VP*          -    -   -    Huang__xiangning  *         *             *         *         *    (ARGM-DIS*      -
+bc/phoenix/00/phoenix_0002   6   18          be    VB            (VP*          be  01   1    Huang__xiangning  *         *             *         *       (V*)            *      -
+bc/phoenix/00/phoenix_0002   6   19     precise    JJ       (ADJP*))))         -    -   -    Huang__xiangning  *         *             *         *    (ARG2*)            *)     -
+bc/phoenix/00/phoenix_0002   6   20           ,     ,               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   21           ,     ,               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   22          in    IN            (PP*          -    -   -    Huang__xiangning  *         *             *         *         *    (ARGM-ADV*      -
+bc/phoenix/00/phoenix_0002   6   23    addition    NN         (NP(NP*)         -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   24          to    IN            (PP*          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   25           a    DT            (NP*          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   26     natural    JJ               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   27    disaster    NN            *))))         -    -   -    Huang__xiangning  *         *             *         *         *             *)     -
+bc/phoenix/00/phoenix_0002   6   28          it   PRP            (NP*)         -    -   -    Huang__xiangning  *         *             *         *         *        (ARG1*)     -
+bc/phoenix/00/phoenix_0002   6   29          's   VBZ            (VP*          be  01   1    Huang__xiangning  *         *             *         *         *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   30        also    RB          (ADVP*)         -    -   -    Huang__xiangning  *         *             *         *         *    (ARGM-ADV*)     -
+bc/phoenix/00/phoenix_0002   6   31           a    DT            (NP*          -    -   -    Huang__xiangning  *         *             *         *         *        (ARG2*      -
+bc/phoenix/00/phoenix_0002   6   32       human    JJ               *          -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+bc/phoenix/00/phoenix_0002   6   33    disaster    NN             *)))         -    -   -    Huang__xiangning  *         *             *         *         *             *)     -
+bc/phoenix/00/phoenix_0002   6   34           .     .              *))         -    -   -    Huang__xiangning  *         *             *         *         *             *      -
+
+bc/phoenix/00/phoenix_0002   6    0         That    DT   (TOP(S(S(NP*)         -    -   -    Huang__xiangning           *        (ARG2*)       *         *   -
+bc/phoenix/00/phoenix_0002   6    1     included   VBD           (VP*     include  01   1    Huang__xiangning           *           (V*)       *         *   -
+bc/phoenix/00/phoenix_0002   6    2           at    IN           (PP*          -    -   -    Huang__xiangning           *    (ARGM-TMP*        *         *   -
+bc/phoenix/00/phoenix_0002   6    3          the    DT           (NP*          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6    4         time    NN             *))       time   -   -    Huang__xiangning           *             *)       *         *   -
+bc/phoenix/00/phoenix_0002   6    5            ,     ,              *          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6    6            ,     ,              *          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6    7           in    IN           (PP*          -    -   -    Huang__xiangning           *    (ARGM-ADV*        *         *   -
+bc/phoenix/00/phoenix_0002   6    8        terms   NNS        (NP(NP*)       term   -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6    9           of    IN           (PP*          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6   10     politics   NNS        (NP*))))         -    -   -    Huang__xiangning           *             *)       *         *   -
+bc/phoenix/00/phoenix_0002   6   11            ,     ,              *          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6   12    certainly    RB         (ADVP*)         -    -   -    Huang__xiangning           *    (ARGM-ADV*)       *         *   -
+bc/phoenix/00/phoenix_0002   6   13         some    DT           (NP*          -    -   -    Huang__xiangning           *        (ARG1*        *         *   -
+bc/phoenix/00/phoenix_0002   6   14    campaigns   NNS              *)   campaign   -   -    Huang__xiangning           *             *)       *         *   -
+bc/phoenix/00/phoenix_0002   6   15         like    IN         (SBAR*          -    -   -    Huang__xiangning           *    (ARGM-ADV*        *         *   -
+bc/phoenix/00/phoenix_0002   6   16          the    DT      (S(NP(NP*          -    -   -    Huang__xiangning       (ORG*             *   (ARG0*         *   -
+bc/phoenix/00/phoenix_0002   6   17         Gang    NN              *)       gang   -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6   18           of    IN           (PP*          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6   19         Four   NNP         (NP*)))         -    -   -    Huang__xiangning           *)            *        *)        *   -
+bc/phoenix/00/phoenix_0002   6   20            ,     ,              *          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6   21          had   VBD           (VP*        have  03   6    Huang__xiangning           *             *      (V*)        *   -
+bc/phoenix/00/phoenix_0002   6   22           an    DT           (NP*          -    -   -    Huang__xiangning           *             *   (ARG1*         *   -
+bc/phoenix/00/phoenix_0002   6   23       effect    NN         *))))))     effect   -   -    Huang__xiangning           *             *)       *)        *   -
+bc/phoenix/00/phoenix_0002   6   24            ,     ,              *          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6   25            ,     ,            (S*          -    -   -    Huang__xiangning           *             *        *         *   -
+bc/phoenix/00/phoenix_0002   6   26         that    DT           (NP*)         -    -   -    Huang__xiangning           *             *        *    (ARG1*)  -
+bc/phoenix/00/phoenix_0002   6   27           's   VBZ           (VP*          be  01   1    Huang__xiangning           *             *        *       (V*)  -
+bc/phoenix/00/phoenix_0002   6   28          one    CD           (NP*          -    -   -    Huang__xiangning   (CARDINAL)            *        *    (ARG2*   -
+bc/phoenix/00/phoenix_0002   6   29        thing    NN            *)))         -    -   -    Huang__xiangning           *             *        *         *)  -
+bc/phoenix/00/phoenix_0002   6   30            .     .             *))         -    -   -    Huang__xiangning           *             *        *         *   -
+
+bc/phoenix/00/phoenix_0002   6    0               But     CC       (TOP(S*         -    -   -    Huang__xiangning  *         *           *            *      *    (ARGM-DIS*)      -
+bc/phoenix/00/phoenix_0002   6    1                 ,      ,             *         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6    2                 I    PRP    (PRN(S(NP*)        -    -   -    Huang__xiangning  *    (ARG0*)          *            *      *             *     (21)
+bc/phoenix/00/phoenix_0002   6    3              mean    VBP        (VP*)))      mean  01   1    Huang__xiangning  *       (V*)          *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6    4                 ,      ,             *         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6    5            people    NNS       (NP(NP*)    people   -   -    Huang__xiangning  *         *      (ARG1*)           *      *        (ARG0*    (109
+bc/phoenix/00/phoenix_0002   6    6               who     WP   (SBAR(WHNP*)        -    -   -    Huang__xiangning  *         *    (R-ARG1*)           *      *             *       -
+bc/phoenix/00/phoenix_0002   6    7               are    VBP        (S(VP*         be  01   1    Huang__xiangning  *         *         (V*)           *      *             *       -
+bc/phoenix/00/phoenix_0002   6    8       responsible     JJ        (ADJP*         -    -   -    Huang__xiangning  *         *      (ARG2*            *      *             *       -
+bc/phoenix/00/phoenix_0002   6    9               for     IN          (PP*         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6   10               the     DT          (NP*         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6   11        earthquake     NN        (ADJP*         -    -   -    Huang__xiangning  *         *           *   (ARGM-ADJ*      *             *       -
+bc/phoenix/00/phoenix_0002   6   12                -    HYPH             *         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6   13           related    VBN             *)   related   -   -    Huang__xiangning  *         *           *            *)     *             *       -
+bc/phoenix/00/phoenix_0002   6   14          decision     NN             *         -    -   -    Huang__xiangning  *         *           *       (ARG1*)     *             *       -
+bc/phoenix/00/phoenix_0002   6   15                -    HYPH             *         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6   16            making     NN       *)))))))    making  02   1    Huang__xiangning  *         *           *)         (V*)     *             *)    109)
+bc/phoenix/00/phoenix_0002   6   17                 ,      ,             *         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6   18              they    PRP          (NP*)        -    -   -    Huang__xiangning  *         *           *            *      *      (R-ARG0*)   (109)
+bc/phoenix/00/phoenix_0002   6   19               did    VBD          (VP*         do  01   -    Huang__xiangning  *         *           *            *    (V*)            *       -
+bc/phoenix/00/phoenix_0002   6   20               n't     RB             *         -    -   -    Huang__xiangning  *         *           *            *      *    (ARGM-NEG*)      -
+bc/phoenix/00/phoenix_0002   6   21                do     VB          (VP*         do  02   1    Huang__xiangning  *         *           *            *      *           (V*)      -
+bc/phoenix/00/phoenix_0002   6   22             their   PRP$       (NP(NP*         -    -   -    Huang__xiangning  *         *           *            *      *        (ARG1*    (109)
+bc/phoenix/00/phoenix_0002   6   23              duty     NN             *)        -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6   24               and     CC             *         -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+bc/phoenix/00/phoenix_0002   6   25             their   PRP$          (NP*         -    -   -    Huang__xiangning  *         *           *            *      *             *    (109)
+bc/phoenix/00/phoenix_0002   6   26    responsibility     NN            *))        -    -   -    Huang__xiangning  *         *           *            *      *             *)      -
+bc/phoenix/00/phoenix_0002   6   27                to     IN          (PP*         -    -   -    Huang__xiangning  *         *           *            *      *    (ARGM-EXT*       -
+bc/phoenix/00/phoenix_0002   6   28             their   PRP$          (NP*         -    -   -    Huang__xiangning  *         *           *            *      *             *    (109)
+bc/phoenix/00/phoenix_0002   6   29            utmost     NN          *))))        -    -   -    Huang__xiangning  *         *           *            *      *             *)      -
+bc/phoenix/00/phoenix_0002   6   30                 .      .            *))        -    -   -    Huang__xiangning  *         *           *            *      *             *       -
+
+bc/phoenix/00/phoenix_0002   6    0           The    DT  (TOP(S(S(NP(NP*       -    -   -   speaker#1            *   (ARG1*   (ARG1*             *             *      -
+bc/phoenix/00/phoenix_0002   6    1         price    NN                *)   price   -   -   speaker#1            *        *)       *             *             *      -
+bc/phoenix/00/phoenix_0002   6    2          paid   VBN             (VP*      pay  01   -   speaker#1            *      (V*)       *             *             *      -
+bc/phoenix/00/phoenix_0002   6    3           for    IN             (PP*       -    -   -   speaker#1            *   (ARG3*        *             *             *      -
+bc/phoenix/00/phoenix_0002   6    4           the    DT             (NP*       -    -   -   speaker#1      (EVENT*        *        *             *             *    (77
+bc/phoenix/00/phoenix_0002   6    5         Great   NNP                *       -    -   -   speaker#1            *        *        *             *             *      -
+bc/phoenix/00/phoenix_0002   6    6      Tangshan   NNP                *       -    -   -   speaker#1            *        *        *             *             *     (8)
+bc/phoenix/00/phoenix_0002   6    7    Earthquake   NNP             *))))      -    -   -   speaker#1            *)       *)       *)            *             *     77)
+bc/phoenix/00/phoenix_0002   6    8           was   VBD             (VP*       be  01   2   speaker#1            *        *      (V*)            *             *      -
+bc/phoenix/00/phoenix_0002   6    9      240,000     CD          (NP(NP*       -    -   -   speaker#1    (CARDINAL)       *   (ARG2*        (ARG1*             *    (71
+bc/phoenix/00/phoenix_0002   6   10         lives   NNS                *)    live   -   -   speaker#1            *        *        *             *)            *      -
+bc/phoenix/00/phoenix_0002   6   11    tragically    RB        (VP(ADVP*)      -    -   -   speaker#1            *        *        *    (ARGM-MNR*)            *      -
+bc/phoenix/00/phoenix_0002   6   12          lost   VBN             *))))    lose  02   -   speaker#1            *        *        *)          (V*)            *     71)
+bc/phoenix/00/phoenix_0002   6   13             ,     ,                *       -    -   -   speaker#1            *        *        *             *             *      -
+bc/phoenix/00/phoenix_0002   6   14           and    CC                *       -    -   -   speaker#1            *        *        *             *             *      -
+bc/phoenix/00/phoenix_0002   6   15          that    DT           (S(NP*)      -    -   -   speaker#1            *        *        *             *        (ARG1*)   (71)
+bc/phoenix/00/phoenix_0002   6   16          will    MD             (VP*       -    -   -   speaker#1            *        *        *             *    (ARGM-MOD*)     -
+bc/phoenix/00/phoenix_0002   6   17       forever    RB           (ADVP*)      -    -   -   speaker#1            *        *        *             *    (ARGM-TMP*)     -
+bc/phoenix/00/phoenix_0002   6   18            be    VB             (VP*       be  01   1   speaker#1            *        *        *             *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   19          part    NN          (NP(NP*)    part   -   -   speaker#1            *        *        *             *        (ARG2*      -
+bc/phoenix/00/phoenix_0002   6   20            of    IN             (PP*       -    -   -   speaker#1            *        *        *             *             *      -
+bc/phoenix/00/phoenix_0002   6   21       history    NN        (NP*))))))      -    -   -   speaker#1            *        *        *             *             *)     -
+bc/phoenix/00/phoenix_0002   6   22             ;     .               *))      -    -   -   speaker#1            *        *        *             *             *      -
+
+bc/phoenix/00/phoenix_0002   6   0        what    WP  (TOP(SBARQ(WHNP*        -    -   -   speaker#1   *        (ARG1*     -
+bc/phoenix/00/phoenix_0002   6   1     lessons   NNS                 *)   lesson   -   -   speaker#1   *             *)    -
+bc/phoenix/00/phoenix_0002   6   2      should    MD              (SQ*        -    -   -   speaker#1   *    (ARGM-MOD*)    -
+bc/phoenix/00/phoenix_0002   6   3     mankind    NN              (NP*)       -    -   -   speaker#1   *        (ARG0*)    -
+bc/phoenix/00/phoenix_0002   6   4       learn    VB              (VP*     learn  01   1   speaker#1   *           (V*)    -
+bc/phoenix/00/phoenix_0002   6   5        from    IN              (PP*        -    -   -   speaker#1   *        (ARG2*     -
+bc/phoenix/00/phoenix_0002   6   6        this    DT              (NP*        -    -   -   speaker#1   *             *   (77
+bc/phoenix/00/phoenix_0002   6   7       great    JJ                 *        -    -   -   speaker#1   *             *     -
+bc/phoenix/00/phoenix_0002   6   8    disaster    NN              *))))       -    -   -   speaker#1   *             *)   77)
+bc/phoenix/00/phoenix_0002   6   9           ?     .                *))       -    -   -   speaker#1   *             *     -
+
+bc/phoenix/00/phoenix_0002   6    0           Can    MD  (TOP(SQ*        -    -   -   speaker#1         *      *    (ARGM-MOD*)    -
+bc/phoenix/00/phoenix_0002   6    1           the    DT   (NP(NP*        -    -   -   speaker#1         *      *        (ARG1*     -
+bc/phoenix/00/phoenix_0002   6    2       tragedy    NN         *)       -    -   -   speaker#1         *      *             *     -
+bc/phoenix/00/phoenix_0002   6    3            of    IN      (PP*        -    -   -   speaker#1         *      *             *     -
+bc/phoenix/00/phoenix_0002   6    4           the    DT      (NP*        -    -   -   speaker#1   (EVENT*      *             *   (77
+bc/phoenix/00/phoenix_0002   6    5         Great   NNP         *        -    -   -   speaker#1         *      *             *     -
+bc/phoenix/00/phoenix_0002   6    6      Tangshan   NNP         *        -    -   -   speaker#1         *      *             *    (8)
+bc/phoenix/00/phoenix_0002   6    7    Earthquake   NNP       *)))       -    -   -   speaker#1         *)     *             *)   77)
+bc/phoenix/00/phoenix_0002   6    8          ever    RB    (ADVP*)       -    -   -   speaker#1         *      *    (ARGM-TMP*)    -
+bc/phoenix/00/phoenix_0002   6    9            be    VB      (VP*        be  03   -   speaker#1         *    (V*)            *     -
+bc/phoenix/00/phoenix_0002   6   10      repeated   VBN     (VP*))   repeat  01   -   speaker#1         *      *           (V*)    -
+bc/phoenix/00/phoenix_0002   6   11             ?     .        *))       -    -   -   speaker#1         *      *             *     -
+
+bc/phoenix/00/phoenix_0002   6    0              What    WP   (TOP(S(SBAR(WHNP*)         -    -   -   speaker#1        *    (ARG1*)  (ARG1*             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    1                is   VBZ              (S(VP*          be  01   2   speaker#1        *       (V*)       *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    2              even    RB         (ADJP(ADVP*          -    -   -   speaker#1        *    (ARG2*        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    3              more   RBR                   *)         -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    4        unexpected    JJ                *))))         -    -   -   speaker#1        *         *)       *)            *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    5                is   VBZ                (VP*          be  01   2   speaker#1        *         *      (V*)            *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    6              that    IN              (SBAR*          -    -   -   speaker#1        *         *   (ARG2*             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    7               two    CD           (S(NP(NP*          -    -   -   speaker#1     (FAC)        *        *        (ARG0*      *      (ARG0*      (ARG0*        (ARG0*      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    8           Chinese    JJ                   *          -    -   -   speaker#1    (NORP)        *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    9     seismologists   NNS                   *)         -    -   -   speaker#1        *         *        *             *)     *           *)          *)            *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   10               who    WP    (SBAR(SBAR(WHNP*)         -    -   -   speaker#1        *         *        *      (R-ARG0*)     *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   11         precisely    RB            (S(ADVP*)         -    -   -   speaker#1        *         *        *    (ARGM-MNR*)     *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   12         predicted   VBD                (VP*     predict  01   1   speaker#1        *         *        *           (V*)     *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   13               the    DT                (NP*          -    -   -   speaker#1        *         *        *        (ARG1*      *           *           *             *      *             *      *             *    (77
+bc/phoenix/00/phoenix_0002   6   14          Tangshan   NNP                   *          -    -   -   speaker#1     (GPE)        *        *             *      *           *           *             *      *             *      *             *     (8)
+bc/phoenix/00/phoenix_0002   6   15             quake    NN                *))))      quake   -   -   speaker#1        *         *        *             *)     *           *           *             *      *             *      *             *     77)
+bc/phoenix/00/phoenix_0002   6   16               and    CC                   *          -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   17               who    WP         (SBAR(WHNP*)         -    -   -   speaker#1        *         *        *             *      *    (R-ARG0*)   (R-ARG0*)            *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   18              have   VBP              (S(VP*        have  01   -   speaker#1        *         *        *             *    (V*)          *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   19             spent   VBN                (VP*       spend  02   3   speaker#1        *         *        *             *      *         (V*)          *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   20                 a    DT                (NP*          -    -   -   speaker#1        *         *        *             *      *      (ARG1*           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   21          lifetime    NN                   *)         -    -   -   speaker#1        *         *        *             *      *           *)          *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   22             doing   VBG              (S(VP*          do  02   1   speaker#1        *         *        *             *      *      (ARG2*         (V*)            *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   23        earthquake    NN                (NP*          -    -   -   speaker#1        *         *        *             *      *           *      (ARG1*             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   24          research    NN           *)))))))))   research   -   1   speaker#1        *         *        *             *      *           *)          *)            *)     *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   25    coincidentally    RB              (ADVP*)         -    -   -   speaker#1        *         *        *             *      *           *           *    (ARGM-MNR*)     *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   26           believe   VBP                (VP*     believe  01   1   speaker#1        *         *        *             *      *           *           *           (V*)     *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   27              that    IN              (SBAR*          -    -   -   speaker#1        *         *        *             *      *           *           *        (ARG1*      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   28             China   NNP              (S(NP*)         -    -   -   speaker#1     (GPE)        *        *             *      *           *           *             *      *        (ARG0*)     *        (ARG1*)   (39)
+bc/phoenix/00/phoenix_0002   6   29               has   VBZ             (VP(VP*        have  01   -   speaker#1        *         *        *             *      *           *           *             *    (V*)            *      *             *      -
+bc/phoenix/00/phoenix_0002   6   30               not    RB                   *          -    -   -   speaker#1        *         *        *             *      *           *           *             *      *    (ARGM-NEG*)     *             *      -
+bc/phoenix/00/phoenix_0002   6   31              made   VBN                (VP*        make  18   1   speaker#1        *         *        *             *      *           *           *             *      *           (V*)     *             *      -
+bc/phoenix/00/phoenix_0002   6   32          progress    NN             (NP(NP*)   progress   -   -   speaker#1        *         *        *             *      *           *           *             *      *        (ARG1*      *             *      -
+bc/phoenix/00/phoenix_0002   6   33                in    IN                (PP*          -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   34        earthquake    NN            (NP(NML*          -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   35       forecasting    NN                   *)   forecast   -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   36            levels   NNS               *)))))      level   -   -   speaker#1        *         *        *             *      *           *           *             *      *             *)     *             *      -
+bc/phoenix/00/phoenix_0002   6   37                 ,     ,                   *          -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   38               but    CC                   *          -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   39               has   VBZ                (VP*        have  01   -   speaker#1        *         *        *             *      *           *           *             *      *             *    (V*)            *      -
+bc/phoenix/00/phoenix_0002   6   40          actually    RB              (ADVP*)         -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *    (ARGM-ADV*)     -
+bc/phoenix/00/phoenix_0002   6   41              gone   VBN                (VP*          go  01   1   speaker#1        *         *        *             *      *           *           *             *      *             *      *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   42         backwards    RB     (ADVP*))))))))))         -    -   -   speaker#1        *         *        *)            *      *           *           *             *)     *             *      *    (ARGM-DIR*)     -
+bc/phoenix/00/phoenix_0002   6   43                 .     .                  *))         -    -   -   speaker#1        *         *        *             *      *           *           *             *      *             *      *             *      -
+
+bc/phoenix/00/phoenix_0002   6    0          If    IN  (TOP(SQ(SBAR*        -    -   -   speaker#2        *        *            *      *   (ARGM-ADV*      *             *         -
+bc/phoenix/00/phoenix_0002   6    1         the    DT         (S(NP*        -    -   -   speaker#2        *   (ARG1*       (ARG1*      *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6    2       thing    NN              *)       -    -   -   speaker#2        *        *)           *)     *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6    3        were   VBD           (VP*        be  01   -   speaker#2        *      (V*)           *      *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6    4          to    TO         (S(VP*        -    -   -   speaker#2    (DATE)  (ARG2*            *      *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6    5           ,     ,              *        -    -   -   speaker#2        *        *            *      *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6    6      happen    VB           (VP*    happen  01   1   speaker#2        *        *          (V*)     *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6    7          in    IN           (PP*        -    -   -   speaker#2        *        *   (ARGM-LOC*      *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6    8       today    NN        (NP(NP*        -    -   -   speaker#2        *        *            *      *            *      *             *   (39|(80
+bc/phoenix/00/phoenix_0002   6    9          's   POS              *)       -    -   -   speaker#2        *        *            *      *            *      *             *        80)
+bc/phoenix/00/phoenix_0002   6   10       China   NNP       *))))))))       -    -   -   speaker#2     (GPE)       *)           *)     *            *)     *             *        39)
+bc/phoenix/00/phoenix_0002   6   11           ,     ,              *        -    -   -   speaker#2        *        *            *      *            *      *             *         -
+bc/phoenix/00/phoenix_0002   6   12          do   VBP              *        do  01   -   speaker#2        *        *            *    (V*)           *      *             *         -
+bc/phoenix/00/phoenix_0002   6   13         you   PRP           (NP*)       -    -   -   speaker#2        *        *            *      *       (ARG0*)     *             *       (21)
+bc/phoenix/00/phoenix_0002   6   14       think    VB           (VP*     think  01   1   speaker#2        *        *            *      *          (V*)     *             *         -
+bc/phoenix/00/phoenix_0002   6   15    disaster    NN    (SBAR(S(NP*)       -    -   -   speaker#2        *        *            *      *       (ARG1*      *        (ARG1*)      (62)
+bc/phoenix/00/phoenix_0002   6   16       could    MD           (VP*        -    -   -   speaker#2        *        *            *      *            *      *    (ARGM-MOD*)        -
+bc/phoenix/00/phoenix_0002   6   17          be    VB           (VP*        be  03   -   speaker#2        *        *            *      *            *    (V*)            *         -
+bc/phoenix/00/phoenix_0002   6   18     avoided   VBN      (VP*))))))    avoid  01   -   speaker#2        *        *            *      *            *)     *           (V*)        -
+bc/phoenix/00/phoenix_0002   6   19           ?     .             *))       -    -   -   speaker#2        *        *            *      *            *      *             *         -
+
+bc/phoenix/00/phoenix_0002   6    0         Now    RB   (TOP(S(S(ADVP*)      -    -   -    Huang__xiangning      *      *    (ARGM-TMP*)     *             *      -
+bc/phoenix/00/phoenix_0002   6    1          it   PRP             (NP*)      -    -   -    Huang__xiangning      *      *        (ARG1*)     *             *    (62)
+bc/phoenix/00/phoenix_0002   6    2       could    MD             (VP*       -    -   -    Huang__xiangning      *      *    (ARGM-MOD*)     *             *      -
+bc/phoenix/00/phoenix_0002   6    3         not    RB                *       -    -   -    Huang__xiangning      *      *    (ARGM-NEG*)     *             *      -
+bc/phoenix/00/phoenix_0002   6    4          be    VB             (VP*       be  03   -    Huang__xiangning      *    (V*)            *      *             *      -
+bc/phoenix/00/phoenix_0002   6    5     avoided   VBN          (VP*))))   avoid  01   -    Huang__xiangning      *      *           (V*)     *             *      -
+bc/phoenix/00/phoenix_0002   6    6           ,     ,                *       -    -   -    Huang__xiangning      *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6    7         now    RB         (S(ADVP*)      -    -   -    Huang__xiangning      *      *             *      *    (ARGM-TMP*)     -
+bc/phoenix/00/phoenix_0002   6    8       China   NNP             (NP*)      -    -   -    Huang__xiangning   (GPE)     *             *      *        (ARG0*)   (39)
+bc/phoenix/00/phoenix_0002   6    9        does   VBZ             (VP*       do  01   -    Huang__xiangning      *      *             *    (V*)            *      -
+bc/phoenix/00/phoenix_0002   6   10         n't    RB                *       -    -   -    Huang__xiangning      *      *             *      *    (ARGM-NEG*)     -
+bc/phoenix/00/phoenix_0002   6   11        have    VB             (VP*     have  03   2    Huang__xiangning      *      *             *      *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   12           ,     ,                *       -    -   -    Huang__xiangning      *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   13          uh    UH           (INTJ*)      -    -   -    Huang__xiangning      *      *             *      *    (ARGM-DIS*)     -
+bc/phoenix/00/phoenix_0002   6   14           ,     ,                *       -    -   -    Huang__xiangning      *      *             *      *             *      -
+bc/phoenix/00/phoenix_0002   6   15        this    DT             (NP*       -    -   -    Huang__xiangning      *      *             *      *        (ARG1*      -
+bc/phoenix/00/phoenix_0002   6   16    capacity    NN             *))))      -    -   -    Huang__xiangning      *      *             *      *             *)     -
+bc/phoenix/00/phoenix_0002   6   17           .     .               *))      -    -   -    Huang__xiangning      *      *             *      *             *      -
+
+bc/phoenix/00/phoenix_0002   6    0          So    RB   (TOP(S(ADVP*)     -    -   -    Huang__xiangning      *      *    (ARGM-DIS*)     -
+bc/phoenix/00/phoenix_0002   6    1          in    IN           (PP*      -    -   -    Huang__xiangning      *      *    (ARGM-LOC*      -
+bc/phoenix/00/phoenix_0002   6    2       terms   NNS        (NP(NP*)   term   -   -    Huang__xiangning      *      *             *      -
+bc/phoenix/00/phoenix_0002   6    3          of    IN           (PP*      -    -   -    Huang__xiangning      *      *             *      -
+bc/phoenix/00/phoenix_0002   6    4       China   NNP        (NP*))))     -    -   -    Huang__xiangning   (GPE)     *             *)   (39)
+bc/phoenix/00/phoenix_0002   6    5           ,     ,              *      -    -   -    Huang__xiangning      *      *             *      -
+bc/phoenix/00/phoenix_0002   6    6          it   PRP           (NP*)     -    -   -    Huang__xiangning      *      *        (ARG0*)   (39)
+bc/phoenix/00/phoenix_0002   6    7        does   VBZ           (VP*      do  01   -    Huang__xiangning      *    (V*)            *      -
+bc/phoenix/00/phoenix_0002   6    8         n't    RB              *      -    -   -    Huang__xiangning      *      *    (ARGM-NEG*)     -
+bc/phoenix/00/phoenix_0002   6    9        have    VB           (VP*    have  03   2    Huang__xiangning      *      *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   10        this    DT           (NP*      -    -   -    Huang__xiangning      *      *        (ARG1*      -
+bc/phoenix/00/phoenix_0002   6   11    capacity    NN            *)))     -    -   -    Huang__xiangning      *      *             *)     -
+bc/phoenix/00/phoenix_0002   6   12           .     .             *))     -    -   -    Huang__xiangning      *      *             *      -
+
+bc/phoenix/00/phoenix_0002   6    0             In    IN   (TOP(S(PP*          -    -   -    Huang__xiangning       *         *      *   (ARGM-LOC*      *   (ARGM-TMP*         -
+bc/phoenix/00/phoenix_0002   6    1          today    NN      (NP(NP*          -    -   -    Huang__xiangning   (DATE)        *      *            *      *            *   (39|(80
+bc/phoenix/00/phoenix_0002   6    2             's   POS            *)         -    -   -    Huang__xiangning       *         *      *            *      *            *        80)
+bc/phoenix/00/phoenix_0002   6    3          China   NNP           *))         -    -   -    Huang__xiangning    (GPE)        *      *            *)     *            *)       39)
+bc/phoenix/00/phoenix_0002   6    4            the    DT      (NP(NP*          -    -   -    Huang__xiangning       *         *      *       (ARG1*      *       (ARG1*         -
+bc/phoenix/00/phoenix_0002   6    5          level    NN            *)      level   -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6    6             of    IN         (PP*          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6    7     earthquake    NN         (NP*          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6    8    forecasting    NN          *)))   forecast   -   -    Huang__xiangning       *         *      *            *)     *            *)        -
+bc/phoenix/00/phoenix_0002   6    9              ,     ,            *          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   10              I   PRP   (PRN(S(NP*)         -    -   -    Huang__xiangning       *    (ARG0*)     *            *      *            *       (21)
+bc/phoenix/00/phoenix_0002   6   11        believe   VBP       (VP*)))    believe  01   1    Huang__xiangning       *       (V*)     *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   12              ,     ,            *          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   13       compared   VBN         (PP*     compare   -   1    Huang__xiangning       *         *      *   (ARGM-ADV*      *   (ARGM-ADV*         -
+bc/phoenix/00/phoenix_0002   6   14             to    IN         (PP*          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   15         before    IN         (PP*          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   16            the    DT         (NP*          -    -   -    Huang__xiangning       *         *      *            *      *            *       (77
+bc/phoenix/00/phoenix_0002   6   17       Tangshan   NNP            *          -    -   -    Huang__xiangning    (GPE)        *      *            *      *            *        (8)
+bc/phoenix/00/phoenix_0002   6   18     earthquake    NN         *))))         -    -   -    Huang__xiangning       *         *      *            *)     *            *)       77)
+bc/phoenix/00/phoenix_0002   6   19              ,     ,            *          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   20            has   VBZ      (VP(VP*        have  01   -    Huang__xiangning       *         *    (V*)           *      *            *         -
+bc/phoenix/00/phoenix_0002   6   21         fallen   VBN        (VP*))       fall  01   1    Huang__xiangning       *         *      *          (V*)     *            *         -
+bc/phoenix/00/phoenix_0002   6   22              ,     ,            *          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   23            has   VBZ         (VP*        have  01   -    Huang__xiangning       *         *      *            *    (V*)           *         -
+bc/phoenix/00/phoenix_0002   6   24        slipped   VBN         (VP*        slip  01   3    Huang__xiangning       *         *      *            *      *          (V*)        -
+bc/phoenix/00/phoenix_0002   6   25             by    IN         (PP*          -    -   -    Huang__xiangning       *         *      *            *      *       (ARG2*         -
+bc/phoenix/00/phoenix_0002   6   26              a    DT         (NP*          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   27           wide    JJ            *          -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+bc/phoenix/00/phoenix_0002   6   28         margin    NN        *)))))     margin   -   -    Huang__xiangning       *         *      *            *      *            *)        -
+bc/phoenix/00/phoenix_0002   6   29              .     .           *))         -    -   -    Huang__xiangning       *         *      *            *      *            *         -
+
+bc/phoenix/00/phoenix_0002   6    0              If    IN      (TOP(S(SBAR*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *    (ARGM-ADV*   -
+bc/phoenix/00/phoenix_0002   6    1              we   PRP            (S(NP*)         -    -   -    Huang__xiangning         *       (ARG1*)   (ARG0*)      (ARG0*)       *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    2            were   VBD              (VP*          be  01   -    Huang__xiangning         *          (V*)        *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    3            once    RB            (ADVP*          -    -   -    Huang__xiangning         *   (ARGM-TMP*         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    4           again    RB                 *)         -    -   -    Huang__xiangning         *            *)        *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    5              to    TO            (S(VP*          -    -   -    Huang__xiangning         *       (ARG2*         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    6        continue    VB              (VP*    continue  01   1    Huang__xiangning         *            *       (V*)           *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    7        focusing   VBG            (S(VP*       focus  01   2    Huang__xiangning         *            *    (ARG1*          (V*)       *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    8              on    IN              (PP*          -    -   -    Huang__xiangning         *            *         *       (ARG2*        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6    9      earthquake    NN              (NP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   10    preparedness    NN                *))         -    -   -    Huang__xiangning         *            *         *            *)       *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   11              as    IN              (PP*          -    -   -    Huang__xiangning         *            *         *   (ARGM-MNR*        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   12          before    IN            (SBAR*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   13         Premier   NNP            (S(NP*          -    -   -    Huang__xiangning         *            *         *            *   (ARG1*             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   14            Zhou    IN                 *)         -    -   -    Huang__xiangning   (PERSON)           *         *            *        *)            *        *             *   -
+bc/phoenix/00/phoenix_0002   6   15            died   VBD           (VP*))))        die  01   1    Huang__xiangning         *            *         *            *)     (V*)            *        *             *   -
+bc/phoenix/00/phoenix_0002   6   16               ,     ,                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   17            with    IN              (PP*          -    -   -    Huang__xiangning         *            *         *   (ARGM-ADV*        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   18             the    DT           (NP(NP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   19          policy    NN                 *)         -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   20              of    IN              (PP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   21             the    DT         (S(NP(NP*          -    -   -    Huang__xiangning         *            *         *            *        *        (ARG0*   (ARG0*             *   -
+bc/phoenix/00/phoenix_0002   6   22         experts   NNS                 *)         -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   23             and    CC                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   24             the    DT              (NP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   25          masses   NNS                *))       mass   -   -    Huang__xiangning         *            *         *            *        *             *)       *)            *   -
+bc/phoenix/00/phoenix_0002   6   26         working   VBG           (VP(VP*        work  01   1    Huang__xiangning         *            *         *            *        *           (V*)       *             *   -
+bc/phoenix/00/phoenix_0002   6   27        together    RB           (ADVP*))         -    -   -    Huang__xiangning         *            *         *            *        *    (ARGM-MNR*)       *             *   -
+bc/phoenix/00/phoenix_0002   6   28               ,     ,                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   29             and    CC                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   30       combining   VBG              (VP*     combine  01   1    Huang__xiangning         *            *         *            *        *             *      (V*)            *   -
+bc/phoenix/00/phoenix_0002   6   31         Chinese    JJ         (NP(ADJP*          -    -   -    Huang__xiangning     (NORP)           *         *            *        *             *   (ARG1*             *   -
+bc/phoenix/00/phoenix_0002   6   32             and    CC                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   33         foreign    JJ                 *)         -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   34         methods   NNS   *)))))))))))))))         -    -   -    Huang__xiangning         *            *)        *)           *)       *             *        *)            *)  -
+bc/phoenix/00/phoenix_0002   6   35               ,     ,                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   36            then    RB            (ADVP*)         -    -   -    Huang__xiangning         *            *         *            *        *             *        *    (ARGM-ADV*)  -
+bc/phoenix/00/phoenix_0002   6   37               ,     ,                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   38      earthquake    NN              (NP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *        (ARG1*   -
+bc/phoenix/00/phoenix_0002   6   39     forecasting    NN                 *)   forecast   -   -    Huang__xiangning         *            *         *            *        *             *        *             *)  -
+bc/phoenix/00/phoenix_0002   6   40           would    MD              (VP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *    (ARGM-MOD*)  -
+bc/phoenix/00/phoenix_0002   6   41              be    VB              (VP*          be  01   4    Huang__xiangning         *            *         *            *        *             *        *           (V*)  -
+bc/phoenix/00/phoenix_0002   6   42              on    IN              (PP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *        (ARG2*   -
+bc/phoenix/00/phoenix_0002   6   43             the    DT              (NP*          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   44           right    JJ                 *          -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+bc/phoenix/00/phoenix_0002   6   45           track    NN                *))      track   -   -    Huang__xiangning         *            *         *            *        *             *        *             *)  -
+bc/phoenix/00/phoenix_0002   6   46           again    RB          (ADVP*)))         -    -   -    Huang__xiangning         *            *         *            *        *             *        *    (ARGM-TMP*)  -
+bc/phoenix/00/phoenix_0002   6   47               .     .                *))         -    -   -    Huang__xiangning         *            *         *            *        *             *        *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0        Now    RB   (TOP(S(ADVP*)     -    -   -    Huang__xiangning           *      *    (ARGM-TMP*)  -
+bc/phoenix/00/phoenix_0002   6    1         we   PRP           (NP*)     -    -   -    Huang__xiangning           *      *        (ARG0*)  -
+bc/phoenix/00/phoenix_0002   6    2        're   VBP           (VP*      be  03   -    Huang__xiangning           *    (V*)            *   -
+bc/phoenix/00/phoenix_0002   6    3          ,     ,              *      -    -   -    Huang__xiangning           *      *             *   -
+bc/phoenix/00/phoenix_0002   6    4        out    IN           (PP*      -    -   -    Huang__xiangning           *      *        (ARG1*   -
+bc/phoenix/00/phoenix_0002   6    5         of    IN           (PP*      -    -   -    Huang__xiangning           *      *             *   -
+bc/phoenix/00/phoenix_0002   6    6        two    CD           (NP*      -    -   -    Huang__xiangning   (CARDINAL)     *             *   -
+bc/phoenix/00/phoenix_0002   6    7       legs   NNS            *)))    leg   -   -    Huang__xiangning           *      *             *)  -
+bc/phoenix/00/phoenix_0002   6    8          ,     ,              *      -    -   -    Huang__xiangning           *      *             *   -
+bc/phoenix/00/phoenix_0002   6    9    missing   VBG           (VP*    miss  01   3    Huang__xiangning           *      *           (V*)  -
+bc/phoenix/00/phoenix_0002   6   10        one    CD        (NP(NP*      -    -   -    Huang__xiangning   (CARDINAL)     *      (C-ARG1*   -
+bc/phoenix/00/phoenix_0002   6   11        leg    NN           *))))    leg   -   -    Huang__xiangning           *      *             *)  -
+bc/phoenix/00/phoenix_0002   6   12          .     .             *))     -    -   -    Huang__xiangning           *      *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0         Experts   NNS   (TOP(S(S(NP(NP*)        -    -   -    Huang__xiangning  *        (ARG0*        *        *      *      *      (ARG1*      -
+bc/phoenix/00/phoenix_0002   6    1             and    CC                 *         -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    2             the    DT              (NP*         -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    3          masses   NNS                *))      mass   -   -    Huang__xiangning  *             *)       *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    4         working   VBG              (VP*       work  01   1    Huang__xiangning  *           (V*)       *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    5        together    RB            (ADVP*)        -    -   -    Huang__xiangning  *    (ARGM-MNR*)       *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    6               ,     ,                 *         -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    7            with    IN              (PP*         -    -   -    Huang__xiangning  *    (ARGM-MNR*        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    8             the    DT            (S(NP*         -    -   -    Huang__xiangning  *             *   (ARG0*   (ARG0*      *      *           *      -
+bc/phoenix/00/phoenix_0002   6    9          masses   NNS                 *)      mass   -   -    Huang__xiangning  *             *        *)       *)     *      *           *      -
+bc/phoenix/00/phoenix_0002   6   10      monitoring   VBG           (VP(VP*)   monitor  01   1    Huang__xiangning  *             *      (V*)       *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6   11             and    CC                 *         -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6   12         working   VBG              (VP*       work  01   1    Huang__xiangning  *             *        *      (V*)     *      *           *      -
+bc/phoenix/00/phoenix_0002   6   13              on    IN              (PP*         -    -   -    Huang__xiangning  *             *        *   (ARG1*      *      *           *      -
+bc/phoenix/00/phoenix_0002   6   14    preparedness    NN       (NP*))))))))        -    -   -    Huang__xiangning  *             *)       *        *)     *      *           *)     -
+bc/phoenix/00/phoenix_0002   6   15               ,     ,                 *         -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6   16              it   PRP              (NP*)        -    -   -    Huang__xiangning  *             *        *        *      *      *    (R-ARG1*)     -
+bc/phoenix/00/phoenix_0002   6   17              's   VBZ              (VP*         be  03   1    Huang__xiangning  *             *        *        *    (V*)     *           *      -
+bc/phoenix/00/phoenix_0002   6   18             all    DT                 *         -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6   19               ,     ,                 *         -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+bc/phoenix/00/phoenix_0002   6   20            been   VBN              (VP*         be  03   -    Huang__xiangning  *             *        *        *      *    (V*)          *      -
+bc/phoenix/00/phoenix_0002   6   21        weakened   VBN            (VP*)))    weaken  01   1    Huang__xiangning  *             *        *        *      *      *         (V*)   (84)
+bc/phoenix/00/phoenix_0002   6   22               .     .                *))        -    -   -    Huang__xiangning  *             *        *        *      *      *           *      -
+
+bc/phoenix/00/phoenix_0002   6   0           And    CC  (TOP(S*    -    -   -    Huang__xiangning  *    (ARGM-DIS*)     -
+bc/phoenix/00/phoenix_0002   6   1          that    DT     (NP*)   -    -   -    Huang__xiangning  *        (ARG1*)   (84)
+bc/phoenix/00/phoenix_0002   6   2            's   VBZ     (VP*    be  01   1    Huang__xiangning  *           (V*)     -
+bc/phoenix/00/phoenix_0002   6   3          very    RB   (ADJP*    -    -   -    Huang__xiangning  *        (ARG2*      -
+bc/phoenix/00/phoenix_0002   6   4    disturbing    JJ       *))   -    -   -    Huang__xiangning  *             *)     -
+bc/phoenix/00/phoenix_0002   6   5             .     .       *))   -    -   -    Huang__xiangning  *             *      -
+
+bc/phoenix/00/phoenix_0002   6    0         Looking   VBG  (TOP(S(S(VP*       look  01   1   speaker#2         *          (V*)     *      *    (ARGM-ADV*     -
+bc/phoenix/00/phoenix_0002   6    1              at    IN          (PP*         -    -   -   speaker#2         *       (ARG1*      *      *             *     -
+bc/phoenix/00/phoenix_0002   6    2              it   PRP         (NP*))        -    -   -   speaker#2         *            *)     *      *             *     -
+bc/phoenix/00/phoenix_0002   6    3              in    IN          (PP*         -    -   -   speaker#2         *   (ARGM-MNR*      *      *             *     -
+bc/phoenix/00/phoenix_0002   6    4           terms   NNS       (NP(NP*)      term   -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6    5              of    IN          (PP*         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6    6             the    DT          (NP*         -    -   -   speaker#2   (EVENT*            *      *      *             *   (77
+bc/phoenix/00/phoenix_0002   6    7           Great   NNP             *         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6    8        Tangshan   NNP             *         -    -   -   speaker#2         *            *      *      *             *    (8)
+bc/phoenix/00/phoenix_0002   6    9      Earthquake   NNP        *))))))        -    -   -   speaker#2         *)           *)     *      *             *)   77)
+bc/phoenix/00/phoenix_0002   6   10               ,     ,             *         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   11      monitoring    NN    (NP(NP(NP*    monitor   -   2   speaker#2         *            *      *      *        (ARG1*     -
+bc/phoenix/00/phoenix_0002   6   12             and    CC             *         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   13    preparedness    NN             *)        -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   14              by    IN          (PP*         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   15             the    DT          (NP*         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   16          masses   NNS           *)))      mass   -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   17             and    CC             *         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   18      monitoring    NN       (NP(NP*)   monitor   -   2   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   19              of    IN          (PP*         -    -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   20          ground    NN          (NP*     ground   -   -   speaker#2         *            *      *      *             *     -
+bc/phoenix/00/phoenix_0002   6   21          stress    NN          *))))    stress   -   -   speaker#2         *            *      *      *             *)    -
+bc/phoenix/00/phoenix_0002   6   22            have   VBP          (VP*       have  01   -   speaker#2         *            *    (V*)     *             *     -
+bc/phoenix/00/phoenix_0002   6   23         already    RB        (ADVP*)        -    -   -   speaker#2         *            *      *      *    (ARGM-TMP*)    -
+bc/phoenix/00/phoenix_0002   6   24            been   VBN          (VP*         be  03   -   speaker#2         *            *      *    (V*)            *     -
+bc/phoenix/00/phoenix_0002   6   25          proven   VBN        (VP*)))     prove  01   -   speaker#2         *            *      *      *           (V*)    -
+bc/phoenix/00/phoenix_0002   6   26               ;     .            *))        -    -   -   speaker#2         *            *      *      *             *     -
+
+bc/phoenix/00/phoenix_0002   6    0         they   PRP     (TOP(S(S(NP*)     -    -   -   speaker#2   *        (ARG1*)     *      *             *   -
+bc/phoenix/00/phoenix_0002   6    1       should    MD             (VP*      -    -   -   speaker#2   *    (ARGM-MOD*)     *      *             *   -
+bc/phoenix/00/phoenix_0002   6    2           be    VB             (VP*      be  01   1   speaker#2   *           (V*)     *      *             *   -
+bc/phoenix/00/phoenix_0002   6    3    effective    JJ        (ADJP*))))     -    -   -   speaker#2   *        (ARG2*)     *      *             *   -
+bc/phoenix/00/phoenix_0002   6    4            ,     ,                *      -    -   -   speaker#2   *             *      *      *             *   -
+bc/phoenix/00/phoenix_0002   6    5           so    CC                *      -    -   -   speaker#2   *             *      *      *             *   -
+bc/phoenix/00/phoenix_0002   6    6          why   WRB   (SBARQ(WHADVP*)     -    -   -   speaker#2   *             *      *      *    (ARGM-CAU*)  -
+bc/phoenix/00/phoenix_0002   6    7          are   VBP             (SQ*      be  03   -   speaker#2   *             *    (V*)     *             *   -
+bc/phoenix/00/phoenix_0002   6    8          n't    RB                *      -    -   -   speaker#2   *             *      *      *    (ARGM-NEG*)  -
+bc/phoenix/00/phoenix_0002   6    9         they   PRP             (NP*)     -    -   -   speaker#2   *             *      *      *        (ARG1*)  -
+bc/phoenix/00/phoenix_0002   6   10        being   VBG             (VP*      be  03   -   speaker#2   *             *      *    (V*)            *   -
+bc/phoenix/00/phoenix_0002   6   11        taken   VBN             (VP*    take  04   -   speaker#2   *             *      *      *           (V*)  -
+bc/phoenix/00/phoenix_0002   6   12    seriously    RB       (ADVP*)))))     -    -   -   speaker#2   *             *      *      *        (ARG2*)  -
+bc/phoenix/00/phoenix_0002   6   13            ?     .               *))     -    -   -   speaker#2   *             *      *      *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0             But    CC    (TOP(S*             -    -   -    Huang__xiangning      *             *             *   -
+bc/phoenix/00/phoenix_0002   6    1            that    DT     (S(NP*)            -    -   -    Huang__xiangning      *        (ARG1*)            *   -
+bc/phoenix/00/phoenix_0002   6    2              ca    MD       (VP*             -    -   -    Huang__xiangning      *    (ARGM-MOD*)            *   -
+bc/phoenix/00/phoenix_0002   6    3             n't    RB          *             -    -   -    Huang__xiangning      *    (ARGM-NEG*)            *   -
+bc/phoenix/00/phoenix_0002   6    4              be    VB     (VP*)))            be  02   3    Huang__xiangning      *           (V*)            *   -
+bc/phoenix/00/phoenix_0002   6    5               ,     ,          *             -    -   -    Huang__xiangning      *             *             *   -
+bc/phoenix/00/phoenix_0002   6    6               ,     ,          *             -    -   -    Huang__xiangning      *             *             *   -
+bc/phoenix/00/phoenix_0002   6    7             the    DT     (S(NP*             -    -   -    Huang__xiangning      *             *        (ARG0*   -
+bc/phoenix/00/phoenix_0002   6    8      Seismology   NNP          *             -    -   -    Huang__xiangning  (ORG*             *             *   -
+bc/phoenix/00/phoenix_0002   6    9          Bureau   NNP          *             -    -   -    Huang__xiangning      *)            *             *   -
+bc/phoenix/00/phoenix_0002   6   10          system    NN          *)            -    -   -    Huang__xiangning      *             *             *)  -
+bc/phoenix/00/phoenix_0002   6   11               ,     ,          *             -    -   -    Huang__xiangning      *             *             *   -
+bc/phoenix/00/phoenix_0002   6   12              uh    UH     (INTJ*)            -    -   -    Huang__xiangning      *             *    (ARGM-DIS*)  -
+bc/phoenix/00/phoenix_0002   6   13               ,     ,          *             -    -   -    Huang__xiangning      *             *             *   -
+bc/phoenix/00/phoenix_0002   6   14    acknowledges   VBZ       (VP*    acknowledge  01   1    Huang__xiangning      *             *           (V*)  -
+bc/phoenix/00/phoenix_0002   6   15               ,     ,          *             -    -   -    Huang__xiangning      *             *             *   -
+bc/phoenix/00/phoenix_0002   6   16              oh    UH   (INTJ*)))            -    -   -    Huang__xiangning      *             *    (ARGM-DIS*)  -
+bc/phoenix/00/phoenix_0002   6   17               !     .         *))            -    -   -    Huang__xiangning      *             *             *   -
+
+bc/phoenix/00/phoenix_0002   6    0              In    IN         (TOP(X(PP*         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    1             the    DT            (NP(NP*         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    2               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    3            '80s   NNS                  *)        -    -   -    Huang__xiangning       (DATE)            *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    4               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    5         exactly    RB  (PRN(S(SBAR(WHNP*         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    6           which   WDT                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    7            year    NN                 *))        -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6    8               I   PRP               (NP*)        -    -   -    Huang__xiangning           *        (ARG1*)     *            *           *         *         *    (21)
+bc/phoenix/00/phoenix_0002   6    9              'm   VBP               (VP*         be  01   1    Huang__xiangning           *           (V*)     *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   10             not    RB                  *         -    -   -    Huang__xiangning           *    (ARGM-NEG*)     *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   11            sure    JJ        (ADJP*))))))        -    -   -    Huang__xiangning           *        (ARG2*)     *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   12               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   13               a    DT             (S(NP*         -    -   -    Huang__xiangning           *             *      *       (ARG1*           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   14      conference    NN                  *)        -    -   -    Huang__xiangning           *             *      *            *)          *         *         *      -
+bc/phoenix/00/phoenix_0002   6   15             was   VBD               (VP*         be  03   -    Huang__xiangning           *             *    (V*)           *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   16            held   VBN               (VP*       hold  04   -    Huang__xiangning           *             *      *          (V*)          *         *         *      -
+bc/phoenix/00/phoenix_0002   6   17              in    IN               (PP*         -    -   -    Huang__xiangning           *             *      *   (ARGM-LOC*           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   18        Quanzhou   NNP           (NP*)))))        -    -   -    Huang__xiangning        (GPE)            *      *            *)          *         *         *      -
+bc/phoenix/00/phoenix_0002   6   19               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   20              we   PRP          (S(NP(NP*)        -    -   -    Huang__xiangning           *             *      *            *      (ARG0*)   (ARG0*         *      -
+bc/phoenix/00/phoenix_0002   6   21             who    WP        (SBAR(WHNP*)        -    -   -    Huang__xiangning           *             *      *            *    (R-ARG0*)        *         *      -
+bc/phoenix/00/phoenix_0002   6   22         believe   VBP             (S(VP*    believe  01   1    Huang__xiangning           *             *      *            *         (V*)        *         *      -
+bc/phoenix/00/phoenix_0002   6   23              in    IN               (PP*         -    -   -    Huang__xiangning           *             *      *            *      (ARG1*         *         *      -
+bc/phoenix/00/phoenix_0002   6   24      monitoring    NN            (NP(NP*    monitor   -   2    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   25             and    CC                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   26    preparedness    NN                  *)        -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   27              by    IN               (PP*         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   28             the    DT               (NP*         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   29          masses   NNS           *))))))))      mass   -   -    Huang__xiangning           *             *      *            *           *)        *)        *      -
+bc/phoenix/00/phoenix_0002   6   30            call   VBP               (VP*       call  01   5    Huang__xiangning           *             *      *            *           *       (V*)        *      -
+bc/phoenix/00/phoenix_0002   6   31              it   PRP               (NP*)        -    -   -    Huang__xiangning           *             *      *            *           *    (ARG1*)        *      -
+bc/phoenix/00/phoenix_0002   6   32             the    DT          (S(NP(NP*         -    -   -    Huang__xiangning           *             *      *            *           *    (ARG2*         *      -
+bc/phoenix/00/phoenix_0002   6   33           three    CD                  *         -    -   -    Huang__xiangning   (CARDINAL)            *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   34          earths   NNS                  *)     earth   -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   35               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   36           earth    NN            (NP(NP*      earth   -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   37     electricity    NN                  *)        -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   38               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   39           earth    NN               (NP*      earth   -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   40          stress    NN                  *)    stress   -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   41               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   42             and    CC                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   43           earth    NN               (NP*      earth   -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   44       magnetism    NN             *))))))        -    -   -    Huang__xiangning           *             *      *            *           *         *)        *      -
+bc/phoenix/00/phoenix_0002   6   45               ,     ,                  *         -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+bc/phoenix/00/phoenix_0002   6   46            they   PRP             (S(NP*)        -    -   -    Huang__xiangning           *             *      *            *           *         *    (ARG0*)     -
+bc/phoenix/00/phoenix_0002   6   47          denied   VBD               (VP*       deny  01   1    Huang__xiangning           *             *      *            *           *         *       (V*)     -
+bc/phoenix/00/phoenix_0002   6   48              it   PRP            (NP(NP*)        -    -   -    Huang__xiangning           *             *      *            *           *         *    (ARG1*      -
+bc/phoenix/00/phoenix_0002   6   49             all    DT            (NP*))))        -    -   -    Huang__xiangning           *             *      *            *           *         *         *)     -
+bc/phoenix/00/phoenix_0002   6   50               .     .                 *))        -    -   -    Huang__xiangning           *             *      *            *           *         *         *      -
+
+bc/phoenix/00/phoenix_0002   6    0               I   PRP     (TOP(S(NP*)           -    -   -    Huang__xiangning      *    (ARG0*)           *           *      *    (21)
+bc/phoenix/00/phoenix_0002   6    1             say   VBP           (VP*           say  01   1    Huang__xiangning      *       (V*)           *           *      *      -
+bc/phoenix/00/phoenix_0002   6    2             the    DT  (NP(NP(NP(NP*            -    -   -    Huang__xiangning      *    (ARG1*       (ARG1*           *      *      -
+bc/phoenix/00/phoenix_0002   6    3          method    NN              *)           -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6    4              of    IN           (PP*            -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6    5      monitoring    NN        (NP(NP*       monitor   -   2    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6    6             and    CC              *            -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6    7    preparedness    NN              *)           -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6    8              by    IN           (PP*            -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6    9             the    DT           (NP*            -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6   10          masses   NNS          *)))))         mass   -   -    Huang__xiangning      *         *            *)          *      *      -
+bc/phoenix/00/phoenix_0002   6   11            used   VBN           (VP*           use  01   1    Huang__xiangning      *         *          (V*)          *      *      -
+bc/phoenix/00/phoenix_0002   6   12          before    IN           (PP*            -    -   -    Huang__xiangning      *         *   (ARGM-TMP*           *      *      -
+bc/phoenix/00/phoenix_0002   6   13             the    DT           (NP*            -    -   -    Huang__xiangning      *         *            *           *      *    (77
+bc/phoenix/00/phoenix_0002   6   14        Tangshan   NNP              *            -    -   -    Huang__xiangning   (GPE)        *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6   15           quake    NN           *))))        quake   -   -    Huang__xiangning      *         *            *)          *      *     77)
+bc/phoenix/00/phoenix_0002   6   16               ,     ,              *            -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6   17             and    CC              *            -    -   -    Huang__xiangning      *         *            *           *      *      -
+bc/phoenix/00/phoenix_0002   6   18         methods   NNS           (NP*            -    -   -    Huang__xiangning      *         *            *      (ARG0*      *      -
+bc/phoenix/00/phoenix_0002   6   19            that   WDT    (SBAR(WHNP*)           -    -   -    Huang__xiangning      *         *            *    (R-ARG0*)     *      -
+bc/phoenix/00/phoenix_0002   6   20        produced   VBD         (S(VP*       produce  01   1    Huang__xiangning      *         *            *         (V*)     *      -
+bc/phoenix/00/phoenix_0002   6   21            this    DT           (NP*            -    -   -    Huang__xiangning      *         *            *      (ARG1*      *      -
+bc/phoenix/00/phoenix_0002   6   22      prediction    NN        *)))))))   prediction  01   1    Huang__xiangning      *         *)           *          *))   (V*)     -
+bc/phoenix/00/phoenix_0002   6   23               .     .             *))           -    -   -    Huang__xiangning      *         *            *           *      *      -
+
+bc/phoenix/00/phoenix_0002   6    0             And    CC       (TOP(S*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    1            also    RB        (ADVP*)        -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    2          before    IN          (PP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    3              an    DT       (NP(NP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    4      earthquake    NN             *)        -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    5              in    IN          (PP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    6         coastal    JJ          (NP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    7          cities   NNS          *))))        -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    8               ,     ,             *         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6    9             the    DT       (NP(NP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   10          method    NN             *)        -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   11              of    IN          (PP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   12      monitoring    NN       (NP(NP*    monitor  -   2    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   13             and    CC             *         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   14    preparedness    NN             *)        -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   15              by    IN          (PP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   16             the    DT       (NP(NP*         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   17          masses   NNS             *)      mass  -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   18               ,     ,             *         -   -   -    Huang__xiangning  *   -
+bc/phoenix/00/phoenix_0002   6   19              in    IN   (PP*))))))))        -   -   -    Huang__xiangning  *   -

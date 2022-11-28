@@ -1,0 +1,429 @@
+bc/msnbc/00/msnbc_0001   11    0       Coming   VBG  (TOP(FRAG(S(VP*       come  11   2    Dan_Abrams           *    (V*)            *         *             *             *              -
+bc/msnbc/00/msnbc_0001   11    1           up    RP          (PRT*)))        -    -   -    Dan_Abrams           *      *             *         *             *             *              -
+bc/msnbc/00/msnbc_0001   11    2            ,     ,                *         -    -   -    Dan_Abrams           *      *             *         *             *             *              -
+bc/msnbc/00/msnbc_0001   11    3          the    DT        (S(NP(NP*         -    -   -    Dan_Abrams           *      *             *         *        (ARG0*             *           (104
+bc/msnbc/00/msnbc_0001   11    4     families   NNS                *)    family   -   1    Dan_Abrams           *      *             *         *             *             *              -
+bc/msnbc/00/msnbc_0001   11    5           of    IN             (PP*         -    -   -    Dan_Abrams           *      *             *         *             *             *              -
+bc/msnbc/00/msnbc_0001   11    6        three    CD          (NP(NP*         -    -   -    Dan_Abrams   (CARDINAL)     *        (ARG1*         *             *             *            (74
+bc/msnbc/00/msnbc_0001   11    7       people   NNS                *)    people   -   1    Dan_Abrams           *      *             *)        *             *             *              -
+bc/msnbc/00/msnbc_0001   11    8    allegedly    RB        (VP(ADVP*)        -    -   -    Dan_Abrams           *      *    (ARGM-ADV*)        *             *             *              -
+bc/msnbc/00/msnbc_0001   11    9     murdered   VBN                *     murder  01   1    Dan_Abrams           *      *           (V*)        *             *             *              -
+bc/msnbc/00/msnbc_0001   11   10           by    IN             (PP*         -    -   -    Dan_Abrams           *      *        (ARG0*         *             *             *              -
+bc/msnbc/00/msnbc_0001   11   11            a    DT             (NP*         -    -   -    Dan_Abrams           *      *             *         *             *             *            (66
+bc/msnbc/00/msnbc_0001   11   12    convicted   VBN                *    convict  01   -    Dan_Abrams           *      *             *       (V*)            *             *              -
+bc/msnbc/00/msnbc_0001   11   13          sex    NN                *        sex   -   -    Dan_Abrams           *      *             *         *             *             *              -
+bc/msnbc/00/msnbc_0001   11   14     offender    NN           *))))))        -    -   -    Dan_Abrams           *      *             *)   (ARG1*)            *)            *    104)|74)|66)
+bc/msnbc/00/msnbc_0001   11   15         will    MD             (VP*         -    -   -    Dan_Abrams           *      *             *         *    (ARGM-MOD*)            *              -
+bc/msnbc/00/msnbc_0001   11   16          sue    VB             (VP*        sue  01   1    Dan_Abrams           *      *             *         *           (V*)            *             (1)
+bc/msnbc/00/msnbc_0001   11   17      another    DT             (NP*         -    -   -    Dan_Abrams           *      *             *         *        (ARG1*        (ARG0*           (115
+bc/msnbc/00/msnbc_0001   11   18       county    NN                *)        -    -   -    Dan_Abrams           *      *             *         *             *)            *)           115)
+bc/msnbc/00/msnbc_0001   11   19          for    IN             (PP*         -    -   -    Dan_Abrams           *      *             *         *        (ARG2*             *              -
+bc/msnbc/00/msnbc_0001   11   20      letting   VBG           (S(VP*        let  01   -    Dan_Abrams           *      *             *         *             *           (V*)             -
+bc/msnbc/00/msnbc_0001   11   21          him   PRP             (NP*)        -    -   -    Dan_Abrams           *      *             *         *             *        (ARG1*)           (66)
+bc/msnbc/00/msnbc_0001   11   22          out    RP            (PRT*)        -    -   -    Dan_Abrams           *      *             *         *             *    (ARGM-DIR*)             -
+bc/msnbc/00/msnbc_0001   11   23           on    IN             (PP*         -    -   -    Dan_Abrams           *      *             *         *             *    (ARGM-MNR*              -
+bc/msnbc/00/msnbc_0001   11   24         bail    NN      (NP*))))))))      bail   -   -    Dan_Abrams           *      *             *         *             *)            *)             -
+bc/msnbc/00/msnbc_0001   11   25           /.     .               *))        -    -   -    Dan_Abrams           *      *             *         *             *             *              -
+
+bc/msnbc/00/msnbc_0001   11    0        As    RB  (TOP(S(S(ADJP(ADJP*        -    -    -    Dan_Abrams  *         *    (ARGM-ADV*      *         *       -
+bc/msnbc/00/msnbc_0001   11    1       sad    JJ                    *)       -    -    -    Dan_Abrams  *         *             *      *         *       -
+bc/msnbc/00/msnbc_0001   11    2        as    IN               (SBAR*        -    -    -    Dan_Abrams  *         *             *      *         *       -
+bc/msnbc/00/msnbc_0001   11    3        it   PRP               (S(NP*)       -    -    -    Dan_Abrams  *    (ARG1*)            *      *         *       -
+bc/msnbc/00/msnbc_0001   11    4        is   VBZ             (VP*)))))       be  01    1    Dan_Abrams  *       (V*)            *)     *         *       -
+bc/msnbc/00/msnbc_0001   11    5        as    IN                 (PP*        -    -    -    Dan_Abrams  *         *    (ARGM-ADV*      *         *       -
+bc/msnbc/00/msnbc_0001   11    6         a    DT                 (NP*        -    -    -    Dan_Abrams  *         *             *      *         *       -
+bc/msnbc/00/msnbc_0001   11    7     legal    JJ                    *        -    -    -    Dan_Abrams  *         *             *      *         *       -
+bc/msnbc/00/msnbc_0001   11    8    matter    NN                   *))   matter   -    3    Dan_Abrams  *         *             *)     *         *       -
+bc/msnbc/00/msnbc_0001   11    9         I   PRP                 (NP*)       -    -    -    Dan_Abrams  *         *        (ARG1*)     *         *    (121)
+bc/msnbc/00/msnbc_0001   11   10        'm   VBP                 (VP*        be  01    1    Dan_Abrams  *         *           (V*)     *         *       -
+bc/msnbc/00/msnbc_0001   11   11       not    RB                    *        -    -    -    Dan_Abrams  *         *    (ARGM-NEG*)     *         *       -
+bc/msnbc/00/msnbc_0001   11   12      sure    JJ               (ADJP*        -    -    -    Dan_Abrams  *         *        (ARG2*      *         *       -
+bc/msnbc/00/msnbc_0001   11   13      they   PRP          (SBAR(S(NP*)       -    -    -    Dan_Abrams  *         *             *      *    (ARG0*)   (104)
+bc/msnbc/00/msnbc_0001   11   14       've   VBP                 (VP*      have  01   12    Dan_Abrams  *         *             *    (V*)        *       -
+bc/msnbc/00/msnbc_0001   11   15       got   VBD                 (VP*       get  02    1    Dan_Abrams  *         *             *      *       (V*)      -
+bc/msnbc/00/msnbc_0001   11   16         a    DT                 (NP*        -    -    -    Dan_Abrams  *         *             *      *    (ARG1*       -
+bc/msnbc/00/msnbc_0001   11   17      case    NN              *)))))))     case   -    2    Dan_Abrams  *         *             *)     *         *)      -
+bc/msnbc/00/msnbc_0001   11   18        /.     .                   *))       -    -    -    Dan_Abrams  *         *             *      *         *       -
+
+bc/msnbc/00/msnbc_0001   11   0    Coming   VBG  (TOP(S(VP*    come  11   2    Dan_Abrams  *    (V*)  -
+bc/msnbc/00/msnbc_0001   11   1        up    RP      (PRT*))     -    -   -    Dan_Abrams  *      *   -
+bc/msnbc/00/msnbc_0001   11   2        /.     .          *))     -    -   -    Dan_Abrams  *      *   -
+
+bc/msnbc/00/msnbc_0001   11    0             We    PRP      (TOP(S(NP*)         -    -   -    Dan_Abrams         *       (ARG1*)       *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    1            're    VBP            (VP*          be  01   1    Dan_Abrams         *          (V*)       *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    2           back     RB          (ADVP*)         -    -   -    Dan_Abrams         *       (ARG2*)       *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    3           with     IN            (PP*          -    -   -    Dan_Abrams         *   (ARGM-ADV*        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    4            the     DT         (NP(NP*          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    5       horrible     JJ               *          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    6          story     NN               *)      story   -   1    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    7             of     IN            (PP*          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11    8         Joseph    NNP         (NP(NP*          -    -   -    Dan_Abrams  (PERSON*            *   (ARG1*        *        (ARG1*   (ARG0*             *          (66
+bc/msnbc/00/msnbc_0001   11    9         Duncan    NNP               *)         -    -   -    Dan_Abrams         *)           *        *)       *             *)       *)            *            -
+bc/msnbc/00/msnbc_0001   11   10        charged    VBN         (VP(VP*      charge  05   3    Dan_Abrams         *            *      (V*)       *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   11           with     IN            (PP*          -    -   -    Dan_Abrams         *            *   (ARG2*        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   12    bludgeoning    VBG          (S(VP*    bludgeon  01   -    Dan_Abrams         *            *        *      (V*)            *        *             *            -
+bc/msnbc/00/msnbc_0001   11   13         Brenda    NNP         (NP(NP*          -    -   -    Dan_Abrams  (PERSON*            *        *   (ARG1*             *        *             *     (74|(122
+bc/msnbc/00/msnbc_0001   11   14         Groney    NNP               *)         -    -   -    Dan_Abrams         *)           *        *        *             *        *             *          122)
+bc/msnbc/00/msnbc_0001   11   15            her   PRP$         (NP(NP*          -    -   -    Dan_Abrams         *            *        *        *             *        *             *    (100|(122)
+bc/msnbc/00/msnbc_0001   11   16       thirteen     CD      (ADJP(NML*          -    -   -    Dan_Abrams    (DATE*            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   17           year     NN               *)         -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   18            old     JJ               *)         -    -   -    Dan_Abrams         *)           *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   19            son     NN               *)         -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   20          Slade    NNP           (NP*))         -    -   -    Dan_Abrams   (PERSON)           *        *        *             *        *             *          100)
+bc/msnbc/00/msnbc_0001   11   21            and     CC               *          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   22      boyfriend     NN         (NP(NP*)         -    -   -    Dan_Abrams         *            *        *        *             *        *             *         (106
+bc/msnbc/00/msnbc_0001   11   23           Mark    NNP            (NP*          -    -   -    Dan_Abrams  (PERSON*            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   24       McKenzie    NNP              *))         -    -   -    Dan_Abrams         *)           *        *        *             *        *             *          106)
+bc/msnbc/00/msnbc_0001   11   25             to     IN            (PP*          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   26          death     NN      (NP*)))))))      death   -   1    Dan_Abrams         *            *        *)       *)            *        *             *           74)
+bc/msnbc/00/msnbc_0001   11   27            and     CC               *          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   28           then     RB          (ADVP*)         -    -   -    Dan_Abrams         *            *        *        *    (ARGM-TMP*)       *             *            -
+bc/msnbc/00/msnbc_0001   11   29        accused    VBN            (VP*      accuse  01   1    Dan_Abrams         *            *        *        *           (V*)       *             *            -
+bc/msnbc/00/msnbc_0001   11   30           also     RB          (ADVP*)         -    -   -    Dan_Abrams         *            *        *        *    (ARGM-ADV*)       *             *            -
+bc/msnbc/00/msnbc_0001   11   31             of     IN            (PP*          -    -   -    Dan_Abrams         *            *        *        *        (ARG2*        *             *            -
+bc/msnbc/00/msnbc_0001   11   32     kidnapping    VBG       (S(VP(VP*      kidnap  01   1    Dan_Abrams         *            *        *        *             *      (V*)            *            -
+bc/msnbc/00/msnbc_0001   11   33         Chaste    NNP            (NP*          -    -   -    Dan_Abrams   (PERSON)           *        *        *             *   (ARG1*             *    (174|(147)
+bc/msnbc/00/msnbc_0001   11   34            and     CC               *          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   35          Dylan    NNP              *))         -    -   -    Dan_Abrams   (PERSON)           *        *        *             *        *)            *    (108)|174)
+bc/msnbc/00/msnbc_0001   11   36            and     CC               *          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   37      molesting    VBG            (VP*      molest  01   1    Dan_Abrams         *            *        *        *             *        *           (V*)           -
+bc/msnbc/00/msnbc_0001   11   38           them    PRP            (NP*)         -    -   -    Dan_Abrams         *            *        *        *             *        *        (ARG1*)        (174)
+bc/msnbc/00/msnbc_0001   11   39     repeatedly     RB          (ADVP*)         -    -   -    Dan_Abrams         *            *        *        *             *        *    (ARGM-MNR*)           -
+bc/msnbc/00/msnbc_0001   11   40           over     IN            (PP*          -    -   -    Dan_Abrams         *            *        *        *             *        *    (ARGM-TMP*            -
+bc/msnbc/00/msnbc_0001   11   41         almost     RB         (NP(QP*          -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   42          seven     CD               *)         -    -   -    Dan_Abrams    (DATE*            *        *        *             *        *             *            -
+bc/msnbc/00/msnbc_0001   11   43          weeks    NNS   *)))))))))))))         -    -   -    Dan_Abrams         *)           *)       *        *             *)       *             *)          66)
+bc/msnbc/00/msnbc_0001   11   44             /.      .              *))         -    -   -    Dan_Abrams         *            *        *        *             *        *             *            -
+
+bc/msnbc/00/msnbc_0001   11    0        Chaste    NNP   (TOP(FRAG(NP*)       -    -   -    Dan_Abrams   (PERSON)       (ARG1*)       (147)
+bc/msnbc/00/msnbc_0001   11    1    eventually     RB          (ADVP*)       -    -   -    Dan_Abrams         *    (ARGM-TMP*)          -
+bc/msnbc/00/msnbc_0001   11    2         found    VBN            (VP*      find  01   -    Dan_Abrams         *           (V*)          -
+bc/msnbc/00/msnbc_0001   11    3            in     IN            (PP*        -    -   -    Dan_Abrams         *    (ARGM-TMP*           -
+bc/msnbc/00/msnbc_0001   11    4           the     DT         (NP(NP*        -    -   -    Dan_Abrams         *             *           -
+bc/msnbc/00/msnbc_0001   11    5        middle     NN               *)   middle   -   2    Dan_Abrams         *             *           -
+bc/msnbc/00/msnbc_0001   11    6            of     IN            (PP*        -    -   -    Dan_Abrams         *             *           -
+bc/msnbc/00/msnbc_0001   11    7           the     DT            (NP*        -    -   -    Dan_Abrams         *             *           -
+bc/msnbc/00/msnbc_0001   11    8         night     NN            *))))    night   -   1    Dan_Abrams     (TIME)            *)          -
+bc/msnbc/00/msnbc_0001   11    9            in     IN            (PP*        -    -   -    Dan_Abrams         *    (ARGM-LOC*           -
+bc/msnbc/00/msnbc_0001   11   10             a     DT            (NP*        -    -   -    Dan_Abrams         *             *           -
+bc/msnbc/00/msnbc_0001   11   11         diner     NN              *))    diner   -   3    Dan_Abrams         *             *)          -
+bc/msnbc/00/msnbc_0001   11   12          with     IN            (PP*        -    -   -    Dan_Abrams         *    (ARGM-ADV*           -
+bc/msnbc/00/msnbc_0001   11   13           her   PRP$            (NP*        -    -   -    Dan_Abrams         *             *    (66|(147)
+bc/msnbc/00/msnbc_0001   11   14       alleged     JJ               *        -    -   -    Dan_Abrams         *             *           -
+bc/msnbc/00/msnbc_0001   11   15        captor     NN             *)))       -    -   -    Dan_Abrams         *             *)         66)
+bc/msnbc/00/msnbc_0001   11   16            /.      .              *))       -    -   -    Dan_Abrams         *             *           -
+
+bc/msnbc/00/msnbc_0001   11    0           and    CC  (TOP(FRAG*          -    -   -    Dan_Abrams         *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0001   11    1          just    RB   (ADVP(NP*          -    -   -    Dan_Abrams         *    (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0001   11    2          days   NNS           *)        day   -   3    Dan_Abrams         *             *      -
+bc/msnbc/00/msnbc_0001   11    3         later   RBR           *)         -    -   -    Dan_Abrams         *             *)     -
+bc/msnbc/00/msnbc_0001   11    4         Dylan   NNP     (NP(NP*          -    -   -    Dan_Abrams   (PERSON)       (ARG1*   (108
+bc/msnbc/00/msnbc_0001   11    5            's   POS           *)         -    -   -    Dan_Abrams         *             *    108)
+bc/msnbc/00/msnbc_0001   11    6       remains   NNS           *)     remain   -   -    Dan_Abrams         *             *)     -
+bc/msnbc/00/msnbc_0001   11    7    discovered   VBN        (VP*    discover  01   1    Dan_Abrams         *           (V*)     -
+bc/msnbc/00/msnbc_0001   11    8            in    IN        (PP*          -    -   -    Dan_Abrams         *    (ARGM-LOC*      -
+bc/msnbc/00/msnbc_0001   11    9           the    DT        (NP*          -    -   -    Dan_Abrams         *             *      -
+bc/msnbc/00/msnbc_0001   11   10       Montana   NNP           *          -    -   -    Dan_Abrams      (LOC)            *      -
+bc/msnbc/00/msnbc_0001   11   11         woods   NNS         *)))       wood   -   2    Dan_Abrams         *             *)     -
+bc/msnbc/00/msnbc_0001   11   12            /.     .          *))         -    -   -    Dan_Abrams         *             *      -
+
+bc/msnbc/00/msnbc_0001   11    0           Well    UH                  (TOP(S(INTJ*)        -    -   -    Dan_Abrams         *      *    (ARGM-DIS*)       *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11    1            now    RB                        (ADVP*)        -    -   -    Dan_Abrams         *      *    (ARGM-TMP*)       *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11    2         Brenda   NNP                    (NP(NP(NP*         -    -   -    Dan_Abrams  (PERSON*      *        (ARG0*        *        *             *      *             *         *      *             *             *       (104|(122
+bc/msnbc/00/msnbc_0001   11    3         Groney   NNP                             *)        -    -   -    Dan_Abrams         *)     *             *        *        *             *      *             *         *      *             *             *             122)
+bc/msnbc/00/msnbc_0001   11    4            and    CC                             *         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11    5           Mark   NNP                          (NP*         -    -   -    Dan_Abrams  (PERSON*      *             *        *        *             *      *             *         *      *             *             *            (106
+bc/msnbc/00/msnbc_0001   11    6       McKenzie   NNP                             *)        -    -   -    Dan_Abrams         *)     *             *        *        *             *      *             *         *      *             *             *             106)
+bc/msnbc/00/msnbc_0001   11    7             's   POS                             *)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11    8       families   NNS                             *)    family   -   1    Dan_Abrams         *      *             *)       *        *             *      *             *         *      *             *             *             104)
+bc/msnbc/00/msnbc_0001   11    9            are   VBP                          (VP*         be  03   -    Dan_Abrams         *    (V*)            *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   10      preparing   VBG                          (VP*    prepare  01   1    Dan_Abrams         *      *           (V*)       *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   11              a    DT                       (NP(NP*         -    -   -    Dan_Abrams         *      *        (ARG1*   (ARG0*        *             *      *             *         *      *             *             *              (1
+bc/msnbc/00/msnbc_0001   11   12        lawsuit    NN                             *)        -    -   -    Dan_Abrams         *      *             *)       *)       *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   13       claiming   VBG                          (VP*      claim  01   1    Dan_Abrams         *      *    (ARGM-PRD*      (V*)       *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   14              a    DT             (SBAR(S(NP(NP(NP*         -    -   -    Dan_Abrams         *      *             *   (ARG1*   (ARG1*             *      *             *         *      *             *             *             (70
+bc/msnbc/00/msnbc_0001   11   15          judge    NN                             *)     judge   -   1    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   16    prosecutors   NNS                          (NP*)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   17            and    CC                             *         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   18            law    NN                      (NP(NML*        law   -   5    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   19    enforcement    NN                             *)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   20    authorities   NNS                            *))        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   21             in    IN                          (PP*         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   22         Becker   NNP                       (NP(NP*         -    -   -    Dan_Abrams     (LOC*      *             *        *        *             *      *             *         *      *             *             *            (115
+bc/msnbc/00/msnbc_0001   11   23         County   NNP                             *)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   24      Minnesota   NNP                       (NP*))))        -    -   -    Dan_Abrams         *)     *             *        *        *)            *      *             *         *      *             *             *    (55)|115)|70)
+bc/msnbc/00/msnbc_0001   11   25            are   VBP                          (VP*         be  01   1    Dan_Abrams         *      *             *        *      (V*)            *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   26    responsible    JJ                        (ADJP*         -    -   -    Dan_Abrams         *      *             *        *   (ARG2*             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   27            for    IN                          (PP*         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   28        letting   VBG                        (S(VP*        let  01   -    Dan_Abrams         *      *             *        *        *           (V*)     *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   29         Duncan   NNP                          (NP*)        -    -   -    Dan_Abrams   (PERSON)     *             *        *        *        (ARG1*)     *             *         *      *             *             *             (66)
+bc/msnbc/00/msnbc_0001   11   30            out    RP                         (PRT*)        -    -   -    Dan_Abrams         *      *             *        *        *    (ARGM-DIR*)     *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   31             on    IN                          (PP*         -    -   -    Dan_Abrams         *      *             *        *        *    (ARGM-MNR*      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   32           bail    NN                         (NP*))      bail   -   -    Dan_Abrams         *      *             *        *        *             *)     *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   33           when   WRB                 (SBAR(WHADVP*)        -    -   -    Dan_Abrams         *      *             *        *        *    (ARGM-TMP*      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   34           they   PRP                      (S(S(NP*)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *        (ARG0*)        *      *             *             *             (70)
+bc/msnbc/00/msnbc_0001   11   35         should    MD                          (VP*         -    -   -    Dan_Abrams         *      *             *        *        *             *      *    (ARGM-MOD*)        *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   36           have    VB                          (VP*       have  01   -    Dan_Abrams         *      *             *        *        *             *    (V*)            *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   37          known   VBN                          (VP*       know  01   1    Dan_Abrams         *      *             *        *        *             *      *           (V*)        *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   38             he   PRP                   (SBAR(S(NP*)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *        (ARG1*    (ARG1*)     *             *             *             (66)
+bc/msnbc/00/msnbc_0001   11   39            was   VBD                          (VP*         be  01   1    Dan_Abrams         *      *             *        *        *             *      *             *       (V*)     *             *             *               -
+bc/msnbc/00/msnbc_0001   11   40              a    DT                          (NP*         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *    (ARG2*      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   41        violent    JJ                             *         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   42            sex    NN                             *        sex   -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   43       offender    NN                      *))))))))        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *)        *)     *             *             *               -
+bc/msnbc/00/msnbc_0001   11   44            and    CC                             *         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+bc/msnbc/00/msnbc_0001   11   45           they   PRP                        (S(NP*)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *        (ARG0*)            *             (70)
+bc/msnbc/00/msnbc_0001   11   46         should    MD                          (VP*         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *    (ARGM-MOD*)            *               -
+bc/msnbc/00/msnbc_0001   11   47           have    VB                          (VP*       have  01   -    Dan_Abrams         *      *             *        *        *             *      *             *         *    (V*)            *             *               -
+bc/msnbc/00/msnbc_0001   11   48          known   VBN                          (VP*       know  01   1    Dan_Abrams         *      *             *        *        *             *      *             *         *      *           (V*)            *               -
+bc/msnbc/00/msnbc_0001   11   49             he   PRP                   (SBAR(S(NP*)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *        (ARG1*        (ARG0*)            (66)
+bc/msnbc/00/msnbc_0001   11   50             'd    MD                          (VP*         -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *    (ARGM-MOD*)              -
+bc/msnbc/00/msnbc_0001   11   51         likely    RB                        (ADVP*)        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *    (ARGM-ADV*)              -
+bc/msnbc/00/msnbc_0001   11   52         offend    VB                          (VP*     offend  01   2    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *           (V*)              -
+bc/msnbc/00/msnbc_0001   11   53          again    RB   (ADVP*))))))))))))))))))))))        -    -   -    Dan_Abrams         *      *             *)       *)       *)            *)     *             *         *      *             *)   (ARGM-TMP*)              1)
+bc/msnbc/00/msnbc_0001   11   54             /.     .                            *))        -    -   -    Dan_Abrams         *      *             *        *        *             *      *             *         *      *             *             *               -
+
+bc/msnbc/00/msnbc_0001   11    0        I   PRP       (TOP(S(NP*)      -    -   -    Dan_Abrams  *    (ARG0*)     *             *         *    (121)
+bc/msnbc/00/msnbc_0001   11    1     fear   VBP             (VP*     fear  01   2    Dan_Abrams  *       (V*)     *             *         *       -
+bc/msnbc/00/msnbc_0001   11    2     they   PRP      (SBAR(S(NP*)      -    -   -    Dan_Abrams  *    (ARG1*      *        (ARG0*)   (ARG0*)   (104)
+bc/msnbc/00/msnbc_0001   11    3       do   VBP             (VP*       do  01   -    Dan_Abrams  *         *    (V*)            *         *       -
+bc/msnbc/00/msnbc_0001   11    4      n't    RB                *       -    -   -    Dan_Abrams  *         *      *    (ARGM-NEG*)        *       -
+bc/msnbc/00/msnbc_0001   11    5     have    VB             (VP*     have  03   2    Dan_Abrams  *         *      *           (V*)        *       -
+bc/msnbc/00/msnbc_0001   11    6        a    DT          (NP(NP*       -    -   -    Dan_Abrams  *         *      *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0001   11    7    legal    JJ                *       -    -   -    Dan_Abrams  *         *      *             *         *       -
+bc/msnbc/00/msnbc_0001   11    8      leg    NN                *)     leg   -   -    Dan_Abrams  *         *      *             *         *       -
+bc/msnbc/00/msnbc_0001   11    9       to    TO      (SBAR(S(VP*       -    -   -    Dan_Abrams  *         *      *             *         *       -
+bc/msnbc/00/msnbc_0001   11   10    stand    VB             (VP*    stand  01   1    Dan_Abrams  *         *      *             *       (V*)      -
+bc/msnbc/00/msnbc_0001   11   11       on    IN   (PP*)))))))))))      -    -   -    Dan_Abrams  *         *)     *             *)   (ARG2*)      -
+bc/msnbc/00/msnbc_0001   11   12       /.     .               *))      -    -   -    Dan_Abrams  *         *      *             *         *       -
+
+bc/msnbc/00/msnbc_0001   11   0    Here    RB    (TOP(S(NP*)     -    -   -    Dan_Abrams  *    (ARG1*)        *   -
+bc/msnbc/00/msnbc_0001   11   1      's   VBZ          (VP*      be  01   1    Dan_Abrams  *       (V*)        *   -
+bc/msnbc/00/msnbc_0001   11   2    what    WP   (SBAR(WHNP*)     -    -   -    Dan_Abrams  *    (ARG2*    (ARG1*)  -
+bc/msnbc/00/msnbc_0001   11   3      we   PRP        (S(NP*)     -    -   -    Dan_Abrams  *         *    (ARG0*)  -
+bc/msnbc/00/msnbc_0001   11   4    know   VBP       (VP*))))   know  01   1    Dan_Abrams  *         *)      (V*)  -
+bc/msnbc/00/msnbc_0001   11   5      /.     .            *))     -    -   -    Dan_Abrams  *         *         *   -
+
+bc/msnbc/00/msnbc_0001   11    0        March   NNP   (TOP(S(NP(NP*)       -    -   -    Dan_Abrams      (DATE*      *   (ARGM-TMP*            *      -
+bc/msnbc/00/msnbc_0001   11    1           of    IN            (PP*        -    -   -    Dan_Abrams           *      *            *            *      -
+bc/msnbc/00/msnbc_0001   11    2         this    DT            (NP*        -    -   -    Dan_Abrams           *      *            *            *      -
+bc/msnbc/00/msnbc_0001   11    3         year    NN             *)))       -    -   -    Dan_Abrams           *)     *            *)           *      -
+bc/msnbc/00/msnbc_0001   11    4       Duncan   NNP            (NP*)       -    -   -    Dan_Abrams     (PERSON)     *       (ARG1*)      (ARG0*)   (66)
+bc/msnbc/00/msnbc_0001   11    5           's   VBZ            (VP*        be  03   1    Dan_Abrams           *    (V*)           *            *      -
+bc/msnbc/00/msnbc_0001   11    6      charged   VBN            (VP*    charge  05   3    Dan_Abrams           *      *          (V*)           *      -
+bc/msnbc/00/msnbc_0001   11    7         with    IN            (PP*        -    -   -    Dan_Abrams           *      *       (ARG2*            *      -
+bc/msnbc/00/msnbc_0001   11    8    molesting   VBG          (S(VP*    molest  01   1    Dan_Abrams           *      *            *          (V*)     -
+bc/msnbc/00/msnbc_0001   11    9          two    CD            (NP*        -    -   -    Dan_Abrams   (CARDINAL)     *            *       (ARG1*      -
+bc/msnbc/00/msnbc_0001   11   10         boys   NNS               *)       -    -   -    Dan_Abrams           *      *            *            *)     -
+bc/msnbc/00/msnbc_0001   11   11           in    IN            (PP*        -    -   -    Dan_Abrams           *      *            *   (ARGM-LOC*      -
+bc/msnbc/00/msnbc_0001   11   12    Minnesota   NNP      (NP*)))))))       -    -   -    Dan_Abrams        (LOC)     *            *)           *)   (55)
+bc/msnbc/00/msnbc_0001   11   13           /.     .              *))       -    -   -    Dan_Abrams           *      *            *            *      -
+
+bc/msnbc/00/msnbc_0001   11    0            He   PRP   (TOP(S(NP*)         -    -    -    Dan_Abrams           *        (ARG1*)          *      *       (ARG0*)   (66)
+bc/msnbc/00/msnbc_0001   11    1           was   VBD         (VP*          be  01    1    Dan_Abrams           *           (V*)          *      *            *      -
+bc/msnbc/00/msnbc_0001   11    2       already    RB       (ADVP*)         -    -    -    Dan_Abrams           *    (ARGM-TMP*)          *      *            *      -
+bc/msnbc/00/msnbc_0001   11    3             a    DT         (NP*          -    -    -    Dan_Abrams           *        (ARG2*           *      *            *      -
+bc/msnbc/00/msnbc_0001   11    4    registered   VBN            *    register  02    1    Dan_Abrams           *             *         (V*)     *            *      -
+bc/msnbc/00/msnbc_0001   11    5           sex    NN            *         sex   -    -    Dan_Abrams           *             *      (ARG1*)     *            *      -
+bc/msnbc/00/msnbc_0001   11    6      offender    NN            *)         -    -    -    Dan_Abrams           *             *)   (C-ARG1*)     *            *      -
+bc/msnbc/00/msnbc_0001   11    7        having   VBG       (S(VP*        have  01   12    Dan_Abrams           *    (ARGM-ADV*           *    (V*)           *      -
+bc/msnbc/00/msnbc_0001   11    8        served   VBN         (VP*       serve  01    5    Dan_Abrams           *             *           *      *          (V*)     -
+bc/msnbc/00/msnbc_0001   11    9        almost    RB      (NP(QP*          -    -    -    Dan_Abrams           *             *           *      *       (ARG1*      -
+bc/msnbc/00/msnbc_0001   11   10           two    CD            *)         -    -    -    Dan_Abrams   (CARDINAL)            *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   11       decades   NNS            *)     decade   -    1    Dan_Abrams           *             *           *      *            *)     -
+bc/msnbc/00/msnbc_0001   11   12           for    IN         (PP*          -    -    -    Dan_Abrams           *             *           *      *   (ARGM-CAU*      -
+bc/msnbc/00/msnbc_0001   11   13           the    DT      (NP(NP*          -    -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   14       violent    JJ            *          -    -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   15          rape    NN            *)       rape   -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   16            of    IN         (PP*          -    -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   17             a    DT         (NP*          -    -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   18      fourteen    CD   (ADJP(NML*          -    -    -    Dan_Abrams      (DATE*             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   19          year    NN            *)         -    -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   20           old    JJ            *)         -    -    -    Dan_Abrams           *)            *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   21           boy    NN           *))         -    -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   22            in    IN         (PP*          -    -    -    Dan_Abrams           *             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   23    Washington   NNP         (NP*          -    -    -    Dan_Abrams       (LOC*             *           *      *            *      -
+bc/msnbc/00/msnbc_0001   11   24         state   NNP     *))))))))         -    -    -    Dan_Abrams           *)            *)          *      *            *)     -
+bc/msnbc/00/msnbc_0001   11   25            /.     .           *))         -    -    -    Dan_Abrams           *             *           *      *            *      -
+
+bc/msnbc/00/msnbc_0001   11    0          April   NNP  (TOP(S(NP*         -    -   -    Dan_Abrams  (DATE*    (ARGM-TMP*        *   -
+bc/msnbc/00/msnbc_0001   11    1          fifth    NN           *)        -    -   -    Dan_Abrams       *)            *)       *   -
+bc/msnbc/00/msnbc_0001   11    2    voluntarily    RB      (ADVP*)        -    -   -    Dan_Abrams       *    (ARGM-MNR*)       *   -
+bc/msnbc/00/msnbc_0001   11    3           goes   VBZ        (VP*         go  02   1    Dan_Abrams       *           (V*)       *   -
+bc/msnbc/00/msnbc_0001   11    4             to    IN        (PP*         -    -   -    Dan_Abrams       *        (ARG4*        *   -
+bc/msnbc/00/msnbc_0001   11    5          court    NN       (NP*))     court   -   2    Dan_Abrams       *             *)       *   -
+bc/msnbc/00/msnbc_0001   11    6          after    IN        (PP*         -    -   -    Dan_Abrams       *    (ARGM-TMP*        *   -
+bc/msnbc/00/msnbc_0001   11    7      receiving   VBG      (S(VP*    receive  01   -    Dan_Abrams       *             *      (V*)  -
+bc/msnbc/00/msnbc_0001   11    8              a    DT        (NP*         -    -   -    Dan_Abrams       *             *   (ARG1*   -
+bc/msnbc/00/msnbc_0001   11    9        summons   NNS       *)))))   summons   -   -    Dan_Abrams       *             *)       *)  -
+bc/msnbc/00/msnbc_0001   11   10             /.     .          *))        -    -   -    Dan_Abrams       *             *        *   -
+
+bc/msnbc/00/msnbc_0001   11   0          he   PRP   (TOP(S(NP*)        -    -   -    Dan_Abrams        *      *       (ARG1*)   (66)
+bc/msnbc/00/msnbc_0001   11   1          's   VBZ         (VP*         be  03   1    Dan_Abrams        *    (V*)           *      -
+bc/msnbc/00/msnbc_0001   11   2    released   VBN         (VP*    release  01   1    Dan_Abrams        *      *          (V*)     -
+bc/msnbc/00/msnbc_0001   11   3          on    IN         (PP*         -    -   -    Dan_Abrams        *      *   (ARGM-MNR*      -
+bc/msnbc/00/msnbc_0001   11   4     fifteen    CD  (NP(NML(QP*         -    -   -    Dan_Abrams  (MONEY*      *            *      -
+bc/msnbc/00/msnbc_0001   11   5    thousand    CD            *)        -    -   -    Dan_Abrams        *      *            *      -
+bc/msnbc/00/msnbc_0001   11   6     dollars   NNS            *)        -    -   -    Dan_Abrams        *)     *            *      -
+bc/msnbc/00/msnbc_0001   11   7        bail    NN         *))))      bail   -   -    Dan_Abrams        *      *            *)     -
+bc/msnbc/00/msnbc_0001   11   8          /.     .           *))        -    -   -    Dan_Abrams        *      *            *      -
+
+bc/msnbc/00/msnbc_0001   11    0          One    CD  (TOP(FRAG(NP*           -    -    -    Dan_Abrams   (CARDINAL)     *             *      -
+bc/msnbc/00/msnbc_0001   11    1    condition    NN              *)   condition   -    2    Dan_Abrams           *      *             *      -
+bc/msnbc/00/msnbc_0001   11    2           he   PRP         (S(NP*)          -    -    -    Dan_Abrams           *      *        (ARG0*)   (66)
+bc/msnbc/00/msnbc_0001   11    3          had   VBD           (VP*         have  02   12    Dan_Abrams           *    (V*)            *      -
+bc/msnbc/00/msnbc_0001   11    4           to    TO         (S(VP*           -    -    -    Dan_Abrams           *      *             *      -
+bc/msnbc/00/msnbc_0001   11    5         have    VB           (VP*         have   -    4    Dan_Abrams           *      *    (ARGM-LVB*)     -
+bc/msnbc/00/msnbc_0001   11    6       weekly    JJ        (NP(NP*           -    -    -    Dan_Abrams           *      *    (ARGM-TMP*)     -
+bc/msnbc/00/msnbc_0001   11    7      contact    NN              *)     contact  01    3    Dan_Abrams           *      *           (V*)     -
+bc/msnbc/00/msnbc_0001   11    8         with    IN           (PP*           -    -    -    Dan_Abrams           *      *        (ARG1*      -
+bc/msnbc/00/msnbc_0001   11    9    probation    NN    (NP*))))))))          -    -    -    Dan_Abrams           *      *             *)     -
+bc/msnbc/00/msnbc_0001   11   10           /.     .             *))          -    -    -    Dan_Abrams           *      *             *      -
+
+bc/msnbc/00/msnbc_0001   11   0         April   NNP  (TOP(FRAG(NP*      -    -   -    Dan_Abrams    (DATE*            *      -
+bc/msnbc/00/msnbc_0001   11   1    eighteenth    NN              *)     -    -   -    Dan_Abrams         *)           *      -
+bc/msnbc/00/msnbc_0001   11   2          last    JJ        (NP(NP*      -    -   -    Dan_Abrams         *   (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0001   11   3          time    NN              *)   time   -   1    Dan_Abrams         *            *)     -
+bc/msnbc/00/msnbc_0001   11   4     probation    NN    (SBAR(S(NP*)     -    -   -    Dan_Abrams         *       (ARG0*)     -
+bc/msnbc/00/msnbc_0001   11   5         hears   VBZ           (VP*    hear  01   1    Dan_Abrams         *          (V*)     -
+bc/msnbc/00/msnbc_0001   11   6          from    IN           (PP*      -    -   -    Dan_Abrams         *       (ARG2*      -
+bc/msnbc/00/msnbc_0001   11   7        Duncan   NNP      (NP*))))))     -    -   -    Dan_Abrams   (PERSON)           *)   (66)
+bc/msnbc/00/msnbc_0001   11   8            /.     .             *))     -    -   -    Dan_Abrams         *            *      -
+
+bc/msnbc/00/msnbc_0001   11    0            May   NNP    (TOP(S(NP*           -    -   -    Dan_Abrams    (DATE*   (ARGM-TMP*      *         *      -
+bc/msnbc/00/msnbc_0001   11    1          third    NN             *)          -    -   -    Dan_Abrams         *)           *)     *         *      -
+bc/msnbc/00/msnbc_0001   11    2      probation    NN          (NP*)          -    -   -    Dan_Abrams         *       (ARG0*)     *         *      -
+bc/msnbc/00/msnbc_0001   11    3          tells   VBZ          (VP*         tell  01   1    Dan_Abrams         *          (V*)     *         *      -
+bc/msnbc/00/msnbc_0001   11    4            the    DT          (NP*           -    -   -    Dan_Abrams         *       (ARG2*      *         *      -
+bc/msnbc/00/msnbc_0001   11    5         county    NN             *           -    -   -    Dan_Abrams         *            *      *         *      -
+bc/msnbc/00/msnbc_0001   11    6      authority    NN             *)   authority   -   5    Dan_Abrams         *            *)     *         *      -
+bc/msnbc/00/msnbc_0001   11    7         Duncan   NNP   (SBAR(S(NP*)          -    -   -    Dan_Abrams   (PERSON)      (ARG1*      *    (ARG1*)   (66)
+bc/msnbc/00/msnbc_0001   11    8             's   VBZ          (VP*           be  03   -    Dan_Abrams         *            *    (V*)        *      -
+bc/msnbc/00/msnbc_0001   11    9    disappeared   VBN      (VP*)))))   disappear  01   1    Dan_Abrams         *            *)     *       (V*)     -
+bc/msnbc/00/msnbc_0001   11   10             /.     .            *))          -    -   -    Dan_Abrams         *            *      *         *      -
+
+bc/msnbc/00/msnbc_0001   11    0          and    CC      (TOP(S*        -    -   -    Dan_Abrams         *      *    (ARGM-DIS*)          -
+bc/msnbc/00/msnbc_0001   11    1           on    IN         (PP*        -    -   -    Dan_Abrams         *      *    (ARGM-TMP*           -
+bc/msnbc/00/msnbc_0001   11    2          May   NNP         (NP*        -    -   -    Dan_Abrams    (DATE*      *             *           -
+bc/msnbc/00/msnbc_0001   11    3    fifteenth    NN           *))       -    -   -    Dan_Abrams         *)     *             *)          -
+bc/msnbc/00/msnbc_0001   11    4       Brenda   NNP  (NP(NP(NML*        -    -   -    Dan_Abrams   (PERSON)     *        (ARG1*    (74|(122)
+bc/msnbc/00/msnbc_0001   11    5          and    CC            *        -    -   -    Dan_Abrams         *      *             *           -
+bc/msnbc/00/msnbc_0001   11    6        Slade   NNP            *)       -    -   -    Dan_Abrams  (PERSON*      *             *        (100
+bc/msnbc/00/msnbc_0001   11    7       Groney   NNP            *)       -    -   -    Dan_Abrams         *)     *             *         100)
+bc/msnbc/00/msnbc_0001   11    8          and    CC            *        -    -   -    Dan_Abrams         *      *             *           -
+bc/msnbc/00/msnbc_0001   11    9         Mark   NNP         (NP*        -    -   -    Dan_Abrams  (PERSON*      *             *        (106
+bc/msnbc/00/msnbc_0001   11   10     McKenzie   NNP           *))       -    -   -    Dan_Abrams         *)     *             *)    106)|74)
+bc/msnbc/00/msnbc_0001   11   11         were   VBD         (VP*        be  03   -    Dan_Abrams         *    (V*)            *           -
+bc/msnbc/00/msnbc_0001   11   12     murdered   VBN         (VP*    murder  01   1    Dan_Abrams         *      *           (V*)          -
+bc/msnbc/00/msnbc_0001   11   13           in    IN         (PP*        -    -   -    Dan_Abrams         *      *    (ARGM-LOC*           -
+bc/msnbc/00/msnbc_0001   11   14        Idaho   NNP      (NP*))))       -    -   -    Dan_Abrams      (LOC)     *             *)          -
+bc/msnbc/00/msnbc_0001   11   15           /.     .           *))       -    -   -    Dan_Abrams         *      *             *           -
+
+bc/msnbc/00/msnbc_0001   11   0      My   PRP$  (TOP(NP*      -   -   -    Dan_Abrams  *    (121)
+bc/msnbc/00/msnbc_0001   11   1    take     NN         *    take  -   -    Dan_Abrams  *       -
+bc/msnbc/00/msnbc_0001   11   2      /.      .        *))     -   -   -    Dan_Abrams  *       -
+
+bc/msnbc/00/msnbc_0001   11    0         My   PRP$     (TOP(S(NP*      -    -   -    Dan_Abrams  *   (ARG0*         *    (121)
+bc/msnbc/00/msnbc_0001   11    1    regular     JJ              *      -    -   -    Dan_Abrams  *        *         *       -
+bc/msnbc/00/msnbc_0001   11    2    viewers    NNS              *)     -    -   -    Dan_Abrams  *        *)        *       -
+bc/msnbc/00/msnbc_0001   11    3       know    VBP           (VP*    know  01   1    Dan_Abrams  *      (V*)        *       -
+bc/msnbc/00/msnbc_0001   11    4        how    WRB  (SBAR(WHADJP*      -    -   -    Dan_Abrams  *   (ARG1*         *       -
+bc/msnbc/00/msnbc_0001   11    5      angry     JJ              *)     -    -   -    Dan_Abrams  *        *         *       -
+bc/msnbc/00/msnbc_0001   11    6       this     DT         (S(NP*      -    -   -    Dan_Abrams  *        *    (ARG0*       -
+bc/msnbc/00/msnbc_0001   11    7       case     NN              *)   case   -   2    Dan_Abrams  *        *         *)      -
+bc/msnbc/00/msnbc_0001   11    8       made    VBD           (VP*    make  02   3    Dan_Abrams  *        *       (V*)      -
+bc/msnbc/00/msnbc_0001   11    9         me    PRP    (S(NP*))))))     -    -   -    Dan_Abrams  *        *)   (ARG1*)   (121)
+bc/msnbc/00/msnbc_0001   11   10         /.      .             *))     -    -   -    Dan_Abrams  *        *         *       -
+
+bc/msnbc/00/msnbc_0001   11    0           In     IN  (TOP(S(PP*          -    -   -    Dan_Abrams         *        *   (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0001   11    1     addition     NN     (NP(NP*)   addition  01   6    Dan_Abrams         *      (V*)           *       -
+bc/msnbc/00/msnbc_0001   11    2           to     IN        (PP*          -    -   -    Dan_Abrams         *   (ARG2*            *       -
+bc/msnbc/00/msnbc_0001   11    3           my   PRP$     (NP(NP*          -    -   -    Dan_Abrams         *        *            *    (121)
+bc/msnbc/00/msnbc_0001   11    4         fury     NN           *)         -    -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11    5           at     IN        (PP*          -    -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11    6       Duncan    NNP   (NP*))))))         -    -   -    Dan_Abrams   (PERSON)       *)           *)    (66)
+bc/msnbc/00/msnbc_0001   11    7            I    PRP        (NP*)         -    -   -    Dan_Abrams         *        *       (ARG1*)   (121)
+bc/msnbc/00/msnbc_0001   11    8       became    VBD        (VP*      become  01   1    Dan_Abrams         *        *          (V*)      -
+bc/msnbc/00/msnbc_0001   11    9      furious     JJ      (ADJP*          -    -   -    Dan_Abrams         *        *       (ARG2*       -
+bc/msnbc/00/msnbc_0001   11   10           at     IN        (PP*          -    -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11   11          all    PDT     (NP(NP*          -    -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11   12          the     DT           *          -    -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11   13       finger     NN           *      finger   -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11   14     pointing     NN           *)      point   -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11   15           in     IN        (PP*          -    -   -    Dan_Abrams         *        *            *       -
+bc/msnbc/00/msnbc_0001   11   16    Minnesota    NNP   (NP*))))))         -    -   -    Dan_Abrams      (LOC)       *            *)    (55)
+bc/msnbc/00/msnbc_0001   11   17           /.      .          *))         -    -   -    Dan_Abrams         *        *            *       -
+
+bc/msnbc/00/msnbc_0001   11    0          But    CC         (TOP(S*       -    -   -    Dan_Abrams      *    (ARGM-DIS*)       *          -
+bc/msnbc/00/msnbc_0001   11    1          the    DT            (NP*       -    -   -    Dan_Abrams      *        (ARG1*        *          -
+bc/msnbc/00/msnbc_0001   11    2       bottom    JJ               *       -    -   -    Dan_Abrams      *             *        *          -
+bc/msnbc/00/msnbc_0001   11    3         line    NN               *)    line   -   6    Dan_Abrams      *             *)       *          -
+bc/msnbc/00/msnbc_0001   11    4           is   VBZ            (VP*       be  01   2    Dan_Abrams      *           (V*)       *          -
+bc/msnbc/00/msnbc_0001   11    5          the    DT  (SBAR(S(NP(NP*       -    -   -    Dan_Abrams      *        (ARG2*   (ARG0*        (41
+bc/msnbc/00/msnbc_0001   11    6          law    NN               *)     law   -   1    Dan_Abrams      *             *        *          -
+bc/msnbc/00/msnbc_0001   11    7           in    IN            (PP*       -    -   -    Dan_Abrams      *             *        *          -
+bc/msnbc/00/msnbc_0001   11    8    Minnesota   NNP          (NP*)))      -    -   -    Dan_Abrams   (LOC)            *        *)   (55)|41)
+bc/msnbc/00/msnbc_0001   11    9      allowed   VBD            (VP*    allow  01   2    Dan_Abrams      *             *      (V*)         -
+bc/msnbc/00/msnbc_0001   11   10          for    IN            (PP*       -    -   -    Dan_Abrams      *             *   (ARG1*          -
+bc/msnbc/00/msnbc_0001   11   11         bail    NN       (NP*))))))    bail   -   -    Dan_Abrams      *             *)       *)       (65)
+bc/msnbc/00/msnbc_0001   11   12           /.     .              *))      -    -   -    Dan_Abrams      *             *        *          -
+
+bc/msnbc/00/msnbc_0001   11   0      He   PRP   (TOP(S(NP*)     -    -   -    Dan_Abrams  *    (ARG0*)   (66)
+bc/msnbc/00/msnbc_0001   11   1    paid   VBD         (VP*     pay  01   1    Dan_Abrams  *       (V*)     -
+bc/msnbc/00/msnbc_0001   11   2    cash    NN        (NP*))   cash   -   1    Dan_Abrams  *    (ARG1*)     -
+bc/msnbc/00/msnbc_0001   11   3      /.     .           *))     -    -   -    Dan_Abrams  *         *      -
+
+bc/msnbc/00/msnbc_0001   11    0          If    IN  (TOP(S(SBAR*         -    -   -    Dan_Abrams  *      *         *      *    (ARGM-ADV*      *             *       -
+bc/msnbc/00/msnbc_0001   11    1         the    DT        (S(NP*         -    -   -    Dan_Abrams  *      *    (ARG1*      *             *      *             *     (65
+bc/msnbc/00/msnbc_0001   11    2        bail    NN             *)      bail   -   -    Dan_Abrams  *      *         *)     *             *      *             *      65)
+bc/msnbc/00/msnbc_0001   11    3         had   VBD          (VP*       have  01   -    Dan_Abrams  *    (V*)        *      *             *      *             *       -
+bc/msnbc/00/msnbc_0001   11    4        been   VBN          (VP*         be  01   1    Dan_Abrams  *      *       (V*)     *             *      *             *       -
+bc/msnbc/00/msnbc_0001   11    5      higher   JJR    (ADJP*)))))        -    -   -    Dan_Abrams  *      *    (ARG2*)     *             *)     *             *       -
+bc/msnbc/00/msnbc_0001   11    6          he   PRP          (NP*)        -    -   -    Dan_Abrams  *      *         *      *        (ARG0*)     *        (ARG1*)    (66)
+bc/msnbc/00/msnbc_0001   11    7       could    MD          (VP*         -    -   -    Dan_Abrams  *      *         *      *    (ARGM-MOD*)     *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0001   11    8        have    VB          (VP*       have  01   -    Dan_Abrams  *      *         *    (V*)            *      *             *       -
+bc/msnbc/00/msnbc_0001   11    9       still    RB        (ADVP*)        -    -   -    Dan_Abrams  *      *         *      *    (ARGM-TMP*)     *             *       -
+bc/msnbc/00/msnbc_0001   11   10         put   VBN       (VP(VP*        put  01   1    Dan_Abrams  *      *         *      *           (V*)     *             *    (161)
+bc/msnbc/00/msnbc_0001   11   11          uh    UH        (INTJ*)        -    -   -    Dan_Abrams  *      *         *      *    (ARGM-DIS*)     *             *       -
+bc/msnbc/00/msnbc_0001   11   12        part    NN       (NP(NP*)      part   -   1    Dan_Abrams  *      *         *      *        (ARG1*      *             *       -
+bc/msnbc/00/msnbc_0001   11   13          of    IN          (PP*         -    -   -    Dan_Abrams  *      *         *      *             *      *             *       -
+bc/msnbc/00/msnbc_0001   11   14         the    DT          (NP*         -    -   -    Dan_Abrams  *      *         *      *             *      *             *       -
+bc/msnbc/00/msnbc_0001   11   15       money    NN           *)))     money   -   2    Dan_Abrams  *      *         *      *             *)     *             *       -
+bc/msnbc/00/msnbc_0001   11   16        down    RB       (ADVP*))        -    -   -    Dan_Abrams  *      *         *      *        (ARG2*)     *             *       -
+bc/msnbc/00/msnbc_0001   11   17         and    CC             *         -    -   -    Dan_Abrams  *      *         *      *             *      *             *       -
+bc/msnbc/00/msnbc_0001   11   18        been   VBN          (VP*         be  03   -    Dan_Abrams  *      *         *      *             *    (V*)            *       -
+bc/msnbc/00/msnbc_0001   11   19    released   VBN      (VP*)))))   release  01   1    Dan_Abrams  *      *         *      *             *      *           (V*)      -
+bc/msnbc/00/msnbc_0001   11   20          /.     .            *))        -    -   -    Dan_Abrams  *      *         *      *             *      *             *       -
+
+bc/msnbc/00/msnbc_0001   11   0          It   PRP   (TOP(S(NP*)       -    -   -    Dan_Abrams  *      *        (ARG0*)   (161)
+bc/msnbc/00/msnbc_0001   11   1       would    MD         (VP*        -    -   -    Dan_Abrams  *      *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0001   11   2         n't    RB            *        -    -   -    Dan_Abrams  *      *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0001   11   3        have    VB         (VP*      have  01   -    Dan_Abrams  *    (V*)            *       -
+bc/msnbc/00/msnbc_0001   11   4     changed   VBN         (VP*    change  01   1    Dan_Abrams  *      *           (V*)      -
+bc/msnbc/00/msnbc_0001   11   5    anything    NN      (NP*))))       -    -   -    Dan_Abrams  *      *        (ARG1*)      -
+bc/msnbc/00/msnbc_0001   11   6          /.     .           *))       -    -   -    Dan_Abrams  *      *             *       -
+
+bc/msnbc/00/msnbc_0001   11   0          The    DT  (TOP(S(NP(NP*        -    -   -    Dan_Abrams      *   (ARG0*      *   (ARG1*        (41
+bc/msnbc/00/msnbc_0001   11   1          law    NN              *)      law   -   1    Dan_Abrams      *        *      *        *          -
+bc/msnbc/00/msnbc_0001   11   2           in    IN           (PP*        -    -   -    Dan_Abrams      *        *      *        *          -
+bc/msnbc/00/msnbc_0001   11   3    Minnesota   NNP         (NP*)))       -    -   -    Dan_Abrams   (LOC)       *)     *        *)   (55)|41)
+bc/msnbc/00/msnbc_0001   11   4        needs   VBZ           (VP*      need  01   2    Dan_Abrams      *      (V*)     *        *          -
+bc/msnbc/00/msnbc_0001   11   5           to    TO         (S(VP*        -    -   -    Dan_Abrams      *   (ARG1*      *        *          -
+bc/msnbc/00/msnbc_0001   11   6           be    VB           (VP*        be  03   -    Dan_Abrams      *        *    (V*)       *          -
+bc/msnbc/00/msnbc_0001   11   7      changed   VBN       (VP*)))))   change  01   1    Dan_Abrams      *        *)     *      (V*)         -
+bc/msnbc/00/msnbc_0001   11   8           /.     .             *))       -    -   -    Dan_Abrams      *        *      *        *          -
+
+bc/msnbc/00/msnbc_0001   11    0        but    CC           (TOP(S*       -    -   -    Dan_Abrams  *    (ARGM-DIS*)     *      *        *         *       -
+bc/msnbc/00/msnbc_0001   11    1          I   PRP              (NP*)      -    -   -    Dan_Abrams  *        (ARG1*)     *      *        *         *    (121)
+bc/msnbc/00/msnbc_0001   11    2         'm   VBP              (VP*       be  01   1    Dan_Abrams  *           (V*)     *      *        *         *       -
+bc/msnbc/00/msnbc_0001   11    3     afraid    JJ            (ADJP*       -    -   -    Dan_Abrams  *        (ARG2*      *      *        *         *       -
+bc/msnbc/00/msnbc_0001   11    4       that    IN            (SBAR*       -    -   -    Dan_Abrams  *             *      *      *        *         *       -
+bc/msnbc/00/msnbc_0001   11    5       this    DT            (S(NP*       -    -   -    Dan_Abrams  *             *      *      *   (ARG1*    (ARG1*      (1
+bc/msnbc/00/msnbc_0001   11    6    lawsuit    NN                 *)      -    -   -    Dan_Abrams  *             *      *      *        *)        *)      1)
+bc/msnbc/00/msnbc_0001   11    7         's   VBZ              (VP*       be  03   -    Dan_Abrams  *             *    (V*)     *        *         *       -
+bc/msnbc/00/msnbc_0001   11    8      going   VBG              (VP*       go  04   7    Dan_Abrams  *             *      *    (V*)       *         *       -
+bc/msnbc/00/msnbc_0001   11    9         to    TO            (S(VP*       -    -   -    Dan_Abrams  *             *      *      *        *         *       -
+bc/msnbc/00/msnbc_0001   11   10        get    VB              (VP*      get  03   3    Dan_Abrams  *             *      *      *      (V*)        *       -
+bc/msnbc/00/msnbc_0001   11   11     thrown   VBN              (VP*    throw  01   -    Dan_Abrams  *             *      *      *   (ARG2*       (V*)      -
+bc/msnbc/00/msnbc_0001   11   12        out    RP   (PRT*)))))))))))      -    -   -    Dan_Abrams  *             *)     *      *        *)   (ARG2*)      -
+bc/msnbc/00/msnbc_0001   11   13         /.     .                *))      -    -   -    Dan_Abrams  *             *      *      *        *         *       -

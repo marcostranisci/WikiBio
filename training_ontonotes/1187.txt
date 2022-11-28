@@ -1,0 +1,732 @@
+pt/nt/43/nt_4301   1    0       The    DT     (TOP(S(NP*      -    -   -    John  *   (ARGM-TMP*            *   (ARGM-TMP*      *          -
+pt/nt/43/nt_4301   1    1      next    JJ              *      -    -   -    John  *            *            *            *      *          -
+pt/nt/43/nt_4301   1    2       day    NN              *)     -    -   -    John  *            *)           *            *)     *          -
+pt/nt/43/nt_4301   1    3      John   NNP           (NP*)     -    -   -    John  *       (ARG0*)           *       (ARG0*)     *         (7)
+pt/nt/43/nt_4301   1    4       saw   VBD        (VP(VP*     see  01   -    John  *          (V*)           *            *      *          -
+pt/nt/43/nt_4301   1    5     Jesus   NNP         (S(NP*)     -    -   -    John  *       (ARG1*       (ARG1*)           *      *        (15)
+pt/nt/43/nt_4301   1    6    coming   VBG           (VP*    come  01   -    John  *            *          (V*)           *      *          -
+pt/nt/43/nt_4301   1    7    toward    IN           (PP*      -    -   -    John  *            *   (ARGM-DIR*            *      *          -
+pt/nt/43/nt_4301   1    8       him   PRP       (NP*)))))     -    -   -    John  *            *)           *)           *      *         (7)
+pt/nt/43/nt_4301   1    9       and    CC              *      -    -   -    John  *            *            *            *      *          -
+pt/nt/43/nt_4301   1   10      said   VBD           (VP*     say  01   -    John  *            *            *          (V*)     *          -
+pt/nt/43/nt_4301   1   11         ,     ,              *      -    -   -    John  *            *            *            *      *          -
+pt/nt/43/nt_4301   1   12        ``    ``              *      -    -   -    John  *            *            *            *      *          -
+pt/nt/43/nt_4301   1   13      Look    VB   (FRAG(S(VP*))   look  01   -    John  *            *            *       (ARG1*    (V*)         -
+pt/nt/43/nt_4301   1   14         ,     ,              *      -    -   -    John  *            *            *            *      *          -
+pt/nt/43/nt_4301   1   15       the    DT        (NP(NP*      -    -   -    John  *            *            *            *      *        (15
+pt/nt/43/nt_4301   1   16      Lamb   NNP              *)     -    -   -    John  *            *            *            *      *          -
+pt/nt/43/nt_4301   1   17        of    IN           (PP*      -    -   -    John  *            *            *            *      *          -
+pt/nt/43/nt_4301   1   18       God   NNP      (NP*))))))     -    -   -    John  *            *            *            *)     *    (28)|15)
+pt/nt/43/nt_4301   1   19         .     .             *))     -    -   -    John  *            *            *            *      *          -
+
+pt/nt/43/nt_4301   1   0       He   PRP   (TOP(S(NP*)     -    -   -    John  *        (ARG0*)   (15)
+pt/nt/43/nt_4301   1   1    takes   VBZ         (VP*    take  01   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   2     away    RB       (ADVP*)     -    -   -    John  *    (ARGM-DIR*)     -
+pt/nt/43/nt_4301   1   3      the    DT      (NP(NP*      -    -   -    John  *        (ARG1*      -
+pt/nt/43/nt_4301   1   4     sins   NNS            *)    sin   -   -    John  *             *      -
+pt/nt/43/nt_4301   1   5       of    IN         (PP*      -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   6      the    DT         (NP*      -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   7    world    NN         *))))     -    -   -    John  *             *)     -
+pt/nt/43/nt_4301   1   8        !     .           *))     -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1    0       This    DT                   (TOP(S(NP*)     -    -   -    John  *    (ARG1*)           *             *        *            *            *         *            *         *    (15)
+pt/nt/43/nt_4301   1    1         is   VBZ                         (VP*      be  01   -    John  *       (V*)           *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1    2        the    DT                      (NP(NP*      -    -   -    John  *    (ARG2*            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1    3        one    NN                            *)     -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1    4          I   PRP                  (SBAR(S(NP*)     -    -   -    John  *         *       (ARG0*)            *        *            *            *         *            *         *     (7)
+pt/nt/43/nt_4301   1    5        was   VBD                         (VP*      be   -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1    6    talking   VBG                         (VP*    talk  01   -    John  *         *          (V*)            *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1    7      about    IN                         (PP*)     -    -   -    John  *         *       (ARG1*)            *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1    8       when   WRB                (SBAR(WHADVP*)     -    -   -    John  *         *   (ARGM-TMP*    (ARGM-TMP*)       *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1    9          I   PRP                       (S(NP*)     -    -   -    John  *         *            *        (ARG0*)       *            *            *         *            *         *     (7)
+pt/nt/43/nt_4301   1   10       said   VBD                         (VP*     say  01   -    John  *         *            *           (V*)       *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   11          ,     ,                            *      -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   12          '    ''                            *      -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   13      There    EX                       (S(NP*)     -    -   -    John  *         *            *        (ARG1*        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   14         is   VBZ                         (VP*      be  02   -    John  *         *            *             *      (V*)           *            *         *            *         *      -
+pt/nt/43/nt_4301   1   15          a    DT                   (NP(NP(NP*      -    -   -    John  *         *            *             *   (ARG1*       (ARG1*       (ARG1*         *            *         *    (15
+pt/nt/43/nt_4301   1   16        man    NN                            *)    man   -   -    John  *         *            *             *        *            *)           *         *            *         *      -
+pt/nt/43/nt_4301   1   17     coming   VBG                         (VP*    come  01   -    John  *         *            *             *        *          (V*)           *         *            *         *      -
+pt/nt/43/nt_4301   1   18      after    IN                         (PP*      -    -   -    John  *         *            *             *        *   (ARGM-TMP*            *         *            *         *      -
+pt/nt/43/nt_4301   1   19         me   PRP                      (NP*))))     -    -   -    John  *         *            *             *        *            *)           *)        *            *         *     (7)
+pt/nt/43/nt_4301   1   20        who    WP                  (SBAR(WHNP*)     -    -   -    John  *         *            *             *        *            *     (R-ARG1*)        *            *         *      -
+pt/nt/43/nt_4301   1   21         is   VBZ                       (S(VP*      be  01   -    John  *         *            *             *        *            *          (V*)        *            *         *      -
+pt/nt/43/nt_4301   1   22    greater   JJR                  (ADJP(ADJP*)     -    -   -    John  *         *            *             *        *            *       (ARG2*         *            *         *      -
+pt/nt/43/nt_4301   1   23       than    IN                       (SBAR*      -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   24          I   PRP                       (S(NP*)     -    -   -    John  *         *            *             *        *            *            *    (ARG1*)           *         *     (7)
+pt/nt/43/nt_4301   1   25         am   VBP                      (VP*))))     be  01   -    John  *         *            *             *        *            *            *)      (V*)           *         *      -
+pt/nt/43/nt_4301   1   26          ,     ,                            *      -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   27    because    IN                       (SBAR*      -    -   -    John  *         *            *             *        *            *   (ARGM-CAU*         *            *         *      -
+pt/nt/43/nt_4301   1   28         he   PRP                       (S(NP*)     -    -   -    John  *         *            *             *        *            *            *         *       (ARG0*)        *    (15)
+pt/nt/43/nt_4301   1   29        was   VBD                         (VP*      be   -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   30     living   VBG                         (VP*    live  01   -    John  *         *            *             *        *            *            *         *          (V*)        *      -
+pt/nt/43/nt_4301   1   31       even    RB                       (SBAR*      -    -   -    John  *         *            *             *        *            *            *         *   (ARGM-TMP*         *      -
+pt/nt/43/nt_4301   1   32     before    IN                            *      -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   33          I   PRP                       (S(NP*)     -    -   -    John  *         *            *             *        *            *            *         *            *    (ARG1*)    (7)
+pt/nt/43/nt_4301   1   34        was   VBD                         (VP*      be   -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   35       born   VBN   (VP*)))))))))))))))))))))))   bear  02   -    John  *         *)           *)            *)       *)           *            *)        *            *)      (V*)    15)
+pt/nt/43/nt_4301   1   36          .     .                            *      -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+pt/nt/43/nt_4301   1   37          '    ''                           *))     -    -   -    John  *         *            *             *        *            *            *         *            *         *      -
+
+pt/nt/43/nt_4301   1   0       I   PRP    (TOP(S(NP*)     -    -   -    John  *        (ARG0*)        *     (7)
+pt/nt/43/nt_4301   1   1     did   VBD          (VP*      do   -   -    John  *             *         *      -
+pt/nt/43/nt_4301   1   2     not    RB             *      -    -   -    John  *    (ARGM-NEG*)        *      -
+pt/nt/43/nt_4301   1   3    know    VB          (VP*    know  01   -    John  *           (V*)        *      -
+pt/nt/43/nt_4301   1   4     who    WP   (SBAR(WHNP*)     -    -   -    John  *        (ARG1*    (ARG2*)     -
+pt/nt/43/nt_4301   1   5      he   PRP        (S(NP*)     -    -   -    John  *             *    (ARG1*)   (15)
+pt/nt/43/nt_4301   1   6     was   VBD      (VP*)))))     be  01   -    John  *             *)      (V*)     -
+pt/nt/43/nt_4301   1   7       .     .            *))     -    -   -    John  *             *         *      -
+
+pt/nt/43/nt_4301   1    0          But    CC       (TOP(S*         -    -   -    John  *    (ARGM-DIS*)           *             *         *      -
+pt/nt/43/nt_4301   1    1            I   PRP          (NP*)        -    -   -    John  *        (ARG1*)      (ARG0*)            *         *     (7)
+pt/nt/43/nt_4301   1    2         came   VBD          (VP*       come  01   -    John  *           (V*)           *             *         *      -
+pt/nt/43/nt_4301   1    3    baptizing   VBG        (S(VP*    baptize  02   -    John  *    (ARGM-ADV*          (V*)            *         *      -
+pt/nt/43/nt_4301   1    4       people   NNS          (NP*)    people   -   -    John  *             *       (ARG1*)            *         *      -
+pt/nt/43/nt_4301   1    5         with    IN          (PP*         -    -   -    John  *             *   (ARGM-MNR*             *         *      -
+pt/nt/43/nt_4301   1    6        water    NN         (NP*))     water   -   -    John  *             *            *)            *         *      -
+pt/nt/43/nt_4301   1    7           so    IN        (SBAR*         -    -   -    John  *             *   (ARGM-PRP*             *         *      -
+pt/nt/43/nt_4301   1    8         that    IN             *         -    -   -    John  *             *            *             *         *      -
+pt/nt/43/nt_4301   1    9       Israel   NNP        (S(NP*)        -    -   -    John  *             *            *        (ARG0*)        *    (25)
+pt/nt/43/nt_4301   1   10        could    MD          (VP*         -    -   -    John  *             *            *    (ARGM-MOD*)        *      -
+pt/nt/43/nt_4301   1   11         know    VB          (VP*       know  01   -    John  *             *            *           (V*)        *      -
+pt/nt/43/nt_4301   1   12         that    IN        (SBAR*         -    -   -    John  *             *            *        (ARG1*         *      -
+pt/nt/43/nt_4301   1   13        Jesus   NNP        (S(NP*)        -    -   -    John  *             *            *             *    (ARG1*)   (15)
+pt/nt/43/nt_4301   1   14           is   VBZ          (VP*         be  01   -    John  *             *            *             *       (V*)     -
+pt/nt/43/nt_4301   1   15          the    DT          (NP*         -    -   -    John  *             *            *             *    (ARG2*     (1
+pt/nt/43/nt_4301   1   16       Christ   NNP   *)))))))))))        -    -   -    John  *             *)           *)            *)        *)     1)
+pt/nt/43/nt_4301   1   17            .     .             *         -    -   -    John  *             *            *             *         *      -
+pt/nt/43/nt_4301   1   18           ''    ''            *))        -    -   -    John  *             *            *             *         *      -
+
+pt/nt/43/nt_4301   1    0      Then    RB   (TOP(S(ADVP*)     -    -   -    John  *    (ARGM-TMP*)            *         *     -
+pt/nt/43/nt_4301   1    1      John   NNP           (NP*)     -    -   -    John  *        (ARG0*)            *         *    (7)
+pt/nt/43/nt_4301   1    2      said   VBD           (VP*     say  01   -    John  *           (V*)            *         *     -
+pt/nt/43/nt_4301   1    3         ,     ,              *      -    -   -    John  *             *             *         *     -
+pt/nt/43/nt_4301   1    4        ``    ``              *      -    -   -    John  *             *             *         *     -
+pt/nt/43/nt_4301   1    5         I   PRP         (S(NP*)     -    -   -    John  *        (ARG1*        (ARG0*)        *    (7)
+pt/nt/43/nt_4301   1    6      also    RB         (ADVP*)     -    -   -    John  *             *    (ARGM-ADV*)        *     -
+pt/nt/43/nt_4301   1    7       did   VBD           (VP*      do   -   -    John  *             *             *         *     -
+pt/nt/43/nt_4301   1    8       not    RB              *      -    -   -    John  *             *    (ARGM-NEG*)        *     -
+pt/nt/43/nt_4301   1    9      know    VB           (VP*    know  01   -    John  *             *           (V*)        *     -
+pt/nt/43/nt_4301   1   10       who    WP    (SBAR(WHNP*)     -    -   -    John  *             *        (ARG1*    (ARG2*)    -
+pt/nt/43/nt_4301   1   11       the    DT         (S(NP*      -    -   -    John  *             *             *    (ARG1*    (1
+pt/nt/43/nt_4301   1   12    Christ   NNP              *)     -    -   -    John  *             *             *         *)    1)
+pt/nt/43/nt_4301   1   13       was   VBD     (VP*)))))))     be  01   -    John  *             *)            *)      (V*)    -
+pt/nt/43/nt_4301   1   14         .     .             *))     -    -   -    John  *             *             *         *     -
+
+pt/nt/43/nt_4301   1    0        But    CC        (TOP(S*         -    -   -    John  *           *            *    (ARGM-DIS*)            *             *            *     -
+pt/nt/43/nt_4301   1    1        the    DT        (NP(NP*         -    -   -    John  *      (ARG0*            *        (ARG0*             *             *            *     -
+pt/nt/43/nt_4301   1    2        one    NN              *)        -    -   -    John  *           *)           *             *             *             *            *     -
+pt/nt/43/nt_4301   1    3        who    WP    (SBAR(WHNP*)        -    -   -    John  *    (R-ARG0*)           *             *             *             *            *     -
+pt/nt/43/nt_4301   1    4       sent   VBD         (S(VP*       send  02   -    John  *         (V*)           *             *             *             *            *     -
+pt/nt/43/nt_4301   1    5         me   PRP           (NP*)        -    -   -    John  *      (ARG1*)      (ARG0*)            *             *             *            *    (7)
+pt/nt/43/nt_4301   1    6         to    TO         (S(VP*         -    -   -    John  *      (ARG2*            *             *             *             *            *     -
+pt/nt/43/nt_4301   1    7    baptize    VB           (VP*    baptize  02   -    John  *           *          (V*)            *             *             *            *     -
+pt/nt/43/nt_4301   1    8       with    IN           (PP*         -    -   -    John  *           *   (ARGM-MNR*             *             *             *            *     -
+pt/nt/43/nt_4301   1    9      water    NN   (NP*)))))))))     water   -   -    John  *           *)           *)            *)            *             *            *     -
+pt/nt/43/nt_4301   1   10       told   VBD           (VP*       tell  01   -    John  *           *            *           (V*)            *             *            *     -
+pt/nt/43/nt_4301   1   11         me   PRP           (NP*)        -    -   -    John  *           *            *        (ARG2*)            *             *            *    (7)
+pt/nt/43/nt_4301   1   12          ,     ,              *         -    -   -    John  *           *            *             *             *             *            *     -
+pt/nt/43/nt_4301   1   13          '    ''              *         -    -   -    John  *           *            *             *             *             *            *     -
+pt/nt/43/nt_4301   1   14        You   PRP         (S(NP*)        -    -   -    John  *           *            *        (ARG1*        (ARG0*)            *            *    (7)
+pt/nt/43/nt_4301   1   15       will    MD           (VP*         -    -   -    John  *           *            *             *    (ARGM-MOD*)            *            *     -
+pt/nt/43/nt_4301   1   16        see    VB           (VP*        see  01   -    John  *           *            *             *           (V*)            *            *     -
+pt/nt/43/nt_4301   1   17        the    DT         (S(NP*         -    -   -    John  *           *            *             *        (ARG1*        (ARG1*       (ARG1*   (16
+pt/nt/43/nt_4301   1   18     Spirit   NNP              *)        -    -   -    John  *           *            *             *             *             *)           *)   16)
+pt/nt/43/nt_4301   1   19       come    VB        (VP(VP*       come  01   -    John  *           *            *             *             *           (V*)           *     -
+pt/nt/43/nt_4301   1   20       down    RP         (PRT*))        -    -   -    John  *           *            *             *             *    (ARGM-DIR*)           *     -
+pt/nt/43/nt_4301   1   21        and    CC              *         -    -   -    John  *           *            *             *             *             *            *     -
+pt/nt/43/nt_4301   1   22       rest    VB           (VP*       rest  01   -    John  *           *            *             *             *             *          (V*)    -
+pt/nt/43/nt_4301   1   23         on    IN           (PP*         -    -   -    John  *           *            *             *             *             *   (ARGM-LOC*     -
+pt/nt/43/nt_4301   1   24          a    DT           (NP*         -    -   -    John  *           *            *             *             *             *            *   (15
+pt/nt/43/nt_4301   1   25        man    NN      *)))))))))       man   -   -    John  *           *            *             *)            *)            *            *)   15)
+pt/nt/43/nt_4301   1   26          .     .             *))        -    -   -    John  *           *            *             *             *             *            *     -
+
+pt/nt/43/nt_4301   1    0         He   PRP    (TOP(S(NP*)        -    -   -    John  *    (ARG1*)            *    (15)
+pt/nt/43/nt_4301   1    1         is   VBZ          (VP*         be  01   -    John  *       (V*)            *      -
+pt/nt/43/nt_4301   1    2        the    DT       (NP(NP*         -    -   -    John  *    (ARG2*        (ARG0*      -
+pt/nt/43/nt_4301   1    3        one    CD             *)        -    -   -    John  *         *             *)     -
+pt/nt/43/nt_4301   1    4        who    WP   (SBAR(WHNP*)        -    -   -    John  *         *      (R-ARG0*)     -
+pt/nt/43/nt_4301   1    5       will    MD        (S(VP*         -    -   -    John  *         *    (ARGM-MOD*)     -
+pt/nt/43/nt_4301   1    6    baptize    VB          (VP*    baptize  02   -    John  *         *           (V*)     -
+pt/nt/43/nt_4301   1    7       with    IN          (PP*         -    -   -    John  *         *    (ARGM-MNR*      -
+pt/nt/43/nt_4301   1    8        the    DT          (NP*         -    -   -    John  *         *             *    (16
+pt/nt/43/nt_4301   1    9       Holy   NNP             *         -    -   -    John  *         *             *      -
+pt/nt/43/nt_4301   1   10     Spirit   NNP      *))))))))        -    -   -    John  *         *)            *)    16)
+pt/nt/43/nt_4301   1   11          .     .             *         -    -   -    John  *         *             *      -
+pt/nt/43/nt_4301   1   12          '    ''            *))        -    -   -    John  *         *             *      -
+
+pt/nt/43/nt_4301   1   0         I   PRP   (TOP(S(NP*)       -    -   -    John  *    (ARG0*)        *    (7)
+pt/nt/43/nt_4301   1   1      have   VBP         (VP*      have   -   -    John  *         *         *     -
+pt/nt/43/nt_4301   1   2      seen   VBN         (VP*       see  01   -    John  *       (V*)        *     -
+pt/nt/43/nt_4301   1   3      this    DT       (S(NP*)       -    -   -    John  *    (ARG1*    (ARG1*)    -
+pt/nt/43/nt_4301   1   4    happen    VB      (VP*))))   happen  01   -    John  *         *)      (V*)    -
+pt/nt/43/nt_4301   1   5         .     .           *))       -    -   -    John  *         *         *     -
+
+pt/nt/43/nt_4301   1    0         I   PRP   (TOP(S(NP*)     -    -   -    John  *    (ARG0*)            *            *     (7)
+pt/nt/43/nt_4301   1    1       saw   VBD         (VP*     see  01   -    John  *       (V*)            *            *      -
+pt/nt/43/nt_4301   1    2       the    DT       (S(NP*      -    -   -    John  *    (ARG1*        (ARG1*       (ARG1*    (16
+pt/nt/43/nt_4301   1    3    Spirit   NNP            *)     -    -   -    John  *         *             *)           *)    16)
+pt/nt/43/nt_4301   1    4      come    VB      (VP(VP*    come  01   -    John  *         *           (V*)           *      -
+pt/nt/43/nt_4301   1    5      down    RP        (PRT*)     -    -   -    John  *         *    (ARGM-DIR*)           *      -
+pt/nt/43/nt_4301   1    6      from    IN         (PP*      -    -   -    John  *         *        (ARG3*            *      -
+pt/nt/43/nt_4301   1    7    heaven   NNP        (NP*))     -    -   -    John  *         *             *)           *    (18)
+pt/nt/43/nt_4301   1    8      like    IN         (PP*      -    -   -    John  *         *    (ARGM-MNR*            *      -
+pt/nt/43/nt_4301   1    9         a    DT         (NP*      -    -   -    John  *         *             *            *      -
+pt/nt/43/nt_4301   1   10      dove    NN          *)))   dive   -   -    John  *         *             *)           *      -
+pt/nt/43/nt_4301   1   11       and    CC            *      -    -   -    John  *         *             *            *      -
+pt/nt/43/nt_4301   1   12      rest    VB         (VP*    rest  01   -    John  *         *             *          (V*)     -
+pt/nt/43/nt_4301   1   13        on    IN         (PP*      -    -   -    John  *         *             *   (ARGM-LOC*      -
+pt/nt/43/nt_4301   1   14      this    DT         (NP*      -    -   -    John  *         *             *            *    (15
+pt/nt/43/nt_4301   1   15       man    NN       *))))))    man   -   -    John  *         *)            *            *)    15)
+pt/nt/43/nt_4301   1   16         .     .           *))     -    -   -    John  *         *             *            *      -
+
+pt/nt/43/nt_4301   1    0        So    RB   (TOP(S(ADVP*)       -    -   -    John  *    (ARGM-DIS*)        *         *      -
+pt/nt/43/nt_4301   1    1      this    DT       (NP(NP*))       -    -   -    John  *        (ARG1*)        *         *      -
+pt/nt/43/nt_4301   1    2        is   VBZ           (VP*        be  01   -    John  *           (V*)        *         *      -
+pt/nt/43/nt_4301   1    3      what    WP    (SBAR(WHNP*)       -    -   -    John  *        (ARG2*    (ARG1*)        *      -
+pt/nt/43/nt_4301   1    4         I   PRP         (S(NP*)       -    -   -    John  *             *    (ARG0*)        *     (7)
+pt/nt/43/nt_4301   1    5      tell   VBP           (VP*      tell  01   -    John  *             *       (V*)        *      -
+pt/nt/43/nt_4301   1    6    people   NNS       (NP*)))))   people   -   -    John  *             *)   (ARG2*)        *      -
+pt/nt/43/nt_4301   1    7         :     :              *        -    -   -    John  *             *         *         *      -
+pt/nt/43/nt_4301   1    8         '    ''              *        -    -   -    John  *             *         *         *      -
+pt/nt/43/nt_4301   1    9        He   PRP         (S(NP*)       -    -   -    John  *      (C-ARG1*         *    (ARG1*)   (15)
+pt/nt/43/nt_4301   1   10        is   VBZ           (VP*        be  01   -    John  *             *         *       (V*)     -
+pt/nt/43/nt_4301   1   11       the    DT        (NP(NP*        -    -   -    John  *             *         *    (ARG2*      -
+pt/nt/43/nt_4301   1   12       Son   NNP              *)       -    -   -    John  *             *         *         *      -
+pt/nt/43/nt_4301   1   13        of    IN           (PP*        -    -   -    John  *             *         *         *      -
+pt/nt/43/nt_4301   1   14       God   NNP       (NP*)))))       -    -   -    John  *             *)        *         *)   (28)
+pt/nt/43/nt_4301   1   15         .     .              *        -    -   -    John  *             *         *         *      -
+pt/nt/43/nt_4301   1   16         '    ''              *        -    -   -    John  *             *         *         *      -
+pt/nt/43/nt_4301   1   17        ''    ''             *))       -    -   -    John  *             *         *         *      -
+
+pt/nt/43/nt_4301   1    0          The     DT  (TOP(S(NP*      -    -   -    John  *    (ARGM-TMP*   (ARGM-TMP*     -
+pt/nt/43/nt_4301   1    1         next     JJ           *      -    -   -    John  *             *            *     -
+pt/nt/43/nt_4301   1    2          day     NN           *)     -    -   -    John  *             *)           *)    -
+pt/nt/43/nt_4301   1    3         John    NNP        (NP*)     -    -   -    John  *        (ARG1*)      (ARG0*)   (7)
+pt/nt/43/nt_4301   1    4          was    VBD     (VP(VP*      be  01   -    John  *           (V*)           *     -
+pt/nt/43/nt_4301   1    5        there     RB      (ADVP*)     -    -   -    John  *        (ARG2*)           *     -
+pt/nt/43/nt_4301   1    6        again     RB     (ADVP*))     -    -   -    John  *    (ARGM-TMP*)           *     -
+pt/nt/43/nt_4301   1    7          and     CC           *      -    -   -    John  *             *            *     -
+pt/nt/43/nt_4301   1    8          had    VBD        (VP*    have  03   -    John  *             *          (V*)    -
+pt/nt/43/nt_4301   1    9          two     CD   (S(NP(NP*)     -    -   -    John  *             *       (ARG1*    (4
+pt/nt/43/nt_4301   1   10           of     IN        (PP*      -    -   -    John  *             *            *     -
+pt/nt/43/nt_4301   1   11          his   PRP$        (NP*      -    -   -    John  *             *            *    (7)
+pt/nt/43/nt_4301   1   12    followers    NNS         *)))     -    -   -    John  *             *            *     4)
+pt/nt/43/nt_4301   1   13         with     IN        (PP*      -    -   -    John  *             *            *     -
+pt/nt/43/nt_4301   1   14          him    PRP    (NP*)))))     -    -   -    John  *             *            *)   (7)
+pt/nt/43/nt_4301   1   15            .      .          *))     -    -   -    John  *             *            *     -
+
+pt/nt/43/nt_4301   1    0         He   PRP     (TOP(S(NP*)     -    -   -    John  *    (ARG0*)            *    (ARG0*)     *         (7)
+pt/nt/43/nt_4301   1    1        saw   VBD        (VP(VP*     see  01   -    John  *       (V*)            *         *      *          -
+pt/nt/43/nt_4301   1    2      Jesus   NNP         (S(NP*)     -    -   -    John  *    (ARG1*        (ARG0*)        *      *        (15)
+pt/nt/43/nt_4301   1    3    walking   VBG           (VP*    walk  01   -    John  *         *           (V*)        *      *          -
+pt/nt/43/nt_4301   1    4         by    RP       (PRT*))))     -    -   -    John  *         *)   (ARGM-DIR*)        *      *          -
+pt/nt/43/nt_4301   1    5        and    CC              *      -    -   -    John  *         *             *         *      *          -
+pt/nt/43/nt_4301   1    6       said   VBD           (VP*     say  01   -    John  *         *             *       (V*)     *          -
+pt/nt/43/nt_4301   1    7          ,     ,              *      -    -   -    John  *         *             *         *      *          -
+pt/nt/43/nt_4301   1    8         ``    ``              *      -    -   -    John  *         *             *         *      *          -
+pt/nt/43/nt_4301   1    9       Look    VB   (FRAG(S(VP*))   look  01   -    John  *         *             *    (ARG1*    (V*)         -
+pt/nt/43/nt_4301   1   10          ,     ,              *      -    -   -    John  *         *             *         *      *          -
+pt/nt/43/nt_4301   1   11        the    DT        (NP(NP*      -    -   -    John  *         *             *         *      *        (15
+pt/nt/43/nt_4301   1   12       Lamb   NNP              *)     -    -   -    John  *         *             *         *      *          -
+pt/nt/43/nt_4301   1   13         of    IN           (PP*      -    -   -    John  *         *             *         *      *          -
+pt/nt/43/nt_4301   1   14        God   NNP      (NP*))))))     -    -   -    John  *         *             *         *)     *    (28)|15)
+pt/nt/43/nt_4301   1   15          !     .              *      -    -   -    John  *         *             *         *      *          -
+pt/nt/43/nt_4301   1   16         ''    ''             *))     -    -   -    John  *         *             *         *      *          -
+
+pt/nt/43/nt_4301   1    0          The    DT  (TOP(S(S(NP*        -    -   -    John  *   (ARG0*         *             *     (4
+pt/nt/43/nt_4301   1    1          two    CD             *        -    -   -    John  *        *         *             *      -
+pt/nt/43/nt_4301   1    2    followers   NNS             *)       -    -   -    John  *        *)        *             *      4)
+pt/nt/43/nt_4301   1    3        heard   VBD          (VP*      hear  01   -    John  *      (V*)        *             *      -
+pt/nt/43/nt_4301   1    4          him   PRP        (S(NP*)       -    -   -    John  *   (ARG1*    (ARG0*)            *     (7)
+pt/nt/43/nt_4301   1    5          say    VB          (VP*       say  01   -    John  *        *       (V*)            *      -
+pt/nt/43/nt_4301   1    6         this    DT      (NP*)))))       -    -   -    John  *        *)   (ARG1*)            *      -
+pt/nt/43/nt_4301   1    7            ,     ,             *        -    -   -    John  *        *         *             *      -
+pt/nt/43/nt_4301   1    8           so    RB      (S(ADVP*)       -    -   -    John  *        *         *    (ARGM-ADV*)     -
+pt/nt/43/nt_4301   1    9         they   PRP          (NP*)       -    -   -    John  *        *         *        (ARG0*)    (4)
+pt/nt/43/nt_4301   1   10     followed   VBD          (VP*    follow  01   -    John  *        *         *           (V*)     -
+pt/nt/43/nt_4301   1   11        Jesus   NNP        (NP*)))       -    -   -    John  *        *         *        (ARG2*)   (15)
+pt/nt/43/nt_4301   1   12            .     .            *))       -    -   -    John  *        *         *             *      -
+
+pt/nt/43/nt_4301   1   0        Jesus   NNP   (TOP(S(NP*)       -    -   -    John  *    (ARG1*)   (ARG0*)        *    (15)
+pt/nt/43/nt_4301   1   1       turned   VBD      (VP(VP*)     turn  01   -    John  *       (V*)        *         *      -
+pt/nt/43/nt_4301   1   2          and    CC            *        -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1   3          saw   VBD         (VP*       see  01   -    John  *         *       (V*)        *      -
+pt/nt/43/nt_4301   1   4          the    DT       (S(NP*        -    -   -    John  *         *    (ARG1*    (ARG0*     (4
+pt/nt/43/nt_4301   1   5          two    CD            *        -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1   6          men   NNS            *)       -    -   -    John  *         *         *         *)     4)
+pt/nt/43/nt_4301   1   7    following   VBG         (VP*    follow  01   -    John  *         *         *       (V*)     -
+pt/nt/43/nt_4301   1   8          him   PRP     (NP*)))))       -    -   -    John  *         *         *)   (ARG2*)   (15)
+pt/nt/43/nt_4301   1   9            .     .           *))       -    -   -    John  *         *         *         *      -
+
+pt/nt/43/nt_4301   1   0       He   PRP     (TOP(S(NP*)     -    -   -    John  *    (ARG0*)     *         *    (15)
+pt/nt/43/nt_4301   1   1    asked   VBD           (VP*     ask  01   -    John  *       (V*)     *         *      -
+pt/nt/43/nt_4301   1   2        ,     ,              *      -    -   -    John  *         *      *         *      -
+pt/nt/43/nt_4301   1   3       ``    ``              *      -    -   -    John  *         *      *         *      -
+pt/nt/43/nt_4301   1   4     What    WP   (SBARQ(WHNP*)     -    -   -    John  *    (ARG1*      *    (ARG1*)     -
+pt/nt/43/nt_4301   1   5       do   VBP           (SQ*      do  01   -    John  *         *    (V*)        *      -
+pt/nt/43/nt_4301   1   6      you   PRP           (NP*)     -    -   -    John  *         *      *    (ARG0*)    (4)
+pt/nt/43/nt_4301   1   7     want    VB        (VP*))))   want  01   -    John  *         *)     *       (V*)     -
+pt/nt/43/nt_4301   1   8        ?     .              *      -    -   -    John  *         *      *         *      -
+pt/nt/43/nt_4301   1   9       ''    ''             *))     -    -   -    John  *         *      *         *      -
+
+pt/nt/43/nt_4301   1    0       They   PRP   (TOP(S(NP*)     -    -   -    John  *    (ARG0*)     *         *     (4)
+pt/nt/43/nt_4301   1    1       said   VBD         (VP*     say  01   -    John  *       (V*)     *         *      -
+pt/nt/43/nt_4301   1    2          ,     ,            *      -    -   -    John  *         *      *         *      -
+pt/nt/43/nt_4301   1    3         ``    ``            *      -    -   -    John  *         *      *         *      -
+pt/nt/43/nt_4301   1    4      Rabbi   NNP   (SBARQ(NP*)     -    -   -    John  *    (ARG1*      *         *    (15)
+pt/nt/43/nt_4301   1    5          ,     ,            *      -    -   -    John  *         *      *         *      -
+pt/nt/43/nt_4301   1    6      where   WRB     (WHADVP*)     -    -   -    John  *         *      *    (ARG3*)     -
+pt/nt/43/nt_4301   1    7        are   VBP         (SQ*      be  03   -    John  *         *    (V*)        *      -
+pt/nt/43/nt_4301   1    8        you   PRP         (NP*)     -    -   -    John  *         *      *    (ARG1*)   (15)
+pt/nt/43/nt_4301   1    9    staying   VBG      (VP*))))   stay  01   -    John  *         *)     *       (V*)     -
+pt/nt/43/nt_4301   1   10          ?     .            *      -    -   -    John  *         *      *         *      -
+pt/nt/43/nt_4301   1   11         ''    ''           *))     -    -   -    John  *         *      *         *      -
+
+pt/nt/43/nt_4301   1   0     -LRB-   -LRB-   (TOP(S*      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   1         ``      ``        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   2      Rabbi     NNP     (NP*)     -    -   -    John  *    (ARG0*)  -
+pt/nt/43/nt_4301   1   3         ''      ''        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   4      means     VBP     (VP*    mean  01   -    John  *       (V*)  -
+pt/nt/43/nt_4301   1   5         ``      ``        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   6    Teacher      NN    (NP*))     -    -   -    John  *    (ARG1*)  -
+pt/nt/43/nt_4301   1   7          .       .        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   8         ''      ''        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   9     -RRB-   -RRB-        *))     -    -   -    John  *         *   -
+
+pt/nt/43/nt_4301   1    0          He   PRP   (TOP(S(S(NP*)       -    -   -    John  *    (ARG0*)           *             *    (15)
+pt/nt/43/nt_4301   1    1    answered   VBD           (VP*    answer  01   -    John  *       (V*)           *             *      -
+pt/nt/43/nt_4301   1    2           ,     ,              *        -    -   -    John  *         *            *             *      -
+pt/nt/43/nt_4301   1    3          ``    ``              *        -    -   -    John  *         *            *             *      -
+pt/nt/43/nt_4301   1    4        Come    VB     (UCP(S(VP*      come  01   -    John  *    (ARG2*          (V*)            *      -
+pt/nt/43/nt_4301   1    5        with    IN           (PP*        -    -   -    John  *         *   (ARGM-COM*             *      -
+pt/nt/43/nt_4301   1    6          me   PRP        (NP*))))       -    -   -    John  *         *            *)            *    (15)
+pt/nt/43/nt_4301   1    7         and    CC              *        -    -   -    John  *         *            *             *      -
+pt/nt/43/nt_4301   1    8         you   PRP         (S(NP*)       -    -   -    John  *         *            *        (ARG0*)    (4)
+pt/nt/43/nt_4301   1    9        will    MD           (VP*        -    -   -    John  *         *            *    (ARGM-MOD*)     -
+pt/nt/43/nt_4301   1   10         see    VB      (VP*))))))      see  01   -    John  *         *)           *           (V*)     -
+pt/nt/43/nt_4301   1   11           .     .              *        -    -   -    John  *         *            *             *      -
+pt/nt/43/nt_4301   1   12          ''    ''             *))       -    -   -    John  *         *            *             *      -
+
+pt/nt/43/nt_4301   1   0      So    RB   (TOP(S(ADVP*)   -    -   -    John  *    (ARGM-DIS*)     -
+pt/nt/43/nt_4301   1   1     the    DT           (NP*    -    -   -    John  *        (ARG0*     (4
+pt/nt/43/nt_4301   1   2     two    CD              *    -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   3     men   NNS              *)   -    -   -    John  *             *)     4)
+pt/nt/43/nt_4301   1   4    went   VBD           (VP*    go  02   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   5    with    IN           (PP*    -    -   -    John  *    (ARGM-COM*      -
+pt/nt/43/nt_4301   1   6     him   PRP         (NP*)))   -    -   -    John  *             *)   (15)
+pt/nt/43/nt_4301   1   7       .     .             *))   -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1    0       They   PRP    (TOP(S(S(NP*)      -    -   -    John  *    (ARG0*)          *             *     (4)
+pt/nt/43/nt_4301   1    1        saw   VBD            (VP*      see  01   -    John  *       (V*)          *             *      -
+pt/nt/43/nt_4301   1    2        the    DT         (NP(NP*       -    -   -    John  *    (ARG1*      (ARG3*             *      -
+pt/nt/43/nt_4301   1    3      place    NN               *)   place   -   -    John  *         *           *)            *      -
+pt/nt/43/nt_4301   1    4      where   WRB   (SBAR(WHADVP*)      -    -   -    John  *         *    (R-ARG3*)            *      -
+pt/nt/43/nt_4301   1    5         he   PRP          (S(NP*)      -    -   -    John  *         *      (ARG1*)            *    (15)
+pt/nt/43/nt_4301   1    6        was   VBD            (VP*       be   -   -    John  *         *           *             *      -
+pt/nt/43/nt_4301   1    7    staying   VBG      (VP*)))))))    stay  01   -    John  *         *)        (V*)            *      -
+pt/nt/43/nt_4301   1    8          ,     ,               *       -    -   -    John  *         *           *             *      -
+pt/nt/43/nt_4301   1    9        and    CC               *       -    -   -    John  *         *           *             *      -
+pt/nt/43/nt_4301   1   10       they   PRP          (S(NP*)      -    -   -    John  *         *           *        (ARG1*)    (4)
+pt/nt/43/nt_4301   1   11     stayed   VBD            (VP*     stay  01   -    John  *         *           *           (V*)     -
+pt/nt/43/nt_4301   1   12      there    RB          (ADVP*)      -    -   -    John  *         *           *    (ARGM-LOC*)     -
+pt/nt/43/nt_4301   1   13       with    IN            (PP*       -    -   -    John  *         *           *        (ARG3*      -
+pt/nt/43/nt_4301   1   14        him   PRP           (NP*))      -    -   -    John  *         *           *             *)   (15)
+pt/nt/43/nt_4301   1   15       that    DT            (NP*       -    -   -    John  *         *           *    (ARGM-TMP*      -
+pt/nt/43/nt_4301   1   16        day    NN             *)))      -    -   -    John  *         *           *             *)     -
+pt/nt/43/nt_4301   1   17          .     .              *))      -    -   -    John  *         *           *             *      -
+
+pt/nt/43/nt_4301   1   0         It   PRP   (TOP(S(NP*)   -    -   -    John  *    (ARG1*)  -
+pt/nt/43/nt_4301   1   1        was   VBD         (VP*    be  01   -    John  *       (V*)  -
+pt/nt/43/nt_4301   1   2      about    RB      (NP(QP*    -    -   -    John  *    (ARG2*   -
+pt/nt/43/nt_4301   1   3       four    CD            *)   -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   4    o'clock    NN           *))   -    -   -    John  *         *)  -
+pt/nt/43/nt_4301   1   5          .     .           *))   -    -   -    John  *         *   -
+
+pt/nt/43/nt_4301   1    0       These    DT   (TOP(S(NP*        -    -   -    John  *       (ARG0*         *     (4
+pt/nt/43/nt_4301   1    1         men   NNS            *)       -    -   -    John  *            *)        *      4)
+pt/nt/43/nt_4301   1    2    followed   VBD         (VP*    follow  01   -    John  *          (V*)        *      -
+pt/nt/43/nt_4301   1    3       Jesus   NNP         (NP*)       -    -   -    John  *       (ARG2*)        *    (15)
+pt/nt/43/nt_4301   1    4       after    IN       (SBAR*        -    -   -    John  *   (ARGM-TMP*         *      -
+pt/nt/43/nt_4301   1    5        they   PRP       (S(NP*)       -    -   -    John  *            *    (ARG0*)    (4)
+pt/nt/43/nt_4301   1    6         had   VBD         (VP*      have   -   -    John  *            *         *      -
+pt/nt/43/nt_4301   1    7       heard   VBN         (VP*      hear  01   -    John  *            *       (V*)     -
+pt/nt/43/nt_4301   1    8       about    IN         (PP*        -    -   -    John  *            *    (ARG1*      -
+pt/nt/43/nt_4301   1    9         him   PRP        (NP*))       -    -   -    John  *            *         *)   (15)
+pt/nt/43/nt_4301   1   10        from    IN         (PP*        -    -   -    John  *            *    (ARG2*      -
+pt/nt/43/nt_4301   1   11        John   NNP   (NP*)))))))       -    -   -    John  *            *)        *)    (7)
+pt/nt/43/nt_4301   1   12           .     .           *))       -    -   -    John  *            *         *      -
+
+pt/nt/43/nt_4301   1    0        One    CD   (TOP(S(NP(NP*)   -    -   -    John  *   (ARG1*         -
+pt/nt/43/nt_4301   1    1         of    IN            (PP*    -    -   -    John  *        *         -
+pt/nt/43/nt_4301   1    2       them   PRP          (NP*)))   -    -   -    John  *        *)       (4)
+pt/nt/43/nt_4301   1    3        was   VBD            (VP*    be  01   -    John  *      (V*)        -
+pt/nt/43/nt_4301   1    4     Andrew   NNP         (NP(NP*)   -    -   -    John  *   (ARG2*       (10
+pt/nt/43/nt_4301   1    5          ,     ,               *    -    -   -    John  *        *         -
+pt/nt/43/nt_4301   1    6        the    DT         (NP(NP*    -    -   -    John  *        *         -
+pt/nt/43/nt_4301   1    7    brother    NN               *)   -    -   -    John  *        *         -
+pt/nt/43/nt_4301   1    8         of    IN            (PP*    -    -   -    John  *        *         -
+pt/nt/43/nt_4301   1    9      Simon   NNP            (NP*    -    -   -    John  *        *       (22
+pt/nt/43/nt_4301   1   10      Peter   NNP           *)))))   -    -   -    John  *        *)   22)|10)
+pt/nt/43/nt_4301   1   11          .     .              *))   -    -   -    John  *        *         -
+
+pt/nt/43/nt_4301   1    0        The     DT  (TOP(S(NP(NP*      -    -   -    John  *    (ARG1*   (ARG1*   (ARG0*   (ARG0*          -
+pt/nt/43/nt_4301   1    1      first     JJ              *      -    -   -    John  *         *        *        *        *          -
+pt/nt/43/nt_4301   1    2      thing     NN              *)     -    -   -    John  *         *)       *        *        *          -
+pt/nt/43/nt_4301   1    3     Andrew    NNP    (SBAR(S(NP*)     -    -   -    John  *    (ARG0*)       *        *        *        (10)
+pt/nt/43/nt_4301   1    4        did    VBD        (VP*))))     do  02   -    John  *       (V*)       *)       *)       *)         -
+pt/nt/43/nt_4301   1    5        was    VBD           (VP*      be  01   -    John  *         *      (V*)       *        *          -
+pt/nt/43/nt_4301   1    6         to     TO         (S(VP*      -    -   -    John  *         *   (ARG2*        *        *          -
+pt/nt/43/nt_4301   1    7         go     VB        (VP(VP*)     go  02   -    John  *         *        *      (V*)       *          -
+pt/nt/43/nt_4301   1    8        and     CC              *      -    -   -    John  *         *        *        *        *          -
+pt/nt/43/nt_4301   1    9       find     VB           (VP*    find  01   -    John  *         *        *        *      (V*)         -
+pt/nt/43/nt_4301   1   10        his   PRP$        (NP(NP*      -    -   -    John  *         *        *        *   (ARG1*    (22|(10)
+pt/nt/43/nt_4301   1   11    brother     NN              *)     -    -   -    John  *         *        *        *        *          -
+pt/nt/43/nt_4301   1   12      Simon    NNP     (NP*)))))))     -    -   -    John  *         *        *)       *        *)        22)
+pt/nt/43/nt_4301   1   13          .      .             *))     -    -   -    John  *         *        *        *        *          -
+
+pt/nt/43/nt_4301   1    0     Andrew   NNP   (TOP(S(NP*)     -    -   -    John  *    (ARG0*)        *    (10)
+pt/nt/43/nt_4301   1    1       said   VBD         (VP*     say  01   -    John  *       (V*)        *      -
+pt/nt/43/nt_4301   1    2         to    IN         (PP*      -    -   -    John  *    (ARG2*         *      -
+pt/nt/43/nt_4301   1    3        him   PRP        (NP*))     -    -   -    John  *         *)        *    (22)
+pt/nt/43/nt_4301   1    4          ,     ,            *      -    -   -    John  *         *         *      -
+pt/nt/43/nt_4301   1    5         ``    ``            *      -    -   -    John  *         *         *      -
+pt/nt/43/nt_4301   1    6         We   PRP       (S(NP*)     -    -   -    John  *    (ARG1*    (ARG0*)    (4)
+pt/nt/43/nt_4301   1    7       have   VBP         (VP*    have   -   -    John  *         *         *      -
+pt/nt/43/nt_4301   1    8      found   VBN         (VP*    find  01   -    John  *         *       (V*)     -
+pt/nt/43/nt_4301   1    9        the    DT         (NP*      -    -   -    John  *         *    (ARG1*    (15
+pt/nt/43/nt_4301   1   10    Messiah   NNP        *)))))     -    -   -    John  *         *)        *)    15)
+pt/nt/43/nt_4301   1   11          .     .            *      -    -   -    John  *         *         *      -
+pt/nt/43/nt_4301   1   12         ''    ''           *))     -    -   -    John  *         *         *      -
+
+pt/nt/43/nt_4301   1   0     -LRB-   -LRB-   (TOP(S*      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   1         ``      ``        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   2    Messiah     NNP     (NP*)     -    -   -    John  *    (ARG0*)  -
+pt/nt/43/nt_4301   1   3         ''      ''        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   4      means     VBZ     (VP*    mean  01   -    John  *       (V*)  -
+pt/nt/43/nt_4301   1   5         ``      ``        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   6     Christ     NNP    (NP*))     -    -   -    John  *    (ARG1*)  -
+pt/nt/43/nt_4301   1   7          .       .        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   8         ''      ''       *))     -    -   -    John  *         *   -
+
+pt/nt/43/nt_4301   1   0     -RRB-   -RRB-    (TOP(S(X*)      -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   1       Then      RB      (ADVP*)      -    -   -    John  *    (ARGM-TMP*)     -
+pt/nt/43/nt_4301   1   2     Andrew     NNP        (NP*)      -    -   -    John  *        (ARG0*)   (10)
+pt/nt/43/nt_4301   1   3    brought     VBD        (VP*    bring  01   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   4      Simon     NNP        (NP*)      -    -   -    John  *        (ARG1*)   (22)
+pt/nt/43/nt_4301   1   5         to      IN        (PP*       -    -   -    John  *        (ARG2*      -
+pt/nt/43/nt_4301   1   6      Jesus     NNP      (NP*)))      -    -   -    John  *             *)   (15)
+pt/nt/43/nt_4301   1   7          .       .          *))      -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1    0     Jesus   NNP    (TOP(S(NP*)     -    -   -    John  *    (ARG0*)   (ARG0*)        *    (15)
+pt/nt/43/nt_4301   1    1    looked   VBD       (VP(VP*    look  01   -    John  *       (V*)        *         *      -
+pt/nt/43/nt_4301   1    2        at    IN          (PP*      -    -   -    John  *    (ARG1*         *         *      -
+pt/nt/43/nt_4301   1    3       him   PRP        (NP*)))     -    -   -    John  *         *)        *         *    (22)
+pt/nt/43/nt_4301   1    4       and    CC             *      -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1    5      said   VBD          (VP*     say  01   -    John  *         *       (V*)        *      -
+pt/nt/43/nt_4301   1    6         ,     ,             *      -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1    7        ``    ``             *      -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1    8       You   PRP        (S(NP*)     -    -   -    John  *         *    (ARG1*    (ARG1*)   (22)
+pt/nt/43/nt_4301   1    9       are   VBP          (VP*      be  01   -    John  *         *         *       (V*)     -
+pt/nt/43/nt_4301   1   10     Simon   NNP       (NP(NP*)     -    -   -    John  *         *         *    (ARG2*      -
+pt/nt/43/nt_4301   1   11         ,     ,             *      -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1   12       the    DT       (NP(NP*      -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1   13       son    NN             *)     -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1   14        of    IN          (PP*      -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1   15      John   NNP   (NP*))))))))     -    -   -    John  *         *         *)        *)     -
+pt/nt/43/nt_4301   1   16         .     .            *))     -    -   -    John  *         *         *         *      -
+
+pt/nt/43/nt_4301   1   0       You   PRP   (TOP(S(NP*)     -    -   -    John  *        (ARG1*)   (22)
+pt/nt/43/nt_4301   1   1      will    MD         (VP*      -    -   -    John  *    (ARGM-MOD*)     -
+pt/nt/43/nt_4301   1   2        be    VB         (VP*      be   -   -    John  *             *      -
+pt/nt/43/nt_4301   1   3    called   VBN         (VP*    call  02   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   4    Cephas   NNP   (S(NP*)))))     -    -   -    John  *        (ARG2*)     -
+pt/nt/43/nt_4301   1   5         .     .            *      -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   6        ''    ''           *))     -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1   0    -LRB-   -LRB-   (TOP(S*      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   1        ``      ``        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   2    Cephas     NNP     (NP*)     -    -   -    John  *    (ARG0*)  -
+pt/nt/43/nt_4301   1   3        ''      ''        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   4     means     VBZ     (VP*    mean  01   -    John  *       (V*)  -
+pt/nt/43/nt_4301   1   5        ``      ``        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   6     Peter     NNP    (NP*))     -    -   -    John  *    (ARG1*)  -
+pt/nt/43/nt_4301   1   7         .       .        *      -    -   -    John  *         *   -
+pt/nt/43/nt_4301   1   8        ''      ''       *))     -    -   -    John  *         *   -
+
+pt/nt/43/nt_4301   1    0     -RRB-   -RRB-    (TOP(S(X*)       -    -   -    John  *            *         *      -
+pt/nt/43/nt_4301   1    1        The      DT        (NP*        -    -   -    John  *   (ARGM-TMP*         *      -
+pt/nt/43/nt_4301   1    2       next      JJ           *        -    -   -    John  *            *         *      -
+pt/nt/43/nt_4301   1    3        day      NN           *)       -    -   -    John  *            *)        *      -
+pt/nt/43/nt_4301   1    4      Jesus     NNP        (NP*)       -    -   -    John  *       (ARG0*)   (ARG0*)   (15)
+pt/nt/43/nt_4301   1    5    decided     VBD        (VP*    decide  01   -    John  *          (V*)        *      -
+pt/nt/43/nt_4301   1    6         to      TO      (S(VP*        -    -   -    John  *       (ARG1*         *      -
+pt/nt/43/nt_4301   1    7         go      VB        (VP*        go  02   -    John  *            *       (V*)     -
+pt/nt/43/nt_4301   1    8         to      IN        (PP*        -    -   -    John  *            *    (ARG4*      -
+pt/nt/43/nt_4301   1    9    Galilee     NNP   (NP*))))))       -    -   -    John  *            *)        *)     -
+pt/nt/43/nt_4301   1   10          .       .          *))       -    -   -    John  *            *         *      -
+
+pt/nt/43/nt_4301   1    0        He   PRP   (TOP(S(NP*)       -    -   -    John  *    (ARG0*)   (ARG0*)        *    (15)
+pt/nt/43/nt_4301   1    1       met   VBD      (VP(VP*      meet  02   -    John  *       (V*)        *         *      -
+pt/nt/43/nt_4301   1    2    Philip   NNP        (NP*))       -    -   -    John  *    (ARG1*)        *         *    (26)
+pt/nt/43/nt_4301   1    3       and    CC            *        -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1    4      said   VBD         (VP*       say  01   -    John  *         *       (V*)        *      -
+pt/nt/43/nt_4301   1    5        to    IN         (PP*        -    -   -    John  *         *    (ARG2*         *      -
+pt/nt/43/nt_4301   1    6       him   PRP        (NP*))       -    -   -    John  *         *         *)        *    (26)
+pt/nt/43/nt_4301   1    7         ,     ,            *        -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1    8        ``    ``            *        -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1    9    Follow    VB       (S(VP*    follow  02   -    John  *         *    (ARG1*       (V*)     -
+pt/nt/43/nt_4301   1   10        me   PRP     (NP*)))))       -    -   -    John  *         *         *)   (ARG1*)   (15)
+pt/nt/43/nt_4301   1   11         .     .            *        -    -   -    John  *         *         *         *      -
+pt/nt/43/nt_4301   1   12        ''    ''           *))       -    -   -    John  *         *         *         *      -
+
+pt/nt/43/nt_4301   1    0       Philip   NNP   (TOP(S(NP*)   -    -   -    John  *       (ARG1*)   (26)
+pt/nt/43/nt_4301   1    1          was   VBD         (VP*    be  01   -    John  *          (V*)     -
+pt/nt/43/nt_4301   1    2         from    IN         (PP*    -    -   -    John  *       (ARG2*      -
+pt/nt/43/nt_4301   1    3          the    DT      (NP(NP*    -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1    4         town    NN            *)   -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1    5           of    IN         (PP*    -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1    6    Bethsaida   NNP      (NP*))))   -    -   -    John  *            *)     -
+pt/nt/43/nt_4301   1    7            ,     ,            *    -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1    8          the    DT      (NP(NP*    -    -   -    John  *   (ARGM-PRD*      -
+pt/nt/43/nt_4301   1    9         same    JJ            *)   -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1   10           as    IN         (PP*    -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1   11       Andrew   NNP         (NP*    -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1   12          and    CC            *    -    -   -    John  *            *      -
+pt/nt/43/nt_4301   1   13        Peter   NNP         *))))   -    -   -    John  *            *)     -
+pt/nt/43/nt_4301   1   14            .     .           *))   -    -   -    John  *            *      -
+
+pt/nt/43/nt_4301   1    0       Philip   NNP    (TOP(S(NP*)      -    -   -    John  *    (ARG0*)   (ARG0*)        *            *    (26)
+pt/nt/43/nt_4301   1    1        found   VBD       (VP(VP*     find  01   -    John  *       (V*)        *         *            *      -
+pt/nt/43/nt_4301   1    2    Nathanael   NNP         (NP*))      -    -   -    John  *    (ARG1*)        *         *            *    (29)
+pt/nt/43/nt_4301   1    3          and    CC             *       -    -   -    John  *         *         *         *            *      -
+pt/nt/43/nt_4301   1    4         told   VBD          (VP*     tell  01   -    John  *         *       (V*)        *            *      -
+pt/nt/43/nt_4301   1    5          him   PRP          (NP*)      -    -   -    John  *         *    (ARG2*)        *            *    (29)
+pt/nt/43/nt_4301   1    6            ,     ,             *       -    -   -    John  *         *         *         *            *      -
+pt/nt/43/nt_4301   1    7           ``    ``             *       -    -   -    John  *         *         *         *            *      -
+pt/nt/43/nt_4301   1    8           We   PRP        (S(NP*)      -    -   -    John  *         *    (ARG1*    (ARG0*)           *      -
+pt/nt/43/nt_4301   1    9         have   VBP          (VP*     have   -   -    John  *         *         *         *            *      -
+pt/nt/43/nt_4301   1   10        found   VBN          (VP*     find  01   -    John  *         *         *       (V*)           *      -
+pt/nt/43/nt_4301   1   11          the    DT       (NP(NP*       -    -   -    John  *         *         *    (ARG1*            *    (15
+pt/nt/43/nt_4301   1   12          man    NN             *)     man   -   -    John  *         *         *         *            *      -
+pt/nt/43/nt_4301   1   13         that   WDT   (SBAR(WHNP*)      -    -   -    John  *         *         *         *            *      -
+pt/nt/43/nt_4301   1   14        Moses   NNP        (S(NP*)      -    -   -    John  *         *         *         *       (ARG0*)     -
+pt/nt/43/nt_4301   1   15        wrote   VBD          (VP*    write  01   -    John  *         *         *         *          (V*)     -
+pt/nt/43/nt_4301   1   16        about    IN          (PP*)      -    -   -    John  *         *         *         *       (ARG1*)     -
+pt/nt/43/nt_4301   1   17           in    IN          (PP*       -    -   -    John  *         *         *         *   (ARGM-LOC*      -
+pt/nt/43/nt_4301   1   18          the    DT          (NP*       -    -   -    John  *         *         *         *            *      -
+pt/nt/43/nt_4301   1   19          law    NN   *)))))))))))      -    -   -    John  *         *         *)        *)           *)    15)
+pt/nt/43/nt_4301   1   20            .     .            *))      -    -   -    John  *         *         *         *            *      -
+
+pt/nt/43/nt_4301   1   0         The    DT  (TOP(S(NP*       -    -   -    John  *        (ARG0*      -
+pt/nt/43/nt_4301   1   1    prophets   NNS           *)      -    -   -    John  *             *)     -
+pt/nt/43/nt_4301   1   2       wrote   VBD        (VP*    write  01   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   3       about    IN        (PP*       -    -   -    John  *    (ARGM-ADV*      -
+pt/nt/43/nt_4301   1   4         him   PRP       (NP*))      -    -   -    John  *             *)   (15)
+pt/nt/43/nt_4301   1   5         too    RB     (ADVP*))      -    -   -    John  *    (ARGM-DIS*)     -
+pt/nt/43/nt_4301   1   6           .     .          *))      -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1   0        He   PRP   (TOP(S(NP*)   -    -   -    John  *    (ARG1*)   (15)
+pt/nt/43/nt_4301   1   1        is   VBZ         (VP*    be  01   -    John  *       (V*)     -
+pt/nt/43/nt_4301   1   2     Jesus   NNP      (NP(NP*)   -    -   -    John  *    (ARG2*    (15
+pt/nt/43/nt_4301   1   3         ,     ,            *    -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   4       the    DT      (NP(NP*    -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   5       son    NN            *)   -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   6        of    IN         (PP*    -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   7    Joseph   NNP     (NP*)))))   -    -   -    John  *         *)    15)
+pt/nt/43/nt_4301   1   8         .     .           *))   -    -   -    John  *         *      -
+
+pt/nt/43/nt_4301   1   0          He   PRP   (TOP(S(NP*)   -    -   -    John  *    (ARG1*)   (15)
+pt/nt/43/nt_4301   1   1          is   VBZ         (VP*    be  01   -    John  *       (V*)     -
+pt/nt/43/nt_4301   1   2        from    IN         (PP*    -    -   -    John  *    (ARG2*      -
+pt/nt/43/nt_4301   1   3    Nazareth   NNP       (NP*)))   -    -   -    John  *         *)   (13)
+pt/nt/43/nt_4301   1   4           .     .            *    -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   5          ''    ''           *))   -    -   -    John  *         *      -
+
+pt/nt/43/nt_4301   1   0          But    CC  (TOP(S*     -    -   -    John  *    (ARGM-DIS*)     -
+pt/nt/43/nt_4301   1   1    Nathanael   NNP     (NP*)    -    -   -    John  *        (ARG0*)   (29)
+pt/nt/43/nt_4301   1   2         said   VBD     (VP*    say  01   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   3           to    IN     (PP*     -    -   -    John  *        (ARG2*      -
+pt/nt/43/nt_4301   1   4       Philip   NNP    (NP*))    -    -   -    John  *             *)   (26)
+pt/nt/43/nt_4301   1   5            ,     ,        *     -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   6           ``    ``        *     -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   7     Nazareth   NNP    (NP*))    -    -   -    John  *        (ARG1*)   (13)
+pt/nt/43/nt_4301   1   8            !     .       *))    -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1   0         Can    MD  (TOP(SQ*      -    -   -    John  *    (ARGM-MOD*)     -
+pt/nt/43/nt_4301   1   1    anything    NN   (NP(NP*)     -    -   -    John  *        (ARG1*      -
+pt/nt/43/nt_4301   1   2        good    JJ   (ADJP*))     -    -   -    John  *             *)     -
+pt/nt/43/nt_4301   1   3        come    VB      (VP*    come  03   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   4        from    IN      (PP*      -    -   -    John  *        (ARG2*      -
+pt/nt/43/nt_4301   1   5    Nazareth   NNP    (NP*)))     -    -   -    John  *             *)   (13)
+pt/nt/43/nt_4301   1   6           ?     .         *      -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   7          ''    ''        *))     -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1   0      Philip   NNP   (TOP(S(NP*)       -    -   -    John  *    (ARG0*)     *      *    (26)
+pt/nt/43/nt_4301   1   1    answered   VBD         (VP*    answer  01   -    John  *       (V*)     *      *      -
+pt/nt/43/nt_4301   1   2           ,     ,            *        -    -   -    John  *         *      *      *      -
+pt/nt/43/nt_4301   1   3          ``    ``            *        -    -   -    John  *         *      *      *      -
+pt/nt/43/nt_4301   1   4        Come    VB       (S(VP*      come  01   -    John  *    (ARG2*    (V*)     *      -
+pt/nt/43/nt_4301   1   5         and    CC            *        -    -   -    John  *         *      *      *      -
+pt/nt/43/nt_4301   1   6         see    VB          *)))      see  01   -    John  *         *)     *    (V*)     -
+pt/nt/43/nt_4301   1   7           .     .            *        -    -   -    John  *         *      *      *      -
+pt/nt/43/nt_4301   1   8          ''    ''           *))       -    -   -    John  *         *      *      *      -
+
+pt/nt/43/nt_4301   1    0        Jesus   NNP      (TOP(S(NP*)      -    -   -    John  *    (ARG0*)           *    (ARG0*)       *        *             *    (15)
+pt/nt/43/nt_4301   1    1          saw   VBD         (VP(VP*      see  01   -    John  *       (V*)           *         *        *        *             *      -
+pt/nt/43/nt_4301   1    2    Nathanael   NNP            (NP*)      -    -   -    John  *    (ARG1*)      (ARG1*)        *        *        *             *    (29)
+pt/nt/43/nt_4301   1    3       coming   VBG          (S(VP*     come  01   -    John  *    (ARG2*          (V*)        *        *        *             *      -
+pt/nt/43/nt_4301   1    4       toward    IN            (PP*       -    -   -    John  *         *   (ARGM-DIR*         *        *        *             *      -
+pt/nt/43/nt_4301   1    5          him   PRP        (NP*)))))      -    -   -    John  *         *)           *)        *        *        *             *    (15)
+pt/nt/43/nt_4301   1    6          and    CC               *       -    -   -    John  *         *            *         *        *        *             *      -
+pt/nt/43/nt_4301   1    7         said   VBD            (VP*      say  01   -    John  *         *            *       (V*)       *        *             *      -
+pt/nt/43/nt_4301   1    8            ,     ,               *       -    -   -    John  *         *            *         *        *        *             *      -
+pt/nt/43/nt_4301   1    9           ``    ``               *       -    -   -    John  *         *            *         *        *        *             *      -
+pt/nt/43/nt_4301   1   10         This    DT       (S(NP(NP*       -    -   -    John  *         *            *    (ARG1*   (ARG1*   (ARG1*             *    (29
+pt/nt/43/nt_4301   1   11          man    NN               *)     man   -   -    John  *         *            *         *        *)       *             *      -
+pt/nt/43/nt_4301   1   12       coming   VBG           (VP*))    come  01   -    John  *         *            *         *      (V*)       *)            *     29)
+pt/nt/43/nt_4301   1   13           is   VBZ            (VP*       be  01   -    John  *         *            *         *        *      (V*)            *      -
+pt/nt/43/nt_4301   1   14            a    DT         (NP(NP*       -    -   -    John  *         *            *         *        *   (ARG2*             *      -
+pt/nt/43/nt_4301   1   15         true    JJ               *       -    -   -    John  *         *            *         *        *        *             *      -
+pt/nt/43/nt_4301   1   16    Israelite   NNP               *)      -    -   -    John  *         *            *         *        *        *             *      -
+pt/nt/43/nt_4301   1   17            ,     ,               *       -    -   -    John  *         *            *         *        *        *             *      -
+pt/nt/43/nt_4301   1   18          one    NN         (NP(NP*)      -    -   -    John  *         *            *         *        *        *        (ARG2*)     -
+pt/nt/43/nt_4301   1   19          you   PRP     (SBAR(S(NP*)      -    -   -    John  *         *            *         *        *        *        (ARG0*)     -
+pt/nt/43/nt_4301   1   20          can    MD            (VP*       -    -   -    John  *         *            *         *        *        *    (ARGM-MOD*)     -
+pt/nt/43/nt_4301   1   21        trust    VB   (VP*))))))))))   trust  01   -    John  *         *            *         *)       *        *)          (V*)     -
+pt/nt/43/nt_4301   1   22            .     .               *       -    -   -    John  *         *            *         *        *        *             *      -
+pt/nt/43/nt_4301   1   23           ''    ''              *))      -    -   -    John  *         *            *         *        *        *             *      -
+
+pt/nt/43/nt_4301   1    0    Nathanael   NNP       (TOP(S(NP*)     -    -   -    John  *    (ARG0*)     *             *    (29)
+pt/nt/43/nt_4301   1    1        asked   VBD             (VP*     ask  01   -    John  *       (V*)     *             *      -
+pt/nt/43/nt_4301   1    2            ,     ,                *      -    -   -    John  *         *      *             *      -
+pt/nt/43/nt_4301   1    3           ``    ``                *      -    -   -    John  *         *      *             *      -
+pt/nt/43/nt_4301   1    4          How   WRB   (SBARQ(WHADVP*)     -    -   -    John  *    (ARG1*      *    (ARGM-MNR*)     -
+pt/nt/43/nt_4301   1    5           do   VBP             (SQ*      do  01   -    John  *         *    (V*)            *      -
+pt/nt/43/nt_4301   1    6          you   PRP             (NP*)     -    -   -    John  *         *      *        (ARG0*)   (15)
+pt/nt/43/nt_4301   1    7         know    VB             (VP*    know  01   -    John  *         *      *           (V*)     -
+pt/nt/43/nt_4301   1    8           me   PRP         (NP*)))))     -    -   -    John  *         *)     *        (ARG1*)   (29)
+pt/nt/43/nt_4301   1    9            ?     .                *      -    -   -    John  *         *      *             *      -
+pt/nt/43/nt_4301   1   10           ''    ''               *))     -    -   -    John  *         *      *             *      -
+
+pt/nt/43/nt_4301   1    0       Jesus   NNP      (TOP(S(NP*)       -    -   -    John  *    (ARG0*)           *             *         *    (15)
+pt/nt/43/nt_4301   1    1    answered   VBD            (VP*    answer  01   -    John  *       (V*)           *             *         *      -
+pt/nt/43/nt_4301   1    2           ,     ,               *        -    -   -    John  *         *            *             *         *      -
+pt/nt/43/nt_4301   1    3          ``    ``               *        -    -   -    John  *         *            *             *         *      -
+pt/nt/43/nt_4301   1    4           I   PRP          (S(NP*)       -    -   -    John  *    (ARG2*       (ARG0*)            *         *    (15)
+pt/nt/43/nt_4301   1    5         saw   VBD            (VP*       see  01   -    John  *         *          (V*)            *         *      -
+pt/nt/43/nt_4301   1    6         you   PRP            (NP*)       -    -   -    John  *         *       (ARG1*)            *         *    (29)
+pt/nt/43/nt_4301   1    7        when   WRB   (SBAR(WHADVP*)       -    -   -    John  *         *   (ARGM-TMP*    (ARGM-TMP*)        *      -
+pt/nt/43/nt_4301   1    8         you   PRP          (S(NP*)       -    -   -    John  *         *            *        (ARG1*)        *    (29)
+pt/nt/43/nt_4301   1    9        were   VBD            (VP*        be  01   -    John  *         *            *           (V*)        *      -
+pt/nt/43/nt_4301   1   10       under    IN            (PP*        -    -   -    John  *         *            *        (ARG2*         *      -
+pt/nt/43/nt_4301   1   11         the    DT            (NP*        -    -   -    John  *         *            *             *         *    (20
+pt/nt/43/nt_4301   1   12         fig    NN               *       fig   -   -    John  *         *            *             *         *      -
+pt/nt/43/nt_4301   1   13        tree    NN           *)))))     tree   -   -    John  *         *            *)            *)        *     20)
+pt/nt/43/nt_4301   1   14           ,     ,               *        -    -   -    John  *         *            *             *         *      -
+pt/nt/43/nt_4301   1   15      before    IN          (SBAR*        -    -   -    John  *         *   (ARGM-TMP*             *         *      -
+pt/nt/43/nt_4301   1   16      Philip   NNP          (S(NP*)       -    -   -    John  *         *            *             *    (ARG0*)   (26)
+pt/nt/43/nt_4301   1   17        told   VBD            (VP*      tell  01   -    John  *         *            *             *       (V*)     -
+pt/nt/43/nt_4301   1   18         you   PRP            (NP*)       -    -   -    John  *         *            *             *    (ARG2*)   (29)
+pt/nt/43/nt_4301   1   19       about    IN            (PP*        -    -   -    John  *         *            *             *    (ARG1*      -
+pt/nt/43/nt_4301   1   20          me   PRP     (NP*))))))))       -    -   -    John  *         *)           *)            *         *)   (15)
+pt/nt/43/nt_4301   1   21           .     .               *        -    -   -    John  *         *            *             *         *      -
+pt/nt/43/nt_4301   1   22          ''    ''              *))       -    -   -    John  *         *            *             *         *      -
+
+pt/nt/43/nt_4301   1    0         Then    RB   (TOP(S(ADVP*)    -    -   -    John  *    (ARGM-TMP*)            *      -
+pt/nt/43/nt_4301   1    1    Nathanael   NNP           (NP*)    -    -   -    John  *        (ARG0*)            *    (29)
+pt/nt/43/nt_4301   1    2         said   VBD           (VP*    say  01   -    John  *           (V*)            *      -
+pt/nt/43/nt_4301   1    3            ,     ,              *     -    -   -    John  *             *             *      -
+pt/nt/43/nt_4301   1    4           ``    ``              *     -    -   -    John  *             *             *      -
+pt/nt/43/nt_4301   1    5      Teacher    NN         (S(NP*)    -    -   -    John  *        (ARG1*    (ARGM-DIS*)   (15)
+pt/nt/43/nt_4301   1    6            ,     ,              *     -    -   -    John  *             *             *      -
+pt/nt/43/nt_4301   1    7          you   PRP           (NP*)    -    -   -    John  *             *        (ARG1*)   (15)
+pt/nt/43/nt_4301   1    8          are   VBP           (VP*     be  01   -    John  *             *           (V*)     -
+pt/nt/43/nt_4301   1    9          the    DT        (NP(NP*     -    -   -    John  *             *        (ARG2*      -
+pt/nt/43/nt_4301   1   10          Son   NNP              *)    -    -   -    John  *             *             *      -
+pt/nt/43/nt_4301   1   11           of    IN           (PP*     -    -   -    John  *             *             *      -
+pt/nt/43/nt_4301   1   12          God   NNP      (NP*))))))    -    -   -    John  *             *)            *)   (28)
+pt/nt/43/nt_4301   1   13            .     .             *))    -    -   -    John  *             *             *      -
+
+pt/nt/43/nt_4301   1   0       You   PRP   (TOP(S(NP*)   -    -   -    John  *    (ARG1*)   (15)
+pt/nt/43/nt_4301   1   1       are   VBP         (VP*    be  01   -    John  *       (V*)     -
+pt/nt/43/nt_4301   1   2       the    DT      (NP(NP*    -    -   -    John  *    (ARG2*      -
+pt/nt/43/nt_4301   1   3      King    NN            *)   -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   4        of    IN         (PP*    -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   5    Israel   NNP      (NP*))))   -    -   -    John  *         *)   (25)
+pt/nt/43/nt_4301   1   6         .     .            *    -    -   -    John  *         *      -
+pt/nt/43/nt_4301   1   7        ''    ''           *))   -    -   -    John  *         *      -
+
+pt/nt/43/nt_4301   1    0      Jesus   NNP     (TOP(S(NP*)        -    -   -    John  *    (ARG0*)     *            *         *         *    (15)
+pt/nt/43/nt_4301   1    1       said   VBD           (VP*        say  01   -    John  *       (V*)     *            *         *         *      -
+pt/nt/43/nt_4301   1    2         to    IN           (PP*         -    -   -    John  *    (ARG2*      *            *         *         *      -
+pt/nt/43/nt_4301   1    3        him   PRP          (NP*))        -    -   -    John  *         *)     *            *         *         *    (29)
+pt/nt/43/nt_4301   1    4          ,     ,              *         -    -   -    John  *         *      *            *         *         *      -
+pt/nt/43/nt_4301   1    5         ``    ``              *         -    -   -    John  *         *      *            *         *         *      -
+pt/nt/43/nt_4301   1    6         Do   VBP           (SQ*         do  01   -    John  *    (ARG1*    (V*)           *         *         *      -
+pt/nt/43/nt_4301   1    7        you   PRP           (NP*)        -    -   -    John  *         *      *       (ARG0*)        *         *    (29)
+pt/nt/43/nt_4301   1    8    believe    VB           (VP*    believe  01   -    John  *         *      *          (V*)        *         *      -
+pt/nt/43/nt_4301   1    9       this    DT           (NP*)        -    -   -    John  *         *      *       (ARG1*)        *         *      -
+pt/nt/43/nt_4301   1   10       just    RB         (SBAR*         -    -   -    John  *         *      *   (ARGM-CAU*         *         *      -
+pt/nt/43/nt_4301   1   11    because    IN              *         -    -   -    John  *         *      *            *         *         *      -
+pt/nt/43/nt_4301   1   12          I   PRP         (S(NP*)        -    -   -    John  *         *      *            *    (ARG0*)        *    (15)
+pt/nt/43/nt_4301   1   13       said   VBD           (VP*        say  01   -    John  *         *      *            *       (V*)        *      -
+pt/nt/43/nt_4301   1   14          I   PRP    (SBAR(S(NP*)        -    -   -    John  *         *      *            *    (ARG1*    (ARG0*)   (15)
+pt/nt/43/nt_4301   1   15        saw   VBD           (VP*        see  01   -    John  *         *      *            *         *       (V*)     -
+pt/nt/43/nt_4301   1   16        you   PRP         (S(NP*)        -    -   -    John  *         *      *            *         *    (ARG1*    (29)
+pt/nt/43/nt_4301   1   17      under    IN           (PP*         -    -   -    John  *         *      *            *         *         *      -
+pt/nt/43/nt_4301   1   18        the    DT           (NP*         -    -   -    John  *         *      *            *         *         *    (20
+pt/nt/43/nt_4301   1   19        fig    NN              *        fig   -   -    John  *         *      *            *         *         *      -
+pt/nt/43/nt_4301   1   20       tree    NN   *))))))))))))      tree   -   -    John  *         *)     *            *)        *)        *)    20)
+pt/nt/43/nt_4301   1   21          ?     .             *))        -    -   -    John  *         *      *            *         *         *      -
+
+pt/nt/43/nt_4301   1   0        You   PRP    (TOP(S(NP*)    -    -   -    John  *        (ARG0*)   (29)
+pt/nt/43/nt_4301   1   1       will    MD          (VP*     -    -   -    John  *    (ARGM-MOD*)     -
+pt/nt/43/nt_4301   1   2        see    VB          (VP*    see  01   -    John  *           (V*)     -
+pt/nt/43/nt_4301   1   3       much    RB  (NP(NP(ADJP*     -    -   -    John  *        (ARG1*      -
+pt/nt/43/nt_4301   1   4    greater   JJR             *)    -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   5     things   NNS             *)    -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   6       than    IN          (PP*     -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   7       that    DT      (NP*)))))    -    -   -    John  *             *)     -
+pt/nt/43/nt_4301   1   8          !     .             *     -    -   -    John  *             *      -
+pt/nt/43/nt_4301   1   9         ''    ''            *))    -    -   -    John  *             *      -
+
+pt/nt/43/nt_4301   1    0       Then    RB        (TOP(S(ADVP*)        -    -   -    John  *    (ARGM-TMP*)           *             *             *      -
+pt/nt/43/nt_4301   1    1         he   PRP                (NP*)        -    -   -    John  *        (ARG0*)           *             *             *    (15)
+pt/nt/43/nt_4301   1    2       said   VBD                (VP*        say  01   -    John  *           (V*)           *             *             *      -
+pt/nt/43/nt_4301   1    3          ,     ,                   *         -    -   -    John  *             *            *             *             *      -
+pt/nt/43/nt_4301   1    4         ``    ``                   *         -    -   -    John  *             *            *             *             *      -
+pt/nt/43/nt_4301   1    5    Believe    VB              (S(VP*    believe  01   -    John  *        (ARG1*          (V*)            *             *      -
+pt/nt/43/nt_4301   1    6         me   PRP                (NP*)        -    -   -    John  *             *       (ARG1*)            *             *    (15)
+pt/nt/43/nt_4301   1    7       when   WRB       (SBAR(WHADVP*)        -    -   -    John  *             *   (ARGM-TMP*    (ARGM-TMP*)            *      -
+pt/nt/43/nt_4301   1    8          I   PRP              (S(NP*)        -    -   -    John  *             *            *        (ARG0*)            *    (15)
+pt/nt/43/nt_4301   1    9        say   VBP                (VP*        say  01   -    John  *             *            *           (V*)            *      -
+pt/nt/43/nt_4301   1   10       that    IN              (SBAR*         -    -   -    John  *             *            *        (ARG1*             *      -
+pt/nt/43/nt_4301   1   11        you   PRP              (S(NP*)        -    -   -    John  *             *            *             *        (ARG0*)   (29)
+pt/nt/43/nt_4301   1   12       will    MD                (VP*         -    -   -    John  *             *            *             *    (ARGM-MOD*)     -
+pt/nt/43/nt_4301   1   13        all    RB                   *         -    -   -    John  *             *            *             *             *      -
+pt/nt/43/nt_4301   1   14        see    VB                (VP*        see  01   -    John  *             *            *             *           (V*)     -
+pt/nt/43/nt_4301   1   15     heaven   NNP              (S(NP*)        -    -   -    John  *             *            *             *        (ARG1*    (18)
+pt/nt/43/nt_4301   1   16       open    JJ   (ADJP*))))))))))))        -    -   -    John  *             *)           *)            *)            *)     -
+pt/nt/43/nt_4301   1   17          .     .                  *))        -    -   -    John  *             *            *             *             *      -
+
+pt/nt/43/nt_4301   1    0       You   PRP     (TOP(S(NP*)     -    -   -    John  *        (ARG0*)            *             *    (29)
+pt/nt/43/nt_4301   1    1      will    MD           (VP*      -    -   -    John  *    (ARGM-MOD*)            *             *      -
+pt/nt/43/nt_4301   1    2       see    VB           (VP*     see  01   -    John  *           (V*)            *             *      -
+pt/nt/43/nt_4301   1    3         '    ''              *      -    -   -    John  *             *             *             *      -
+pt/nt/43/nt_4301   1    4    angels   NNS      (S(NP(NP*)     -    -   -    John  *        (ARG1*        (ARG0*        (ARG1*      -
+pt/nt/43/nt_4301   1    5        of    IN           (PP*      -    -   -    John  *             *             *             *      -
+pt/nt/43/nt_4301   1    6       God   NNP         (NP*)))     -    -   -    John  *             *             *)            *)   (28)
+pt/nt/43/nt_4301   1    7     going   VBG        (VP(VP*      go  02   -    John  *             *           (V*)            *      -
+pt/nt/43/nt_4301   1    8        up    RP         (PRT*))     -    -   -    John  *             *    (ARGM-DIR*)            *      -
+pt/nt/43/nt_4301   1    9       and    CC              *      -    -   -    John  *             *             *             *      -
+pt/nt/43/nt_4301   1   10    coming   VBG           (VP*    come  01   -    John  *             *             *           (V*)     -
+pt/nt/43/nt_4301   1   11      down    RP          (PRT*)     -    -   -    John  *             *             *    (ARGM-DIR*)     -
+pt/nt/43/nt_4301   1   12         '    ''              *      -    -   -    John  *             *             *             *      -
+pt/nt/43/nt_4301   1   13        on    IN           (PP*      -    -   -    John  *             *             *        (ARG4*      -
+pt/nt/43/nt_4301   1   14       the    DT        (NP(NP*      -    -   -    John  *             *             *             *    (15
+pt/nt/43/nt_4301   1   15       Son   NNP              *)     -    -   -    John  *             *             *             *      -
+pt/nt/43/nt_4301   1   16        of    IN           (PP*      -    -   -    John  *             *             *             *      -
+pt/nt/43/nt_4301   1   17       Man   NNP   (NP*)))))))))     -    -   -    John  *             *)            *             *)    15)
+pt/nt/43/nt_4301   1   18         .     .              *      -    -   -    John  *             *             *             *      -
+pt/nt/43/nt_4301   1   19        ''    ''             *))     -    -   -    John  *             *             *             *      -

@@ -1,0 +1,597 @@
+bc/cnn/00/cnn_0001   7   0    Kyra   NNP  (TOP(NP*   -   -   -    Rick_Sanchez   (PERSON)  -
+bc/cnn/00/cnn_0001   7   1      /?     .        *))  -   -   -    Rick_Sanchez         *   -
+
+bc/cnn/00/cnn_0001   7    0      Well    UH   (TOP(S(INTJ*)      -    -    -    Kyra_Phillips       *      *    (ARGM-DIS*)            *   -
+bc/cnn/00/cnn_0001   7    1       for    IN           (PP*       -    -    -    Kyra_Phillips       *      *    (ARGM-TMP*             *   -
+bc/cnn/00/cnn_0001   7    2      more   JJR        (NP(QP*       -    -    -    Kyra_Phillips  (DATE*      *             *             *   -
+bc/cnn/00/cnn_0001   7    3      than    IN              *       -    -    -    Kyra_Phillips       *      *             *             *   -
+bc/cnn/00/cnn_0001   7    4       two    CD              *)      -    -    -    Kyra_Phillips       *      *             *             *   -
+bc/cnn/00/cnn_0001   7    5    months   NNS             *))   month   -    2    Kyra_Phillips       *)     *             *)            *   -
+bc/cnn/00/cnn_0001   7    6        we   PRP           (NP*)      -    -    -    Kyra_Phillips       *      *        (ARG0*)            *   -
+bc/cnn/00/cnn_0001   7    7       've   VBP           (VP*     have  01   12    Kyra_Phillips       *    (V*)            *             *   -
+bc/cnn/00/cnn_0001   7    8      seen   VBN           (VP*      see  01    3    Kyra_Phillips       *      *           (V*)            *   -
+bc/cnn/00/cnn_0001   7    9       the    DT        (NP(NP*       -    -    -    Kyra_Phillips       *      *        (ARG1*        (ARG1*   -
+bc/cnn/00/cnn_0001   7   10     havoc    NN              *)   havoc   -    -    Kyra_Phillips       *      *             *             *)  -
+bc/cnn/00/cnn_0001   7   11      that   WDT    (SBAR(WHNP*)      -    -    -    Kyra_Phillips       *      *             *      (R-ARG1*)  -
+bc/cnn/00/cnn_0001   7   12    Mother   NNP         (S(NP*       -    -    -    Kyra_Phillips       *      *             *        (ARG0*   -
+bc/cnn/00/cnn_0001   7   13    Nature   NNP              *)      -    -    -    Kyra_Phillips       *      *             *             *)  -
+bc/cnn/00/cnn_0001   7   14       can    MD           (VP*       -    -    -    Kyra_Phillips       *      *             *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   7   15     cause    VB     (VP*)))))))   cause  01    1    Kyra_Phillips       *      *             *)          (V*)  -
+bc/cnn/00/cnn_0001   7   16        /.     .             *))      -    -    -    Kyra_Phillips       *      *             *             *   -
+
+bc/cnn/00/cnn_0001   7    0             We    PRP   (TOP(S(NP*)         -    -    -    Kyra_Phillips        *      *       (ARG0*)           *       -
+bc/cnn/00/cnn_0001   7    1            've    VBP         (VP*        have  01   12    Kyra_Phillips        *    (V*)           *            *       -
+bc/cnn/00/cnn_0001   7    2        watched    VBN         (VP*       watch  01    1    Kyra_Phillips        *      *          (V*)           *       -
+bc/cnn/00/cnn_0001   7    3           from     IN         (PP*          -    -    -    Kyra_Phillips        *      *   (ARGM-DIR*            *       -
+bc/cnn/00/cnn_0001   7    4            our   PRP$         (NP*          -    -    -    Kyra_Phillips        *      *            *            *       -
+bc/cnn/00/cnn_0001   7    5          homes    NNS           *))       home   -    1    Kyra_Phillips        *      *            *)           *       -
+bc/cnn/00/cnn_0001   7    6        Katrina    NNP   (NP(NP(NP*          -    -    -    Kyra_Phillips   (EVENT)     *       (ARG1*            *    (117
+bc/cnn/00/cnn_0001   7    7             's    POS            *)         -    -    -    Kyra_Phillips        *      *            *            *     117)
+bc/cnn/00/cnn_0001   7    8    destructive     JJ            *          -    -    -    Kyra_Phillips        *      *            *            *       -
+bc/cnn/00/cnn_0001   7    9          force     NN            *)      force   -    1    Kyra_Phillips        *      *            *            *       -
+bc/cnn/00/cnn_0001   7   10            and     CC            *          -    -    -    Kyra_Phillips        *      *            *            *       -
+bc/cnn/00/cnn_0001   7   11         people    NNS      (NP(NP*)     people   -    1    Kyra_Phillips        *      *            *       (ARG0*)      -
+bc/cnn/00/cnn_0001   7   12     struggling    VBG         (VP*    struggle  02    2    Kyra_Phillips        *      *            *          (V*)      -
+bc/cnn/00/cnn_0001   7   13             in     IN         (PP*          -    -    -    Kyra_Phillips        *      *            *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0001   7   14            its   PRP$         (NP*          -    -    -    Kyra_Phillips        *      *            *            *    (117)
+bc/cnn/00/cnn_0001   7   15      aftermath     NN      *)))))))         -    -    -    Kyra_Phillips        *      *            *)           *)      -
+bc/cnn/00/cnn_0001   7   16             /.      .           *))         -    -    -    Kyra_Phillips        *      *            *            *       -
+
+bc/cnn/00/cnn_0001   7    0          Even    RB  (TOP(S(ADVP*       -    -   -    Kyra_Phillips      *   (ARGM-TMP*        *      -
+bc/cnn/00/cnn_0001   7    1           now    RB             *)      -    -   -    Kyra_Phillips      *            *)       *      -
+bc/cnn/00/cnn_0001   7    2            it   PRP      (NP(NP*))      -    -   -    Kyra_Phillips      *            *        *      -
+bc/cnn/00/cnn_0001   7    3            's   VBZ          (VP*       be  01   1    Kyra_Phillips      *          (V*)       *      -
+bc/cnn/00/cnn_0001   7    4    impossible    JJ        (ADJP*)      -    -   -    Kyra_Phillips      *       (ARG2*)       *      -
+bc/cnn/00/cnn_0001   7    5            to    TO        (S(VP*       -    -   -    Kyra_Phillips      *       (ARG1*        *      -
+bc/cnn/00/cnn_0001   7    6         grasp    VB          (VP*    grasp  01   2    Kyra_Phillips      *            *      (V*)     -
+bc/cnn/00/cnn_0001   7    7           the    DT       (NP(NP*       -    -   -    Kyra_Phillips      *            *   (ARG1*   (170
+bc/cnn/00/cnn_0001   7    8       tragedy    NN             *)      -    -   -    Kyra_Phillips      *            *        *      -
+bc/cnn/00/cnn_0001   7    9         along    IN          (PP*       -    -   -    Kyra_Phillips      *            *        *      -
+bc/cnn/00/cnn_0001   7   10           the    DT          (NP*       -    -   -    Kyra_Phillips  (LOC*            *        *      -
+bc/cnn/00/cnn_0001   7   11          Gulf   NNP             *       -    -   -    Kyra_Phillips      *            *        *      -
+bc/cnn/00/cnn_0001   7   12         Coast   NNP       *)))))))      -    -   -    Kyra_Phillips      *)           *)       *)   170)
+bc/cnn/00/cnn_0001   7   13            /.     .            *))      -    -   -    Kyra_Phillips      *            *        *      -
+
+bc/cnn/00/cnn_0001   7   0    There    EX    (TOP(S(NP*)     -    -   -    Kyra_Phillips  *        *       -
+bc/cnn/00/cnn_0001   7   1      are   VBP          (VP*      be  02   3    Kyra_Phillips  *      (V*)      -
+bc/cnn/00/cnn_0001   7   2       so    RB  (NP(NP(ADJP*      -    -   -    Kyra_Phillips  *   (ARG1*       -
+bc/cnn/00/cnn_0001   7   3     many    JJ             *)     -    -   -    Kyra_Phillips  *        *       -
+bc/cnn/00/cnn_0001   7   4    parts   NNS             *)   part   -   1    Kyra_Phillips  *        *       -
+bc/cnn/00/cnn_0001   7   5       to    IN          (PP*      -    -   -    Kyra_Phillips  *        *       -
+bc/cnn/00/cnn_0001   7   6       it   PRP       (NP*))))     -    -   -    Kyra_Phillips  *        *)   (170)
+bc/cnn/00/cnn_0001   7   7       /.     .            *))     -    -   -    Kyra_Phillips  *        *       -
+
+bc/cnn/00/cnn_0001   7    0           So    RB   (TOP(S(ADVP*)       -    -   -    Kyra_Phillips         *    (ARGM-DIS*)           *         -
+bc/cnn/00/cnn_0001   7    1      tonight    NN           (NP*)       -    -   -    Kyra_Phillips     (TIME)   (ARGM-TMP*)           *         -
+bc/cnn/00/cnn_0001   7    2          CNN   NNP        (NP(NP*        -    -   -    Kyra_Phillips      (ORG)       (ARG0*            *   (95|(99
+bc/cnn/00/cnn_0001   7    3           's   POS              *)       -    -   -    Kyra_Phillips         *             *            *        99)
+bc/cnn/00/cnn_0001   7    4          Dan   NNP              *        -    -   -    Kyra_Phillips  (PERSON*             *            *         -
+bc/cnn/00/cnn_0001   7    5        Simon   NNP              *)       -    -   -    Kyra_Phillips         *)            *)           *        95)
+bc/cnn/00/cnn_0001   7    6        shows   VBZ           (VP*      show  01   1    Kyra_Phillips         *           (V*)           *         -
+bc/cnn/00/cnn_0001   7    7           us   PRP           (NP*)       -    -   -    Kyra_Phillips         *        (ARG2*)           *         -
+bc/cnn/00/cnn_0001   7    8            a    DT        (NP(NP*        -    -   -    Kyra_Phillips         *        (ARG1*            *         -
+bc/cnn/00/cnn_0001   7    9    different    JJ              *        -    -   -    Kyra_Phillips         *             *            *         -
+bc/cnn/00/cnn_0001   7   10        angle    NN              *)    angle   -   -    Kyra_Phillips         *             *            *         -
+bc/cnn/00/cnn_0001   7   11            a    DT        (NP(NP*        -    -   -    Kyra_Phillips         *             *       (ARG1*         -
+bc/cnn/00/cnn_0001   7   12          new    JJ              *        -    -   -    Kyra_Phillips         *             *            *         -
+bc/cnn/00/cnn_0001   7   13       divide    NN              *)   divide   -   1    Kyra_Phillips         *             *            *)        -
+bc/cnn/00/cnn_0001   7   14      forming   VBG           (VP*      form  01   4    Kyra_Phillips         *             *          (V*)        -
+bc/cnn/00/cnn_0001   7   15           in    IN           (PP*        -    -   -    Kyra_Phillips         *             *   (ARGM-LOC*         -
+bc/cnn/00/cnn_0001   7   16          the    DT           (NP*        -    -   -    Kyra_Phillips     (GPE*             *            *       (45
+bc/cnn/00/cnn_0001   7   17          Big   NNP              *        -    -   -    Kyra_Phillips         *             *            *         -
+bc/cnn/00/cnn_0001   7   18         Easy   NNP         *))))))       -    -   -    Kyra_Phillips         *)            *)           *)       45)
+bc/cnn/00/cnn_0001   7   19           /.     .             *))       -    -   -    Kyra_Phillips         *             *            *         -
+
+bc/cnn/00/cnn_0001   7   0       It   PRP   (TOP(S(NP*)     -    -   -    Dan_Simon  *    (ARG1*)  -
+bc/cnn/00/cnn_0001   7   1      was   VBD         (VP*      be  01   1    Dan_Simon  *       (V*)  -
+bc/cnn/00/cnn_0001   7   2      the    DT      (NP(NP*      -    -   -    Dan_Simon  *    (ARG2*   -
+bc/cnn/00/cnn_0001   7   3     best   JJS            *)     -    -   -    Dan_Simon  *         *   -
+bc/cnn/00/cnn_0001   7   4       of    IN         (PP*      -    -   -    Dan_Simon  *         *   -
+bc/cnn/00/cnn_0001   7   5    times   NNS      (NP*))))   time   -   2    Dan_Simon  *         *)  -
+bc/cnn/00/cnn_0001   7   6       /.     .           *))     -    -   -    Dan_Simon  *         *   -
+
+bc/cnn/00/cnn_0001   7   0       it   PRP   (TOP(S(NP*)     -    -   -    Dan_Simon  *    (ARG1*)  -
+bc/cnn/00/cnn_0001   7   1      was   VBD         (VP*      be  01   1    Dan_Simon  *       (V*)  -
+bc/cnn/00/cnn_0001   7   2      the    DT      (NP(NP*      -    -   -    Dan_Simon  *    (ARG2*   -
+bc/cnn/00/cnn_0001   7   3    worst   JJS            *)     -    -   -    Dan_Simon  *         *   -
+bc/cnn/00/cnn_0001   7   4       of    IN         (PP*      -    -   -    Dan_Simon  *         *   -
+bc/cnn/00/cnn_0001   7   5    times   NNS      (NP*))))   time   -   2    Dan_Simon  *         *)  -
+bc/cnn/00/cnn_0001   7   6       /.     .           *))     -    -   -    Dan_Simon  *         *   -
+
+bc/cnn/00/cnn_0001   7    0        the     DT  (TOP(NP(NP*      -   -   -    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7    1     famous     JJ            *      -   -   -    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7    2      words    NNS            *)   word  -   2    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7    3         of     IN         (PP*      -   -   -    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7    4    Charles    NNP         (NP*      -   -   -    Dan_Simon       (PERSON*     -
+bc/cnn/00/cnn_0001   7    5    Dickens    NNP           *))     -   -   -    Dan_Simon              *)    -
+bc/cnn/00/cnn_0001   7    6         in     IN         (PP*      -   -   -    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7    7          A     DT      (NP(NP*      -   -   -    Dan_Simon  (WORK_OF_ART*   (22
+bc/cnn/00/cnn_0001   7    8       Tale    NNP            *)     -   -   -    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7    9         of     IN         (PP*      -   -   -    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7   10        Two    NNP         (NP*      -   -   -    Dan_Simon              *     -
+bc/cnn/00/cnn_0001   7   11     Cities   NNPS         *))))     -   -   -    Dan_Simon              *)   22)
+bc/cnn/00/cnn_0001   7   12         /.      .           *))     -   -   -    Dan_Simon              *     -
+
+bc/cnn/00/cnn_0001   7    0           Here    RB   (TOP(S(ADVP*          -    -   -    Dan_Simon           *     (ARGM-LOC*             *      *            *         *      -
+bc/cnn/00/cnn_0001   7    1             in    IN           (PP*          -    -   -    Dan_Simon           *              *             *      *            *         *      -
+bc/cnn/00/cnn_0001   7    2            New   NNP           (NP*          -    -   -    Dan_Simon       (GPE*              *             *      *            *         *    (45
+bc/cnn/00/cnn_0001   7    3        Orleans   NNP            *)))         -    -   -    Dan_Simon           *)             *)            *      *            *         *     45)
+bc/cnn/00/cnn_0001   7    4           that    DT           (NP*          -    -   -    Dan_Simon           *         (ARG1*             *      *            *         *    (22
+bc/cnn/00/cnn_0001   7    5     nineteenth    JJ          (NML*          -    -   -    Dan_Simon      (DATE*              *             *      *            *         *      -
+bc/cnn/00/cnn_0001   7    6        century    NN              *)         -    -   -    Dan_Simon           *)             *             *      *            *         *      -
+bc/cnn/00/cnn_0001   7    7           text    NN              *)         -    -   -    Dan_Simon           *              *)            *      *            *         *     22)
+bc/cnn/00/cnn_0001   7    8      resonates   VBZ           (VP*    resonate  01   -    Dan_Simon           *            (V*)            *      *            *         *      -
+bc/cnn/00/cnn_0001   7    9             as    IN         (SBAR*          -    -   -    Dan_Simon           *     (ARGM-ADV*             *      *            *         *      -
+bc/cnn/00/cnn_0001   7   10             it   PRP         (S(NP*)         -    -   -    Dan_Simon           *              *        (ARG1*)     *            *         *      -
+bc/cnn/00/cnn_0001   7   11          feels   VBZ           (VP*        feel  05   1    Dan_Simon           *              *           (V*)     *            *         *      -
+bc/cnn/00/cnn_0001   7   12      literally    RB         (ADVP*)         -    -   -    Dan_Simon           *              *    (ARGM-MNR*)     *            *         *      -
+bc/cnn/00/cnn_0001   7   13           like    IN         (SBAR*          -    -   -    Dan_Simon           *              *        (ARG2*      *            *         *      -
+bc/cnn/00/cnn_0001   7   14            two    CD      (S(NP(NP*          -    -   -    Dan_Simon   (CARDINAL)             *             *      *       (ARG0*         *      -
+bc/cnn/00/cnn_0001   7   15         cities   NNS             *))       city   -   1    Dan_Simon           *              *             *      *            *)        *      -
+bc/cnn/00/cnn_0001   7   16           have   VBP           (VP*        have  01   -    Dan_Simon           *              *             *    (V*)           *         *      -
+bc/cnn/00/cnn_0001   7   17        emerged   VBN           (VP*      emerge  01   2    Dan_Simon           *              *             *      *          (V*)        *      -
+bc/cnn/00/cnn_0001   7   18          since    IN           (PP*          -    -   -    Dan_Simon           *              *             *      *   (ARGM-TMP*         *      -
+bc/cnn/00/cnn_0001   7   19      Hurricane   NNP           (NP*          -    -   -    Dan_Simon     (EVENT*              *             *      *            *         *   (117
+bc/cnn/00/cnn_0001   7   20        Katrina   NNP             *))         -    -   -    Dan_Simon           *)             *             *      *            *)        *    117)
+bc/cnn/00/cnn_0001   7   21            one    CD        (NP(NP*)         -    -   -    Dan_Simon   (CARDINAL)  (C-ARGM-ADV*      (C-ARG2*      *     (C-ARG0*    (ARG1*)     -
+bc/cnn/00/cnn_0001   7   22         filled   VBN           (VP*        fill  01   -    Dan_Simon           *              *             *      *            *       (V*)     -
+bc/cnn/00/cnn_0001   7   23           with    IN           (PP*          -    -   -    Dan_Simon           *              *             *      *            *    (ARG2*      -
+bc/cnn/00/cnn_0001   7   24          anger    NN           (NP*       anger   -   2    Dan_Simon           *              *             *      *            *         *      -
+bc/cnn/00/cnn_0001   7   25            and    CC              *          -    -   -    Dan_Simon           *              *             *      *            *         *      -
+bc/cnn/00/cnn_0001   7   26    desperation    NN   *))))))))))))         -    -   -    Dan_Simon           *             *))           *))     *            *)        *)     -
+bc/cnn/00/cnn_0001   7   27            /-      .             *))         -    -   -    Dan_Simon           *              *             *      *            *         *      -
+
+bc/cnn/00/cnn_0001   7   0    Nobody    NN   (TOP(S(NP*)     -    -   -    Daisy_Peters  *      *    (ARG0*)   (ARG0*)  -
+bc/cnn/00/cnn_0001   7   1        's   VBZ         (VP*      be  03   9    Daisy_Peters  *    (V*)        *         *   -
+bc/cnn/00/cnn_0001   7   2    trying   VBG         (VP*     try  01   1    Daisy_Peters  *      *       (V*)        *   -
+bc/cnn/00/cnn_0001   7   3        to    TO       (S(VP*      -    -   -    Daisy_Peters  *      *    (ARG1*         *   -
+bc/cnn/00/cnn_0001   7   4      help    VB     (VP*)))))   help  01   1    Daisy_Peters  *      *         *)      (V*)  -
+bc/cnn/00/cnn_0001   7   5        /.     .           *))     -    -   -    Daisy_Peters  *      *         *         *   -
+
+bc/cnn/00/cnn_0001   7   0     Nobody    NN   (TOP(S(NP*)        -    -   -    Daisy_Peters  *      *    (ARG0*)   (ARG0*)  -
+bc/cnn/00/cnn_0001   7   1         's   VBZ         (VP*         be  03   9    Daisy_Peters  *    (V*)        *         *   -
+bc/cnn/00/cnn_0001   7   2     trying   VBG         (VP*        try  01   1    Daisy_Peters  *      *       (V*)        *   -
+bc/cnn/00/cnn_0001   7   3         to    TO       (S(VP*         -    -   -    Daisy_Peters  *      *    (ARG1*         *   -
+bc/cnn/00/cnn_0001   7   4         do    VB         (VP*         do  02   1    Daisy_Peters  *      *         *       (V*)  -
+bc/cnn/00/cnn_0001   7   5    nothing    NN    (NP*))))))   nothing   -   2    Daisy_Peters  *      *         *)   (ARG1*)  -
+bc/cnn/00/cnn_0001   7   6         /.     .           *))        -    -   -    Daisy_Peters  *      *         *         *   -
+
+bc/cnn/00/cnn_0001   7    0          But    CC            (TOP(S*         -    -    -    Dan_Simon      *         *    (ARGM-DIS*)     *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7    1         here    RB             (ADVP*         -    -    -    Dan_Simon      *         *    (ARGM-LOC*      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7    2       across    IN               (PP*         -    -    -    Dan_Simon      *         *             *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7    3          the    DT               (NP*         -    -    -    Dan_Simon      *         *             *      *             *         *             *             *      *    (76
+bc/cnn/00/cnn_0001   7    4        river    NN                *)))        -    -    -    Dan_Simon      *         *             *)     *             *         *             *             *      *     76)
+bc/cnn/00/cnn_0001   7    5           on    IN               (PP*         -    -    -    Dan_Simon      *         *    (ARGM-LOC*      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7    6         what    WP        (SBAR(WHNP*)        -    -    -    Dan_Simon      *    (ARG1*)            *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7    7       locals   NNS             (S(NP*)        -    -    -    Dan_Simon      *    (ARG0*)            *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7    8         call   VBP               (VP*       call  01    5    Dan_Simon      *       (V*)            *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7    9          the    DT             (S(NP*         -    -    -    Dan_Simon  (LOC*    (ARG2*             *      *             *         *             *             *      *   (113
+bc/cnn/00/cnn_0001   7   10         West   NNP                  *         -    -    -    Dan_Simon      *         *             *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   11         Bank   NNP             *))))))        -    -    -    Dan_Simon      *)        *)            *)     *             *         *             *             *      *    113)
+bc/cnn/00/cnn_0001   7   12         they   PRP               (NP*)        -    -    -    Dan_Simon      *         *        (ARG0*)     *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   13         have   VBP               (VP*       have  03    2    Dan_Simon      *         *           (V*)     *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   14    different    JJ            (NP(NP*         -    -    -    Dan_Simon      *         *        (ARG1*      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   15     problems   NNS                  *)   problem   -    1    Dan_Simon      *         *             *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   16          the    DT            (NP(NP*         -    -    -    Dan_Simon      *         *             *      *             *    (ARG1*             *             *      *      -
+bc/cnn/00/cnn_0001   7   17         kind    NN                  *)        -    -    -    Dan_Simon      *         *             *      *             *         *)            *             *      *      -
+bc/cnn/00/cnn_0001   7   18          you   PRP        (SBAR(S(NP*)        -    -    -    Dan_Simon      *         *             *      *        (ARG0*)   (ARG0*)            *             *      *      -
+bc/cnn/00/cnn_0001   7   19           do   VBP               (VP*         do  01    -    Dan_Simon      *         *             *    (V*)            *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   20          n't    RB                  *         -    -    -    Dan_Simon      *         *             *      *    (ARGM-NEG*)        *             *             *      *      -
+bc/cnn/00/cnn_0001   7   21         mind    VB               (VP*       mind  01    1    Dan_Simon      *         *             *      *           (V*)        *             *             *      *      -
+bc/cnn/00/cnn_0001   7   22       having   VBG        (S(VP*))))))      have  03    2    Dan_Simon      *         *             *      *        (ARG1*)      (V*)            *             *      *      -
+bc/cnn/00/cnn_0001   7   23         like    IN               (PP*         -    -    -    Dan_Simon      *         *             *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   24        where   WRB      (SBAR(WHADVP*)        -    -    -    Dan_Simon      *         *             *      *             *         *    (ARGM-LOC*)   (ARGM-LOC*)     *      -
+bc/cnn/00/cnn_0001   7   25           to    TO             (S(VP*         -    -    -    Dan_Simon      *         *             *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   26          get    VB            (VP(VP*        get  01    1    Dan_Simon      *         *             *      *             *         *           (V*)            *      *      -
+bc/cnn/00/cnn_0001   7   27       coffee    NN              (NP*))        -    -    -    Dan_Simon      *         *             *      *             *         *        (ARG1*)            *      *      -
+bc/cnn/00/cnn_0001   7   28           or    CC                  *         -    -    -    Dan_Simon      *         *             *      *             *         *             *             *      *      -
+bc/cnn/00/cnn_0001   7   29           go    VB               (VP*         go  05   14    Dan_Simon      *         *             *      *             *         *             *           (V*)     *      -
+bc/cnn/00/cnn_0001   7   30     shopping   VBG   (S(VP*)))))))))))      shop  01    -    Dan_Simon      *         *             *)     *             *         *             *        (ARG1*)   (V*)     -
+bc/cnn/00/cnn_0001   7   31           /.     .                 *))        -    -    -    Dan_Simon      *         *             *      *             *         *             *             *      *      -
+
+bc/cnn/00/cnn_0001   7   0        Here    RB   (TOP(S(ADVP*)         -    -   -    Dan_Simon  *    (ARGM-LOC*)     *   -
+bc/cnn/00/cnn_0001   7   1          it   PRP           (NP*)         -    -   -    Dan_Simon  *        (ARG1*)     *   -
+bc/cnn/00/cnn_0001   7   2          's   VBZ           (VP*          be  01   1    Dan_Simon  *           (V*)     *   -
+bc/cnn/00/cnn_0001   7   3       about    IN           (PP*          -    -   -    Dan_Simon  *        (ARG2*      *   -
+bc/cnn/00/cnn_0001   7   4    progress    NN           (NP*    progress  01   1    Dan_Simon  *             *    (V*)  -
+bc/cnn/00/cnn_0001   7   5         and    CC              *          -    -   -    Dan_Simon  *             *      *   -
+bc/cnn/00/cnn_0001   7   6    optimism    NN            *)))         -    -   -    Dan_Simon  *             *)     *   -
+bc/cnn/00/cnn_0001   7   7          /.     .             *))         -    -   -    Dan_Simon  *             *      *   -
+
+bc/cnn/00/cnn_0001   7    0          The    DT    (TOP(S(NP(NP*           -    -   -    Don_Paolo  *    (ARG1*   (ARG1*             *      *      *             *      -
+bc/cnn/00/cnn_0001   7    1      biggest   JJS                *           -    -   -    Don_Paolo  *         *        *             *      *      *             *      -
+bc/cnn/00/cnn_0001   7    2    complaint    NN                *)   complaint   -   2    Don_Paolo  *         *)       *             *      *      *             *      -
+bc/cnn/00/cnn_0001   7    3           we   PRP      (SBAR(S(NP*)          -    -   -    Don_Paolo  *    (ARG0*)       *             *      *      *             *    (77)
+bc/cnn/00/cnn_0001   7    4         have   VBP          (VP*))))        have  03   2    Don_Paolo  *       (V*)       *)            *      *      *             *      -
+bc/cnn/00/cnn_0001   7    5           is   VBZ             (VP*           be  01   2    Don_Paolo  *         *      (V*)            *      *      *             *      -
+bc/cnn/00/cnn_0001   7    6           we   PRP      (SBAR(S(NP*)          -    -   -    Don_Paolo  *         *   (ARG2*        (ARG0*)     *      *             *    (77)
+bc/cnn/00/cnn_0001   7    7        never    RB           (ADVP*)          -    -   -    Don_Paolo  *         *        *    (ARGM-NEG*)     *      *             *      -
+bc/cnn/00/cnn_0001   7    8         know   VBP             (VP*         know  01   1    Don_Paolo  *         *        *           (V*)     *      *             *      -
+bc/cnn/00/cnn_0001   7    9         when   WRB    (SBAR(WHADVP*)          -    -   -    Don_Paolo  *         *        *        (ARG1*      *      *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0001   7   10          the    DT           (S(NP*           -    -   -    Don_Paolo  *         *        *             *      *      *        (ARG1*      -
+bc/cnn/00/cnn_0001   7   11      garbage    NN                *)          -    -   -    Don_Paolo  *         *        *             *      *      *             *)     -
+bc/cnn/00/cnn_0001   7   12           is   VBZ             (VP*           be  03   -    Don_Paolo  *         *        *             *    (V*)     *             *      -
+bc/cnn/00/cnn_0001   7   13        being   VBG             (VP*           be  03   -    Don_Paolo  *         *        *             *      *    (V*)            *      -
+bc/cnn/00/cnn_0001   7   14       picked   VBN             (VP*         pick  04   -    Don_Paolo  *         *        *             *      *      *           (V*)     -
+bc/cnn/00/cnn_0001   7   15           up    RP   (PRT*))))))))))          -    -   -    Don_Paolo  *         *        *)            *)     *      *             *      -
+bc/cnn/00/cnn_0001   7   16           /.     .               *))          -    -   -    Don_Paolo  *         *        *             *      *      *             *      -
+
+bc/cnn/00/cnn_0001   7   0      Big   JJ  (TOP(FRAG(NP*      -   -   -    Joy_Paolo  *   -
+bc/cnn/00/cnn_0001   7   1     deal   NN              *)   deal  -   7    Joy_Paolo  *   -
+bc/cnn/00/cnn_0001   7   2    right   UH         (INTJ*)     -   -   -    Joy_Paolo  *   -
+bc/cnn/00/cnn_0001   7   3       /?    .             *))     -   -   -    Joy_Paolo  *   -
+
+bc/cnn/00/cnn_0001   7   0    Yeah   UH  (TOP(INTJ*   -   -   -    Don_Paolo  *   -
+bc/cnn/00/cnn_0001   7   1      /.    .          *))  -   -   -    Don_Paolo  *   -
+
+bc/cnn/00/cnn_0001   7   0           I   PRP   (TOP(S(PRN(S(NP*)     -    -   -    Joy_Paolo  *    (ARG0*)        *             *    (1)
+bc/cnn/00/cnn_0001   7   1        mean   VBP             (VP*)))   mean  01   1    Joy_Paolo  *       (V*)        *             *     -
+bc/cnn/00/cnn_0001   7   2         you   PRP         (PRN(S(NP*)     -    -   -    Joy_Paolo  *         *    (ARG0*)            *     -
+bc/cnn/00/cnn_0001   7   3        know   VBP             (VP*)))   know  01   1    Joy_Paolo  *         *       (V*)            *     -
+bc/cnn/00/cnn_0001   7   4          so    RB             (ADVP*)     -    -   -    Joy_Paolo  *         *         *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0001   7   5          it   PRP               (NP*)     -    -   -    Joy_Paolo  *         *         *        (ARG1*)    -
+bc/cnn/00/cnn_0001   7   6          's   VBZ               (VP*      be  01   1    Joy_Paolo  *         *         *           (V*)    -
+bc/cnn/00/cnn_0001   7   7         all    DT                  *      -    -   -    Joy_Paolo  *         *         *             *     -
+bc/cnn/00/cnn_0001   7   8    relative    JJ            (ADJP*))     -    -   -    Joy_Paolo  *         *         *        (ARG2*)    -
+bc/cnn/00/cnn_0001   7   9          /.     .                 *))     -    -   -    Joy_Paolo  *         *         *             *     -
+
+bc/cnn/00/cnn_0001   7    0            Don   NNP  (TOP(S(NP*       -    -   -    Dan_Simon   (PERSON)      (ARG0*        *      (65
+bc/cnn/00/cnn_0001   7    1            and    CC           *       -    -   -    Dan_Simon         *            *        *        -
+bc/cnn/00/cnn_0001   7    2            Joy   NNP           *       -    -   -    Dan_Simon  (PERSON*            *        *       (1
+bc/cnn/00/cnn_0001   7    3          Paolo   NNP           *)      -    -   -    Dan_Simon         *)           *)       *    65)|1)
+bc/cnn/00/cnn_0001   7    4           live   VBP        (VP*     live  01   2    Dan_Simon         *          (V*)       *        -
+bc/cnn/00/cnn_0001   7    5         across    IN     (PP(PP*       -    -   -    Dan_Simon         *   (ARGM-LOC*        *        -
+bc/cnn/00/cnn_0001   7    6            the    DT        (NP*       -    -   -    Dan_Simon         *            *        *      (76
+bc/cnn/00/cnn_0001   7    7          river    NN          *))      -    -   -    Dan_Simon         *            *        *       76)
+bc/cnn/00/cnn_0001   7    8           from    IN        (PP*       -    -   -    Dan_Simon         *            *        *        -
+bc/cnn/00/cnn_0001   7    9            the    DT     (NP(NP*       -    -   -    Dan_Simon         *            *        *        -
+bc/cnn/00/cnn_0001   7   10    devastation    NN           *)      -    -   -    Dan_Simon         *            *        *        -
+bc/cnn/00/cnn_0001   7   11             in    IN        (PP*       -    -   -    Dan_Simon         *            *        *        -
+bc/cnn/00/cnn_0001   7   12              a    DT     (NP(NP*       -    -   -    Dan_Simon         *            *   (ARG1*     (101
+bc/cnn/00/cnn_0001   7   13          place    NN           *)   place   -   1    Dan_Simon         *            *        *)       -
+bc/cnn/00/cnn_0001   7   14         called   VBN        (VP*     call  01   -    Dan_Simon         *            *      (V*)       -
+bc/cnn/00/cnn_0001   7   15        Algiers   NNP      (S(NP*       -    -   -    Dan_Simon     (LOC*            *   (ARG2*        -
+bc/cnn/00/cnn_0001   7   16          Point   NNP   *)))))))))      -    -   -    Dan_Simon         *)           *)       *)     101)
+bc/cnn/00/cnn_0001   7   17             /.     .          *))      -    -   -    Dan_Simon         *            *        *        -
+
+bc/cnn/00/cnn_0001   7   0          We    PRP   (TOP(S(NP*)       -    -   -    Dan_Simon  *       (ARG0*)           *      -
+bc/cnn/00/cnn_0001   7   1       found    VBD         (VP*      find  01   1    Dan_Simon  *          (V*)           *      -
+bc/cnn/00/cnn_0001   7   2         the     DT         (NP*        -    -   -    Dan_Simon  *       (ARG1*       (ARG1*    (65
+bc/cnn/00/cnn_0001   7   3     retired     JJ            *        -    -   -    Dan_Simon  *            *            *      -
+bc/cnn/00/cnn_0001   7   4      couple     NN            *)   couple   -   2    Dan_Simon  *            *)           *)    65)
+bc/cnn/00/cnn_0001   7   5    relaxing    VBG       (S(VP*     relax  01   1    Dan_Simon  *   (ARGM-ADV*          (V*)     -
+bc/cnn/00/cnn_0001   7   6          on     IN         (PP*        -    -   -    Dan_Simon  *            *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0001   7   7       their   PRP$         (NP*        -    -   -    Dan_Simon  *            *            *    (65)
+bc/cnn/00/cnn_0001   7   8       porch     NN        *)))))       -    -   -    Dan_Simon  *            *)           *)     -
+bc/cnn/00/cnn_0001   7   9          /.      .           *))       -    -   -    Dan_Simon  *            *            *      -
+
+bc/cnn/00/cnn_0001   7   0     Play    NN   (TOP(NP(NP*)   play  01   10    Joy_Paolo  *      (V*)  -
+bc/cnn/00/cnn_0001   7   1       on    IN          (PP*      -    -    -    Joy_Paolo  *   (ARG2*   -
+bc/cnn/00/cnn_0001   7   2    words   NNS         (NP*))   word   -    1    Joy_Paolo  *        *)  -
+bc/cnn/00/cnn_0001   7   3       /.     .            *))     -    -    -    Joy_Paolo  *        *   -
+
+bc/cnn/00/cnn_0001   7   0    this    DT   (TOP(S(NP*)   -    -   -    Joy_Paolo      *    (ARG1*)   (113)
+bc/cnn/00/cnn_0001   7   1      is   VBZ         (VP*    be  01   2    Joy_Paolo      *       (V*)      -
+bc/cnn/00/cnn_0001   7   2     the    DT         (NP*    -    -   -    Joy_Paolo  (LOC*    (ARG2*       -
+bc/cnn/00/cnn_0001   7   3    West   NNP            *    -    -   -    Joy_Paolo      *         *       -
+bc/cnn/00/cnn_0001   7   4    Bank   NNP           *))   -    -   -    Joy_Paolo      *)        *)      -
+bc/cnn/00/cnn_0001   7   5      /.     .           *))   -    -   -    Joy_Paolo      *         *       -
+
+bc/cnn/00/cnn_0001   7   0        but    CC   (TOP(S*        -    -   -    Joy_Paolo  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   7   1     people   NNS   (NP(NP*)   people   -   1    Joy_Paolo  *        (ARG0*       -
+bc/cnn/00/cnn_0001   7   2       here    RB   (ADVP*))       -    -   -    Joy_Paolo  *             *)      -
+bc/cnn/00/cnn_0001   7   3       call   VBP      (VP*      call  01   5    Joy_Paolo  *           (V*)      -
+bc/cnn/00/cnn_0001   7   4         it   PRP      (NP*)       -    -   -    Joy_Paolo  *        (ARG1*)   (113)
+bc/cnn/00/cnn_0001   7   5        the    DT    (S(NP*        -    -   -    Joy_Paolo  *        (ARG2*       -
+bc/cnn/00/cnn_0001   7   6    blessed    JJ         *        -    -   -    Joy_Paolo  *             *       -
+bc/cnn/00/cnn_0001   7   7       bank    NN       *)))     bank   -   3    Joy_Paolo  *             *)      -
+bc/cnn/00/cnn_0001   7   8         /.     .        *))       -    -   -    Joy_Paolo  *             *       -
+
+bc/cnn/00/cnn_0001   7   0           The     DT  (TOP(S(NP*          -    -   -    Dan_Simon         *        (ARG1*       (ARG2*   (65
+bc/cnn/00/cnn_0001   7   1        Paolos   NNPS           *)         -    -   -    Dan_Simon   (PERSON)            *)           *)   65)
+bc/cnn/00/cnn_0001   7   2       bounced    VBD        (VP*      bounce  02   5    Dan_Simon         *           (V*)           *     -
+bc/cnn/00/cnn_0001   7   3          back     RP       (PRT*)         -    -   -    Dan_Simon         *             *            *     -
+bc/cnn/00/cnn_0001   7   4       quickly     RB      (ADVP*)         -    -   -    Dan_Simon         *    (ARGM-MNR*)           *     -
+bc/cnn/00/cnn_0001   7   5         after     IN        (PP*          -    -   -    Dan_Simon         *    (ARGM-TMP*            *     -
+bc/cnn/00/cnn_0001   7   6    evacuating    VBG      (S(VP*    evacuate  01   -    Dan_Simon         *             *          (V*)    -
+bc/cnn/00/cnn_0001   7   7            to     IN        (PP*          -    -   -    Dan_Simon         *             *   (ARGM-DIR*     -
+bc/cnn/00/cnn_0001   7   8          Ohio    NNP   (NP*))))))         -    -   -    Dan_Simon      (GPE)            *)           *)    -
+bc/cnn/00/cnn_0001   7   9            /.      .          *))         -    -   -    Dan_Simon         *             *            *     -
+
+bc/cnn/00/cnn_0001   7    0        While     IN  (TOP(S(SBAR*         -    -   -    Dan_Simon  *         *   (ARGM-ADV*      -
+bc/cnn/00/cnn_0001   7    1         they    PRP        (S(NP*)        -    -   -    Dan_Simon  *    (ARG1*)           *    (65)
+bc/cnn/00/cnn_0001   7    2         came    VBD          (VP*       come  01   1    Dan_Simon  *       (V*)           *      -
+bc/cnn/00/cnn_0001   7    3         back     RB        (ADVP*         -    -   -    Dan_Simon  *    (ARG4*            *      -
+bc/cnn/00/cnn_0001   7    4           to     IN          (PP*         -    -   -    Dan_Simon  *         *            *      -
+bc/cnn/00/cnn_0001   7    5         mold     NN       (NP(NP*)      mold   -   1    Dan_Simon  *         *            *      -
+bc/cnn/00/cnn_0001   7    6          and     CC             *         -    -   -    Dan_Simon  *         *            *      -
+bc/cnn/00/cnn_0001   7    7            a     DT          (NP*         -    -   -    Dan_Simon  *         *            *      -
+bc/cnn/00/cnn_0001   7    8       busted     JJ             *         -    -   -    Dan_Simon  *         *            *      -
+bc/cnn/00/cnn_0001   7    9       heater     NN       *)))))))        -    -   -    Dan_Simon  *         *)           *)     -
+bc/cnn/00/cnn_0001   7   10        their   PRP$          (NP*         -    -   -    Dan_Simon  *         *       (ARG1*    (65)
+bc/cnn/00/cnn_0001   7   11     problems    NNS             *)   problem   -   1    Dan_Simon  *         *            *)     -
+bc/cnn/00/cnn_0001   7   12         seem    VBP          (VP*       seem  01   1    Dan_Simon  *         *          (V*)     -
+bc/cnn/00/cnn_0001   7   13    miniscule     JJ    (S(ADJP*)))        -    -   -    Dan_Simon  *         *     (C-ARG1*)     -
+bc/cnn/00/cnn_0001   7   14           /.      .            *))        -    -   -    Dan_Simon  *         *            *      -
+
+bc/cnn/00/cnn_0001   7    0           One    CD   (TOP(S(NP(NP*)        -    -   -    Don_Paolo  *            *        (ARG1*      -
+bc/cnn/00/cnn_0001   7    1            of    IN            (PP*         -    -   -    Don_Paolo  *            *             *      -
+bc/cnn/00/cnn_0001   7    2           the    DT         (NP(NP*         -    -   -    Don_Paolo  *       (ARG1*             *      -
+bc/cnn/00/cnn_0001   7    3       biggest   JJS               *         -    -   -    Don_Paolo  *            *             *      -
+bc/cnn/00/cnn_0001   7    4      problems   NNS               *)   problem   -   1    Don_Paolo  *            *)            *      -
+bc/cnn/00/cnn_0001   7    5            we   PRP     (SBAR(S(NP*)        -    -   -    Don_Paolo  *       (ARG0*)            *    (77)
+bc/cnn/00/cnn_0001   7    6          have   VBP            (VP*       have  03   2    Don_Paolo  *          (V*)            *      -
+bc/cnn/00/cnn_0001   7    7          over    RB          (ADVP*         -    -   -    Don_Paolo  *   (ARGM-LOC*             *      -
+bc/cnn/00/cnn_0001   7    8          here    RB         *)))))))        -    -   -    Don_Paolo  *            *)            *)     -
+bc/cnn/00/cnn_0001   7    9    truthfully    RB          (ADVP*)        -    -   -    Don_Paolo  *            *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   7   10            is   VBZ            (VP*         be  01   2    Don_Paolo  *            *           (V*)     -
+bc/cnn/00/cnn_0001   7   11       traffic    NN           (NP*))   traffic   -   1    Don_Paolo  *            *        (ARG2*)     -
+bc/cnn/00/cnn_0001   7   12            /.     .              *))        -    -   -    Don_Paolo  *            *             *      -
+
+bc/cnn/00/cnn_0001   7   0      There    EX   (TOP(S(NP*)        -    -   -    Dan_Simon  *            *   -
+bc/cnn/00/cnn_0001   7   1         is   VBZ         (VP*         be  02   3    Dan_Simon  *          (V*)  -
+bc/cnn/00/cnn_0001   7   2         no    DT         (NP*         -    -   -    Dan_Simon  *       (ARG1*   -
+bc/cnn/00/cnn_0001   7   3    traffic    NN            *)   traffic   -   1    Dan_Simon  *            *)  -
+bc/cnn/00/cnn_0001   7   4         in    IN         (PP*         -    -   -    Dan_Simon  *   (ARGM-LOC*   -
+bc/cnn/00/cnn_0001   7   5      other    JJ      (NP(NP*         -    -   -    Dan_Simon  *            *   -
+bc/cnn/00/cnn_0001   7   6      parts   NNS            *)      part   -   1    Dan_Simon  *            *   -
+bc/cnn/00/cnn_0001   7   7         of    IN         (PP*         -    -   -    Dan_Simon  *            *   -
+bc/cnn/00/cnn_0001   7   8       town    NN     (NP*)))))      town   -   1    Dan_Simon  *            *)  -
+bc/cnn/00/cnn_0001   7   9         /.     .           *))        -    -   -    Dan_Simon  *            *   -
+
+bc/cnn/00/cnn_0001   7   0          This    DT   (TOP(S(NP*)   -    -   -    Dan_Simon      *    (ARG1*)   (66)
+bc/cnn/00/cnn_0001   7   1            is   VBZ         (VP*    be  01   2    Dan_Simon      *       (V*)     -
+bc/cnn/00/cnn_0001   7   2           the    DT         (NP*    -    -   -    Dan_Simon      *    (ARG2*      -
+bc/cnn/00/cnn_0001   7   3    devastated    JJ            *    -    -   -    Dan_Simon      *         *      -
+bc/cnn/00/cnn_0001   7   4         Lower   NNP            *    -    -   -    Dan_Simon  (LOC*         *      -
+bc/cnn/00/cnn_0001   7   5         Ninth   NNP            *    -    -   -    Dan_Simon      *         *      -
+bc/cnn/00/cnn_0001   7   6          Ward   NNP           *))   -    -   -    Dan_Simon      *)        *)     -
+bc/cnn/00/cnn_0001   7   7            /.     .           *))   -    -   -    Dan_Simon      *         *      -
+
+bc/cnn/00/cnn_0001   7   0    Restaurants   NNS   (TOP(FRAG(NP(NP*)        -   -   -    Dan_Simon  *   -
+bc/cnn/00/cnn_0001   7   1            gas    NN               (NP*        gas  -   3    Dan_Simon  *   -
+bc/cnn/00/cnn_0001   7   2       stations   NNS                 *))   station  -   1    Dan_Simon  *   -
+bc/cnn/00/cnn_0001   7   3         closed    JJ             (ADJP*)        -   -   -    Dan_Simon  *   -
+bc/cnn/00/cnn_0001   7   4             /.     .                 *))        -   -   -    Dan_Simon  *   -
+
+bc/cnn/00/cnn_0001   7   0    neighborhoods   NNS   (TOP(FRAG(NP*)      -    -   -    Dan_Simon  *    (ARG1*)  -
+bc/cnn/00/cnn_0001   7   1           vacant    JJ      (UCP(ADJP*)      -    -   -    Dan_Simon  *         *   -
+bc/cnn/00/cnn_0001   7   2           filled   VBN            (VP*     fill  01   -    Dan_Simon  *       (V*)  -
+bc/cnn/00/cnn_0001   7   3             with    IN            (PP*       -    -   -    Dan_Simon  *    (ARG2*   -
+bc/cnn/00/cnn_0001   7   4            trash    NN         (NP*))))   trash   -   -    Dan_Simon  *         *)  -
+bc/cnn/00/cnn_0001   7   5               /.     .              *))      -    -   -    Dan_Simon  *         *   -
+
+bc/cnn/00/cnn_0001   7    0     Contrast    VB      (TOP(S(VP*     contrast  01   1    Dan_Simon      *       (V*)        *               *        *      -
+bc/cnn/00/cnn_0001   7    1         that    DT            (NP*)          -    -   -    Dan_Simon      *    (ARG1*)        *               *        *      -
+bc/cnn/00/cnn_0001   7    2         with    IN            (PP*           -    -   -    Dan_Simon      *    (ARG2*         *               *        *      -
+bc/cnn/00/cnn_0001   7    3      Algiers   NNP         (NP(NP*)          -    -   -    Dan_Simon   (LOC)        *         *      (ARGM-LOC*)       *   (101
+bc/cnn/00/cnn_0001   7    4        where   WRB   (SBAR(WHADVP*)          -    -   -    Dan_Simon      *         *         *    (R-ARGM-LOC*)       *      -
+bc/cnn/00/cnn_0001   7    5       carved   VBN        (S(S(NP*        carve  01   -    Dan_Simon      *         *       (V*)         (ARG2*        *      -
+bc/cnn/00/cnn_0001   7    6     pumpkins   NNS               *)          -    -   -    Dan_Simon      *         *    (ARG1*)              *)       *      -
+bc/cnn/00/cnn_0001   7    7          dot   VBP            (VP*          dot  01   1    Dan_Simon      *         *         *             (V*)       *      -
+bc/cnn/00/cnn_0001   7    8          the    DT            (NP*           -    -   -    Dan_Simon      *         *         *          (ARG1*        *      -
+bc/cnn/00/cnn_0001   7    9    landscape    NN             *)))   landscape   -   -    Dan_Simon      *         *         *               *)       *      -
+bc/cnn/00/cnn_0001   7   10          and    CC               *           -    -   -    Dan_Simon      *         *         *               *        *      -
+bc/cnn/00/cnn_0001   7   11         most   JJS    (S(NP(NP(NP*)          -    -   -    Dan_Simon      *         *         *               *   (ARG1*      -
+bc/cnn/00/cnn_0001   7   12           of    IN            (PP*           -    -   -    Dan_Simon      *         *         *               *        *      -
+bc/cnn/00/cnn_0001   7   13          the    DT            (NP*           -    -   -    Dan_Simon      *         *         *               *        *      -
+bc/cnn/00/cnn_0001   7   14       stores   NNS             *)))       store   -   1    Dan_Simon      *         *         *               *        *      -
+bc/cnn/00/cnn_0001   7   15         even    RB            (NP*           -    -   -    Dan_Simon      *         *         *               *        *      -
+bc/cnn/00/cnn_0001   7   16       little    JJ               *           -    -   -    Dan_Simon      *         *         *               *        *      -
+bc/cnn/00/cnn_0001   7   17        cafes   NNS              *))          -    -   -    Dan_Simon      *         *         *               *        *)     -
+bc/cnn/00/cnn_0001   7   18          are   VBP            (VP*           be  01   1    Dan_Simon      *         *         *               *      (V*)     -
+bc/cnn/00/cnn_0001   7   19         open    JJ          (ADJP*           -    -   -    Dan_Simon      *         *         *               *   (ARG2*      -
+bc/cnn/00/cnn_0001   7   20          for    IN            (PP*           -    -   -    Dan_Simon      *         *         *               *        *      -
+bc/cnn/00/cnn_0001   7   21     business    NN   (NP*))))))))))    business   -   3    Dan_Simon      *         *)        *               *        *)   101)
+bc/cnn/00/cnn_0001   7   22           /.     .              *))          -    -   -    Dan_Simon      *         *         *               *        *      -
+
+bc/cnn/00/cnn_0001   7   0          We   PRP   (TOP(S(NP*)  -   -   -    Daisy_Peters  *    (120)
+bc/cnn/00/cnn_0001   7   1        just    RB       (ADVP*)  -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   2    isolated    JJ       (ADJP*)  -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   3          /.     .           *))  -   -   -    Daisy_Peters  *       -
+
+bc/cnn/00/cnn_0001   7   0        We   PRP   (TOP(S(NP*)       -   -   -    Daisy_Peters  *    (120)
+bc/cnn/00/cnn_0001   7   1      like    UH       (INTJ*)       -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   2        on    IN         (PP*        -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   3         a    DT         (NP*        -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   4    island    NN           *))   island  -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   5      over    RB       (ADVP*        -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   6      here    RB            *)       -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   7        /.     .           *))       -   -   -    Daisy_Peters  *       -
+
+bc/cnn/00/cnn_0001   7   0          We   PRP   (TOP(S(NP*)     -   -   -    Daisy_Peters  *    (120)
+bc/cnn/00/cnn_0001   7   1    isolated    JJ       (ADJP*      -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   2        from    IN         (PP*      -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   3         the    DT         (NP*      -   -   -    Daisy_Peters  *     (45
+bc/cnn/00/cnn_0001   7   4       whole    JJ            *      -   -   -    Daisy_Peters  *       -
+bc/cnn/00/cnn_0001   7   5        city    NN          *)))   city  -   1    Daisy_Peters  *      45)
+bc/cnn/00/cnn_0001   7   6          /.     .           *))     -   -   -    Daisy_Peters  *       -
+
+bc/cnn/00/cnn_0001   7    0             Daisy    NNP  (TOP(S(S(NP(NP*         -    -   -    Dan_Simon  (PERSON*    (ARG1*        (135
+bc/cnn/00/cnn_0001   7    1            Peters    NNP                *         -    -   -    Dan_Simon         *         *           -
+bc/cnn/00/cnn_0001   7    2                's    POS                *)        -    -   -    Dan_Simon         *)        *         135)
+bc/cnn/00/cnn_0001   7    3          feelings    NNS                *)   feeling   -   1    Dan_Simon         *         *)          -
+bc/cnn/00/cnn_0001   7    4               are    VBP             (VP*         be  01   1    Dan_Simon         *       (V*)          -
+bc/cnn/00/cnn_0001   7    5    understandable     JJ         (ADJP*)))        -    -   -    Dan_Simon         *    (ARG2*)          -
+bc/cnn/00/cnn_0001   7    6                 ,      ,                *         -    -   -    Dan_Simon         *         *           -
+bc/cnn/00/cnn_0001   7    7               her   PRP$           (S(NP*         -    -   -    Dan_Simon         *         *    (84|(135)
+bc/cnn/00/cnn_0001   7    8             house     NN                *)     house   -   1    Dan_Simon         *         *          84)
+bc/cnn/00/cnn_0001   7    9                in     IN             (PP*         -    -   -    Dan_Simon         *         *           -
+bc/cnn/00/cnn_0001   7   10             ruins    NNS           (NP*)))      ruin   -   4    Dan_Simon         *         *           -
+bc/cnn/00/cnn_0001   7   11                /.      .               *))        -    -   -    Dan_Simon         *         *           -
+
+bc/cnn/00/cnn_0001   7    0       Other     RB  (TOP(S(ADVP*        -    -   -    Dan_Simon  *        *             *   (ARGM-ADV*       -
+bc/cnn/00/cnn_0001   7    1        than     IN          (PP*        -    -   -    Dan_Simon  *        *             *            *       -
+bc/cnn/00/cnn_0001   7    2         the     DT       (NP(NP*        -    -   -    Dan_Simon  *        *             *            *       -
+bc/cnn/00/cnn_0001   7    3        help     NN             *)     help  01   1    Dan_Simon  *      (V*)            *            *       -
+bc/cnn/00/cnn_0001   7    4          of     IN          (PP*        -    -   -    Dan_Simon  *   (ARG0*             *            *       -
+bc/cnn/00/cnn_0001   7    5           a     DT    (NP(NP(QP*        -    -   -    Dan_Simon  *        *        (ARG0*            *       -
+bc/cnn/00/cnn_0001   7    6         few     JJ             *)       -    -   -    Dan_Simon  *        *             *            *       -
+bc/cnn/00/cnn_0001   7    7      family     NN             *    family   -   1    Dan_Simon  *        *             *            *       -
+bc/cnn/00/cnn_0001   7    8     members    NNS             *)   member   -   1    Dan_Simon  *        *             *)           *       -
+bc/cnn/00/cnn_0001   7    9    clearing    VBG          (VP*     clear  01   1    Dan_Simon  *        *           (V*)           *       -
+bc/cnn/00/cnn_0001   7   10        away     RP         (PRT*)       -    -   -    Dan_Simon  *        *    (ARGM-DIR*)           *       -
+bc/cnn/00/cnn_0001   7   11      debris     NN    (NP*)))))))       -    -   -    Dan_Simon  *        *)       (ARG2*)           *)      -
+bc/cnn/00/cnn_0001   7   12         she    PRP          (NP*)       -    -   -    Dan_Simon  *        *             *       (ARG1*)   (135)
+bc/cnn/00/cnn_0001   7   13          's    VBZ          (VP*        be  01   1    Dan_Simon  *        *             *          (V*)      -
+bc/cnn/00/cnn_0001   7   14          on     IN          (PP*        -    -   -    Dan_Simon  *        *             *       (ARG2*       -
+bc/cnn/00/cnn_0001   7   15         her   PRP$          (NP*        -    -   -    Dan_Simon  *        *             *            *    (135)
+bc/cnn/00/cnn_0001   7   16         own     JJ           *)))       -    -   -    Dan_Simon  *        *             *            *)      -
+bc/cnn/00/cnn_0001   7   17          /.      .            *))       -    -   -    Dan_Simon  *        *             *            *       -
+
+bc/cnn/00/cnn_0001   7   0            I   PRP   (TOP(S(NP*)      -    -   -    Daisy_Peters  *    (ARG1*)   (135)
+bc/cnn/00/cnn_0001   7   1           am   VBP         (VP*       be  01   1    Daisy_Peters  *       (V*)      -
+bc/cnn/00/cnn_0001   7   2         very    RB       (ADJP*       -    -   -    Daisy_Peters  *    (ARG2*       -
+bc/cnn/00/cnn_0001   7   3         very    RB            *       -    -   -    Daisy_Peters  *         *       -
+bc/cnn/00/cnn_0001   7   4         very    RB            *       -    -   -    Daisy_Peters  *         *       -
+bc/cnn/00/cnn_0001   7   5    disgusted    JJ            *       -    -   -    Daisy_Peters  *         *       -
+bc/cnn/00/cnn_0001   7   6         with    IN         (PP*       -    -   -    Daisy_Peters  *         *       -
+bc/cnn/00/cnn_0001   7   7         this    DT         (NP*       -    -   -    Daisy_Peters  *         *       -
+bc/cnn/00/cnn_0001   7   8        place    NN         *))))   place   -   1    Daisy_Peters  *         *)      -
+bc/cnn/00/cnn_0001   7   9           /.     .           *))      -    -   -    Daisy_Peters  *         *       -
+
+bc/cnn/00/cnn_0001   7   0          Who    WP   (TOP(SBARQ(WHNP*)   -    -   -    Dan_Simon  *         *       -
+bc/cnn/00/cnn_0001   7   1          are   VBP               (SQ*    be  01   1    Dan_Simon  *       (V*)      -
+bc/cnn/00/cnn_0001   7   2          you   PRP               (NP*)   -    -   -    Dan_Simon  *    (ARG1*)   (135)
+bc/cnn/00/cnn_0001   7   3    disgusted    JJ             (ADJP*    -    -   -    Dan_Simon  *    (ARG2*       -
+bc/cnn/00/cnn_0001   7   4         with    IN             (PP*)))   -    -   -    Dan_Simon  *         *)      -
+bc/cnn/00/cnn_0001   7   5           /?     .                 *))   -    -   -    Dan_Simon  *         *       -
+
+bc/cnn/00/cnn_0001   7    0         The    DT  (TOP(NP(NP*   -   -   -    Daisy_Peters      *   (110
+bc/cnn/00/cnn_0001   7    1    governor    NN            *)  -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7    2         and    CC            *   -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7    3         the    DT         (NP*   -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7    4       mayor    NN            *)  -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7    5         and    CC            *   -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7    6        FEMA   NNP         (NP*)  -   -   -    Daisy_Peters   (ORG)     -
+bc/cnn/00/cnn_0001   7    7         and    CC            *   -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7    8         all    DT      (NP(NP*)  -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7    9          of    IN         (PP*   -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7   10        them   PRP       (NP*)))  -   -   -    Daisy_Peters      *      -
+bc/cnn/00/cnn_0001   7   11          /.     .           *))  -   -   -    Daisy_Peters      *    110)
+
+bc/cnn/00/cnn_0001   7   0     You   PRP   (TOP(S(NP*)     -    -   -    Dan_Simon  *    (ARG0*)     *             *    (135)
+bc/cnn/00/cnn_0001   7   1    feel   VBP         (VP*    feel  01   1    Dan_Simon  *       (V*)     *             *       -
+bc/cnn/00/cnn_0001   7   2    like    IN       (SBAR*      -    -   -    Dan_Simon  *    (ARG1*      *             *       -
+bc/cnn/00/cnn_0001   7   3    they   PRP       (S(NP*)     -    -   -    Dan_Simon  *         *      *        (ARG0*)   (110)
+bc/cnn/00/cnn_0001   7   4    just    RB       (ADVP*)     -    -   -    Dan_Simon  *         *      *    (ARGM-ADV*)      -
+bc/cnn/00/cnn_0001   7   5      do   VBP         (VP*      do  01   -    Dan_Simon  *         *    (V*)            *       -
+bc/cnn/00/cnn_0001   7   6     n't    RB            *      -    -   -    Dan_Simon  *         *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   7   7    care    VB     (VP*)))))   care  01   1    Dan_Simon  *         *)     *           (V*)      -
+bc/cnn/00/cnn_0001   7   8      /.     .           *))     -    -   -    Dan_Simon  *         *      *             *       -
+
+bc/cnn/00/cnn_0001   7   0       I   PRP   (TOP(S(NP*)     -    -   -    Daisy_Peters  *    (ARG0*)     *             *    (135)
+bc/cnn/00/cnn_0001   7   1    feel   VBP         (VP*    feel  01   1    Daisy_Peters  *       (V*)     *             *       -
+bc/cnn/00/cnn_0001   7   2    like    IN       (SBAR*      -    -   -    Daisy_Peters  *    (ARG1*      *             *       -
+bc/cnn/00/cnn_0001   7   3    they   PRP       (S(NP*)     -    -   -    Daisy_Peters  *         *      *        (ARG0*)   (110)
+bc/cnn/00/cnn_0001   7   4      do   VBP         (VP*      do  01   -    Daisy_Peters  *         *    (V*)            *       -
+bc/cnn/00/cnn_0001   7   5     not    RB            *      -    -   -    Daisy_Peters  *         *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   7   6    care    VB     (VP*)))))   care  01   1    Daisy_Peters  *         *)     *           (V*)      -
+bc/cnn/00/cnn_0001   7   7      /.     .           *))     -    -   -    Daisy_Peters  *         *      *             *       -
+
+bc/cnn/00/cnn_0001   7   0    Government    NN    (TOP(S(NP*    government   -   1    Dan_Simon  *   (ARG0*      *         *    (160
+bc/cnn/00/cnn_0001   7   1     officials   NNS             *)     official   -   1    Dan_Simon  *        *)     *         *     160)
+bc/cnn/00/cnn_0001   7   2           say   VBP          (VP*           say  01   1    Dan_Simon  *      (V*)     *         *       -
+bc/cnn/00/cnn_0001   7   3          they   PRP   (SBAR(S(NP*)           -    -   -    Dan_Simon  *   (ARG1*      *    (ARG0*)   (160)
+bc/cnn/00/cnn_0001   7   4            do   VBP          (VP*            do  01   -    Dan_Simon  *        *    (V*)        *       -
+bc/cnn/00/cnn_0001   7   5          care    VB      (VP*)))))         care  01   1    Dan_Simon  *        *)     *       (V*)      -
+bc/cnn/00/cnn_0001   7   6            /.     .            *))           -    -   -    Dan_Simon  *        *      *         *       -
+
+bc/cnn/00/cnn_0001   7   0            but    CC  (TOP(S*         -    -   -    Dan_Simon  *        *   -
+bc/cnn/00/cnn_0001   7   1            the    DT  (NP(NP*         -    -   -    Dan_Simon  *   (ARG0*   -
+bc/cnn/00/cnn_0001   7   2      magnitude    NN        *)        -    -   -    Dan_Simon  *        *   -
+bc/cnn/00/cnn_0001   7   3             of    IN     (PP*         -    -   -    Dan_Simon  *        *   -
+bc/cnn/00/cnn_0001   7   4    destruction    NN   (NP*)))        -    -   -    Dan_Simon  *        *)  -
+bc/cnn/00/cnn_0001   7   5          makes   VBZ     (VP*       make  02   3    Dan_Simon  *      (V*)  -
+bc/cnn/00/cnn_0001   7   6     rebuilding    NN   (S(NP*)   rebuild   -   -    Dan_Simon  *   (ARG1*   -
+bc/cnn/00/cnn_0001   7   7           very    RB   (ADJP*         -    -   -    Dan_Simon  *        *   -
+bc/cnn/00/cnn_0001   7   8      difficult    JJ      *)))        -    -   -    Dan_Simon  *        *)  -
+bc/cnn/00/cnn_0001   7   9             /.     .       *))        -    -   -    Dan_Simon  *        *   -
+
+bc/cnn/00/cnn_0001   7    0           There    EX   (TOP(S(NP*)        -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7    1              's   VBZ         (VP*         be  02   3    Dan_Simon  *      (V*)       *     -
+bc/cnn/00/cnn_0001   7    2              no    DT   (NP(NP(NP*         -    -   -    Dan_Simon  *   (ARG1*        *     -
+bc/cnn/00/cnn_0001   7    3       drinkable    JJ            *         -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7    4           water    NN            *)     water   -   2    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7    5             and    CC            *         -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7    6          little    JJ    (NP(ADJP*         -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7    7              if    IN         (PP*         -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7    8             any    DT       (NP*)))        -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7    9     electricity    NN            *)        -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7   10            here    RB      (ADVP*))        -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7   11             and    CC            *         -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7   12              no    DT      (NP(NP*         -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7   13            plan    NN            *)      plan   -   2    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7   14             yet    RB       (ADVP*)        -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7   15             for    IN         (PP*         -    -   -    Dan_Simon  *        *        *     -
+bc/cnn/00/cnn_0001   7   16       restoring   VBG       (S(VP*    restore  02   -    Dan_Simon  *        *      (V*)    -
+bc/cnn/00/cnn_0001   7   17             the    DT         (NP*         -    -   -    Dan_Simon  *        *   (ARG1*   (66
+bc/cnn/00/cnn_0001   7   18    neighborhood    NN      *)))))))        -    -   -    Dan_Simon  *        *)       *)   66)
+bc/cnn/00/cnn_0001   7   19              /.     .           *))        -    -   -    Dan_Simon  *        *        *     -
+
+bc/cnn/00/cnn_0001   7   0         I   PRP   (TOP(S(NP*)      -    -   -    Daisy_Peters  *      *        (ARG0*)   (135)
+bc/cnn/00/cnn_0001   7   1        'm   VBP         (VP*       be  03   -    Daisy_Peters  *    (V*)            *       -
+bc/cnn/00/cnn_0001   7   2       not    RB            *       -    -   -    Daisy_Peters  *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   7   3    giving   VBG         (VP*     give  02   1    Daisy_Peters  *      *           (V*)      -
+bc/cnn/00/cnn_0001   7   4      this    DT         (NP*       -    -   -    Daisy_Peters  *      *        (ARG1*     (84
+bc/cnn/00/cnn_0001   7   5     house    NN            *)   house   -   1    Daisy_Peters  *      *             *)     84)
+bc/cnn/00/cnn_0001   7   6      away    RP      (PRT*)))      -    -   -    Daisy_Peters  *      *             *       -
+bc/cnn/00/cnn_0001   7   7        /.     .           *))      -    -   -    Daisy_Peters  *      *             *       -
+
+bc/cnn/00/cnn_0001   7    0          If    IN  (TOP(S(SBAR*         -    -   -    Daisy_Peters  *      *             *            *   (ARGM-ADV*            *      *             *       -
+bc/cnn/00/cnn_0001   7    1    somebody    NN        (S(NP*)        -    -   -    Daisy_Peters  *      *    (ARGM-ADV*)           *            *            *      *             *       -
+bc/cnn/00/cnn_0001   7    2        they   PRP          (NP*)        -    -   -    Daisy_Peters  *      *        (ARG0*)      (ARG0*)           *            *      *             *       -
+bc/cnn/00/cnn_0001   7    3          do   VBP          (VP*         do  01   -    Daisy_Peters  *    (V*)            *            *            *            *      *             *       -
+bc/cnn/00/cnn_0001   7    4         n't    RB             *         -    -   -    Daisy_Peters  *      *    (ARGM-NEG*)           *            *            *      *             *       -
+bc/cnn/00/cnn_0001   7    5        want    VB          (VP*       want  01   1    Daisy_Peters  *      *           (V*)           *            *            *      *             *       -
+bc/cnn/00/cnn_0001   7    6          to    TO        (S(VP*         -    -   -    Daisy_Peters  *      *        (ARG1*            *            *            *      *             *       -
+bc/cnn/00/cnn_0001   7    7     rebuild    VB          (VP*    rebuild  01   1    Daisy_Peters  *      *             *          (V*)           *            *      *             *       -
+bc/cnn/00/cnn_0001   7    8        down    RB        (ADVP*         -    -   -    Daisy_Peters  *      *             *   (ARGM-LOC*            *            *      *             *       -
+bc/cnn/00/cnn_0001   7    9        here    RB      *))))))))        -    -   -    Daisy_Peters  *      *             *)           *)           *)           *      *             *       -
+bc/cnn/00/cnn_0001   7   10    somebody    NN          (NP*)        -    -   -    Daisy_Peters  *      *             *            *       (ARG0*)      (ARG0*)     *             *       -
+bc/cnn/00/cnn_0001   7   11        need   VBZ          (VP*       need  01   2    Daisy_Peters  *      *             *            *          (V*)           *      *             *       -
+bc/cnn/00/cnn_0001   7   12          to    TO        (S(VP*         -    -   -    Daisy_Peters  *      *             *            *       (ARG1*            *      *             *       -
+bc/cnn/00/cnn_0001   7   13         see    VB          (VP*        see  01   6    Daisy_Peters  *      *             *            *            *          (V*)     *             *       -
+bc/cnn/00/cnn_0001   7   14          me   PRP          (NP*)        -    -   -    Daisy_Peters  *      *             *            *            *       (ARG1*)     *             *    (135)
+bc/cnn/00/cnn_0001   7   15       about    IN          (PP*         -    -   -    Daisy_Peters  *      *             *            *            *   (ARGM-PRP*      *             *       -
+bc/cnn/00/cnn_0001   7   16        this    DT          (NP*         -    -   -    Daisy_Peters  *      *             *            *            *            *      *             *     (84
+bc/cnn/00/cnn_0001   7   17       house    NN         *)))))     house   -   1    Daisy_Peters  *      *             *            *            *)           *)     *             *      84)
+bc/cnn/00/cnn_0001   7   18     because    IN        (SBAR*         -    -   -    Daisy_Peters  *      *             *            *   (ARGM-CAU*            *      *             *       -
+bc/cnn/00/cnn_0001   7   19           I   PRP        (S(NP*)        -    -   -    Daisy_Peters  *      *             *            *            *            *      *        (ARG0*)   (135)
+bc/cnn/00/cnn_0001   7   20          'm   VBP          (VP*         be  03   -    Daisy_Peters  *      *             *            *            *            *    (V*)            *       -
+bc/cnn/00/cnn_0001   7   21         not    RB             *         -    -   -    Daisy_Peters  *      *             *            *            *            *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   7   22      giving   VBG          (VP*       give  01   1    Daisy_Peters  *      *             *            *            *            *      *           (V*)      -
+bc/cnn/00/cnn_0001   7   23          it   PRP          (NP*)        -    -   -    Daisy_Peters  *      *             *            *            *            *      *        (ARG1*)    (84)
+bc/cnn/00/cnn_0001   7   24          to    IN          (PP*         -    -   -    Daisy_Peters  *      *             *            *            *            *      *        (ARG2*       -
+bc/cnn/00/cnn_0001   7   25      nobody    NN    (NP*)))))))        -    -   -    Daisy_Peters  *      *             *            *            *)           *      *             *)      -
+bc/cnn/00/cnn_0001   7   26          /.     .            *))        -    -   -    Daisy_Peters  *      *             *            *            *            *      *             *       -
+
+bc/cnn/00/cnn_0001   7   0      Daisy   NNP   (TOP(S(NP*)       -    -   -    Dan_Simon   (PERSON)   (ARG0*)   (ARG0*)   (135)
+bc/cnn/00/cnn_0001   7   1    decides   VBZ         (VP*    decide  01   1    Dan_Simon         *       (V*)        *       -
+bc/cnn/00/cnn_0001   7   2         to    TO       (S(VP*        -    -   -    Dan_Simon         *    (ARG1*         *       -
+bc/cnn/00/cnn_0001   7   3       take    VB         (VP*      take  01   2    Dan_Simon         *         *       (V*)      -
+bc/cnn/00/cnn_0001   7   4          a    DT         (NP*        -    -   -    Dan_Simon         *         *    (ARG1*       -
+bc/cnn/00/cnn_0001   7   5       rest    NN        *)))))     rest   -   2    Dan_Simon         *         *)        *)      -
+bc/cnn/00/cnn_0001   7   6         /.     .           *))       -    -   -    Dan_Simon         *         *         *       -
+
+bc/cnn/00/cnn_0001   7    0         They   PRP   (TOP(S(NP*)      -    -   -    Dan_Simon         *      *        (ARG1*)   (65)
+bc/cnn/00/cnn_0001   7    1          're   VBP         (VP*       be  03   -    Dan_Simon         *    (V*)            *      -
+bc/cnn/00/cnn_0001   7    2         also    RB       (ADVP*)      -    -   -    Dan_Simon         *      *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   7    3      resting   VBG         (VP*     rest  01   1    Dan_Simon         *      *           (V*)     -
+bc/cnn/00/cnn_0001   7    4           at    IN         (PP*       -    -   -    Dan_Simon         *      *    (ARGM-LOC*      -
+bc/cnn/00/cnn_0001   7    5          the    DT         (NP*       -    -   -    Dan_Simon         *      *             *      -
+bc/cnn/00/cnn_0001   7    6        Paolo   NNP            *       -    -   -    Dan_Simon   (PERSON)     *             *    (65)
+bc/cnn/00/cnn_0001   7    7        house    NN           *))   house   -   1    Dan_Simon         *      *             *)     -
+bc/cnn/00/cnn_0001   7    8          but    CC        (NAC*       -    -   -    Dan_Simon         *      *    (ARGM-MNR*      -
+bc/cnn/00/cnn_0001   7    9           in    IN         (PP*       -    -   -    Dan_Simon         *      *             *      -
+bc/cnn/00/cnn_0001   7   10            a    DT         (NP*       -    -   -    Dan_Simon         *      *             *      -
+bc/cnn/00/cnn_0001   7   11    different    JJ            *       -    -   -    Dan_Simon         *      *             *      -
+bc/cnn/00/cnn_0001   7   12          way    NN        *)))))     way   -   3    Dan_Simon         *      *             *)     -
+bc/cnn/00/cnn_0001   7   13           /.     .           *))      -    -   -    Dan_Simon         *      *             *      -
+
+bc/cnn/00/cnn_0001   7   0        Dan   NNP  (TOP(FRAG(NP*   -   -   -    Dan_Simon  (PERSON*    (95
+bc/cnn/00/cnn_0001   7   1      Simon   NNP              *)  -   -   -    Dan_Simon         *)    95)
+bc/cnn/00/cnn_0001   7   2        CNN   NNP           (NP*)  -   -   -    Dan_Simon      (ORG)   (99)
+bc/cnn/00/cnn_0001   7   3        New   NNP           (NP*   -   -   -    Dan_Simon     (GPE*    (45
+bc/cnn/00/cnn_0001   7   4    Orleans   NNP              *)  -   -   -    Dan_Simon         *)    45)
+bc/cnn/00/cnn_0001   7   5         /.     .             *))  -   -   -    Dan_Simon         *      -

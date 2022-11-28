@@ -1,0 +1,838 @@
+bc/msnbc/00/msnbc_0002   7    0    Someone    NN   (TOP(S(NP(NP*)        -    -   -    Dan_Abrams         *        (ARG1*)  (ARG1*           *      -
+bc/msnbc/00/msnbc_0002   7    1        who    WP     (SBAR(WHNP*)        -    -   -    Dan_Abrams         *      (R-ARG1*)       *           *      -
+bc/msnbc/00/msnbc_0002   7    2         is   VBZ          (S(VP*         be  01   1    Dan_Abrams         *           (V*)       *           *      -
+bc/msnbc/00/msnbc_0002   7    3        not    RB               *         -    -   -    Dan_Abrams         *    (ARGM-NEG*)       *           *      -
+bc/msnbc/00/msnbc_0002   7    4      happy    JJ          (ADJP*         -    -   -    Dan_Abrams         *        (ARG2*        *           *      -
+bc/msnbc/00/msnbc_0002   7    5       with    IN            (PP*         -    -   -    Dan_Abrams         *             *        *           *      -
+bc/msnbc/00/msnbc_0002   7    6       this    DT            (NP*         -    -   -    Dan_Abrams         *             *        *           *      -
+bc/msnbc/00/msnbc_0002   7    7    opinion    NN         *)))))))   opinion   -   1    Dan_Abrams         *             *)       *)          *      -
+bc/msnbc/00/msnbc_0002   7    8         is   VBZ            (VP*         be  01   2    Dan_Abrams         *             *      (V*)          *      -
+bc/msnbc/00/msnbc_0002   7    9      Sally   NNP         (NP(NP*)        -    -   -    Dan_Abrams   (PERSON)            *   (ARG2*      (ARG1*)   (58
+bc/msnbc/00/msnbc_0002   7   10        who    WP     (SBAR(WHNP*)        -    -   -    Dan_Abrams         *             *        *    (R-ARG1*)     -
+bc/msnbc/00/msnbc_0002   7   11         is   VBZ          (S(VP*         be  01   1    Dan_Abrams         *             *        *         (V*)     -
+bc/msnbc/00/msnbc_0002   7   12        the    DT         (NP(NP*         -    -   -    Dan_Abrams         *             *        *      (ARG2*   (175
+bc/msnbc/00/msnbc_0002   7   13      young    JJ               *         -    -   -    Dan_Abrams         *             *        *           *      -
+bc/msnbc/00/msnbc_0002   7   14        boy    NN               *         -    -   -    Dan_Abrams         *             *        *           *      -
+bc/msnbc/00/msnbc_0002   7   15         's   POS               *)        -    -   -    Dan_Abrams         *             *        *           *    175)
+bc/msnbc/00/msnbc_0002   7   16     mother    NN          *))))))    mother   -   -    Dan_Abrams         *             *        *)          *)    58)
+bc/msnbc/00/msnbc_0002   7   17         /.     .              *))        -    -   -    Dan_Abrams         *             *        *           *      -
+
+bc/msnbc/00/msnbc_0002   7    0          She    PRP   (TOP(S(NP*)          -    -   -    Dan_Abrams  *        (ARG0*)            *      *      *        *    (58)
+bc/msnbc/00/msnbc_0002   7    1        joins    VBZ         (VP*         join  04   3    Dan_Abrams  *           (V*)            *      *      *        *      -
+bc/msnbc/00/msnbc_0002   7    2           me    PRP         (NP*           -    -   -    Dan_Abrams  *        (ARG1*)            *      *      *        *   (167
+bc/msnbc/00/msnbc_0002   7    3          now     RB      (ADVP*))          -    -   -    Dan_Abrams  *    (ARGM-TMP*)            *      *      *        *    167)
+bc/msnbc/00/msnbc_0002   7    4           on     IN         (PP*           -    -   -    Dan_Abrams  *    (ARGM-MNR*             *      *      *        *      -
+bc/msnbc/00/msnbc_0002   7    5          the     DT         (NP*           -    -   -    Dan_Abrams  *             *             *      *      *        *      -
+bc/msnbc/00/msnbc_0002   7    6        phone     NN           *))       phone   -   1    Dan_Abrams  *             *)            *      *      *        *      -
+bc/msnbc/00/msnbc_0002   7    7          for     IN         (PP*           -    -   -    Dan_Abrams  *    (ARGM-PRP*             *      *      *        *      -
+bc/msnbc/00/msnbc_0002   7    8          her   PRP$      (NP(NP*           -    -   -    Dan_Abrams  *             *        (ARG1*)     *      *        *    (58)
+bc/msnbc/00/msnbc_0002   7    9        first     JJ            *           -    -   -    Dan_Abrams  *             *    (ARGM-TMP*)     *      *        *      -
+bc/msnbc/00/msnbc_0002   7   10           tv     NN            *           -    -   -    Dan_Abrams  *             *    (ARGM-LOC*)     *      *        *      -
+bc/msnbc/00/msnbc_0002   7   11    interview     NN            *)   interview  01   1    Dan_Abrams  *             *           (V*)     *      *        *      -
+bc/msnbc/00/msnbc_0002   7   12        since     IN       (SBAR*           -    -   -    Dan_Abrams  *             *    (ARGM-TMP*      *      *        *      -
+bc/msnbc/00/msnbc_0002   7   13        these     DT       (S(NP*           -    -   -    Dan_Abrams  *             *             *      *      *   (ARG1*      -
+bc/msnbc/00/msnbc_0002   7   14      charges    NNS            *)      charge  03   3    Dan_Abrams  *             *             *    (V*)     *        *)     -
+bc/msnbc/00/msnbc_0002   7   15         were    VBD         (VP*           be  03   -    Dan_Abrams  *             *             *      *    (V*)       *      -
+bc/msnbc/00/msnbc_0002   7   16      dropped    VBN   (VP*)))))))        drop  05   2    Dan_Abrams  *             *)            *)     *      *      (V*)     -
+bc/msnbc/00/msnbc_0002   7   17           /.      .           *))          -    -   -    Dan_Abrams  *             *             *      *      *        *      -
+
+bc/msnbc/00/msnbc_0002   7   0     Thanks   NNS   (TOP(FRAG(NP(NP*))    thanks  01   1    Dan_Abrams  *          (V*)       *     -
+bc/msnbc/00/msnbc_0002   7   1          a    DT                (NP*         -    -   -    Dan_Abrams  *   (ARGM-EXT*        *     -
+bc/msnbc/00/msnbc_0002   7   2        lot    NN                   *)       lot   -   1    Dan_Abrams  *            *)       *     -
+bc/msnbc/00/msnbc_0002   7   3        for    IN                (PP*         -    -   -    Dan_Abrams  *       (ARG2*        *     -
+bc/msnbc/00/msnbc_0002   7   4     coming   VBG              (S(VP*       come  01   1    Dan_Abrams  *            *      (V*)    -
+bc/msnbc/00/msnbc_0002   7   5         on    IN                (PP*         -    -   -    Dan_Abrams  *            *   (ARG4*     -
+bc/msnbc/00/msnbc_0002   7   6        the    DT                (NP*         -    -   -    Dan_Abrams  *            *        *   (84
+bc/msnbc/00/msnbc_0002   7   7    program    NN               *)))))   program   -   2    Dan_Abrams  *            *)       *)   84)
+bc/msnbc/00/msnbc_0002   7   8         /.     .                  *))        -    -   -    Dan_Abrams  *            *        *     -
+
+bc/msnbc/00/msnbc_0002   7   0            We   PRP   (TOP(S(NP*)           -    -   -    Dan_Abrams  *    (ARG0*)  -
+bc/msnbc/00/msnbc_0002   7   1    appreciate   VBP         (VP*    appreciate  02   2    Dan_Abrams  *       (V*)  -
+bc/msnbc/00/msnbc_0002   7   2            it   PRP        (NP*))           -    -   -    Dan_Abrams  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0002   7   3            /.     .           *))           -    -   -    Dan_Abrams  *         *   -
+
+bc/msnbc/00/msnbc_0002   7   0        You   PRP   (TOP(S(NP*)   -    -   -    Sally  *    (ARG1*)   (167)
+bc/msnbc/00/msnbc_0002   7   1        're   VBP         (VP*    be  01   1    Sally  *       (V*)      -
+bc/msnbc/00/msnbc_0002   7   2    welcome    JJ      (ADJP*))   -    -   -    Sally  *    (ARG2*)      -
+bc/msnbc/00/msnbc_0002   7   3         /.     .           *))   -    -   -    Sally  *         *       -
+
+bc/msnbc/00/msnbc_0002   7    0          All     RB       (TOP(S(ADVP*         -    -   -    Dan_Abrams  *      *             *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7    1        right     RB                  *)        -    -   -    Dan_Abrams  *      *             *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7    2           so     RB             (ADVP*)        -    -   -    Dan_Abrams  *      *             *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7    3          the     DT               (NP*         -    -   -    Dan_Abrams  *      *        (ARG0*      *             *        *         (47
+bc/msnbc/00/msnbc_0002   7    4        judge     NN                  *)     judge   -   1    Dan_Abrams  *      *             *)     *             *        *          47)
+bc/msnbc/00/msnbc_0002   7    5           eh     UH             (INTJ*)        -    -   -    Dan_Abrams  *      *             *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7    6       seemed    VBD               (VP*       seem   -   1    Dan_Abrams  *      *             *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7    7           uh     UH             (INTJ*)        -    -   -    Dan_Abrams  *      *             *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7    8           to     TO             (S(VP*         -    -   -    Dan_Abrams  *      *             *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7    9       really     RB             (ADVP*)        -    -   -    Dan_Abrams  *      *    (ARGM-ADV*)     *             *        *           -
+bc/msnbc/00/msnbc_0002   7   10           be     VB               (VP*         be  03   -    Dan_Abrams  *    (V*)            *      *             *        *           -
+bc/msnbc/00/msnbc_0002   7   11    basically     RB             (ADVP*)        -    -   -    Dan_Abrams  *      *    (ARGM-ADV*)     *             *        *           -
+bc/msnbc/00/msnbc_0002   7   12       saying    VBG               (VP*        say  01   1    Dan_Abrams  *      *           (V*)     *             *        *           -
+bc/msnbc/00/msnbc_0002   7   13         that     IN             (SBAR*         -    -   -    Dan_Abrams  *      *        (ARG1*      *             *        *           -
+bc/msnbc/00/msnbc_0002   7   14         your   PRP$             (S(NP*         -    -   -    Dan_Abrams  *      *             *      *        (ARG1*   (ARG0*    (175|(58)
+bc/msnbc/00/msnbc_0002   7   15          son     NN                  *)        -    -   -    Dan_Abrams  *      *             *      *             *)       *)        175)
+bc/msnbc/00/msnbc_0002   7   16       should     MD               (VP*         -    -   -    Dan_Abrams  *      *             *      *    (ARGM-MOD*)       *           -
+bc/msnbc/00/msnbc_0002   7   17           be     VB               (VP*         be  03   -    Dan_Abrams  *      *             *    (V*)            *        *           -
+bc/msnbc/00/msnbc_0002   7   18       forced    VBN               (VP*      force  01   1    Dan_Abrams  *      *             *      *           (V*)       *           -
+bc/msnbc/00/msnbc_0002   7   19           to     TO             (S(VP*         -    -   -    Dan_Abrams  *      *             *      *        (ARG2*        *           -
+bc/msnbc/00/msnbc_0002   7   20      testify     VB   (VP*)))))))))))))   testify  01   1    Dan_Abrams  *      *             *)     *             *)     (V*)         (1)
+bc/msnbc/00/msnbc_0002   7   21           /.      .                 *))        -    -   -    Dan_Abrams  *      *             *      *             *        *           -
+
+bc/msnbc/00/msnbc_0002   7   0    Exactly   RB  (TOP(ADVP*   -   -   -    Sally  *   -
+bc/msnbc/00/msnbc_0002   7   1         /.    .          *))  -   -   -    Sally  *   -
+
+bc/msnbc/00/msnbc_0002   7    0          And    CC       (TOP(S*         -    -   -    Sally           *    (ARGM-DIS*)     *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7    1           on    IN          (PP*         -    -   -    Sally           *    (ARGM-DIS*      *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7    2          one    CD          (NP*         -    -   -    Sally   (CARDINAL)            *      *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7    3         hand    NN            *))      hand   -   7    Sally           *             *)     *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7    4           he   PRP          (NP*)        -    -   -    Sally           *        (ARG0*)     *         *             *             *    (47)
+bc/msnbc/00/msnbc_0002   7    5    basically    RB        (ADVP*)        -    -   -    Sally           *    (ARGM-ADV*)     *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7    6         says   VBZ          (VP*        say  01   1    Sally           *           (V*)     *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7    7         that    IN        (SBAR*         -    -   -    Sally           *        (ARG1*      *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7    8           he   PRP        (S(NP*)        -    -   -    Sally           *             *      *         *        (ARG1*)            *    (47)
+bc/msnbc/00/msnbc_0002   7    9           is   VBZ          (VP*         be  03   1    Sally           *             *    (V*)        *             *             *      -
+bc/msnbc/00/msnbc_0002   7   10           uh    UH        (INTJ*)        -    -   -    Sally           *             *      *         *    (ARGM-DIS*)            *      -
+bc/msnbc/00/msnbc_0002   7   11          you   PRP    (PRN(S(NP*)        -    -   -    Sally           *             *      *    (ARG0*)            *             *      -
+bc/msnbc/00/msnbc_0002   7   12         know   VBP        (VP*)))      know  01   1    Sally           *             *      *       (V*)            *             *      -
+bc/msnbc/00/msnbc_0002   7   13     appalled   VBN          (VP*     appall  01   1    Sally           *             *      *         *           (V*)            *      -
+bc/msnbc/00/msnbc_0002   7   14         that    IN        (SBAR*         -    -   -    Sally           *             *      *         *        (ARG0*             *      -
+bc/msnbc/00/msnbc_0002   7   15            a    DT        (S(NP*         -    -   -    Sally           *             *      *         *             *        (ARG0*      -
+bc/msnbc/00/msnbc_0002   7   16      teacher    NN             *)   teacher   -   1    Sally           *             *      *         *             *             *)     -
+bc/msnbc/00/msnbc_0002   7   17        would    MD          (VP*         -    -   -    Sally           *             *      *         *             *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0002   7   18           do    VB          (VP*         do  02   1    Sally           *             *      *         *             *           (V*)     -
+bc/msnbc/00/msnbc_0002   7   19         this    DT          (NP*)        -    -   -    Sally           *             *      *         *             *        (ARG1*)     -
+bc/msnbc/00/msnbc_0002   7   20           to    IN          (PP*         -    -   -    Sally           *             *      *         *             *        (ARG2*      -
+bc/msnbc/00/msnbc_0002   7   21            a    DT          (NP*         -    -   -    Sally           *             *      *         *             *             *      -
+bc/msnbc/00/msnbc_0002   7   22        child    NN   *)))))))))))     child   -   1    Sally           *             *)     *         *             *)            *)     -
+bc/msnbc/00/msnbc_0002   7   23           /.     .            *))        -    -   -    Sally           *             *      *         *             *             *      -
+
+bc/msnbc/00/msnbc_0002   7    0        And    CC       (TOP(S*      -    -   -    Sally       *      *    (ARGM-DIS*)        *             *       -
+bc/msnbc/00/msnbc_0002   7    1         on    IN          (PP*      -    -   -    Sally       *      *    (ARGM-DIS*         *             *       -
+bc/msnbc/00/msnbc_0002   7    2        the    DT          (NP*      -    -   -    Sally       *      *             *         *             *       -
+bc/msnbc/00/msnbc_0002   7    3      other    JJ             *      -    -   -    Sally       *      *             *         *             *       -
+bc/msnbc/00/msnbc_0002   7    4       hand    NN            *))   hand   -   7    Sally       *      *             *)        *             *       -
+bc/msnbc/00/msnbc_0002   7    5         he   PRP          (NP*)     -    -   -    Sally       *      *        (ARG0*)        *             *     (47)
+bc/msnbc/00/msnbc_0002   7    6         's   VBZ          (VP*      be  03   -    Sally       *    (V*)            *         *             *       -
+bc/msnbc/00/msnbc_0002   7    7     saying   VBG          (VP*     say  01   1    Sally       *      *           (V*)        *             *       -
+bc/msnbc/00/msnbc_0002   7    8       that    IN        (SBAR*      -    -   -    Sally       *      *        (ARG1*         *             *       -
+bc/msnbc/00/msnbc_0002   7    9    because    IN      (S(SBAR*      -    -   -    Sally       *      *             *         *             *       -
+bc/msnbc/00/msnbc_0002   7   10        you   PRP    (PRN(S(NP*)     -    -   -    Sally       *      *             *    (ARG0*)            *       -
+bc/msnbc/00/msnbc_0002   7   11       know   VBP        (VP*)))   know  01   1    Sally       *      *             *       (V*)            *       -
+bc/msnbc/00/msnbc_0002   7   12         he   PRP        (S(NP*)     -    -   -    Sally       *      *             *         *        (ARG1*)   (175)
+bc/msnbc/00/msnbc_0002   7   13         's   VBZ          (VP*      be  01   1    Sally       *      *             *         *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   14        not    RB             *      -    -   -    Sally       *      *             *         *    (ARGM-NEG*)      -
+bc/msnbc/00/msnbc_0002   7   15      under    IN  (ADJP(NP(QP*      -    -   -    Sally       *      *             *         *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   7   16     twelve    CD             *)     -    -   -    Sally  (DATE*      *             *         *             *       -
+bc/msnbc/00/msnbc_0002   7   17      years   NNS             *)     -    -   -    Sally       *      *             *         *             *       -
+bc/msnbc/00/msnbc_0002   7   18        old    JJ      *))))))))     -    -   -    Sally       *)     *             *)        *             *)      -
+bc/msnbc/00/msnbc_0002   7   19         /.     .            *))     -    -   -    Sally       *      *             *         *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0     nobody    NN   (TOP(S(NP*)        -    -   -    Sally  *    (ARG0*)   (ARG0*)  -
+bc/msnbc/00/msnbc_0002   7   1      likes   VBZ         (VP*       like  01   2    Sally  *       (V*)        *   -
+bc/msnbc/00/msnbc_0002   7   2         to    TO       (S(VP*         -    -   -    Sally  *    (ARG1*         *   -
+bc/msnbc/00/msnbc_0002   7   3    testify    VB      (VP*))))   testify  01   1    Sally  *         *)      (V*)  -
+bc/msnbc/00/msnbc_0002   7   4         /.     .           *))        -    -   -    Sally  *         *         *   -
+
+bc/msnbc/00/msnbc_0002   7    0        even    RB   (TOP(S(ADVP*)        -    -   -    Sally  *    (ARGM-ADV*)     *             *        *   -
+bc/msnbc/00/msnbc_0002   7    1    referred   VBD           (VP*      refer  01   -    Sally  *           (V*)     *             *        *   -
+bc/msnbc/00/msnbc_0002   7    2          to    IN           (PP*         -    -   -    Sally  *        (ARG1*      *             *        *   -
+bc/msnbc/00/msnbc_0002   7    3      police   NNS         (S(NP*     police   -   -    Sally  *             *      *        (ARG0*   (ARG0*   -
+bc/msnbc/00/msnbc_0002   7    4    officers   NNS              *)   officer   -   3    Sally  *             *      *             *)       *)  -
+bc/msnbc/00/msnbc_0002   7    5          do   VBP           (VP*         do  01   -    Sally  *             *    (V*)            *        *   -
+bc/msnbc/00/msnbc_0002   7    6         n't    RB              *         -    -   -    Sally  *             *      *    (ARGM-NEG*)       *   -
+bc/msnbc/00/msnbc_0002   7    7        like    VB           (VP*       like  01   2    Sally  *             *      *           (V*)       *   -
+bc/msnbc/00/msnbc_0002   7    8          to    TO         (S(VP*         -    -   -    Sally  *             *      *        (ARG1*        *   -
+bc/msnbc/00/msnbc_0002   7    9     testify    VB    (VP*))))))))   testify  01   1    Sally  *             *)     *             *)     (V*)  -
+bc/msnbc/00/msnbc_0002   7   10          /.     .             *))        -    -   -    Sally  *             *      *             *        *   -
+
+bc/msnbc/00/msnbc_0002   7    0           so    RB   (TOP(S(ADVP*)     -    -   -    Sally  *         *             *         *       -
+bc/msnbc/00/msnbc_0002   7    1           um    UH         (INTJ*)     -    -   -    Sally  *         *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0002   7    2    basically    RB         (ADVP*)     -    -   -    Sally  *         *    (ARGM-ADV*)        *       -
+bc/msnbc/00/msnbc_0002   7    3           um    UH         (INTJ*)     -    -   -    Sally  *         *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0002   7    4          You   PRP     (PRN(S(NP*)     -    -   -    Sally  *    (ARG0*)   (ARGM-DIS*         *       -
+bc/msnbc/00/msnbc_0002   7    5         know   VBP         (VP*)))   know  01   1    Sally  *       (V*)            *)        *       -
+bc/msnbc/00/msnbc_0002   7    6           he   PRP           (NP*)     -    -   -    Sally  *         *        (ARG0*)   (ARG0*)   (175)
+bc/msnbc/00/msnbc_0002   7    7       needed   VBD           (VP*    need  01   2    Sally  *         *           (V*)        *       -
+bc/msnbc/00/msnbc_0002   7    8           to    TO         (S(VP*      -    -   -    Sally  *         *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0002   7    9           do    VB           (VP*      do  02   1    Sally  *         *             *       (V*)      -
+bc/msnbc/00/msnbc_0002   7   10         this    DT       (NP*)))))     -    -   -    Sally  *         *             *)   (ARG1*)     (1)
+bc/msnbc/00/msnbc_0002   7   11           /.     .             *))     -    -   -    Sally  *         *             *         *       -
+
+bc/msnbc/00/msnbc_0002   7    0          So     RB            (TOP(S(ADVP*)         -    -    -    Sally  *      *         *      *      *             *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7    1          um     UH                  (INTJ*)         -    -    -    Sally  *      *         *      *      *             *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7    2           I    PRP                    (NP*)         -    -    -    Sally  *      *    (ARG0*)     *      *             *      *             *             *         (58)
+bc/msnbc/00/msnbc_0002   7    3        have    VBP                    (VP*        have  02   12    Sally  *    (V*)        *      *      *             *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7    4          to     TO                  (S(VP*          -    -    -    Sally  *      *         *      *      *             *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7    5        tell     VB                    (VP*        tell  01    1    Sally  *      *       (V*)     *      *             *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7    6         you    PRP                    (NP*)         -    -    -    Sally  *      *    (ARG2*)     *      *             *      *             *             *        (167)
+bc/msnbc/00/msnbc_0002   7    7           I    PRP             (SBAR(S(NP*)         -    -    -    Sally  *      *    (ARG1*      *      *        (ARG1*)     *             *             *         (58)
+bc/msnbc/00/msnbc_0002   7    8         've    VBP                    (VP*        have  01   12    Sally  *      *         *    (V*)     *             *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7    9        just     RB                  (ADVP*)         -    -    -    Sally  *      *         *      *      *             *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7   10        been    VBN                    (VP*          be  03    -    Sally  *      *         *      *    (V*)            *      *             *             *           -
+bc/msnbc/00/msnbc_0002   7   11      mostly     RB                  (ADVP*)         -    -    -    Sally  *      *         *      *      *    (ARGM-EXT*)     *             *             *           -
+bc/msnbc/00/msnbc_0002   7   12     shocked    VBN                    (VP*       shock  01    -    Sally  *      *         *      *      *           (V*)     *             *             *           -
+bc/msnbc/00/msnbc_0002   7   13        that     IN                  (SBAR*          -    -    -    Sally  *      *         *      *      *        (ARG0*      *             *             *           -
+bc/msnbc/00/msnbc_0002   7   14         the     DT                  (S(NP*          -    -    -    Sally  *      *         *      *      *             *      *        (ARG1*      (R-ARG0*         (47
+bc/msnbc/00/msnbc_0002   7   15       judge     NN                       *)      judge   -    1    Sally  *      *         *      *      *             *      *             *)            *)         47)
+bc/msnbc/00/msnbc_0002   7   16      really     RB                  (ADVP*)         -    -    -    Sally  *      *         *      *      *             *      *    (ARGM-ADV*)            *           -
+bc/msnbc/00/msnbc_0002   7   17         did    VBD                    (VP*          do  01    -    Sally  *      *         *      *      *             *    (V*)            *             *           -
+bc/msnbc/00/msnbc_0002   7   18         not     RB                       *          -    -    -    Sally  *      *         *      *      *             *      *    (ARGM-NEG*)            *           -
+bc/msnbc/00/msnbc_0002   7   19      appear     VB                    (VP*      appear  02    1    Sally  *      *         *      *      *             *      *           (V*)            *           -
+bc/msnbc/00/msnbc_0002   7   20          to     TO                  (S(VP*          -    -    -    Sally  *      *         *      *      *             *      *      (C-ARG1*      (R-ARG0*           -
+bc/msnbc/00/msnbc_0002   7   21    consider     VB                    (VP*    consider  02    4    Sally  *      *         *      *      *             *      *             *           (V*)          -
+bc/msnbc/00/msnbc_0002   7   22          my   PRP$                    (NP*          -    -    -    Sally  *      *         *      *      *             *      *             *        (ARG1*    (175|(58)
+bc/msnbc/00/msnbc_0002   7   23         son     NN                       *)         -    -    -    Sally  *      *         *      *      *             *      *             *             *)        175)
+bc/msnbc/00/msnbc_0002   7   24          um     UH                  (INTJ*)         -    -    -    Sally  *      *         *      *      *             *      *             *    (ARGM-DIS*)          -
+bc/msnbc/00/msnbc_0002   7   25          at     RB                  (ADVP*          -    -    -    Sally  *      *         *      *      *             *      *             *    (ARGM-EXT*           -
+bc/msnbc/00/msnbc_0002   7   26         all     RB                       *)         -    -    -    Sally  *      *         *      *      *             *      *             *             *)          -
+bc/msnbc/00/msnbc_0002   7   27     through     IN                    (PP*          -    -    -    Sally  *      *         *      *      *             *      *             *    (ARGM-TMP*           -
+bc/msnbc/00/msnbc_0002   7   28        this     DT   (NP*))))))))))))))))))         -    -    -    Sally  *      *         *)     *      *             *)     *             *)           *))          -
+bc/msnbc/00/msnbc_0002   7   29          /.      .                      *))         -    -    -    Sally  *      *         *      *      *             *      *             *             *           -
+
+bc/msnbc/00/msnbc_0002   7    0         And     CC         (TOP(S*         -    -   -    Sally  *         *      *    (ARGM-DIS*)           *            *           *      -
+bc/msnbc/00/msnbc_0002   7    1     largely     RB          (ADVP*)        -    -   -    Sally  *         *      *    (ARGM-ADV*)           *            *           *      -
+bc/msnbc/00/msnbc_0002   7    2         you    PRP      (PRN(S(NP*)        -    -   -    Sally  *    (ARG0*)     *             *            *            *           *      -
+bc/msnbc/00/msnbc_0002   7    3        know    VBP          (VP*)))      know  01   1    Sally  *       (V*)     *             *            *            *           *      -
+bc/msnbc/00/msnbc_0002   7    4        that     DT            (NP*)        -    -   -    Sally  *         *      *             *       (ARG1*)           *           *      -
+bc/msnbc/00/msnbc_0002   7    5         was    VBD            (VP*         be  03   -    Sally  *         *    (V*)            *            *            *           *      -
+bc/msnbc/00/msnbc_0002   7    6        made    VBN            (VP*       make  02   3    Sally  *         *      *           (V*)           *            *           *      -
+bc/msnbc/00/msnbc_0002   7    7       known    VBN          (S(VP*       know  01   -    Sally  *         *      *        (ARG1*          (V*)           *           *      -
+bc/msnbc/00/msnbc_0002   7    8     through     IN            (PP*         -    -   -    Sally  *         *      *             *   (ARGM-MNR*            *           *      -
+bc/msnbc/00/msnbc_0002   7    9         his   PRP$         (NP(NP*         -    -   -    Sally  *         *      *             *            *            *           *    (47)
+bc/msnbc/00/msnbc_0002   7   10    comments    NNS               *)   comment   -   1    Sally  *         *      *             *            *            *           *      -
+bc/msnbc/00/msnbc_0002   7   11         and     CC               *         -    -   -    Sally  *         *      *             *            *            *           *      -
+bc/msnbc/00/msnbc_0002   7   12         his   PRP$         (NP(NP*         -    -   -    Sally  *         *      *             *            *       (ARG0*)     (ARG1*    (47)
+bc/msnbc/00/msnbc_0002   7   13       order     NN               *)     order  01   1    Sally  *         *      *             *            *          (V*)          *)     -
+bc/msnbc/00/msnbc_0002   7   14        that    WDT     (SBAR(WHNP*)        -    -   -    Sally  *         *      *             *            *   (ARGM-ADJ*    (R-ARG1*)     -
+bc/msnbc/00/msnbc_0002   7   15          he    PRP          (S(NP*)        -    -   -    Sally  *         *      *             *            *            *      (ARG0*)   (47)
+bc/msnbc/00/msnbc_0002   7   16      issued    VBD   (VP*))))))))))     issue  01   1    Sally  *         *      *             *)           *)           *)        (V*)     -
+bc/msnbc/00/msnbc_0002   7   17          /.      .              *))        -    -   -    Sally  *         *      *             *            *            *           *      -
+
+bc/msnbc/00/msnbc_0002   7    0           You    PRP     (TOP(S(PRN(S(NP*)          -    -   -    Dan_Abrams       *    (ARG0*)     *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    1          know    VBP               (VP*)))        know  01   1    Dan_Abrams       *       (V*)     *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    2          look     VB               (INTJ*)        look  09   1    Dan_Abrams       *         *    (V*)   (ARGM-DIS*)        *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    3             I    PRP                 (NP*)          -    -   -    Dan_Abrams       *         *      *        (ARG0*)        *      *        *      *         *      *        *      *        *            *        (167)
+bc/msnbc/00/msnbc_0002   7    4          made    VBD                 (VP*         make   -   1    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    5             a     DT              (NP(NP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    6           lot     NN                    *)         lot   -   1    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    7            of     IN                 (PP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    8      comments    NNS           (NP(NP*))))     comment   -   1    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7    9     yesterday     NN                 (NP*)   yesterday   -   1    Dan_Abrams   (DATE)        *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   10            on     IN                 (PP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   11          this     DT                 (NP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *         (84
+bc/msnbc/00/msnbc_0002   7   12       program     NN                   *))     program   -   2    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *          84)
+bc/msnbc/00/msnbc_0002   7   13        saying    VBG                 (VP*          say  01   1    Dan_Abrams       *         *      *           (V*)        *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   14          that     IN               (SBAR*           -    -   -    Dan_Abrams       *         *      *        (ARG1*         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   15             I    PRP               (S(NP*)          -    -   -    Dan_Abrams       *         *      *             *    (ARG0*)     *        *      *         *      *        *      *        *            *        (167)
+bc/msnbc/00/msnbc_0002   7   16       thought    VBD                 (VP*        think  01   1    Dan_Abrams       *         *      *             *       (V*)     *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   17          that     IN               (SBAR*           -    -   -    Dan_Abrams       *         *      *             *    (ARG1*      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   18             a     DT            (S(NP(NP*           -    -   -    Dan_Abrams       *         *      *             *         *      *   (ARG0*      *         *      *   (ARG0*      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   19           lot     NN                    *)         lot   -   1    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   20            of     IN                 (PP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   21        people    NNS               (NP*)))      people   -   1    Dan_Abrams       *         *      *             *         *      *        *)     *         *      *        *)     *        *            *           -
+bc/msnbc/00/msnbc_0002   7   22          were    VBD              (VP(VP*           be  03   -    Dan_Abrams       *         *      *             *         *    (V*)       *      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   23     demanding    VBG                 (VP*       demand  01   1    Dan_Abrams       *         *      *             *         *      *      (V*)     *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   24          that     IN               (SBAR*           -    -   -    Dan_Abrams       *         *      *             *         *      *   (ARG1*      *         *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   25           she    PRP               (S(NP*)          -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *    (ARG1*)     *        *      *        *            *        (100)
+bc/msnbc/00/msnbc_0002   7   26            be     VB                 (VP*           be  03   -    Dan_Abrams       *         *      *             *         *      *        *    (V*)        *      *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   27    prosecuted    VBN            (VP*))))))   prosecute  01   1    Dan_Abrams       *         *      *             *         *      *        *)     *       (V*)     *        *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   28          Were    VBD                 (VP*           be  03   -    Dan_Abrams       *         *      *             *         *      *        *      *         *    (V*)       *      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   29    suggesting    VBG                 (VP*      suggest  01   1    Dan_Abrams       *         *      *             *         *      *        *      *         *      *      (V*)     *        *            *           -
+bc/msnbc/00/msnbc_0002   7   30          that     IN               (SBAR*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *   (ARG1*      *        *            *           -
+bc/msnbc/00/msnbc_0002   7   31          your   PRP$               (S(NP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *   (ARG1*       (ARG0*    (175|(58)
+bc/msnbc/00/msnbc_0002   7   32           son     NN                    *)          -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *)           *)        175)
+bc/msnbc/00/msnbc_0002   7   33            be     VB                 (VP*           be  03   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *    (V*)       *            *           -
+bc/msnbc/00/msnbc_0002   7   34        forced    VBN                 (VP*        force  01   1    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *      (V*)           *           -
+bc/msnbc/00/msnbc_0002   7   35            to     TO               (S(VP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *   (ARG2*            *           -
+bc/msnbc/00/msnbc_0002   7   36       testify     VB                    *      testify  01   1    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *          (V*)          -
+bc/msnbc/00/msnbc_0002   7   37            in     IN                 (PP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *   (ARGM-LOC*           -
+bc/msnbc/00/msnbc_0002   7   38          this     DT                 (NP*           -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *        (163
+bc/msnbc/00/msnbc_0002   7   39          case     NN   *))))))))))))))))))        case   -   2    Dan_Abrams       *         *      *             *)        *)     *        *      *         *      *        *)     *        *)           *)        163)
+bc/msnbc/00/msnbc_0002   7   40            /.      .                   *))          -    -   -    Dan_Abrams       *         *      *             *         *      *        *      *         *      *        *      *        *            *           -
+
+bc/msnbc/00/msnbc_0002   7    0          And    CC          (TOP(S*         -    -    -    Dan_Abrams  *      *    (ARGM-DIS*)            *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    1            I   PRP             (NP*)        -    -    -    Dan_Abrams  *      *        (ARG0*)            *            *          *      *         *         *      *             *         *      *      *            *    (167)
+bc/msnbc/00/msnbc_0002   7    2          was   VBD             (VP*         be  03    -    Dan_Abrams  *    (V*)            *             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    3       saying   VBG             (VP*        say  01    1    Dan_Abrams  *      *           (V*)            *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    4         that    IN           (SBAR*         -    -    -    Dan_Abrams  *      *        (ARG1*             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    5          the    DT        (S(NP(NP*         -    -    -    Dan_Abrams  *      *             *        (ARG1*            *          *      *         *         *      *        (ARG0*         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    6         same    JJ                *         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    7       people   NNS                *)    people   -    1    Dan_Abrams  *      *             *             *)           *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    8          who    WP      (SBAR(WHNP*)        -    -    -    Dan_Abrams  *      *             *      (R-ARG1*)      (ARG0*)    (ARG0*)     *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7    9          are   VBP           (S(VP*         be  01    -    Dan_Abrams  *      *             *           (V*)           *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   10      usually    RB           (ADVP*)        -    -    -    Dan_Abrams  *      *             *    (ARGM-ADV*)           *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   11          out    RB           (ADVP*         -    -    -    Dan_Abrams  *      *             *        (ARG2*            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   12        there    RB                *)        -    -    -    Dan_Abrams  *      *             *             *)           *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   13      yelling   VBG           (S(VP*       yell  01    1    Dan_Abrams  *      *             *    (ARGM-ADV*          (V*)         *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   14          and    CC                *         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   15    screaming   VBG                *     scream  01    1    Dan_Abrams  *      *             *             *            *        (V*)     *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   16          for    IN             (PP*         -    -    -    Dan_Abrams  *      *             *             *   (ARGM-ADV*     (ARG1*      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   17          the    DT             (NP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *    (157
+bc/msnbc/00/msnbc_0002   7   18      victims   NNS               *))    victim   -    1    Dan_Abrams  *      *             *             *            *)         *)     *         *         *      *             *         *      *      *            *     157)
+bc/msnbc/00/msnbc_0002   7   19           we   PRP       (PRN(S(NP*)        -    -    -    Dan_Abrams  *      *             *             *       (ARG1*   (C-ARG1*      *    (ARG0*)   (ARG0*)     *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   20          've   VBP             (VP*       have  01   12    Dan_Abrams  *      *             *             *            *          *    (V*)        *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   21          got   VBN             (VP*        get  06    -    Dan_Abrams  *      *             *             *            *          *      *       (V*)        *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   22           to    TO           (S(VP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *    (ARG1*         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   23      protect    VB             (VP*    protect  01    1    Dan_Abrams  *      *             *             *            *          *      *         *       (V*)     *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   24          the    DT             (NP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *    (ARG1*      *             *         *      *      *            *    (157
+bc/msnbc/00/msnbc_0002   7   25      victims   NNS   *))))))))))))))    victim   -    1    Dan_Abrams  *      *             *             *)           *)         *)     *         *)        *)     *             *)        *      *      *            *     157)
+bc/msnbc/00/msnbc_0002   7   26          are   VBP             (VP*         be  03    -    Dan_Abrams  *      *             *             *            *          *      *         *         *    (V*)            *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   27     suddenly    RB           (ADVP*)        -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *    (ARGM-TMP*)        *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   28       saying   VBG             (VP*        say  01    1    Dan_Abrams  *      *             *             *            *          *      *         *         *      *           (V*)        *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   29           oh    UH         (S(INTJ*)        -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *        (ARG1*         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   30          you   PRP       (PRN(S(NP*)        -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *    (ARG0*)     *      *            *       -
+bc/msnbc/00/msnbc_0002   7   31         know   VBP           (VP*)))      know  01    1    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *       (V*)     *      *            *       -
+bc/msnbc/00/msnbc_0002   7   32         well    UH           (INTJ*)        -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   33           We   PRP             (NP*)        -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *       (ARG0*)      -
+bc/msnbc/00/msnbc_0002   7   34           do   VBP             (VP*         do  01    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *    (V*)     *            *       -
+bc/msnbc/00/msnbc_0002   7   35          n't    RB                *         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   36       really    RB           (ADVP*)        -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   37         have    VB             (VP*       have  02   12    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *    (V*)           *       -
+bc/msnbc/00/msnbc_0002   7   38           to    TO           (S(VP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *       -
+bc/msnbc/00/msnbc_0002   7   39        worry    VB             (VP*      worry  02    1    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *          (V*)      -
+bc/msnbc/00/msnbc_0002   7   40        about    IN             (PP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *       (ARG1*       -
+bc/msnbc/00/msnbc_0002   7   41          the    DT             (NP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *    (175
+bc/msnbc/00/msnbc_0002   7   42       victim    NN               *))    victim   -    1    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *)    175)
+bc/msnbc/00/msnbc_0002   7   43           in    IN             (PP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *   (ARGM-LOC*       -
+bc/msnbc/00/msnbc_0002   7   44         this    DT             (NP*         -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *    (163
+bc/msnbc/00/msnbc_0002   7   45         case    NN   *))))))))))))))      case   -    2    Dan_Abrams  *      *             *)            *            *          *      *         *         *      *             *)        *      *      *            *)    163)
+bc/msnbc/00/msnbc_0002   7   46           /.     .               *))        -    -    -    Dan_Abrams  *      *             *             *            *          *      *         *         *      *             *         *      *      *            *       -
+
+bc/msnbc/00/msnbc_0002   7   0    Exactly   RB  (TOP(ADVP*   -   -   -    Sally  *   -
+bc/msnbc/00/msnbc_0002   7   1         /.    .          *))  -   -   -    Sally  *   -
+
+bc/msnbc/00/msnbc_0002   7    0       and    CC          (TOP(S*       -    -   -    Sally  *        *           *            *       -
+bc/msnbc/00/msnbc_0002   7    1     there    EX             (NP*)      -    -   -    Sally  *        *           *            *       -
+bc/msnbc/00/msnbc_0002   7    2       was   VBD             (VP*       be  02   3    Sally  *      (V*)          *            *       -
+bc/msnbc/00/msnbc_0002   7    3        no    DT          (NP(NP*       -    -   -    Sally  *   (ARG1*      (ARG0*            *       -
+bc/msnbc/00/msnbc_0002   7    4       one    NN                *)     one   -   2    Sally  *        *           *)           *       -
+bc/msnbc/00/msnbc_0002   7    5      that   WDT      (SBAR(WHNP*)      -    -   -    Sally  *        *    (R-ARG0*)           *       -
+bc/msnbc/00/msnbc_0002   7    6    wanted   VBD           (S(VP*     want  01   1    Sally  *        *         (V*)           *       -
+bc/msnbc/00/msnbc_0002   7    7       her   PRP           (S(NP*)      -    -   -    Sally  *        *      (ARG1*       (ARG0*)   (100)
+bc/msnbc/00/msnbc_0002   7    8        to    TO             (VP*       -    -   -    Sally  *        *           *            *       -
+bc/msnbc/00/msnbc_0002   7    9     serve    VB             (VP*    serve  01   5    Sally  *        *           *          (V*)      -
+bc/msnbc/00/msnbc_0002   7   10    prison    NN             (NP*       -    -   -    Sally  *        *           *       (ARG1*       -
+bc/msnbc/00/msnbc_0002   7   11      time    NN                *)    time   -   -    Sally  *        *           *            *)      -
+bc/msnbc/00/msnbc_0002   7   12      more   RBR      (ADVP(ADVP*)      -    -   -    Sally  *        *           *   (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0002   7   13      than    IN             (PP*       -    -   -    Sally  *        *           *            *       -
+bc/msnbc/00/msnbc_0002   7   14    myself   PRP   (NP*)))))))))))      -    -   -    Sally  *        *)          *)           *)    (58)
+bc/msnbc/00/msnbc_0002   7   15        /.     .               *))      -    -   -    Sally  *        *           *            *       -
+
+bc/msnbc/00/msnbc_0002   7   0    And    CC  (TOP(S*   -   -   -    Sally  *       -
+bc/msnbc/00/msnbc_0002   7   1     uh    UH   (INTJ*)  -   -   -    Sally  *       -
+bc/msnbc/00/msnbc_0002   7   2     we   PRP     (NP*)  -   -   -    Sally  *    (168)
+bc/msnbc/00/msnbc_0002   7   3    /-      .       *))  -   -   -    Sally  *       -
+
+bc/msnbc/00/msnbc_0002   7    0          You    PRP   (TOP(S(PRN(S(NP*)      -    -   -    Sally  *    (ARG0*)  (ARGM-DIS*             *       -
+bc/msnbc/00/msnbc_0002   7    1         know    VBP             (VP*)))    know  01   1    Sally  *       (V*)           *)            *       -
+bc/msnbc/00/msnbc_0002   7    2         that     DT               (NP*)      -    -   -    Sally  *         *       (ARG1*)            *       -
+bc/msnbc/00/msnbc_0002   7    3          was    VBD               (VP*       be  01   2    Sally  *         *          (V*)            *       -
+bc/msnbc/00/msnbc_0002   7    4          our   PRP$            (NP(NP*       -    -   -    Sally  *         *       (ARG2*        (ARG1*    (168)
+bc/msnbc/00/msnbc_0002   7    5     original     JJ                  *       -    -   -    Sally  *         *            *             *       -
+bc/msnbc/00/msnbc_0002   7    6         plea     NN                  *       -    -   -    Sally  *         *            *             *       -
+bc/msnbc/00/msnbc_0002   7    7    agreement     NN                  *)      -    -   -    Sally  *         *            *             *)      -
+bc/msnbc/00/msnbc_0002   7    8         that    WDT        (SBAR(WHNP*)      -    -   -    Sally  *         *            *      (R-ARG1*)      -
+bc/msnbc/00/msnbc_0002   7    9           we    PRP             (S(NP*)      -    -   -    Sally  *         *            *        (ARG0*)   (168)
+bc/msnbc/00/msnbc_0002   7   10      offered    VBD               (VP*    offer  01   3    Sally  *         *            *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   11           to     IN               (PP*       -    -   -    Sally  *         *            *        (ARG3*       -
+bc/msnbc/00/msnbc_0002   7   12         them    PRP              (NP*))      -    -   -    Sally  *         *            *             *)      -
+bc/msnbc/00/msnbc_0002   7   13           um     UH        (INTJ*))))))      -    -   -    Sally  *         *            *)   (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7   14           /.      .                 *))      -    -   -    Sally  *         *            *             *       -
+
+bc/msnbc/00/msnbc_0002   7    0         But    CC    (TOP(FRAG*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    1          at    IN      (UCP(PP*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    2         the    DT       (NP(NP*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    3         end    NN             *)      end  01   3    Sally       *      (V*)        *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    4          of    IN          (PP*        -    -   -    Sally       *   (ARG1*         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    5         the    DT          (NP*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    6         day    NN          *))))      day   -   3    Sally       *        *)        *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    7         and    CC             *        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    8          as    IN        (SBAR*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7    9          it   PRP        (S(NP*)       -    -   -    Sally       *        *    (ARG1*)     *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   10         got   VBD          (VP*       get  03   3    Sally       *        *       (V*)     *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   11      closer   JJR        (ADJP*        -    -   -    Sally       *        *    (ARG2*      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   12          to    IN          (PP*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   13         the    DT          (NP*        -    -   -    Sally       *        *         *      *            *         *      *        *    (6
+bc/msnbc/00/msnbc_0002   7   14       trial    NN       *)))))))    trial  02   3    Sally       *        *         *)   (V*)           *         *      *        *     6)
+bc/msnbc/00/msnbc_0002   7   15          we   PRP        (S(NP*)       -    -   -    Sally       *        *         *      *       (ARG1*)        *      *        *     -
+bc/msnbc/00/msnbc_0002   7   16        were   VBD          (VP*        be  01   1    Sally       *        *         *      *          (V*)        *      *        *     -
+bc/msnbc/00/msnbc_0002   7   17         you   PRP    (PRN(S(NP*)       -    -   -    Sally       *        *         *      *   (ARGM-DIS*    (ARG0*)     *        *     -
+bc/msnbc/00/msnbc_0002   7   18        know   VBP        (VP*)))     know  01   1    Sally       *        *         *      *            *)      (V*)     *        *     -
+bc/msnbc/00/msnbc_0002   7   19        less   RBR     (PP(ADVP*        -    -   -    Sally  (DATE*        *         *      *       (ARG2*         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   20        than    IN          (PP*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   21           a    DT          (NP*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   22        week    NN           *)))       -    -   -    Sally       *)       *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   23      before    IN             *        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   24       trial    NN       (NP*))))    trial  02   3    Sally       *        *         *      *            *)        *    (V*)       *    (6)
+bc/msnbc/00/msnbc_0002   7   25           ,     ,             *        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   26        that    IN        (SBAR*        -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   27          uh    UH        (INTJ*)       -    -   -    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   28         the    DT        (S(NP*        -    -   -    Sally       *        *         *      *            *         *      *   (ARG0*   (82
+bc/msnbc/00/msnbc_0002   7   29       court    NN             *     court   -   2    Sally       *        *         *      *            *         *      *        *     -
+bc/msnbc/00/msnbc_0002   7   30          tv    NN             *)       -    -   -    Sally       *        *         *      *            *         *      *        *)   82)
+bc/msnbc/00/msnbc_0002   7   31    refusing   VBG          (VP*    refuse  01   1    Sally       *        *         *      *            *         *      *      (V*)    -
+bc/msnbc/00/msnbc_0002   7   32          to    TO        (S(VP*        -    -   -    Sally       *        *         *      *            *         *      *   (ARG1*     -
+bc/msnbc/00/msnbc_0002   7   33          um    UH   (INTJ*))))))       -    -   -    Sally       *        *         *      *            *         *      *        *)    -
+bc/msnbc/00/msnbc_0002   7   34         /-      .            *))       -    -   -    Sally       *        *         *      *            *         *      *        *     -
+
+bc/msnbc/00/msnbc_0002   7    0         Which    WDT   (TOP(SBAR(WHNP*)       -    -   -    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7    1    originally     RB          (S(ADVP*)       -    -   -    Sally  *      *    (ARGM-TMP*)            *      *             *           -
+bc/msnbc/00/msnbc_0002   7    2          they    PRP              (NP*)       -    -   -    Sally  *      *        (ARG0*)            *      *             *         (82)
+bc/msnbc/00/msnbc_0002   7    3           had    VBD              (VP*      have  01   -    Sally  *    (V*)            *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7    4          said    VBN              (VP*       say  01   1    Sally  *      *           (V*)            *      *             *           -
+bc/msnbc/00/msnbc_0002   7    5          they    PRP     (SBAR(S(S(NP*)       -    -   -    Sally  *      *        (ARG1*        (ARG0*)     *             *         (82)
+bc/msnbc/00/msnbc_0002   7    6         would     MD              (VP*        -    -   -    Sally  *      *             *    (ARGM-MOD*)     *             *           -
+bc/msnbc/00/msnbc_0002   7    7            do     VB              (VP*        do  02   1    Sally  *      *             *           (V*)     *             *           -
+bc/msnbc/00/msnbc_0002   7    8             a     DT              (NP*        -    -   -    Sally  *      *             *        (ARG1*      *             *           -
+bc/msnbc/00/msnbc_0002   7    9         delay     NN              *))))    delay  01   2    Sally  *      *             *             *)   (V*)            *           -
+bc/msnbc/00/msnbc_0002   7   10           and     CC                 *        -    -   -    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   11          they    PRP            (S(NP*)       -    -   -    Sally  *      *             *             *      *        (ARG0*)        (82)
+bc/msnbc/00/msnbc_0002   7   12         would     MD              (VP*        -    -   -    Sally  *      *             *             *      *    (ARGM-MOD*)          -
+bc/msnbc/00/msnbc_0002   7   13        shadow     VB              (VP*    shadow  01   2    Sally  *      *             *             *      *           (V*)          -
+bc/msnbc/00/msnbc_0002   7   14            my   PRP$           (NP(NP*        -    -   -    Sally  *      *             *             *      *        (ARG1*         (58)
+bc/msnbc/00/msnbc_0002   7   15          face     NN                 *)     face   -   1    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   16           and     CC                 *        -    -   -    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   17           the     DT              (NP*        -    -   -    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   18        family     NN                 *    family   -   1    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   19       members    NNS                 *)   member   -   1    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   20            as     RB           (CONJP*        -    -   -    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   21          well     RB                 *        -    -   -    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   22            as     IN                 *)       -    -   -    Sally  *      *             *             *      *             *           -
+bc/msnbc/00/msnbc_0002   7   23            my   PRP$              (NP*        -    -   -    Sally  *      *             *             *      *             *    (175|(58)
+bc/msnbc/00/msnbc_0002   7   24           son     NN        *))))))))))       -    -   -    Sally  *      *             *)            *      *             *)        175)
+bc/msnbc/00/msnbc_0002   7   25            /.      .                *))       -    -   -    Sally  *      *             *             *      *             *           -
+
+bc/msnbc/00/msnbc_0002   7    0       Well     UH   (TOP(S(INTJ*)      -    -   -    Sally  *      *      *    (ARGM-DIS*)     *        *           -
+bc/msnbc/00/msnbc_0002   7    1    without     IN           (PP*       -    -   -    Sally  *      *      *    (ARGM-ADV*      *        *           -
+bc/msnbc/00/msnbc_0002   7    2          a     DT           (NP*       -    -   -    Sally  *      *      *             *      *        *           -
+bc/msnbc/00/msnbc_0002   7    3      delay     NN             *))   delay  01   2    Sally  *    (V*)     *             *)     *        *           -
+bc/msnbc/00/msnbc_0002   7    4         My   PRP$        (NP(NP*       -    -   -    Sally  *      *      *        (ARG1*      *   (ARG1*    (175|(58)
+bc/msnbc/00/msnbc_0002   7    5        son     NN              *       -    -   -    Sally  *      *      *             *      *        *           -
+bc/msnbc/00/msnbc_0002   7    6         's    POS              *)      -    -   -    Sally  *      *      *             *      *        *         175)
+bc/msnbc/00/msnbc_0002   7    7       name     NN              *)    name   -   1    Sally  *      *      *             *)     *        *)          -
+bc/msnbc/00/msnbc_0002   7    8      would     MD           (VP*       -    -   -    Sally  *      *      *    (ARGM-MOD*)     *        *           -
+bc/msnbc/00/msnbc_0002   7    9       have     VB           (VP*     have  01   -    Sally  *      *    (V*)            *      *        *           -
+bc/msnbc/00/msnbc_0002   7   10      ended    VBD           (VP*      end  03   4    Sally  *      *      *           (V*)     *        *           -
+bc/msnbc/00/msnbc_0002   7   11         up     RP          (PRT*)      -    -   -    Sally  *      *      *             *      *        *           -
+bc/msnbc/00/msnbc_0002   7   12      being    VBG         (S(VP*       be  03   -    Sally  *      *      *        (ARG2*    (V*)       *           -
+bc/msnbc/00/msnbc_0002   7   13       said    VBN      (VP*))))))     say  01   1    Sally  *      *      *             *)     *      (V*)          -
+bc/msnbc/00/msnbc_0002   7   14         /.      .             *))      -    -   -    Sally  *      *      *             *      *        *           -
+
+bc/msnbc/00/msnbc_0002   7    0           um    UH   (TOP(S(INTJ*)        -    -   -    Sally           *         *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0002   7    1          You   PRP     (PRN(S(NP*)        -    -   -    Sally           *    (ARG0*)            *   -
+bc/msnbc/00/msnbc_0002   7    2         know   VBP         (VP*)))      know  01   1    Sally           *       (V*)            *   -
+bc/msnbc/00/msnbc_0002   7    3         with    IN           (PP*         -    -   -    Sally           *         *    (ARGM-ADV*   -
+bc/msnbc/00/msnbc_0002   7    4       thirty    CD        (NP(QP*         -    -   -    Sally   (CARDINAL)        *             *   -
+bc/msnbc/00/msnbc_0002   7    5        forty    CD              *)        -    -   -    Sally   (CARDINAL)        *             *   -
+bc/msnbc/00/msnbc_0002   7    6    witnesses   NNS             *))   witness   -   -    Sally           *         *             *)  -
+bc/msnbc/00/msnbc_0002   7    7          you   PRP           (NP*)        -    -   -    Sally           *         *        (ARG0*)  -
+bc/msnbc/00/msnbc_0002   7    8           ca    MD           (VP*         -    -   -    Sally           *         *    (ARGM-MOD*)  -
+bc/msnbc/00/msnbc_0002   7    9          n't    RB              *         -    -   -    Sally           *         *    (ARGM-NEG*)  -
+bc/msnbc/00/msnbc_0002   7   10         help    VB           (VP*       help  02   3    Sally           *         *           (V*)  -
+bc/msnbc/00/msnbc_0002   7   11           it   PRP         (NP*)))        -    -   -    Sally           *         *        (ARG1*)  -
+bc/msnbc/00/msnbc_0002   7   12           /.     .             *))        -    -   -    Sally           *         *             *   -
+
+bc/msnbc/00/msnbc_0002   7    0           And    CC   (TOP(FRAG*           -    -   -    Sally  *         *             *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7    1            um    UH       (INTJ*)          -    -   -    Sally  *         *             *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7    2           you   PRP   (PRN(S(NP*)          -    -   -    Sally  *    (ARG0*)            *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7    3          know   VBP       (VP*)))        know  01   1    Sally  *       (V*)            *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7    4          just    RB     (S(ADVP*)          -    -   -    Sally  *         *    (ARGM-ADV*)            *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7    5        having   VBG         (VP*         have  04   6    Sally  *         *           (V*)            *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7    6           all    DT    (S(NP(NP*)          -    -   -    Sally  *         *        (ARG1*        (ARG1*      *       (ARG1*   (ARG1*      *   -
+bc/msnbc/00/msnbc_0002   7    7            of    IN         (PP*           -    -   -    Sally  *         *             *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7    8          this    DT       (NP*)))          -    -   -    Sally  *         *             *             *)     *            *)       *)     *   -
+bc/msnbc/00/msnbc_0002   7    9         aired   VBN      (VP(VP*          air  01   2    Sally  *         *             *           (V*)     *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7   10          live    RB      (ADVP*))          -    -   -    Sally  *         *             *    (ARGM-MNR*)     *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7   11           and    CC            *           -    -   -    Sally  *         *             *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7   12         being   VBG         (VP*           be  03   -    Sally  *         *             *             *    (V*)           *        *      *   -
+bc/msnbc/00/msnbc_0002   7   13       debated   VBN         (VP*       debate  01   1    Sally  *         *             *             *      *          (V*)       *      *   -
+bc/msnbc/00/msnbc_0002   7   14           and    CC            *           -    -   -    Sally  *         *             *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7   15    re-debated   VBN            *)   re-debate  01   -    Sally  *         *             *             *      *            *      (V*)     *   -
+bc/msnbc/00/msnbc_0002   7   16         every    DT      (NP(NP*           -    -   -    Sally  *         *             *             *      *   (ARGM-PRD*        *      *   -
+bc/msnbc/00/msnbc_0002   7   17     statement    NN            *)   statement  01   3    Sally  *         *             *             *      *            *        *    (V*)  -
+bc/msnbc/00/msnbc_0002   7   18         every    DT         (NP*           -    -   -    Sally  *         *             *             *      *            *        *      *   -
+bc/msnbc/00/msnbc_0002   7   19       comment    NN      *)))))))     comment   -   1    Sally  *         *             *)            *      *            *)       *      *   -
+bc/msnbc/00/msnbc_0002   7   20            /.     .           *))          -    -   -    Sally  *         *             *             *      *            *        *      *   -
+
+bc/msnbc/00/msnbc_0002   7    0         And    CC      (TOP(S*          -    -   -    Sally           *         *         *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0002   7    1          as    IN       (SBAR*          -    -   -    Sally           *         *         *    (ARGM-ADV*      -
+bc/msnbc/00/msnbc_0002   7    2           I   PRP       (S(NP*)         -    -   -    Sally           *    (ARG0*)        *             *    (58)
+bc/msnbc/00/msnbc_0002   7    3        know   VBP       (VP*)))       know  01   1    Sally           *       (V*)        *             *)     -
+bc/msnbc/00/msnbc_0002   7    4         you   PRP   (PRN(S(NP*)         -    -   -    Sally           *         *    (ARG0*)   (ARGM-DIS*      -
+bc/msnbc/00/msnbc_0002   7    5        know   VBP       (VP*)))       know  01   1    Sally           *         *       (V*)            *)     -
+bc/msnbc/00/msnbc_0002   7    6         you   PRP         (NP*)         -    -   -    Sally           *         *         *        (ARG0*)     -
+bc/msnbc/00/msnbc_0002   7    7         can    MD         (VP*          -    -   -    Sally           *         *         *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0002   7    8         say    VB         (VP*         say  01   1    Sally           *         *         *           (V*)     -
+bc/msnbc/00/msnbc_0002   7    9         one    CD         (NP*          -    -   -    Sally   (CARDINAL)        *         *        (ARG1*    (71
+bc/msnbc/00/msnbc_0002   7   10    sentence    NN          *)))   sentence   -   1    Sally           *         *         *             *)    71)
+bc/msnbc/00/msnbc_0002   7   11          /.     .           *))         -    -   -    Sally           *         *         *             *      -
+
+bc/msnbc/00/msnbc_0002   7   0        and    CC    (TOP(S*      -    -   -    Sally  *      *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0002   7   1         it   PRP       (NP*)     -    -   -    Sally  *      *        (ARG1*)   (71)
+bc/msnbc/00/msnbc_0002   7   2         's   VBZ       (VP*      be  03   1    Sally  *    (V*)            *      -
+bc/msnbc/00/msnbc_0002   7   3       many    JJ       (NP*      -    -   -    Sally  *      *    (ARGM-TMP*      -
+bc/msnbc/00/msnbc_0002   7   4      times   NNS          *)   time   -   1    Sally  *      *             *)     -
+bc/msnbc/00/msnbc_0002   7   5      taken   VBN       (VP*    take  01   -    Sally  *      *           (V*)     -
+bc/msnbc/00/msnbc_0002   7   6        out    IN       (PP*      -    -   -    Sally  *      *        (ARG2*      -
+bc/msnbc/00/msnbc_0002   7   7         of    IN       (PP*      -    -   -    Sally  *      *             *      -
+bc/msnbc/00/msnbc_0002   7   8    context    NN   (NP*)))))     -    -   -    Sally  *      *             *)     -
+bc/msnbc/00/msnbc_0002   7   9         /.     .         *))     -    -   -    Sally  *      *             *      -
+
+bc/msnbc/00/msnbc_0002   7    0               So     RB   (TOP(S(ADVP*)             -    -   -    Sally  *        *    (ARGM-DIS*)        *             *        *           -
+bc/msnbc/00/msnbc_0002   7    1               um     UH         (INTJ*)             -    -   -    Sally  *        *    (ARGM-DIS*)        *             *        *           -
+bc/msnbc/00/msnbc_0002   7    2               at     IN           (PP*              -    -   -    Sally  *        *    (ARGM-TMP*         *             *        *           -
+bc/msnbc/00/msnbc_0002   7    3              the     DT        (NP(NP*              -    -   -    Sally  *        *             *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7    4              end     NN              *)            end  01   3    Sally  *      (V*)            *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7    5               of     IN           (PP*              -    -   -    Sally  *   (ARG1*             *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7    6              the     DT           (NP*              -    -   -    Sally  *        *             *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7    7              day     NN           *))))            day   -   3    Sally  *        *)            *)        *             *        *           -
+bc/msnbc/00/msnbc_0002   7    8                I    PRP           (NP*)             -    -   -    Sally  *        *        (ARG1*)   (ARG0*)            *        *         (58)
+bc/msnbc/00/msnbc_0002   7    9            could     MD           (VP*              -    -   -    Sally  *        *    (ARGM-MOD*)        *             *        *           -
+bc/msnbc/00/msnbc_0002   7   10              n't     RB              *              -    -   -    Sally  *        *    (ARGM-NEG*)        *             *        *           -
+bc/msnbc/00/msnbc_0002   7   11             move     VB           (VP*            move  01   2    Sally  *        *           (V*)        *             *        *           -
+bc/msnbc/00/msnbc_0002   7   12          forward     RB         (ADVP*)             -    -   -    Sally  *        *    (ARGM-DIR*)        *             *        *           -
+bc/msnbc/00/msnbc_0002   7   13             with     IN        (PP(PP*              -    -   -    Sally  *        *        (ARG1*         *             *        *           -
+bc/msnbc/00/msnbc_0002   7   14             that     DT          (NP*))             -    -   -    Sally  *        *             *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7   15               uh     UH         (INTJ*)             -    -   -    Sally  *        *             *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7   16               to     IN           (PP*              -    -   -    Sally  *        *             *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7   17          forcing    VBG      (S(VP(VP*           force  01   2    Sally  *        *             *       (V*)            *        *           -
+bc/msnbc/00/msnbc_0002   7   18              her    PRP           (NP*)             -    -   -    Sally  *        *             *    (ARG1*)            *        *        (100)
+bc/msnbc/00/msnbc_0002   7   19               to     IN           (PP*              -    -   -    Sally  *        *             *    (ARG2*             *        *           -
+bc/msnbc/00/msnbc_0002   7   20           prison     NN         (NP*)))             -    -   -    Sally  *        *             *         *)            *        *           -
+bc/msnbc/00/msnbc_0002   7   21              and     CC              *              -    -   -    Sally  *        *             *         *             *        *           -
+bc/msnbc/00/msnbc_0002   7   22        basically     RB         (ADVP*)             -    -   -    Sally  *        *             *         *    (ARGM-ADV*)       *           -
+bc/msnbc/00/msnbc_0002   7   23           having    VBG           (VP*            have  04   6    Sally  *        *             *         *           (V*)       *           -
+bc/msnbc/00/msnbc_0002   7   24               my   PRP$         (S(NP*              -    -   -    Sally  *        *             *         *        (ARG1*   (ARG1*    (175|(58)
+bc/msnbc/00/msnbc_0002   7   25              son     NN              *)             -    -   -    Sally  *        *             *         *             *        *)        175)
+bc/msnbc/00/msnbc_0002   7   26    re-victimized    VBN   (VP*)))))))))   re-victimize  01   -    Sally  *        *             *)        *             *)     (V*)          -
+bc/msnbc/00/msnbc_0002   7   27               /.      .             *))             -    -   -    Sally  *        *             *         *             *        *           -
+
+bc/msnbc/00/msnbc_0002   7    0        Before     IN  (TOP(S(SBAR*          -    -   -    Dan_Abrams  *             *         *         *         *      *   (ARGM-TMP*             *           -
+bc/msnbc/00/msnbc_0002   7    1             I    PRP        (S(NP*)         -    -   -    Dan_Abrams  *        (ARG0*)   (ARG0*)        *         *      *            *             *        (167)
+bc/msnbc/00/msnbc_0002   7    2          play    VBP       (VP(VP*        play  01   4    Dan_Abrams  *           (V*)        *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7    3             a     DT       (NP(NP*          -    -   -    Dan_Abrams  *        (ARG1*         *         *         *      *            *             *         (55
+bc/msnbc/00/msnbc_0002   7    4        little     JJ             *          -    -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7    5           bit     NN             *)       bite   -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7    6            of     IN          (PP*          -    -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7    7         sound     NN       (NP(NP*)      sound   -   2    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7    8          from     IN          (PP*          -    -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7    9         Debra    NNP      (NP*)))))         -    -   -    Dan_Abrams  *             *)        *         *         *      *            *             *    (100)|55)
+bc/msnbc/00/msnbc_0002   7   10         today     NN         (NP*))      today   -   2    Dan_Abrams  *    (ARGM-TMP*)        *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   11           and     CC             *          -    -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   12           and     CC             *          -    -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   13           get    VBP          (VP*         get  01   1    Dan_Abrams  *             *       (V*)        *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   14          your   PRP$       (NP(NP*          -    -   -    Dan_Abrams  *             *    (ARG1*    (ARG0*)        *      *            *             *         (58)
+bc/msnbc/00/msnbc_0002   7   15      response     NN             *)   response  01   3    Dan_Abrams  *             *         *       (V*)        *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   16            to     IN          (PP*          -    -   -    Dan_Abrams  *             *         *    (ARG1*         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   17            it    PRP    (NP*)))))))         -    -   -    Dan_Abrams  *             *         *)        *)        *      *            *)            *         (55)
+bc/msnbc/00/msnbc_0002   7   18           You    PRP    (PRN(S(NP*)         -    -   -    Dan_Abrams  *             *         *         *    (ARG0*)     *   (ARGM-DIS*             *           -
+bc/msnbc/00/msnbc_0002   7   19          know    VBP        (VP*)))       know  01   1    Dan_Abrams  *             *         *         *       (V*)     *            *)            *           -
+bc/msnbc/00/msnbc_0002   7   20             a     DT       (NP(NP*          -    -   -    Dan_Abrams  *             *         *         *         *      *       (ARG0*             *           -
+bc/msnbc/00/msnbc_0002   7   21           lot     NN             *)        lot   -   1    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   22            of     IN          (PP*          -    -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+bc/msnbc/00/msnbc_0002   7   23        people    NNS        (NP*)))     people   -   1    Dan_Abrams  *             *         *         *         *      *            *)            *           -
+bc/msnbc/00/msnbc_0002   7   24          have    VBP          (VP*        have  01   -    Dan_Abrams  *             *         *         *         *    (V*)           *             *           -
+bc/msnbc/00/msnbc_0002   7   25          said    VBN          (VP*         say  01   1    Dan_Abrams  *             *         *         *         *      *          (V*)            *           -
+bc/msnbc/00/msnbc_0002   7   26          well     UH      (S(INTJ*)         -    -   -    Dan_Abrams  *             *         *         *         *      *       (ARG1*    (ARGM-DIS*)          -
+bc/msnbc/00/msnbc_0002   7   27          this     DT          (NP*          -    -   -    Dan_Abrams  *             *         *         *         *      *            *        (ARG1*        (100
+bc/msnbc/00/msnbc_0002   7   28       teacher     NN             *)    teacher   -   1    Dan_Abrams  *             *         *         *         *      *            *             *)        100)
+bc/msnbc/00/msnbc_0002   7   29            is    VBZ          (VP*          be  01   1    Dan_Abrams  *             *         *         *         *      *            *           (V*)          -
+bc/msnbc/00/msnbc_0002   7   30            so     RB        (ADJP*          -    -   -    Dan_Abrams  *             *         *         *         *      *            *        (ARG2*           -
+bc/msnbc/00/msnbc_0002   7   31    attractive     JJ         *)))))         -    -   -    Dan_Abrams  *             *         *         *         *      *            *)            *)          -
+bc/msnbc/00/msnbc_0002   7   32            /.      .            *))         -    -   -    Dan_Abrams  *             *         *         *         *      *            *             *           -
+
+bc/msnbc/00/msnbc_0002   7   0       Every     DT  (TOP(S(NP*       -    -   -    Dan_Abrams       *        (ARG1*    (112
+bc/msnbc/00/msnbc_0002   7   1    fourteen     CD  (ADJP(NML*       -    -   -    Dan_Abrams  (DATE*             *       -
+bc/msnbc/00/msnbc_0002   7   2        year     NN           *)      -    -   -    Dan_Abrams       *             *       -
+bc/msnbc/00/msnbc_0002   7   3         old     JJ          *))      -    -   -    Dan_Abrams       *)            *)    112)
+bc/msnbc/00/msnbc_0002   7   4        this     DT        (NP*)      -    -   -    Dan_Abrams       *      (R-ARG1*)   (138)
+bc/msnbc/00/msnbc_0002   7   5       would     MD        (VP*       -    -   -    Dan_Abrams       *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0002   7   6          be     VB        (VP*       be  01   2    Dan_Abrams       *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   7         his   PRP$        (NP*       -    -   -    Dan_Abrams       *        (ARG2*    (112)
+bc/msnbc/00/msnbc_0002   7   8       dream     NN         *)))   dream   -   3    Dan_Abrams       *             *)      -
+bc/msnbc/00/msnbc_0002   7   9          /.      .          *))      -    -   -    Dan_Abrams       *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0        What     WP   (TOP(SBARQ(WHNP*)         -    -   -    Dan_Abrams  *    (ARG2*)        *      -
+bc/msnbc/00/msnbc_0002   7   1          's    VBZ               (SQ*          be  01   1    Dan_Abrams  *       (V*)        *      -
+bc/msnbc/00/msnbc_0002   7   2        your   PRP$            (NP(NP*          -    -   -    Dan_Abrams  *    (ARG1*    (ARG0*)   (58)
+bc/msnbc/00/msnbc_0002   7   3    reaction     NN                  *)   reaction  01   2    Dan_Abrams  *         *       (V*)     -
+bc/msnbc/00/msnbc_0002   7   4          to     IN               (PP*          -    -   -    Dan_Abrams  *         *    (ARG1*      -
+bc/msnbc/00/msnbc_0002   7   5        that     DT            (NP*))))         -    -   -    Dan_Abrams  *         *)        *)     -
+bc/msnbc/00/msnbc_0002   7   6          /?      .                 *))         -    -   -    Dan_Abrams  *         *         *      -
+
+bc/msnbc/00/msnbc_0002   7   0         How    WRB   (TOP(SBARQ(WHADVP*)      -    -   -    Dan_Abrams  *      *    (ARGM-MNR*)          -
+bc/msnbc/00/msnbc_0002   7   1          is    VBZ                 (SQ*       be  03   -    Dan_Abrams  *    (V*)            *           -
+bc/msnbc/00/msnbc_0002   7   2        your   PRP$                 (NP*       -    -   -    Dan_Abrams  *      *        (ARG0*    (175|(58)
+bc/msnbc/00/msnbc_0002   7   3         son     NN                    *)      -    -   -    Dan_Abrams  *      *             *)        175)
+bc/msnbc/00/msnbc_0002   7   4    reacting    VBG                (VP*))   react  01   1    Dan_Abrams  *      *           (V*)          -
+bc/msnbc/00/msnbc_0002   7   5          /?      .                   *))      -    -   -    Dan_Abrams  *      *             *           -
+
+bc/msnbc/00/msnbc_0002   7   0         um    UH   (TOP(S(INTJ*)        -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7   1         eh    UH         (INTJ*)        -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7   2         eh    UH         (INTJ*)        -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7   3        She   PRP           (NP*)        -    -   -    Sally  *        (ARG1*)   (100)
+bc/msnbc/00/msnbc_0002   7   4         's   VBZ           (VP*         be  01   1    Sally  *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   5          a    DT           (NP*         -    -   -    Sally  *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   7   6    teacher    NN             *))   teacher   -   1    Sally  *             *)      -
+bc/msnbc/00/msnbc_0002   7   7         /.     .             *))        -    -   -    Sally  *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0          She   PRP   (TOP(S(NP*)          -    -   -    Sally  *    (ARG1*)   (100)
+bc/msnbc/00/msnbc_0002   7   1           's   VBZ         (VP*           be  01   1    Sally  *       (V*)      -
+bc/msnbc/00/msnbc_0002   7   2            a    DT      (NP(NP*           -    -   -    Sally  *    (ARG2*       -
+bc/msnbc/00/msnbc_0002   7   3       person    NN            *)      person   -   1    Sally  *         *       -
+bc/msnbc/00/msnbc_0002   7   4           of    IN         (PP*           -    -   -    Sally  *         *       -
+bc/msnbc/00/msnbc_0002   7   5    authority    NN      (NP*))))   authority   -   1    Sally  *         *)      -
+bc/msnbc/00/msnbc_0002   7   6           /.     .           *))          -    -   -    Sally  *         *       -
+
+bc/msnbc/00/msnbc_0002   7   0         and     CC      (TOP(S*        -    -   -    Sally  *         *            *           -
+bc/msnbc/00/msnbc_0002   7   1         she    PRP         (NP*)       -    -   -    Sally  *         *       (ARG0*)       (100)
+bc/msnbc/00/msnbc_0002   7   2         you    PRP   (PRN(S(NP*)       -    -   -    Sally  *    (ARG0*)  (ARGM-DIS*           -
+bc/msnbc/00/msnbc_0002   7   3        know    VBP       (VP*)))     know  01   1    Sally  *       (V*)           *)          -
+bc/msnbc/00/msnbc_0002   7   4    molested    VBD         (VP*    molest  01   1    Sally  *         *          (V*)         (9)
+bc/msnbc/00/msnbc_0002   7   5          my   PRP$         (NP*        -    -   -    Sally  *         *       (ARG1*    (175|(58)
+bc/msnbc/00/msnbc_0002   7   6       child     NN           *))    child   -   2    Sally  *         *            *)        175)
+bc/msnbc/00/msnbc_0002   7   7          /.      .           *))       -    -   -    Sally  *         *            *           -
+
+bc/msnbc/00/msnbc_0002   7   0              It   PRP   (TOP(S(NP*)   -    -   -    Sally  *    (ARG1*)   (9)
+bc/msnbc/00/msnbc_0002   7   1              's   VBZ         (VP*    be  01   1    Sally  *       (V*)    -
+bc/msnbc/00/msnbc_0002   7   2    unacceptable    JJ      (ADJP*))   -    -   -    Sally  *    (ARG2*)    -
+bc/msnbc/00/msnbc_0002   7   3              /.     .           *))   -    -   -    Sally  *         *     -
+
+bc/msnbc/00/msnbc_0002   7    0               You    PRP   (TOP(S(PRN(S(NP*)        -    -   -    Sally  *    (ARG0*)  (ARGM-DIS*       -
+bc/msnbc/00/msnbc_0002   7    1              know    VBP             (VP*)))      know  01   1    Sally  *       (V*)           *)      -
+bc/msnbc/00/msnbc_0002   7    2               her   PRP$            (NP(NP*         -    -   -    Sally  *         *       (ARG0*    (100)
+bc/msnbc/00/msnbc_0002   7    3    attractiveness     NN                  *)        -    -   -    Sally  *         *            *       -
+bc/msnbc/00/msnbc_0002   7    4                or     CC                  *         -    -   -    Sally  *         *            *       -
+bc/msnbc/00/msnbc_0002   7    5              lack     NN            (NP(NP*)      lack   -   -    Sally  *         *            *       -
+bc/msnbc/00/msnbc_0002   7    6           thereof     RB           (ADVP*)))        -    -   -    Sally  *         *            *)      -
+bc/msnbc/00/msnbc_0002   7    7                in     IN               (PP*         -    -   -    Sally  *         *   (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0002   7    8                my   PRP$               (NP*         -    -   -    Sally  *         *            *     (58)
+bc/msnbc/00/msnbc_0002   7    9           opinion     NN                 *))   opinion   -   1    Sally  *         *            *)      -
+bc/msnbc/00/msnbc_0002   7   10             plays    VBZ               (VP*       play  02   3    Sally  *         *          (V*)      -
+bc/msnbc/00/msnbc_0002   7   11                no     DT            (NP(NP*         -    -   -    Sally  *         *       (ARG1*       -
+bc/msnbc/00/msnbc_0002   7   12              part     NN                  *)      part   -   5    Sally  *         *            *       -
+bc/msnbc/00/msnbc_0002   7   13                in     IN               (PP*         -    -   -    Sally  *         *            *       -
+bc/msnbc/00/msnbc_0002   7   14              this     DT            (NP*))))        -    -   -    Sally  *         *            *)      -
+bc/msnbc/00/msnbc_0002   7   15                /.      .                 *))        -    -   -    Sally  *         *            *       -
+
+bc/msnbc/00/msnbc_0002   7   0      What    WP   (TOP(SBARQ(WHNP*)    -    -   -    Dan_Abrams  *      *        (ARG1*)      -
+bc/msnbc/00/msnbc_0002   7   1        is   VBZ               (SQ*     be  03   -    Dan_Abrams  *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   7   2        he   PRP               (NP*)    -    -   -    Dan_Abrams  *      *        (ARG0*)   (175)
+bc/msnbc/00/msnbc_0002   7   3    saying   VBG               (VP*    say  01   1    Dan_Abrams  *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   4     about    IN               (PP*     -    -   -    Dan_Abrams  *      *        (ARG3*       -
+bc/msnbc/00/msnbc_0002   7   5        it   PRP              (NP*))    -    -   -    Dan_Abrams  *      *             *)     (4)
+bc/msnbc/00/msnbc_0002   7   6       now    RB           (ADVP*)))    -    -   -    Dan_Abrams  *      *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0002   7   7        /?     .                 *))    -    -   -    Dan_Abrams  *      *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0       He   PRP   (TOP(S(NP*)     -    -   -    Sally  *      *        (ARG0*)   (ARG0*)   (175)
+bc/msnbc/00/msnbc_0002   7   1     does   VBZ         (VP*      do  01   -    Sally  *    (V*)            *         *       -
+bc/msnbc/00/msnbc_0002   7   2      n't    RB            *      -    -   -    Sally  *      *    (ARGM-NEG*)        *       -
+bc/msnbc/00/msnbc_0002   7   3     like    VB         (VP*    like  01   2    Sally  *      *           (V*)        *       -
+bc/msnbc/00/msnbc_0002   7   4       to    TO       (S(VP*      -    -   -    Sally  *      *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0002   7   5     talk    VB         (VP*    talk  01   1    Sally  *      *             *       (V*)      -
+bc/msnbc/00/msnbc_0002   7   6    about    IN         (PP*      -    -   -    Sally  *      *             *    (ARG1*       -
+bc/msnbc/00/msnbc_0002   7   7       it   PRP   (NP*)))))))     -    -   -    Sally  *      *             *)        *)     (4)
+bc/msnbc/00/msnbc_0002   7   8       /.     .           *))     -    -   -    Sally  *      *             *         *       -
+
+bc/msnbc/00/msnbc_0002   7    0           um    UH   (TOP(S(INTJ*)   -    -   -    Sally  *        *      *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7    1           To    TO         (S(VP*    -    -   -    Sally  *        *      *    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0002   7    2           be    VB           (VP*    be  01   1    Sally  *      (V*)     *             *       -
+bc/msnbc/00/msnbc_0002   7    3       honest    JJ         (ADJP*    -    -   -    Sally  *   (ARG2*      *             *       -
+bc/msnbc/00/msnbc_0002   7    4         with    IN           (PP*    -    -   -    Sally  *        *      *             *       -
+bc/msnbc/00/msnbc_0002   7    5          you   PRP      (NP*))))))   -    -   -    Sally  *        *)     *             *)   (167)
+bc/msnbc/00/msnbc_0002   7    6           he   PRP           (NP*)   -    -   -    Sally  *        *      *        (ARG0*)   (175)
+bc/msnbc/00/msnbc_0002   7    7           is   VBZ           (VP*    be  03   -    Sally  *        *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   7    8        doing   VBG           (VP*    do  02   2    Sally  *        *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   7    9    extremely    RB         (ADVP*    -    -   -    Sally  *        *      *    (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0002   7   10         well    RB            *)))   -    -   -    Sally  *        *      *             *)      -
+bc/msnbc/00/msnbc_0002   7   11           /.     .             *))   -    -   -    Sally  *        *      *             *       -
+
+bc/msnbc/00/msnbc_0002   7    0           um    UH   (TOP(S(INTJ*)       -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7    1           He   PRP           (NP*)       -    -   -    Sally  *        (ARG0*)   (175)
+bc/msnbc/00/msnbc_0002   7    2           uh    UH         (INTJ*)       -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7    3         just    RB         (ADVP*)       -    -   -    Sally  *    (ARGM-ADV*)      -
+bc/msnbc/00/msnbc_0002   7    4          has   VBZ           (VP*      have  03   2    Sally  *           (V*)      -
+bc/msnbc/00/msnbc_0002   7    5            a    DT        (NP(NP*        -    -   -    Sally  *        (ARG1*       -
+bc/msnbc/00/msnbc_0002   7    6    wonderful    JJ              *        -    -   -    Sally  *             *       -
+bc/msnbc/00/msnbc_0002   7    7       circle    NN              *)   circle   -   3    Sally  *             *       -
+bc/msnbc/00/msnbc_0002   7    8           of    IN           (PP*        -    -   -    Sally  *             *       -
+bc/msnbc/00/msnbc_0002   7    9      friends   NNS        (NP*))))   friend   -   -    Sally  *             *)      -
+bc/msnbc/00/msnbc_0002   7   10           /.     .             *))       -    -   -    Sally  *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0        you   PRP   (TOP(S(PRN(S(NP*)      -    -   -    Sally  *    (ARG0*)        *       -
+bc/msnbc/00/msnbc_0002   7   1       know   VBP             (VP*)))    know  01   1    Sally  *       (V*)        *       -
+bc/msnbc/00/msnbc_0002   7   2         he   PRP               (NP*)      -    -   -    Sally  *         *    (ARG1*)   (175)
+bc/msnbc/00/msnbc_0002   7   3         's   VBZ               (VP*       be  01   1    Sally  *         *       (V*)      -
+bc/msnbc/00/msnbc_0002   7   4         an    DT               (NP*       -    -   -    Sally  *         *    (ARG2*       -
+bc/msnbc/00/msnbc_0002   7   5      honor    NN                  *    honor   -   -    Sally  *         *         *       -
+bc/msnbc/00/msnbc_0002   7   6    student    NN                 *))      -    -   -    Sally  *         *         *)      -
+bc/msnbc/00/msnbc_0002   7   7         /.     .                 *))      -    -   -    Sally  *         *         *       -
+
+bc/msnbc/00/msnbc_0002   7   0        He   PRP   (TOP(S(NP*)      -    -   -    Sally  *    (ARG0*)   (ARG0*)   (175)
+bc/msnbc/00/msnbc_0002   7   1     loves   VBZ         (VP*     love  01   1    Sally  *       (V*)        *       -
+bc/msnbc/00/msnbc_0002   7   2        to    TO       (S(VP*       -    -   -    Sally  *    (ARG1*         *       -
+bc/msnbc/00/msnbc_0002   7   3      play    VB         (VP*     play  01   2    Sally  *         *       (V*)      -
+bc/msnbc/00/msnbc_0002   7   4    sports   NNS     (NP*)))))   sport   -   1    Sally  *         *)   (ARG1*)      -
+bc/msnbc/00/msnbc_0002   7   5        /.     .           *))      -    -   -    Sally  *         *         *       -
+
+bc/msnbc/00/msnbc_0002   7   0           um    UH   (TOP(S(INTJ*)   -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7   1           He   PRP           (NP*)   -    -   -    Sally  *        (ARG1*)   (175)
+bc/msnbc/00/msnbc_0002   7   2           is   VBZ           (VP*    be  01   1    Sally  *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   3    extremely    RB    (ADJP(ADVP*    -    -   -    Sally  *        (ARG2*       -
+bc/msnbc/00/msnbc_0002   7   4         well    RB              *)   -    -   -    Sally  *             *       -
+bc/msnbc/00/msnbc_0002   7   5     balanced    JJ             *))   -    -   -    Sally  *             *)      -
+bc/msnbc/00/msnbc_0002   7   6           /.     .             *))   -    -   -    Sally  *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0            he   PRP   (TOP(S(NP*)   -    -   -    Sally  *      *       (ARG0*)   (175)
+bc/msnbc/00/msnbc_0002   7   1            's   VBZ         (VP*    be  03   -    Sally  *    (V*)           *       -
+bc/msnbc/00/msnbc_0002   7   2         doing   VBG         (VP*    do  02   2    Sally  *      *          (V*)      -
+bc/msnbc/00/msnbc_0002   7   3    absolutely    RB       (ADVP*    -    -   -    Sally  *      *   (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0002   7   4     wonderful    RB          *)))   -    -   -    Sally  *      *            *)      -
+bc/msnbc/00/msnbc_0002   7   5            /.     .           *))   -    -   -    Sally  *      *            *       -
+
+bc/msnbc/00/msnbc_0002   7    0     And     CC      (TOP(S*      -    -   -    Sally  *    (ARGM-DIS*)        *             *          *       -
+bc/msnbc/00/msnbc_0002   7    1      my   PRP$         (NP*      -    -   -    Sally  *        (ARG1*         *             *          *     (58)
+bc/msnbc/00/msnbc_0002   7    2    goal     NN            *)   goal   -   1    Sally  *             *)        *             *          *       -
+bc/msnbc/00/msnbc_0002   7    3      um     UH       (INTJ*)     -    -   -    Sally  *    (ARGM-DIS*)        *             *          *       -
+bc/msnbc/00/msnbc_0002   7    4      is    VBZ         (VP*      be  01   2    Sally  *           (V*)        *             *          *       -
+bc/msnbc/00/msnbc_0002   7    5      to     TO       (S(VP*      -    -   -    Sally  *        (ARG2*         *             *          *       -
+bc/msnbc/00/msnbc_0002   7    6     you    PRP   (PRN(S(NP*)     -    -   -    Sally  *             *    (ARG0*)            *          *       -
+bc/msnbc/00/msnbc_0002   7    7    know    VBP       (VP*)))   know  01   1    Sally  *             *       (V*)            *          *       -
+bc/msnbc/00/msnbc_0002   7    8      um     UH       (INTJ*)     -    -   -    Sally  *             *         *    (ARGM-DIS*)         *       -
+bc/msnbc/00/msnbc_0002   7    9    help     VB         (VP*    help  01   1    Sally  *             *         *           (V*)         *       -
+bc/msnbc/00/msnbc_0002   7   10    keep     VB       (S(VP*    keep  02   1    Sally  *             *         *        (ARG1*        (V*)      -
+bc/msnbc/00/msnbc_0002   7   11     him    PRP         (NP*)     -    -   -    Sally  *             *         *             *     (ARG1*)   (175)
+bc/msnbc/00/msnbc_0002   7   12    that     DT       (S(NP*      -    -   -    Sally  *             *         *             *   (C-ARG1*       -
+bc/msnbc/00/msnbc_0002   7   13     way     NN     *))))))))    way   -   3    Sally  *             *)        *             *)         *)      -
+bc/msnbc/00/msnbc_0002   7   14      /.      .           *))     -    -   -    Sally  *             *         *             *          *       -
+
+bc/msnbc/00/msnbc_0002   7   0    Mhm   UH  (TOP(INTJ*   -   -   -    Dan_Abrams  *   -
+bc/msnbc/00/msnbc_0002   7   1     /.    .          *))  -   -   -    Dan_Abrams  *   -
+
+bc/msnbc/00/msnbc_0002   7   0      How   WRB   (TOP(SBARQ(WHADVP*)     -    -   -    Dan_Abrams  *      *    (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0002   7   1      did   VBD                 (SQ*      do  01   -    Dan_Abrams  *    (V*)            *       -
+bc/msnbc/00/msnbc_0002   7   2      you   PRP                 (NP*)     -    -   -    Dan_Abrams  *      *        (ARG0*)    (58)
+bc/msnbc/00/msnbc_0002   7   3     find    VB                 (VP*    find  03   1    Dan_Abrams  *      *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   4      out    RP                (PRT*)     -    -   -    Dan_Abrams  *      *             *       -
+bc/msnbc/00/msnbc_0002   7   5    about    IN                 (PP*      -    -   -    Dan_Abrams  *      *        (ARG1*       -
+bc/msnbc/00/msnbc_0002   7   6     this    DT              (NP*))))     -    -   -    Dan_Abrams  *      *             *)   (138)
+bc/msnbc/00/msnbc_0002   7   7       /?     .                   *))     -    -   -    Dan_Abrams  *      *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0       He   PRP   (TOP(SQ(S(NP*)     -    -   -    Dan_Abrams  *    (ARG1*)   (175)
+bc/msnbc/00/msnbc_0002   7   1     came   VBD            (VP*    come  01   1    Dan_Abrams  *       (V*)      -
+bc/msnbc/00/msnbc_0002   7   2       to    IN            (PP*      -    -   -    Dan_Abrams  *    (ARG4*       -
+bc/msnbc/00/msnbc_0002   7   3      you   PRP         (NP*))))     -    -   -    Dan_Abrams  *         *)    (58)
+bc/msnbc/00/msnbc_0002   7   4        ,     ,               *      -    -   -    Dan_Abrams  *         *       -
+bc/msnbc/00/msnbc_0002   7   5    right    JJ      (SQ(ADJP*))     -    -   -    Dan_Abrams  *         *       -
+bc/msnbc/00/msnbc_0002   7   6       /?     .              *))     -    -   -    Dan_Abrams  *         *       -
+
+bc/msnbc/00/msnbc_0002   7   0     No    UH   (TOP(S(INTJ*)   -    -   -    Sally  *      *       -
+bc/msnbc/00/msnbc_0002   7   1     he   PRP           (NP*)   -    -   -    Sally  *      *    (175)
+bc/msnbc/00/msnbc_0002   7   2    did   VBD           (VP*    do  01   -    Sally  *    (V*)      -
+bc/msnbc/00/msnbc_0002   7   3    n't    RB              *)   -    -   -    Sally  *      *       -
+bc/msnbc/00/msnbc_0002   7   4     /.     .             *))   -    -   -    Sally  *      *       -
+
+bc/msnbc/00/msnbc_0002   7   0     Actually     RB   (TOP(S(ADVP*)         -    -   -    Sally  *      *    (ARGM-ADV*)         -
+bc/msnbc/00/msnbc_0002   7   1           my   PRP$           (NP*          -    -   -    Sally  *      *        (ARG0*    (99|(58)
+bc/msnbc/00/msnbc_0002   7   2       sister     NN              *)         -    -   -    Sally  *      *             *)        99)
+bc/msnbc/00/msnbc_0002   7   3          had    VBD           (VP*        have  01   -    Sally  *    (V*)            *          -
+bc/msnbc/00/msnbc_0002   7   4    overheard    VBN           (VP*    overhear  01   -    Sally  *      *           (V*)         -
+bc/msnbc/00/msnbc_0002   7   5           uh     UH         (INTJ*)         -    -   -    Sally  *      *    (ARGM-DIS*)         -
+bc/msnbc/00/msnbc_0002   7   6         just     RB           (NP*          -    -   -    Sally  *      *        (ARG1*          -
+bc/msnbc/00/msnbc_0002   7   7        basic     JJ            *)))         -    -   -    Sally  *      *             *)         -
+bc/msnbc/00/msnbc_0002   7   8          /-       .             *))         -    -   -    Sally  *      *             *          -
+
+bc/msnbc/00/msnbc_0002   7    0              She    PRP              (TOP(S(NP*)        -    -   -    Sally           *    (ARG0*)   (ARG0*)       (ARG0*)       (ARG0*)       (ARG0*)        *        *         *         *         *         *           *      *             *         (99)
+bc/msnbc/00/msnbc_0002   7    1              put    VBD                 (VP(VP*        put  03   5    Sally           *       (V*)        *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    2              two     CD                    (NP*         -    -   -    Sally   (CARDINAL)   (ARG1*         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    3              and     CC                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    4              two     CD                       *)        -    -   -    Sally   (CARDINAL)        *)        *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    5         together     RB                 (ADVP*))        -    -   -    Sally           *    (ARG2*)        *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    6            heard    VBD                    (VP*       hear  01   1    Sally           *         *       (V*)            *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    7               eh     UH                  (INTJ*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    8        different     JJ                    (NP*         -    -   -    Sally           *         *    (ARG1*             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7    9         comments    NNS                       *    comment   -   1    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   10              and     CC                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   11    conversations    NNS                      *))        -    -   -    Sally           *         *         *)            *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   12                .      ,                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   13              And     CC                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   14             then     RB                  (ADVP*)        -    -   -    Sally           *         *         *    (ARGM-TMP*)            *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   15              all     DT                 (NP(NP*)        -    -   -    Sally           *         *         *    (ARGM-TMP*             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   16               of     IN                    (PP*         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   17                a     DT                    (NP*         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   18           sudden     JJ                     *)))        -    -   -    Sally           *         *         *             *)            *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   19          spotted    VBD                    (VP*       spot  01   1    Sally           *         *         *           (V*)            *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   20               my   PRP$                 (NP(NP*         -    -   -    Sally           *         *         *        (ARG1*             *             *         *        *         *         *         *         *           *      *             *    (175|(58)
+bc/msnbc/00/msnbc_0002   7   21              son     NN                       *)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *         175)
+bc/msnbc/00/msnbc_0002   7   22              and     CC                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   23             this     DT                    (NP*         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *        (100
+bc/msnbc/00/msnbc_0002   7   24          teacher     NN                      *))   teacher   -   1    Sally           *         *         *             *)            *             *         *        *         *         *         *         *           *      *             *         100)
+bc/msnbc/00/msnbc_0002   7   25               in     IN                    (PP*         -    -   -    Sally           *         *         *    (ARGM-LOC*             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   26            Ocala    NNP                  (NP*)))        -    -   -    Sally        (LOC)        *         *             *)            *             *         *        *         *         *         *         *           *      *             *         (38)
+bc/msnbc/00/msnbc_0002   7   27              and     CC                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   28             then     RB                  (ADVP*)        -    -   -    Sally           *         *         *             *    (ARGM-TMP*)            *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   29           called    VBD                    (VP*       call  02   4    Sally           *         *         *             *           (V*)            *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   30               me    PRP                   (NP*))        -    -   -    Sally           *         *         *             *        (ARG1*)            *         *        *         *         *         *         *           *      *             *         (58)
+bc/msnbc/00/msnbc_0002   7   31              and     CC                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   32               uh     UH                  (INTJ*)        -    -   -    Sally           *         *         *             *             *    (ARGM-DIS*)        *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   33            asked    VBD                    (VP*        ask  01   1    Sally           *         *         *             *             *           (V*)        *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   34               if     IN                  (SBAR*         -    -   -    Sally           *         *         *             *             *        (ARG1*         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   35                I    PRP                  (S(NP*)        -    -   -    Sally           *         *         *             *             *             *    (ARG0*)       *         *         *         *         *           *      *             *         (58)
+bc/msnbc/00/msnbc_0002   7   36             knew    VBD                    (VP*       know  01   1    Sally           *         *         *             *             *             *       (V*)       *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   37               my   PRP$             (SBAR(S(NP*         -    -   -    Sally           *         *         *             *             *             *    (ARG1*   (ARG1*         *         *         *         *           *      *             *    (175|(58)
+bc/msnbc/00/msnbc_0002   7   38              son     NN                       *)        -    -   -    Sally           *         *         *             *             *             *         *        *)        *         *         *         *           *      *             *         175)
+bc/msnbc/00/msnbc_0002   7   39              was    VBD                    (VP*         be  01   4    Sally           *         *         *             *             *             *         *      (V*)        *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   40               in     IN                    (PP*         -    -   -    Sally           *         *         *             *             *             *         *   (ARG2*         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   41            Ocala    NNP            (NP*)))))))))        -    -   -    Sally        (LOC)        *         *             *             *             *)        *)       *)        *         *         *         *           *      *             *         (38)
+bc/msnbc/00/msnbc_0002   7   42            which    WDT             (SBAR(WHNP*)        -    -   -    Sally           *         *         *             *             *    (ARGM-ADV*         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   43               um     UH                  (INTJ*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   44              you    PRP          (S(S(PRN(S(NP*)        -    -   -    Sally           *         *         *             *             *             *         *        *    (ARG0*)        *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   45             know    VBP                  (VP*)))      know  01   1    Sally           *         *         *             *             *             *         *        *       (V*)        *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   46               it    PRP                    (NP*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *    (ARG1*)        *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   47              was    VBD                    (VP*         be  01   1    Sally           *         *         *             *             *             *         *        *         *       (V*)        *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   48                a     DT                    (NP*         -    -   -    Sally           *         *         *             *             *             *         *        *         *    (ARG2*         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   49           normal     JJ                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   50           summer     NN                       *     summer   -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   51              day     NN                     *)))       day   -   3    Sally           *         *         *             *             *             *         *        *         *         *)        *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   52                .      ,                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   53                I    PRP                  (S(NP*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *    (ARG0*)        *           *      *             *         (58)
+bc/msnbc/00/msnbc_0002   7   54          thought    VBD                    (VP*      think  01   1    Sally           *         *         *             *             *             *         *        *         *         *       (V*)        *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   55               he    PRP             (SBAR(S(NP*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *    (ARG1*    (ARG1*)          *      *             *        (175)
+bc/msnbc/00/msnbc_0002   7   56              was    VBD                    (VP*         be  01   4    Sally           *         *         *             *             *             *         *        *         *         *         *       (V*)          *      *             *           -
+bc/msnbc/00/msnbc_0002   7   57               at     IN                    (PP*         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *    (ARG2*           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   58              the     DT                 (NP(NP*         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *      (ARG1*      *             *           -
+bc/msnbc/00/msnbc_0002   7   59              rec     JJ                       *         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+bc/msnbc/00/msnbc_0002   7   60           center     NN                       *)    center   -   2    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *)     *             *           -
+bc/msnbc/00/msnbc_0002   7   61            which    WDT             (SBAR(WHNP*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *    (R-ARG1*)     *             *           -
+bc/msnbc/00/msnbc_0002   7   62               is    VBZ                  (S(VP*         be  01   1    Sally           *         *         *             *             *             *         *        *         *         *         *         *         (V*)     *             *           -
+bc/msnbc/00/msnbc_0002   7   63                a     DT                 (NP(NP*         -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *      (ARG2*      *        (ARG2*           -
+bc/msnbc/00/msnbc_0002   7   64            place     NN                       *)     place   -   2    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *)          -
+bc/msnbc/00/msnbc_0002   7   65             that    WDT           (SBAR(WHADVP*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *      (R-ARG2*)          -
+bc/msnbc/00/msnbc_0002   7   66               he    PRP                  (S(NP*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *        (ARG1*)       (175)
+bc/msnbc/00/msnbc_0002   7   67               's    VBZ                    (VP*         be  03   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *    (V*)            *           -
+bc/msnbc/00/msnbc_0002   7   68           always     RB                  (ADVP*)        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *    (ARGM-TMP*)          -
+bc/msnbc/00/msnbc_0002   7   69             been    VBN   (VP*))))))))))))))))))        be  01   4    Sally           *         *         *             *             *             *)        *        *         *         *         *)        *)          *)     *           (V*)          -
+bc/msnbc/00/msnbc_0002   7   70               /.      .                      *))        -    -   -    Sally           *         *         *             *             *             *         *        *         *         *         *         *           *      *             *           -
+
+bc/msnbc/00/msnbc_0002   7   0        Anyway    RB   (TOP(S(ADVP*)         -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7   1            um    UH         (INTJ*)         -    -   -    Sally  *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0002   7   2             I   PRP           (NP*)         -    -   -    Sally  *        (ARG0*)    (58)
+bc/msnbc/00/msnbc_0002   7   3    confronted   VBD           (VP*    confront  01   2    Sally  *           (V*)      -
+bc/msnbc/00/msnbc_0002   7   4           him   PRP          (NP*))         -    -   -    Sally  *        (ARG1*)   (175)
+bc/msnbc/00/msnbc_0002   7   5            /.     .             *))         -    -   -    Sally  *             *       -
+
+bc/msnbc/00/msnbc_0002   7   0      One    CD  (TOP(S(NP*       -    -   -    Sally   (CARDINAL)  (ARG0*   -
+bc/msnbc/00/msnbc_0002   7   1    thing    NN           *)   thing   -   1    Sally           *        *)  -
+bc/msnbc/00/msnbc_0002   7   2      led   VBD        (VP*     lead  03   1    Sally           *      (V*)  -
+bc/msnbc/00/msnbc_0002   7   3       to    IN        (PP*       -    -   -    Sally           *   (ARG2*   -
+bc/msnbc/00/msnbc_0002   7   4      the    DT        (NP*       -    -   -    Sally           *        *   -
+bc/msnbc/00/msnbc_0002   7   5    other    JJ         *)))      -    -   -    Sally           *        *)  -
+bc/msnbc/00/msnbc_0002   7   6       /.     .          *))      -    -   -    Sally           *        *   -
+
+bc/msnbc/00/msnbc_0002   7   0     and    CC   (TOP(S*      -    -   -    Sally  *    (ARGM-DIS*)     -
+bc/msnbc/00/msnbc_0002   7   1      it   PRP   (NP(NP*)     -    -   -    Sally  *        (ARG1*   (138
+bc/msnbc/00/msnbc_0002   7   2     all    DT     (NP*))     -    -   -    Sally  *             *)   138)
+bc/msnbc/00/msnbc_0002   7   3    came   VBD      (VP*    come  09   9    Sally  *           (V*)     -
+bc/msnbc/00/msnbc_0002   7   4     out    RP    (PRT*))     -    -   -    Sally  *             *      -
+bc/msnbc/00/msnbc_0002   7   5      /.     .        *))     -    -   -    Sally  *             *      -

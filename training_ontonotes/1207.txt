@@ -1,0 +1,432 @@
+bc/msnbc/00/msnbc_0004   4    0        President    NNP    (TOP(S(NP*           -    -   -    Chris_Matthews           *       (ARG0*     (62
+bc/msnbc/00/msnbc_0004   4    1             Bush    NNP             *)          -    -   -    Chris_Matthews     (PERSON)           *)     62)
+bc/msnbc/00/msnbc_0004   4    2              won    VBD          (VP*          win  01   2    Chris_Matthews           *          (V*)   (188)
+bc/msnbc/00/msnbc_0004   4    3             your   PRP$          (NP*           -    -   -    Chris_Matthews           *       (ARG1*    (153)
+bc/msnbc/00/msnbc_0004   4    4    congressional     JJ             *           -    -   -    Chris_Matthews           *            *       -
+bc/msnbc/00/msnbc_0004   4    5         district     NN             *)    district   -   1    Chris_Matthews           *            *)      -
+bc/msnbc/00/msnbc_0004   4    6               by     IN          (PP*           -    -   -    Chris_Matthews           *   (ARGM-EXT*       -
+bc/msnbc/00/msnbc_0004   4    7                a     DT       (NP(NP*           -    -   -    Chris_Matthews           *            *       -
+bc/msnbc/00/msnbc_0004   4    8             wide     JJ             *           -    -   -    Chris_Matthews           *            *       -
+bc/msnbc/00/msnbc_0004   4    9           margin     NN             *)      margin   -   5    Chris_Matthews           *            *       -
+bc/msnbc/00/msnbc_0004   4   10        something     NN       (NP(NP*)   something   -   4    Chris_Matthews           *            *       -
+bc/msnbc/00/msnbc_0004   4   11             like     IN          (PP*           -    -   -    Chris_Matthews           *            *       -
+bc/msnbc/00/msnbc_0004   4   12              two     CD       (NP(NP*)          -    -   -    Chris_Matthews   (CARDINAL)           *       -
+bc/msnbc/00/msnbc_0004   4   13               to     IN          (PP*           -    -   -    Chris_Matthews           *            *       -
+bc/msnbc/00/msnbc_0004   4   14              one     CD   (NP*))))))))          -    -   -    Chris_Matthews   (CARDINAL)           *)      -
+bc/msnbc/00/msnbc_0004   4   15               /.      .            *))          -    -   -    Chris_Matthews           *            *       -
+
+bc/msnbc/00/msnbc_0004   4   0    Could    MD  (TOP(SQ*       -    -   -    Chris_Matthews       *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0004   4   1       he   PRP      (NP*)      -    -   -    Chris_Matthews       *        (ARG0*)    (62)
+bc/msnbc/00/msnbc_0004   4   2       do    VB      (VP*       do  02   1    Chris_Matthews       *           (V*)      -
+bc/msnbc/00/msnbc_0004   4   3     that    DT      (NP*)      -    -   -    Chris_Matthews       *        (ARG1*)   (188)
+bc/msnbc/00/msnbc_0004   4   4    today    NN     (NP*))   today   -   1    Chris_Matthews   (DATE)   (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0004   4   5       /?     .        *))      -    -   -    Chris_Matthews       *             *       -
+
+bc/msnbc/00/msnbc_0004   4   0        I   PRP    (TOP(S(NP*)      -    -   -    Jean_Schmidt  *    (ARG0*)   (153)
+bc/msnbc/00/msnbc_0004   4   1    think   VBP          (VP*    think  01   1    Jean_Schmidt  *       (V*)      -
+bc/msnbc/00/msnbc_0004   4   2       he   PRP   (SBAR(S(NP*)      -    -   -    Jean_Schmidt  *    (ARG1*     (62)
+bc/msnbc/00/msnbc_0004   4   3    still    RB        (ADVP*)      -    -   -    Jean_Schmidt  *         *       -
+bc/msnbc/00/msnbc_0004   4   4    could    MD       (VP*))))      -    -   -    Jean_Schmidt  *         *)      -
+bc/msnbc/00/msnbc_0004   4   5       /.     .            *))      -    -   -    Jean_Schmidt  *         *       -
+
+bc/msnbc/00/msnbc_0004   4    0             If     IN  (TOP(S(SBAR*          -    -   -    Jean_Schmidt  *         *             *   (ARGM-ADV*            -
+bc/msnbc/00/msnbc_0004   4    1            you    PRP        (S(NP*)         -    -   -    Jean_Schmidt  *    (ARG0*)            *            *            -
+bc/msnbc/00/msnbc_0004   4    2           look    VBP          (VP*        look  01   1    Jean_Schmidt  *       (V*)            *            *            -
+bc/msnbc/00/msnbc_0004   4    3             at     IN          (PP*          -    -   -    Jean_Schmidt  *    (ARG1*             *            *            -
+bc/msnbc/00/msnbc_0004   4    4            the     DT       (NP(NP*          -    -   -    Jean_Schmidt  *         *    (ARGM-MNR*            *            -
+bc/msnbc/00/msnbc_0004   4    5            way     NN             *)        way   -   1    Jean_Schmidt  *         *             *)           *            -
+bc/msnbc/00/msnbc_0004   4    6             my   PRP$   (SBAR(S(NP*          -    -   -    Jean_Schmidt  *         *        (ARG0*            *    (193|(153)
+bc/msnbc/00/msnbc_0004   4    7       opponent     NN             *)   opponent   -   1    Jean_Schmidt  *         *             *)           *          193)
+bc/msnbc/00/msnbc_0004   4    8             uh     UH        (INTJ*)         -    -   -    Jean_Schmidt  *         *    (ARGM-DIS*)           *            -
+bc/msnbc/00/msnbc_0004   4    9        painted    VBD          (VP*       paint  03   5    Jean_Schmidt  *         *           (V*)           *            -
+bc/msnbc/00/msnbc_0004   4   10        himself    PRP          (NP*)         -    -   -    Jean_Schmidt  *         *        (ARG1*)           *         (193)
+bc/msnbc/00/msnbc_0004   4   11             in     IN          (PP*          -    -   -    Jean_Schmidt  *         *    (ARGM-LOC*            *            -
+bc/msnbc/00/msnbc_0004   4   12           this     DT          (NP*          -    -   -    Jean_Schmidt  *         *             *            *            -
+bc/msnbc/00/msnbc_0004   4   13       election     NN            *))   election   -   1    Jean_Schmidt  *         *             *)           *            -
+bc/msnbc/00/msnbc_0004   4   14           with     IN          (PP*          -    -   -    Jean_Schmidt  *         *    (ARGM-MNR*            *            -
+bc/msnbc/00/msnbc_0004   4   15            his   PRP$       (NP(NP*          -    -   -    Jean_Schmidt  *         *             *            *         (193)
+bc/msnbc/00/msnbc_0004   4   16     literature     NN             *)         -    -   -    Jean_Schmidt  *         *             *            *            -
+bc/msnbc/00/msnbc_0004   4   17            and     CC             *          -    -   -    Jean_Schmidt  *         *             *            *            -
+bc/msnbc/00/msnbc_0004   4   18            his   PRP$          (NP*          -    -   -    Jean_Schmidt  *         *             *            *         (193)
+bc/msnbc/00/msnbc_0004   4   19             tv     NN         (NML*          -    -   -    Jean_Schmidt  *         *             *            *            -
+bc/msnbc/00/msnbc_0004   4   20            and     CC             *          -    -   -    Jean_Schmidt  *         *             *            *            -
+bc/msnbc/00/msnbc_0004   4   21          radio     NN             *)      radio   -   -    Jean_Schmidt  *         *             *            *            -
+bc/msnbc/00/msnbc_0004   4   22    commercials    NNS   *)))))))))))         -    -   -    Jean_Schmidt  *         *)            *)           *)           -
+bc/msnbc/00/msnbc_0004   4   23             he    PRP          (NP*)         -    -   -    Jean_Schmidt  *         *             *       (ARG0*)        (193)
+bc/msnbc/00/msnbc_0004   4   24        wrapped    VBD          (VP*        wrap  01   1    Jean_Schmidt  *         *             *          (V*)           -
+bc/msnbc/00/msnbc_0004   4   25        himself    PRP          (NP*)         -    -   -    Jean_Schmidt  *         *             *       (ARG2*)        (193)
+bc/msnbc/00/msnbc_0004   4   26         around     IN          (PP*          -    -   -    Jean_Schmidt  *         *             *       (ARG1*            -
+bc/msnbc/00/msnbc_0004   4   27            the     DT          (NP*          -    -   -    Jean_Schmidt  *         *             *            *          (62
+bc/msnbc/00/msnbc_0004   4   28      President    NNP           *)))         -    -   -    Jean_Schmidt  *         *             *            *)          62)
+bc/msnbc/00/msnbc_0004   4   29             /.      .            *))         -    -   -    Jean_Schmidt  *         *             *            *            -
+
+bc/msnbc/00/msnbc_0004   4    0           The    DT  (TOP(S(NP(NP*        -    -   -    Jean_Schmidt       *   (ARG1*         *   (51
+bc/msnbc/00/msnbc_0004   4    1        public    NN              *)   public   -   1    Jean_Schmidt       *        *         *    51)
+bc/msnbc/00/msnbc_0004   4    2            in    IN           (PP*        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4    3          this    DT           (NP*        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4    4          very    RB         (ADJP*        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4    5         short    JJ              *)       -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4    6      election    NN              *        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4    7         cycle    NN            *)))    cycle   -   -    Jean_Schmidt       *        *)        *     -
+bc/msnbc/00/msnbc_0004   4    8           was   VBD           (VP*        be  01   1    Jean_Schmidt       *      (V*)        *     -
+bc/msnbc/00/msnbc_0004   4    9        rather    RB         (ADJP*        -    -   -    Jean_Schmidt       *   (ARG2*         *     -
+bc/msnbc/00/msnbc_0004   4   10      confused    JJ              *        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4   11            as    IN           (PP*        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4   12            to    IN           (PP*        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4   13           who    WP    (SBAR(WHNP*)       -    -   -    Jean_Schmidt       *        *    (ARG2*)    -
+bc/msnbc/00/msnbc_0004   4   14           the    DT         (S(NP*        -    -   -    Jean_Schmidt       *        *    (ARG1*     -
+bc/msnbc/00/msnbc_0004   4   15          real    JJ              *        -    -   -    Jean_Schmidt       *        *         *     -
+bc/msnbc/00/msnbc_0004   4   16    Republican   NNP              *)       -    -   -    Jean_Schmidt   (NORP)       *         *)    -
+bc/msnbc/00/msnbc_0004   4   17           was   VBD     (VP*)))))))       be  01   1    Jean_Schmidt       *        *)      (V*)    -
+bc/msnbc/00/msnbc_0004   4   18            /.     .             *))       -    -   -    Jean_Schmidt       *        *         *     -
+
+bc/msnbc/00/msnbc_0004   4    0          And     CC         (TOP(S*         -    -    -    Jean_Schmidt  *      *        *         *         *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0004   4    1         once     IN          (SBAR*         -    -    -    Jean_Schmidt  *      *        *         *         *    (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0004   4    2          the     DT        (S(S(NP*         -    -    -    Jean_Schmidt  *      *   (ARG1*         *         *             *       -
+bc/msnbc/00/msnbc_0004   4    3         mask     NN               *)      mask   -    2    Jean_Schmidt  *      *        *)        *         *             *       -
+bc/msnbc/00/msnbc_0004   4    4          was    VBD            (VP*         be  03    -    Jean_Schmidt  *    (V*)       *         *         *             *       -
+bc/msnbc/00/msnbc_0004   4    5        taken    VBN            (VP*       take  07   11    Jean_Schmidt  *      *      (V*)        *         *             *       -
+bc/msnbc/00/msnbc_0004   4    6          off     RP        (PRT*))))        -    -    -    Jean_Schmidt  *      *        *         *         *             *       -
+bc/msnbc/00/msnbc_0004   4    7           uh     UH          (INTJ*)        -    -    -    Jean_Schmidt  *      *        *         *         *             *       -
+bc/msnbc/00/msnbc_0004   4    8          and     CC               *         -    -    -    Jean_Schmidt  *      *        *         *         *             *       -
+bc/msnbc/00/msnbc_0004   4    9         they    PRP          (S(NP*)        -    -    -    Jean_Schmidt  *      *        *    (ARG0*)        *             *     (51)
+bc/msnbc/00/msnbc_0004   4   10     realized    VBD            (VP*    realize  01    1    Jean_Schmidt  *      *        *       (V*)        *             *       -
+bc/msnbc/00/msnbc_0004   4   11         that     IN          (SBAR*         -    -    -    Jean_Schmidt  *      *        *    (ARG1*         *             *       -
+bc/msnbc/00/msnbc_0004   4   12           he    PRP          (S(NP*)        -    -    -    Jean_Schmidt  *      *        *         *    (ARG1*)            *    (193)
+bc/msnbc/00/msnbc_0004   4   13          was    VBD            (VP*         be  01    1    Jean_Schmidt  *      *        *         *       (V*)            *       -
+bc/msnbc/00/msnbc_0004   4   14    different     JJ   (ADJP*))))))))        -    -    -    Jean_Schmidt  *      *        *         *)   (ARG2*)            *)      -
+bc/msnbc/00/msnbc_0004   4   15           uh     UH          (INTJ*)        -    -    -    Jean_Schmidt  *      *        *         *         *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0004   4   16         then     RB          (ADVP*)        -    -    -    Jean_Schmidt  *      *        *         *         *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0004   4   17         they    PRP            (NP*)        -    -    -    Jean_Schmidt  *      *        *         *         *        (ARG1*)    (51)
+bc/msnbc/00/msnbc_0004   4   18           uh     UH          (INTJ*)        -    -    -    Jean_Schmidt  *      *        *         *         *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0004   4   19         were    VBD            (VP*         be  01    1    Jean_Schmidt  *      *        *         *         *           (V*)      -
+bc/msnbc/00/msnbc_0004   4   20         more    RBR          (ADJP*         -    -    -    Jean_Schmidt  *      *        *         *         *        (ARG2*       -
+bc/msnbc/00/msnbc_0004   4   21        solid     JJ               *         -    -    -    Jean_Schmidt  *      *        *         *         *             *       -
+bc/msnbc/00/msnbc_0004   4   22           in     IN            (PP*         -    -    -    Jean_Schmidt  *      *        *         *         *             *       -
+bc/msnbc/00/msnbc_0004   4   23           my   PRP$            (NP*         -    -    -    Jean_Schmidt  *      *        *         *         *             *    (153)
+bc/msnbc/00/msnbc_0004   4   24         camp     NN            *))))      camp   -    6    Jean_Schmidt  *      *        *         *         *             *)      -
+bc/msnbc/00/msnbc_0004   4   25           /.      .              *))        -    -    -    Jean_Schmidt  *      *        *         *         *             *       -
+
+bc/msnbc/00/msnbc_0004   4    0           But    CC           (TOP(S*          -    -   -    Jean_Schmidt      *    (ARGM-DIS*)        *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    1            uh    UH            (INTJ*)         -    -   -    Jean_Schmidt      *    (ARGM-DIS*)        *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    2          with    IN              (PP*          -    -   -    Jean_Schmidt      *    (ARGM-ADV*         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    3           any    DT           (NP(NP*          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    4         short    JJ                 *          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    5      election    NN                 *)   election   -   1    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    6           and    CC                 *          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    7             a    DT              (NP*          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    8          very    RB            (ADJP*          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4    9       special    JJ                 *)         -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   10      election    NN                 *          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   11         cycle    NN               *)))      cycle   -   -    Jean_Schmidt      *             *)        *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   12             I   PRP              (NP*)         -    -   -    Jean_Schmidt      *        (ARG0*)        *      *            *             *    (153)
+bc/msnbc/00/msnbc_0004   4   13       caution   VBP              (VP*     caution  01   1    Jean_Schmidt      *           (V*)        *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   14       anybody    NN              (NP*)         -    -   -    Jean_Schmidt      *        (ARG2*)   (ARG0*)     *            *             *       -
+bc/msnbc/00/msnbc_0004   4   15            to    TO            (S(VP*          -    -   -    Jean_Schmidt      *        (ARG1*         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   16           use    VB              (VP*         use  01   1    Jean_Schmidt      *             *       (V*)     *            *             *       -
+bc/msnbc/00/msnbc_0004   4   17          this    DT              (NP*)         -    -   -    Jean_Schmidt      *             *    (ARG1*)     *            *             *       -
+bc/msnbc/00/msnbc_0004   4   18            as    IN              (PP*          -    -   -    Jean_Schmidt      *             *    (ARG2*      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   19             a    DT           (NP(NP*          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   20          bell    NN                 *        bell   -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   21       weather    NN                 *)    weather   -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   22            uh    UH            (INTJ*)         -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   23           for    IN              (PP*          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   24            uh    UH            (INTJ*)         -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   25         where   WRB     (SBAR(WHADVP*)         -    -   -    Jean_Schmidt      *             *         *      *       (ARG4*)            *       -
+bc/msnbc/00/msnbc_0004   4   26           the    DT            (S(NP*          -    -   -    Jean_Schmidt  (ORG*             *         *      *       (ARG0*             *       -
+bc/msnbc/00/msnbc_0004   4   27    Republican   NNP                 *          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   28         party   NNP                 *)         -    -   -    Jean_Schmidt      *)            *         *      *            *)            *       -
+bc/msnbc/00/msnbc_0004   4   29            is   VBZ              (VP*          be  03   -    Jean_Schmidt      *             *         *    (V*)           *             *       -
+bc/msnbc/00/msnbc_0004   4   30         going   VBG              (VP*          go  02   1    Jean_Schmidt      *             *         *      *          (V*)            *       -
+bc/msnbc/00/msnbc_0004   4   31            in    IN              (PP*          -    -   -    Jean_Schmidt      *             *         *      *   (ARGM-LOC*             *       -
+bc/msnbc/00/msnbc_0004   4   32          Ohio   NNP   (NP*))))))))))))         -    -   -    Jean_Schmidt   (GPE)            *)        *)     *            *)            *    (107)
+bc/msnbc/00/msnbc_0004   4   33       because    IN            (SBAR*          -    -   -    Jean_Schmidt      *    (ARGM-CAU*         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   34            uh    UH            (INTJ*)         -    -   -    Jean_Schmidt      *             *         *      *            *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0004   4   35          very    RB       (S(NP(ADJP*          -    -   -    Jean_Schmidt      *             *         *      *            *        (ARG0*       -
+bc/msnbc/00/msnbc_0004   4   36        unique    JJ                 *)         -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   37     elections   NNS                 *)         -    -   -    Jean_Schmidt      *             *         *      *            *             *)      -
+bc/msnbc/00/msnbc_0004   4   38          make   VBP              (VP*        make  02   3    Jean_Schmidt      *             *         *      *            *           (V*)      -
+bc/msnbc/00/msnbc_0004   4   39      outcomes   NNS            (S(NP*)         -    -   -    Jean_Schmidt      *             *         *      *            *        (ARG1*       -
+bc/msnbc/00/msnbc_0004   4   40            uh    UH            (INTJ*)         -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   41          very    RB            (ADJP*          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   42          very    RB                 *          -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+bc/msnbc/00/msnbc_0004   4   43     different    JJ            *))))))         -    -   -    Jean_Schmidt      *             *)        *      *            *             *)      -
+bc/msnbc/00/msnbc_0004   4   44            /.     .                *))         -    -   -    Jean_Schmidt      *             *         *      *            *             *       -
+
+bc/msnbc/00/msnbc_0004   4    0          Let    VB    (TOP(S(VP*          let  01    1    Chris_Matthews       *      (V*)            *            *         *             *       -
+bc/msnbc/00/msnbc_0004   4    1           's   PRP        (S(NP*)          -    -    -    Chris_Matthews       *   (ARG1*        (ARG0*)           *    (ARG0*)            *       -
+bc/msnbc/00/msnbc_0004   4    2         take    VB       (VP(VP*         take   -    2    Chris_Matthews       *        *    (ARGM-LVB*)           *         *             *       -
+bc/msnbc/00/msnbc_0004   4    3            a    DT       (NP(NP*           -    -    -    Chris_Matthews       *        *             *            *         *             *       -
+bc/msnbc/00/msnbc_0004   4    4         look    NN             *)        look  01    2    Chris_Matthews       *        *           (V*)           *         *             *       -
+bc/msnbc/00/msnbc_0004   4    5           at    IN          (PP*           -    -    -    Chris_Matthews       *        *        (ARG1*            *         *             *       -
+bc/msnbc/00/msnbc_0004   4    6    something    NN       (NP(NP*)   something   -    4    Chris_Matthews       *        *             *       (ARG1*)        *             *       -
+bc/msnbc/00/msnbc_0004   4    7          you   PRP   (SBAR(S(NP*)          -    -    -    Chris_Matthews       *        *             *       (ARG0*)        *             *    (153)
+bc/msnbc/00/msnbc_0004   4    8         said   VBD          (VP*          say  01    1    Chris_Matthews       *        *             *          (V*)        *             *       -
+bc/msnbc/00/msnbc_0004   4    9         here    RB        (ADVP*           -    -    -    Chris_Matthews       *        *             *   (ARGM-LOC*         *             *       -
+bc/msnbc/00/msnbc_0004   4   10           on    IN          (PP*           -    -    -    Chris_Matthews       *        *             *            *         *             *       -
+bc/msnbc/00/msnbc_0004   4   11         this    DT          (NP*           -    -    -    Chris_Matthews       *        *             *            *         *             *       -
+bc/msnbc/00/msnbc_0004   4   12      program    NN           *)))     program   -    2    Chris_Matthews       *        *             *            *)        *             *       -
+bc/msnbc/00/msnbc_0004   4   13         last    JJ          (NP*           -    -    -    Chris_Matthews  (DATE*        *             *   (ARGM-TMP*         *             *       -
+bc/msnbc/00/msnbc_0004   4   14         week    NN      *))))))))          -    -    -    Chris_Matthews       *)       *             *)           *)        *             *       -
+bc/msnbc/00/msnbc_0004   4   15          and    CC             *           -    -    -    Chris_Matthews       *        *             *            *         *             *       -
+bc/msnbc/00/msnbc_0004   4   16          see    VB          (VP*          see  01   11    Chris_Matthews       *        *             *            *       (V*)            *       -
+bc/msnbc/00/msnbc_0004   4   17           if    IN        (SBAR*           -    -    -    Chris_Matthews       *        *             *            *    (ARG1*             *       -
+bc/msnbc/00/msnbc_0004   4   18          you   PRP        (S(NP*)          -    -    -    Chris_Matthews       *        *             *            *         *        (ARG0*)   (153)
+bc/msnbc/00/msnbc_0004   4   19        still    RB        (ADVP*)          -    -    -    Chris_Matthews       *        *             *            *         *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0004   4   20        think   VBP          (VP*        think  01    1    Chris_Matthews       *        *             *            *         *           (V*)      -
+bc/msnbc/00/msnbc_0004   4   21         this    DT          (NP*           -    -    -    Chris_Matthews       *        *             *            *         *    (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0004   4   22          way    NN             *)         way   -    1    Chris_Matthews       *        *             *            *         *             *)      -
+bc/msnbc/00/msnbc_0004   4   23        right    RB        (ADVP*           -    -    -    Chris_Matthews       *        *             *            *         *    (ARGM-TMP*       -
+bc/msnbc/00/msnbc_0004   4   24          now    RB      *))))))))          -    -    -    Chris_Matthews       *        *)            *            *         *)            *)      -
+bc/msnbc/00/msnbc_0004   4   25           /.     .            *))          -    -    -    Chris_Matthews       *        *             *            *         *             *       -
+
+bc/msnbc/00/msnbc_0004   4   0       They   PRP   (TOP(S(NP*)    -    -   -    Jean_Schmidt  *        (ARG1*)     *    (90)
+bc/msnbc/00/msnbc_0004   4   1        're   VBP         (VP*     be  01   1    Jean_Schmidt  *           (V*)     *      -
+bc/msnbc/00/msnbc_0004   4   2        not    RB            *     -    -   -    Jean_Schmidt  *    (ARGM-NEG*)     *      -
+bc/msnbc/00/msnbc_0004   4   3     solely    RB       (ADJP*     -    -   -    Jean_Schmidt  *        (ARG2*      *      -
+bc/msnbc/00/msnbc_0004   4   4    focused    JJ            *     -    -   -    Jean_Schmidt  *             *      *      -
+bc/msnbc/00/msnbc_0004   4   5         on    IN         (PP*     -    -   -    Jean_Schmidt  *             *      *      -
+bc/msnbc/00/msnbc_0004   4   6       this    DT         (NP*     -    -   -    Jean_Schmidt  *             *      *    (58
+bc/msnbc/00/msnbc_0004   4   7        war    NN         *))))   war  01   1    Jean_Schmidt  *             *)   (V*)    58)
+bc/msnbc/00/msnbc_0004   4   8         /.     .           *))    -    -   -    Jean_Schmidt  *             *      *      -
+
+bc/msnbc/00/msnbc_0004   4   0       Maybe    RB   (TOP(S(ADVP*)   -    -   -    Jean_Schmidt  *    (ARGM-ADV*)  -
+bc/msnbc/00/msnbc_0004   4   1         the    DT           (NP*    -    -   -    Jean_Schmidt  *        (ARG1*   -
+bc/msnbc/00/msnbc_0004   4   2    national    JJ              *    -    -   -    Jean_Schmidt  *             *   -
+bc/msnbc/00/msnbc_0004   4   3       media    NN              *)   -    -   -    Jean_Schmidt  *             *)  -
+bc/msnbc/00/msnbc_0004   4   4          is   VBZ           (VP*)   be  01   1    Jean_Schmidt  *           (V*)  -
+bc/msnbc/00/msnbc_0004   4   5          /.     .             *))   -    -   -    Jean_Schmidt  *             *   -
+
+bc/msnbc/00/msnbc_0004   4    0         but    CC       (TOP(S*        -    -   -    Jean_Schmidt      *      *    (ARGM-DIS*)          *      -
+bc/msnbc/00/msnbc_0004   4    1         the    DT       (NP(NP*        -    -   -    Jean_Schmidt      *      *        (ARG0*           *    (90
+bc/msnbc/00/msnbc_0004   4    2      people   NNS             *)   people   -   1    Jean_Schmidt      *      *             *           *      -
+bc/msnbc/00/msnbc_0004   4    3       right    RB        (ADVP*        -    -   -    Jean_Schmidt      *      *             *           *      -
+bc/msnbc/00/msnbc_0004   4    4        here    RB             *        -    -   -    Jean_Schmidt      *      *             *           *      -
+bc/msnbc/00/msnbc_0004   4    5          in    IN          (PP*        -    -   -    Jean_Schmidt      *      *             *           *      -
+bc/msnbc/00/msnbc_0004   4    6    southern    JJ          (NP*        -    -   -    Jean_Schmidt      *      *             *           *      -
+bc/msnbc/00/msnbc_0004   4    7        Ohio   NNP          *))))       -    -   -    Jean_Schmidt   (GPE)     *             *)          *     90)
+bc/msnbc/00/msnbc_0004   4    8         are   VBP          (VP*        be  03   -    Jean_Schmidt      *    (V*)            *           *      -
+bc/msnbc/00/msnbc_0004   4    9     talking   VBG          (VP*      talk  01   1    Jean_Schmidt      *      *           (V*)          *      -
+bc/msnbc/00/msnbc_0004   4   10       about    IN          (PP*        -    -   -    Jean_Schmidt      *      *        (ARG1*           *      -
+bc/msnbc/00/msnbc_0004   4   11      issues   NNS       (NP(NP*)    issue   -   1    Jean_Schmidt      *      *             *      (ARG2*)     -
+bc/msnbc/00/msnbc_0004   4   12        that   WDT   (SBAR(WHNP*)       -    -   -    Jean_Schmidt      *      *             *    (R-ARG2*)     -
+bc/msnbc/00/msnbc_0004   4   13      affect   VBP        (S(VP*    affect  01   1    Jean_Schmidt      *      *             *         (V*)     -
+bc/msnbc/00/msnbc_0004   4   14        them   PRP   (NP*))))))))       -    -   -    Jean_Schmidt      *      *             *)     (ARG1*)   (90)
+bc/msnbc/00/msnbc_0004   4   15          /.     .            *))       -    -   -    Jean_Schmidt      *      *             *           *      -
+
+bc/msnbc/00/msnbc_0004   4    0          They    PRP      (TOP(S(NP*)           -    -   -    Jean_Schmidt  *      *       (ARG0*)   (ARG0*)           *           *         *         *      *             *    (90)
+bc/msnbc/00/msnbc_0004   4    1           're    VBP            (VP*            be  03   -    Jean_Schmidt  *    (V*)           *         *            *           *         *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    2       talking    VBG            (VP*          talk  01   1    Jean_Schmidt  *      *          (V*)        *            *           *         *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    3         about     IN            (PP*            -    -   -    Jean_Schmidt  *      *       (ARG1*         *            *           *         *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    4        having    VBG          (S(VP*          have  03   -    Jean_Schmidt  *      *            *       (V*)           *           *         *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    5           tax     NN         (NP(NP*           tax   -   1    Jean_Schmidt  *      *            *    (ARG1*       (ARG1*)     (ARG1*         *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    6          cuts    NNS               *)          cut  02   9    Jean_Schmidt  *      *            *         *          (V*)          *)        *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    7          that    WDT     (SBAR(WHNP*)           -    -   -    Jean_Schmidt  *      *            *         *   (ARGM-ADJ*    (R-ARG1*)        *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    8           are    VBP          (S(VP*            be  01   1    Jean_Schmidt  *      *            *         *            *         (V*)        *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4    9     permanent     JJ   (ADJP*))))))))           -    -   -    Jean_Schmidt  *      *            *)        *)           *)     (ARG2*)        *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4   10       because     IN          (SBAR*            -    -   -    Jean_Schmidt  *      *   (ARGM-CAU*         *            *           *         *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4   11          they    PRP        (S(S(NP*)           -    -   -    Jean_Schmidt  *      *            *         *            *           *    (ARG0*)   (ARG0*)     *             *    (90)
+bc/msnbc/00/msnbc_0004   4   12          want    VBP            (VP*          want  01   1    Jean_Schmidt  *      *            *         *            *           *       (V*)        *      *             *      -
+bc/msnbc/00/msnbc_0004   4   13            to     TO          (S(VP*            -    -   -    Jean_Schmidt  *      *            *         *            *           *    (ARG1*         *      *             *      -
+bc/msnbc/00/msnbc_0004   4   14         spend     VB            (VP*         spend  01   2    Jean_Schmidt  *      *            *         *            *           *         *       (V*)     *             *      -
+bc/msnbc/00/msnbc_0004   4   15         their   PRP$            (NP*            -    -   -    Jean_Schmidt  *      *            *         *            *           *         *    (ARG3*      *             *    (90)
+bc/msnbc/00/msnbc_0004   4   16           own     JJ               *            -    -   -    Jean_Schmidt  *      *            *         *            *           *         *         *      *             *      -
+bc/msnbc/00/msnbc_0004   4   17         money     NN          *))))))        money   -   2    Jean_Schmidt  *      *            *         *            *           *         *)        *)     *             *      -
+bc/msnbc/00/msnbc_0004   4   18          they    PRP          (S(NP*)           -    -   -    Jean_Schmidt  *      *            *         *            *           *         *         *      *        (ARG0*)   (90)
+bc/msnbc/00/msnbc_0004   4   19            do    VBP            (VP*            do  01   -    Jean_Schmidt  *      *            *         *            *           *         *         *    (V*)            *      -
+bc/msnbc/00/msnbc_0004   4   20           n't     RB               *            -    -   -    Jean_Schmidt  *      *            *         *            *           *         *         *      *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0004   4   21          want     VB            (VP*          want  01   1    Jean_Schmidt  *      *            *         *            *           *         *         *      *           (V*)     -
+bc/msnbc/00/msnbc_0004   4   22    government     NN          (S(NP*)   government   -   1    Jean_Schmidt  *      *            *         *            *           *         *         *      *        (ARG1*      -
+bc/msnbc/00/msnbc_0004   4   23            to     TO    (VP*)))))))))           -    -   -    Jean_Schmidt  *      *            *)        *            *           *         *         *      *             *)     -
+bc/msnbc/00/msnbc_0004   4   24            /.      .              *))           -    -   -    Jean_Schmidt  *      *            *         *            *           *         *         *      *             *      -
+
+bc/msnbc/00/msnbc_0004   4   0    Issues   NNS   (TOP(NP(NP*)    issue   -   1    Chris_Matthews  *      (ARG2*)     -
+bc/msnbc/00/msnbc_0004   4   1      that   WDT   (SBAR(WHNP*)       -    -   -    Chris_Matthews  *    (R-ARG2*)     -
+bc/msnbc/00/msnbc_0004   4   2    affect   VBP        (S(VP*    affect  01   1    Chris_Matthews  *         (V*)     -
+bc/msnbc/00/msnbc_0004   4   3      them   PRP       (NP*))))       -    -   -    Chris_Matthews  *      (ARG1*)   (90)
+bc/msnbc/00/msnbc_0004   4   4        /.     .            *))       -    -   -    Chris_Matthews  *           *      -
+
+bc/msnbc/00/msnbc_0004   4    0            Do    VBP        (TOP(SQ*         do  01   -    Chris_Matthews           *    (V*)        *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4    1           you    PRP            (NP*)        -    -   -    Chris_Matthews           *      *    (ARG0*)           *             *      *      *         *      *      (153)
+bc/msnbc/00/msnbc_0004   4    2         think     VB            (VP*      think  01   1    Chris_Matthews           *      *       (V*)           *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4    3          that     IN          (SBAR*         -    -   -    Chris_Matthews           *      *    (ARG1*            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4    4           the     DT       (S(NP(NP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *    (ARG0*      *       (75
+bc/msnbc/00/msnbc_0004   4    5          loss     NN               *)        -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4    6            uh     UH          (INTJ*)        -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4    7            of     IN            (PP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4    8           the     DT      (NP(NP(NP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *       (77
+bc/msnbc/00/msnbc_0004   4    9        twenty     CD               *         -    -   -    Chris_Matthews   (CARDINAL)     *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   10            uh     UH               *         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   11          guys    NNS               *)       guy   -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   12          over     RB          (ADVP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   13         there     RB              *))        -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   14    servicemen    NNS         (NP(NP*)        -    -   -    Chris_Matthews           *      *         *       (ARG0*)            *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   15      fighting    VBG            (VP*      fight  01   1    Chris_Matthews           *      *         *          (V*)            *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   16           for     IN            (PP*         -    -   -    Chris_Matthews           *      *         *       (ARG2*             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   17         their   PRP$            (NP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *       (77)
+bc/msnbc/00/msnbc_0004   4   18       country     NN              *))   country   -   3    Chris_Matthews           *      *         *            *)            *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   19          over     IN            (PP*         -    -   -    Chris_Matthews           *      *         *   (ARGM-LOC*             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   20            in     IN            (PP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   21          Iraq    NNP          (NP*)))        -    -   -    Chris_Matthews        (GPE)     *         *            *)            *      *      *         *      *       (76)
+bc/msnbc/00/msnbc_0004   4   22           for     IN            (PP*         -    -   -    Chris_Matthews           *      *         *   (ARGM-ADV*             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   23         their   PRP$            (NP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *       (77)
+bc/msnbc/00/msnbc_0004   4   24          Ohio    NNP          (ADJP*         -    -   -    Chris_Matthews        (GPE)     *         *            *    (ARGM-LOC*)     *      *         *      *      (107)
+bc/msnbc/00/msnbc_0004   4   25         based    VBN               *)      base  01   -    Chris_Matthews           *      *         *            *           (V*)     *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   26          unit     NN         *)))))))      unit   -   2    Chris_Matthews           *      *         *            *)       (ARG1*)     *      *         *)     *    77)|75)
+bc/msnbc/00/msnbc_0004   4   27            is    VBZ            (VP*         be  03   -    Chris_Matthews           *      *         *            *             *    (V*)     *         *      *         -
+bc/msnbc/00/msnbc_0004   4   28         going    VBG            (VP*         go  04   7    Chris_Matthews           *      *         *            *             *      *    (V*)        *      *         -
+bc/msnbc/00/msnbc_0004   4   29            to     TO          (S(VP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+bc/msnbc/00/msnbc_0004   4   30         bring     VB            (VP*      bring  01   1    Chris_Matthews           *      *         *            *             *      *      *       (V*)     *         -
+bc/msnbc/00/msnbc_0004   4   31          this     DT            (NP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *    (ARG1*      *       (58
+bc/msnbc/00/msnbc_0004   4   32           war     NN               *)       war  01   1    Chris_Matthews           *      *         *            *             *      *      *         *)   (V*)       58)
+bc/msnbc/00/msnbc_0004   4   33          home     RB          (ADVP*)        -    -   -    Chris_Matthews           *      *         *            *             *      *      *    (ARG3*)     *         -
+bc/msnbc/00/msnbc_0004   4   34            to     IN            (PP*         -    -   -    Chris_Matthews           *      *         *            *             *      *      *    (ARG2*      *         -
+bc/msnbc/00/msnbc_0004   4   35        people    NNS   (NP*))))))))))    people   -   1    Chris_Matthews           *      *         *)           *             *      *      *         *)     *         -
+bc/msnbc/00/msnbc_0004   4   36            /?      .              *))        -    -   -    Chris_Matthews           *      *         *            *             *      *      *         *      *         -
+
+bc/msnbc/00/msnbc_0004   4    0              I    PRP          (TOP(S(NP*)       -    -   -    Jean_Schmidt  *      *        (ARG0*)     *      *            *      *            *    (153)
+bc/msnbc/00/msnbc_0004   4    1             do    VBP                (VP*        do  01   -    Jean_Schmidt  *    (V*)            *      *      *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4    2            n't     RB                   *        -    -   -    Jean_Schmidt  *      *    (ARGM-NEG*)     *      *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4    3          think     VB                (VP*     think  01   1    Jean_Schmidt  *      *           (V*)     *      *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4    4             it    PRP         (SBAR(S(NP*)       -    -   -    Jean_Schmidt  *      *        (ARG1*      *      *       (ARG0*)     *            *     (75)
+bc/msnbc/00/msnbc_0004   4    5             's    VBZ                (VP*        be  03   -    Jean_Schmidt  *      *             *    (V*)     *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4    6          going    VBG                (VP*        go  04   7    Jean_Schmidt  *      *             *      *    (V*)           *      *            *       -
+bc/msnbc/00/msnbc_0004   4    7             to     TO              (S(VP*        -    -   -    Jean_Schmidt  *      *             *      *      *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4    8          bring     VB                (VP*     bring  01   1    Jean_Schmidt  *      *             *      *      *          (V*)     *            *       -
+bc/msnbc/00/msnbc_0004   4    9            the     DT                (NP*        -    -   -    Jean_Schmidt  *      *             *      *      *       (ARG1*      *            *     (58
+bc/msnbc/00/msnbc_0004   4   10            war     NN                   *)      war  01   1    Jean_Schmidt  *      *             *      *      *            *)   (V*)           *      58)
+bc/msnbc/00/msnbc_0004   4   11           home     RB              (ADVP*)       -    -   -    Jean_Schmidt  *      *             *      *      *       (ARG3*)     *            *       -
+bc/msnbc/00/msnbc_0004   4   12        anymore     RB         (ADVP(ADVP*        -    -   -    Jean_Schmidt  *      *             *      *      *   (ARGM-MNR*      *            *       -
+bc/msnbc/00/msnbc_0004   4   13    differently     RB                   *)       -    -   -    Jean_Schmidt  *      *             *      *      *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4   14           than     IN                (PP*        -    -   -    Jean_Schmidt  *      *             *      *      *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4   15            the     DT             (NP(NP*        -    -   -    Jean_Schmidt  *      *             *      *      *            *      *       (ARG1*    (183
+bc/msnbc/00/msnbc_0004   4   16         button     NN                   *)   button   -   -    Jean_Schmidt  *      *             *      *      *            *      *            *)      -
+bc/msnbc/00/msnbc_0004   4   17           that    WDT         (SBAR(WHNP*)       -    -   -    Jean_Schmidt  *      *             *      *      *            *      *     (R-ARG1*)      -
+bc/msnbc/00/msnbc_0004   4   18              I    PRP              (S(NP*)       -    -   -    Jean_Schmidt  *      *             *      *      *            *      *       (ARG0*)   (153)
+bc/msnbc/00/msnbc_0004   4   19           wear    VBP                (VP*      wear  01   1    Jean_Schmidt  *      *             *      *      *            *      *          (V*)      -
+bc/msnbc/00/msnbc_0004   4   20             on     IN                (PP*        -    -   -    Jean_Schmidt  *      *             *      *      *            *      *   (ARGM-LOC*       -
+bc/msnbc/00/msnbc_0004   4   21             my   PRP$                (NP*        -    -   -    Jean_Schmidt  *      *             *      *      *            *      *            *    (153)
+bc/msnbc/00/msnbc_0004   4   22             uh     UH                   *        -    -   -    Jean_Schmidt  *      *             *      *      *            *      *            *       -
+bc/msnbc/00/msnbc_0004   4   23          lapel     NN   *)))))))))))))))))       -    -   -    Jean_Schmidt  *      *             *)     *      *            *)     *            *)    183)
+bc/msnbc/00/msnbc_0004   4   24             /.      .                  *))       -    -   -    Jean_Schmidt  *      *             *      *      *            *      *            *       -
+
+bc/msnbc/00/msnbc_0004   4    0        And    CC     (TOP(S*         -    -   -    Jean_Schmidt      *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0004   4    1       that    DT        (NP*)        -    -   -    Jean_Schmidt      *        (ARG1*)   (183)
+bc/msnbc/00/msnbc_0004   4    2         's   VBZ        (VP*         be  01   1    Jean_Schmidt      *           (V*)      -
+bc/msnbc/00/msnbc_0004   4    3        for    IN        (PP*         -    -   -    Jean_Schmidt      *    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0004   4    4       Matt   NNP     (NP(NP*         -    -   -    Jean_Schmidt      *             *       -
+bc/msnbc/00/msnbc_0004   4    5     Moppin   NNP           *)        -    -   -    Jean_Schmidt      *             *       -
+bc/msnbc/00/msnbc_0004   4    6        the    DT     (NP(NP*         -    -   -    Jean_Schmidt      *             *       -
+bc/msnbc/00/msnbc_0004   4    7       only    JJ           *         -    -   -    Jean_Schmidt      *             *       -
+bc/msnbc/00/msnbc_0004   4    8    missing    JJ           *         -    -   -    Jean_Schmidt      *             *       -
+bc/msnbc/00/msnbc_0004   4    9    soldier    NN           *)   soldier   -   -    Jean_Schmidt      *             *       -
+bc/msnbc/00/msnbc_0004   4   10         in    IN        (PP*         -    -   -    Jean_Schmidt      *             *       -
+bc/msnbc/00/msnbc_0004   4   11       Iraq   NNP   (NP*))))))        -    -   -    Jean_Schmidt   (GPE)            *)    (76)
+bc/msnbc/00/msnbc_0004   4   12         /.     .          *))        -    -   -    Jean_Schmidt      *             *       -
+
+bc/msnbc/00/msnbc_0004   4   0        Uh    UH   (TOP(S(INTJ*)       -    -   -    Jean_Schmidt      *    (ARGM-DIS*)           -
+bc/msnbc/00/msnbc_0004   4   1       the    DT        (NP(NP*        -    -   -    Jean_Schmidt      *        (ARG1*         (111
+bc/msnbc/00/msnbc_0004   4   2    people   NNS              *)   people   -   1    Jean_Schmidt      *             *            -
+bc/msnbc/00/msnbc_0004   4   3        in    IN           (PP*        -    -   -    Jean_Schmidt      *             *            -
+bc/msnbc/00/msnbc_0004   4   4      Ohio   NNP         (NP*)))       -    -   -    Jean_Schmidt   (GPE)            *)   (107)|111)
+bc/msnbc/00/msnbc_0004   4   5       are   VBP           (VP*        be  01   1    Jean_Schmidt      *           (V*)           -
+bc/msnbc/00/msnbc_0004   4   6      very    RB         (ADJP*        -    -   -    Jean_Schmidt      *        (ARG2*            -
+bc/msnbc/00/msnbc_0004   4   7     smart    JJ             *))       -    -   -    Jean_Schmidt      *             *)           -
+bc/msnbc/00/msnbc_0004   4   8        /.     .             *))       -    -   -    Jean_Schmidt      *             *            -
+
+bc/msnbc/00/msnbc_0004   4    0          They    PRP   (TOP(S(NP*)           -    -   -    Jean_Schmidt  *    (ARG0*)     *    (111)
+bc/msnbc/00/msnbc_0004   4    1    understand    VBP         (VP*    understand  01   1    Jean_Schmidt  *       (V*)     *       -
+bc/msnbc/00/msnbc_0004   4    2           the     DT      (NP(NP*            -    -   -    Jean_Schmidt  *    (ARG1*      *       -
+bc/msnbc/00/msnbc_0004   4    3    sacrifices    NNS            *)    sacrifice   -   1    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4    4         these     DT  (SBAR(S(NP*            -    -   -    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4    5           men    NNS            *           man   -   1    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4    6           and     CC            *            -    -   -    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4    7         women    NNS            *)        woman   -   1    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4    8           are    VBP         (VP*            be  03   -    Jean_Schmidt  *         *    (V*)      -
+bc/msnbc/00/msnbc_0004   4    9        making    VBG         (VP*          make   -   1    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4   10            on     IN         (PP*            -    -   -    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4   11           our   PRP$         (NP*            -    -   -    Jean_Schmidt  *         *      *       -
+bc/msnbc/00/msnbc_0004   4   12        behalf     NN     *))))))))           -    -   -    Jean_Schmidt  *         *)     *       -
+bc/msnbc/00/msnbc_0004   4   13            /.      .           *))           -    -   -    Jean_Schmidt  *         *      *       -
+
+bc/msnbc/00/msnbc_0004   4    0       But    CC      (TOP(S*        -    -   -    Jean_Schmidt  *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0004   4    1      they   PRP         (NP*)       -    -   -    Jean_Schmidt  *        (ARG0*)   (ARG0*)   (111)
+bc/msnbc/00/msnbc_0004   4    2      also    RB       (ADVP*)       -    -   -    Jean_Schmidt  *    (ARGM-ADV*)        *       -
+bc/msnbc/00/msnbc_0004   4    3      want   VBP         (VP*      want  01   1    Jean_Schmidt  *           (V*)        *       -
+bc/msnbc/00/msnbc_0004   4    4        to    TO       (S(VP*        -    -   -    Jean_Schmidt  *        (ARG1*         *       -
+bc/msnbc/00/msnbc_0004   4    5      talk    VB         (VP*      talk  01   1    Jean_Schmidt  *             *       (V*)      -
+bc/msnbc/00/msnbc_0004   4    6     about    IN         (PP*        -    -   -    Jean_Schmidt  *             *    (ARG1*       -
+bc/msnbc/00/msnbc_0004   4    7     other    JJ      (NP(NP*        -    -   -    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4    8    issues   NNS            *)    issue   -   1    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4    9    issues   NNS      (NP(NP*)    issue   -   1    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   10      like    IN      (PP(PP*        -    -   -    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   11     taxes   NNS      (NP(NP*)      tax   -   1    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   12       and    CC            *        -    -   -    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   13       tax    NN         (NP*       tax   -   1    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   14    reform    NN          *)))   reform   -   -    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   15      like    IN         (PP*        -    -   -    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   16         a    DT         (NP*        -    -   -    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   17    strong    JJ            *        -    -   -    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   18    energy    NN            *    energy   -   1    Jean_Schmidt  *             *         *       -
+bc/msnbc/00/msnbc_0004   4   19    policy    NN   *))))))))))       -    -   -    Jean_Schmidt  *             *)        *)      -
+bc/msnbc/00/msnbc_0004   4   20        /.     .           *))       -    -   -    Jean_Schmidt  *             *         *       -
+
+bc/msnbc/00/msnbc_0004   4    0           Uh    UH   (TOP(S(INTJ*)        -    -   -    Jean_Schmidt      *    (ARGM-DIS*)        *        *       -
+bc/msnbc/00/msnbc_0004   4    1         they   PRP           (NP*)        -    -   -    Jean_Schmidt      *        (ARG0*)   (ARG0*)       *    (111)
+bc/msnbc/00/msnbc_0004   4    2         want   VBP           (VP*       want  01   1    Jean_Schmidt      *           (V*)        *        *       -
+bc/msnbc/00/msnbc_0004   4    3           to    TO         (S(VP*         -    -   -    Jean_Schmidt      *        (ARG1*         *        *       -
+bc/msnbc/00/msnbc_0004   4    4         talk    VB           (VP*       talk  01   1    Jean_Schmidt      *             *       (V*)       *       -
+bc/msnbc/00/msnbc_0004   4    5        about    IN           (PP*         -    -   -    Jean_Schmidt      *             *    (ARG1*        *       -
+bc/msnbc/00/msnbc_0004   4    6     national    JJ        (NP(NP*         -    -   -    Jean_Schmidt      *             *         *   (ARG2*       -
+bc/msnbc/00/msnbc_0004   4    7       issues   NNS              *)     issue   -   1    Jean_Schmidt      *             *         *        *)      -
+bc/msnbc/00/msnbc_0004   4    8    including   VBG           (PP*    include  01   1    Jean_Schmidt      *             *         *      (V*)      -
+bc/msnbc/00/msnbc_0004   4    9         Iraq   NNP        (NP(NP*)        -    -   -    Jean_Schmidt   (GPE)            *         *   (ARG1*     (76)
+bc/msnbc/00/msnbc_0004   4   10          but    CC              *         -    -   -    Jean_Schmidt      *             *         *        *       -
+bc/msnbc/00/msnbc_0004   4   11         also    RB              *         -    -   -    Jean_Schmidt      *             *         *        *       -
+bc/msnbc/00/msnbc_0004   4   12       border    NN        (NP(NP*     border   -   1    Jean_Schmidt      *             *         *        *       -
+bc/msnbc/00/msnbc_0004   4   13       patrol    NN              *)    patrol   -   -    Jean_Schmidt      *             *         *        *       -
+bc/msnbc/00/msnbc_0004   4   14          and    CC              *         -    -   -    Jean_Schmidt      *             *         *        *       -
+bc/msnbc/00/msnbc_0004   4   15       border    NN           (NP*     border   -   1    Jean_Schmidt      *             *         *        *       -
+bc/msnbc/00/msnbc_0004   4   16     security    NN     *))))))))))        -    -   -    Jean_Schmidt      *             *)        *)       *)      -
+bc/msnbc/00/msnbc_0004   4   17           /.     .             *))        -    -   -    Jean_Schmidt      *             *         *        *       -
+
+bc/msnbc/00/msnbc_0004   4    0          And    CC  (TOP(S*           -    -   -    Jean_Schmidt       *            *    (ARGM-DIS*)        *      *       -
+bc/msnbc/00/msnbc_0004   4    1    yesterday    NN     (NP*)   yesterday   -   1    Jean_Schmidt   (DATE)           *    (ARGM-TMP*)        *      *       -
+bc/msnbc/00/msnbc_0004   4    2           as    IN   (SBAR*           -    -   -    Jean_Schmidt       *            *    (ARGM-TMP*         *      *       -
+bc/msnbc/00/msnbc_0004   4    3            I   PRP   (S(NP*)          -    -   -    Jean_Schmidt       *       (ARG1*)            *         *      *    (153)
+bc/msnbc/00/msnbc_0004   4    4        stood   VBD     (VP*        stand  01   2    Jean_Schmidt       *          (V*)            *         *      *       -
+bc/msnbc/00/msnbc_0004   4    5      outside    IN     (PP*           -    -   -    Jean_Schmidt       *       (ARG2*             *         *      *       -
+bc/msnbc/00/msnbc_0004   4    6          the    DT     (NP*           -    -   -    Jean_Schmidt       *            *             *         *      *       -
+bc/msnbc/00/msnbc_0004   4    7        polls   NNS       *))        poll   -   -    Jean_Schmidt       *            *)            *         *      *       -
+bc/msnbc/00/msnbc_0004   4    8          for    IN     (PP*           -    -   -    Jean_Schmidt       *   (ARGM-TMP*             *         *      *       -
+bc/msnbc/00/msnbc_0004   4    9     thirteen    CD     (NP*           -    -   -    Jean_Schmidt  (TIME*            *             *         *      *       -
+bc/msnbc/00/msnbc_0004   4   10        hours   NNS    *)))))        hour   -   1    Jean_Schmidt       *)           *)            *)        *      *       -
+bc/msnbc/00/msnbc_0004   4   11           uh    UH   (INTJ*)          -    -   -    Jean_Schmidt       *            *    (ARGM-DIS*)        *      *       -
+bc/msnbc/00/msnbc_0004   4   12            I   PRP     (NP*)          -    -   -    Jean_Schmidt       *            *        (ARG0*)        *      *    (153)
+bc/msnbc/00/msnbc_0004   4   13        never    RB   (ADVP*)          -    -   -    Jean_Schmidt       *            *    (ARGM-NEG*)        *      *       -
+bc/msnbc/00/msnbc_0004   4   14        heard   VBD     (VP*         hear  01   1    Jean_Schmidt       *            *           (V*)        *      *       -
+bc/msnbc/00/msnbc_0004   4   15       people   NNS   (S(NP*)      people   -   1    Jean_Schmidt       *            *        (ARG1*    (ARG0*)     *    (124)
+bc/msnbc/00/msnbc_0004   4   16      talking   VBG     (VP*         talk  01   1    Jean_Schmidt       *            *             *       (V*)     *       -
+bc/msnbc/00/msnbc_0004   4   17        about    IN     (PP*           -    -   -    Jean_Schmidt       *            *             *    (ARG1*      *       -
+bc/msnbc/00/msnbc_0004   4   18          the    DT     (NP*           -    -   -    Jean_Schmidt       *            *             *         *      *     (58
+bc/msnbc/00/msnbc_0004   4   19          war    NN    *)))))         war  01   1    Jean_Schmidt       *            *             *)        *)   (V*)     58)
+bc/msnbc/00/msnbc_0004   4   20           /.     .       *))          -    -   -    Jean_Schmidt       *            *             *         *      *       -
+
+bc/msnbc/00/msnbc_0004   4    0         They   PRP     (TOP(S(NP*)      -    -   -    Jean_Schmidt  *    (ARG0*)            *    (124)
+bc/msnbc/00/msnbc_0004   4    1       talked   VBD           (VP*     talk  01   1    Jean_Schmidt  *       (V*)            *       -
+bc/msnbc/00/msnbc_0004   4    2        about    IN           (PP*       -    -   -    Jean_Schmidt  *    (ARG1*             *       -
+bc/msnbc/00/msnbc_0004   4    3       issues   NNS        (NP(NP*)   issue   -   1    Jean_Schmidt  *         *        (ARG1*)      -
+bc/msnbc/00/msnbc_0004   4    4         that   WDT    (SBAR(WHNP*)      -    -   -    Jean_Schmidt  *         *      (R-ARG1*)      -
+bc/msnbc/00/msnbc_0004   4    5         were   VBD         (S(VP*       be  01   1    Jean_Schmidt  *         *           (V*)      -
+bc/msnbc/00/msnbc_0004   4    6           uh    UH         (INTJ*)      -    -   -    Jean_Schmidt  *         *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0004   4    7         more   RBR    (ADJP(ADJP*       -    -   -    Jean_Schmidt  *         *        (ARG2*       -
+bc/msnbc/00/msnbc_0004   4    8    important    JJ              *)      -    -   -    Jean_Schmidt  *         *             *       -
+bc/msnbc/00/msnbc_0004   4    9          and    CC              *       -    -   -    Jean_Schmidt  *         *             *       -
+bc/msnbc/00/msnbc_0004   4   10         more   RBR         (ADJP*       -    -   -    Jean_Schmidt  *         *             *       -
+bc/msnbc/00/msnbc_0004   4   11        local    JJ              *)      -    -   -    Jean_Schmidt  *         *             *       -
+bc/msnbc/00/msnbc_0004   4   12           to    IN           (PP*       -    -   -    Jean_Schmidt  *         *             *       -
+bc/msnbc/00/msnbc_0004   4   13         them   PRP   (NP*)))))))))      -    -   -    Jean_Schmidt  *         *)            *)   (124)
+bc/msnbc/00/msnbc_0004   4   14           /.     .             *))      -    -   -    Jean_Schmidt  *         *             *       -
+
+bc/msnbc/00/msnbc_0004   4   0    Okay   UH  (TOP(INTJ*   -   -   -    Chris_Matthews  *   -
+bc/msnbc/00/msnbc_0004   4   1      /.    .          *))  -   -   -    Chris_Matthews  *   -

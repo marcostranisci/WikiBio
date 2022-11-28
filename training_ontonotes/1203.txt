@@ -1,0 +1,163 @@
+bc/msnbc/00/msnbc_0004   0    0        Both    DT  (TOP(S(NP(NP*         -    -   -   speaker1            *      (ARG1*        (ARG2*   -
+bc/msnbc/00/msnbc_0004   0    1    vehicles   NNS              *)   vehicle   -   1   speaker1            *           *)            *   -
+bc/msnbc/00/msnbc_0004   0    2       which   WDT    (SBAR(WHNP*)        -    -   -   speaker1            *    (R-ARG1*)            *   -
+bc/msnbc/00/msnbc_0004   0    3         are   VBP         (S(VP*         be  01   1   speaker1            *         (V*)            *   -
+bc/msnbc/00/msnbc_0004   0    4     armored    JJ     (ADJP*)))))        -    -   -   speaker1            *      (ARG2*)            *)  -
+bc/msnbc/00/msnbc_0004   0    5         can    MD           (VP*         -    -   -   speaker1            *           *    (ARGM-MOD*)  -
+bc/msnbc/00/msnbc_0004   0    6       house    VB           (VP*      house  01   1   speaker1            *           *           (V*)  -
+bc/msnbc/00/msnbc_0004   0    7          up    IN        (NP(QP*         -    -   -   speaker1   (CARDINAL*           *        (ARG1*   -
+bc/msnbc/00/msnbc_0004   0    8          to    TO              *         -    -   -   speaker1            *           *             *   -
+bc/msnbc/00/msnbc_0004   0    9      twenty    CD              *         -    -   -   speaker1            *           *             *   -
+bc/msnbc/00/msnbc_0004   0   10        five    CD              *)        -    -   -   speaker1            *)          *             *   -
+bc/msnbc/00/msnbc_0004   0   11     marines   NNS            *)))        -    -   -   speaker1            *           *             *)  -
+bc/msnbc/00/msnbc_0004   0   12          /.     .             *))        -    -   -   speaker1            *           *             *   -
+
+bc/msnbc/00/msnbc_0004   0   0       This    DT  (TOP(S(NP*      -    -   -   speaker1            *   (ARGM-TMP*   -
+bc/msnbc/00/msnbc_0004   0   1       time    NN           *)   time   -   1   speaker1            *            *)  -
+bc/msnbc/00/msnbc_0004   0   2      there    EX        (NP*)     -    -   -   speaker1            *            *   -
+bc/msnbc/00/msnbc_0004   0   3       were   VBD        (VP*      be  02   4   speaker1            *          (V*)  -
+bc/msnbc/00/msnbc_0004   0   4    fifteen    CD        (NP*      -    -   -   speaker1    (CARDINAL)      (ARG1*   -
+bc/msnbc/00/msnbc_0004   0   5     inside    IN        (PP*      -    -   -   speaker1            *            *   -
+bc/msnbc/00/msnbc_0004   0   6        the    DT        (NP*      -    -   -   speaker1            *            *   -
+bc/msnbc/00/msnbc_0004   0   7        AAV    NN        *))))     -    -   -   speaker1     (PRODUCT)           *)  -
+bc/msnbc/00/msnbc_0004   0   8         /.     .          *))     -    -   -   speaker1            *            *   -
+
+bc/msnbc/00/msnbc_0004   0   0    Fourteen    CD   (TOP(S(NP*)    -    -   -   speaker1    (CARDINAL)   (ARG1*)  -
+bc/msnbc/00/msnbc_0004   0   1        died   VBD         (VP*)   die  01   1   speaker1            *       (V*)  -
+bc/msnbc/00/msnbc_0004   0   2          /.     .           *))    -    -   -   speaker1            *         *   -
+
+bc/msnbc/00/msnbc_0004   0   0           and    CC  (TOP(S*      -    -   -   speaker1            *      *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0004   0   1           one    CD     (NP*      -    -   -   speaker1    (CARDINAL)     *        (ARG1*   -
+bc/msnbc/00/msnbc_0004   0   2      civilian    NN        *      -    -   -   speaker1            *      *             *   -
+bc/msnbc/00/msnbc_0004   0   3    translator    NN        *)     -    -   -   speaker1            *      *             *)  -
+bc/msnbc/00/msnbc_0004   0   4           was   VBD     (VP*      be  03   -   speaker1            *    (V*)            *   -
+bc/msnbc/00/msnbc_0004   0   5          also    RB   (ADVP*)     -    -   -   speaker1            *      *    (ARGM-ADV*)  -
+bc/msnbc/00/msnbc_0004   0   6        killed   VBN    (VP*))   kill  01   1   speaker1            *      *           (V*)  -
+bc/msnbc/00/msnbc_0004   0   7            /.     .       *))     -    -   -   speaker1            *      *             *   -
+
+bc/msnbc/00/msnbc_0004   0    0           Now    UH      (TOP(S(INTJ*)          -    -   -   speaker1            *    (ARGM-DIS*)     *               *        *       -
+bc/msnbc/00/msnbc_0004   0    1          this    DT              (NP*)          -    -   -   speaker1            *        (ARG1*)     *               *        *       -
+bc/msnbc/00/msnbc_0004   0    2       occured   VBD              (VP*        occur  01   -   speaker1            *           (V*)     *               *        *       -
+bc/msnbc/00/msnbc_0004   0    3            in    IN              (PP*           -    -   -   speaker1            *    (ARGM-LOC*      *               *        *       -
+bc/msnbc/00/msnbc_0004   0    4     basically    RB           (NP(NP*           -    -   -   speaker1            *             *      *      (ARGM-LOC*        *       -
+bc/msnbc/00/msnbc_0004   0    5           the    DT                 *           -    -   -   speaker1            *             *      *               *        *       -
+bc/msnbc/00/msnbc_0004   0    6          same    JJ                 *           -    -   -   speaker1            *             *      *               *        *       -
+bc/msnbc/00/msnbc_0004   0    7          area    NN                 *)        area   -   1   speaker1            *             *      *               *)       *       -
+bc/msnbc/00/msnbc_0004   0    8         where   WRB     (SBAR(WHADVP*)          -    -   -   speaker1            *             *      *    (R-ARGM-LOC*)       *       -
+bc/msnbc/00/msnbc_0004   0    9           six    CD            (S(NP*           -    -   -   speaker1    (CARDINAL)            *      *          (ARG1*        *      (1
+bc/msnbc/00/msnbc_0004   0   10       marines   NNS                 *)          -    -   -   speaker1            *             *      *               *)       *       1)
+bc/msnbc/00/msnbc_0004   0   11          were   VBD              (VP*           be  03   -   speaker1            *             *    (V*)              *        *       -
+bc/msnbc/00/msnbc_0004   0   12        killed   VBN              (VP*         kill  01   1   speaker1            *             *      *             (V*)       *       -
+bc/msnbc/00/msnbc_0004   0   13     yesterday    NN              (NP*)   yesterday   -   1   speaker1        (DATE)            *      *      (ARGM-TMP*)       *    (135)
+bc/msnbc/00/msnbc_0004   0   14            in    IN              (PP*           -    -   -   speaker1            *             *      *      (ARGM-LOC*        *       -
+bc/msnbc/00/msnbc_0004   0   15            an    DT           (NP(NP*           -    -   -   speaker1            *             *      *               *   (ARG1*       -
+bc/msnbc/00/msnbc_0004   0   16        ambush    NN                 *)      ambush   -   -   speaker1            *             *      *               *        *)      -
+bc/msnbc/00/msnbc_0004   0   17      launched   VBN              (VP*       launch  01   2   speaker1            *             *      *               *      (V*)      -
+bc/msnbc/00/msnbc_0004   0   18            by    IN              (PP*           -    -   -   speaker1            *             *      *               *   (ARG0*       -
+bc/msnbc/00/msnbc_0004   0   19    insurgents   NNS   (NP*))))))))))))          -    -   -   speaker1            *             *)     *               *)       *)      -
+bc/msnbc/00/msnbc_0004   0   20            /.     .                *))          -    -   -   speaker1            *             *      *               *        *       -
+
+bc/msnbc/00/msnbc_0004   0    0           The    DT      (TOP(S(NP*          -    -   -   speaker1            *   (ARG1*            *            *         *      *             *             *       (1
+bc/msnbc/00/msnbc_0004   0    1           six    CD               *          -    -   -   speaker1    (CARDINAL)       *            *            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0    2       marines   NNS               *)         -    -   -   speaker1            *        *)           *            *         *      *             *             *        1)
+bc/msnbc/00/msnbc_0004   0    3          were   VBD            (VP*          be  01   1   speaker1            *      (V*)           *            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0    4       snipers   NNS         (NP(NP*)         -    -   -   speaker1            *   (ARG2*       (ARG1*)      (ARG0*)        *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0    5       located   VBN            (VP*      locate  01   2   speaker1            *        *          (V*)           *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0    6            on    IN            (PP*          -    -   -   speaker1            *        *   (ARGM-LOC*            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0    7             a    DT            (NP*          -    -   -   speaker1            *        *            *            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0    8          roof    NN             *)))       roof   -   -   speaker1            *        *            *)           *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0    9       looking   VBG            (VP*        look  01   1   speaker1            *        *   (ARGM-PRD*          (V*)        *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0   10           for    IN            (PP*          -    -   -   speaker1            *        *            *       (ARG1*         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0   11    insurgents   NNS         (NP(NP*)         -    -   -   speaker1            *        *            *            *    (ARG0*)     *             *             *        -
+bc/msnbc/00/msnbc_0004   0   12    travelling   VBG            (VP*      travel  01   1   speaker1            *        *            *            *       (V*)     *             *             *        -
+bc/msnbc/00/msnbc_0004   0   13          down    IN            (PP*          -    -   -   speaker1            *        *            *            *    (ARG1*      *             *             *        -
+bc/msnbc/00/msnbc_0004   0   14             a    DT            (NP*          -    -   -   speaker1            *        *            *            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0   15     smuggling    NN               *     smuggle   -   -   speaker1            *        *            *            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0   16         route    NN          *))))))      route   -   3   speaker1            *        *            *)           *)        *)     *             *             *        -
+bc/msnbc/00/msnbc_0004   0   17          when   WRB   (SBAR(WHADVP*)         -    -   -   speaker1            *        *   (ARGM-TMP*   (ARGM-TMP*         *      *    (ARGM-TMP*)   (ARGM-TMP*)       -
+bc/msnbc/00/msnbc_0004   0   18          they   PRP       (S(NP(NP*)         -    -   -   speaker1            *        *            *            *         *      *        (ARG2*        (ARG1*       (1
+bc/msnbc/00/msnbc_0004   0   19    themselves   PRP           (NP*))         -    -   -   speaker1            *        *            *            *         *      *             *)            *)   (1)|1)
+bc/msnbc/00/msnbc_0004   0   20          were   VBD            (VP*          be  03   -   speaker1            *        *            *            *         *    (V*)            *             *        -
+bc/msnbc/00/msnbc_0004   0   21    surrounded   VBN            (VP*    surround  01   2   speaker1            *        *            *            *         *      *           (V*)            *        -
+bc/msnbc/00/msnbc_0004   0   22           and    CC               *          -    -   -   speaker1            *        *            *            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0   23        killed   VBN               *        kill  01   1   speaker1            *        *            *            *         *      *             *           (V*)       -
+bc/msnbc/00/msnbc_0004   0   24            by    IN            (PP*          -    -   -   speaker1            *        *            *            *         *      *        (ARG1*        (ARG0*        -
+bc/msnbc/00/msnbc_0004   0   25     insurgent    NN            (NP*          -    -   -   speaker1            *        *            *            *         *      *             *             *        -
+bc/msnbc/00/msnbc_0004   0   26       snipers   NNS        *))))))))         -    -   -   speaker1            *        *)           *)           *)        *      *             *)            *)       -
+bc/msnbc/00/msnbc_0004   0   27            /.     .              *))         -    -   -   speaker1            *        *            *            *         *      *             *             *        -
+
+bc/msnbc/00/msnbc_0004   0    0          Now    UH   (TOP(S(INTJ*)       -    -   -   speaker1       *      *      *    (ARGM-DIS*)       *     -
+bc/msnbc/00/msnbc_0004   0    1          all    DT        (NP(NP*)       -    -   -   speaker1       *      *      *        (ARG1*        *     -
+bc/msnbc/00/msnbc_0004   0    2           of    IN           (PP*        -    -   -   speaker1       *      *      *             *        *     -
+bc/msnbc/00/msnbc_0004   0    3         this    DT           (NP*        -    -   -   speaker1       *      *      *             *        *     -
+bc/msnbc/00/msnbc_0004   0    4     violence    NN            *)))       -    -   -   speaker1       *      *      *             *)       *     -
+bc/msnbc/00/msnbc_0004   0    5          has   VBZ           (VP*      have  01   -   speaker1       *    (V*)     *             *        *     -
+bc/msnbc/00/msnbc_0004   0    6         been   VBN           (VP*        be  03   -   speaker1       *      *    (V*)            *        *     -
+bc/msnbc/00/msnbc_0004   0    7      located   VBN           (VP*    locate  02   -   speaker1       *      *      *           (V*)       *     -
+bc/msnbc/00/msnbc_0004   0    8           in    IN           (PP*        -    -   -   speaker1       *      *      *    (ARGM-LOC*        *     -
+bc/msnbc/00/msnbc_0004   0    9           an    DT        (NP(NP*        -    -   -   speaker1       *      *      *             *   (ARG1*   (18
+bc/msnbc/00/msnbc_0004   0   10         area    NN              *)     area   -   1   speaker1       *      *      *             *        *)    -
+bc/msnbc/00/msnbc_0004   0   11        known   VBN           (VP*      know  01   2   speaker1       *      *      *             *      (V*)    -
+bc/msnbc/00/msnbc_0004   0   12           as    IN           (PP*        -    -   -   speaker1       *      *      *             *   (ARG2*     -
+bc/msnbc/00/msnbc_0004   0   13          the    DT           (NP*        -    -   -   speaker1       *      *      *             *        *     -
+bc/msnbc/00/msnbc_0004   0   14    Euphrates   NNP          (NML*        -    -   -   speaker1    (LOC)     *      *             *        *     -
+bc/msnbc/00/msnbc_0004   0   15        river   NNP              *)       -    -   -   speaker1       *      *      *             *        *     -
+bc/msnbc/00/msnbc_0004   0   16       valley    NN       *))))))))       -    -   -   speaker1       *      *      *             *)       *)   18)
+bc/msnbc/00/msnbc_0004   0   17           /.     .             *))       -    -   -   speaker1       *      *      *             *        *     -
+
+bc/msnbc/00/msnbc_0004   0    0          This    DT   (TOP(S(NP*)        -    -   -   speaker1        *    (ARG1*)     -
+bc/msnbc/00/msnbc_0004   0    1            is   VBZ         (VP*         be  01   1   speaker1        *       (V*)     -
+bc/msnbc/00/msnbc_0004   0    2           the    DT      (NP(NP*         -    -   -   speaker1        *    (ARG2*      -
+bc/msnbc/00/msnbc_0004   0    3          main    JJ            *         -    -   -   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0    4     smuggling    NN            *    smuggle   -   -   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0    5         route    NN            *)     route   -   3   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0    6           for    IN         (PP*         -    -   -   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0    7    insurgents   NNS        (NP*))        -    -   -   speaker1        *         *    (17)
+bc/msnbc/00/msnbc_0004   0    8          from    IN         (PP*         -    -   -   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0    9           the    DT         (NP*         -    -   -   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0   10        Syrian    JJ            *         -    -   -   speaker1    (NORP)        *      -
+bc/msnbc/00/msnbc_0004   0   11        border    NN           *))    border   -   1   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0   12          into    IN         (PP*         -    -   -   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0   13       central    JJ         (NP*         -    -   -   speaker1        *         *      -
+bc/msnbc/00/msnbc_0004   0   14          Iraq   NNP         *))))        -    -   -   speaker1     (GPE)        *)     -
+bc/msnbc/00/msnbc_0004   0   15            /.     .           *))        -    -   -   speaker1        *         *      -
+
+bc/msnbc/00/msnbc_0004   0    0         There    EX   (TOP(S(NP*)          -    -   -   speaker1        *      *            *        *        *     -
+bc/msnbc/00/msnbc_0004   0    1          have   VBP         (VP*         have  01   -   speaker1        *    (V*)           *        *        *     -
+bc/msnbc/00/msnbc_0004   0    2          been   VBN         (VP*           be  02   5   speaker1        *      *          (V*)       *        *     -
+bc/msnbc/00/msnbc_0004   0    3       several    JJ      (NP(NP*           -    -   -   speaker1        *      *       (ARG1*        *        *     -
+bc/msnbc/00/msnbc_0004   0    4        marine    NN            *           -    -   -   speaker1        *      *            *        *        *     -
+bc/msnbc/00/msnbc_0004   0    5    operations   NNS            *)   operation   -   1   speaker1        *      *            *        *        *     -
+bc/msnbc/00/msnbc_0004   0    6            in    IN         (PP*           -    -   -   speaker1        *      *            *        *        *     -
+bc/msnbc/00/msnbc_0004   0    7          that    DT         (NP*           -    -   -   speaker1        *      *            *        *        *   (18
+bc/msnbc/00/msnbc_0004   0    8          area    NN          *)))        area   -   1   speaker1        *      *            *)       *        *    18)
+bc/msnbc/00/msnbc_0004   0    9         since    IN         (PP*           -    -   -   speaker1        *      *   (ARGM-TMP*        *        *     -
+bc/msnbc/00/msnbc_0004   0   10           May   NNP        (NP*))          -    -   -   speaker1    (DATE)     *            *)       *        *     -
+bc/msnbc/00/msnbc_0004   0   11            to    TO       (S(VP*           -    -   -   speaker1        *      *   (ARGM-PRP*        *        *     -
+bc/msnbc/00/msnbc_0004   0   12           try    VB         (VP*          try  01   1   speaker1        *      *            *      (V*)       *     -
+bc/msnbc/00/msnbc_0004   0   13            to    TO       (S(VP*           -    -   -   speaker1        *      *            *   (ARG1*        *     -
+bc/msnbc/00/msnbc_0004   0   14          shut    VB         (VP*         shut  05   5   speaker1        *      *            *        *      (V*)    -
+bc/msnbc/00/msnbc_0004   0   15          down    RP        (PRT*)          -    -   -   speaker1        *      *            *        *        *     -
+bc/msnbc/00/msnbc_0004   0   16         those    DT         (NP*           -    -   -   speaker1        *      *            *        *   (ARG1*     -
+bc/msnbc/00/msnbc_0004   0   17     smuggling    NN            *      smuggle   -   -   speaker1        *      *            *        *        *     -
+bc/msnbc/00/msnbc_0004   0   18        routes   NNS    *)))))))))       route   -   3   speaker1        *      *            *)       *)       *)    -
+bc/msnbc/00/msnbc_0004   0   19            /.     .           *))          -    -   -   speaker1        *      *            *        *        *     -
+
+bc/msnbc/00/msnbc_0004   0    0           But    CC  (TOP(S*           -    -   -   speaker1        *    (ARGM-DIS*)            *       -
+bc/msnbc/00/msnbc_0004   0    1         today    NN  (NP(NP*        today   -   2   speaker1    (DATE)       (ARG0*             *       -
+bc/msnbc/00/msnbc_0004   0    2           and    CC        *           -    -   -   speaker1        *             *             *       -
+bc/msnbc/00/msnbc_0004   0    3     yesterday    NN        *    yesterday   -   1   speaker1    (DATE)            *             *    (135)
+bc/msnbc/00/msnbc_0004   0    4            's   POS        *)          -    -   -   speaker1        *             *             *       -
+bc/msnbc/00/msnbc_0004   0    5       attacks   NNS        *)      attack   -   -   speaker1        *             *)            *       -
+bc/msnbc/00/msnbc_0004   0    6          show   VBP     (VP*         show  01   1   speaker1        *           (V*)            *       -
+bc/msnbc/00/msnbc_0004   0    7          that    IN   (SBAR*           -    -   -   speaker1        *        (ARG1*             *       -
+bc/msnbc/00/msnbc_0004   0    8           the    DT   (S(NP*           -    -   -   speaker1        *             *        (ARG1*     (17
+bc/msnbc/00/msnbc_0004   0    9    insurgents   NNS        *)          -    -   -   speaker1        *             *             *)     17)
+bc/msnbc/00/msnbc_0004   0   10           are   VBP     (VP*           be  01   1   speaker1        *             *           (V*)      -
+bc/msnbc/00/msnbc_0004   0   11         still    RB   (ADVP*)          -    -   -   speaker1        *             *    (ARGM-TMP*)      -
+bc/msnbc/00/msnbc_0004   0   12          very    RB   (ADJP*           -    -   -   speaker1        *             *        (ARG2*       -
+bc/msnbc/00/msnbc_0004   0   13     resilient    JJ    *)))))          -    -   -   speaker1        *             *)            *)      -
+bc/msnbc/00/msnbc_0004   0   14            /.     .       *))          -    -   -   speaker1        *             *             *       -
+
+bc/msnbc/00/msnbc_0004   0   0    Chris   NNP  (TOP(NP*   -   -   -   speaker1    (PERSON)  -
+bc/msnbc/00/msnbc_0004   0   1       /?     .        *))  -   -   -   speaker1          *   -

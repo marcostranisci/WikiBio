@@ -1,0 +1,521 @@
+mz/sinorama/10/ectb_1051   1   0       Big    JJ  (TOP(NP(NP*      -   -   -   -   *   -
+mz/sinorama/10/ectb_1051   1   1      city    NN            *)   city  -   1   -   *   -
+mz/sinorama/10/ectb_1051   1   2         ,     ,            *      -   -   -   -   *   -
+mz/sinorama/10/ectb_1051   1   3    tricky    JJ         (NP*      -   -   -   -   *   -
+mz/sinorama/10/ectb_1051   1   4     ropes   NNS          *)))     -   -   -   -   *   -
+
+mz/sinorama/10/ectb_1051   1    0        Chen    NNP    (TOP(S(NP*          -    -   -   -    (PERSON*       (ARG0*    (14
+mz/sinorama/10/ectb_1051   1    1         Pin     NN             *)        pin   -   -   -           *)           *)    14)
+mz/sinorama/10/ectb_1051   1    2      opened    VBD          (VP*        open  01   2   -           *          (V*)     -
+mz/sinorama/10/ectb_1051   1    3         his   PRP$          (NP*          -    -   -   -           *       (ARG1*    (14)
+mz/sinorama/10/ectb_1051   1    4       first     JJ             *          -    -   -   -    (ORDINAL)           *      -
+mz/sinorama/10/ectb_1051   1    5    business     NN             *)   business   -   1   -           *            *)     -
+mz/sinorama/10/ectb_1051   1    6          in     IN          (PP*          -    -   -   -           *   (ARGM-LOC*      -
+mz/sinorama/10/ectb_1051   1    7    Shanghai    NNP         (NP*))         -    -   -   -        (GPE)           *)   (20)
+mz/sinorama/10/ectb_1051   1    8        over     IN  (ADVP(NP(QP*          -    -   -   -      (DATE*   (ARGM-TMP*      -
+mz/sinorama/10/ectb_1051   1    9         ten     CD             *)         -    -   -   -           *            *      -
+mz/sinorama/10/ectb_1051   1   10       years    NNS             *)         -    -   -   -           *            *      -
+mz/sinorama/10/ectb_1051   1   11         ago     RB            *))         -    -   -   -           *)           *)     -
+mz/sinorama/10/ectb_1051   1   12           .      .            *))         -    -   -   -           *            *      -
+
+mz/sinorama/10/ectb_1051   1    0             In    IN  (TOP(S(PP*           -    -   -   -        *         *      *   (ARGM-TMP*      -
+mz/sinorama/10/ectb_1051   1    1            the    DT        (NP*           -    -   -   -   (DATE*         *      *            *      -
+mz/sinorama/10/ectb_1051   1    2    intervening   VBG           *    intervene  01   -   -        *       (V*)     *            *      -
+mz/sinorama/10/ectb_1051   1    3          years   NNS          *))          -    -   -   -        *)   (ARG0*)     *            *)     -
+mz/sinorama/10/ectb_1051   1    4             he   PRP        (NP*)          -    -   -   -        *         *      *       (ARG0*)   (14)
+mz/sinorama/10/ectb_1051   1    5            has   VBZ        (VP*         have  01   -   -        *         *    (V*)           *      -
+mz/sinorama/10/ectb_1051   1    6            run   VBN        (VP*          run  01   3   -        *         *      *          (V*)     -
+mz/sinorama/10/ectb_1051   1    7              a    DT     (NP(NP*           -    -   -   -        *         *      *       (ARG1*      -
+mz/sinorama/10/ectb_1051   1    8          bread    NN           *        bread   -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1    9        factory    NN           *)          -    -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   10              ,     ,           *           -    -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   11    restaurants   NNS        (NP*)          -    -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   12              ,     ,           *           -    -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   13            and    CC           *           -    -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   14              a    DT        (NP*           -    -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   15           fast    JJ       (NML*           -    -   -   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   16           food    NN           *)        food   -   1   -        *         *      *            *      -
+mz/sinorama/10/ectb_1051   1   17           shop    NN        *))))        shop   -   1   -        *         *      *            *)     -
+mz/sinorama/10/ectb_1051   1   18              .     .          *))          -    -   -   -        *         *      *            *      -
+
+mz/sinorama/10/ectb_1051   1    0           His   PRP$  (TOP(S(NP*        -    -   -   -       *      *   (ARG1*       (ARG0*    (14)
+mz/sinorama/10/ectb_1051   1    1           son     NN           *)       -    -   -   -       *      *        *)           *)     -
+mz/sinorama/10/ectb_1051   1    2            is    VBZ     (VP(VP*        be  03   -   -       *    (V*)       *            *      -
+mz/sinorama/10/ectb_1051   1    3       treated    VBN        (VP*     treat  01   1   -       *      *      (V*)           *      -
+mz/sinorama/10/ectb_1051   1    4            as     IN        (PP*        -    -   -   -       *      *   (ARG2*            *      -
+mz/sinorama/10/ectb_1051   1    5             a     DT        (NP*        -    -   -   -       *      *        *            *      -
+mz/sinorama/10/ectb_1051   1    6           PRC    NNP           *        -    -   -   -    (GPE)     *        *            *    (21)
+mz/sinorama/10/ectb_1051   1    7       citizen     NN        *))))       -    -   -   -       *      *        *)           *      -
+mz/sinorama/10/ectb_1051   1    8             ,      ,           *        -    -   -   -       *      *        *            *      -
+mz/sinorama/10/ectb_1051   1    9           and     CC           *        -    -   -   -       *      *        *            *      -
+mz/sinorama/10/ectb_1051   1   10       attends    VBZ        (VP*    attend  01   1   -       *      *        *          (V*)     -
+mz/sinorama/10/ectb_1051   1   11    university     NN        (NP*)       -    -   -   -       *      *        *       (ARG1*)     -
+mz/sinorama/10/ectb_1051   1   12            in     IN        (PP*        -    -   -   -       *      *        *   (ARGM-LOC*      -
+mz/sinorama/10/ectb_1051   1   13      Shanghai    NNP     (NP*))))       -    -   -   -    (GPE)     *        *            *)   (20)
+mz/sinorama/10/ectb_1051   1   14             .      .          *))       -    -   -   -       *      *        *            *      -
+
+mz/sinorama/10/ectb_1051   1    0               A    DT  (TOP(S(S(NP(NP*          -    -   -   -          *   (R-ARG0*         *        *    (14
+mz/sinorama/10/ectb_1051   1    1        survivor    NN                *)         -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1    2              of    IN             (PP*          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1    3            many    JJ             (NP*          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1    4             ups   NNS                *          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1    5             and    CC                *          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1    6           downs   NNS              *)))       down   -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1    7         himself   PRP            (NP*))         -    -   -   -          *          *)        *        *    (14)
+mz/sinorama/10/ectb_1051   1    8               ,     ,                *          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1    9            Chen   NNP             (NP*)         -    -   -   -    (PERSON)    (ARG0*)        *        *     14)
+mz/sinorama/10/ectb_1051   1   10           gives   VBZ             (VP*        give  01   2   -          *        (V*)        *        *      -
+mz/sinorama/10/ectb_1051   1   11        detailed   VBN          (NP(NP*      detail  01   -   -          *     (ARG1*       (V*)       *      -
+mz/sinorama/10/ectb_1051   1   12    descriptions   NNS                *)         -    -   -   -          *          *    (ARG1*)       *      -
+mz/sinorama/10/ectb_1051   1   13              of    IN             (PP*          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1   14            many    JJ          (NP(NP*)         -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1   15              of    IN             (PP*          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1   16             the    DT          (NP(NP*          -    -   -   -          *          *         *   (ARG1*      -
+mz/sinorama/10/ectb_1051   1   17        problems   NNS                *)    problem   -   1   -          *          *         *        *)     -
+mz/sinorama/10/ectb_1051   1   18           faced   VBN             (VP*        face  01   1   -          *          *         *      (V*)     -
+mz/sinorama/10/ectb_1051   1   19              by    IN             (PP*          -    -   -   -          *          *         *   (ARG0*      -
+mz/sinorama/10/ectb_1051   1   20       Taiwanese    JJ          (NP(NP*          -    -   -   -      (NORP)         *         *        *      -
+mz/sinorama/10/ectb_1051   1   21        business    NN                *    business   -   1   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1   22         persons   NNS                *)     person   -   1   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1   23              in    IN             (PP*          -    -   -   -          *          *         *        *      -
+mz/sinorama/10/ectb_1051   1   24             the    DT             (NP*          -    -   -   -          *          *         *        *    (21
+mz/sinorama/10/ectb_1051   1   25        mainland    NN      *)))))))))))         -    -   -   -          *          *)        *        *)    21)
+mz/sinorama/10/ectb_1051   1   26               .     .               *))         -    -   -   -          *          *         *        *      -
+
+mz/sinorama/10/ectb_1051   1    0             The    DT  (TOP(S(NP*            -    -   -   -   *   (ARG0*        *        *      *   (22
+mz/sinorama/10/ectb_1051   1    1            book    NN           *)         book   -   1   -   *        *)       *        *      *    22)
+mz/sinorama/10/ectb_1051   1    2       describes   VBZ        (VP*      describe  01   1   -   *      (V*)       *        *      *     -
+mz/sinorama/10/ectb_1051   1    3             the    DT     (NP(NP*            -    -   -   -   *   (ARG1*        *        *      *   (10
+mz/sinorama/10/ectb_1051   1    4        property    NN           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1    5          market    NN           *)       market   -   -   -   *        *        *        *      *    10)
+mz/sinorama/10/ectb_1051   1    6               ,     ,           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1    7    cross-strait    JJ        (NP*            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1    8        marriage    NN           *)     marriage   -   1   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1    9               ,     ,           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1   10        starting   VBG      (S(VP*         start  01   3   -   *        *      (V*)       *      *     -
+mz/sinorama/10/ectb_1051   1   11               a    DT        (NP*            -    -   -   -   *        *   (ARG1*        *      *     -
+mz/sinorama/10/ectb_1051   1   12        business    NN         *)))     business   -   1   -   *        *        *)       *      *     -
+mz/sinorama/10/ectb_1051   1   13               ,     ,           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1   14        children   NNS     (NP(NP*         child   -   2   -   *        *        *   (ARG1*      *     -
+mz/sinorama/10/ectb_1051   1   15              's   POS           *)           -    -   -   -   *        *        *        *)     *     -
+mz/sinorama/10/ectb_1051   1   16       education    NN           *)    education  01   1   -   *        *        *      (V*)     *     -
+mz/sinorama/10/ectb_1051   1   17               ,     ,           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1   18        shopping    NN        (NP*)     shopping  01   1   -   *        *        *        *    (V*)    -
+mz/sinorama/10/ectb_1051   1   19               ,     ,           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1   20      recreation    NN        (NP*)   recreation   -   1   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1   21               ,     ,           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1   22             and    CC           *            -    -   -   -   *        *        *        *      *     -
+mz/sinorama/10/ectb_1051   1   23            more   RBR    (ADVP*)))           -    -   -   -   *        *)       *        *      *     -
+mz/sinorama/10/ectb_1051   1   24               .     .          *))           -    -   -   -   *        *        *        *      *     -
+
+mz/sinorama/10/ectb_1051   1   0             He   PRP   (TOP(S(NP*)            -    -   -   -   *      *        (ARG0*)            *    (14)
+mz/sinorama/10/ectb_1051   1   1           does   VBZ         (VP*             do  01   -   -   *    (V*)            *             *      -
+mz/sinorama/10/ectb_1051   1   2            not    RB            *             -    -   -   -   *      *    (ARGM-NEG*)            *      -
+mz/sinorama/10/ectb_1051   1   3           stop    VB         (VP*           stop  01   1   -   *      *           (V*)            *      -
+mz/sinorama/10/ectb_1051   1   4             at    IN         (PP*             -    -   -   -   *      *    (ARGM-LOC*             *      -
+mz/sinorama/10/ectb_1051   1   5           mere    JJ         (NP*             -    -   -   -   *      *             *    (ARGM-ADJ*)     -
+mz/sinorama/10/ectb_1051   1   6    description    NN           *))   description  01   1   -   *      *             *)          (V*)     -
+mz/sinorama/10/ectb_1051   1   7              ,     ,            *             -    -   -   -   *      *             *             *      -
+mz/sinorama/10/ectb_1051   1   8        however    RB     (ADVP*)))            -    -   -   -   *      *    (ARGM-DIS*)            *      -
+mz/sinorama/10/ectb_1051   1   9              .     .           *))            -    -   -   -   *      *             *             *      -
+
+mz/sinorama/10/ectb_1051   1    0              He   PRP       (TOP(S(NP*)           -    -   -   -   *        (ARG0*)       *             *    (14)
+mz/sinorama/10/ectb_1051   1    1            also    RB           (ADVP*)           -    -   -   -   *    (ARGM-DIS*)       *             *      -
+mz/sinorama/10/ectb_1051   1    2          offers   VBZ             (VP*         offer  01   3   -   *           (V*)       *             *      -
+mz/sinorama/10/ectb_1051   1    3     suggestions   NNS          (NP(NP*)   suggestion  01   1   -   *        (ARG1*      (V*)            *      -
+mz/sinorama/10/ectb_1051   1    4              on    IN             (PP*            -    -   -   -   *             *   (ARG1*             *      -
+mz/sinorama/10/ectb_1051   1    5             how   WRB    (SBAR(WHADVP*)           -    -   -   -   *             *        *    (ARGM-MNR*)     -
+mz/sinorama/10/ectb_1051   1    6              to    TO           (S(VP*            -    -   -   -   *             *        *             *      -
+mz/sinorama/10/ectb_1051   1    7            cope    VB             (VP*          cope  01   1   -   *             *        *           (V*)     -
+mz/sinorama/10/ectb_1051   1    8            with    IN             (PP*            -    -   -   -   *             *        *        (ARG1*      -
+mz/sinorama/10/ectb_1051   1    9               a    DT          (NP(NP*            -    -   -   -   *             *        *             *      -
+mz/sinorama/10/ectb_1051   1   10            wide    JJ                *            -    -   -   -   *             *        *             *      -
+mz/sinorama/10/ectb_1051   1   11           range    NN                *)        range   -   6   -   *             *        *             *      -
+mz/sinorama/10/ectb_1051   1   12              of    IN             (PP*            -    -   -   -   *             *        *             *      -
+mz/sinorama/10/ectb_1051   1   13    difficulties   NNS   (NP*)))))))))))   difficulty   -   2   -   *             *)       *)            *)     -
+mz/sinorama/10/ectb_1051   1   14               .     .               *))           -    -   -   -   *             *        *             *      -
+
+mz/sinorama/10/ectb_1051   1    0         This    DT      (TOP(S(NP*        -    -   -   -   *        (ARG0*             *   (22
+mz/sinorama/10/ectb_1051   1    1         book    NN               *)     book   -   1   -   *             *)            *    22)
+mz/sinorama/10/ectb_1051   1    2          can    MD            (VP*        -    -   -   -   *    (ARGM-MOD*)            *     -
+mz/sinorama/10/ectb_1051   1    3        serve    VB            (VP*     serve  01   1   -   *           (V*)            *     -
+mz/sinorama/10/ectb_1051   1    4           as    IN            (PP*        -    -   -   -   *        (ARG1*             *     -
+mz/sinorama/10/ectb_1051   1    5            a    DT            (NP*        -    -   -   -   *             *             *     -
+mz/sinorama/10/ectb_1051   1    6            "    ``           (NML*        -    -   -   -   *             *             *     -
+mz/sinorama/10/ectb_1051   1    7          how   WRB   (FRAG(WHADVP*)       -    -   -   -   *             *             *     -
+mz/sinorama/10/ectb_1051   1    8           to    TO           (VP*))       -    -   -   -   *             *             *     -
+mz/sinorama/10/ectb_1051   1    9            "    ''               *)       -    -   -   -   *             *             *     -
+mz/sinorama/10/ectb_1051   1   10       manual    NN              *))       -    -   -   -   *             *)            *     -
+mz/sinorama/10/ectb_1051   1   11          for    IN            (PP*        -    -   -   -   *        (ARG2*             *     -
+mz/sinorama/10/ectb_1051   1   12        those    DT         (NP(NP*)       -    -   -   -   *             *        (ARG1*)    -
+mz/sinorama/10/ectb_1051   1   13          who    WP     (SBAR(WHNP*)       -    -   -   -   *             *      (R-ARG1*)    -
+mz/sinorama/10/ectb_1051   1   14        would    MD          (S(VP*        -    -   -   -   *             *    (ARGM-MOD*)    -
+mz/sinorama/10/ectb_1051   1   15       follow    VB            (VP*    follow  01   1   -   *             *           (V*)    -
+mz/sinorama/10/ectb_1051   1   16           in    IN            (PP*        -    -   -   -   *             *    (ARGM-LOC*     -
+mz/sinorama/10/ectb_1051   1   17         this    DT            (NP*        -    -   -   -   *             *             *     -
+mz/sinorama/10/ectb_1051   1   18    footsteps   NNS      *))))))))))       -    -   -   -   *             *)            *)    -
+mz/sinorama/10/ectb_1051   1   19            .     .              *))       -    -   -   -   *             *             *     -
+
+mz/sinorama/10/ectb_1051   1    0        Chen   NNP    (TOP(S(NP*)       -    -   -   -   *    (ARG0*)   (14)
+mz/sinorama/10/ectb_1051   1    1      offers   VBZ          (VP*     offer  01   3   -   *       (V*)     -
+mz/sinorama/10/ectb_1051   1    2           a    DT       (NP(NP*        -    -   -   -   *    (ARG1*      -
+mz/sinorama/10/ectb_1051   1    3         lot    NN             *)      lot   -   1   -   *         *      -
+mz/sinorama/10/ectb_1051   1    4          of    IN          (PP*        -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1051   1    5        very    RB  (NP(NP(ADJP*        -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1051   1    6      useful    JJ             *)       -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1051   1    7    insights   NNS             *)       -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1051   1    8        into    IN          (PP*        -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1051   1    9         the    DT          (NP*        -    -   -   -   *         *    (10
+mz/sinorama/10/ectb_1051   1   10    Shanghai   NNP             *        -    -   -   -   *         *    (20)
+mz/sinorama/10/ectb_1051   1   11    property    NN             *        -    -   -   -   *         *      -
+mz/sinorama/10/ectb_1051   1   12      market    NN        *))))))   market   -   -   -   *         *)    10)
+mz/sinorama/10/ectb_1051   1   13           .     .            *))       -    -   -   -   *         *      -
+
+mz/sinorama/10/ectb_1051   1    0          All    DT        (TOP(S(NP*           -    -   -   -   *      *       (ARG1*             *      *             *             *     -
+mz/sinorama/10/ectb_1051   1    1         land    NN                 *)        land   -   1   -   *      *            *)            *      *             *             *     -
+mz/sinorama/10/ectb_1051   1    2           is   VBZ              (VP*           be  03   -   -   *    (V*)           *             *      *             *             *     -
+mz/sinorama/10/ectb_1051   1    3        owned   VBN              (VP*          own  01   1   -   *      *          (V*)            *      *             *             *     -
+mz/sinorama/10/ectb_1051   1    4           by    IN              (PP*           -    -   -   -   *      *       (ARG0*             *      *             *             *     -
+mz/sinorama/10/ectb_1051   1    5          the    DT              (NP*           -    -   -   -   *      *            *             *      *             *             *   (21
+mz/sinorama/10/ectb_1051   1    6        state    NN                *))       state   -   2   -   *      *            *)            *      *             *             *    21)
+mz/sinorama/10/ectb_1051   1    7            ,     ,                 *           -    -   -   -   *      *            *             *      *             *             *     -
+mz/sinorama/10/ectb_1051   1    8           so    IN            (SBAR*           -    -   -   -   *      *   (ARGM-ADV*             *      *             *             *     -
+mz/sinorama/10/ectb_1051   1    9         when   WRB   (S(SBAR(WHADVP*)          -    -   -   -   *      *            *    (ARGM-TMP*)     *    (ARGM-TMP*             *     -
+mz/sinorama/10/ectb_1051   1   10          you   PRP            (S(NP*)          -    -   -   -   *      *            *        (ARG0*)     *             *             *     -
+mz/sinorama/10/ectb_1051   1   11          buy   VBP              (VP*          buy  01   1   -   *      *            *           (V*)     *             *             *     -
+mz/sinorama/10/ectb_1051   1   12            a    DT              (NP*           -    -   -   -   *      *            *        (ARG1*      *             *             *    (7
+mz/sinorama/10/ectb_1051   1   13     building    NN              *))))    building   -   1   -   *      *            *             *)     *             *)            *     7)
+mz/sinorama/10/ectb_1051   1   14            ,     ,                 *           -    -   -   -   *      *            *             *      *             *             *     -
+mz/sinorama/10/ectb_1051   1   15          you   PRP              (NP*)          -    -   -   -   *      *            *             *      *        (ARG0*)            *     -
+mz/sinorama/10/ectb_1051   1   16           do   VBP              (VP*           do  01   -   -   *      *            *             *    (V*)            *             *     -
+mz/sinorama/10/ectb_1051   1   17          n't    RB                 *           -    -   -   -   *      *            *             *      *    (ARGM-NEG*)            *     -
+mz/sinorama/10/ectb_1051   1   18         gain    VB              (VP*         gain  02   1   -   *      *            *             *      *           (V*)            *     -
+mz/sinorama/10/ectb_1051   1   19     outright    JJ              (NP*           -    -   -   -   *      *            *             *      *        (ARG1*    (ARGM-MNR*)    -
+mz/sinorama/10/ectb_1051   1   20    ownership    NN           *)))))))   ownership  01   1   -   *      *            *)            *      *             *)          (V*)    -
+mz/sinorama/10/ectb_1051   1   21            .     .                *))          -    -   -   -   *      *            *             *      *             *             *     -
+
+mz/sinorama/10/ectb_1051   1   0      All    DT   (TOP(S(NP(NP*)      -    -   -   -   *    (ARG1*)  (ARG1*         *     -
+mz/sinorama/10/ectb_1051   1   1      you   PRP     (SBAR(S(NP*)      -    -   -   -   *    (ARG0*)       *         *     -
+mz/sinorama/10/ectb_1051   1   2      get   VBP         (VP*))))     get  01   1   -   *       (V*)       *)        *     -
+mz/sinorama/10/ectb_1051   1   3       is   VBZ            (VP*       be  01   2   -   *         *      (V*)        *     -
+mz/sinorama/10/ectb_1051   1   4      the    DT            (NP*       -    -   -   -   *         *   (ARG2*         *     -
+mz/sinorama/10/ectb_1051   1   5    right    NN               *    right   -   1   -   *         *        *         *     -
+mz/sinorama/10/ectb_1051   1   6       to    TO          (S(VP*       -    -   -   -   *         *        *         *     -
+mz/sinorama/10/ectb_1051   1   7      use    VB            (VP*      use  01   1   -   *         *        *       (V*)    -
+mz/sinorama/10/ectb_1051   1   8       it   PRP       (NP*))))))      -    -   -   -   *         *        *)   (ARG1*)   (7)
+mz/sinorama/10/ectb_1051   1   9        .     .              *))      -    -   -   -   *         *        *         *     -
+
+mz/sinorama/10/ectb_1051   1    0      Property    NN   (TOP(S(S(NP(NP*)   property   -   1   -          *      *   (ARG1*         *            *      -
+mz/sinorama/10/ectb_1051   1    1            in    IN              (PP*          -    -   -   -          *      *        *         *            *      -
+mz/sinorama/10/ectb_1051   1    2      Shanghai   NNP            (NP*)))         -    -   -   -       (GPE)     *        *)        *            *    (20)
+mz/sinorama/10/ectb_1051   1    3            is   VBZ              (VP*          be  03   -   -          *    (V*)       *         *            *      -
+mz/sinorama/10/ectb_1051   1    4       divided   VBN              (VP*      divide  02   -   -          *      *      (V*)        *            *      -
+mz/sinorama/10/ectb_1051   1    5          into    IN              (PP*          -    -   -   -          *      *   (ARG2*         *            *      -
+mz/sinorama/10/ectb_1051   1    6       various    JJ              (NP*          -    -   -   -          *      *        *         *            *      -
+mz/sinorama/10/ectb_1051   1    7    categories   NNS             *)))))         -    -   -   -          *      *        *)        *            *      -
+mz/sinorama/10/ectb_1051   1    8             ,     ,                 *          -    -   -   -          *      *        *         *            *      -
+mz/sinorama/10/ectb_1051   1    9           and    CC                 *          -    -   -   -          *      *        *         *            *      -
+mz/sinorama/10/ectb_1051   1   10          Chen   NNP            (S(NP*)         -    -   -   -    (PERSON)     *        *    (ARG0*)           *    (14)
+mz/sinorama/10/ectb_1051   1   11      explains   VBZ              (VP*     explain  01   1   -          *      *        *       (V*)           *      -
+mz/sinorama/10/ectb_1051   1   12       various    JJ           (NP(NP*          -    -   -   -          *      *        *    (ARG1*            *      -
+mz/sinorama/10/ectb_1051   1   13         terms   NNS                 *)       term   -   1   -          *      *        *         *            *      -
+mz/sinorama/10/ectb_1051   1   14          used   VBN              (VP*         use  01   -   -          *      *        *         *          (V*)     -
+mz/sinorama/10/ectb_1051   1   15            in    IN              (PP*          -    -   -   -          *      *        *         *   (ARGM-LOC*      -
+mz/sinorama/10/ectb_1051   1   16           the    DT              (NP*          -    -   -   -          *      *        *         *            *    (21
+mz/sinorama/10/ectb_1051   1   17           PRC   NNP            *))))))         -    -   -   -       (GPE)     *        *         *)           *)    21)
+mz/sinorama/10/ectb_1051   1   18             .     .                *))         -    -   -   -          *      *        *         *            *      -
+
+mz/sinorama/10/ectb_1051   1    0              "     ``    (TOP(S(NP*          -    -   -   -   *      *        (ARG1*             *   -
+mz/sinorama/10/ectb_1051   1    1        Foreign     JJ             *          -    -   -   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1    2       business     NN             *    business   -   1   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1    3      buildings    NNS             *    building   -   1   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1    4              "     ''             *)         -    -   -   -   *      *             *)            *   -
+mz/sinorama/10/ectb_1051   1    5            can     MD          (VP*          -    -   -   -   *      *    (ARGM-MOD*)            *   -
+mz/sinorama/10/ectb_1051   1    6             be     VB          (VP*          be  03   -   -   *    (V*)            *             *   -
+mz/sinorama/10/ectb_1051   1    7      purchased    VBN          (VP*    purchase  01   1   -   *      *           (V*)            *   -
+mz/sinorama/10/ectb_1051   1    8             by     IN          (PP*          -    -   -   -   *      *        (ARG0*             *   -
+mz/sinorama/10/ectb_1051   1    9        foreign     JJ  (NP(NP(ADJP*          -    -   -   -   *      *             *    (ARGM-ADV*)  -
+mz/sinorama/10/ectb_1051   1   10             -    HYPH             *          -    -   -   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1   11       invested    VBN             *)     invest  01   -   -   *      *             *           (V*)  -
+mz/sinorama/10/ectb_1051   1   12    enterprises    NNS             *)         -    -   -   -   *      *             *        (ARG0*)  -
+mz/sinorama/10/ectb_1051   1   13            and     CC             *          -    -   -   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1   14        persons    NNS       (NP(NP*)     person   -   1   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1   15           with     IN          (PP*          -    -   -   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1   16              a     DT          (NP*          -    -   -   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1   17        foreign     JJ             *          -    -   -   -   *      *             *             *   -
+mz/sinorama/10/ectb_1051   1   18       passport     NN      *))))))))         -    -   -   -   *      *             *)            *   -
+mz/sinorama/10/ectb_1051   1   19              .      .            *))         -    -   -   -   *      *             *             *   -
+
+mz/sinorama/10/ectb_1051   1    0     Buildings   NNS   (TOP(S(NP(NP*)   building   -   1   -       *       (ARG1*)     *   (ARG1*      -
+mz/sinorama/10/ectb_1051   1    1          sold   VBN            (VP*        sell  01   -   -       *          (V*)     *        *      -
+mz/sinorama/10/ectb_1051   1    2            on    IN            (PP*          -    -   -   -       *   (ARGM-LOC*      *        *      -
+mz/sinorama/10/ectb_1051   1    3           the    DT            (NP*          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1    4      domestic    JJ               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1    5        market    NN              *))     market   -   1   -       *            *)     *        *      -
+mz/sinorama/10/ectb_1051   1    6            to    IN            (PP*          -    -   -   -       *       (ARG2*      *        *      -
+mz/sinorama/10/ectb_1051   1    7           PRC   NNP            (NP*          -    -   -   -    (GPE)           *      *        *    (21)
+mz/sinorama/10/ectb_1051   1    8         firms   NNS            *))))       firm   -   -   -       *            *)     *        *)     -
+mz/sinorama/10/ectb_1051   1    9           are   VBP            (VP*          be  03   -   -       *            *    (V*)       *      -
+mz/sinorama/10/ectb_1051   1   10        called   VBN            (VP*        call  01   -   -       *            *      *      (V*)     -
+mz/sinorama/10/ectb_1051   1   11         shang    FW       (S(NP(NP*          -    -   -   -       *            *      *   (ARG2*      -
+mz/sinorama/10/ectb_1051   1   12           pin    FW               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   13          fang    FW               *)         -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   14             ,     ,               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   15            or    CC               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   16     literally    RB       (NP(ADVP*)         -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   17             ,     ,               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   18             "    ``               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   19    commercial    JJ               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   20     buildings   NNS           *)))))   building   -   1   -       *            *      *        *)     -
+mz/sinorama/10/ectb_1051   1   21             .     .               *          -    -   -   -       *            *      *        *      -
+mz/sinorama/10/ectb_1051   1   22             "    ''              *))         -    -   -   -       *            *      *        *      -
+
+mz/sinorama/10/ectb_1051   1    0    Buildings   NNS   (TOP(S(NP(NP*)   building   -   1   -   *    (ARG1*)     *   (ARG1*     -
+mz/sinorama/10/ectb_1051   1    1        owned   VBN            (VP*         own  01   -   -   *       (V*)     *        *     -
+mz/sinorama/10/ectb_1051   1    2           by    IN            (PP*          -    -   -   -   *    (ARG0*      *        *     -
+mz/sinorama/10/ectb_1051   1    3          the    DT            (NP*          -    -   -   -   *         *      *        *   (21
+mz/sinorama/10/ectb_1051   1    4        state    NN            *))))      state   -   2   -   *         *)     *        *)   21)
+mz/sinorama/10/ectb_1051   1    5          are   VBP            (VP*          be  03   -   -   *         *    (V*)       *     -
+mz/sinorama/10/ectb_1051   1    6       called   VBN            (VP*        call  01   -   -   *         *      *      (V*)    -
+mz/sinorama/10/ectb_1051   1    7         gong    FW       (S(NP(NP*          -    -   -   -   *         *      *   (ARG2*     -
+mz/sinorama/10/ectb_1051   1    8         fang    FW               *)         -    -   -   -   *         *      *        *     -
+mz/sinorama/10/ectb_1051   1    9            ,     ,               *          -    -   -   -   *         *      *        *     -
+mz/sinorama/10/ectb_1051   1   10           or    CC               *          -    -   -   -   *         *      *        *     -
+mz/sinorama/10/ectb_1051   1   11            "    ``               *          -    -   -   -   *         *      *        *     -
+mz/sinorama/10/ectb_1051   1   12       public    JJ            (NP*          -    -   -   -   *         *      *        *     -
+mz/sinorama/10/ectb_1051   1   13    buildings   NNS           *)))))   building   -   1   -   *         *      *        *)    -
+mz/sinorama/10/ectb_1051   1   14            .     .               *          -    -   -   -   *         *      *        *     -
+mz/sinorama/10/ectb_1051   1   15            "    ''              *))         -    -   -   -   *         *      *        *     -
+
+mz/sinorama/10/ectb_1051   1    0      Buildings   NNS   (TOP(S(NP(NP*)     building   -   1   -   *    (ARG1*)     *   (ARG1*   -
+mz/sinorama/10/ectb_1051   1    1          owned   VBN            (VP*           own  01   -   -   *       (V*)     *        *   -
+mz/sinorama/10/ectb_1051   1    2             by    IN            (PP*            -    -   -   -   *    (ARG0*      *        *   -
+mz/sinorama/10/ectb_1051   1    3        private    JJ            (NP*            -    -   -   -   *         *      *        *   -
+mz/sinorama/10/ectb_1051   1    4    individuals   NNS            *))))   individual   -   1   -   *         *)     *        *)  -
+mz/sinorama/10/ectb_1051   1    5            are   VBP            (VP*            be  03   -   -   *         *    (V*)       *   -
+mz/sinorama/10/ectb_1051   1    6         called   VBN            (VP*          call  01   -   -   *         *      *      (V*)  -
+mz/sinorama/10/ectb_1051   1    7             si    FW       (S(NP(NP*            -    -   -   -   *         *      *   (ARG2*   -
+mz/sinorama/10/ectb_1051   1    8           fang    FW               *)           -    -   -   -   *         *      *        *   -
+mz/sinorama/10/ectb_1051   1    9              ,     ,               *            -    -   -   -   *         *      *        *   -
+mz/sinorama/10/ectb_1051   1   10             or    CC               *            -    -   -   -   *         *      *        *   -
+mz/sinorama/10/ectb_1051   1   11              "    ``               *            -    -   -   -   *         *      *        *   -
+mz/sinorama/10/ectb_1051   1   12        private    JJ            (NP*            -    -   -   -   *         *      *        *   -
+mz/sinorama/10/ectb_1051   1   13      buildings   NNS           *)))))     building   -   1   -   *         *      *        *)  -
+mz/sinorama/10/ectb_1051   1   14              .     .               *            -    -   -   -   *         *      *        *   -
+mz/sinorama/10/ectb_1051   1   15              "    ''              *))           -    -   -   -   *         *      *        *   -
+
+mz/sinorama/10/ectb_1051   1    0             If     IN  (TOP(S(SBAR*             -    -    -   -   *      *         *      *   (ARGM-ADV*   -
+mz/sinorama/10/ectb_1051   1    1            you    PRP        (S(NP*)            -    -    -   -   *      *    (ARG0*)     *            *   -
+mz/sinorama/10/ectb_1051   1    2            've    VBP          (VP*           have  01   12   -   *    (V*)        *      *            *   -
+mz/sinorama/10/ectb_1051   1    3           paid    VBN          (VP*            pay  01    1   -   *      *       (V*)     *            *   -
+mz/sinorama/10/ectb_1051   1    4            all    PDT          (NP*             -    -    -   -   *      *    (ARG1*      *            *   -
+mz/sinorama/10/ectb_1051   1    5           your   PRP$             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1    6       property     NN             *       property   -    1   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1    7          taxes    NNS         *)))))           tax   -    1   -   *      *         *)     *            *)  -
+mz/sinorama/10/ectb_1051   1    8              ,      ,             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1    9            you    PRP          (NP*)            -    -    -   -   *      *         *      *       (ARG1*)  -
+mz/sinorama/10/ectb_1051   1   10            are    VBP          (VP*             be  03    -   -   *      *         *    (V*)           *   -
+mz/sinorama/10/ectb_1051   1   11          given    VBN          (VP*           give  01    -   -   *      *         *      *          (V*)  -
+mz/sinorama/10/ectb_1051   1   12              a     DT       (NP(NP*             -    -    -   -   *      *         *      *       (ARG2*   -
+mz/sinorama/10/ectb_1051   1   13             da     FW             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   14           chan     FW             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   15          zheng     FW             *)            -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   16              ,      ,             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   17             or     CC             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   18              "     ``          (NP*             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   19            big     JJ             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   20              "     ''             *             -    -    -   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   21       property     NN             *       property   -    1   -   *      *         *      *            *   -
+mz/sinorama/10/ectb_1051   1   22    certificate     NN          *))))   certificate   -    -   -   *      *         *      *            *)  -
+mz/sinorama/10/ectb_1051   1   23              .      .            *))            -    -    -   -   *      *         *      *            *   -
+
+mz/sinorama/10/ectb_1051   1    0             If     IN  (TOP(S(SBAR*             -    -   -   -   *      *             *             *    (ARGM-ADV*   -
+mz/sinorama/10/ectb_1051   1    1            you    PRP        (S(NP*)            -    -   -   -   *      *        (ARG0*)            *             *   -
+mz/sinorama/10/ectb_1051   1    2           have    VBP          (VP*           have  01   -   -   *    (V*)            *             *             *   -
+mz/sinorama/10/ectb_1051   1    3            n't     RB             *             -    -   -   -   *      *    (ARGM-NEG*)            *             *   -
+mz/sinorama/10/ectb_1051   1    4            yet     RB        (ADVP*)            -    -   -   -   *      *    (ARGM-TMP*)            *             *   -
+mz/sinorama/10/ectb_1051   1    5           paid    VBN       (VP*))))           pay  01   1   -   *      *           (V*)            *             *)  -
+mz/sinorama/10/ectb_1051   1    6              ,      ,             *             -    -   -   -   *      *             *             *             *   -
+mz/sinorama/10/ectb_1051   1    7            you    PRP        (S(NP*)            -    -   -   -   *      *             *        (ARG0*)            *   -
+mz/sinorama/10/ectb_1051   1    8            can     MD          (VP*             -    -   -   -   *      *             *    (ARGM-MOD*)            *   -
+mz/sinorama/10/ectb_1051   1    9           only     RB        (ADVP*)            -    -   -   -   *      *             *    (ARGM-ADV*)            *   -
+mz/sinorama/10/ectb_1051   1   10            get     VB          (VP*            get  01   1   -   *      *             *           (V*)            *   -
+mz/sinorama/10/ectb_1051   1   11              a     DT          (NP*             -    -   -   -   *      *             *        (ARG1*             *   -
+mz/sinorama/10/ectb_1051   1   12              "     ``             *             -    -   -   -   *      *             *             *             *   -
+mz/sinorama/10/ectb_1051   1   13          small     JJ             *             -    -   -   -   *      *             *             *             *   -
+mz/sinorama/10/ectb_1051   1   14              "     ''             *             -    -   -   -   *      *             *             *             *   -
+mz/sinorama/10/ectb_1051   1   15       property     NN             *       property   -   1   -   *      *             *             *             *   -
+mz/sinorama/10/ectb_1051   1   16    certificate     NN          *))))   certificate   -   -   -   *      *             *             *)            *   -
+mz/sinorama/10/ectb_1051   1   17              ,      ,             *             -    -   -   -   *      *             *             *             *   -
+mz/sinorama/10/ectb_1051   1   18            and     CC             *             -    -   -   -   *      *             *             *             *   -
+mz/sinorama/10/ectb_1051   1   19            you    PRP        (S(NP*)            -    -   -   -   *      *             *             *        (ARG0*)  -
+mz/sinorama/10/ectb_1051   1   20             ca     MD          (VP*             -    -   -   -   *      *             *             *    (ARGM-MOD*)  -
+mz/sinorama/10/ectb_1051   1   21            n't     RB             *             -    -   -   -   *      *             *             *    (ARGM-NEG*)  -
+mz/sinorama/10/ectb_1051   1   22           sell     VB          (VP*           sell  01   1   -   *      *             *             *           (V*)  -
+mz/sinorama/10/ectb_1051   1   23           your   PRP$          (NP*             -    -   -   -   *      *             *             *        (ARG1*   -
+mz/sinorama/10/ectb_1051   1   24       property     NN          *))))      property   -   1   -   *      *             *             *             *)  -
+mz/sinorama/10/ectb_1051   1   25              .      .            *))            -    -   -   -   *      *             *             *             *   -
+
+mz/sinorama/10/ectb_1051   1    0         Some    DT  (TOP(S(S(NP*          -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1    1    buildings   NNS             *)   building   -   1   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1    2          can    MD          (VP*          -    -   -   -   *      *    (ARGM-MOD*)  -
+mz/sinorama/10/ectb_1051   1    3           be    VB          (VP*          be  03   -   -   *    (V*)            *   -
+mz/sinorama/10/ectb_1051   1    4       bought   VBN          (VP*         buy  01   1   -   *      *           (V*)  -
+mz/sinorama/10/ectb_1051   1    5         with    IN          (PP*          -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1    6            a    DT          (NP*          -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1    7         loan    NN        *))))))       loan   -   1   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1    8            ,     ,             *          -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1    9          but    CC             *          -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1   10       others   NNS        (S(NP*)         -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1   11           ca    MD          (VP*          -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1   12          n't    RB            *))         -    -   -   -   *      *             *   -
+mz/sinorama/10/ectb_1051   1   13            .     .            *))         -    -   -   -   *      *             *   -
+
+mz/sinorama/10/ectb_1051   1    0        Newly    RB  (TOP(S(S(NP(ADJP*          -    -   -   -          *    (ARGM-TMP*)       (ARG0*            *             *             *         *        *             *             *        *      *    (15
+mz/sinorama/10/ectb_1051   1    1      arrived   VBN                  *)     arrive  01   1   -          *           (V*)            *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1    2    Taiwanese    JJ                  *          -    -   -   -      (NORP)            *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1    3     business    NN                  *    business   -   1   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1    4      persons   NNS                  *)     person   -   1   -          *        (ARG1*)            *)           *             *             *         *        *             *             *        *      *     15)
+mz/sinorama/10/ectb_1051   1    5        often    RB             (ADVP*)         -    -   -   -          *             *    (ARGM-TMP*)           *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1    6         make   VBP               (VP*        make   -   1   -          *             *    (ARGM-LVB*)           *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1    7          bad    JJ               (NP*          -    -   -   -          *             *    (ARGM-MNR*)           *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1    8    judgments   NNS                  *)   judgment  01   1   -          *             *           (V*)           *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1    9           if    IN             (SBAR*          -    -   -   -          *             *    (ARGM-ADV*            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   10         they   PRP             (S(NP*)         -    -   -   -          *             *             *       (ARG1*)            *             *         *        *             *             *        *      *    (15)
+mz/sinorama/10/ectb_1051   1   11       plunge   VBP               (VP*      plunge  01   3   -          *             *             *          (V*)            *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   12         into    IN               (PP*          -    -   -   -          *             *             *       (ARG2*             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   13          the    DT               (NP*          -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *    (10
+mz/sinorama/10/ectb_1051   1   14       market    NN                 *))     market   -   1   -          *             *             *            *)            *             *         *        *             *             *        *      *     10)
+mz/sinorama/10/ectb_1051   1   15      without    IN               (PP*          -    -   -   -          *             *             *   (ARGM-MNR*             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   16     studying   VBG             (S(VP*       study  01   1   -          *             *             *            *           (V*)            *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   17           it   PRP               (NP*)         -    -   -   -          *             *             *            *        (ARG1*)            *         *        *             *             *        *      *    (10)
+mz/sinorama/10/ectb_1051   1   18    carefully    RB             (ADVP*)         -    -   -   -          *             *             *            *    (ARGM-MNR*)            *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   19        first    RB       (ADVP*)))))))         -    -   -   -          *             *             *)           *)   (ARGM-TMP*)            *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   20            ,     ,                 *))         -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   21           so    RB         (S(S(ADVP*)         -    -   -   -          *             *             *            *             *    (ARGM-ADV*)        *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   22         Chen   NNP               (NP*)         -    -   -   -    (PERSON)            *             *            *             *        (ARG0*)        *        *             *             *        *      *    (14)
+mz/sinorama/10/ectb_1051   1   23     suggests   VBZ               (VP*     suggest  01   1   -          *             *             *            *             *           (V*)        *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   24          the    DT            (NP(NP*          -    -   -   -          *             *             *            *             *        (ARG1*         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   25    following   VBG                  *      follow  04   -   -          *             *             *            *             *             *       (V*)       *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   26        rules   NNS                  *)       rule   -   4   -          *             *             *            *             *             *    (ARG1*)       *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   27           of    IN               (PP*          -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   28        thumb    NN           (NP*)))))      thumb   -   -   -          *             *             *            *             *             *)        *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   29            :     :                  *          -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   30          The    DT           (S(S(NP*          -    -   -   -          *             *             *            *             *             *         *   (ARG1*             *             *        *      *    (10
+mz/sinorama/10/ectb_1051   1   31     Shanghai   NNP                  *          -    -   -   -       (GPE)            *             *            *             *             *         *        *             *             *        *      *    (20)
+mz/sinorama/10/ectb_1051   1   32     property    NN                  *    property   -   1   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   33       market    NN                  *)     market   -   -   -          *             *             *            *             *             *         *        *)            *             *        *      *     10)
+mz/sinorama/10/ectb_1051   1   34           is   VBZ               (VP*          be  01   4   -          *             *             *            *             *             *         *      (V*)            *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   35           in    IN               (PP*          -    -   -   -          *             *             *            *             *             *         *   (ARG2*             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   36            a    DT               (NP*          -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   37        slump    NN               *))))      slump   -   2   -          *             *             *            *             *             *         *        *)            *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   38            ,     ,                  *          -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   39           so    RB           (S(ADVP*)         -    -   -   -          *             *             *            *             *             *         *        *    (ARGM-DIS*)            *        *      *      -
+mz/sinorama/10/ectb_1051   1   40        there    EX               (NP*)         -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   41           is   VBZ               (VP*          be  02   3   -          *             *             *            *             *             *         *        *           (V*)            *        *      *      -
+mz/sinorama/10/ectb_1051   1   42           no    DT               (NP*          -    -   -   -          *             *             *            *             *             *         *        *        (ARG1*    (ARGM-NEG*)       *      *      -
+mz/sinorama/10/ectb_1051   1   43         need    NN                  *        need  01   1   -          *             *             *            *             *             *         *        *             *           (V*)       *      *      -
+mz/sinorama/10/ectb_1051   1   44           to    TO             (S(VP*          -    -   -   -          *             *             *            *             *             *         *        *             *        (ARG1*        *      *      -
+mz/sinorama/10/ectb_1051   1   45         rush    VB               (VP*        rush  01   1   -          *             *             *            *             *             *         *        *             *             *      (V*)     *      -
+mz/sinorama/10/ectb_1051   1   46         into    IN               (PP*          -    -   -   -          *             *             *            *             *             *         *        *             *             *   (ARG2*      *      -
+mz/sinorama/10/ectb_1051   1   47            a    DT               (NP*          -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+mz/sinorama/10/ectb_1051   1   48     purchase    NN         *))))))))))   purchase  01   1   -          *             *             *            *             *             *         *        *             *)            *)       *)   (V*)     -
+mz/sinorama/10/ectb_1051   1   49            .     .                 *))         -    -   -   -          *             *             *            *             *             *         *        *             *             *        *      *      -
+
+mz/sinorama/10/ectb_1051   1    0           A   DT  (TOP(S(NP*          -    -   -   -   *        (ARG1*         *   -
+mz/sinorama/10/ectb_1051   1    1       buyer   NN           *)         -    -   -   -   *             *)        *   -
+mz/sinorama/10/ectb_1051   1    2        must   MD        (VP*          -    -   -   -   *    (ARGM-MOD*)        *   -
+mz/sinorama/10/ectb_1051   1    3          be   VB        (VP*          be  01   1   -   *           (V*)        *   -
+mz/sinorama/10/ectb_1051   1    4        very   RB      (ADJP*          -    -   -   -   *        (ARG2*         *   -
+mz/sinorama/10/ectb_1051   1    5       clear   JJ           *          -    -   -   -   *             *         *   -
+mz/sinorama/10/ectb_1051   1    6       about   IN        (PP*          -    -   -   -   *             *         *   -
+mz/sinorama/10/ectb_1051   1    7         the   DT     (NP(NP*          -    -   -   -   *             *         *   -
+mz/sinorama/10/ectb_1051   1    8     purpose   NN           *)    purpose   -   1   -   *             *         *   -
+mz/sinorama/10/ectb_1051   1    9          of   IN        (PP*          -    -   -   -   *             *         *   -
+mz/sinorama/10/ectb_1051   1   10         any   DT        (NP*          -    -   -   -   *             *         *   -
+mz/sinorama/10/ectb_1051   1   11    property   NN           *    property   -   1   -   *             *    (ARG1*)  -
+mz/sinorama/10/ectb_1051   1   12    purchase   NN     *)))))))   purchase  01   1   -   *             *)      (V*)  -
+mz/sinorama/10/ectb_1051   1   13           .    .          *))         -    -   -   -   *             *         *   -
+
+mz/sinorama/10/ectb_1051   1    0            It   PRP   (TOP(S(NP(NP*))         -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1    1            is   VBZ             (VP*          be  01   1   -       *       (V*)        *     -
+mz/sinorama/10/ectb_1051   1    2        safest   JJS           (ADJP*)         -    -   -   -       *    (ARG2*)        *     -
+mz/sinorama/10/ectb_1051   1    3            to    TO           (S(VP*          -    -   -   -       *    (ARG1*         *     -
+mz/sinorama/10/ectb_1051   1    4           buy    VB             (VP*         buy  01   1   -       *         *       (V*)    -
+mz/sinorama/10/ectb_1051   1    5      property    NN             (NP*)   property   -   1   -       *         *    (ARG1*)    -
+mz/sinorama/10/ectb_1051   1    6          from    IN             (PP*          -    -   -   -       *         *    (ARG2*     -
+mz/sinorama/10/ectb_1051   1    7           the    DT          (NP(NP*          -    -   -   -   (ORG*         *         *     -
+mz/sinorama/10/ectb_1051   1    8      Shanghai   NNP                *          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1    9     Municipal   NNP                *          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   10    Government   NNP                *)         -    -   -   -       *)        *         *     -
+mz/sinorama/10/ectb_1051   1   11             ,     ,                *          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   12           the    DT          (NP(NP*          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   13       biggest   JJS           (ADJP*          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   14           and    CC                *          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   15          most   RBS                *          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   16      reliable    JJ                *)         -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   17          real    JJ            (NML*          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   18        estate    NN                *)     estate   -   2   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   19     developer    NN                *)         -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   20            in    IN             (PP*          -    -   -   -       *         *         *     -
+mz/sinorama/10/ectb_1051   1   21           the    DT             (NP*          -    -   -   -       *         *         *   (20
+mz/sinorama/10/ectb_1051   1   22          city    NN        *)))))))))       city   -   1   -       *         *)        *)   20)
+mz/sinorama/10/ectb_1051   1   23             .     .               *))         -    -   -   -       *         *         *     -
+
+mz/sinorama/10/ectb_1051   1    0           One   PRP     (TOP(S(NP*)           -    -   -   -       *        (ARG0*)  -
+mz/sinorama/10/ectb_1051   1    1          must    MD           (VP*            -    -   -   -       *    (ARGM-MOD*)  -
+mz/sinorama/10/ectb_1051   1    2           not    RB              *            -    -   -   -       *    (ARGM-NEG*)  -
+mz/sinorama/10/ectb_1051   1    3      estimate    VB           (VP*      estimate  01   1   -       *           (V*)  -
+mz/sinorama/10/ectb_1051   1    4     potential    JJ        (NP(NP*            -    -   -   -       *        (ARG1*   -
+mz/sinorama/10/ectb_1051   1    5      earnings   NNS              *)     earnings   -   1   -       *             *)  -
+mz/sinorama/10/ectb_1051   1    6            on    IN           (PP*            -    -   -   -       *    (ARGM-MNR*   -
+mz/sinorama/10/ectb_1051   1    7           the    DT        (NP(NP*            -    -   -   -       *             *   -
+mz/sinorama/10/ectb_1051   1    8         basis    NN              *)        basis   -   2   -       *             *   -
+mz/sinorama/10/ectb_1051   1    9            of    IN           (PP*            -    -   -   -       *             *   -
+mz/sinorama/10/ectb_1051   1   10    experience    NN        (NP(NP*)   experience   -   1   -       *             *   -
+mz/sinorama/10/ectb_1051   1   11            in    IN           (PP*            -    -   -   -       *             *   -
+mz/sinorama/10/ectb_1051   1   12        Taiwan   NNP   (NP*)))))))))           -    -   -   -    (GPE)            *)  -
+mz/sinorama/10/ectb_1051   1   13             .     .             *))           -    -   -   -       *             *   -
+
+mz/sinorama/10/ectb_1051   1    0        You   PRP      (TOP(S(NP*)      -    -   -   -   *       (ARG0*)            *             *   -
+mz/sinorama/10/ectb_1051   1    1        get   VBP            (VP*      get  01   1   -   *          (V*)            *             *   -
+mz/sinorama/10/ectb_1051   1    2       more   JJR      (NP(NP(NP*)      -    -   -   -   *       (ARG1*             *             *   -
+mz/sinorama/10/ectb_1051   1    3        for    IN            (PP*       -    -   -   -   *            *             *             *   -
+mz/sinorama/10/ectb_1051   1    4      money    NN         (NP*))))   money   -   2   -   *            *)            *             *   -
+mz/sinorama/10/ectb_1051   1    5       when   WRB   (SBAR(WHADVP*)      -    -   -   -   *   (ARGM-TMP*    (ARGM-TMP*)            *   -
+mz/sinorama/10/ectb_1051   1    6    renting   VBG        (S(VP*)))    rent  01   -   -   *            *)          (V*)            *   -
+mz/sinorama/10/ectb_1051   1    7       than    IN            (PP*       -    -   -   -   *     (C-ARG1*             *             *   -
+mz/sinorama/10/ectb_1051   1    8       when   WRB   (SBAR(WHADVP*)      -    -   -   -   *            *             *    (ARGM-TMP*)  -
+mz/sinorama/10/ectb_1051   1    9     buying   VBG      (S(VP*)))))     buy  01   -   -   *            *)            *           (V*)  -
+mz/sinorama/10/ectb_1051   1   10          .     .              *))      -    -   -   -   *            *             *             *   -
+
+mz/sinorama/10/ectb_1051   1    0          You    PRP          (TOP(S(NP*)          -    -      -   -   *        (ARG1*)       (ARG1*)            *        *         *      -
+mz/sinorama/10/ectb_1051   1    1         must     MD                (VP*           -    -      -   -   *    (ARGM-MOD*)   (ARGM-MOD*)            *        *         *      -
+mz/sinorama/10/ectb_1051   1    2        stand     VB             (VP(VP*        stand  01      2   -   *           (V*)            *             *        *         *      -
+mz/sinorama/10/ectb_1051   1    3           on     IN                (PP*           -    -      -   -   *        (ARG2*             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1    4         your   PRP$                (NP*           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1    5       rights    NNS                  *))       right   -      -   -   *             *)            *             *        *         *      -
+mz/sinorama/10/ectb_1051   1    6           at     IN                (PP*           -    -      -   -   *    (ARGM-TMP*             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1    7          all     DT                (NP*           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1    8        times    NNS                 *)))        time   -      1   -   *             *)            *             *        *         *      -
+mz/sinorama/10/ectb_1051   1    9            ,      ,                   *           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1   10          and     CC                   *           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1   11           be     VB                (VP*           be  01      1   -   *             *           (V*)            *        *         *      -
+mz/sinorama/10/ectb_1051   1   12         very     RB              (ADJP*           -    -      -   -   *             *        (ARG2*             *        *         *      -
+mz/sinorama/10/ectb_1051   1   13      careful     JJ                   *           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1   14          not     RB              (S(VP*           -    -      -   -   *             *             *    (ARGM-NEG*)       *         *      -
+mz/sinorama/10/ectb_1051   1   15           to     TO                   *           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1   16          let     VB                (VP*          let  01      1   -   *             *             *           (V*)       *         *      -
+mz/sinorama/10/ectb_1051   1   17      friends    NNS              (S(NP*       friend   -      -   -   *             *             *        (ARG1*   (ARG0*         *    (25
+mz/sinorama/10/ectb_1051   1   18          and     CC                   *           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1   19    relatives    NNS                   *)          -    -      -   -   *             *             *             *        *)        *     25)
+mz/sinorama/10/ectb_1051   1   20          use     VB                (VP*          use  01      1   -   *             *             *             *      (V*)        *      -
+mz/sinorama/10/ectb_1051   1   21        their   PRP$                (NP*           -    -      -   -   *             *             *             *   (ARG1*         *    (25)
+mz/sinorama/10/ectb_1051   1   22     personal     JJ                   *           -    -      -   -   *             *             *             *        *         *      -
+mz/sinorama/10/ectb_1051   1   23         ties    NNS                   *)         tie   -      2   -   *             *             *             *        *)        *      -
+mz/sinorama/10/ectb_1051   1   24           to     TO              (S(VP*           -    -      -   -   *             *             *             *   (ARG2*         *      -
+mz/sinorama/10/ectb_1051   1   25         take     VB                (VP*         take  01   14.1   -   *             *             *             *        *       (V*)     -
+mz/sinorama/10/ectb_1051   1   26    advantage     NN                (NP*)   advantage   -      1   -   *             *             *             *        *    (ARG1*)     -
+mz/sinorama/10/ectb_1051   1   27           of     IN                (PP*           -    -      -   -   *             *             *             *        *    (ARG2*      -
+mz/sinorama/10/ectb_1051   1   28          you    PRP   (NP*))))))))))))))          -    -      -   -   *             *             *)            *)       *)        *)     -
+mz/sinorama/10/ectb_1051   1   29            .      .                  *))          -    -      -   -   *             *             *             *        *         *      -

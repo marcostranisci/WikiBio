@@ -1,0 +1,63 @@
+bc/cnn/00/cnn_0001   9   0       Tonight    NN   (TOP(FRAG(FRAG(NP*)     -    -   -    Rick_Sanchez          (TIME)        *   -
+bc/cnn/00/cnn_0001   9   1            on    IN                 (PP*      -    -   -    Rick_Sanchez              *         *   -
+bc/cnn/00/cnn_0001   9   2     Newsnight   NNP               (NP*)))     -    -   -    Rick_Sanchez   (WORK_OF_ART)        *   -
+bc/cnn/00/cnn_0001   9   3      politics   NNS               (S(NP*)     -    -   -    Rick_Sanchez              *    (ARG0*)  -
+bc/cnn/00/cnn_0001   9   4         makes   VBZ                 (VP*    make  01   2    Rick_Sanchez              *       (V*)  -
+bc/cnn/00/cnn_0001   9   5       strange    JJ                 (NP*      -    -   -    Rick_Sanchez              *    (ARG1*   -
+bc/cnn/00/cnn_0001   9   6    bedfellows   NNS                  *)))     -    -   -    Rick_Sanchez              *         *)  -
+bc/cnn/00/cnn_0001   9   7            /.     .                   *))     -    -   -    Rick_Sanchez              *         *   -
+
+bc/cnn/00/cnn_0001   9    0        Would     MD    (TOP(SQ*         -    -   -    Rick_Sanchez         *    (ARGM-MOD*)            *   -
+bc/cnn/00/cnn_0001   9    1          you    PRP        (NP*)        -    -   -    Rick_Sanchez         *        (ARG0*)            *   -
+bc/cnn/00/cnn_0001   9    2      believe     VB        (VP*    believe  01   1    Rick_Sanchez         *           (V*)            *   -
+bc/cnn/00/cnn_0001   9    3         that     IN      (SBAR*         -    -   -    Rick_Sanchez         *        (ARG1*             *   -
+bc/cnn/00/cnn_0001   9    4         some     DT      (S(NP*         -    -   -    Rick_Sanchez         *             *        (ARG0*   -
+bc/cnn/00/cnn_0001   9    5      liberal     JJ           *         -    -   -    Rick_Sanchez         *             *             *   -
+bc/cnn/00/cnn_0001   9    6    Democrats   NNPS           *)        -    -   -    Rick_Sanchez     (NORP)            *             *)  -
+bc/cnn/00/cnn_0001   9    7        might     MD        (VP*         -    -   -    Rick_Sanchez         *             *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   9    8      support     VB        (VP*    support  01   2    Rick_Sanchez         *             *           (V*)  -
+bc/cnn/00/cnn_0001   9    9    President    NNP  (NP(NP(NP*         -    -   -    Rick_Sanchez         *             *        (ARG1*   -
+bc/cnn/00/cnn_0001   9   10         Bush    NNP           *         -    -   -    Rick_Sanchez   (PERSON)            *             *   -
+bc/cnn/00/cnn_0001   9   11           's    POS           *)        -    -   -    Rick_Sanchez         *             *             *   -
+bc/cnn/00/cnn_0001   9   12      Supreme    NNP       (NML*         -    -   -    Rick_Sanchez     (ORG*             *             *   -
+bc/cnn/00/cnn_0001   9   13        Court    NNP           *)        -    -   -    Rick_Sanchez         *)            *             *   -
+bc/cnn/00/cnn_0001   9   14      Nominee     NN           *)        -    -   -    Rick_Sanchez         *             *             *   -
+bc/cnn/00/cnn_0001   9   15       Samuel    NNP        (NP*         -    -   -    Rick_Sanchez  (PERSON*             *             *   -
+bc/cnn/00/cnn_0001   9   16        Alito    NNP     *)))))))        -    -   -    Rick_Sanchez         *)            *)            *)  -
+bc/cnn/00/cnn_0001   9   17           /?      .          *))        -    -   -    Rick_Sanchez         *             *             *   -
+
+bc/cnn/00/cnn_0001   9   0         We   PRP   (TOP(S(NP*)        -    -   -    Rick_Sanchez  *      *      *    (ARG0*)  -
+bc/cnn/00/cnn_0001   9   1        're   VBP         (VP*         be  03   -    Rick_Sanchez  *    (V*)     *         *   -
+bc/cnn/00/cnn_0001   9   2      going   VBG         (VP*         go  04   7    Rick_Sanchez  *      *    (V*)        *   -
+bc/cnn/00/cnn_0001   9   3         to    TO       (S(VP*         -    -   -    Rick_Sanchez  *      *      *         *   -
+bc/cnn/00/cnn_0001   9   4    explain    VB         (VP*    explain  01   1    Rick_Sanchez  *      *      *       (V*)  -
+bc/cnn/00/cnn_0001   9   5       this    DT         (NP*         -    -   -    Rick_Sanchez  *      *      *    (ARG1*   -
+bc/cnn/00/cnn_0001   9   6        one    NN            *)       one   -   2    Rick_Sanchez  *      *      *         *)  -
+bc/cnn/00/cnn_0001   9   7         to    IN         (PP*         -    -   -    Rick_Sanchez  *      *      *    (ARG2*   -
+bc/cnn/00/cnn_0001   9   8        you   PRP   (NP*)))))))        -    -   -    Rick_Sanchez  *      *      *         *)  -
+bc/cnn/00/cnn_0001   9   9         /.     .           *))        -    -   -    Rick_Sanchez  *      *      *         *   -
+
+bc/cnn/00/cnn_0001   9    0          And    CC  (TOP(SBARQ*         -    -   -    Kyra_Phillips  *      *             *        *         *        *   -
+bc/cnn/00/cnn_0001   9    1          why   WRB     (WHADVP*)        -    -   -    Kyra_Phillips  *      *    (ARGM-PRP*)       *         *        *   -
+bc/cnn/00/cnn_0001   9    2          are   VBP         (SQ*         be  03   -    Kyra_Phillips  *    (V*)            *        *         *        *   -
+bc/cnn/00/cnn_0001   9    3           so    RB    (NP(ADJP*         -    -   -    Kyra_Phillips  *      *        (ARG0*   (ARG0*         *        *   -
+bc/cnn/00/cnn_0001   9    4         many    JJ            *)        -    -   -    Kyra_Phillips  *      *             *        *         *        *   -
+bc/cnn/00/cnn_0001   9    5       people   NNS            *)    people   -   1    Kyra_Phillips  *      *             *)       *)        *        *   -
+bc/cnn/00/cnn_0001   9    6       trying   VBG         (VP*        try  01   1    Kyra_Phillips  *      *           (V*)       *         *        *   -
+bc/cnn/00/cnn_0001   9    7           to    TO       (S(VP*         -    -   -    Kyra_Phillips  *      *        (ARG1*        *         *        *   -
+bc/cnn/00/cnn_0001   9    8         keep    VB         (VP*       keep  04   4    Kyra_Phillips  *      *             *      (V*)        *        *   -
+bc/cnn/00/cnn_0001   9    9            a    DT         (NP*         -    -   -    Kyra_Phillips  *      *             *   (ARG1*         *   (ARG0*   -
+bc/cnn/00/cnn_0001   9   10    convicted   VBN            *    convict  01   -    Kyra_Phillips  *      *             *        *       (V*)       *   -
+bc/cnn/00/cnn_0001   9   11       killer    NN            *)        -    -   -    Kyra_Phillips  *      *             *        *)   (ARG1*)       *)  -
+bc/cnn/00/cnn_0001   9   12         from    IN         (PP*         -    -   -    Kyra_Phillips  *      *             *   (ARG2*         *        *   -
+bc/cnn/00/cnn_0001   9   13      getting   VBG       (S(VP*        get  01   1    Kyra_Phillips  *      *             *        *         *      (V*)  -
+bc/cnn/00/cnn_0001   9   14          the    DT         (NP*         -    -   -    Kyra_Phillips  *      *             *        *         *   (ARG1*   -
+bc/cnn/00/cnn_0001   9   15        death    NN            *      death   -   1    Kyra_Phillips  *      *             *        *         *        *   -
+bc/cnn/00/cnn_0001   9   16      penalty    NN    *)))))))))   penalty   -   1    Kyra_Phillips  *      *             *)       *)        *        *)  -
+bc/cnn/00/cnn_0001   9   17           /?     .           *))        -    -   -    Kyra_Phillips  *      *             *        *         *        *   -
+
+bc/cnn/00/cnn_0001   9   0        That   DT  (TOP(FRAG(NP*       -   -   -    Kyra_Phillips  *   -
+bc/cnn/00/cnn_0001   9   1       story   NN              *)   story  -   1    Kyra_Phillips  *   -
+bc/cnn/00/cnn_0001   9   2    straight   RB         (ADVP*       -   -   -    Kyra_Phillips  *   -
+bc/cnn/00/cnn_0001   9   3       ahead   RB              *)      -   -   -    Kyra_Phillips  *   -
+bc/cnn/00/cnn_0001   9   4          /.    .             *))      -   -   -    Kyra_Phillips  *   -

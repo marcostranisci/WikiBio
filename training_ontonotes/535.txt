@@ -1,0 +1,931 @@
+tc/ch/00/ch_0006   1   0      %um    UH   (TOP(SBARQ(INTJ*)      -    -   -    A  *            *    -
+tc/ch/00/ch_0006   1   1        ,     ,                  *       -    -   -    A  *            *    -
+tc/ch/00/ch_0006   1   2    Where   WRB           (WHADVP*)      -    -   -    A  *       (ARG2*)   -
+tc/ch/00/ch_0006   1   3      was   VBD               (SQ*       be  01   -    A  *          (V*)   -
+tc/ch/00/ch_0006   1   4     that    DT               (NP*       -    -   -    A  *       (ARG1*   (2
+tc/ch/00/ch_0006   1   5    paper    NN                  *)   paper   -   -    A  *            *)   2)
+tc/ch/00/ch_0006   1   6       by    IN               (PP*       -    -   -    A  *   (ARGM-DIS*    -
+tc/ch/00/ch_0006   1   7      the    DT               (NP*       -    -   -    A  *            *    -
+tc/ch/00/ch_0006   1   8      way    NN                *)))      -    -   -    A  *            *)   -
+tc/ch/00/ch_0006   1   9        ?     .                 *))      -    -   -    A  *            *    -
+
+tc/ch/00/ch_0006   1   0    Which   WDT  (TOP(SBARQ(WHNP*       -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1    paper    NN                 *)   paper  -   -    B  *   -
+tc/ch/00/ch_0006   1   2        ?     .                *))      -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0      The    DT      (TOP(NP(NP*       -   -   -    A  *   (2
+tc/ch/00/ch_0006   1   1    paper    NN                *)   paper  -   -    A  *    2)
+tc/ch/00/ch_0006   1   2     that   WDT   (SBAR(WHNP*))))      -   -   -    A  *    -
+
+tc/ch/00/ch_0006   1    0         I   PRP   (TOP(S(NP*)     -    -   -    B  *       (ARG0*)   (ARG0*)   (6)
+tc/ch/00/ch_0006   1    1    copied   VBD      (VP(VP*    copy  01   -    B  *          (V*)        *     -
+tc/ch/00/ch_0006   1    2        it   PRP         (NP*)     -    -   -    B  *       (ARG1*)        *    (2)
+tc/ch/00/ch_0006   1    3       for    IN         (PP*      -    -   -    B  *   (ARGM-GOL*         *     -
+tc/ch/00/ch_0006   1    4       you   PRP       (NP*)))     -    -   -    B  *            *)        *    (9)
+tc/ch/00/ch_0006   1    5       and    CC            *      -    -   -    B  *            *         *     -
+tc/ch/00/ch_0006   1    6      gave   VBD         (VP*    give  01   -    B  *            *       (V*)    -
+tc/ch/00/ch_0006   1    7        it   PRP         (NP*)     -    -   -    B  *            *    (ARG1*)   (2)
+tc/ch/00/ch_0006   1    8        to    IN         (PP*      -    -   -    B  *            *    (ARG2*     -
+tc/ch/00/ch_0006   1    9       you   PRP      (NP*))))     -    -   -    B  *            *         *)   (9)
+tc/ch/00/ch_0006   1   10         .     .           *))     -    -   -    B  *            *         *     -
+
+tc/ch/00/ch_0006   1   0    No   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1     .    .           *   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   2    No   UH           *   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   3     .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1    0        I   PRP       (TOP(S(NP*)     -    -   -    A  *    (ARG0*)           *         *         *         *         *    (9)
+tc/ch/00/ch_0006   1    1     mean   VBP             (VP*    mean  01   -    A  *       (V*)           *         *         *         *         *     -
+tc/ch/00/ch_0006   1    2    where   WRB   (SBARQ(WHADVP*)     -    -   -    A  *    (ARG1*       (ARG2*)        *         *         *         *     -
+tc/ch/00/ch_0006   1    3      was   VBD             (SQ*      be  01   -    A  *         *          (V*)        *         *         *         *     -
+tc/ch/00/ch_0006   1    4       it   PRP             (NP*)     -    -   -    A  *         *       (ARG1*)        *         *         *         *    (2)
+tc/ch/00/ch_0006   1    5     when   WRB    (SBAR(WHADVP*)     -    -   -    A  *         *   (ARGM-TMP*         *         *         *         *     -
+tc/ch/00/ch_0006   1    6      you   PRP         (S(S(NP*)     -    -   -    A  *         *            *    (ARG0*)        *         *         *    (6)
+tc/ch/00/ch_0006   1    7     told   VBD             (VP*    tell  01   -    A  *         *            *       (V*)        *         *         *     -
+tc/ch/00/ch_0006   1    8       me   PRP             (NP*)     -    -   -    A  *         *            *    (ARG2*)        *         *         *    (9)
+tc/ch/00/ch_0006   1    9        I   PRP      (SBAR(S(NP*)     -    -   -    A  *         *            *    (ARG1*    (ARG0*)        *         *    (9)
+tc/ch/00/ch_0006   1   10      had   VBD             (VP*    have  03   -    A  *         *            *         *       (V*)        *         *     -
+tc/ch/00/ch_0006   1   11       it   PRP        (NP*))))))     -    -   -    A  *         *            *         *)   (ARG1*)        *         *    (2)
+tc/ch/00/ch_0006   1   12      and    CC                *      -    -   -    A  *         *            *         *         *         *         *     -
+tc/ch/00/ch_0006   1   13        I   PRP           (S(NP*)     -    -   -    A  *         *            *         *         *    (ARG0*)        *    (9)
+tc/ch/00/ch_0006   1   14     told   VBD             (VP*    tell  01   -    A  *         *            *         *         *       (V*)        *     -
+tc/ch/00/ch_0006   1   15      you   PRP             (NP*)     -    -   -    A  *         *            *         *         *    (ARG2*)        *    (6)
+tc/ch/00/ch_0006   1   16      you   PRP      (SBAR(S(NP*)     -    -   -    A  *         *            *         *         *    (ARG1*    (ARG0*)   (6)
+tc/ch/00/ch_0006   1   17      had   VBD             (VP*    have  03   -    A  *         *            *         *         *         *       (V*)    -
+tc/ch/00/ch_0006   1   18       it   PRP   (NP*)))))))))))     -    -   -    A  *         *)           *)        *         *         *)   (ARG1*)   (2)
+tc/ch/00/ch_0006   1   19        .     .               *))     -    -   -    A  *         *            *         *         *         *         *     -
+
+tc/ch/00/ch_0006   1   0    Who    WP   (TOP(SBARQ(WHNP*)     -    -   -    A  *    (ARG0*)    -
+tc/ch/00/ch_0006   1   1    had   VBD            (SQ(VP*    have  03   -    A  *       (V*)    -
+tc/ch/00/ch_0006   1   2     it   PRP             (NP*)))     -    -   -    A  *    (ARG1*)   (2)
+tc/ch/00/ch_0006   1   3      ?     .                 *))     -    -   -    A  *         *     -
+
+tc/ch/00/ch_0006   1   0       I   PRP   (TOP(S(NP*)     -    -   -    B  *        (ARG0*)   (6)
+tc/ch/00/ch_0006   1   1      do   VBP         (VP*      do   -   -    B  *             *     -
+tc/ch/00/ch_0006   1   2     n't    RB            *      -    -   -    B  *    (ARGM-NEG*)    -
+tc/ch/00/ch_0006   1   3    know    VB        (VP*))   know  01   -    B  *           (V*)    -
+tc/ch/00/ch_0006   1   4       .     .           *))     -    -   -    B  *             *     -
+
+tc/ch/00/ch_0006   1   0       I   PRP   (TOP(S(NP*)     -    -   -    B  *        (ARG0*)   (6)
+tc/ch/00/ch_0006   1   1      do   VBP         (VP*      do   -   -    B  *             *     -
+tc/ch/00/ch_0006   1   2     n't    RB            *      -    -   -    B  *    (ARGM-NEG*)    -
+tc/ch/00/ch_0006   1   3    know    VB        (VP*))   know  01   -    B  *           (V*)    -
+tc/ch/00/ch_0006   1   4       .     .           *))     -    -   -    B  *             *     -
+
+tc/ch/00/ch_0006   1   0    Where   WRB   (TOP(SBARQ(WHADVP*)     -    -   -    A  *      *         *     -
+tc/ch/00/ch_0006   1   1      did   VBD                 (SQ*      do  01   -    A  *    (V*)        *     -
+tc/ch/00/ch_0006   1   2       it   PRP                 (NP*)     -    -   -    A  *      *    (ARG1*)   (2)
+tc/ch/00/ch_0006   1   3     come    VB                 (VP*    come  01   -    A  *      *       (V*)    -
+tc/ch/00/ch_0006   1   4     from    IN               (PP*)))     -    -   -    A  *      *    (ARG3*)    -
+tc/ch/00/ch_0006   1   5        ?     .                   *))     -    -   -    A  *      *         *     -
+
+tc/ch/00/ch_0006   1   0         It   PRP   (TOP(S(NP*)   -    -   -    B  *    (ARG1*)   (2)
+tc/ch/00/ch_0006   1   1         's   VBZ         (VP*    be  01   -    B  *       (V*)    -
+tc/ch/00/ch_0006   1   2    history    NN        (NP*))   -    -   -    B  *    (ARG2*)    -
+tc/ch/00/ch_0006   1   3          .     .           *))   -    -   -    B  *         *     -
+
+tc/ch/00/ch_0006   1   0           It   PRP   (TOP(S(NP*)   -    -   -    B  *    (ARG1*)   (2)
+tc/ch/00/ch_0006   1   1           's   VBZ         (VP*    be  01   -    B  *       (V*)    -
+tc/ch/00/ch_0006   1   2      history    NN         (NP*    -    -   -    B  *    (ARG2*     -
+tc/ch/00/ch_0006   1   3    detective    NN           *))   -    -   -    B  *         *)    -
+tc/ch/00/ch_0006   1   4            .     .           *))   -    -   -    B  *         *     -
+
+tc/ch/00/ch_0006   1   0               where   WRB   (TOP(SBARQ(WHADVP*)     -    -   -    A  *      *         *     -
+tc/ch/00/ch_0006   1   1                 did   VBD                 (SQ*      do  01   -    A  *    (V*)        *     -
+tc/ch/00/ch_0006   1   2                  it   PRP                 (NP*)     -    -   -    A  *      *    (ARG1*)   (2)
+tc/ch/00/ch_0006   1   3                come    VB                 (VP*    come  01   -    A  *      *       (V*)    -
+tc/ch/00/ch_0006   1   4                from    IN               (PP*)))     -    -   -    A  *      *    (ARG3*)    -
+tc/ch/00/ch_0006   1   5                   ?     .                    *      -    -   -    A  *      *         *     -
+tc/ch/00/ch_0006   1   6    458.93_461.27_A:    CD                   *))     -    -   -    A  *      *         *     -
+
+tc/ch/00/ch_0006   1   0          The    DT  (TOP(S(NP*      -    -   -    B  *   (ARG1*         *     -
+tc/ch/00/ch_0006   1   1    important    JJ           *      -    -   -    B  *        *         *     -
+tc/ch/00/ch_0006   1   2        thing    NN           *)     -    -   -    B  *        *)        *     -
+tc/ch/00/ch_0006   1   3           is   VBZ        (VP*      be  01   -    B  *      (V*)        *     -
+tc/ch/00/ch_0006   1   4         that    IN      (SBAR*      -    -   -    B  *   (ARG2*         *     -
+tc/ch/00/ch_0006   1   5           we   PRP      (S(NP*)     -    -   -    B  *        *    (ARG0*)    -
+tc/ch/00/ch_0006   1   6         have   VBP        (VP*    have  03   -    B  *        *       (V*)    -
+tc/ch/00/ch_0006   1   7           it   PRP    (NP*)))))     -    -   -    B  *        *)   (ARG1*)   (2)
+tc/ch/00/ch_0006   1   8            .     .          *))     -    -   -    B  *        *         *     -
+
+tc/ch/00/ch_0006   1    0       I   PRP         (TOP(S(NP*)     -    -   -    A  *    (ARG0*)   (ARG1*)   (ARG0*)        *     (9)
+tc/ch/00/ch_0006   1    1    want   VBP               (VP*    want  01   -    A  *       (V*)        *         *         *    (22)
+tc/ch/00/ch_0006   1    2      to    TO             (S(VP*      -    -   -    A  *    (ARG1*         *         *         *      -
+tc/ch/00/ch_0006   1    3      be    VB               (VP*      be  01   -    A  *         *       (V*)        *         *      -
+tc/ch/00/ch_0006   1    4    able    JJ             (ADJP*      -    -   -    A  *         *    (ARG2*         *         *      -
+tc/ch/00/ch_0006   1    5      to    TO             (S(VP*      -    -   -    A  *         *         *         *         *      -
+tc/ch/00/ch_0006   1    6     say    VB               (VP*     say  01   -    A  *         *         *       (V*)        *      -
+tc/ch/00/ch_0006   1    7       I   PRP             (S(NP*)     -    -   -    A  *         *         *    (ARG1*    (ARG0*)    (9)
+tc/ch/00/ch_0006   1    8    told   VBD               (VP*    tell  01   -    A  *         *         *         *       (V*)     -
+tc/ch/00/ch_0006   1    9     you   PRP               (NP*)     -    -   -    A  *         *         *         *    (ARG2*)    (6)
+tc/ch/00/ch_0006   1   10      so    RB   (ADVP*)))))))))))     -    -   -    A  *         *)        *)        *)   (ARG1*)     -
+tc/ch/00/ch_0006   1   11       .     .                 *))     -    -   -    A  *         *         *         *         *      -
+
+tc/ch/00/ch_0006   1   0    No   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1     .    .           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2    No   UH           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   3     .    .           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   4    No   UH           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   5     .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0      No    UH   (TOP(S(INTJ*)     -    -   -    B  *    (ARGM-DIS*)     -
+tc/ch/00/ch_0006   1   1       ,     ,              *      -    -   -    B  *             *      -
+tc/ch/00/ch_0006   1   2       I   PRP           (NP*)     -    -   -    B  *        (ARG0*)    (6)
+tc/ch/00/ch_0006   1   3    know   VBP           (VP*    know  01   -    B  *           (V*)     -
+tc/ch/00/ch_0006   1   4    that    DT          (NP*))     -    -   -    B  *        (ARG1*)   (22)
+tc/ch/00/ch_0006   1   5       .     .             *))     -    -   -    B  *             *      -
+
+tc/ch/00/ch_0006   1   0       I   PRP   (TOP(S(NP*)     -    -   -    B  *    (ARG0*)    (6)
+tc/ch/00/ch_0006   1   1    know   VBP         (VP*    know  01   -    B  *       (V*)     -
+tc/ch/00/ch_0006   1   2    that    DT        (NP*))     -    -   -    B  *    (ARG1*)   (22)
+tc/ch/00/ch_0006   1   3       .     .           *))     -    -   -    B  *         *      -
+
+tc/ch/00/ch_0006   1   0       I   PRP   (TOP(S(NP*)     -    -   -    B  *        (ARG0*)    (6)
+tc/ch/00/ch_0006   1   1    know   VBP         (VP*    know  01   -    B  *           (V*)     -
+tc/ch/00/ch_0006   1   2    that    DT         (NP*)     -    -   -    B  *        (ARG1*)   (22)
+tc/ch/00/ch_0006   1   3    well    RB      (ADVP*))     -    -   -    B  *    (ARGM-MNR*)     -
+tc/ch/00/ch_0006   1   4       .     .           *))     -    -   -    B  *             *      -
+
+tc/ch/00/ch_0006   1   0         That     DT   (TOP(S(NP*)   -    -   -    B  *    (ARG1*)    -
+tc/ch/00/ch_0006   1   1           's    VBZ         (VP*    be  01   -    B  *       (V*)    -
+tc/ch/00/ch_0006   1   2          the     DT      (NP(NP*    -    -   -    B  *    (ARG2*     -
+tc/ch/00/ch_0006   1   3         most    RBS       (ADJP*    -    -   -    B  *         *     -
+tc/ch/00/ch_0006   1   4    important     JJ            *)   -    -   -    B  *         *     -
+tc/ch/00/ch_0006   1   5        thing     NN            *)   -    -   -    B  *         *     -
+tc/ch/00/ch_0006   1   6           in     IN         (PP*    -    -   -    B  *         *     -
+tc/ch/00/ch_0006   1   7         your   PRP$         (NP*    -    -   -    B  *         *    (9)
+tc/ch/00/ch_0006   1   8         life     NN         *))))   -    -   -    B  *         *)    -
+tc/ch/00/ch_0006   1   9            .      .           *))   -    -   -    B  *         *     -
+
+tc/ch/00/ch_0006   1   0    Yes   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1      .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    No   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1     .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0       I   PRP   (TOP(S(NP*)     -    -   -    B  *       (ARG0*)   (6)
+tc/ch/00/ch_0006   1   1    know   VBP         (VP*    know  01   -    B  *          (V*)    -
+tc/ch/00/ch_0006   1   2    that    DT         (NP*)     -    -   -    B  *       (ARG1*)    -
+tc/ch/00/ch_0006   1   3    very    RB       (ADVP*      -    -   -    B  *   (ARGM-MNR*     -
+tc/ch/00/ch_0006   1   4    well    RB           *))     -    -   -    B  *            *)    -
+tc/ch/00/ch_0006   1   5       .     .           *))     -    -   -    B  *            *     -
+
+tc/ch/00/ch_0006   1   0    Yes   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1      .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0      You   PRP   (TOP(S(NP*)     -    -   -    B  *    (ARG1*)   (ARG0*)   (9)
+tc/ch/00/ch_0006   1   1      're   VBP         (VP*      be  01   -    B  *       (V*)        *     -
+tc/ch/00/ch_0006   1   2     just    RB       (ADJP*      -    -   -    B  *    (ARG2*         *     -
+tc/ch/00/ch_0006   1   3      not    RB            *      -    -   -    B  *         *         *     -
+tc/ch/00/ch_0006   1   4    happy    JJ            *      -    -   -    B  *         *         *     -
+tc/ch/00/ch_0006   1   5       to    TO       (S(VP*      -    -   -    B  *         *         *     -
+tc/ch/00/ch_0006   1   6     have    VB         (VP*    have  03   -    B  *         *       (V*)    -
+tc/ch/00/ch_0006   1   7       it   PRP    (NP*))))))     -    -   -    B  *         *)   (ARG1*)   (2)
+tc/ch/00/ch_0006   1   8        .     .           *))     -    -   -    B  *         *         *     -
+
+tc/ch/00/ch_0006   1   0        You   PRP   (TOP(S(NP*)    -    -   -    B  *    (ARG0*)   (ARG0*)   (9)
+tc/ch/00/ch_0006   1   1        got   VBD         (VP*    get  06   -    B  *       (V*)        *     -
+tc/ch/00/ch_0006   1   2         to    TO       (S(VP*     -    -   -    B  *    (ARG1*         *     -
+tc/ch/00/ch_0006   1   3        get    VB         (VP*    get  01   -    B  *         *       (V*)    -
+tc/ch/00/ch_0006   1   4       some    DT         (NP*     -    -   -    B  *         *    (ARG1*     -
+tc/ch/00/ch_0006   1   5    justice    NN        *)))))    -    -   -    B  *         *)        *)    -
+tc/ch/00/ch_0006   1   6          .     .           *))    -    -   -    B  *         *         *     -
+
+tc/ch/00/ch_0006   1   0       I   PRP   (TOP(S(NP*)     -    -   -    B  *       (ARG0*)   (6)
+tc/ch/00/ch_0006   1   1    told   VBD         (VP*    tell  01   -    B  *          (V*)    -
+tc/ch/00/ch_0006   1   2     you   PRP         (NP*)     -    -   -    B  *       (ARG2*)   (9)
+tc/ch/00/ch_0006   1   3    dumb    JJ         (NP*      -    -   -    B  *   (ARGM-DIS*     -
+tc/ch/00/ch_0006   1   4    shit    NN           *))   shit   -   -    B  *            *)    -
+tc/ch/00/ch_0006   1   5       .     .           *))     -    -   -    B  *            *     -
+
+tc/ch/00/ch_0006   1   0    No   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1     .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0          I   PRP   (TOP(S(NP*)          -    -   -    B  *        *    (6)
+tc/ch/00/ch_0006   1   1       know   VBP         (VP*         know  01   -    B  *      (V*)    -
+tc/ch/00/ch_0006   1   2        the    DT         (NP*           -    -   -    B  *   (ARG1*     -
+tc/ch/00/ch_0006   1   3    program    NN           *))   programme   -   -    B  *        *)    -
+tc/ch/00/ch_0006   1   4          .     .           *))          -    -   -    B  *        *     -
+
+tc/ch/00/ch_0006   1   0       It   PRP   (TOP(S(NP*)   -    -   -    B  *    (ARG1*)  -
+tc/ch/00/ch_0006   1   1       's   VBZ         (VP*    be  01   -    B  *       (V*)  -
+tc/ch/00/ch_0006   1   2    tough    JJ      (ADJP*))   -    -   -    B  *    (ARG2*)  -
+tc/ch/00/ch_0006   1   3        .     .           *))   -    -   -    B  *         *   -
+
+tc/ch/00/ch_0006   1   0       It   PRP   (TOP(S(NP*)   -    -   -    B  *    (ARG1*)  -
+tc/ch/00/ch_0006   1   1       's   VBZ         (VP*    be  01   -    B  *       (V*)  -
+tc/ch/00/ch_0006   1   2    tough    JJ      (ADJP*))   -    -   -    B  *    (ARG2*)  -
+tc/ch/00/ch_0006   1   3        .     .           *))   -    -   -    B  *         *   -
+
+tc/ch/00/ch_0006   1    0      %uh    UH   (TOP(S(INTJ*)    -    -   -    B  *             *    (ARGM-DIS*)            *             *     -
+tc/ch/00/ch_0006   1    1        ,     ,              *     -    -   -    B  *             *             *             *             *     -
+tc/ch/00/ch_0006   1    2       so    RB         (ADVP*)    -    -   -    B  *             *    (ARGM-DIS*)            *             *     -
+tc/ch/00/ch_0006   1    3     what    WP    (SBAR(WHNP*)    -    -   -    B  *        (ARG1*)       (ARG1*             *             *     -
+tc/ch/00/ch_0006   1    4        I   PRP         (S(NP*)    -    -   -    B  *        (ARG0*)            *             *             *    (6)
+tc/ch/00/ch_0006   1    5      'll    MD           (VP*     -    -   -    B  *    (ARGM-MOD*)            *             *             *     -
+tc/ch/00/ch_0006   1    6       do    VB           (VP*     do  02   -    B  *           (V*)            *             *             *     -
+tc/ch/00/ch_0006   1    7     then    RB     (ADVP*)))))    -    -   -    B  *    (ARGM-TMP*)            *)            *             *     -
+tc/ch/00/ch_0006   1    8       is   VBZ           (VP*     be  01   -    B  *             *           (V*)            *             *     -
+tc/ch/00/ch_0006   1    9      %uh    UH         (INTJ*)    -    -   -    B  *             *    (ARGM-DIS*)            *             *     -
+tc/ch/00/ch_0006   1   10     then    RB       (S(ADVP*)    -    -   -    B  *             *        (ARG2*    (ARGM-ADV*)   (ARGM-TMP*)    -
+tc/ch/00/ch_0006   1   11        I   PRP           (NP*)    -    -   -    B  *             *             *        (ARG0*)       (ARG0*)   (6)
+tc/ch/00/ch_0006   1   12      'll    MD           (VP*     -    -   -    B  *             *             *    (ARGM-MOD*)   (ARGM-MOD*)    -
+tc/ch/00/ch_0006   1   13       go    VB        (VP(VP*     go  06   -    B  *             *             *           (V*)            *     -
+tc/ch/00/ch_0006   1   14    ahead    RP         (PRT*))    -    -   -    B  *             *             *        (ARG2*)            *     -
+tc/ch/00/ch_0006   1   15      and    CC              *     -    -   -    B  *             *             *             *             *     -
+tc/ch/00/ch_0006   1   16      get    VB           (VP*    get  01   -    B  *             *             *             *           (V*)    -
+tc/ch/00/ch_0006   1   17       it   PRP           (NP*)    -    -   -    B  *             *             *             *        (ARG1*)    -
+tc/ch/00/ch_0006   1   18     then    RB    (ADVP*))))))    -    -   -    B  *             *             *)            *    (ARGM-ADV*)    -
+tc/ch/00/ch_0006   1   19        .     .             *))    -    -   -    B  *             *             *             *             *     -
+
+tc/ch/00/ch_0006   1   0    okay   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1       .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0    %um   UH   (TOP(INTJ*))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0     Will    MD      (TOP(SQ*       -    -   -    A  *    (ARGM-MOD*)            *     -
+tc/ch/00/ch_0006   1   1      you   PRP          (NP*)      -    -   -    A  *        (ARG0*)            *    (6)
+tc/ch/00/ch_0006   1   2     have    VB          (VP*     have  03   -    A  *           (V*)            *     -
+tc/ch/00/ch_0006   1   3      any    DT       (NP(NP*       -    -   -    A  *        (ARG1*             *     -
+tc/ch/00/ch_0006   1   4    money    NN             *)      -    -   -    A  *             *             *     -
+tc/ch/00/ch_0006   1   5        I   PRP   (SBAR(S(NP*)      -    -   -    A  *             *        (ARG1*)   (9)
+tc/ch/00/ch_0006   1   6      can    MD          (VP*       -    -   -    A  *             *    (ARGM-MOD*)    -
+tc/ch/00/ch_0006   1   7    stand    VB          (VP*    stand  01   -    A  *             *           (V*)    -
+tc/ch/00/ch_0006   1   8       by    IN    (PP*)))))))      -    -   -    A  *             *)       (ARG2*)    -
+tc/ch/00/ch_0006   1   9        ?     .            *))      -    -   -    A  *             *             *     -
+
+tc/ch/00/ch_0006   1   0      I   PRP   (TOP(S(NP*)     -    -   -    B  *      *    (ARG0*)   (6)
+tc/ch/00/ch_0006   1   1    've   VBP         (VP*    have  01   -    B  *    (V*)        *     -
+tc/ch/00/ch_0006   1   2    got   VBN      (VP*))))    get  02   -    B  *      *       (V*)    -
+
+tc/ch/00/ch_0006   1   0     Like    UH   (TOP(S(INTJ*)     -    -   -    A  *    (ARGM-DIS*)       *      *     -
+tc/ch/00/ch_0006   1   1       go    VB        (VP(VP*)     go  05   -    A  *           (V*)       *      *     -
+tc/ch/00/ch_0006   1   2      get   VBP         (S(VP*     get  01   -    A  *        (ARG1*      (V*)     *     -
+tc/ch/00/ch_0006   1   3        a    DT           (NP*      -    -   -    A  *             *   (ARG1*      *     -
+tc/ch/00/ch_0006   1   4    hotel    NN            *)))     -    -   -    A  *             *)       *)     *     -
+tc/ch/00/ch_0006   1   5       if    IN         (SBAR*      -    -   -    A  *    (ARGM-ADV*        *      *     -
+tc/ch/00/ch_0006   1   6        I   PRP         (S(NP*)     -    -   -    A  *             *        *      *    (9)
+tc/ch/00/ch_0006   1   7     have   VBP           (VP*    have  02   -    A  *             *        *    (V*)    -
+tc/ch/00/ch_0006   1   8       to    TO    (S(VP*))))))     -    -   -    A  *             *)       *      *     -
+tc/ch/00/ch_0006   1   9        ?     .             *))     -    -   -    A  *             *        *      *     -
+
+tc/ch/00/ch_0006   1   0       oh    UH   (TOP(S(INTJ*)     -    -   -    A  *    (ARGM-DIS*)    -
+tc/ch/00/ch_0006   1   1        I   PRP           (NP*)     -    -   -    A  *        (ARG0*)   (9)
+tc/ch/00/ch_0006   1   2      'll    MD           (VP*      -    -   -    A  *    (ARGM-MOD*)    -
+tc/ch/00/ch_0006   1   3     have    VB           (VP*    have  03   -    A  *           (V*)    -
+tc/ch/00/ch_0006   1   4     some    DT           (NP*      -    -   -    A  *        (ARG1*     -
+tc/ch/00/ch_0006   1   5    money    NN              *)     -    -   -    A  *             *)    -
+tc/ch/00/ch_0006   1   6       by    IN           (PP*      -    -   -    A  *    (ARGM-TMP*     -
+tc/ch/00/ch_0006   1   7     then    RB      (ADVP*))))     -    -   -    A  *             *)    -
+tc/ch/00/ch_0006   1   8        .     .             *))     -    -   -    A  *             *     -
+
+tc/ch/00/ch_0006   1   0       oh   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1    right   UH           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2        .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    %uh   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1      ,    ,           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2     no   UH           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   3      .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    Right   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1        .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    Everybody   NN   (TOP(S(NP*)      -    -   -    B  *        (ARG0*)  -
+tc/ch/00/ch_0006   1   1         will   MD         (VP*       -    -   -    B  *    (ARGM-MOD*)  -
+tc/ch/00/ch_0006   1   2         have   VB         (VP*     have  03   -    B  *           (V*)  -
+tc/ch/00/ch_0006   1   3          the   DT         (NP*       -    -   -    B  *        (ARG1*   -
+tc/ch/00/ch_0006   1   4        stuff   NN            *)   stuff   -   -    B  *             *)  -
+tc/ch/00/ch_0006   1   5           by   IN         (PP*       -    -   -    B  *    (ARGM-TMP*   -
+tc/ch/00/ch_0006   1   6         then   RB    (ADVP*))))      -    -   -    B  *             *)  -
+tc/ch/00/ch_0006   1   7            .    .           *))      -    -   -    B  *             *   -
+
+tc/ch/00/ch_0006   1   0    yeah   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1       .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0       That   DT   (TOP(S(NP*)   -    -   -    B  *        (ARG1*)  -
+tc/ch/00/ch_0006   1   1         wo   MD         (VP*    -    -   -    B  *    (ARGM-MOD*)  -
+tc/ch/00/ch_0006   1   2        n't   RB            *    -    -   -    B  *    (ARGM-NEG*)  -
+tc/ch/00/ch_0006   1   3         be   VB         (VP*    be  01   -    B  *           (V*)  -
+tc/ch/00/ch_0006   1   4          a   DT         (NP*    -    -   -    B  *        (ARG2*   -
+tc/ch/00/ch_0006   1   5    problem   NN          *)))   -    -   -    B  *             *)  -
+tc/ch/00/ch_0006   1   6          .    .           *))   -    -   -    B  *             *   -
+
+tc/ch/00/ch_0006   1   0    mhm   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1      .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0         Wo   MD  (TOP(S(VP*    -    -   -    B  *    (ARGM-MOD*)  -
+tc/ch/00/ch_0006   1   1        n't   RB           *    -    -   -    B  *    (ARGM-NEG*)  -
+tc/ch/00/ch_0006   1   2         be   VB        (VP*    be  01   -    B  *           (V*)  -
+tc/ch/00/ch_0006   1   3          a   DT        (NP*    -    -   -    B  *        (ARG2*   -
+tc/ch/00/ch_0006   1   4    problem   NN         *)))   -    -   -    B  *             *)  -
+tc/ch/00/ch_0006   1   5          .    .          *))   -    -   -    B  *             *   -
+
+tc/ch/00/ch_0006   1    0          %um    UH   (TOP(S(INTJ*)     -    -   -    B       *      *             *         *     -
+tc/ch/00/ch_0006   1    1          The    DT           (NP*      -    -   -    B  (DATE*      *             *         *     -
+tc/ch/00/ch_0006   1    2    sixteenth    JJ              *)     -    -   -    B       *)     *             *         *     -
+tc/ch/00/ch_0006   1    3          you   PRP           (NP*)     -    -   -    B       *      *        (ARG1*)        *    (9)
+tc/ch/00/ch_0006   1    4           'd    MD           (VP*      -    -   -    B       *      *             *         *     -
+tc/ch/00/ch_0006   1    5         have    VB           (VP*    have  02   -    B       *    (V*)            *         *     -
+tc/ch/00/ch_0006   1    6           to    TO         (S(VP*      -    -   -    B       *      *             *         *     -
+tc/ch/00/ch_0006   1    7         stay    VB           (VP*    stay  04   -    B       *      *           (V*)        *     -
+tc/ch/00/ch_0006   1    8         over    RP          (PRT*)     -    -   -    B       *      *             *         *     -
+tc/ch/00/ch_0006   1    9           in    IN           (PP*      -    -   -    B       *      *        (ARG2*         *     -
+tc/ch/00/ch_0006   1   10       Boston   NNP          (NP*))     -    -   -    B    (GPE)     *             *)        *     -
+tc/ch/00/ch_0006   1   11       anyway    RB      (ADVP*))))     -    -   -    B       *      *    (ARGM-ADV*)        *     -
+tc/ch/00/ch_0006   1   12          %uh    UH         (INTJ*)     -    -   -    B       *      *             *         *     -
+tc/ch/00/ch_0006   1   13           if    IN         (SBAR*      -    -   -    B       *      *             *         *     -
+tc/ch/00/ch_0006   1   14          you   PRP         (S(NP*)     -    -   -    B       *      *             *    (ARG0*)   (9)
+tc/ch/00/ch_0006   1   15          did   VBD           (VP*      do  02   -    B       *      *             *       (V*)    -
+tc/ch/00/ch_0006   1   16         that    DT      (NP*))))))     -    -   -    B       *      *             *    (ARG1*)    -
+tc/ch/00/ch_0006   1   17            .     .             *))     -    -   -    B       *      *             *         *     -
+
+tc/ch/00/ch_0006   1    0          But    CC       (TOP(S*      -    -   -    B  *    (ARGM-DIS*)           *     -
+tc/ch/00/ch_0006   1    1        again    RB        (ADVP*)     -    -   -    B  *    (ARGM-ADV*)           *     -
+tc/ch/00/ch_0006   1    2         that    DT          (NP*      -    -   -    B  *             *            *     -
+tc/ch/00/ch_0006   1    3          one    NN             *)     -    -   -    B  *        (ARG1*)           *     -
+tc/ch/00/ch_0006   1    4          was   VBD          (VP*      be  01   -    B  *           (V*)           *     -
+tc/ch/00/ch_0006   1    5          n't    RB             *      -    -   -    B  *    (ARGM-NEG*)           *     -
+tc/ch/00/ch_0006   1    6         even    RB        (ADVP*)     -    -   -    B  *    (ARGM-ADV*)           *     -
+tc/ch/00/ch_0006   1    7    available    JJ        (ADJP*)     -    -   -    B  *        (ARG2*)           *     -
+tc/ch/00/ch_0006   1    8          the    DT       (NP(NP*      -    -   -    B  *    (ARGM-TMP*   (ARGM-TMP*     -
+tc/ch/00/ch_0006   1    9         last    JJ             *      -    -   -    B  *             *            *     -
+tc/ch/00/ch_0006   1   10         time    NN             *)   time   -   -    B  *             *            *)    -
+tc/ch/00/ch_0006   1   11            I   PRP   (SBAR(S(NP*)     -    -   -    B  *             *       (ARG0*)   (6)
+tc/ch/00/ch_0006   1   12       called   VBD      (VP*)))))   call  02   -    B  *             *)         (V*)    -
+tc/ch/00/ch_0006   1   13            .     .            *))     -    -   -    B  *             *            *     -
+
+tc/ch/00/ch_0006   1   0    Right   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1        .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0       they   PRP   (TOP(S(NP*)       -    -   -    B  *       (ARG0*)     *         *   -
+tc/ch/00/ch_0006   1   1       said   VBD         (VP*       say  01   -    B  *          (V*)     *         *   -
+tc/ch/00/ch_0006   1   2       call    VB      (S(VP*))     call  02   -    B  *       (ARG1*)   (V*)        *   -
+tc/ch/00/ch_0006   1   3    because    IN       (SBAR*        -    -   -    B  *   (ARGM-CAU*      *         *   -
+tc/ch/00/ch_0006   1   4     people   NNS       (S(NP*)   people   -   -    B  *            *      *    (ARG0*)  -
+tc/ch/00/ch_0006   1   5         do   VBP         (VP*        do   -   -    B  *            *      *         *   -
+tc/ch/00/ch_0006   1   6     cancel    VB     (VP*)))))   cancel  01   -    B  *            *)     *       (V*)  -
+tc/ch/00/ch_0006   1   7          .     .           *))       -    -   -    B  *            *      *         *   -
+
+tc/ch/00/ch_0006   1   0    Right   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1        .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1    0         And    CC       (TOP(S*        -    -   -    B  *         *    (ARGM-DIS*)            *      -
+tc/ch/00/ch_0006   1    1         %uh    UH        (INTJ*)       -    -   -    B  *         *    (ARGM-DIS*)            *      -
+tc/ch/00/ch_0006   1    2          so    RB        (ADVP*)       -    -   -    B  *         *    (ARGM-ADV*)            *      -
+tc/ch/00/ch_0006   1    3         you   PRP    (PRN(S(NP*)       -    -   -    B  *    (ARG0*)            *             *      -
+tc/ch/00/ch_0006   1    4        know   VBP        (VP*)))     know  01   -    B  *       (V*)            *             *      -
+tc/ch/00/ch_0006   1    5      during    IN          (PP*        -    -   -    B  *         *    (ARGM-TMP*             *      -
+tc/ch/00/ch_0006   1    6         the    DT          (NP*        -    -   -    B  *         *             *             *      -
+tc/ch/00/ch_0006   1    7        time    NN            *))     time   -   -    B  *         *             *)            *      -
+tc/ch/00/ch_0006   1    8          we   PRP          (NP*)       -    -   -    B  *         *        (ARG0*)            *    (35)
+tc/ch/00/ch_0006   1    9        just    RB        (ADVP*)       -    -   -    B  *         *    (ARGM-ADV*)            *      -
+tc/ch/00/ch_0006   1   10        call   VBP          (VP*      call  02   -    B  *         *           (V*)            *      -
+tc/ch/00/ch_0006   1   11          on    IN          (PP*        -    -   -    B  *         *    (ARGM-TMP*             *      -
+tc/ch/00/ch_0006   1   12           a    DT          (NP*        -    -   -    B  *         *             *             *      -
+tc/ch/00/ch_0006   1   13       daily    JJ             *        -    -   -    B  *         *             *             *      -
+tc/ch/00/ch_0006   1   14       basis    NN            *))       -    -   -    B  *         *             *)            *      -
+tc/ch/00/ch_0006   1   15        just    RB      (S(ADVP*)       -    -   -    B  *         *    (ARGM-ADV*    (ARGM-ADV*)     -
+tc/ch/00/ch_0006   1   16        Sure    UH  (EMBED(INTJ*        -    -   -    B  *         *             *             *      -
+tc/ch/00/ch_0006   1   17           .     .            *))       -    -   -    B  *         *             *             *      -
+tc/ch/00/ch_0006   1   18    changing   VBG        (VP*)))   change  01   -    B  *         *             *)          (V*)     -
+tc/ch/00/ch_0006   1   19           .     .            *))       -    -   -    B  *         *             *             *      -
+
+tc/ch/00/ch_0006   1   0      That    DT   (TOP(S(NP*)   -    -   -    A  *    (ARG1*)  -
+tc/ch/00/ch_0006   1   1        's   VBZ         (VP*    be  01   -    A  *       (V*)  -
+tc/ch/00/ch_0006   1   2    groovy    JJ      (ADJP*))   -    -   -    A  *    (ARG2*)  -
+tc/ch/00/ch_0006   1   3         .     .           *))   -    -   -    A  *         *   -
+
+tc/ch/00/ch_0006   1   0        But    CC  (TOP(S*    -    -   -    B  *    (ARGM-DIS*)  -
+tc/ch/00/ch_0006   1   1         it   PRP     (NP*)   -    -   -    B  *        (ARG1*)  -
+tc/ch/00/ch_0006   1   2         's   VBZ     (VP*    be  01   -    B  *           (V*)  -
+tc/ch/00/ch_0006   1   3        not    RB        *    -    -   -    B  *    (ARGM-NEG*)  -
+tc/ch/00/ch_0006   1   4          a    DT     (NP*    -    -   -    B  *        (ARG2*   -
+tc/ch/00/ch_0006   1   5    problem    NN       *))   -    -   -    B  *             *)  -
+tc/ch/00/ch_0006   1   6          .     .       *))   -    -   -    B  *             *   -
+
+tc/ch/00/ch_0006   1   0          I   PRP   (TOP(S(NP*)   -    -   -    A  *    (ARG1*)   (9)
+tc/ch/00/ch_0006   1   1         'm   VBP         (VP*    be  01   -    A  *       (V*)    -
+tc/ch/00/ch_0006   1   2    excited    JJ      (ADJP*))   -    -   -    A  *    (ARG2*)    -
+tc/ch/00/ch_0006   1   3          .     .           *))   -    -   -    A  *         *     -
+
+tc/ch/00/ch_0006   1    0        The    DT    (TOP(S(NP*        -    -   -    B      *        (ARG1*        *      -
+tc/ch/00/ch_0006   1    1       only    JJ             *        -    -   -    B      *             *        *      -
+tc/ch/00/ch_0006   1    2    problem    NN             *)       -    -   -    B      *             *)       *      -
+tc/ch/00/ch_0006   1    3       will    MD          (VP*        -    -   -    B      *    (ARGM-MOD*)       *      -
+tc/ch/00/ch_0006   1    4         be    VB          (VP*        be  01   -    B      *           (V*)       *      -
+tc/ch/00/ch_0006   1    5        the    DT       (NP(NP*        -    -   -    B      *        (ARG2*   (ARG0*      -
+tc/ch/00/ch_0006   1    6     ticket    NN             *)   ticket   -   -    B      *             *        *)     -
+tc/ch/00/ch_0006   1    7         to    TO        (S(VP*        -    -   -    B      *             *        *      -
+tc/ch/00/ch_0006   1    8        get    VB          (VP*       get  05   -    B      *             *      (V*)     -
+tc/ch/00/ch_0006   1    9         to    IN          (PP*        -    -   -    B      *             *   (ARG1*      -
+tc/ch/00/ch_0006   1   10     London   NNP   (NP*))))))))       -    -   -    B   (GPE)            *)       *)   (10)
+tc/ch/00/ch_0006   1   11          .     .            *))       -    -   -    B      *             *        *      -
+
+tc/ch/00/ch_0006   1    0        But    CC           (TOP(S*     -    -   -    B           *    (ARGM-DIS*)            *             *             *      -
+tc/ch/00/ch_0006   1    1          I   PRP              (NP*)    -    -   -    B           *        (ARG0*)            *             *             *     (6)
+tc/ch/00/ch_0006   1    2        'll    MD              (VP*     -    -   -    B           *    (ARGM-MOD*)            *             *             *      -
+tc/ch/00/ch_0006   1    3        %uh    UH            (INTJ*)    -    -   -    B           *    (ARGM-DIS*)            *             *             *      -
+tc/ch/00/ch_0006   1    4        see    VB              (VP*    see  01   -    B           *           (V*)            *             *             *      -
+tc/ch/00/ch_0006   1    5         if    IN            (SBAR*     -    -   -    B           *        (ARG1*             *             *             *      -
+tc/ch/00/ch_0006   1    6         we   PRP            (S(NP*)    -    -   -    B           *             *        (ARG0*)       (ARG0*)            *    (35)
+tc/ch/00/ch_0006   1    7        can    MD              (VP*     -    -   -    B           *             *    (ARGM-MOD*)   (ARGM-MOD*)            *      -
+tc/ch/00/ch_0006   1    8        get    VB           (VP(VP*    get  01   -    B           *             *           (V*)            *             *      -
+tc/ch/00/ch_0006   1    9          a    DT              (NP*     -    -   -    B           *             *        (ARG1*             *             *      -
+tc/ch/00/ch_0006   1   10        one    CD                 *     -    -   -    B   (CARDINAL)            *             *             *             *      -
+tc/ch/00/ch_0006   1   11        way    NN                *))    -    -   -    B           *             *             *)            *             *      -
+tc/ch/00/ch_0006   1   12        and    CC                 *     -    -   -    B           *             *             *             *             *      -
+tc/ch/00/ch_0006   1   13       then    RB            (ADVP*)    -    -   -    B           *             *             *    (ARGM-TMP*)            *      -
+tc/ch/00/ch_0006   1   14        buy    VB              (VP*    buy  01   -    B           *             *             *           (V*)            *      -
+tc/ch/00/ch_0006   1   15    another    DT           (NP(NP*     -    -   -    B           *             *             *        (ARG1*        (ARG1*      -
+tc/ch/00/ch_0006   1   16        one    CD                 *     -    -   -    B   (CARDINAL)            *             *             *             *      -
+tc/ch/00/ch_0006   1   17        way    NN                 *)    -    -   -    B           *             *             *             *             *)     -
+tc/ch/00/ch_0006   1   18      going   VBG              (VP*     go  01   -    B           *             *             *             *           (V*)     -
+tc/ch/00/ch_0006   1   19       back    RB   (ADVP*))))))))))    -    -   -    B           *             *)            *             *)   (ARGM-DIR*)     -
+tc/ch/00/ch_0006   1   20          .     .                *))    -    -   -    B           *             *             *             *             *      -
+
+tc/ch/00/ch_0006   1   0      this    DT  (TOP(S(NP*        -    -   -    A      *   (ARG1*   (24
+tc/ch/00/ch_0006   1   1    ticket    NN           *)   ticket   -   -    A      *        *)   24)
+tc/ch/00/ch_0006   1   2        is   VBZ        (VP*        be  01   -    A      *      (V*)    -
+tc/ch/00/ch_0006   1   3        to    IN        (PP*        -    -   -    A      *   (ARG2*     -
+tc/ch/00/ch_0006   1   4     Milan   NNP      (NP*)))       -    -   -    A   (GPE)       *)    -
+tc/ch/00/ch_0006   1   5         ?     .          *))       -    -   -    A      *        *     -
+
+tc/ch/00/ch_0006   1    0       %uh    UH   (TOP(S(INTJ*)    -    -   -    B      *    (ARGM-DIS*)     -
+tc/ch/00/ch_0006   1    1        no    UH         (INTJ*)    -    -   -    B      *    (ARGM-DIS*)     -
+tc/ch/00/ch_0006   1    2       get    VB           (VP*    get  05   -    B      *           (V*)     -
+tc/ch/00/ch_0006   1    3        it   PRP           (NP*)    -    -   -    B      *        (ARG1*)   (24)
+tc/ch/00/ch_0006   1    4        to    IN        (PP(PP*     -    -   -    B      *        (ARG2*      -
+tc/ch/00/ch_0006   1    5      Nice   NNP          (NP*))    -    -   -    B   (GPE)            *    (19)
+tc/ch/00/ch_0006   1    6         ,     ,              *     -    -   -    B      *             *      -
+tc/ch/00/ch_0006   1    7      from    IN        (PP(PP*     -    -   -    B      *             *      -
+tc/ch/00/ch_0006   1    8    London   NNP          (NP*))    -    -   -    B   (GPE)            *    (10)
+tc/ch/00/ch_0006   1    9        to    IN           (PP*     -    -   -    B      *             *      -
+tc/ch/00/ch_0006   1   10      Nice   NNP       (NP*)))))    -    -   -    B   (GPE)            *)   (19)
+tc/ch/00/ch_0006   1   11         .     .             *))    -    -   -    B      *             *      -
+
+tc/ch/00/ch_0006   1   0    Right   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1        .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0    Right   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1        .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    No   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1     .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0         I   PRP   (TOP(S(PRN(S(NP*)     -    -   -    A  *    (ARG0*)     *    (9)
+tc/ch/00/ch_0006   1   1      mean   VBP             (VP*)))   mean  01   -    A  *       (V*)     *     -
+tc/ch/00/ch_0006   1   2    coming   VBG               (VP*)   come  01   -    A  *         *    (V*)    -
+tc/ch/00/ch_0006   1   3         ,     ,                 *))     -    -   -    A  *         *      *     -
+
+tc/ch/00/ch_0006   1    0     when   WRB   (TOP(SBARQ(SBAR(WHADVP*)      -    -   -    A      *    (ARGM-TMP*)     *             *     -
+tc/ch/00/ch_0006   1    1        I   PRP                    (S(NP*)      -    -   -    A      *        (ARG0*)     *             *    (9)
+tc/ch/00/ch_0006   1    2    leave   VBP                      (VP*    leave  01   -    A      *           (V*)     *             *     -
+tc/ch/00/ch_0006   1    3        L   NNP                      (NP*       -    -   -    A  (GPE*        (ARG1*      *             *     -
+tc/ch/00/ch_0006   1    4        A   NNP                      *))))      -    -   -    A      *)            *)     *             *     -
+tc/ch/00/ch_0006   1    5    where   WRB                  (WHADVP*)      -    -   -    A      *             *      *             *     -
+tc/ch/00/ch_0006   1    6       do   VBP                      (SQ*       do  01   -    A      *             *    (V*)            *     -
+tc/ch/00/ch_0006   1    7        I   PRP                      (NP*)      -    -   -    A      *             *      *        (ARG1*)   (9)
+tc/ch/00/ch_0006   1    8      fly    VB                      (VP*      fly  01   -    A      *             *      *           (V*)    -
+tc/ch/00/ch_0006   1    9       to    IN                    (PP*)))      -    -   -    A      *             *      *    (ARGM-GOL*)    -
+tc/ch/00/ch_0006   1   10        ?     .                        *))      -    -   -    A      *             *      *             *     -
+
+tc/ch/00/ch_0006   1   0    London   NNP  (TOP(NP*   -   -   -    A   (GPE)  (10
+tc/ch/00/ch_0006   1   1         ?     .        *))  -   -   -    A      *    10)
+
+tc/ch/00/ch_0006   1   0    London   NNP  (TOP(NP*   -   -   -    B   (GPE)  (10
+tc/ch/00/ch_0006   1   1         .     .        *))  -   -   -    B      *    10)
+
+tc/ch/00/ch_0006   1   0     mhm   UH   (TOP(FRAG(INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1    yeah   UH            (INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2       .    .                *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1    0               And    CC       (TOP(S*           -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1    1              then    RB        (ADVP*)          -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1    2                 I   PRP          (NP*)          -    -   -    A         *      *    (ARG0*)           *    (9)
+tc/ch/00/ch_0006   1    3               'll    MD          (VP*           -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1    4              have    VB          (VP*         have  02   -    A         *    (V*)        *            *     -
+tc/ch/00/ch_0006   1    5                to    TO        (S(VP*           -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1    6              take    VB          (VP*         take  01   -    A         *      *       (V*)           *     -
+tc/ch/00/ch_0006   1    7                 a    DT          (NP*           -    -   -    A         *      *    (ARG1*            *     -
+tc/ch/00/ch_0006   1    8              boat    NN          *))))        boat   -   -    A         *      *         *)           *     -
+tc/ch/00/ch_0006   1    9           because    IN        (SBAR*           -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1   10             there    EX        (S(NP*)          -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1   11                's   VBZ          (VP*           be  02   -    A         *      *         *          (V*)    -
+tc/ch/00/ch_0006   1   12                no    DT          (NP*           -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1   13    inter-Europe's   NNS             *)          -    -   -    A         *      *         *       (ARG1*)    -
+tc/ch/00/ch_0006   1   14         according   VBG          (PP*    according   -   -    A         *      *         *   (ARGM-ADV*     -
+tc/ch/00/ch_0006   1   15                to    IN          (PP*           -    -   -    A         *      *         *            *     -
+tc/ch/00/ch_0006   1   16             Susan   NNP   (NP*))))))))          -    -   -    A   (PERSON)     *         *            *)    -
+tc/ch/00/ch_0006   1   17                 .     .            *))          -    -   -    A         *      *         *            *     -
+
+tc/ch/00/ch_0006   1   0      %ah   UH   (TOP(FRAG(INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1    Right   UH            (INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2        .    .                *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    Exactly   RB  (TOP(ADVP*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1          .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0          All   PDT  (TOP(S(NP(NP*        -    -   -    B      *    (ARG1*   -
+tc/ch/00/ch_0006   1   1          the    DT              *        -    -   -    B      *         *   -
+tc/ch/00/ch_0006   1   2       people   NNS              *)   people   -   -    B      *         *   -
+tc/ch/00/ch_0006   1   3           in    IN           (PP*        -    -   -    B      *         *   -
+tc/ch/00/ch_0006   1   4       Europe   NNP         (NP*)))       -    -   -    B   (LOC)        *)  -
+tc/ch/00/ch_0006   1   5          are   VBP           (VP*        be  01   -    B      *       (V*)  -
+tc/ch/00/ch_0006   1   6    paralyzed    JJ        (ADJP*))       -    -   -    B      *    (ARG2*)  -
+tc/ch/00/ch_0006   1   7            .     .             *))       -    -   -    B      *         *   -
+
+tc/ch/00/ch_0006   1   0    yep   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1      .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    No   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1     .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0       it   PRP   (TOP(S(NP*)   -    -   -    B  *    (ARG1*)  -
+tc/ch/00/ch_0006   1   1       's   VBZ         (VP*    be  01   -    B  *       (V*)  -
+tc/ch/00/ch_0006   1   2    great    JJ      (ADJP*))   -    -   -    B  *    (ARG2*)  -
+tc/ch/00/ch_0006   1   3        .     .           *))   -    -   -    B  *         *   -
+
+tc/ch/00/ch_0006   1   0    Well    UH   (TOP(S(INTJ*)     -    -   -    A  *    (ARGM-DIS*)        *     -
+tc/ch/00/ch_0006   1   1     let    VB           (VP*     let  01   -    A  *           (V*)        *     -
+tc/ch/00/ch_0006   1   2      me   PRP         (S(NP*)     -    -   -    A  *        (ARG1*    (ARG0*)   (9)
+tc/ch/00/ch_0006   1   3    know    VB         (VP*)))   know  01   -    A  *             *)      (V*)    -
+tc/ch/00/ch_0006   1   4       .     .             *))     -    -   -    A  *             *         *     -
+
+tc/ch/00/ch_0006   1   0    %uh   UH   (TOP(FRAG(INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1     no   UH            (INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2      .    .                *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0        I   PRP   (TOP(S(NP*)   -    -   -    B  *        (ARG0*)       (ARG0*)   (6)
+tc/ch/00/ch_0006   1   1      'll    MD         (VP*    -    -   -    B  *    (ARGM-MOD*)   (ARGM-MOD*)    -
+tc/ch/00/ch_0006   1   2       go    VB      (VP(VP*    go  06   -    B  *           (V*)            *     -
+tc/ch/00/ch_0006   1   3    ahead    RP       (PRT*))   -    -   -    B  *        (ARG2*)            *     -
+tc/ch/00/ch_0006   1   4      and    CC            *    -    -   -    B  *             *             *     -
+tc/ch/00/ch_0006   1   5      %uh    UH       (INTJ*)   -    -   -    B  *             *    (ARGM-DIS*)    -
+tc/ch/00/ch_0006   1   6       do    VB         (VP*    do  02   -    B  *             *           (V*)    -
+tc/ch/00/ch_0006   1   7       it   PRP      (NP*))))   -    -   -    B  *             *        (ARG1*)    -
+tc/ch/00/ch_0006   1   8        .     .           *))   -    -   -    B  *             *             *     -
+
+tc/ch/00/ch_0006   1   0    okay   UH   (TOP(INTJ*))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1    0        And    CC       (TOP(S*        -    -   -    B      *    (ARGM-DIS*)   (ARGM-DIS*)        *      -
+tc/ch/00/ch_0006   1    1        %uh    UH        (INTJ*)       -    -   -    B      *    (ARGM-DIS*)   (ARGM-DIS*)        *      -
+tc/ch/00/ch_0006   1    2          I   PRP          (NP*)       -    -   -    B      *        (ARG0*)       (ARG0*)        *     (6)
+tc/ch/00/ch_0006   1    3        'll    MD          (VP*        -    -   -    B      *    (ARGM-MOD*)   (ARGM-MOD*)        *      -
+tc/ch/00/ch_0006   1    4         go    VB       (VP(VP*)       go  02   -    B      *           (V*)            *         *      -
+tc/ch/00/ch_0006   1    5        and    CC             *        -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1    6       talk    VB          (VP*      talk  01   -    B      *             *           (V*)        *      -
+tc/ch/00/ch_0006   1    7         to    IN          (PP*        -    -   -    B      *             *        (ARG2*         *      -
+tc/ch/00/ch_0006   1    8        the    DT       (NP(NP*        -    -   -    B      *             *             *         *    (29
+tc/ch/00/ch_0006   1    9     person    NN             *)       -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   10       here    RB     (ADVP*))))       -    -   -    B      *             *             *)        *     29)
+tc/ch/00/ch_0006   1   11      cause    IN        (SBAR*        -    -   -    B      *    (ARGM-CAU*    (ARGM-CAU*         *      -
+tc/ch/00/ch_0006   1   12       they   PRP        (S(NP*)       -    -   -    B      *             *             *    (ARG0*)   (29)
+tc/ch/00/ch_0006   1   13        get   VBP          (VP*       get  01   -    B      *             *             *       (V*)     -
+tc/ch/00/ch_0006   1   14      cheap    JJ    (NP(NP(NP*        -    -   -    B      *             *             *    (ARG1*      -
+tc/ch/00/ch_0006   1   15    tickets   NNS             *)   ticket   -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   16        %uh    UH        (INTJ*)       -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   17       okay    UH  (EMBED(INTJ*        -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   18          .     .            *))       -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   19       from    IN       (PP(PP*        -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   20     London   NNP         (NP*))       -    -   -    B   (GPE)            *             *         *    (10)
+tc/ch/00/ch_0006   1   21         to    IN          (PP*        -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   22       Nice   NNP       (NP*))))       -    -   -    B   (GPE)            *             *         *    (19)
+tc/ch/00/ch_0006   1   23        and    CC             *        -    -   -    B      *             *             *         *      -
+tc/ch/00/ch_0006   1   24      stuff    NN    (NP*)))))))    stuff   -   -    B      *             *)            *)        *)     -
+tc/ch/00/ch_0006   1   25          .     .            *))       -    -   -    B      *             *             *         *      -
+
+tc/ch/00/ch_0006   1   0       Is   VBZ  (TOP(SQ*    be  01   -    A         *           (V*)     -
+tc/ch/00/ch_0006   1   1     Neil   NNP      (NP*)   -    -   -    A   (PERSON)       (ARG1*)   (14)
+tc/ch/00/ch_0006   1   2    still    RB    (ADVP*)   -    -   -    A         *    (ARGM-TMP*)     -
+tc/ch/00/ch_0006   1   3    there    RB    (ADVP*)   -    -   -    A         *        (ARG2*)     -
+tc/ch/00/ch_0006   1   4        ?     .        *))   -    -   -    A         *             *      -
+
+tc/ch/00/ch_0006   1   0    %uh   UH   (TOP(FRAG(INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1    yep   UH            (INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2      .    .                *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    yep   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1      .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    yep   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1      .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    Exactly   RB  (TOP(ADVP*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1          .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0       He   PRP   (TOP(S(NP*)   -    -   -    A  *      *        (ARG0*)   (14)
+tc/ch/00/ch_0006   1   1       's   VBZ         (VP*    be  03   -    A  *    (V*)            *      -
+tc/ch/00/ch_0006   1   2    never    RB       (ADVP*)   -    -   -    A  *      *    (ARGM-NEG*)     -
+tc/ch/00/ch_0006   1   3    going   VBG         (VP*    go  02   -    A  *      *           (V*)     -
+tc/ch/00/ch_0006   1   4     home    RB     (ADVP*)))   -    -   -    A  *      *        (ARG4*)     -
+tc/ch/00/ch_0006   1   5        .     .           *))   -    -   -    A  *      *             *      -
+
+tc/ch/00/ch_0006   1   0    %uh    UH   (TOP(S(INTJ*)    -    -   -    B  *    (ARGM-DIS*)        *   -
+tc/ch/00/ch_0006   1   1    let    VB           (VP*    let  01   -    B  *           (V*)        *   -
+tc/ch/00/ch_0006   1   2     's   PRP         (S(NP*)    -    -   -    B  *        (ARG1*    (ARG0*)  -
+tc/ch/00/ch_0006   1   3    see    VB       (VP*)))))   see  01   -    B  *             *)      (V*)  -
+
+tc/ch/00/ch_0006   1    0    +Saturday+   NNP    (TOP(S(NP*)     -    -   -    B     (DATE)           *             *   -
+tc/ch/00/ch_0006   1    1            we   PRP          (NP*)     -    -   -    B         *       (ARG0*)       (ARG0*)  -
+tc/ch/00/ch_0006   1    2          went   VBD       (VP(VP*      go  02   -    B         *          (V*)            *   -
+tc/ch/00/ch_0006   1    3           out    IN          (PP*      -    -   -    B         *       (ARG1*             *   -
+tc/ch/00/ch_0006   1    4            to    IN          (PP*      -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1    5        dinner    NN        (NP*)))     -    -   -    B         *            *)            *   -
+tc/ch/00/ch_0006   1    6          with    IN          (PP*      -    -   -    B         *   (ARGM-COM*             *   -
+tc/ch/00/ch_0006   1    7           %uh    UH        (INTJ*)     -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1    8             ,     ,             *      -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1    9       Georgio   NNP         (NP*))     -    -   -    B   (PERSON)           *)            *   -
+tc/ch/00/ch_0006   1   10           the    DT          (NP*      -    -   -    B         *   (ARGM-TMP*             *   -
+tc/ch/00/ch_0006   1   11         other    JJ             *      -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1   12         night    NN             *)     -    -   -    B         *            *)            *   -
+tc/ch/00/ch_0006   1   13             .     .             *      -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1   14        uh-huh    UH  (EMBED(INTJ*      -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1   15             .     .           *)))     -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1   16           And    CC             *      -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1   17           %uh    UH        (INTJ*)     -    -   -    B         *            *    (ARGM-DIS*)  -
+tc/ch/00/ch_0006   1   18           had   VBD          (VP*    have  03   -    B         *            *           (V*)  -
+tc/ch/00/ch_0006   1   19             a    DT          (NP*      -    -   -    B         *            *        (ARG1*   -
+tc/ch/00/ch_0006   1   20        really    RB        (ADJP*      -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1   21          good    JJ             *)     -    -   -    B         *            *             *   -
+tc/ch/00/ch_0006   1   22          meal    NN           *)))     -    -   -    B         *            *             *)  -
+tc/ch/00/ch_0006   1   23             .     .            *))     -    -   -    B         *            *             *   -
+
+tc/ch/00/ch_0006   1   0       We   PRP      (TOP(S(NP*)     -    -   -    B  *        (ARG0*)            *     -
+tc/ch/00/ch_0006   1   1      'll    MD            (VP*      -    -   -    B  *    (ARGM-MOD*)            *     -
+tc/ch/00/ch_0006   1   2       go    VB            (VP*      go  02   -    B  *           (V*)            *     -
+tc/ch/00/ch_0006   1   3    there    RB          (ADVP*)     -    -   -    B  *        (ARG4*)            *     -
+tc/ch/00/ch_0006   1   4    again    RB          (ADVP*)     -    -   -    B  *    (ARGM-TMP*)            *     -
+tc/ch/00/ch_0006   1   5     when   WRB   (SBAR(WHADVP*)     -    -   -    B  *    (ARGM-TMP*    (ARGM-TMP*)    -
+tc/ch/00/ch_0006   1   6      %uh    UH          (INTJ*)     -    -   -    B  *             *             *     -
+tc/ch/00/ch_0006   1   7      you   PRP          (S(NP*)     -    -   -    B  *             *        (ARG1*)   (9)
+tc/ch/00/ch_0006   1   8     come   VBP        (VP*)))))   come  01   -    B  *             *)          (V*)    -
+tc/ch/00/ch_0006   1   9        .     .              *))     -    -   -    B  *             *             *     -
+
+tc/ch/00/ch_0006   1   0    okay   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1       .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0            It   PRP   (TOP(S(NP*)   -    -   -    B  *    (ARG1*)    -
+tc/ch/00/ch_0006   1   1            's   VBZ         (VP*    be  01   -    B  *       (V*)    -
+tc/ch/00/ch_0006   1   2        really    RB    (NP(ADJP*    -    -   -    B  *    (ARG2*   (17
+tc/ch/00/ch_0006   1   3          good    JJ            *)   -    -   -    B  *         *     -
+tc/ch/00/ch_0006   1   4    restaurant    NN           *))   -    -   -    B  *         *)   17)
+tc/ch/00/ch_0006   1   5             .     .           *))   -    -   -    B  *         *     -
+
+tc/ch/00/ch_0006   1    0        They   PRP    (TOP(S(NP*)       -    -   -    B       *    (ARG1*)           *    (28)
+tc/ch/00/ch_0006   1    1        were   VBD          (VP*        be  01   -    B       *       (V*)           *      -
+tc/ch/00/ch_0006   1    2      people   NNS       (NP(NP*)   people   -   -    B       *    (ARG2*       (ARG0*)     -
+tc/ch/00/ch_0006   1    3         who    WP   (SBAR(WHNP*)       -    -   -    B       *         *     (R-ARG0*)     -
+tc/ch/00/ch_0006   1    4        went   VBD        (S(VP*        go  02   -    B       *         *          (V*)     -
+tc/ch/00/ch_0006   1    5          to    IN          (PP*        -    -   -    B       *         *       (ARG4*      -
+tc/ch/00/ch_0006   1    6         the    DT          (NP*        -    -   -    B       *         *            *      -
+tc/ch/00/ch_0006   1    7        jazz    NN             *      jazz   -   -    B       *         *            *      -
+tc/ch/00/ch_0006   1    8    festival    NN            *))       -    -   -    B       *         *            *)     -
+tc/ch/00/ch_0006   1    9        with    IN          (PP*        -    -   -    B       *         *   (ARGM-COM*      -
+tc/ch/00/ch_0006   1   10          me   PRP         (NP*))       -    -   -    B       *         *            *)    (6)
+tc/ch/00/ch_0006   1   11        last    JJ          (NP*        -    -   -    B  (DATE*         *   (ARGM-TMP*      -
+tc/ch/00/ch_0006   1   12        year    NN        *))))))       -    -   -    B       *)        *)           *)     -
+tc/ch/00/ch_0006   1   13           .     .            *))       -    -   -    B       *         *            *      -
+
+tc/ch/00/ch_0006   1   0          They   PRP   (TOP(S(NP*)    -    -   -    B  *    (ARG0*)   (28)
+tc/ch/00/ch_0006   1   1           own   VBP         (VP*    own  01   -    B  *       (V*)     -
+tc/ch/00/ch_0006   1   2           the    DT         (NP*     -    -   -    B  *    (ARG1*    (17
+tc/ch/00/ch_0006   1   3    restaurant    NN           *))    -    -   -    B  *         *)    17)
+tc/ch/00/ch_0006   1   4             .     .           *))    -    -   -    B  *         *      -
+
+tc/ch/00/ch_0006   1   0      oh   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1    sure   UH           *   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   2       .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1    0          So    RB   (TOP(S(ADVP*)     -    -   -    B       *    (ARGM-DIS*)           *      -
+tc/ch/00/ch_0006   1    1        they   PRP           (NP*)     -    -   -    B       *        (ARG0*)      (ARG0*)   (28)
+tc/ch/00/ch_0006   1    2         'll    MD           (VP*      -    -   -    B       *    (ARGM-MOD*)           *      -
+tc/ch/00/ch_0006   1    3    probably    RB         (ADVP*)     -    -   -    B       *    (ARGM-ADV*)           *      -
+tc/ch/00/ch_0006   1    4        want    VB           (VP*    want  01   -    B       *           (V*)           *      -
+tc/ch/00/ch_0006   1    5          to    TO         (S(VP*      -    -   -    B       *        (ARG1*            *      -
+tc/ch/00/ch_0006   1    6          go    VB           (VP*      go  02   -    B       *             *          (V*)   (26)
+tc/ch/00/ch_0006   1    7        with    IN           (PP*      -    -   -    B       *             *   (ARGM-COM*      -
+tc/ch/00/ch_0006   1    8          us   PRP          (NP*))     -    -   -    B       *             *            *)     -
+tc/ch/00/ch_0006   1    9        this    DT           (NP*      -    -   -    B  (DATE*             *   (ARGM-TMP*      -
+tc/ch/00/ch_0006   1   10        year    NN         *))))))     -    -   -    B       *)            *)           *)     -
+tc/ch/00/ch_0006   1   11           .     .             *))     -    -   -    B       *             *            *      -
+
+tc/ch/00/ch_0006   1   0    That    DT   (TOP(S(NP*)   -    -   -    A  *    (ARG1*)   (26)
+tc/ch/00/ch_0006   1   1      's   VBZ         (VP*    be  01   -    A  *       (V*)     -
+tc/ch/00/ch_0006   1   2    fine    JJ      (ADJP*))   -    -   -    A  *    (ARG2*)     -
+tc/ch/00/ch_0006   1   3       .     .           *))   -    -   -    A  *         *      -
+
+tc/ch/00/ch_0006   1   0      Nice    JJ  (TOP(NP*        -   -   -    B  *   (28
+tc/ch/00/ch_0006   1   1    people   NNS         *    people  -   -    B  *     -
+tc/ch/00/ch_0006   1   2         .     .        *))       -   -   -    B  *    28)
+
+tc/ch/00/ch_0006   1   0    Cool   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1       .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0    Cool   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1       .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    Cool   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1       .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0    Cool   UH   (TOP(INTJ*))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    yes   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1    yes   UH           *   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2      .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0        So     RB   (TOP(SQ(ADVP*)      -    -   -    B  *      *    (ARGM-DIS*)    -
+tc/ch/00/ch_0006   1   1      have    VBP               *     have  01   -    B  *    (V*)            *     -
+tc/ch/00/ch_0006   1   2       any     DT         (NP(NP*)      -    -   -    B  *      *        (ARG1*     -
+tc/ch/00/ch_0006   1   3        of     IN            (PP*       -    -   -    B  *      *             *     -
+tc/ch/00/ch_0006   1   4      your   PRP$            (NP*       -    -   -    B  *      *             *    (9)
+tc/ch/00/ch_0006   1   5    things    NNS             *)))      -    -   -    B  *      *             *)    -
+tc/ch/00/ch_0006   1   6    closed    VBN            (VP*)   close  03   -    B  *      *           (V*)    -
+tc/ch/00/ch_0006   1   7         ?      .              *))      -    -   -    B  *      *             *     -
+
+tc/ch/00/ch_0006   1   0    No   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1     .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0    Nothing   NN   (TOP(NP*))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0    Nothing   NN  (TOP(NP*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1          .    .        *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1    0           I    PRP         (TOP(S(NP*)        -    -   -    A         *        (ARG0*)        *             *      *         *     (9)
+tc/ch/00/ch_0006   1    1        just     RB             (ADVP*)        -    -   -    A         *    (ARGM-ADV*)        *             *      *         *      -
+tc/ch/00/ch_0006   1    2         had    VBD               (VP*       have  03   -    A         *           (V*)        *             *      *         *      -
+tc/ch/00/ch_0006   1    3           a     DT               (NP*         -    -   -    A         *        (ARG1*         *             *      *         *     (4
+tc/ch/00/ch_0006   1    4        nice     JJ                  *         -    -   -    A         *             *         *             *      *         *      -
+tc/ch/00/ch_0006   1    5       dream     NN                  *)     dream   -   -    A         *             *)        *             *      *         *      4)
+tc/ch/00/ch_0006   1    6      though     RB             (ADVP*)        -    -   -    A         *    (ARGM-ADV*)        *             *      *         *      -
+tc/ch/00/ch_0006   1    7        that     IN        (SBAR(SBAR*         -    -   -    A         *      (C-ARG1*         *             *      *         *      -
+tc/ch/00/ch_0006   1    8       David    NNP             (S(NP*)        -    -   -    A   (PERSON)            *    (ARG1*)            *      *         *    (18)
+tc/ch/00/ch_0006   1    9         was    VBD               (VP*         be  01   -    A         *             *       (V*)            *      *         *      -
+tc/ch/00/ch_0006   1   10        just     RB             (ADJP*         -    -   -    A         *             *    (ARG2*             *      *         *      -
+tc/ch/00/ch_0006   1   11        fine     JJ               *))))        -    -   -    A         *             *         *)            *      *         *      -
+tc/ch/00/ch_0006   1   12           .      .                  *         -    -   -    A         *             *         *             *      *         *      -
+tc/ch/00/ch_0006   1   13      uh-huh     UH       (EMBED(INTJ*         -    -   -    A         *             *         *             *      *         *      -
+tc/ch/00/ch_0006   1   14           .      .                 *))        -    -   -    A         *             *         *             *      *         *      -
+tc/ch/00/ch_0006   1   15        That     IN             (SBAR*         -    -   -    A         *             *         *             *      *         *      -
+tc/ch/00/ch_0006   1   16          he    PRP             (S(NP*)        -    -   -    A         *             *         *        (ARG0*)     *         *    (18)
+tc/ch/00/ch_0006   1   17         got    VBD               (VP*        get  01   -    A         *             *         *           (V*)     *         *      -
+tc/ch/00/ch_0006   1   18         his   PRP$               (NP*         -    -   -    A         *             *         *        (ARG1*      *         *    (18)
+tc/ch/00/ch_0006   1   19       money     NN                  *)        -    -   -    A         *             *         *             *)     *         *      -
+tc/ch/00/ch_0006   1   20          in     RP              (PRT*)        -    -   -    A         *             *         *    (ARGM-DIR*)     *         *      -
+tc/ch/00/ch_0006   1   21       today     NN               (NP*)        -    -   -    A     (DATE)            *         *    (ARGM-TMP*)     *         *      -
+tc/ch/00/ch_0006   1   22        like     IN             (SBAR*         -    -   -    A         *             *         *    (ARGM-ADV*      *         *      -
+tc/ch/00/ch_0006   1   23          he    PRP             (S(NP*)        -    -   -    A         *             *         *             *      *    (ARG1*)   (18)
+tc/ch/00/ch_0006   1   24          's    VBZ               (VP*         be  03   -    A         *             *         *             *    (V*)        *      -
+tc/ch/00/ch_0006   1   25    supposed    VBN               (VP*    suppose  02   -    A         *             *         *             *      *       (V*)     -
+tc/ch/00/ch_0006   1   26          to     TO   (S(VP*)))))))))))        -    -   -    A         *             *)        *             *)     *    (ARG2*)     -
+tc/ch/00/ch_0006   1   27           .      .                 *))        -    -   -    A         *             *         *             *      *         *      -
+
+tc/ch/00/ch_0006   1   0    Right   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1        .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0     That    DT   (TOP(S(NP*)      -    -   -    B  *    (ARG1*)   (4)
+tc/ch/00/ch_0006   1   1      was   VBD         (VP*       be  01   -    B  *       (V*)    -
+tc/ch/00/ch_0006   1   2        a    DT         (NP*       -    -   -    B  *    (ARG2*     -
+tc/ch/00/ch_0006   1   3    dream    NN           *))   dream   -   -    B  *         *)    -
+tc/ch/00/ch_0006   1   4        .     .           *))      -    -   -    B  *         *     -
+
+tc/ch/00/ch_0006   1   0         So    RB   (TOP(S(ADVP*)     -    -   -    B  *    (ARGM-DIS*)     -
+tc/ch/00/ch_0006   1   1         he   PRP           (NP*)     -    -   -    B  *        (ARG0*)   (18)
+tc/ch/00/ch_0006   1   2      still    RB         (ADVP*)     -    -   -    B  *    (ARGM-TMP*)     -
+tc/ch/00/ch_0006   1   3        has   VBZ           (VP*    have   -   -    B  *             *      -
+tc/ch/00/ch_0006   1   4        n't    RB              *      -    -   -    B  *    (ARGM-NEG*)     -
+tc/ch/00/ch_0006   1   5       made   VBN           (VP*    make  18   -    B  *           (V*)     -
+tc/ch/00/ch_0006   1   6        any    DT           (NP*      -    -   -    B  *        (ARG1*      -
+tc/ch/00/ch_0006   1   7    inroads   NNS            *)))     -    -   -    B  *             *)     -
+tc/ch/00/ch_0006   1   8          ?     .             *))     -    -   -    B  *             *      -
+
+tc/ch/00/ch_0006   1   0    %uh   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1    %uh   UH           *   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   2      .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0    Nothing   NN   (TOP(FRAG(NP*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1       %huh   UH          (INTJ*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   2          ?    .              *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0         He    PRP   (TOP(S(NP*)        -    -   -    A  *      *    (ARG0*)       *        (18)
+tc/ch/00/ch_0006   1   1         's    VBZ         (VP*         be  03   -    A  *    (V*)        *        *          -
+tc/ch/00/ch_0006   1   2     having    VBG         (VP*       have  03   -    A  *      *       (V*)       *          -
+tc/ch/00/ch_0006   1   3    trouble     NN      (NP(NP*)   trouble   -   -    A  *      *    (ARG1*        *          -
+tc/ch/00/ch_0006   1   4    closing    VBG       (S(VP*      close  01   -    A  *      *         *      (V*)       (27)
+tc/ch/00/ch_0006   1   5        his   PRP$         (NP*         -    -   -    A  *      *         *   (ARG1*    (11|(18)
+tc/ch/00/ch_0006   1   6    station     NN       *))))))   station   -   -    A  *      *         *)       *)        11)
+tc/ch/00/ch_0006   1   7          .      .           *))        -    -   -    A  *      *         *        *          -
+
+tc/ch/00/ch_0006   1   0    uh-huh   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1         .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0        It   PRP   (TOP(S(NP*)       -    -   -    B  *        (ARG1*)   (27)
+tc/ch/00/ch_0006   1   1       may    MD         (VP*        -    -   -    B  *    (ARGM-MOD*)     -
+tc/ch/00/ch_0006   1   2       not    RB            *        -    -   -    B  *    (ARGM-NEG*)     -
+tc/ch/00/ch_0006   1   3    happen    VB        (VP*))   happen  01   -    B  *           (V*)     -
+tc/ch/00/ch_0006   1   4         .     .           *))       -    -   -    B  *             *      -
+
+tc/ch/00/ch_0006   1   0     oh   UH  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1    god   UH           *   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   2      .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0         If    IN  (TOP(S(SBAR*        -    -   -    B  *             *    (ARGM-ADV*      -
+tc/ch/00/ch_0006   1   1       that    DT        (S(NP*)       -    -   -    B  *        (ARG1*)            *    (27)
+tc/ch/00/ch_0006   1   2       does   VBZ          (VP*       doe   -   -    B  *             *             *      -
+tc/ch/00/ch_0006   1   3        n't    RB             *        -    -   -    B  *    (ARGM-NEG*)            *      -
+tc/ch/00/ch_0006   1   4     happen    VB       (VP*))))   happen  01   -    B  *           (V*)            *)     -
+tc/ch/00/ch_0006   1   5         he   PRP          (NP*)       -    -   -    B  *             *        (ARG0*)   (18)
+tc/ch/00/ch_0006   1   6        'll    MD          (VP*        -    -   -    B  *             *    (ARGM-MOD*)     -
+tc/ch/00/ch_0006   1   7     commit    VB          (VP*    commit  02   -    B  *             *           (V*)     -
+tc/ch/00/ch_0006   1   8    suicide    NN        (NP*)))       -    -   -    B  *             *        (ARG1*)     -
+tc/ch/00/ch_0006   1   9          .     .            *))       -    -   -    B  *             *             *      -
+
+tc/ch/00/ch_0006   1   0        The   DT  (TOP(NP*         -   -   -    A  *   (11
+tc/ch/00/ch_0006   1   1    station   NN         *    station  -   -    A  *     -
+tc/ch/00/ch_0006   1   2          ?    .        *))        -   -   -    A  *    11)
+
+tc/ch/00/ch_0006   1   0    Right   UH  (TOP(INTJ*   -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1        .    .          *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1    0          If    IN  (TOP(S(SBAR*         -    -   -    B  *             *    (ARGM-ADV*      -
+tc/ch/00/ch_0006   1    1          he   PRP        (S(NP*)        -    -   -    B  *        (ARG0*)            *    (18)
+tc/ch/00/ch_0006   1    2        does   VBZ          (VP*        doe   -   -    B  *             *             *      -
+tc/ch/00/ch_0006   1    3         n't    RB             *         -    -   -    B  *    (ARGM-NEG*)            *      -
+tc/ch/00/ch_0006   1    4         get    VB          (VP*        get  01   -    B  *           (V*)            *      -
+tc/ch/00/ch_0006   1    5         the    DT          (NP*         -    -   -    B  *        (ARG1*             *    (11
+tc/ch/00/ch_0006   1    6     station    NN         *)))))   station   -   -    B  *             *)            *)    11)
+tc/ch/00/ch_0006   1    7           .     .             *         -    -   -    B  *             *             *      -
+tc/ch/00/ch_0006   1    8    Probably    RB  (EMBED(ADVP*         -    -   -    B  *             *             *      -
+tc/ch/00/ch_0006   1    9           .     .            *))        -    -   -    B  *             *             *      -
+tc/ch/00/ch_0006   1   10          He   PRP          (NP*)        -    -   -    B  *             *        (ARG0*)   (18)
+tc/ch/00/ch_0006   1   11         'll    MD          (VP*         -    -   -    B  *             *    (ARGM-MOD*)     -
+tc/ch/00/ch_0006   1   12      commit    VB          (VP*     commit  02   -    B  *             *           (V*)    (0)
+tc/ch/00/ch_0006   1   13     suicide    NN        (NP*)))        -    -   -    B  *             *        (ARG1*)     -
+tc/ch/00/ch_0006   1   14           .     .            *))        -    -   -    B  *             *             *      -
+
+tc/ch/00/ch_0006   1   0       He   PRP   (TOP(S(NP*)      -    -   -    A  *        (ARG1*)   (18)
+tc/ch/00/ch_0006   1   1      'll    MD         (VP*       -    -   -    A  *    (ARGM-MOD*)     -
+tc/ch/00/ch_0006   1   2       be    VB         (VP*       be  01   -    A  *           (V*)     -
+tc/ch/00/ch_0006   1   3       in    IN         (PP*       -    -   -    A  *        (ARG2*      -
+tc/ch/00/ch_0006   1   4      bad    JJ         (NP*       -    -   -    A  *             *      -
+tc/ch/00/ch_0006   1   5    shape    NN         *))))   shape   -   -    A  *             *)     -
+tc/ch/00/ch_0006   1   6        .     .           *))      -    -   -    A  *             *      -
+
+tc/ch/00/ch_0006   1   0    mhm   UH   (TOP(INTJ*))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1    0          and    CC     (TOP(S*     -    -   -    A  *    (ARGM-DIS*)            *             *     -
+tc/ch/00/ch_0006   1    1         then    RB      (ADVP*)    -    -   -    A  *    (ARGM-TMP*)            *             *     -
+tc/ch/00/ch_0006   1    2         that    DT        (NP*)    -    -   -    A  *        (ARG1*)            *             *    (0)
+tc/ch/00/ch_0006   1    3           's   VBZ        (VP*     be  01   -    A  *           (V*)            *             *     -
+tc/ch/00/ch_0006   1    4      because    IN      (SBAR*     -    -   -    A  *        (ARG2*             *             *     -
+tc/ch/00/ch_0006   1    5    everybody    NN   (S(NP(NP*)    -    -   -    A  *             *        (ARG1*        (ARG1*   (33
+tc/ch/00/ch_0006   1    6     involved    JJ     (ADJP*))    -    -   -    A  *             *             *)            *)   33)
+tc/ch/00/ch_0006   1    7         will    MD        (VP*     -    -   -    A  *             *    (ARGM-MOD*)   (ARGM-MOD*)    -
+tc/ch/00/ch_0006   1    8          get    VB        (VP*    get  03   -    A  *             *           (V*)            *     -
+tc/ch/00/ch_0006   1    9         sued   VBN   (VP*))))))   sue  01   -    A  *             *)       (ARG2*)          (V*)    -
+tc/ch/00/ch_0006   1   10            .     .          *))    -    -   -    A  *             *             *             *     -
+
+tc/ch/00/ch_0006   1   0    What    WP   (TOP(SBARQ(WHNP*)     -    -   -    B  *      *    (ARG1*)    -
+tc/ch/00/ch_0006   1   1      do   VBP               (SQ*      do  01   -    B  *    (V*)        *     -
+tc/ch/00/ch_0006   1   2     you   PRP               (NP*)     -    -   -    B  *      *    (ARG0*)   (9)
+tc/ch/00/ch_0006   1   3    mean    VB              (VP*))   mean  01   -    B  *      *       (V*)    -
+tc/ch/00/ch_0006   1   4       ?     .                 *))     -    -   -    B  *      *         *     -
+
+tc/ch/00/ch_0006   1   0    Everybody   NN   (TOP(NP(NP*)  -   -   -    B  *   (33
+tc/ch/00/ch_0006   1   1     involved   JJ        (ADJP*)  -   -   -    B  *     -
+tc/ch/00/ch_0006   1   2            ?    .            *))  -   -   -    B  *    33)
+
+tc/ch/00/ch_0006   1   0     Does   VBZ  (TOP(SQ*      do  01   -    B         *    (V*)        *      -
+tc/ch/00/ch_0006   1   1     that    DT      (NP*)     -    -   -    B         *      *    (ARG0*)   (33)
+tc/ch/00/ch_0006   1   2     mean    VB      (VP*    mean  01   -    B         *      *       (V*)     -
+tc/ch/00/ch_0006   1   3    Shirl   NNP      (NP*      -    -   -    B  (PERSON*      *    (ARG1*      -
+tc/ch/00/ch_0006   1   4     Clay   NNP        *))     -    -   -    B         *)     *         *)     -
+tc/ch/00/ch_0006   1   5        ?     .        *))     -    -   -    B         *      *         *      -
+
+tc/ch/00/ch_0006   1   0    Probably   RB  (TOP(ADVP*   -   -   -    A  *   -
+tc/ch/00/ch_0006   1   1           .    .          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0006   1   0    Why   WRB   (TOP(SBARQ(WHADVP*)  -   -   -    B  *   -
+tc/ch/00/ch_0006   1   1      ?     .                   *))  -   -   -    B  *   -
+
+tc/ch/00/ch_0006   1   0        I   PRP    (TOP(S(NP*)      -    -   -    A  *        (ARG0*)    (9)
+tc/ch/00/ch_0006   1   1       do   VBP          (VP*       do   -   -    A  *             *      -
+tc/ch/00/ch_0006   1   2      n't    RB             *       -    -   -    A  *    (ARGM-NEG*)     -
+tc/ch/00/ch_0006   1   3    think    VB          (VP*    think  01   -    A  *           (V*)     -
+tc/ch/00/ch_0006   1   4     they   PRP   (SBAR(S(NP*)      -    -   -    A  *        (ARG1*    (23)
+tc/ch/00/ch_0006   1   5      can    MD    (VP*)))))))      -    -   -    A  *             *)     -
+
+tc/ch/00/ch_0006   1   0      but    CC       (TOP(S*       -    -   -    A  *    (ARGM-DIS*)            *      -
+tc/ch/00/ch_0006   1   1        I   PRP          (NP*)      -    -   -    A  *        (ARG0*)            *     (9)
+tc/ch/00/ch_0006   1   2    think   VBP          (VP*    think  01   -    A  *           (V*)            *      -
+tc/ch/00/ch_0006   1   3     they   PRP   (SBAR(S(NP*)      -    -   -    A  *        (ARG1*        (ARG0*)   (23)
+tc/ch/00/ch_0006   1   4      'll    MD          (VP*       -    -   -    A  *             *    (ARGM-MOD*)     -
+tc/ch/00/ch_0006   1   5      try    VB      (VP*)))))     try  01   -    A  *             *)          (V*)     -
+tc/ch/00/ch_0006   1   6        .     .            *))      -    -   -    A  *             *             *      -
+
+tc/ch/00/ch_0006   1   0       You   PRP      (TOP(S(NP*)       -    -   -    A  *    (ARG0*)        *    (6)
+tc/ch/00/ch_0006   1   1      know   VBP            (VP*      know  01   -    A  *       (V*)        *     -
+tc/ch/00/ch_0006   1   2       how   WRB   (SBAR(WHADVP*)       -    -   -    A  *    (ARG1*    (ARG2*)    -
+tc/ch/00/ch_0006   1   3    people   NNS          (S(NP*)   people   -   -    A  *         *    (ARG1*)    -
+tc/ch/00/ch_0006   1   4       are   VBP         (VP*))))       be  01   -    A  *         *)      (V*)    -
+tc/ch/00/ch_0006   1   5         .     .              *))       -    -   -    A  *         *         *     -

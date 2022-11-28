@@ -1,0 +1,199 @@
+bc/cnn/00/cnn_0005   1    0      but    CC    (TOP(FRAG*       -    -   -    Wolf_Blitzer          *             *            *   -
+bc/cnn/00/cnn_0005   1    1    first    RB        (ADVP*)      -    -   -    Wolf_Blitzer   (ORDINAL)            *            *   -
+bc/cnn/00/cnn_0005   1    2        a    DT       (NP(NP*       -    -   -    Wolf_Blitzer          *             *            *   -
+bc/cnn/00/cnn_0005   1    3    quick    JJ             *       -    -   -    Wolf_Blitzer          *    (ARGM-MNR*)           *   -
+bc/cnn/00/cnn_0005   1    4    check    NN             *)   check  01   2    Wolf_Blitzer          *           (V*)           *   -
+bc/cnn/00/cnn_0005   1    5       of    IN          (PP*       -    -   -    Wolf_Blitzer          *        (ARG1*            *   -
+bc/cnn/00/cnn_0005   1    6     what    WP   (SBAR(WHNP*)      -    -   -    Wolf_Blitzer          *             *       (ARG1*)  -
+bc/cnn/00/cnn_0005   1    7       's   VBZ        (S(VP*       be  01   4    Wolf_Blitzer          *             *          (V*)  -
+bc/cnn/00/cnn_0005   1    8       in    IN          (PP*       -    -   -    Wolf_Blitzer          *             *       (ARG2*   -
+bc/cnn/00/cnn_0005   1    9      the    DT          (NP*       -    -   -    Wolf_Blitzer          *             *            *   -
+bc/cnn/00/cnn_0005   1   10     news    NN            *))    news   -   1    Wolf_Blitzer          *             *            *)  -
+bc/cnn/00/cnn_0005   1   11    right    RB        (ADVP*       -    -   -    Wolf_Blitzer          *             *   (ARGM-TMP*   -
+bc/cnn/00/cnn_0005   1   12      now    RB        *))))))      -    -   -    Wolf_Blitzer          *             *)           *)  -
+bc/cnn/00/cnn_0005   1   13       /.     .            *))      -    -   -    Wolf_Blitzer          *             *            *   -
+
+bc/cnn/00/cnn_0005   1   0    Thanks   NNS   (TOP(FRAG(NP*)   thanks  01   1    Frederica_Whitfield         *       (V*)     -
+bc/cnn/00/cnn_0005   1   1      Wolf   NNP            (NP*)       -    -   -    Frederica_Whitfield   (PERSON)   (ARG1*)   (16)
+bc/cnn/00/cnn_0005   1   2        /.     .              *))       -    -   -    Frederica_Whitfield         *         *      -
+
+bc/cnn/00/cnn_0005   1    0            I   PRP   (TOP(S(NP*)       -    -   -    Frederica_Whitfield         *    (ARG1*)        (36)
+bc/cnn/00/cnn_0005   1    1           'm   VBP         (VP*        be  01   2    Frederica_Whitfield         *       (V*)          -
+bc/cnn/00/cnn_0005   1    2     Patricia   NNP      (NP(NP*        -    -   -    Frederica_Whitfield  (PERSON*    (ARG2*           -
+bc/cnn/00/cnn_0005   1    3    Whitfield   NNP            *)       -    -   -    Frederica_Whitfield         *)        *           -
+bc/cnn/00/cnn_0005   1    4           at    IN         (PP*        -    -   -    Frederica_Whitfield         *         *           -
+bc/cnn/00/cnn_0005   1    5          the    DT      (NP(NP*        -    -   -    Frederica_Whitfield         *         *         (26
+bc/cnn/00/cnn_0005   1    6          CNN   NNP            *        -    -   -    Frederica_Whitfield      (ORG)        *         (15)
+bc/cnn/00/cnn_0005   1    7       center    NN            *)   center   -   2    Frederica_Whitfield         *         *           -
+bc/cnn/00/cnn_0005   1    8           in    IN         (PP*        -    -   -    Frederica_Whitfield         *         *           -
+bc/cnn/00/cnn_0005   1    9      Atlanta   NNP    (NP*))))))       -    -   -    Frederica_Whitfield      (GPE)        *)   (112)|26)
+bc/cnn/00/cnn_0005   1   10           /.     .           *))       -    -   -    Frederica_Whitfield         *         *           -
+
+bc/cnn/00/cnn_0005   1   0         Here    RB   (TOP(S(NP*)         -    -   -    Frederica_Whitfield  *    (ARG1*)     -
+bc/cnn/00/cnn_0005   1   1          are   VBP         (VP*          be  01   4    Frederica_Whitfield  *       (V*)     -
+bc/cnn/00/cnn_0005   1   2          the    DT         (NP*          -    -   -    Frederica_Whitfield  *    (ARG2*   (187
+bc/cnn/00/cnn_0005   1   3    headlines   NNS           *))   headline   -   -    Frederica_Whitfield  *         *)   187)
+bc/cnn/00/cnn_0005   1   4           /.     .           *))         -    -   -    Frederica_Whitfield  *         *      -
+
+bc/cnn/00/cnn_0005   1   0        The    DT  (TOP(S(NP(NP*       -    -   -    Frederica_Whitfield      *      *   (ARG1*     -
+bc/cnn/00/cnn_0005   1   1         US   NNP              *       -    -   -    Frederica_Whitfield   (GPE)     *        *     -
+bc/cnn/00/cnn_0005   1   2      death    NN              *       -    -   -    Frederica_Whitfield      *      *        *     -
+bc/cnn/00/cnn_0005   1   3       toll    NN              *)    toll   -   2    Frederica_Whitfield      *      *        *     -
+bc/cnn/00/cnn_0005   1   4         in    IN           (PP*       -    -   -    Frederica_Whitfield      *      *        *     -
+bc/cnn/00/cnn_0005   1   5       Iraq   NNP         (NP*)))      -    -   -    Frederica_Whitfield   (GPE)     *        *)   (9)
+bc/cnn/00/cnn_0005   1   6        has   VBZ           (VP*     have  01   -    Frederica_Whitfield      *    (V*)       *     -
+bc/cnn/00/cnn_0005   1   7    climbed   VBN          (VP*))   climb  02   1    Frederica_Whitfield      *      *      (V*)    -
+bc/cnn/00/cnn_0005   1   8         /.     .             *))      -    -   -    Frederica_Whitfield      *      *        *     -
+
+bc/cnn/00/cnn_0005   1    0          An    DT  (TOP(S(NP*         -    -   -    Frederica_Whitfield       *      *        (ARG1*   -
+bc/cnn/00/cnn_0005   1    1    American    JJ           *         -    -   -    Frederica_Whitfield   (NORP)     *             *   -
+bc/cnn/00/cnn_0005   1    2     soldier    NN           *)   soldier   -   -    Frederica_Whitfield       *      *             *)  -
+bc/cnn/00/cnn_0005   1    3         was   VBD        (VP*         be  03   -    Frederica_Whitfield       *    (V*)            *   -
+bc/cnn/00/cnn_0005   1    4      killed   VBN        (VP*       kill  01   1    Frederica_Whitfield       *      *           (V*)  -
+bc/cnn/00/cnn_0005   1    5       today    NN        (NP*)     today   -   2    Frederica_Whitfield   (DATE)     *    (ARGM-TMP*)  -
+bc/cnn/00/cnn_0005   1    6          in    IN        (PP*         -    -   -    Frederica_Whitfield       *      *    (ARGM-LOC*   -
+bc/cnn/00/cnn_0005   1    7           a    DT     (NP(NP*         -    -   -    Frederica_Whitfield       *      *             *   -
+bc/cnn/00/cnn_0005   1    8        road    NN       (NML*       road   -   1    Frederica_Whitfield       *      *             *   -
+bc/cnn/00/cnn_0005   1    9        side    NN           *)      side   -   1    Frederica_Whitfield       *      *             *   -
+bc/cnn/00/cnn_0005   1   10     bombing    NN           *)      bomb   -   1    Frederica_Whitfield       *      *             *   -
+bc/cnn/00/cnn_0005   1   11          in    IN        (PP*         -    -   -    Frederica_Whitfield       *      *             *   -
+bc/cnn/00/cnn_0005   1   12     Baghdad   NNP   (NP*))))))        -    -   -    Frederica_Whitfield    (GPE)     *             *)  -
+bc/cnn/00/cnn_0005   1   13          /.     .          *))        -    -   -    Frederica_Whitfield       *      *             *   -
+
+bc/cnn/00/cnn_0005   1   0        Two    CD  (TOP(S(NP*       -    -   -    Frederica_Whitfield   (CARDINAL)     *   (ARG1*   -
+bc/cnn/00/cnn_0005   1   1     others   NNS           *)      -    -   -    Frederica_Whitfield           *      *        *)  -
+bc/cnn/00/cnn_0005   1   2       were   VBD        (VP*       be  03   -    Frederica_Whitfield           *    (V*)       *   -
+bc/cnn/00/cnn_0005   1   3    wounded   VBN       (VP*))   wound  01   -    Frederica_Whitfield           *      *      (V*)  -
+bc/cnn/00/cnn_0005   1   4         /.     .          *))      -    -   -    Frederica_Whitfield           *      *        *   -
+
+bc/cnn/00/cnn_0005   1    0         The    DT  (TOP(S(NP(NP*       -    -   -    Frederica_Whitfield           *        (ARG1*     -
+bc/cnn/00/cnn_0005   1    1          US   NNP          (NML*       -    -   -    Frederica_Whitfield        (GPE)            *     -
+bc/cnn/00/cnn_0005   1    2    military    NN              *)      -    -   -    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1    3       death    NN              *       -    -   -    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1    4        toll    NN              *)    toll   -   2    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1    5          in    IN           (PP*       -    -   -    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1    6        Iraq   NNP         (NP*)))      -    -   -    Frederica_Whitfield        (GPE)            *)   (9)
+bc/cnn/00/cnn_0005   1    7         now    RB         (ADVP*)      -    -   -    Frederica_Whitfield           *    (ARGM-TMP*)    -
+bc/cnn/00/cnn_0005   1    8      stands   VBZ           (VP*    stand  04   2    Frederica_Whitfield           *           (V*)    -
+bc/cnn/00/cnn_0005   1    9          at    IN           (PP*       -    -   -    Frederica_Whitfield           *        (ARG2*     -
+bc/cnn/00/cnn_0005   1   10         one    CD        (NP(QP*       -    -   -    Frederica_Whitfield  (CARDINAL*             *     -
+bc/cnn/00/cnn_0005   1   11    thousand    CD              *       -    -   -    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1   12       seven    CD              *       -    -   -    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1   13     hundred    CD              *       -    -   -    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1   14      thirty    CD              *       -    -   -    Frederica_Whitfield           *             *     -
+bc/cnn/00/cnn_0005   1   15        four    CD           *))))      -    -   -    Frederica_Whitfield           *)            *)    -
+bc/cnn/00/cnn_0005   1   16          /.     .             *))      -    -   -    Frederica_Whitfield           *             *     -
+
+bc/cnn/00/cnn_0005   1    0          In    IN  (TOP(S(PP*      -    -   -    Frederica_Whitfield           *    (ARGM-LOC*   -
+bc/cnn/00/cnn_0005   1    1    northern    JJ        (NP*      -    -   -    Frederica_Whitfield           *             *   -
+bc/cnn/00/cnn_0005   1    2        Iraq   NNP          *))     -    -   -    Frederica_Whitfield        (GPE)            *)  -
+bc/cnn/00/cnn_0005   1    3        four    CD     (NP(NP*      -    -   -    Frederica_Whitfield   (CARDINAL)       (ARG0*   -
+bc/cnn/00/cnn_0005   1    4     suicide    NN           *      -    -   -    Frederica_Whitfield           *             *   -
+bc/cnn/00/cnn_0005   1    5    bombings   NNS           *)     -    -   -    Frederica_Whitfield           *             *   -
+bc/cnn/00/cnn_0005   1    6        over    IN        (PP*      -    -   -    Frederica_Whitfield           *             *   -
+bc/cnn/00/cnn_0005   1    7    eighteen    CD        (NP*      -    -   -    Frederica_Whitfield      (TIME*             *   -
+bc/cnn/00/cnn_0005   1    8       hours   NNS         *)))   hour   -   1    Frederica_Whitfield           *)            *)  -
+bc/cnn/00/cnn_0005   1    9      rocked   VBD        (VP*    rock  01   3    Frederica_Whitfield           *           (V*)  -
+bc/cnn/00/cnn_0005   1   10         the    DT        (NP*      -    -   -    Frederica_Whitfield           *        (ARG1*   -
+bc/cnn/00/cnn_0005   1   11        city    NN           *)   city   -   1    Frederica_Whitfield           *             *)  -
+bc/cnn/00/cnn_0005   1   12          of    IN       (PP*))     -    -   -    Frederica_Whitfield           *    (ARGM-PRD*)  -
+bc/cnn/00/cnn_0005   1   13          /.     .          *))     -    -   -    Frederica_Whitfield        (GPE)            *   -
+
+bc/cnn/00/cnn_0005   1    0          At    IN  (TOP(FRAG(NP(NP(QP(ADVP*        -    -   -    Frederica_Whitfield  (CARDINAL*      *        (ARG1*   -
+bc/cnn/00/cnn_0005   1    1       least   JJS                         *)       -    -   -    Frederica_Whitfield           *      *             *   -
+bc/cnn/00/cnn_0005   1    2    nineteen    CD                         *)       -    -   -    Frederica_Whitfield           *)     *             *   -
+bc/cnn/00/cnn_0005   1    3      deaths   NNS                         *)    death   -   1    Frederica_Whitfield           *      *             *   -
+bc/cnn/00/cnn_0005   1    4         and    CC                         *        -    -   -    Frederica_Whitfield           *      *             *   -
+bc/cnn/00/cnn_0005   1    5      dozens   NNS                   (NP(NP*)       -    -   -    Frederica_Whitfield   (CARDINAL)     *             *   -
+bc/cnn/00/cnn_0005   1    6          of    IN                      (PP*        -    -   -    Frederica_Whitfield           *      *             *   -
+bc/cnn/00/cnn_0005   1    7    injuries   NNS                   (NP*))))   injury  01   1    Frederica_Whitfield           *    (V*)            *)  -
+bc/cnn/00/cnn_0005   1    8    reported   VBN                      (VP*    report  01   -    Frederica_Whitfield           *      *           (V*)  -
+bc/cnn/00/cnn_0005   1    9       there    RB                   (ADVP*))       -    -   -    Frederica_Whitfield           *      *    (ARGM-LOC*)  -
+bc/cnn/00/cnn_0005   1   10          /.     .                        *))       -    -   -    Frederica_Whitfield           *      *             *   -
+
+bc/cnn/00/cnn_0005   1   0        Many    JJ   (TOP(S(NP(NP*)        -    -   -    Frederica_Whitfield       *   (ARG1*   -
+bc/cnn/00/cnn_0005   1   1          of    IN            (PP*         -    -   -    Frederica_Whitfield       *        *   -
+bc/cnn/00/cnn_0005   1   2         the    DT            (NP*         -    -   -    Frederica_Whitfield       *        *   -
+bc/cnn/00/cnn_0005   1   3     victims   NNS             *)))    victim   -   1    Frederica_Whitfield       *        *)  -
+bc/cnn/00/cnn_0005   1   4        were   VBD            (VP*         be  01   1    Frederica_Whitfield       *      (V*)  -
+bc/cnn/00/cnn_0005   1   5       Iraqi    JJ            (NP*         -    -   -    Frederica_Whitfield   (NORP)  (ARG2*   -
+bc/cnn/00/cnn_0005   1   6      police    NN               *     police   -   -    Frederica_Whitfield       *        *   -
+bc/cnn/00/cnn_0005   1   7    officers   NNS              *))   officer   -   3    Frederica_Whitfield       *        *)  -
+bc/cnn/00/cnn_0005   1   8          /.     .              *))        -    -   -    Frederica_Whitfield       *        *   -
+
+bc/cnn/00/cnn_0005   1   0    Experience     VB  (TOP(S(VP*    experience  01   1    Frederica_Whitfield      *          (V*)     -
+bc/cnn/00/cnn_0005   1   1           the     DT     (NP(NP*            -    -   -    Frederica_Whitfield      *       (ARG1*      -
+bc/cnn/00/cnn_0005   1   2         power     NN           *)        power   -   1    Frederica_Whitfield      *            *      -
+bc/cnn/00/cnn_0005   1   3            of     IN        (PP*            -    -   -    Frederica_Whitfield      *            *      -
+bc/cnn/00/cnn_0005   1   4           CNN    NNP        (NP*            -    -   -    Frederica_Whitfield   (ORG)           *    (15)
+bc/cnn/00/cnn_0005   1   5         video     NN         *)))           -    -   -    Frederica_Whitfield      *            *)     -
+bc/cnn/00/cnn_0005   1   6            on     IN        (PP*            -    -   -    Frederica_Whitfield      *   (ARGM-MNR*      -
+bc/cnn/00/cnn_0005   1   7          your   PRP$        (NP*            -    -   -    Frederica_Whitfield      *            *      -
+bc/cnn/00/cnn_0005   1   8      computer     NN         *)))     computer   -   1    Frederica_Whitfield      *            *)     -
+bc/cnn/00/cnn_0005   1   9            /.      .          *))           -    -   -    Frederica_Whitfield      *            *      -
+
+bc/cnn/00/cnn_0005   1    0       Log    VB   (TOP(S(VP(VP*       log  01   2    Frederica_Whitfield  *      (V*)           *        *         *         *     -
+bc/cnn/00/cnn_0005   1    1      onto    IN            (PP*        -    -   -    Frederica_Whitfield  *   (ARG1*            *        *         *         *     -
+bc/cnn/00/cnn_0005   1    2       CNN    NN            (NP*        -    -   -    Frederica_Whitfield  *        *            *        *         *         *   (30
+bc/cnn/00/cnn_0005   1    3       dot    NN               *       dot   -   -    Frederica_Whitfield  *        *            *        *         *         *     -
+bc/cnn/00/cnn_0005   1    4       com    NN             *)))       -    -   -    Frederica_Whitfield  *        *)           *        *         *         *    30)
+bc/cnn/00/cnn_0005   1    5     click    VB            (VP*     click  01   1    Frederica_Whitfield  *        *          (V*)       *         *         *     -
+bc/cnn/00/cnn_0005   1    6        on    IN            (PP*        -    -   -    Frederica_Whitfield  *        *   (ARGM-LOC*        *         *         *     -
+bc/cnn/00/cnn_0005   1    7       the    DT            (NP*        -    -   -    Frederica_Whitfield  *        *            *        *         *         *     -
+bc/cnn/00/cnn_0005   1    8     video    NN               *        -    -   -    Frederica_Whitfield  *        *            *        *         *         *     -
+bc/cnn/00/cnn_0005   1    9      link    NN             *)))     link   -   5    Frederica_Whitfield  *        *            *)       *         *         *     -
+bc/cnn/00/cnn_0005   1   10       and    CC               *        -    -   -    Frederica_Whitfield  *        *            *        *         *         *     -
+bc/cnn/00/cnn_0005   1   11    browse    VB            (VP*    browse  01   1    Frederica_Whitfield  *        *            *      (V*)        *         *     -
+bc/cnn/00/cnn_0005   1   12       for    IN            (PP*        -    -   -    Frederica_Whitfield  *        *            *   (ARG2*         *         *     -
+bc/cnn/00/cnn_0005   1   13       the    DT         (NP(NP*        -    -   -    Frederica_Whitfield  *        *            *        *         *         *     -
+bc/cnn/00/cnn_0005   1   14     video    NN               *)       -    -   -    Frederica_Whitfield  *        *            *        *         *         *     -
+bc/cnn/00/cnn_0005   1   15       you   PRP     (SBAR(S(NP*)       -    -   -    Frederica_Whitfield  *        *            *        *    (ARG0*)   (ARG0*)    -
+bc/cnn/00/cnn_0005   1   16      want   VBP            (VP*      want  01   1    Frederica_Whitfield  *        *            *        *       (V*)        *     -
+bc/cnn/00/cnn_0005   1   17        to    TO          (S(VP*        -    -   -    Frederica_Whitfield  *        *            *        *    (ARG1*         *     -
+bc/cnn/00/cnn_0005   1   18       see    VB   (VP*))))))))))      see  01   1    Frederica_Whitfield  *        *            *        *)        *)      (V*)    -
+bc/cnn/00/cnn_0005   1   19        /.     .              *))       -    -   -    Frederica_Whitfield  *        *            *        *         *         *     -
+
+bc/cnn/00/cnn_0005   1    0       Watch    VB      (TOP(S(VP*    watch  01   1    Frederica_Whitfield  *           (V*)        *             *     -
+bc/cnn/00/cnn_0005   1    1        what    WP     (SBAR(WHNP*)      -    -   -    Frederica_Whitfield  *        (ARG1*    (ARG1*)            *     -
+bc/cnn/00/cnn_0005   1    2         you   PRP          (S(NP*)      -    -   -    Frederica_Whitfield  *             *    (ARG0*)            *     -
+bc/cnn/00/cnn_0005   1    3        want   VBP          (VP*)))    want  01   1    Frederica_Whitfield  *             *)      (V*)            *     -
+bc/cnn/00/cnn_0005   1    4    whenever   WRB   (SBAR(WHADVP*)      -    -   -    Frederica_Whitfield  *    (ARGM-TMP*         *    (ARGM-TMP*)    -
+bc/cnn/00/cnn_0005   1    5         you   PRP          (S(NP*)      -    -   -    Frederica_Whitfield  *             *         *        (ARG0*)    -
+bc/cnn/00/cnn_0005   1    6        want   VBP          (VP*)))    want  01   1    Frederica_Whitfield  *             *)        *           (V*)    -
+bc/cnn/00/cnn_0005   1    7        free    JJ       (S(ADJP*))      -    -   -    Frederica_Whitfield  *    (ARGM-ADV*)        *             *     -
+bc/cnn/00/cnn_0005   1    8          at    IN            (PP*       -    -   -    Frederica_Whitfield  *    (ARGM-LOC*         *             *     -
+bc/cnn/00/cnn_0005   1    9         CNN    NN            (NP*       -    -   -    Frederica_Whitfield  *             *         *             *   (30
+bc/cnn/00/cnn_0005   1   10         dot    NN               *      dot   -   -    Frederica_Whitfield  *             *         *             *     -
+bc/cnn/00/cnn_0005   1   11         com    NN             *)))      -    -   -    Frederica_Whitfield  *             *)        *             *    30)
+bc/cnn/00/cnn_0005   1   12          /.     .              *))      -    -   -    Frederica_Whitfield  *             *         *             *     -
+
+bc/cnn/00/cnn_0005   1   0          And    CC  (TOP(S*          -    -   -    Frederica_Whitfield  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0005   1   1        those    DT     (NP*)         -    -   -    Frederica_Whitfield  *        (ARG1*)   (187)
+bc/cnn/00/cnn_0005   1   2          are   VBP     (VP*          be  01   2    Frederica_Whitfield  *           (V*)      -
+bc/cnn/00/cnn_0005   1   3          the    DT     (NP*          -    -   -    Frederica_Whitfield  *        (ARG2*       -
+bc/cnn/00/cnn_0005   1   4    headlines   NNS       *))   headline   -   -    Frederica_Whitfield  *             *)      -
+bc/cnn/00/cnn_0005   1   5           /.     .       *))         -    -   -    Frederica_Whitfield  *             *       -
+
+bc/cnn/00/cnn_0005   1    0            I   PRP   (TOP(S(NP*)       -    -   -    Frederica_Whitfield         *    (ARG1*)        (36)
+bc/cnn/00/cnn_0005   1    1           'm   VBP         (VP*        be  01   2    Frederica_Whitfield         *       (V*)          -
+bc/cnn/00/cnn_0005   1    2     Patricia   NNP      (NP(NP*        -    -   -    Frederica_Whitfield  (PERSON*    (ARG2*           -
+bc/cnn/00/cnn_0005   1    3    Whitfield   NNP            *)       -    -   -    Frederica_Whitfield         *)        *           -
+bc/cnn/00/cnn_0005   1    4           at    IN         (PP*        -    -   -    Frederica_Whitfield         *         *           -
+bc/cnn/00/cnn_0005   1    5          the    DT      (NP(NP*        -    -   -    Frederica_Whitfield         *         *         (26
+bc/cnn/00/cnn_0005   1    6          CNN   NNP            *        -    -   -    Frederica_Whitfield      (ORG)        *           -
+bc/cnn/00/cnn_0005   1    7       center    NN            *)   center   -   2    Frederica_Whitfield         *         *           -
+bc/cnn/00/cnn_0005   1    8           in    IN         (PP*        -    -   -    Frederica_Whitfield         *         *           -
+bc/cnn/00/cnn_0005   1    9      Atlanta   NNP    (NP*))))))       -    -   -    Frederica_Whitfield      (GPE)        *)   (112)|26)
+bc/cnn/00/cnn_0005   1   10           /.     .           *))       -    -   -    Frederica_Whitfield         *         *           -
+
+bc/cnn/00/cnn_0005   1   0     Now    RB   (TOP(FRAG(ADVP*)  -   -   -    Frederica_Whitfield         *      -
+bc/cnn/00/cnn_0005   1   1    back    RB            (ADVP*   -   -   -    Frederica_Whitfield         *      -
+bc/cnn/00/cnn_0005   1   2      to    IN              (PP*   -   -   -    Frederica_Whitfield         *      -
+bc/cnn/00/cnn_0005   1   3    Wolf   NNP            (NP*)))  -   -   -    Frederica_Whitfield   (PERSON)   (16)
+bc/cnn/00/cnn_0005   1   4      /.     .                *))  -   -   -    Frederica_Whitfield         *      -
+
+bc/cnn/00/cnn_0005   1   0       Thanks   NNS   (TOP(FRAG(NP*)   thanks  01   1    Wolf_Blitzer         *           (V*)     -
+bc/cnn/00/cnn_0005   1   1         very    RB          (ADVP*        -    -   -    Wolf_Blitzer         *    (ARGM-EXT*      -
+bc/cnn/00/cnn_0005   1   2         much    RB               *)       -    -   -    Wolf_Blitzer         *             *)     -
+bc/cnn/00/cnn_0005   1   3    Frederica   NNP            (NP*)       -    -   -    Wolf_Blitzer   (PERSON)   (ARGM-DIS*)   (36)
+bc/cnn/00/cnn_0005   1   4           /.     .              *))       -    -   -    Wolf_Blitzer         *             *      -

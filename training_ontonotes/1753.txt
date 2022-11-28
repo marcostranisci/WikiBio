@@ -1,0 +1,557 @@
+bc/msnbc/00/msnbc_0001   9    0         Joining    VBG  (TOP(FRAG(VP*        join  04   4    Dan_Abrams         *           (V*)       *      *          -
+bc/msnbc/00/msnbc_0001   9    1              us    PRP           (NP*)         -    -   -    Dan_Abrams         *        (ARG1*)       *      *          -
+bc/msnbc/00/msnbc_0001   9    2             now     RB         (ADVP*)         -    -   -    Dan_Abrams         *    (ARGM-TMP*)       *      *          -
+bc/msnbc/00/msnbc_0001   9    3              to     TO         (S(VP*          -    -   -    Dan_Abrams         *    (ARGM-PRP*        *      *          -
+bc/msnbc/00/msnbc_0001   9    4          answer     VB           (VP*      answer  01   1    Dan_Abrams         *             *      (V*)     *          -
+bc/msnbc/00/msnbc_0001   9    5            some     DT        (NP(NP*)         -    -   -    Dan_Abrams         *             *   (ARG1*      *          -
+bc/msnbc/00/msnbc_0001   9    6              of     IN           (PP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9    7           those     DT           (NP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9    8       questions    NNS        *)))))))   question  01   1    Dan_Abrams         *             *)       *)   (V*)         -
+bc/msnbc/00/msnbc_0001   9    9             Jay    NNP     (NP(NP(NP*          -    -   -    Dan_Abrams  (PERSON*        (ARG0*   (ARG0*      *   (33|(139
+bc/msnbc/00/msnbc_0001   9   10         Sekulow    NNP              *)         -    -   -    Dan_Abrams         *)            *        *      *         33)
+bc/msnbc/00/msnbc_0001   9   11             the     DT        (NP(NP*          -    -   -    Dan_Abrams     (ORG*             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   12    Conservative     NN              *          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   13        American    NNP              *          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   14          Center    NNP              *)         -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   15             for     IN           (PP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   16             Law    NNP           (NP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   17             and     CC              *          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   18         Justice    NNP           *))))         -    -   -    Dan_Abrams         *)            *        *      *          -
+bc/msnbc/00/msnbc_0001   9   19             and     CC              *          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   20          Elliot    NNP        (NP(NP*          -    -   -    Dan_Abrams  (PERSON*             *        *      *        (52
+bc/msnbc/00/msnbc_0001   9   21        Minkford    NNP              *)         -    -   -    Dan_Abrams         *)            *        *      *          -
+bc/msnbc/00/msnbc_0001   9   22           legal     JJ        (NP(NP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   23        director     NN              *)   director   -   1    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   24             for     IN           (PP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   25             the     DT        (NP(NP*          -    -   -    Dan_Abrams     (ORG*             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   26         Liberal    NNP              *          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   27          People   NNPS              *)         -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   28             for     IN           (PP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   29             the     DT           (NP*          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   30        American    NNP              *          -    -   -    Dan_Abrams         *             *        *      *          -
+bc/msnbc/00/msnbc_0001   9   31             Way    NNP        *)))))))         -    -   -    Dan_Abrams         *)            *)       *)     *    139)|52)
+bc/msnbc/00/msnbc_0001   9   32              /.      .             *))         -    -   -    Dan_Abrams         *             *        *      *          -
+
+bc/msnbc/00/msnbc_0001   9    0          All    RB  (TOP(FRAG(ADVP*        -    -   -    Dan_Abrams  *    (ARGM-DIS*             *       -
+bc/msnbc/00/msnbc_0001   9    1        right    RB                *)       -    -   -    Dan_Abrams  *             *)            *       -
+bc/msnbc/00/msnbc_0001   9    2           uh    UH           (INTJ*)       -    -   -    Dan_Abrams  *    (ARGM-DIS*)            *       -
+bc/msnbc/00/msnbc_0001   9    3    gentlemen   NNS             (NP*)       -    -   -    Dan_Abrams  *    (ARGM-DIS*)            *    (139)
+bc/msnbc/00/msnbc_0001   9    4       thanks   NNS         (NP(NP*))   thanks  01   1    Dan_Abrams  *           (V*)            *       -
+bc/msnbc/00/msnbc_0001   9    5         very    RB           (ADVP*        -    -   -    Dan_Abrams  *    (ARGM-EXT*             *       -
+bc/msnbc/00/msnbc_0001   9    6         much    RB                *)       -    -   -    Dan_Abrams  *             *)            *       -
+bc/msnbc/00/msnbc_0001   9    7           uh    UH           (INTJ*)       -    -   -    Dan_Abrams  *    (ARGM-DIS*)            *       -
+bc/msnbc/00/msnbc_0001   9    8          for    IN             (PP*        -    -   -    Dan_Abrams  *        (ARG2*             *       -
+bc/msnbc/00/msnbc_0001   9    9       coming   VBG           (S(VP*      come  01   1    Dan_Abrams  *             *           (V*)      -
+bc/msnbc/00/msnbc_0001   9   10           on    RP         (PRT*))))       -    -   -    Dan_Abrams  *             *)   (ARGM-DIR*)      -
+bc/msnbc/00/msnbc_0001   9   11           /.     .               *))       -    -   -    Dan_Abrams  *             *             *       -
+
+bc/msnbc/00/msnbc_0001   9    0         Jay   NNP          (TOP(SQ(NP*)        -    -   -    Dan_Abrams   (PERSON)     *    (ARGM-DIS*)        *             *         *         *      *         *     (33)
+bc/msnbc/00/msnbc_0001   9    1          do   VBP                    *         do  01   -    Dan_Abrams         *    (V*)            *         *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    2         you   PRP                 (NP*)        -    -   -    Dan_Abrams         *      *        (ARG0*)   (ARG0*)            *         *         *      *         *     (33)
+bc/msnbc/00/msnbc_0001   9    3        have    VB                 (VP*       have  03   2    Dan_Abrams         *      *           (V*)        *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    4         any    DT              (NP(NP*         -    -   -    Dan_Abrams         *      *        (ARG1*         *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    5    problems   NNS                    *)   problem   -   1    Dan_Abrams         *      *             *         *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    6          uh    UH               (INTJ*)        -    -   -    Dan_Abrams         *      *             *         *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    7        with    IN                 (PP*         -    -   -    Dan_Abrams         *      *             *         *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    8     forcing   VBG            (S(VP(VP*      force  01   1    Dan_Abrams         *      *             *       (V*)            *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    9      Dobson   NNP                 (NP*)        -    -   -    Dan_Abrams   (PERSON)     *             *    (ARG1*)       (ARG1*)   (ARG0*)        *      *         *    (118)
+bc/msnbc/00/msnbc_0001   9   10          to    TO               (S(VP*         -    -   -    Dan_Abrams         *      *             *    (ARG2*             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   11        come    VB                 (VP*       come  01   1    Dan_Abrams         *      *             *         *           (V*)        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   12          in    RB           (ADVP*)))))        -    -   -    Dan_Abrams         *      *             *         *)   (ARGM-DIR*)        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   13         and    CC                    *         -    -   -    Dan_Abrams         *      *             *         *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   14         say    VB                 (VP*        say  01   1    Dan_Abrams         *      *             *         *             *       (V*)        *      *         *       -
+bc/msnbc/00/msnbc_0001   9   15         who    WP   (SBARQ(SBARQ(WHNP*)        -    -   -    Dan_Abrams         *      *             *         *             *    (ARG1*    (ARG0*)     *         *       -
+bc/msnbc/00/msnbc_0001   9   16        told   VBD               (S(VP*       tell  01   1    Dan_Abrams         *      *             *         *             *         *       (V*)     *         *       -
+bc/msnbc/00/msnbc_0001   9   17         you   PRP              (NP(NP*)        -    -   -    Dan_Abrams         *      *             *         *             *         *    (ARG2*)     *         *    (118)
+bc/msnbc/00/msnbc_0001   9   18        this    DT             (NP*)))))        -    -   -    Dan_Abrams         *      *             *         *             *         *    (ARG1*)     *         *    (140)
+bc/msnbc/00/msnbc_0001   9   19         and    CC                    *         -    -   -    Dan_Abrams         *      *             *         *             *         *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   20        what    WP         (SBARQ(WHNP*)        -    -   -    Dan_Abrams         *      *             *         *             *         *         *      *    (ARG1*)      -
+bc/msnbc/00/msnbc_0001   9   21         did   VBD                 (SQ*         do  01   -    Dan_Abrams         *      *             *         *             *         *         *    (V*)        *       -
+bc/msnbc/00/msnbc_0001   9   22        Rove   NNP                 (NP*)        -    -   -    Dan_Abrams   (PERSON)     *             *         *             *         *         *      *    (ARG0*)    (88)
+bc/msnbc/00/msnbc_0001   9   23         say    VB                 (VP*        say  01   1    Dan_Abrams         *      *             *         *             *         *         *      *       (V*)      -
+bc/msnbc/00/msnbc_0001   9   24          to    IN                 (PP*         -    -   -    Dan_Abrams         *      *             *         *             *         *         *      *    (ARG2*       -
+bc/msnbc/00/msnbc_0001   9   25         you   PRP      (NP*))))))))))))        -    -   -    Dan_Abrams         *      *             *)        *             *         *)        *      *         *)   (118)
+bc/msnbc/00/msnbc_0001   9   26          /?     .                   *))        -    -   -    Dan_Abrams         *      *             *         *             *         *         *      *         *       -
+
+bc/msnbc/00/msnbc_0001   9   0        Well    UH   (TOP(S(INTJ*)         -    -   -    Jay_Sekulow      *      *        *     -
+bc/msnbc/00/msnbc_0001   9   1        look    VB         (INTJ*)       look  09   1    Jay_Sekulow      *    (V*)       *     -
+bc/msnbc/00/msnbc_0001   9   2         the    DT           (NP*          -    -   -    Jay_Sekulow      *      *   (ARG0*   (29
+bc/msnbc/00/msnbc_0001   9   3      Senate   NNP              *)         -    -   -    Jay_Sekulow   (ORG)     *        *)   29)
+bc/msnbc/00/msnbc_0001   9   4         has   VBZ           (VP*        have  03   2    Jay_Sekulow      *      *      (V*)    -
+bc/msnbc/00/msnbc_0001   9   5    subpoena    NN           (NP*    subpoena   -   -    Jay_Sekulow      *      *   (ARG1*     -
+bc/msnbc/00/msnbc_0001   9   6       power    NN             *))      power   -   -    Jay_Sekulow      *      *        *)    -
+bc/msnbc/00/msnbc_0001   9   7          /.     .             *))         -    -   -    Jay_Sekulow      *      *        *     -
+
+bc/msnbc/00/msnbc_0001   9   0           they   PRP    (TOP(S(NP*)     -    -   -    Jay_Sekulow  *        (ARG0*)            *     (29)
+bc/msnbc/00/msnbc_0001   9   1          could    MD          (VP*      -    -   -    Jay_Sekulow  *    (ARGM-MOD*)            *       -
+bc/msnbc/00/msnbc_0001   9   2            ask    VB          (VP*     ask  02   2    Jay_Sekulow  *           (V*)            *       -
+bc/msnbc/00/msnbc_0001   9   3            him   PRP          (NP*)     -    -   -    Jay_Sekulow  *        (ARG2*)       (ARG1*)   (118)
+bc/msnbc/00/msnbc_0001   9   4             to    TO        (S(VP*      -    -   -    Jay_Sekulow  *        (ARG1*             *       -
+bc/msnbc/00/msnbc_0001   9   5           come    VB          (VP*    come  01   1    Jay_Sekulow  *             *           (V*)      -
+bc/msnbc/00/msnbc_0001   9   6             in    RB        (ADVP*)     -    -   -    Jay_Sekulow  *             *    (ARGM-DIR*)      -
+bc/msnbc/00/msnbc_0001   9   7    voluntarily    RB   (ADVP*))))))     -    -   -    Jay_Sekulow  *             *)   (ARGM-MNR*)      -
+bc/msnbc/00/msnbc_0001   9   8             /.     .            *))     -    -   -    Jay_Sekulow  *             *             *       -
+
+bc/msnbc/00/msnbc_0001   9    0        They   PRP   (TOP(S(NP*)         -    -   -    Jay_Sekulow  *        (ARG0*)            *     (29)
+bc/msnbc/00/msnbc_0001   9    1       could    MD         (VP*          -    -   -    Jay_Sekulow  *    (ARGM-MOD*)            *       -
+bc/msnbc/00/msnbc_0001   9    2         ask    VB         (VP*         ask  02   2    Jay_Sekulow  *           (V*)            *       -
+bc/msnbc/00/msnbc_0001   9    3         him   PRP         (NP*)         -    -   -    Jay_Sekulow  *        (ARG2*)       (ARG1*)   (118)
+bc/msnbc/00/msnbc_0001   9    4          to    TO       (S(VP*          -    -   -    Jay_Sekulow  *        (ARG1*             *       -
+bc/msnbc/00/msnbc_0001   9    5        come    VB         (VP*        come  01   1    Jay_Sekulow  *             *           (V*)      -
+bc/msnbc/00/msnbc_0001   9    6          in    RB       (ADVP*)         -    -   -    Jay_Sekulow  *             *    (ARGM-DIR*)      -
+bc/msnbc/00/msnbc_0001   9    7     through    IN         (PP*          -    -   -    Jay_Sekulow  *             *    (ARGM-MNR*       -
+bc/msnbc/00/msnbc_0001   9    8           a    DT         (NP*          -    -   -    Jay_Sekulow  *             *             *       -
+bc/msnbc/00/msnbc_0001   9    9    subpoena    NN      *)))))))   subpoena   -   -    Jay_Sekulow  *             *)            *)      -
+bc/msnbc/00/msnbc_0001   9   10          /.     .           *))         -    -   -    Jay_Sekulow  *             *             *       -
+
+bc/msnbc/00/msnbc_0001   9    0             They   PRP         (TOP(S(NP*)            -    -    -    Jay_Sekulow         *             *            *             *             *        (ARG0*)   (29)
+bc/msnbc/00/msnbc_0001   9    1              can    MD               (VP*             -    -    -    Jay_Sekulow         *             *            *             *             *    (ARGM-MOD*)     -
+bc/msnbc/00/msnbc_0001   9    2             also    RB             (ADVP*)            -    -    -    Jay_Sekulow         *             *            *             *             *    (ARGM-ADV*)     -
+bc/msnbc/00/msnbc_0001   9    3            which   WDT        (SBAR(WHNP*)            -    -    -    Jay_Sekulow         *        (ARG1*)           *             *             *    (ARGM-ADV*      -
+bc/msnbc/00/msnbc_0001   9    4             will    MD             (S(VP*             -    -    -    Jay_Sekulow         *    (ARGM-MOD*)           *             *             *             *      -
+bc/msnbc/00/msnbc_0001   9    5         probably    RB             (ADVP*)            -    -    -    Jay_Sekulow         *    (ARGM-ADV*)           *             *             *             *      -
+bc/msnbc/00/msnbc_0001   9    6           happen    VB               (VP*         happen  01    1    Jay_Sekulow         *           (V*)           *             *             *             *      -
+bc/msnbc/00/msnbc_0001   9    7          through    IN               (PP*             -    -    -    Jay_Sekulow         *    (ARGM-MNR*            *             *             *             *      -
+bc/msnbc/00/msnbc_0001   9    8              the    DT            (NP(NP*             -    -    -    Jay_Sekulow         *             *            *        (ARG1*             *             *      -
+bc/msnbc/00/msnbc_0001   9    9    investigative    JJ                  *             -    -    -    Jay_Sekulow         *             *       (ARG1*)            *             *             *      -
+bc/msnbc/00/msnbc_0001   9   10          process    NN                  *)       process  01    1    Jay_Sekulow         *             *          (V*)            *)            *             *      -
+bc/msnbc/00/msnbc_0001   9   11             that   WDT        (SBAR(WHNP*)            -    -    -    Jay_Sekulow         *             *   (ARGM-ADJ*      (R-ARG1*)            *             *      -
+bc/msnbc/00/msnbc_0001   9   12               's   VBZ             (S(VP*             be  01    1    Jay_Sekulow         *             *            *           (V*)            *             *      -
+bc/msnbc/00/msnbc_0001   9   13         probably    RB             (ADVP*)            -    -    -    Jay_Sekulow         *             *            *    (ARGM-ADV*)            *             *      -
+bc/msnbc/00/msnbc_0001   9   14            under    IN               (PP*             -    -    -    Jay_Sekulow         *             *            *        (ARG2*             *             *      -
+bc/msnbc/00/msnbc_0001   9   15              way    NN              (NP*))           way   -   10    Jay_Sekulow         *             *            *             *)            *             *      -
+bc/msnbc/00/msnbc_0001   9   16               as    IN             (SBAR*             -    -    -    Jay_Sekulow         *             *            *    (ARGM-TMP*             *             *      -
+bc/msnbc/00/msnbc_0001   9   17               we   PRP             (S(NP*)            -    -    -    Jay_Sekulow         *             *            *             *        (ARG0*)            *      -
+bc/msnbc/00/msnbc_0001   9   18            speak   VBP               (VP*          speak  01    1    Jay_Sekulow         *             *            *             *           (V*)            *      -
+bc/msnbc/00/msnbc_0001   9   19              Dan   NNP   (NP*)))))))))))))            -    -    -    Jay_Sekulow   (PERSON)            *)           *)            *)   (ARGM-DIS*)            *)   (28)
+bc/msnbc/00/msnbc_0001   9   20             find    VB               (VP*           find  03    1    Jay_Sekulow         *             *            *             *             *           (V*)     -
+bc/msnbc/00/msnbc_0001   9   21              out    RP              (PRT*)            -    -    -    Jay_Sekulow         *             *            *             *             *             *      -
+bc/msnbc/00/msnbc_0001   9   22            about    IN               (PP*             -    -    -    Jay_Sekulow         *             *            *             *             *        (ARG1*      -
+bc/msnbc/00/msnbc_0001   9   23             this    DT               (NP*             -    -    -    Jay_Sekulow         *             *            *             *             *             *   (140
+bc/msnbc/00/msnbc_0001   9   24      information    NN               *))))   information   -    1    Jay_Sekulow         *             *            *             *             *             *)   140)
+bc/msnbc/00/msnbc_0001   9   25               /.     .                 *))            -    -    -    Jay_Sekulow         *             *            *             *             *             *      -
+
+bc/msnbc/00/msnbc_0001   9   0          But    CC   (TOP(S*           -    -   -    Jay_Sekulow  *    (ARGM-DIS*)        *      -
+bc/msnbc/00/msnbc_0001   9   1          let    VB      (VP*          let  01   1    Jay_Sekulow  *           (V*)        *      -
+bc/msnbc/00/msnbc_0001   9   2           me   PRP    (S(NP*)          -    -   -    Jay_Sekulow  *        (ARG1*    (ARG0*)   (33)
+bc/msnbc/00/msnbc_0001   9   3         tell    VB      (VP*         tell  01   1    Jay_Sekulow  *             *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   4          you   PRP      (NP*)          -    -   -    Jay_Sekulow  *             *    (ARG2*)   (28)
+bc/msnbc/00/msnbc_0001   9   5    something    NN   (NP*))))   something   -   4    Jay_Sekulow  *             *)   (ARG1*)     -
+bc/msnbc/00/msnbc_0001   9   6           /.     .        *))          -    -   -    Jay_Sekulow  *             *         *      -
+
+bc/msnbc/00/msnbc_0001   9    0           and    CC       (TOP(S*           -    -   -    Jay_Sekulow      *      *           *             *        *      *         *    (ARGM-DIS*)       *      -
+bc/msnbc/00/msnbc_0001   9    1            as    IN          (PP*           -    -   -    Jay_Sekulow      *      *           *             *        *      *         *    (ARGM-MNR*        *      -
+bc/msnbc/00/msnbc_0001   9    2       someone    NN    (NP(NP(NP*)          -    -   -    Jay_Sekulow      *      *      (ARG1*)       (ARG1*)       *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9    3          that   WDT   (SBAR(WHNP*)          -    -   -    Jay_Sekulow      *      *    (R-ARG1*)     (R-ARG1*)       *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9    4            's   VBZ        (S(VP*           be  03   -    Jay_Sekulow      *    (V*)          *             *        *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9    5          been   VBN          (VP*           be  01   1    Jay_Sekulow      *      *         (V*)            *        *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9    6          very    RB        (ADJP*           -    -   -    Jay_Sekulow      *      *      (ARG2*    (ARGM-ADV*)       *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9    7      involved   VBN             *      involve  01   -    Jay_Sekulow      *      *           *           (V*)       *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9    8            in    IN          (PP*           -    -   -    Jay_Sekulow      *      *           *        (ARG2*        *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9    9          this    DT       (NP(NP*           -    -   -    Jay_Sekulow      *      *           *             *        *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9   10       process    NN             *)     process  01   1    Jay_Sekulow      *      *           *             *      (V*)     *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9   11            of    IN          (PP*           -    -   -    Jay_Sekulow      *      *           *             *   (ARG1*      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9   12      judicial    JJ          (NP*           -    -   -    Jay_Sekulow      *      *           *             *        *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9   13     selection    NN    *))))))))))   selection   -   1    Jay_Sekulow      *      *           *)            *)       *)     *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9   14           and    CC             *           -    -   -    Jay_Sekulow      *      *           *             *        *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9   15       someone    NN       (NP(NP*)          -    -   -    Jay_Sekulow      *      *           *             *        *      *    (ARG0*)            *        *      -
+bc/msnbc/00/msnbc_0001   9   16            's   VBZ   (SBAR(S(VP*           be  03   -    Jay_Sekulow      *      *           *             *        *    (V*)        *             *        *      -
+bc/msnbc/00/msnbc_0001   9   17        worked   VBN          (VP*         work  01   1    Jay_Sekulow      *      *           *             *        *      *       (V*)            *        *      -
+bc/msnbc/00/msnbc_0001   9   18          with    IN          (PP*           -    -   -    Jay_Sekulow      *      *           *             *        *      *    (ARG3*             *        *      -
+bc/msnbc/00/msnbc_0001   9   19           the    DT          (NP*           -    -   -    Jay_Sekulow  (GPE*      *           *             *        *      *         *             *        *   (185
+bc/msnbc/00/msnbc_0001   9   20         White   NNP             *           -    -   -    Jay_Sekulow      *      *           *             *        *      *         *             *        *      -
+bc/msnbc/00/msnbc_0001   9   21         House   NNP     *)))))))))          -    -   -    Jay_Sekulow      *)     *           *             *        *      *         *)            *)       *    185)
+bc/msnbc/00/msnbc_0001   9   22             I   PRP          (NP*)          -    -   -    Jay_Sekulow      *      *           *             *        *      *         *        (ARG0*)       *    (33)
+bc/msnbc/00/msnbc_0001   9   23           had   VBD          (VP*         have  03   2    Jay_Sekulow      *      *           *             *        *      *         *           (V*)       *      -
+bc/msnbc/00/msnbc_0001   9   24            no    DT        (S(NP*           -    -   -    Jay_Sekulow      *      *           *             *        *      *         *        (ARG1*   (ARG1*      -
+bc/msnbc/00/msnbc_0001   9   25    assurances   NNS             *)          -    -   -    Jay_Sekulow      *      *           *             *        *      *         *             *        *)     -
+bc/msnbc/00/msnbc_0001   9   26         given   VBN        (VP*)))        give  01   -    Jay_Sekulow      *      *           *             *        *      *         *             *)     (V*)     -
+bc/msnbc/00/msnbc_0001   9   27            /.     .            *))          -    -   -    Jay_Sekulow      *      *           *             *        *      *         *             *        *      -
+
+bc/msnbc/00/msnbc_0001   9    0        and    CC       (TOP(S*         -    -   -    Jay_Sekulow         *    (ARGM-DIS*)     *      -
+bc/msnbc/00/msnbc_0001   9    1          I   PRP          (NP*)        -    -   -    Jay_Sekulow         *        (ARG0*)     *    (33)
+bc/msnbc/00/msnbc_0001   9    2         ca    MD          (VP*         -    -   -    Jay_Sekulow         *    (ARGM-MOD*)     *      -
+bc/msnbc/00/msnbc_0001   9    3        n't    RB             *         -    -   -    Jay_Sekulow         *    (ARGM-NEG*)     *      -
+bc/msnbc/00/msnbc_0001   9    4    imagine    VB          (VP*    imagine  01   1    Jay_Sekulow         *           (V*)     *      -
+bc/msnbc/00/msnbc_0001   9    5       that    IN        (SBAR*         -    -   -    Jay_Sekulow         *        (ARG1*      *      -
+bc/msnbc/00/msnbc_0001   9    6         uh    UH        (INTJ*)        -    -   -    Jay_Sekulow         *             *      *      -
+bc/msnbc/00/msnbc_0001   9    7        Jim   NNP        (S(NP*         -    -   -    Jay_Sekulow  (PERSON*             *      *   (118
+bc/msnbc/00/msnbc_0001   9    8     Dobson   NNP             *)        -    -   -    Jay_Sekulow         *)            *      *    118)
+bc/msnbc/00/msnbc_0001   9    9        did   VBD          (VP*         do  01   -    Jay_Sekulow         *             *    (V*)     -
+bc/msnbc/00/msnbc_0001   9   10     either    RB   (ADVP*))))))        -    -   -    Jay_Sekulow         *             *)     *      -
+bc/msnbc/00/msnbc_0001   9   11         /.     .            *))        -    -   -    Jay_Sekulow         *             *      *      -
+
+bc/msnbc/00/msnbc_0001   9    0              I    PRP            (TOP(S(NP*)           -    -    -    Jay_Sekulow         *    (ARG0*)     *         *         *             *        *            *      *             *                    *             *      *     (33)
+bc/msnbc/00/msnbc_0001   9    1          think    VBP                  (VP*         think  01    1    Jay_Sekulow         *       (V*)     *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9    2           some     DT        (SBAR(S(NP(NP*)           -    -    -    Jay_Sekulow         *    (ARG1*      *         *         *             *   (ARG1*            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9    3             of     IN                  (PP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9    4            the     DT               (NP(NP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9    5         things    NNS                     *)        thing   -    1    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9    6           that    WDT           (SBAR(WHNP*)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9    7             he    PRP                (S(NP*)           -    -    -    Jay_Sekulow         *         *      *    (ARG0*)        *             *        *            *      *             *                    *             *      *    (118)
+bc/msnbc/00/msnbc_0001   9    8             's    VBZ                  (VP*            be  03    -    Jay_Sekulow         *         *    (V*)        *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9    9        talking    VBG                  (VP*          talk  01    1    Jay_Sekulow         *         *      *       (V*)        *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   10          about     IN           (PP*))))))))           -    -    -    Jay_Sekulow         *         *      *    (ARG1*)        *             *        *)           *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   11            and     CC                 (PRN*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   12              I    PRP                (S(NP*)           -    -    -    Jay_Sekulow         *         *      *         *    (ARG0*)            *        *            *      *             *                    *             *      *     (33)
+bc/msnbc/00/msnbc_0001   9   13          think    VBP                  (VP*         think  01    1    Jay_Sekulow         *         *      *         *       (V*)            *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   14           this     DT           (SBAR(S(NP*)           -    -    -    Jay_Sekulow         *         *      *         *    (ARG1*        (ARG1*)       *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   15           will     MD                  (VP*            -    -    -    Jay_Sekulow         *         *      *         *         *    (ARGM-MOD*)       *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   16           come     VB                  (VP*          come  09    9    Jay_Sekulow         *         *      *         *         *           (V*)       *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   17            out     RP                 (PRT*)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   18             in     IN                  (PP*            -    -    -    Jay_Sekulow         *         *      *         *         *    (ARGM-TMP*        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   19            due     JJ                  (NP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   20         course     NN             *)))))))))       course   -    2    Jay_Sekulow         *         *      *         *         *)            *)       *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   21            are    VBP                  (VP*            be  01    1    Jay_Sekulow         *         *      *         *         *             *      (V*)           *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   22            the     DT               (NP(NP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *   (ARG2*            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   23     statements    NNS                     *)    statement  01    3    Jay_Sekulow         *         *      *         *         *             *        *          (V*)     *    (ARGM-PRR*)                   *             *      *       -
+bc/msnbc/00/msnbc_0001   9   24           that    WDT           (SBAR(WHNP*)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *   (ARGM-ADJ*      *    (ARGM-PRX*)                   *             *      *       -
+bc/msnbc/00/msnbc_0001   9   25           were    VBD                (S(VP*            be  03    -    Jay_Sekulow         *         *      *         *         *             *        *            *    (V*)            *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   26           made    VBN                  (VP*          make   LV   1    Jay_Sekulow         *         *      *         *         *             *        *            *      *           (V*)                   *             *      *       -
+bc/msnbc/00/msnbc_0001   9   27             by     IN                  (PP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   28         Nathan    NNP            (NP(NP(NP*            -    -    -    Jay_Sekulow  (PERSON*         *      *         *         *             *        *            *      *             *               (ARG1*             *      *    (146
+bc/msnbc/00/msnbc_0001   9   29          Hecht    NNP                     *)           -    -    -    Jay_Sekulow         *)        *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   30            her   PRP$                  (NP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *     (72)
+bc/msnbc/00/msnbc_0001   9   31         friend     NN                    *))       friend   -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *)            *      *       -
+bc/msnbc/00/msnbc_0001   9   32            who     WP           (SBAR(WHNP*)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *             (R-ARG1*)            *      *       -
+bc/msnbc/00/msnbc_0001   9   33             's    VBZ                (S(VP*            be  01    1    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                  (V*)            *      *       -
+bc/msnbc/00/msnbc_0001   9   34             of     IN                  (PP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *           (ARGM-DIS*             *      *       -
+bc/msnbc/00/msnbc_0001   9   35         course     NN                 (NP*))       course   -   13    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *)            *      *       -
+bc/msnbc/00/msnbc_0001   9   36              a     DT               (NP(NP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *               (ARG2*        (ARG1*      *       -
+bc/msnbc/00/msnbc_0001   9   37        justice     NN                     *)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   38             on     IN                  (PP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   39            the     DT                  (NP*            -    -    -    Jay_Sekulow     (ORG*         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   40          Texas    NNP                     *            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   41        Supreme    NNP                     *            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   42          Court    NNP                   *)))           -    -    -    Jay_Sekulow         *)        *      *         *         *             *        *            *      *             *                    *)            *)     *       -
+bc/msnbc/00/msnbc_0001   9   43          which    WDT           (SBAR(WHNP*)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *    (ARGM-ADV(R-ARG2*)     (R-ARG1*)     *       -
+bc/msnbc/00/msnbc_0001   9   44            was    VBD                (S(VP*            be  01    4    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *           (V*)     *       -
+bc/msnbc/00/msnbc_0001   9   45             on     IN                  (PP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *        (ARG2*      *       -
+bc/msnbc/00/msnbc_0001   9   46            the     DT                  (NP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   47           news     NN                    *))         news   -    1    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *)     *       -
+bc/msnbc/00/msnbc_0001   9   48             um     UH                (INTJ*)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *    (ARGM-DIS*)     *       -
+bc/msnbc/00/msnbc_0001   9   49          right     RB             (PP(ADVP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *    (ARGM-TMP*      *       -
+bc/msnbc/00/msnbc_0001   9   50    immediately     RB                     *)           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   51          after     IN                     *            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   52            the     DT                  (NP*            -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+bc/msnbc/00/msnbc_0001   9   53     nomination     NN   *)))))))))))))))))))   nomination  01    2    Jay_Sekulow         *         *)     *         *         *             *        *)           *)     *             *                    *)            *)   (V*)    146)
+bc/msnbc/00/msnbc_0001   9   54             /.      .                    *))           -    -    -    Jay_Sekulow         *         *      *         *         *             *        *            *      *             *                    *             *      *       -
+
+bc/msnbc/00/msnbc_0001   9   0          so    RB   (TOP(S(ADVP*)         -    -   -    Jay_Sekulow  *             *             *   -
+bc/msnbc/00/msnbc_0001   9   1       there    EX           (NP*)         -    -   -    Jay_Sekulow  *             *             *   -
+bc/msnbc/00/msnbc_0001   9   2         was   VBD           (VP*          be  01   3    Jay_Sekulow  *           (V*)            *   -
+bc/msnbc/00/msnbc_0001   9   3         n't    RB              *          -    -   -    Jay_Sekulow  *    (ARGM-NEG*)            *   -
+bc/msnbc/00/msnbc_0001   9   4         any    DT           (NP*          -    -   -    Jay_Sekulow  *        (ARG1*             *   -
+bc/msnbc/00/msnbc_0001   9   5       great    JJ              *          -    -   -    Jay_Sekulow  *             *    (ARGM-EXT*)  -
+bc/msnbc/00/msnbc_0001   9   6    surprise    NN              *)   surprise  01   2    Jay_Sekulow  *             *)          (V*)  -
+bc/msnbc/00/msnbc_0001   9   7       there    RB        (ADVP*))         -    -   -    Jay_Sekulow  *        (ARG2*)            *   -
+bc/msnbc/00/msnbc_0001   9   8          /.     .             *))         -    -   -    Jay_Sekulow  *             *             *   -
+
+bc/msnbc/00/msnbc_0001   9    0              I   PRP   (TOP(S(NP*)            -    -   -    Jay_Sekulow         *        (ARG0*)        *    (33)
+bc/msnbc/00/msnbc_0001   9    1             ca    MD         (VP*             -    -   -    Jay_Sekulow         *    (ARGM-MOD*)        *      -
+bc/msnbc/00/msnbc_0001   9    2            n't    RB            *             -    -   -    Jay_Sekulow         *    (ARGM-NEG*)        *      -
+bc/msnbc/00/msnbc_0001   9    3        imagine    VB         (VP*        imagine  01   1    Jay_Sekulow         *           (V*)        *      -
+bc/msnbc/00/msnbc_0001   9    4             uh    UH       (INTJ*)            -    -   -    Jay_Sekulow         *    (ARGM-DIS*)        *      -
+bc/msnbc/00/msnbc_0001   9    5           that    IN       (SBAR*             -    -   -    Jay_Sekulow         *        (ARG1*         *      -
+bc/msnbc/00/msnbc_0001   9    6             uh    UH       (INTJ*)            -    -   -    Jay_Sekulow         *             *         *      -
+bc/msnbc/00/msnbc_0001   9    7           Karl   NNP    (S(NP(NP*             -    -   -    Jay_Sekulow  (PERSON*             *    (ARG0*    (88
+bc/msnbc/00/msnbc_0001   9    8           Rove   NNP            *)            -    -   -    Jay_Sekulow         *)            *         *     88)
+bc/msnbc/00/msnbc_0001   9    9             or    CC            *             -    -   -    Jay_Sekulow         *             *         *      -
+bc/msnbc/00/msnbc_0001   9   10         anyone    NN      (NP(NP*             -    -   -    Jay_Sekulow         *             *         *      -
+bc/msnbc/00/msnbc_0001   9   11           else    RB            *)            -    -   -    Jay_Sekulow         *             *         *      -
+bc/msnbc/00/msnbc_0001   9   12             at    IN         (PP*             -    -   -    Jay_Sekulow         *             *         *      -
+bc/msnbc/00/msnbc_0001   9   13            the    DT         (NP*             -    -   -    Jay_Sekulow     (GPE*             *         *   (185
+bc/msnbc/00/msnbc_0001   9   14          White   NNP            *             -    -   -    Jay_Sekulow         *             *         *      -
+bc/msnbc/00/msnbc_0001   9   15          House   NNP         *))))            -    -   -    Jay_Sekulow         *)            *         *)   185)
+bc/msnbc/00/msnbc_0001   9   16           gave   VBD         (VP*           give  01   2    Jay_Sekulow         *             *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   17    information    NN    (NP*))))))   information   -   1    Jay_Sekulow         *             *)   (ARG1*)     -
+bc/msnbc/00/msnbc_0001   9   18             /.     .           *))            -    -   -    Jay_Sekulow         *             *         *      -
+
+bc/msnbc/00/msnbc_0001   9   0    Which   WDT   (TOP(SBAR(WHNP*)   -    -   -    Dan_Abrams  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0001   9   1       is   VBZ            (S(VP*    be  01   1    Dan_Abrams  *       (V*)  -
+bc/msnbc/00/msnbc_0001   9   2     what    WP            (NP*)))   -    -   -    Dan_Abrams  *    (ARG2*)  -
+bc/msnbc/00/msnbc_0001   9   3       /?     .                *))   -    -   -    Dan_Abrams  *         *   -
+
+bc/msnbc/00/msnbc_0001   9   0          Uh    UH   (TOP(S(INTJ*)       -    -   -    Jay_Sekulow  *    (ARGM-DIS*)        *      -
+bc/msnbc/00/msnbc_0001   9   1        they   PRP           (NP*)       -    -   -    Jay_Sekulow  *        (ARG0*)        *      -
+bc/msnbc/00/msnbc_0001   9   2      talked   VBD           (VP*      talk  01   1    Jay_Sekulow  *           (V*)        *      -
+bc/msnbc/00/msnbc_0001   9   3       about    IN           (PP*        -    -   -    Jay_Sekulow  *        (ARG1*         *      -
+bc/msnbc/00/msnbc_0001   9   4        that    IN         (SBAR*        -    -   -    Jay_Sekulow  *             *         *      -
+bc/msnbc/00/msnbc_0001   9   5         she   PRP         (S(NP*)       -    -   -    Jay_Sekulow  *             *    (ARG0*)   (72)
+bc/msnbc/00/msnbc_0001   9   6    attended   VBD           (VP*    attend  01   1    Jay_Sekulow  *             *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   7           a    DT           (NP*        -    -   -    Jay_Sekulow  *             *    (ARG1*      -
+bc/msnbc/00/msnbc_0001   9   8      church    NN         *))))))   church   -   -    Jay_Sekulow  *             *)        *)     -
+bc/msnbc/00/msnbc_0001   9   9          /.     .             *))       -    -   -    Jay_Sekulow  *             *         *      -
+
+bc/msnbc/00/msnbc_0001   9   0              it    PRP   (TOP(S(NP*)     -    -   -    Jay_Sekulow  *    (ARG1*)        *    (96)
+bc/msnbc/00/msnbc_0001   9   1             was    VBD         (VP*      be  01   1    Jay_Sekulow  *       (V*)        *      -
+bc/msnbc/00/msnbc_0001   9   2             her   PRP$         (NP*      -    -   -    Jay_Sekulow  *    (ARG2*         *    (72)
+bc/msnbc/00/msnbc_0001   9   3           faith     NN       (ADJP*      -    -   -    Jay_Sekulow  *         *    (ARG2*)     -
+bc/msnbc/00/msnbc_0001   9   4           based    VBN            *)   base  02   -    Jay_Sekulow  *         *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   5    committments    NNS           *))     -    -   -    Jay_Sekulow  *         *)   (ARG1*)     -
+bc/msnbc/00/msnbc_0001   9   6              /.      .           *))     -    -   -    Jay_Sekulow  *         *         *      -
+
+bc/msnbc/00/msnbc_0001   9   0        uh    UH   (TOP(S(INTJ*)     -    -   -    Jay_Sekulow         *    (ARGM-DIS*)        *      -
+bc/msnbc/00/msnbc_0001   9   1      that    DT           (NP*)     -    -   -    Jay_Sekulow         *        (ARG1*)        *    (96)
+bc/msnbc/00/msnbc_0001   9   2        's   VBZ           (VP*      be  01   2    Jay_Sekulow         *           (V*)        *      -
+bc/msnbc/00/msnbc_0001   9   3      what    WP    (SBAR(WHNP*)     -    -   -    Jay_Sekulow         *        (ARG2*         *      -
+bc/msnbc/00/msnbc_0001   9   4    Nathan   NNP         (S(NP*      -    -   -    Jay_Sekulow  (PERSON*             *    (ARG0*   (146
+bc/msnbc/00/msnbc_0001   9   5     Hecht   NNP              *)     -    -   -    Jay_Sekulow         *)            *         *)   146)
+bc/msnbc/00/msnbc_0001   9   6    talked   VBD           (VP*    talk  01   1    Jay_Sekulow         *             *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   7     about    IN       (PP*)))))     -    -   -    Jay_Sekulow         *             *)   (ARG1*)     -
+bc/msnbc/00/msnbc_0001   9   8        /.     .             *))     -    -   -    Jay_Sekulow         *             *         *      -
+
+bc/msnbc/00/msnbc_0001   9   0             and    CC  (TOP(S*      -    -   -    Jay_Sekulow  *    (ARGM-DIS*)        *      -
+bc/msnbc/00/msnbc_0001   9   1          talked   VBD     (VP*    talk  01   1    Jay_Sekulow  *           (V*)        *      -
+bc/msnbc/00/msnbc_0001   9   2           about    IN     (PP*      -    -   -    Jay_Sekulow  *        (ARG1*         *      -
+bc/msnbc/00/msnbc_0001   9   3            that    IN   (SBAR*      -    -   -    Jay_Sekulow  *             *         *      -
+bc/msnbc/00/msnbc_0001   9   4             she   PRP   (S(NP*)     -    -   -    Jay_Sekulow  *             *    (ARG1*)   (72)
+bc/msnbc/00/msnbc_0001   9   5              's   VBZ     (VP*      be  01   1    Jay_Sekulow  *             *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   6               a    DT     (NP*      -    -   -    Jay_Sekulow  *             *    (ARG2*      -
+bc/msnbc/00/msnbc_0001   9   7    conservative    NN   *))))))     -    -   -    Jay_Sekulow  *             *)        *)     -
+bc/msnbc/00/msnbc_0001   9   8              /.     .       *))     -    -   -    Jay_Sekulow  *             *         *      -
+
+bc/msnbc/00/msnbc_0001   9    0           But    CC         (TOP(S*       -    -   -    Jay_Sekulow  *      *    (ARGM-DIS*)     *      *             *     -
+bc/msnbc/00/msnbc_0001   9    1          look    VB          (INTJ*)    look  09   1    Jay_Sekulow  *    (V*)   (ARGM-DIS*)     *      *             *     -
+bc/msnbc/00/msnbc_0001   9    2            no    DT            (NP*       -    -   -    Jay_Sekulow  *      *        (ARG0*      *      *             *     -
+bc/msnbc/00/msnbc_0001   9    3           one    NN               *)     one   -   2    Jay_Sekulow  *      *             *)     *      *             *     -
+bc/msnbc/00/msnbc_0001   9    4         knows   VBZ            (VP*     know  01   1    Jay_Sekulow  *      *           (V*)     *      *             *     -
+bc/msnbc/00/msnbc_0001   9    5           how   WRB   (SBAR(WHADVP*)      -    -   -    Jay_Sekulow  *      *        (ARG1*      *      *    (ARGM-MNR*)    -
+bc/msnbc/00/msnbc_0001   9    6          this    DT          (S(NP*       -    -   -    Jay_Sekulow  *      *             *      *      *        (ARG0*   (72
+bc/msnbc/00/msnbc_0001   9    7         woman    NN               *)   woman   -   1    Jay_Sekulow  *      *             *      *      *             *)   72)
+bc/msnbc/00/msnbc_0001   9    8            's   VBZ            (VP*       be  03   -    Jay_Sekulow  *      *             *    (V*)     *             *     -
+bc/msnbc/00/msnbc_0001   9    9         going   VBG            (VP*       go  04   7    Jay_Sekulow  *      *             *      *    (V*)            *     -
+bc/msnbc/00/msnbc_0001   9   10            to    TO          (S(VP*       -    -   -    Jay_Sekulow  *      *             *      *      *             *     -
+bc/msnbc/00/msnbc_0001   9   11          vote    VB            (VP*     vote  01   1    Jay_Sekulow  *      *             *      *      *           (V*)    -
+bc/msnbc/00/msnbc_0001   9   12            on    IN            (PP*       -    -   -    Jay_Sekulow  *      *             *      *      *        (ARG1*     -
+bc/msnbc/00/msnbc_0001   9   13             a    DT            (NP*       -    -   -    Jay_Sekulow  *      *             *      *      *             *     -
+bc/msnbc/00/msnbc_0001   9   14    particular    JJ               *       -    -   -    Jay_Sekulow  *      *             *      *      *             *     -
+bc/msnbc/00/msnbc_0001   9   15          case    NN      *))))))))))    case   -   2    Jay_Sekulow  *      *             *)     *      *             *)    -
+bc/msnbc/00/msnbc_0001   9   16            /.     .              *))      -    -   -    Jay_Sekulow  *      *             *      *      *             *     -
+
+bc/msnbc/00/msnbc_0001   9    0               I   PRP    (TOP(S(NP*)      -    -   -    Jay_Sekulow  *      *    (ARG0*)        *         *    (33)
+bc/msnbc/00/msnbc_0001   9    1              do   VBP          (VP*       do  01   -    Jay_Sekulow  *    (V*)        *         *         *      -
+bc/msnbc/00/msnbc_0001   9    2           agree    VB          (VP*    agree  01   1    Jay_Sekulow  *      *       (V*)        *         *      -
+bc/msnbc/00/msnbc_0001   9    3            with    IN          (PP*       -    -   -    Jay_Sekulow  *      *    (ARG2*         *         *      -
+bc/msnbc/00/msnbc_0001   9    4             the    DT          (NP*       -    -   -    Jay_Sekulow  *      *         *         *         *    (64
+bc/msnbc/00/msnbc_0001   9    5       President   NNP            *))      -    -   -    Jay_Sekulow  *      *         *)        *         *     64)
+bc/msnbc/00/msnbc_0001   9    6            that    IN        (SBAR*       -    -   -    Jay_Sekulow  *      *    (ARG1*         *         *      -
+bc/msnbc/00/msnbc_0001   9    7              we   PRP        (S(NP*)      -    -   -    Jay_Sekulow  *      *         *    (ARG0*)        *      -
+bc/msnbc/00/msnbc_0001   9    8            know   VBP          (VP*     know  01   1    Jay_Sekulow  *      *         *       (V*)        *      -
+bc/msnbc/00/msnbc_0001   9    9             she   PRP   (SBAR(S(NP*)      -    -   -    Jay_Sekulow  *      *         *    (ARG1*    (ARG0*)   (72)
+bc/msnbc/00/msnbc_0001   9   10             has   VBZ          (VP*     have  03   2    Jay_Sekulow  *      *         *         *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   11               a    DT          (NP*       -    -   -    Jay_Sekulow  *      *         *         *    (ARG1*      -
+bc/msnbc/00/msnbc_0001   9   12    conservative    JJ             *       -    -   -    Jay_Sekulow  *      *         *         *         *      -
+bc/msnbc/00/msnbc_0001   9   13        judicial    JJ             *       -    -   -    Jay_Sekulow  *      *         *         *         *      -
+bc/msnbc/00/msnbc_0001   9   14      philosophy    NN     *)))))))))      -    -   -    Jay_Sekulow  *      *         *)        *)        *)     -
+bc/msnbc/00/msnbc_0001   9   15              /.     .            *))      -    -   -    Jay_Sekulow  *      *         *         *         *      -
+
+bc/msnbc/00/msnbc_0001   9    0          the    DT  (TOP(S(NP*           -    -   -    Jay_Sekulow  *      *       (ARG2*      *   (64
+bc/msnbc/00/msnbc_0001   9    1    President   NNP           *)          -    -   -    Jay_Sekulow  *      *            *)     *    64)
+bc/msnbc/00/msnbc_0001   9    2        after    RB      (ADVP*           -    -   -    Jay_Sekulow  *      *   (ARGM-ADV*      *     -
+bc/msnbc/00/msnbc_0001   9    3          all    RB           *)          -    -   -    Jay_Sekulow  *      *            *)     *     -
+bc/msnbc/00/msnbc_0001   9    4           is   VBZ        (VP*           be  03   -    Jay_Sekulow  *    (V*)           *      *     -
+bc/msnbc/00/msnbc_0001   9    5        given   VBN        (VP*         give  01   3    Jay_Sekulow  *      *          (V*)     *     -
+bc/msnbc/00/msnbc_0001   9    6          the    DT        (NP*           -    -   -    Jay_Sekulow  *      *       (ARG1*      *     -
+bc/msnbc/00/msnbc_0001   9    7    authority    NN           *    authority   -   6    Jay_Sekulow  *      *            *      *     -
+bc/msnbc/00/msnbc_0001   9    8           to    TO      (S(VP*           -    -   -    Jay_Sekulow  *      *            *      *     -
+bc/msnbc/00/msnbc_0001   9    9     nominate    VB   (VP*))))))    nominate  01   1    Jay_Sekulow  *      *            *)   (V*)    -
+bc/msnbc/00/msnbc_0001   9   10           /.     .          *))          -    -   -    Jay_Sekulow  *      *            *      *     -
+
+bc/msnbc/00/msnbc_0001   9    0          but    CC           (TOP(S*           -    -   -    Jay_Sekulow         *        *      *             *    (ARGM-DIS*)      -
+bc/msnbc/00/msnbc_0001   9    1           if    IN            (SBAR*           -    -   -    Jay_Sekulow         *        *      *             *    (ARGM-ADV*       -
+bc/msnbc/00/msnbc_0001   9    2          Jim   NNP            (S(NP*           -    -   -    Jay_Sekulow  (PERSON*   (ARG0*      *             *             *    (118
+bc/msnbc/00/msnbc_0001   9    3       Dobson   NNP                 *)          -    -   -    Jay_Sekulow         *)       *)     *             *             *     118)
+bc/msnbc/00/msnbc_0001   9    4         knew   VBD              (VP*         know  01   1    Jay_Sekulow         *      (V*)     *             *             *     (11)
+bc/msnbc/00/msnbc_0001   9    5    something    NN           (NP(NP*)   something   -   4    Jay_Sekulow         *   (ARG1*      *             *             *       -
+bc/msnbc/00/msnbc_0001   9    6         that   WDT       (SBAR(WHNP*)          -    -   -    Jay_Sekulow         *        *      *             *             *       -
+bc/msnbc/00/msnbc_0001   9    7           he   PRP            (S(NP*)          -    -   -    Jay_Sekulow         *        *      *        (ARG1*)            *    (118)
+bc/msnbc/00/msnbc_0001   9    8          was   VBD              (VP*           be  03   -    Jay_Sekulow         *        *    (V*)            *             *       -
+bc/msnbc/00/msnbc_0001   9    9          n't    RB                 *           -    -   -    Jay_Sekulow         *        *      *    (ARGM-NEG*)            *       -
+bc/msnbc/00/msnbc_0001   9   10     supposed   VBN              (VP*      suppose  02   -    Jay_Sekulow         *        *      *           (V*)            *       -
+bc/msnbc/00/msnbc_0001   9   11           to    TO   (S(VP*))))))))))          -    -   -    Jay_Sekulow         *        *)     *        (ARG2*)            *)      -
+bc/msnbc/00/msnbc_0001   9   12           it   PRP              (NP*)          -    -   -    Jay_Sekulow         *        *      *             *        (ARG1*)    (11)
+bc/msnbc/00/msnbc_0001   9   13         will    MD              (VP*           -    -   -    Jay_Sekulow         *        *      *             *    (ARGM-MOD*)      -
+bc/msnbc/00/msnbc_0001   9   14         come    VB              (VP*         come  09   9    Jay_Sekulow         *        *      *             *           (V*)      -
+bc/msnbc/00/msnbc_0001   9   15          out    RP           (PRT*)))          -    -   -    Jay_Sekulow         *        *      *             *             *       -
+bc/msnbc/00/msnbc_0001   9   16           /.     .                *))          -    -   -    Jay_Sekulow         *        *      *             *             *       -
+
+bc/msnbc/00/msnbc_0001   9   0          I   PRP    (TOP(S(NP*)        -    -   -    Jay_Sekulow  *    (ARG0*)            *    (33)
+bc/msnbc/00/msnbc_0001   9   1    suspect   VBP          (VP*    suspect  01   1    Jay_Sekulow  *       (V*)            *      -
+bc/msnbc/00/msnbc_0001   9   2       that    DT   (SBAR(S(NP*)        -    -   -    Jay_Sekulow  *    (ARG1*        (ARG1*)   (11)
+bc/msnbc/00/msnbc_0001   9   3         's   VBZ          (VP*         be  01   1    Jay_Sekulow  *         *           (V*)     -
+bc/msnbc/00/msnbc_0001   9   4        not    RB             *         -    -   -    Jay_Sekulow  *         *    (ARGM-NEG*)     -
+bc/msnbc/00/msnbc_0001   9   5        the    DT          (NP*         -    -   -    Jay_Sekulow  *         *        (ARG2*      -
+bc/msnbc/00/msnbc_0001   9   6       case    NN             *)      case   -   1    Jay_Sekulow  *         *             *)     -
+bc/msnbc/00/msnbc_0001   9   7         at    RB        (ADVP*         -    -   -    Jay_Sekulow  *         *    (ARGM-ADV*      -
+bc/msnbc/00/msnbc_0001   9   8        all    RB         *)))))        -    -   -    Jay_Sekulow  *         *)            *)     -
+bc/msnbc/00/msnbc_0001   9   9         /.     .            *))        -    -   -    Jay_Sekulow  *         *             *      -
+
+bc/msnbc/00/msnbc_0001   9    0        This    DT    (TOP(S(NP*)       -    -   -    Dan_Abrams              *    (ARG1*)           *        *     -
+bc/msnbc/00/msnbc_0001   9    1          is   VBZ          (VP*        be  01   2    Dan_Abrams              *       (V*)           *        *     -
+bc/msnbc/00/msnbc_0001   9    2        what    WP   (SBAR(WHNP*)       -    -   -    Dan_Abrams              *    (ARG2*       (ARG1*)       *     -
+bc/msnbc/00/msnbc_0001   9    3          uh    UH        (INTJ*)       -    -   -    Dan_Abrams              *         *            *        *     -
+bc/msnbc/00/msnbc_0001   9    4       Chuck   NNP        (S(NP*        -    -   -    Dan_Abrams       (PERSON*         *       (ARG0*        *   (87
+bc/msnbc/00/msnbc_0001   9    5    Schummer   NNP             *)       -    -   -    Dan_Abrams              *)        *            *)       *    87)
+bc/msnbc/00/msnbc_0001   9    6        said   VBD          (VP*       say  01   1    Dan_Abrams              *         *          (V*)       *     -
+bc/msnbc/00/msnbc_0001   9    7          on    IN          (PP*        -    -   -    Dan_Abrams              *         *   (ARGM-LOC*        *     -
+bc/msnbc/00/msnbc_0001   9    8        Face    VB        (S(VP*      face  01   -    Dan_Abrams  (WORK_OF_ART*         *            *      (V*)    -
+bc/msnbc/00/msnbc_0001   9    9         The    DT          (NP*        -    -   -    Dan_Abrams              *         *            *   (ARG1*     -
+bc/msnbc/00/msnbc_0001   9   10      Nation    NN          *))))   nation   -   1    Dan_Abrams              *)        *            *)       *)    -
+bc/msnbc/00/msnbc_0001   9   11       about    IN          (PP*        -    -   -    Dan_Abrams              *         *       (ARG3*        *     -
+bc/msnbc/00/msnbc_0001   9   12          it   PRP     (NP*))))))       -    -   -    Dan_Abrams              *         *)           *)       *     -
+bc/msnbc/00/msnbc_0001   9   13          /.     .            *))       -    -   -    Dan_Abrams              *         *            *        *     -
+
+bc/msnbc/00/msnbc_0001   9    0             I   PRP        (TOP(S(NP*)        -    -   -    Charles_Schummer         *    (ARG0*)           *        *         *      *         *     (87)
+bc/msnbc/00/msnbc_0001   9    1       believe   VBP              (VP*    believe  01   1    Charles_Schummer         *       (V*)           *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    2          that    IN            (SBAR*         -    -   -    Charles_Schummer         *    (ARG1*            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    3            we   PRP            (S(NP*)        -    -   -    Charles_Schummer         *         *       (ARG0*)       *    (ARG0*)     *         *       -
+bc/msnbc/00/msnbc_0001   9    4         ought    MD              (VP*         -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    5            to    TO            (S(VP*         -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    6          call    VB           (VP(VP*       call  02   2    Charles_Schummer         *         *          (V*)       *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9    7         James   NNP              (NP*         -    -   -    Charles_Schummer  (PERSON*         *       (ARG1*        *         *      *         *    (118
+bc/msnbc/00/msnbc_0001   9    8        Dobson   NNP                 *)        -    -   -    Charles_Schummer         *)        *            *)       *         *      *         *     118)
+bc/msnbc/00/msnbc_0001   9    9            as    IN              (PP*         -    -   -    Charles_Schummer         *         *   (ARGM-PRP*        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   10             a    DT           (NP(NP*         -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   11       witness    NN                 *)   witness   -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   12            at    IN              (PP*         -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   13           the    DT              (NP*         -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   14        Senate   NNP             (NML*         -    -   -    Charles_Schummer     (ORG*         *            *   (ARG0*         *      *         *     (29)
+bc/msnbc/00/msnbc_0001   9   15     judiciary   NNP                 *)        -    -   -    Charles_Schummer         *)        *            *        *)        *      *         *       -
+bc/msnbc/00/msnbc_0001   9   16      hearings   NNS             *)))))   hearing  01   1    Charles_Schummer         *         *            *)     (V*)        *      *         *       -
+bc/msnbc/00/msnbc_0001   9   17           and    CC                 *         -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   18          find    VB              (VP*       find  03   1    Charles_Schummer         *         *            *        *       (V*)     *         *       -
+bc/msnbc/00/msnbc_0001   9   19           out    RP             (PRT*)        -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   20          what    WP  (SBAR(WHNP(WHNP*         -    -   -    Charles_Schummer         *         *            *        *    (ARG1*      *    (ARG1*       -
+bc/msnbc/00/msnbc_0001   9   21          kind    NN                 *)        -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   22            of    IN              (PP*         -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+bc/msnbc/00/msnbc_0001   9   23    assurances   NNS            (NP*)))        -    -   -    Charles_Schummer         *         *            *        *         *      *         *)    (82)
+bc/msnbc/00/msnbc_0001   9   24            he   PRP            (S(NP*)        -    -   -    Charles_Schummer         *         *            *        *         *      *    (ARG0*)   (118)
+bc/msnbc/00/msnbc_0001   9   25            's   VBZ              (VP*         be  03   -    Charles_Schummer         *         *            *        *         *    (V*)        *       -
+bc/msnbc/00/msnbc_0001   9   26      received   VBN   (VP*))))))))))))   receive  01   1    Charles_Schummer         *         *)           *        *         *)     *       (V*)      -
+bc/msnbc/00/msnbc_0001   9   27            /.     .                *))        -    -   -    Charles_Schummer         *         *            *        *         *      *         *       -
+
+bc/msnbc/00/msnbc_0001   9    0            If    IN  (TOP(S(SBAR*      -    -   -    Charles_Schummer         *         *         *      -
+bc/msnbc/00/msnbc_0001   9    1         those    DT        (S(NP*      -    -   -    Charles_Schummer         *         *         *    (82
+bc/msnbc/00/msnbc_0001   9    2    assurances   NNS             *)     -    -   -    Charles_Schummer         *    (ARG1*)        *     82)
+bc/msnbc/00/msnbc_0001   9    3           are   VBP          (VP*      be  01   1    Charles_Schummer         *       (V*)        *      -
+bc/msnbc/00/msnbc_0001   9    4          good    JJ        (ADJP*      -    -   -    Charles_Schummer         *    (ARG2*         *      -
+bc/msnbc/00/msnbc_0001   9    5        enough    RB             *      -    -   -    Charles_Schummer         *         *         *      -
+bc/msnbc/00/msnbc_0001   9    6           for    IN          (PP*      -    -   -    Charles_Schummer         *         *         *      -
+bc/msnbc/00/msnbc_0001   9    7         James   NNP          (NP*      -    -   -    Charles_Schummer  (PERSON*         *         *   (118
+bc/msnbc/00/msnbc_0001   9    8        Dobson   NNP        *))))))     -    -   -    Charles_Schummer         *)        *)        *    118)
+bc/msnbc/00/msnbc_0001   9    9          then    RB        (ADVP*)     -    -   -    Charles_Schummer         *         *         *      -
+bc/msnbc/00/msnbc_0001   9   10           all    DT       (NP(NP*)     -    -   -    Charles_Schummer         *         *    (ARG0*      -
+bc/msnbc/00/msnbc_0001   9   11            of    IN          (PP*      -    -   -    Charles_Schummer         *         *         *      -
+bc/msnbc/00/msnbc_0001   9   12       America   NNP        (NP*)))     -    -   -    Charles_Schummer      (GPE)        *         *)     -
+bc/msnbc/00/msnbc_0001   9   13         ought    MD          (VP*      -    -   -    Charles_Schummer         *         *         *      -
+bc/msnbc/00/msnbc_0001   9   14            to    TO        (S(VP*      -    -   -    Charles_Schummer         *         *         *      -
+bc/msnbc/00/msnbc_0001   9   15          hear    VB          (VP*    hear  01   1    Charles_Schummer         *         *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   16          them   PRP      (NP*)))))     -    -   -    Charles_Schummer         *         *    (ARG1*)   (82)
+bc/msnbc/00/msnbc_0001   9   17            /.     .            *))     -    -   -    Charles_Schummer         *         *         *      -
+
+bc/msnbc/00/msnbc_0001   9   0      Elliot   NNP  (TOP(SBARQ(NP*      -    -   -    Dan_Abrams  (PERSON*      *   (ARGM-DIS*    (52
+bc/msnbc/00/msnbc_0001   9   1    Minkford   NNP               *)     -    -   -    Dan_Abrams         *)     *            *)    52)
+bc/msnbc/00/msnbc_0001   9   2        what    WP          (WHNP*)     -    -   -    Dan_Abrams         *      *       (ARG1*)     -
+bc/msnbc/00/msnbc_0001   9   3          do   VBP            (SQ*      do  01   -    Dan_Abrams         *    (V*)           *      -
+bc/msnbc/00/msnbc_0001   9   4         you   PRP            (NP*)     -    -   -    Dan_Abrams         *      *       (ARG0*)   (52)
+bc/msnbc/00/msnbc_0001   9   5        make    VB            (VP*    make  01   5    Dan_Abrams         *      *          (V*)     -
+bc/msnbc/00/msnbc_0001   9   6          of    IN            (PP*      -    -   -    Dan_Abrams         *      *       (ARG2*      -
+bc/msnbc/00/msnbc_0001   9   7        that    DT         (NP*))))     -    -   -    Dan_Abrams         *      *            *)     -
+bc/msnbc/00/msnbc_0001   9   8          /?     .              *))     -    -   -    Dan_Abrams         *      *            *      -
+
+bc/msnbc/00/msnbc_0001   9    0             I   PRP      (TOP(S(NP*)      -    -   -    Elliot_Minkford         *    (ARG0*)       *    (52)
+bc/msnbc/00/msnbc_0001   9    1         think   VBP            (VP*    think  01   1    Elliot_Minkford         *       (V*)       *      -
+bc/msnbc/00/msnbc_0001   9    2       Senator   NNP  (SBAR(S(NP(NP*       -    -   -    Elliot_Minkford         *    (ARG1*   (ARG1*    (87
+bc/msnbc/00/msnbc_0001   9    3      Schummer   NNP               *)      -    -   -    Elliot_Minkford   (PERSON)        *        *     87)
+bc/msnbc/00/msnbc_0001   9    4           and    CC               *       -    -   -    Elliot_Minkford         *         *        *      -
+bc/msnbc/00/msnbc_0001   9    5       Senator   NNP            (NP*       -    -   -    Elliot_Minkford         *         *        *      -
+bc/msnbc/00/msnbc_0001   9    6       Specter   NNP              *))      -    -   -    Elliot_Minkford   (PERSON)        *        *)     -
+bc/msnbc/00/msnbc_0001   9    7           are   VBP            (VP*       be  01   1    Elliot_Minkford         *         *      (V*)     -
+bc/msnbc/00/msnbc_0001   9    8    absolutely    RB          (ADJP*       -    -   -    Elliot_Minkford         *         *   (ARG2*      -
+bc/msnbc/00/msnbc_0001   9    9         right    JJ           *)))))      -    -   -    Elliot_Minkford         *         *)       *)     -
+bc/msnbc/00/msnbc_0001   9   10            /.     .              *))      -    -   -    Elliot_Minkford         *         *        *      -
+
+bc/msnbc/00/msnbc_0001   9    0               The     DT       (TOP(S(NP(NP*         -    -   -    Elliot_Minkford         *      *      *      (ARG1*   (ARG2*             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9    1          concerns    NNS                   *)   concern   -   2    Elliot_Minkford         *      *      *           *)       *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9    2              that    WDT   (SBAR(WHNP(WHNP*))        -    -   -    Elliot_Minkford         *      *      *    (R-ARG1*)       *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9    3              have    VBP              (S(VP*       have  01   -    Elliot_Minkford         *    (V*)     *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9    4              been    VBN                (VP*         be  03   -    Elliot_Minkford         *      *    (V*)          *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9    5            raised    VBN            (VP*)))))     raise  01   3    Elliot_Minkford         *      *      *         (V*)       *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9    6             about     IN                (PP*         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9    7           Harriet    NNP                (NP*         -    -   -    Elliot_Minkford  (PERSON*      *      *           *        *             *             *        *      *         *    (72
+bc/msnbc/00/msnbc_0001   9    8             Miers   NNPS                 *)))        -    -   -    Elliot_Minkford         *)     *      *           *        *)            *             *        *      *         *     72)
+bc/msnbc/00/msnbc_0001   9    9           include    VBP                (VP*    include  01   1    Elliot_Minkford         *      *      *           *      (V*)            *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   10              will     MD             (SQ(SQ*         -    -   -    Elliot_Minkford         *      *      *           *   (ARG1*    (ARGM-MOD*)            *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   11               she    PRP                (NP*)        -    -   -    Elliot_Minkford         *      *      *           *        *        (ARG1*)       (ARG0*)       *      *         *    (72)
+bc/msnbc/00/msnbc_0001   9   12             truly     RB              (ADVP*)        -    -   -    Elliot_Minkford         *      *      *           *        *    (ARGM-ADV*)            *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   13                be     VB                (VP*         be  01   1    Elliot_Minkford         *      *      *           *        *           (V*)            *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   14                an     DT             (NP(NP*         -    -   -    Elliot_Minkford         *      *      *           *        *        (ARG2*             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   15       independent     JJ                   *         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   16             voice     NN                   *)     voice   -   4    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   17                on     IN                (PP*         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   18               the     DT                (NP*         -    -   -    Elliot_Minkford     (ORG*      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   19           Supreme    NNP                   *         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   20             Court    NNP                 *)))        -    -   -    Elliot_Minkford         *)     *      *           *        *             *)            *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   21               not     RB                 (S*         -    -   -    Elliot_Minkford         *      *      *           *        *    (ARGM-ADV*    (ARGM-NEG*)       *      *         *      -
+bc/msnbc/00/msnbc_0001   9   22              just     RB              (ADVP*)        -    -   -    Elliot_Minkford         *      *      *           *        *             *    (ARGM-ADV*)       *      *         *      -
+bc/msnbc/00/msnbc_0001   9   23             doing    VBG                (VP*         do  02   1    Elliot_Minkford         *      *      *           *        *             *           (V*)       *      *         *      -
+bc/msnbc/00/msnbc_0001   9   24            George    NNP             (NP(NP*         -    -   -    Elliot_Minkford  (PERSON*      *      *           *        *             *        (ARG1*   (ARG0*      *         *    (64
+bc/msnbc/00/msnbc_0001   9   25                 W    NNP                   *         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   26              Bush    NNP                   *         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   27                's    POS                   *)        -    -   -    Elliot_Minkford         *)     *      *           *        *             *             *        *)     *         *     64)
+bc/msnbc/00/msnbc_0001   9   28            wishes    NNS               *)))))      wish  01   2    Elliot_Minkford         *      *      *           *        *             *)            *)     (V*)     *         *      -
+bc/msnbc/00/msnbc_0001   9   29               and     CC                   *         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   30              does    VBZ                (SQ*         do  01   -    Elliot_Minkford         *      *      *           *        *             *             *        *    (V*)        *      -
+bc/msnbc/00/msnbc_0001   9   31               she    PRP                (NP*)        -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *    (ARG0*)   (72)
+bc/msnbc/00/msnbc_0001   9   32              have     VB                (VP*       have  03   2    Elliot_Minkford         *      *      *           *        *             *             *        *      *       (V*)     -
+bc/msnbc/00/msnbc_0001   9   33                 a     DT             (NP(NP*         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *    (ARG1*      -
+bc/msnbc/00/msnbc_0001   9   34             basic     JJ                   *         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   35      committement     NN                   *)        -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   36                to     IN                (PP*         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   37       fundamental     JJ                (NP*         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   38    constitutional     JJ                   *         -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+bc/msnbc/00/msnbc_0001   9   39            values    NNS             *)))))))     value   -   3    Elliot_Minkford         *      *      *           *        *)            *             *        *      *         *)     -
+bc/msnbc/00/msnbc_0001   9   40                /.      .                  *))        -    -   -    Elliot_Minkford         *      *      *           *        *             *             *        *      *         *      -
+
+bc/msnbc/00/msnbc_0001   9    0           I   PRP            (TOP(S(NP*)         -    -   -    Elliot_Minkford         *    (ARG0*)        *         *         *             *         *        *        *     (52)
+bc/msnbc/00/msnbc_0001   9    1     suspect   VBP                  (VP*     suspect  01   1    Elliot_Minkford         *       (V*)        *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9    2        that    IN                (SBAR*          -    -   -    Elliot_Minkford         *    (ARG1*         *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9    3        what    WP         (S(SBAR(WHNP*)         -    -   -    Elliot_Minkford         *         *    (ARG1*)   (ARG0*         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9    4      Dobson   NNP                (S(NP*)         -    -   -    Elliot_Minkford   (PERSON)        *    (ARG0*)        *         *             *         *        *        *    (118)
+bc/msnbc/00/msnbc_0001   9    5       found   VBD                  (VP*        find  03   1    Elliot_Minkford         *         *       (V*)        *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9    6         out    RP              (PRT*))))         -    -   -    Elliot_Minkford         *         *         *         *)        *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9    7       leads   VBZ                  (VP*        lead  03   1    Elliot_Minkford         *         *         *       (V*)        *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9    8         him   PRP                  (NP*)         -    -   -    Elliot_Minkford         *         *         *    (ARG1*)   (ARG0*)            *         *        *        *    (118)
+bc/msnbc/00/msnbc_0001   9    9          to    TO                (S(VP*          -    -   -    Elliot_Minkford         *         *         *    (ARG2*         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   10     believe    VB                  (VP*     believe  01   1    Elliot_Minkford         *         *         *         *       (V*)            *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   11        that    IN                (SBAR*          -    -   -    Elliot_Minkford         *         *         *         *    (ARG1*             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   12         she   PRP                (S(NP*)         -    -   -    Elliot_Minkford         *         *         *         *         *        (ARG0*)        *        *        *     (72)
+bc/msnbc/00/msnbc_0001   9   13        will    MD                  (VP*          -    -   -    Elliot_Minkford         *         *         *         *         *    (ARGM-MOD*)        *        *        *       -
+bc/msnbc/00/msnbc_0001   9   14        vote    VB                  (VP*        vote  01   1    Elliot_Minkford         *         *         *         *         *           (V*)        *        *        *       -
+bc/msnbc/00/msnbc_0001   9   15         the    DT            (NP(NP(NP*          -    -   -    Elliot_Minkford         *         *         *         *         *    (ARGM-MNR*         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   16         way    NN                     *)        way   -   1    Elliot_Minkford         *         *         *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   17          he   PRP           (SBAR(S(NP*)         -    -   -    Elliot_Minkford         *         *         *         *         *             *    (ARG0*)       *        *    (118)
+bc/msnbc/00/msnbc_0001   9   18       wants   VBZ                  (VP*        want  01   1    Elliot_Minkford         *         *         *         *         *             *       (V*)       *        *       -
+bc/msnbc/00/msnbc_0001   9   19         her   PRP                (S(NP*)         -    -   -    Elliot_Minkford         *         *         *         *         *             *    (ARG1*        *        *     (72)
+bc/msnbc/00/msnbc_0001   9   20          to    TO             (VP*))))))         -    -   -    Elliot_Minkford         *         *         *         *         *             *)        *)       *        *       -
+bc/msnbc/00/msnbc_0001   9   21          to    TO                (S(VP*          -    -   -    Elliot_Minkford         *         *         *         *         *        (ARG1*         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   22    overturn    VB               (VP(VP*    overturn  01   2    Elliot_Minkford         *         *         *         *         *             *         *      (V*)       *       -
+bc/msnbc/00/msnbc_0001   9   23         Roe   NNP                  (NP*          -    -   -    Elliot_Minkford     (LAW*         *         *         *         *             *         *   (ARG1*        *       -
+bc/msnbc/00/msnbc_0001   9   24      versus    FW                     *          -    -   -    Elliot_Minkford         *         *         *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   25        Wade   NNP                    *))         -    -   -    Elliot_Minkford         *)        *         *         *         *             *         *        *)       *       -
+bc/msnbc/00/msnbc_0001   9   26         and    CC                     *          -    -   -    Elliot_Minkford         *         *         *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   27          do    VB                  (VP*          do  02   1    Elliot_Minkford         *         *         *         *         *             *         *        *      (V*)      -
+bc/msnbc/00/msnbc_0001   9   28           a    DT               (NP(NP*          -    -   -    Elliot_Minkford         *         *         *         *         *             *         *        *   (ARG1*       -
+bc/msnbc/00/msnbc_0001   9   29         lot    NN                     *)        lot   -   1    Elliot_Minkford         *         *         *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   30          of    IN                  (PP*          -    -   -    Elliot_Minkford         *         *         *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   31       those    DT                  (NP*          -    -   -    Elliot_Minkford         *         *         *         *         *             *         *        *        *       -
+bc/msnbc/00/msnbc_0001   9   32      things   NNS   *)))))))))))))))))))      thing   -   1    Elliot_Minkford         *         *)        *         *)        *)            *)        *        *        *)      -
+bc/msnbc/00/msnbc_0001   9   33          /.     .                    *))         -    -   -    Elliot_Minkford         *         *         *         *         *             *         *        *        *       -
+
+bc/msnbc/00/msnbc_0001   9   0     But   CC  (TOP(S*      -    -   -    Dan_Abrams  *    (ARGM-DIS*)  -
+bc/msnbc/00/msnbc_0001   9   1    wait   VB     (VP*)   wait  01   1    Dan_Abrams  *           (V*)  -
+bc/msnbc/00/msnbc_0001   9   2      /.    .       *))     -    -   -    Dan_Abrams  *             *   -
+
+bc/msnbc/00/msnbc_0001   9   0    wait   VB   (TOP(S(VP*)   wait  01   1    Dan_Abrams  *    (V*)  -
+bc/msnbc/00/msnbc_0001   9   1      /.    .           *))     -    -   -    Dan_Abrams  *      *   -

@@ -1,0 +1,669 @@
+bc/cnn/00/cnn_0001   11    0          The    DT  (TOP(S(NP(NP*         -    -   -    Rick_Sanchez           *      *   (ARG0*        (137
+bc/cnn/00/cnn_0001   11    1      founder    NN              *)   founder   -   -    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11    2           of    IN           (PP*         -    -   -    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11    3          one    CD        (NP(NP*)        -    -   -    Rick_Sanchez   (CARDINAL)     *        *        (109
+bc/cnn/00/cnn_0001   11    4           of    IN           (PP*         -    -   -    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11    5          the    DT        (NP(NP*         -    -   -    Rick_Sanchez           *      *        *        (133
+bc/cnn/00/cnn_0001   11    6       nation    NN              *     nation   -   1    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11    7           's   POS              *)        -    -   -    Rick_Sanchez           *      *        *         133)
+bc/cnn/00/cnn_0001   11    8         most   RBS         (ADJP*         -    -   -    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11    9    notorious    JJ              *)        -    -   -    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11   10       street    NN              *         -    -   -    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11   11        gangs   NNS          *)))))      gang   -   -    Rick_Sanchez           *      *        *)   137)|109)
+bc/cnn/00/cnn_0001   11   12           is   VBZ           (VP*         be  03   -    Rick_Sanchez           *    (V*)       *           -
+bc/cnn/00/cnn_0001   11   13       facing   VBG           (VP*       face  01   1    Rick_Sanchez           *      *      (V*)          -
+bc/cnn/00/cnn_0001   11   14            a    DT           (NP*         -    -   -    Rick_Sanchez           *      *   (ARG1*           -
+bc/cnn/00/cnn_0001   11   15        death    NN              *      death   -   1    Rick_Sanchez           *      *        *           -
+bc/cnn/00/cnn_0001   11   16      penalty    NN            *)))   penalty   -   1    Rick_Sanchez           *      *        *)          -
+bc/cnn/00/cnn_0001   11   17           /.     .             *))        -    -   -    Rick_Sanchez           *      *        *           -
+
+bc/cnn/00/cnn_0001   11    0    Coming    VBG      (TOP(FRAG(S(VP*    come  11   2    Rick_Sanchez  *      (V*)     *         *         *          -
+bc/cnn/00/cnn_0001   11    1        up     RP              (PRT*)))     -    -   -    Rick_Sanchez  *        *      *         *         *          -
+bc/cnn/00/cnn_0001   11    2         ,      ,                    *      -    -   -    Rick_Sanchez  *        *      *         *         *          -
+bc/cnn/00/cnn_0001   11    3       who     WP   (SBARQ(SBARQ(WHNP*)     -    -   -    Rick_Sanchez  *   (ARG1*      *    (ARG0*)   (ARG0*)         -
+bc/cnn/00/cnn_0001   11    4        's    VBZ                 (SQ*      be  03   9    Rick_Sanchez  *        *    (V*)        *         *          -
+bc/cnn/00/cnn_0001   11    5    trying    VBG                 (VP*     try  01   1    Rick_Sanchez  *        *      *       (V*)        *          -
+bc/cnn/00/cnn_0001   11    6        to     TO               (S(VP*      -    -   -    Rick_Sanchez  *        *      *    (ARG1*         *          -
+bc/cnn/00/cnn_0001   11    7      save     VB                 (VP*    save  02   1    Rick_Sanchez  *        *      *         *       (V*)         -
+bc/cnn/00/cnn_0001   11    8       his   PRP$                 (NP*      -    -   -    Rick_Sanchez  *        *      *         *    (ARG1*    (8|(137)
+bc/cnn/00/cnn_0001   11    9      life     NN              *)))))))   life   -   3    Rick_Sanchez  *        *      *         *)        *)         8)
+bc/cnn/00/cnn_0001   11   10       and     CC                    *      -    -   -    Rick_Sanchez  *        *      *         *         *          -
+bc/cnn/00/cnn_0001   11   11       why    WRB     (SBARQ(WHADVP*)))     -    -   -    Rick_Sanchez  *        *)     *         *         *          -
+bc/cnn/00/cnn_0001   11   12        /?      .                   *))     -    -   -    Rick_Sanchez  *        *      *         *         *          -
+
+bc/cnn/00/cnn_0001   11    0          Also    RB   (TOP(S(ADVP*)           -    -   -    Rick_Sanchez      *      *    (ARGM-DIS*)            *   -
+bc/cnn/00/cnn_0001   11    1           the    DT        (NP(NP*            -    -   -    Rick_Sanchez      *      *        (ARG0*             *   -
+bc/cnn/00/cnn_0001   11    2     survivors   NNS              *)           -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11    3            of    IN           (PP*            -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11    4          that    DT           (NP*            -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11    5       massive    JJ              *            -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11    6         South    JJ         (ADJP*            -    -   -    Rick_Sanchez  (LOC*      *             *             *   -
+bc/cnn/00/cnn_0001   11    7         Asian    JJ              *)           -    -   -    Rick_Sanchez      *)     *             *             *   -
+bc/cnn/00/cnn_0001   11    8    earthquake    NN            *)))   earthquake   -   1    Rick_Sanchez      *      *             *)            *   -
+bc/cnn/00/cnn_0001   11    9           are   VBP           (VP*            be  03   -    Rick_Sanchez      *    (V*)            *             *   -
+bc/cnn/00/cnn_0001   11   10        facing   VBG           (VP*          face  01   1    Rick_Sanchez      *      *           (V*)            *   -
+bc/cnn/00/cnn_0001   11   11             a    DT           (NP*            -    -   -    Rick_Sanchez      *      *        (ARG1*             *   -
+bc/cnn/00/cnn_0001   11   12           new    JJ    (ADJP(ADJP*)           -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11   13           and    CC              *            -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11   14          even    RB         (ADJP*            -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11   15      deadlier   JJR             *))           -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11   16            if    IN     (PRN(SBAR*            -    -   -    Rick_Sanchez      *      *             *             *   -
+bc/cnn/00/cnn_0001   11   17           you   PRP         (S(NP*)           -    -   -    Rick_Sanchez      *      *             *        (ARG0*)  -
+bc/cnn/00/cnn_0001   11   18           can    MD           (VP*            -    -   -    Rick_Sanchez      *      *             *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   11   19       believe    VB           (VP*       believe  01   1    Rick_Sanchez      *      *             *           (V*)  -
+bc/cnn/00/cnn_0001   11   20            it   PRP      (NP*))))))           -    -   -    Rick_Sanchez      *      *             *        (ARG1*)  -
+bc/cnn/00/cnn_0001   11   21        threat    NN            *)))       threat   -   2    Rick_Sanchez      *      *             *)            *   -
+bc/cnn/00/cnn_0001   11   22            /.     .             *))           -    -   -    Rick_Sanchez      *      *             *             *   -
+
+bc/cnn/00/cnn_0001   11   0         From    IN  (TOP(S(PP*    -    -   -    Rick_Sanchez              *   (ARGM-DIR*   -
+bc/cnn/00/cnn_0001   11   1       around    IN        (PP*    -    -   -    Rick_Sanchez              *            *   -
+bc/cnn/00/cnn_0001   11   2          the    DT        (NP*    -    -   -    Rick_Sanchez              *            *   -
+bc/cnn/00/cnn_0001   11   3        world    NN         *)))   -    -   -    Rick_Sanchez              *            *)  -
+bc/cnn/00/cnn_0001   11   4         this    DT        (NP*)   -    -   -    Rick_Sanchez              *       (ARG1*)  -
+bc/cnn/00/cnn_0001   11   5           is   VBZ        (VP*    be  01   2    Rick_Sanchez              *          (V*)  -
+bc/cnn/00/cnn_0001   11   6    Newsnight   NNP       (NP*))   -    -   -    Rick_Sanchez   (WORK_OF_ART)      (ARG2*)  -
+bc/cnn/00/cnn_0001   11   7           /.     .          *))   -    -   -    Rick_Sanchez              *            *   -
+
+bc/cnn/00/cnn_0001   11    0            In    IN      (TOP(S(PP*          -    -   -    Kyra_Phillips         *      *   (ARGM-TMP*        *           *           -
+bc/cnn/00/cnn_0001   11    1             a    DT            (NP*          -    -   -    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11    2           few    JJ               *          -    -   -    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11    3         weeks   NNS              *))         -    -   -    Kyra_Phillips         *      *            *)       *           *           -
+bc/cnn/00/cnn_0001   11    4           the    DT         (NP(NP*          -    -   -    Kyra_Phillips         *      *       (ARG0*   (ARG0*           *        (155
+bc/cnn/00/cnn_0001   11    5         state    NN               *)      state   -   2    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11    6            of    IN            (PP*          -    -   -    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11    7    California   NNP          (NP*)))         -    -   -    Kyra_Phillips      (GPE)     *            *)       *)          *         155)
+bc/cnn/00/cnn_0001   11    8            is   VBZ            (VP*          be  03   -    Kyra_Phillips         *    (V*)           *        *           *           -
+bc/cnn/00/cnn_0001   11    9      planning   VBG            (VP*        plan  01   1    Kyra_Phillips         *      *          (V*)       *           *           -
+bc/cnn/00/cnn_0001   11   10            to    TO          (S(VP*          -    -   -    Kyra_Phillips         *      *       (ARG1*        *           *           -
+bc/cnn/00/cnn_0001   11   11       execute    VB            (VP*     execute  01   1    Kyra_Phillips         *      *            *      (V*)          *           -
+bc/cnn/00/cnn_0001   11   12        Tookie   NNP         (NP(NP*          -    -   -    Kyra_Phillips  (PERSON*      *            *   (ARG1*           *        (137
+bc/cnn/00/cnn_0001   11   13      Williams   NNP               *)         -    -   -    Kyra_Phillips         *)     *            *        *           *           -
+bc/cnn/00/cnn_0001   11   14           the    DT         (NP(NP*          -    -   -    Kyra_Phillips         *      *            *        *      (ARG0*           -
+bc/cnn/00/cnn_0001   11   15           man    NN               *)        man   -   1    Kyra_Phillips         *      *            *        *           *)          -
+bc/cnn/00/cnn_0001   11   16           who    WP     (SBAR(WHNP*)         -    -   -    Kyra_Phillips         *      *            *        *    (R-ARG0*)          -
+bc/cnn/00/cnn_0001   11   17    co-founded   VBD          (S(VP*    co-found  01   -    Kyra_Phillips         *      *            *        *         (V*)          -
+bc/cnn/00/cnn_0001   11   18           one    CD         (NP(NP*)         -    -   -    Kyra_Phillips         *      *            *        *      (ARG1*        (109
+bc/cnn/00/cnn_0001   11   19            of    IN            (PP*          -    -   -    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11   20           the    DT         (NP(NP*          -    -   -    Kyra_Phillips         *      *            *        *           *        (133
+bc/cnn/00/cnn_0001   11   21       country    NN               *     country   -   3    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11   22            's   POS               *)         -    -   -    Kyra_Phillips         *      *            *        *           *         133)
+bc/cnn/00/cnn_0001   11   23          most   RBS          (ADJP*          -    -   -    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11   24     notorious    JJ               *)         -    -   -    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11   25        street    NN               *          -    -   -    Kyra_Phillips         *      *            *        *           *           -
+bc/cnn/00/cnn_0001   11   26         gangs   NNS   *)))))))))))))       gang   -   -    Kyra_Phillips         *      *            *)       *)          *)   137)|109)
+bc/cnn/00/cnn_0001   11   27            /.     .              *))         -    -   -    Kyra_Phillips         *      *            *        *           *           -
+
+bc/cnn/00/cnn_0001   11    0          You   PRP   (TOP(S(NP*)        -    -   -    Kyra_Phillips  *      *        (ARG0*)       (ARG0*)           *       -
+bc/cnn/00/cnn_0001   11    1          may    MD         (VP*         -    -   -    Kyra_Phillips  *      *    (ARGM-MOD*)   (ARGM-MOD*)           *       -
+bc/cnn/00/cnn_0001   11    2         have    VB         (VP*       have  01   -    Kyra_Phillips  *    (V*)            *             *            *       -
+bc/cnn/00/cnn_0001   11    3        heard   VBN      (VP(VP*       hear  01   1    Kyra_Phillips  *      *           (V*)            *            *       -
+bc/cnn/00/cnn_0001   11    4           of    IN         (PP*         -    -   -    Kyra_Phillips  *      *        (ARG1*             *            *       -
+bc/cnn/00/cnn_0001   11    5          the    DT         (NP*         -    -   -    Kyra_Phillips  *      *             *             *            *    (109
+bc/cnn/00/cnn_0001   11    6        Crips   NNS          *)))        -    -   -    Kyra_Phillips  *      *             *)            *            *     109)
+bc/cnn/00/cnn_0001   11    7           or    CC            *         -    -   -    Kyra_Phillips  *      *             *             *            *       -
+bc/cnn/00/cnn_0001   11    8         seen   VBN         (VP*        see  01   1    Kyra_Phillips  *      *             *           (V*)           *       -
+bc/cnn/00/cnn_0001   11    9         them   PRP       (S(NP*)        -    -   -    Kyra_Phillips  *      *             *        (ARG1*       (ARG1*)   (109)
+bc/cnn/00/cnn_0001   11   10    portrayed   VBN         (VP*    portray  01   1    Kyra_Phillips  *      *             *             *          (V*)      -
+bc/cnn/00/cnn_0001   11   11           in    IN         (PP*         -    -   -    Kyra_Phillips  *      *             *             *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0001   11   12          the    DT         (NP*         -    -   -    Kyra_Phillips  *      *             *             *            *       -
+bc/cnn/00/cnn_0001   11   13       movies   NNS     *))))))))        -    -   -    Kyra_Phillips  *      *             *             *)           *)      -
+bc/cnn/00/cnn_0001   11   14           /.     .           *))        -    -   -    Kyra_Phillips  *      *             *             *            *       -
+
+bc/cnn/00/cnn_0001   11   0         Well    UH   (TOP(S(INTJ*)        -    -   -    Kyra_Phillips         *    (ARGM-DIS*)        *       -
+bc/cnn/00/cnn_0001   11   1     Williams   NNP           (NP*)        -    -   -    Kyra_Phillips   (PERSON)       (ARG1*)        *    (137)
+bc/cnn/00/cnn_0001   11   2           is   VBZ           (VP*         be  01   1    Kyra_Phillips         *           (V*)        *       -
+bc/cnn/00/cnn_0001   11   3            a    DT           (NP*         -    -   -    Kyra_Phillips         *        (ARG2*         *       -
+bc/cnn/00/cnn_0001   11   4    convicted   VBN              *    convict  01   -    Kyra_Phillips         *             *       (V*)      -
+bc/cnn/00/cnn_0001   11   5       killer    NN             *))        -    -   -    Kyra_Phillips         *             *)   (ARG1*)      -
+bc/cnn/00/cnn_0001   11   6           /.     .             *))        -    -   -    Kyra_Phillips         *             *         *       -
+
+bc/cnn/00/cnn_0001   11    0        but     CC     (TOP(S*         -    -   -    Kyra_Phillips  *      *    (ARGM-DIS*)       *          -
+bc/cnn/00/cnn_0001   11    1     people    NNS     (NP(NP*)    people   -   1    Kyra_Phillips  *      *        (ARG0*   (ARG0*          -
+bc/cnn/00/cnn_0001   11    2        all     RB   (PP(ADVP*)        -    -   -    Kyra_Phillips  *      *             *        *          -
+bc/cnn/00/cnn_0001   11    3       over     IN           *         -    -   -    Kyra_Phillips  *      *             *        *          -
+bc/cnn/00/cnn_0001   11    4        the     DT        (NP*         -    -   -    Kyra_Phillips  *      *             *        *       (133
+bc/cnn/00/cnn_0001   11    5    country     NN         *)))   country   -   3    Kyra_Phillips  *      *             *)       *)       133)
+bc/cnn/00/cnn_0001   11    6        are    VBP        (VP*         be  03   -    Kyra_Phillips  *    (V*)            *        *          -
+bc/cnn/00/cnn_0001   11    7     trying    VBG        (VP*        try  01   1    Kyra_Phillips  *      *           (V*)       *          -
+bc/cnn/00/cnn_0001   11    8         to     TO      (S(VP*         -    -   -    Kyra_Phillips  *      *        (ARG1*        *          -
+bc/cnn/00/cnn_0001   11    9       save     VB        (VP*       save  02   1    Kyra_Phillips  *      *             *      (V*)         -
+bc/cnn/00/cnn_0001   11   10        his   PRP$        (NP*         -    -   -    Kyra_Phillips  *      *             *   (ARG1*    (8|(137)
+bc/cnn/00/cnn_0001   11   11       life     NN      *))))))      life   -   3    Kyra_Phillips  *      *             *)       *)         8)
+bc/cnn/00/cnn_0001   11   12         /.      .          *))        -    -   -    Kyra_Phillips  *      *             *        *          -
+
+bc/cnn/00/cnn_0001   11   0         CNN   NNP    (TOP(S(NP(NP*      -    -   -    Kyra_Phillips      (ORG)  (ARG0*   (64|(169
+bc/cnn/00/cnn_0001   11   1          's   POS                *)     -    -   -    Kyra_Phillips         *        *         64)
+bc/cnn/00/cnn_0001   11   2       Chris   NNP                *      -    -   -    Kyra_Phillips  (PERSON*        *          -
+bc/cnn/00/cnn_0001   11   3    Lawrence   NNP                *)     -    -   -    Kyra_Phillips         *)       *)       169)
+bc/cnn/00/cnn_0001   11   4       looks   VBZ             (VP*    look  01   1    Kyra_Phillips         *      (V*)         -
+bc/cnn/00/cnn_0001   11   5        into    IN             (PP*      -    -   -    Kyra_Phillips         *   (ARG1*          -
+bc/cnn/00/cnn_0001   11   6         why   WRB   (SBAR(WHNP*))))     -    -   -    Kyra_Phillips         *        *)         -
+bc/cnn/00/cnn_0001   11   7          /.     .               *))     -    -   -    Kyra_Phillips         *        *          -
+
+bc/cnn/00/cnn_0001   11   0    /.   .   (TOP(X*))  -   -   -    Jamie_Foxx  *   -
+
+bc/cnn/00/cnn_0001   11    0         Actor    NN         (TOP(S(NP*        -    -   -    Chris_Lawrence         *      *   (ARG0*        *            *       (28
+bc/cnn/00/cnn_0001   11    1         Jamie   NNP                  *        -    -   -    Chris_Lawrence  (PERSON*      *        *        *            *         -
+bc/cnn/00/cnn_0001   11    2          Foxx   NNP                  *)       -    -   -    Chris_Lawrence         *)     *        *)       *            *        28)
+bc/cnn/00/cnn_0001   11    3            is   VBZ               (VP*        be  03   -    Chris_Lawrence         *    (V*)       *        *            *         -
+bc/cnn/00/cnn_0001   11    4        asking   VBG               (VP*       ask  02   2    Chris_Lawrence         *      *      (V*)       *            *         -
+bc/cnn/00/cnn_0001   11    5    California   NNP            (NP(NP*        -    -   -    Chris_Lawrence      (GPE)     *   (ARG2*   (ARG0*            *      (155
+bc/cnn/00/cnn_0001   11    6            's   POS                  *)       -    -   -    Chris_Lawrence         *      *        *        *            *       155)
+bc/cnn/00/cnn_0001   11    7      governor    NN                  *)       -    -   -    Chris_Lawrence         *      *        *)       *)           *         -
+bc/cnn/00/cnn_0001   11    8            to    TO             (S(VP*        -    -   -    Chris_Lawrence         *      *   (ARG1*        *            *         -
+bc/cnn/00/cnn_0001   11    9         spare    VB               (VP*     spare  01   1    Chris_Lawrence         *      *        *      (V*)           *         -
+bc/cnn/00/cnn_0001   11   10           the    DT            (NP(NP*        -    -   -    Chris_Lawrence         *      *        *   (ARG1*            *        (8
+bc/cnn/00/cnn_0001   11   11          life    NN                  *)     life   -   3    Chris_Lawrence         *      *        *        *            *         -
+bc/cnn/00/cnn_0001   11   12            of    IN               (PP*        -    -   -    Chris_Lawrence         *      *        *        *            *         -
+bc/cnn/00/cnn_0001   11   13           the    DT            (NP(NP*        -    -   -    Chris_Lawrence         *      *        *        *       (ARG1*      (137
+bc/cnn/00/cnn_0001   11   14           man    NN                  *)      man   -   1    Chris_Lawrence         *      *        *        *            *)        -
+bc/cnn/00/cnn_0001   11   15            he   PRP        (SBAR(S(NP*)       -    -   -    Chris_Lawrence         *      *        *        *       (ARG0*)      (28)
+bc/cnn/00/cnn_0001   11   16        played   VBD               (VP*      play  02   5    Chris_Lawrence         *      *        *        *          (V*)        -
+bc/cnn/00/cnn_0001   11   17            on    IN               (PP*        -    -   -    Chris_Lawrence         *      *        *        *   (ARGM-LOC*         -
+bc/cnn/00/cnn_0001   11   18        screen    NN   (NP*)))))))))))))   screen   -   1    Chris_Lawrence         *      *        *)       *)           *)   137)|8)
+bc/cnn/00/cnn_0001   11   19            /.     .                 *))       -    -   -    Chris_Lawrence         *      *        *        *            *         -
+
+bc/cnn/00/cnn_0001   11   0        I   PRP   (TOP(S(NP*)     -    -   -    Jamie_Foxx  *        (ARG1*)   (28)
+bc/cnn/00/cnn_0001   11   1    never    RB       (ADVP*)     -    -   -    Jamie_Foxx  *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   11   2     back   VBP         (VP*    back  02   6    Jamie_Foxx  *           (V*)     -
+bc/cnn/00/cnn_0001   11   3     down    RP        (PRT*)     -    -   -    Jamie_Foxx  *    (ARGM-DIR*)     -
+bc/cnn/00/cnn_0001   11   4    never    RB      (ADVP*))     -    -   -    Jamie_Foxx  *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0001   11   5       /.     .           *))     -    -   -    Jamie_Foxx  *             *      -
+
+bc/cnn/00/cnn_0001   11   0       Stanley    NNP  (TOP(S(NP*          -    -   -    Chris_Lawrence  (PERSON*   (ARG0*   (137
+bc/cnn/00/cnn_0001   11   1        Tookie    NNP           *          -    -   -    Chris_Lawrence         *        *      -
+bc/cnn/00/cnn_0001   11   2      Williams    NNP           *)         -    -   -    Chris_Lawrence         *)       *)   137)
+bc/cnn/00/cnn_0001   11   3    co-founded    VBD        (VP*    co-found  01   -    Chris_Lawrence         *      (V*)     -
+bc/cnn/00/cnn_0001   11   4           the     DT        (NP*          -    -   -    Chris_Lawrence         *   (ARG1*   (109
+bc/cnn/00/cnn_0001   11   5         Crips   NNPS           *          -    -   -    Chris_Lawrence         *        *      -
+bc/cnn/00/cnn_0001   11   6        street     NN           *          -    -   -    Chris_Lawrence         *        *      -
+bc/cnn/00/cnn_0001   11   7          gang     NN          *))       gang   -   -    Chris_Lawrence         *        *)   109)
+bc/cnn/00/cnn_0001   11   8            /.      .          *))         -    -   -    Chris_Lawrence         *        *      -
+
+bc/cnn/00/cnn_0001   11    0           He    PRP   (TOP(S(NP*)        -    -   -    Chris_Lawrence       *    (ARG0*)   (ARG0*)     *       (ARG1*)   (137)
+bc/cnn/00/cnn_0001   11    1       robbed    VBD      (VP(VP*)       rob  01   2    Chris_Lawrence       *       (V*)        *      *            *       -
+bc/cnn/00/cnn_0001   11    2          and     CC            *         -    -   -    Chris_Lawrence       *         *         *      *            *       -
+bc/cnn/00/cnn_0001   11    3     murdered    VBD         (VP*)    murder  01   1    Chris_Lawrence       *         *       (V*)     *            *       -
+bc/cnn/00/cnn_0001   11    4          and     CC            *         -    -   -    Chris_Lawrence       *         *         *      *            *       -
+bc/cnn/00/cnn_0001   11    5          was    VBD         (VP*         be  03   -    Chris_Lawrence       *         *         *    (V*)           *       -
+bc/cnn/00/cnn_0001   11    6    convicted    VBN         (VP*    convict  01   1    Chris_Lawrence       *         *         *      *          (V*)      -
+bc/cnn/00/cnn_0001   11    7           of     IN         (PP*         -    -   -    Chris_Lawrence       *         *         *      *       (ARG2*       -
+bc/cnn/00/cnn_0001   11    8          his   PRP$         (NP*         -    -   -    Chris_Lawrence       *         *         *      *            *    (137)
+bc/cnn/00/cnn_0001   11    9       crimes    NNS           *))     crime   -   1    Chris_Lawrence       *         *         *      *            *)      -
+bc/cnn/00/cnn_0001   11   10           in     IN         (PP*         -    -   -    Chris_Lawrence       *         *         *      *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0001   11   11     nineteen     CD         (NP*         -    -   -    Chris_Lawrence  (DATE*         *         *      *            *       -
+bc/cnn/00/cnn_0001   11   12       eighty     CD            *         -    -   -    Chris_Lawrence       *         *         *      *            *       -
+bc/cnn/00/cnn_0001   11   13           -    HYPH            *         -    -   -    Chris_Lawrence       *         *         *      *            *       -
+bc/cnn/00/cnn_0001   11   14          one     CD        *)))))        -    -   -    Chris_Lawrence       *)        *         *      *            *)      -
+bc/cnn/00/cnn_0001   11   15           /.      .           *))        -    -   -    Chris_Lawrence       *         *         *      *            *       -
+
+bc/cnn/00/cnn_0001   11    0          But     CC    (TOP(S*        -    -   -    Chris_Lawrence         *    (ARGM-DIS*)        *         *       -
+bc/cnn/00/cnn_0001   11    1         from     IN       (PP*        -    -   -    Chris_Lawrence         *    (ARGM-DIR*         *         *       -
+bc/cnn/00/cnn_0001   11    2          his   PRP$    (NP(NP*        -    -   -    Chris_Lawrence         *             *         *         *    (137)
+bc/cnn/00/cnn_0001   11    3         cell     NN          *)     cell   -   5    Chris_Lawrence         *             *         *         *       -
+bc/cnn/00/cnn_0001   11    4           on     IN       (PP*        -    -   -    Chris_Lawrence         *             *         *         *       -
+bc/cnn/00/cnn_0001   11    5        death     NN       (NP*        -    -   -    Chris_Lawrence         *             *         *         *       -
+bc/cnn/00/cnn_0001   11    6          row     NN       *))))      row   -   -    Chris_Lawrence         *             *)        *         *       -
+bc/cnn/00/cnn_0001   11    7     Williams    NNP       (NP*)       -    -   -    Chris_Lawrence   (PERSON)       (ARG0*)   (ARG0*)   (ARG0*)   (137)
+bc/cnn/00/cnn_0001   11    8        spent    VBD       (VP*     spend  02   1    Chris_Lawrence         *           (V*)        *         *       -
+bc/cnn/00/cnn_0001   11    9        years    NNS       (NP*)       -    -   -    Chris_Lawrence         *        (ARG1*)        *         *       -
+bc/cnn/00/cnn_0001   11   10      writing    VBG  (S(VP(VP*     write  01   1    Chris_Lawrence         *        (ARG2*       (V*)        *       -
+bc/cnn/00/cnn_0001   11   11     children    NNS    (NP(NP*     child   -   1    Chris_Lawrence         *             *    (ARG1*         *    (171
+bc/cnn/00/cnn_0001   11   12           's    POS          *)       -    -   -    Chris_Lawrence         *             *         *         *       -
+bc/cnn/00/cnn_0001   11   13        books    NNS         *))     book   -   1    Chris_Lawrence         *             *         *)        *     171)
+bc/cnn/00/cnn_0001   11   14          and     CC          *        -    -   -    Chris_Lawrence         *             *         *         *       -
+bc/cnn/00/cnn_0001   11   15    preaching    VBG       (VP*    preach  01   2    Chris_Lawrence         *             *         *       (V*)      -
+bc/cnn/00/cnn_0001   11   16      against     IN       (PP*        -    -   -    Chris_Lawrence         *             *         *    (ARG1*       -
+bc/cnn/00/cnn_0001   11   17         gang     NN       (NP*      gang   -   -    Chris_Lawrence         *             *         *         *       -
+bc/cnn/00/cnn_0001   11   18     violence     NN     *))))))       -    -   -    Chris_Lawrence         *             *)        *         *)      -
+bc/cnn/00/cnn_0001   11   19           /.      .         *))       -    -   -    Chris_Lawrence         *             *         *         *       -
+
+bc/cnn/00/cnn_0001   11    0            And     CC       (TOP(S*         -    -   -    Edgar_Medina  *         *      *      *        *        *       -
+bc/cnn/00/cnn_0001   11    1             if     IN        (SBAR*         -    -   -    Edgar_Medina  *         *      *      *        *        *       -
+bc/cnn/00/cnn_0001   11    2             he    PRP        (S(NP*)        -    -   -    Edgar_Medina  *    (ARG1*)     *      *        *        *    (137)
+bc/cnn/00/cnn_0001   11    3           dies    VBZ        (VP*)))       die  01   1    Edgar_Medina  *       (V*)     *      *        *        *       -
+bc/cnn/00/cnn_0001   11    4           some     DT          (NP*         -    -   -    Edgar_Medina  *         *      *      *   (ARG0*   (ARG0*       -
+bc/cnn/00/cnn_0001   11    5         people    NNS             *)    people   -   1    Edgar_Medina  *         *      *      *        *)       *)      -
+bc/cnn/00/cnn_0001   11    6            are    VBP          (VP*         be  03   -    Edgar_Medina  *         *    (V*)     *        *        *       -
+bc/cnn/00/cnn_0001   11    7            not     RB             *         -    -   -    Edgar_Medina  *         *      *      *        *        *       -
+bc/cnn/00/cnn_0001   11    8          going    VBG          (VP*         go  04   7    Edgar_Medina  *         *      *    (V*)       *        *       -
+bc/cnn/00/cnn_0001   11    9             to     TO        (S(VP*         -    -   -    Edgar_Medina  *         *      *      *        *        *       -
+bc/cnn/00/cnn_0001   11   10           have     VB          (VP*       have  03   2    Edgar_Medina  *         *      *      *      (V*)       *       -
+bc/cnn/00/cnn_0001   11   11            the     DT          (NP*         -    -   -    Edgar_Medina  *         *      *      *   (ARG1*        *       -
+bc/cnn/00/cnn_0001   11   12    opportunity     NN             *         -    -   -    Edgar_Medina  *         *      *      *        *        *       -
+bc/cnn/00/cnn_0001   11   13             to     TO        (S(VP*         -    -   -    Edgar_Medina  *         *      *      *        *        *       -
+bc/cnn/00/cnn_0001   11   14          learn     VB          (VP*      learn  01   1    Edgar_Medina  *         *      *      *        *      (V*)      -
+bc/cnn/00/cnn_0001   11   15           from     IN          (PP*         -    -   -    Edgar_Medina  *         *      *      *        *   (ARG2*       -
+bc/cnn/00/cnn_0001   11   16            his   PRP$          (NP*         -    -   -    Edgar_Medina  *         *      *      *        *        *    (137)
+bc/cnn/00/cnn_0001   11   17       mistakes    NNS   *)))))))))))   mistake   -   2    Edgar_Medina  *         *      *      *        *)       *)      -
+bc/cnn/00/cnn_0001   11   18             /.      .            *))        -    -   -    Edgar_Medina  *         *      *      *        *        *       -
+
+bc/cnn/00/cnn_0001   11    0        Edgar   NNP      (TOP(S(NP*          -    -   -    Chris_Lawrence  (PERSON*   (ARG0*   (ARG0*         *         *     (19
+bc/cnn/00/cnn_0001   11    1       Medina   NNP               *)         -    -   -    Chris_Lawrence         *)       *)       *)        *         *      19)
+bc/cnn/00/cnn_0001   11    2         read   VBD         (VP(VP*        read  01   1    Chris_Lawrence         *      (V*)       *         *         *       -
+bc/cnn/00/cnn_0001   11    3          the    DT            (NP*          -    -   -    Chris_Lawrence         *   (ARG1*        *         *         *    (171
+bc/cnn/00/cnn_0001   11    4        books   NNS              *))       book   -   1    Chris_Lawrence         *        *)       *         *         *     171)
+bc/cnn/00/cnn_0001   11    5          and    CC               *          -    -   -    Chris_Lawrence         *        *        *         *         *       -
+bc/cnn/00/cnn_0001   11    6         says   VBZ            (VP*         say  01   1    Chris_Lawrence         *        *      (V*)        *         *       -
+bc/cnn/00/cnn_0001   11    7     Williams   NNP     (SBAR(S(NP*)         -    -   -    Chris_Lawrence   (PERSON)       *   (ARG1*    (ARG0*)        *    (137)
+bc/cnn/00/cnn_0001   11    8    convinced   VBD            (VP*    convince  01   1    Chris_Lawrence         *        *        *       (V*)        *       -
+bc/cnn/00/cnn_0001   11    9          him   PRP            (NP*)         -    -   -    Chris_Lawrence         *        *        *    (ARG1*)   (ARG1*)    (19)
+bc/cnn/00/cnn_0001   11   10           to    TO          (S(VP*          -    -   -    Chris_Lawrence         *        *        *    (ARG2*         *       -
+bc/cnn/00/cnn_0001   11   11         stay    VB            (VP*        stay  01   1    Chris_Lawrence         *        *        *         *       (V*)      -
+bc/cnn/00/cnn_0001   11   12           in    IN            (PP*          -    -   -    Chris_Lawrence         *        *        *         *    (ARG3*       -
+bc/cnn/00/cnn_0001   11   13       school    NN   (NP*))))))))))     school   -   2    Chris_Lawrence         *        *        *)        *)        *)      -
+bc/cnn/00/cnn_0001   11   14           /.     .              *))         -    -   -    Chris_Lawrence         *        *        *         *         *       -
+
+bc/cnn/00/cnn_0001   11    0          If    IN   (TOP(S(SBAR*      -    -    -    Edgar_Medina  *      *             *      *    (ARGM-ADV*      -
+bc/cnn/00/cnn_0001   11    1           I   PRP         (S(NP*)     -    -    -    Edgar_Medina  *      *        (ARG1*)     *             *    (19)
+bc/cnn/00/cnn_0001   11    2       would    MD           (VP*      -    -    -    Edgar_Medina  *      *    (ARGM-MOD*)     *             *      -
+bc/cnn/00/cnn_0001   11    3        have    VB           (VP*    have  01    -    Edgar_Medina  *    (V*)            *      *             *      -
+bc/cnn/00/cnn_0001   11    4        been   VBN           (VP*      be  01    1    Edgar_Medina  *      *           (V*)     *             *      -
+bc/cnn/00/cnn_0001   11    5          in    IN           (PP*      -    -    -    Edgar_Medina  *      *        (ARG2*      *             *      -
+bc/cnn/00/cnn_0001   11    6           a    DT           (NP*      -    -    -    Edgar_Medina  *      *             *      *             *      -
+bc/cnn/00/cnn_0001   11    7        gang    NN        *)))))))   gang   -    -    Edgar_Medina  *      *             *)     *             *)     -
+bc/cnn/00/cnn_0001   11    8       right    RB         (ADVP*      -    -    -    Edgar_Medina  *      *             *      *    (ARGM-TMP*      -
+bc/cnn/00/cnn_0001   11    9         now    RB              *)     -    -    -    Edgar_Medina  *      *             *      *             *)     -
+bc/cnn/00/cnn_0001   11   10           I   PRP           (NP*)     -    -    -    Edgar_Medina  *      *             *      *        (ARG1*)   (19)
+bc/cnn/00/cnn_0001   11   11       would    MD           (VP*      -    -    -    Edgar_Medina  *      *             *      *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0001   11   12         've    VB           (VP*    have  01   12    Edgar_Medina  *      *             *    (V*)            *      -
+bc/cnn/00/cnn_0001   11   13    probably    RB         (ADVP*)     -    -    -    Edgar_Medina  *      *             *      *    (ARGM-ADV*)     -
+bc/cnn/00/cnn_0001   11   14          be   VBN           (VP*      be  01    4    Edgar_Medina  *      *             *      *           (V*)     -
+bc/cnn/00/cnn_0001   11   15          in    IN           (PP*      -    -    -    Edgar_Medina  *      *             *      *        (ARG2*      -
+bc/cnn/00/cnn_0001   11   16        jail    NN          (NP*))   jail   -    -    Edgar_Medina  *      *             *      *             *)     -
+bc/cnn/00/cnn_0001   11   17        dead    JJ   (S(ADJP*)))))     -    -    -    Edgar_Medina  *      *             *      *    (ARGM-PRD*)     -
+bc/cnn/00/cnn_0001   11   18          /.     .             *))     -    -    -    Edgar_Medina  *      *             *      *             *      -
+
+bc/cnn/00/cnn_0001   11    0     Instead    RB    (TOP(S(ADVP*)         -    -   -    Chris_Lawrence       *    (ARGM-ADV*)        *        *      -
+bc/cnn/00/cnn_0001   11    1          he   PRP            (NP*)         -    -   -    Chris_Lawrence       *        (ARG1*)   (ARG0*)       *    (19)
+bc/cnn/00/cnn_0001   11    2          's   VBZ            (VP*          be  01   1    Chris_Lawrence       *           (V*)        *        *      -
+bc/cnn/00/cnn_0001   11    3     fifteen    CD      (UCP(ADJP*)         -    -   -    Chris_Lawrence   (DATE)       (ARG2*         *        *      -
+bc/cnn/00/cnn_0001   11    4          on    IN            (PP*          -    -   -    Chris_Lawrence       *             *         *        *      -
+bc/cnn/00/cnn_0001   11    5       track    NN         (NP(NP*)      track   -   1    Chris_Lawrence       *             *         *        *      -
+bc/cnn/00/cnn_0001   11    6          to    TO          (S(VP*          -    -   -    Chris_Lawrence       *             *         *        *      -
+bc/cnn/00/cnn_0001   11    7    graduate    VB         (VP(VP*)   graduate  01   -    Chris_Lawrence       *             *       (V*)       *      -
+bc/cnn/00/cnn_0001   11    8         and    CC               *          -    -   -    Chris_Lawrence       *             *         *        *      -
+bc/cnn/00/cnn_0001   11    9          go    VB            (VP*          go  02   9    Chris_Lawrence       *             *         *      (V*)     -
+bc/cnn/00/cnn_0001   11   10          to    IN            (PP*          -    -   -    Chris_Lawrence       *             *         *   (ARG4*      -
+bc/cnn/00/cnn_0001   11   11     college    NN   (NP*))))))))))    college   -   1    Chris_Lawrence       *             *)        *        *)     -
+bc/cnn/00/cnn_0001   11   12          /.     .              *))         -    -   -    Chris_Lawrence       *             *         *        *      -
+
+bc/cnn/00/cnn_0001   11    0           I   PRP        (TOP(S(NP*)       -    -   -    Wesley_McBride           *    (ARG0*)           *               *         *         *      (4)
+bc/cnn/00/cnn_0001   11    1       heard   VBD              (VP*      hear  01   1    Wesley_McBride           *       (V*)           *               *         *         *       -
+bc/cnn/00/cnn_0001   11    2         one    CD           (NP(NP*        -    -   -    Wesley_McBride           *    (ARG1*            *      (ARGM-LOC*         *         *       -
+bc/cnn/00/cnn_0001   11    3      report    NN                 *)   report  01   2    Wesley_McBride           *         *          (V*)              *)        *         *       -
+bc/cnn/00/cnn_0001   11    4       where   WRB     (SBAR(WHADVP*)       -    -   -    Wesley_McBride           *         *   (ARGM-ADJ*    (R-ARGM-LOC*)        *         *       -
+bc/cnn/00/cnn_0001   11    5        they   PRP            (S(NP*)       -    -   -    Wesley_McBride           *         *            *          (ARG0*)        *         *       -
+bc/cnn/00/cnn_0001   11    6         say   VBP              (VP*       say  01   1    Wesley_McBride           *         *            *             (V*)        *         *     (27)
+bc/cnn/00/cnn_0001   11    7          he   PRP       (SBAR(S(NP*)       -    -   -    Wesley_McBride           *         *            *          (ARG1*    (ARG0*)        *    (137)
+bc/cnn/00/cnn_0001   11    8       saved   VBD              (VP*      save  02   1    Wesley_McBride           *         *            *               *       (V*)        *     (69)
+bc/cnn/00/cnn_0001   11    9           a    DT           (NP(QP*        -    -   -    Wesley_McBride  (CARDINAL*         *            *               *    (ARG1*    (ARG0*       -
+bc/cnn/00/cnn_0001   11   10     hundred    CD                 *        -    -   -    Wesley_McBride           *         *            *               *         *         *       -
+bc/cnn/00/cnn_0001   11   11       fifty    CD                 *        -    -   -    Wesley_McBride           *         *            *               *         *         *       -
+bc/cnn/00/cnn_0001   11   12    thousand    CD                 *)       -    -   -    Wesley_McBride           *)        *            *               *         *         *       -
+bc/cnn/00/cnn_0001   11   13        kids   NNS                 *)      kid   -   -    Wesley_McBride           *         *            *               *         *)        *)      -
+bc/cnn/00/cnn_0001   11   14        from    IN              (PP*        -    -   -    Wesley_McBride           *         *            *               *    (ARG2*         *       -
+bc/cnn/00/cnn_0001   11   15     joining   VBG            (S(VP*      join  01   2    Wesley_McBride           *         *            *               *         *       (V*)      -
+bc/cnn/00/cnn_0001   11   16       gangs   NNS   (NP*))))))))))))     gang   -   -    Wesley_McBride           *         *)           *)              *)        *)   (ARG1*)      -
+bc/cnn/00/cnn_0001   11   17          /.     .                *))       -    -   -    Wesley_McBride           *         *            *               *         *         *       -
+
+bc/cnn/00/cnn_0001   11   0      That    DT   (TOP(S(NP*)   -    -   -    Wesley_McBride  *    (ARG1*)   (27)
+bc/cnn/00/cnn_0001   11   1        's   VBZ         (VP*    be  01   1    Wesley_McBride  *       (V*)     -
+bc/cnn/00/cnn_0001   11   2    absurd    JJ      (ADJP*))   -    -   -    Wesley_McBride  *    (ARG2*)     -
+bc/cnn/00/cnn_0001   11   3        /.     .           *))   -    -   -    Wesley_McBride  *         *      -
+
+bc/cnn/00/cnn_0001   11   0     How   WRB   (TOP(SBARQ(WHADVP*)     -    -   -    Wesley_McBride  *      *    (ARGM-MNR*)     -
+bc/cnn/00/cnn_0001   11   1      do   VBP                 (SQ*      do  01   -    Wesley_McBride  *    (V*)            *      -
+bc/cnn/00/cnn_0001   11   2     you   PRP                 (NP*)     -    -   -    Wesley_McBride  *      *        (ARG0*)     -
+bc/cnn/00/cnn_0001   11   3    know    VB                 (VP*    know  01   1    Wesley_McBride  *      *           (V*)     -
+bc/cnn/00/cnn_0001   11   4    that    DT               (NP*)))     -    -   -    Wesley_McBride  *      *        (ARG1*)   (69)
+bc/cnn/00/cnn_0001   11   5      /?     .                   *))     -    -   -    Wesley_McBride  *      *             *      -
+
+bc/cnn/00/cnn_0001   11    0     Retired    VBN  (TOP(S(NP(NML*    retire  01   -    Chris_Lawrence         *         (V*)      (ARG0*   (4
+bc/cnn/00/cnn_0001   11    1    sergeant     NN               *)       -    -   -    Chris_Lawrence         *      (ARG1*)           *    -
+bc/cnn/00/cnn_0001   11    2         Wes    NNP               *        -    -   -    Chris_Lawrence  (PERSON*      (ARG0*)           *    -
+bc/cnn/00/cnn_0001   11    3     McBride    NNP               *)       -    -   -    Chris_Lawrence         *)   (C-ARG0*)           *)   4)
+bc/cnn/00/cnn_0001   11    4      worked    VBD            (VP*      work  01   1    Chris_Lawrence         *           *          (V*)   -
+bc/cnn/00/cnn_0001   11    5         the     DT            (NP*        -    -   -    Chris_Lawrence         *           *       (ARG1*    -
+bc/cnn/00/cnn_0001   11    6        gang     NN               *      gang   -   -    Chris_Lawrence         *           *            *    -
+bc/cnn/00/cnn_0001   11    7      detail     NN               *)   detail   -   5    Chris_Lawrence         *           *            *)   -
+bc/cnn/00/cnn_0001   11    8         for     IN            (PP*        -    -   -    Chris_Lawrence         *           *   (ARGM-TMP*    -
+bc/cnn/00/cnn_0001   11    9      twenty     CD         (NP(QP*        -    -   -    Chris_Lawrence    (DATE*           *            *    -
+bc/cnn/00/cnn_0001   11   10          -    HYPH               *        -    -   -    Chris_Lawrence         *           *            *    -
+bc/cnn/00/cnn_0001   11   11         six     CD               *)       -    -   -    Chris_Lawrence         *           *            *    -
+bc/cnn/00/cnn_0001   11   12       years    NNS              *))       -    -   -    Chris_Lawrence         *)          *            *)   -
+bc/cnn/00/cnn_0001   11   13          in     IN            (PP*        -    -   -    Chris_Lawrence         *           *   (ARGM-LOC*    -
+bc/cnn/00/cnn_0001   11   14          LA    NNP            (NP*        -    -   -    Chris_Lawrence     (GPE*           *            *    -
+bc/cnn/00/cnn_0001   11   15      County    NNP             *)))       -    -   -    Chris_Lawrence         *)          *            *)   -
+bc/cnn/00/cnn_0001   11   16          /.      .              *))       -    -   -    Chris_Lawrence         *           *            *    -
+
+bc/cnn/00/cnn_0001   11    0         It   PRP   (TOP(S(NP(NP*))       -    -   -    Wesley_McBride  *             *        *      -
+bc/cnn/00/cnn_0001   11    1         's   VBZ             (VP*        be  01   1    Wesley_McBride  *           (V*)       *      -
+bc/cnn/00/cnn_0001   11    2        not    RB                *        -    -   -    Wesley_McBride  *    (ARGM-NEG*)       *      -
+bc/cnn/00/cnn_0001   11    3    against    IN             (PP*        -    -   -    Wesley_McBride  *        (ARG2*        *      -
+bc/cnn/00/cnn_0001   11    4        the    DT             (NP*        -    -   -    Wesley_McBride  *             *        *   (128
+bc/cnn/00/cnn_0001   11    5        law    NN               *))      law   -   2    Wesley_McBride  *             *)       *    128)
+bc/cnn/00/cnn_0001   11    6         to    TO           (S(VP*        -    -   -    Wesley_McBride  *        (ARG1*        *      -
+bc/cnn/00/cnn_0001   11    7         be    VB             (VP*        be  01   1    Wesley_McBride  *             *      (V*)     -
+bc/cnn/00/cnn_0001   11    8          a    DT             (NP*        -    -   -    Wesley_McBride  *             *   (ARG2*      -
+bc/cnn/00/cnn_0001   11    9       gang    NN                *      gang   -   -    Wesley_McBride  *             *        *      -
+bc/cnn/00/cnn_0001   11   10     member    NN            *)))))   member   -   1    Wesley_McBride  *             *)       *)     -
+bc/cnn/00/cnn_0001   11   11         /.     .               *))       -    -   -    Wesley_McBride  *             *        *      -
+
+bc/cnn/00/cnn_0001   11   0         It   PRP   (TOP(S(NP(NP*))       -    -   -    Wesley_McBride  *        *         *      -
+bc/cnn/00/cnn_0001   11   1         's   VBZ             (VP*        be  01   1    Wesley_McBride  *      (V*)        *      -
+bc/cnn/00/cnn_0001   11   2    against    IN             (PP*        -    -   -    Wesley_McBride  *   (ARG2*         *      -
+bc/cnn/00/cnn_0001   11   3        the    DT             (NP*        -    -   -    Wesley_McBride  *        *         *   (128
+bc/cnn/00/cnn_0001   11   4        law    NN               *))      law   -   2    Wesley_McBride  *        *)        *    128)
+bc/cnn/00/cnn_0001   11   5         to    TO           (S(VP*        -    -   -    Wesley_McBride  *   (ARG1*         *      -
+bc/cnn/00/cnn_0001   11   6       kill    VB             (VP*      kill  01   1    Wesley_McBride  *        *       (V*)   (33)
+bc/cnn/00/cnn_0001   11   7     people   NNS         (NP*)))))   people   -   1    Wesley_McBride  *        *)   (ARG1*)     -
+bc/cnn/00/cnn_0001   11   8         /.     .               *))       -    -   -    Wesley_McBride  *        *         *      -
+
+bc/cnn/00/cnn_0001   11   0          and    CC       (TOP(S*         -    -   -    Wesley_McBride  *    (ARGM-DIS*)     *         *       -
+bc/cnn/00/cnn_0001   11   1         that    DT          (NP*)        -    -   -    Wesley_McBride  *        (ARG1*)     *         *     (33)
+bc/cnn/00/cnn_0001   11   2           's   VBZ          (VP*         be  01   2    Wesley_McBride  *           (V*)     *         *       -
+bc/cnn/00/cnn_0001   11   3         what    WP   (SBAR(WHNP*)        -    -   -    Wesley_McBride  *        (ARG2*      *         *       -
+bc/cnn/00/cnn_0001   11   4           he   PRP        (S(NP*)        -    -   -    Wesley_McBride  *             *      *    (ARG1*)   (137)
+bc/cnn/00/cnn_0001   11   5           's   VBZ          (VP*         be  03   1    Wesley_McBride  *             *    (V*)        *       -
+bc/cnn/00/cnn_0001   11   6    convicted   VBN          (VP*    convict  01   -    Wesley_McBride  *             *      *       (V*)      -
+bc/cnn/00/cnn_0001   11   7           of    IN     (PP*))))))        -    -   -    Wesley_McBride  *             *)     *    (ARG2*)      -
+bc/cnn/00/cnn_0001   11   8           /.     .            *))        -    -   -    Wesley_McBride  *             *      *         *       -
+
+bc/cnn/00/cnn_0001   11    0           A    DT    (TOP(S(NP*         -    -    -    Chris_Lawrence         *   (ARG0*         *         *             *         *       -
+bc/cnn/00/cnn_0001   11    1     witness    NN             *)   witness   -    -    Chris_Lawrence         *        *)        *         *             *         *       -
+bc/cnn/00/cnn_0001   11    2        says   VBZ          (VP*        say  01    1    Chris_Lawrence         *      (V*)        *         *             *         *       -
+bc/cnn/00/cnn_0001   11    3    Williams   NNP   (SBAR(S(NP*)        -    -    -    Chris_Lawrence   (PERSON)  (ARG1*    (ARG0*)   (ARG0*)       (ARG0*)        *    (137)
+bc/cnn/00/cnn_0001   11    4      robbed   VBD          (VP*        rob  01    2    Chris_Lawrence         *        *       (V*)        *             *         *       -
+bc/cnn/00/cnn_0001   11    5         and    CC             *         -    -    -    Chris_Lawrence         *        *         *         *             *         *       -
+bc/cnn/00/cnn_0001   11    6    executed   VBD             *    execute  01    1    Chris_Lawrence         *        *         *       (V*)            *         *       -
+bc/cnn/00/cnn_0001   11    7           a    DT          (NP*         -    -    -    Chris_Lawrence         *        *    (ARG1*    (ARG1*             *         *     (92
+bc/cnn/00/cnn_0001   11    8       Seven   NNP         (NML*         -    -    -    Chris_Lawrence     (ORG*        *         *         *             *         *       -
+bc/cnn/00/cnn_0001   11    9      Eleven   NNP             *)        -    -    -    Chris_Lawrence         *)       *         *         *             *         *       -
+bc/cnn/00/cnn_0001   11   10    employee    NN            *))        -    -    -    Chris_Lawrence         *        *         *)        *)            *         *      92)
+bc/cnn/00/cnn_0001   11   11        then    RB        (ADVP*)        -    -    -    Chris_Lawrence         *        *         *         *    (ARGM-TMP*)        *       -
+bc/cnn/00/cnn_0001   11   12        made   VBD          (VP*       make  01   16    Chris_Lawrence         *        *         *         *           (V*)        *       -
+bc/cnn/00/cnn_0001   11   13         fun    NN          (NP*)       fun   -    -    Chris_Lawrence         *        *         *         *        (ARG1*)        *       -
+bc/cnn/00/cnn_0001   11   14          of    IN          (PP*         -    -    -    Chris_Lawrence         *        *         *         *        (ARG2*         *       -
+bc/cnn/00/cnn_0001   11   15         the    DT          (NP*         -    -    -    Chris_Lawrence         *        *         *         *             *         *     (92
+bc/cnn/00/cnn_0001   11   16         man    NN            *))       man   -    1    Chris_Lawrence         *        *         *         *             *)        *      92)
+bc/cnn/00/cnn_0001   11   17          as    IN        (SBAR*         -    -    -    Chris_Lawrence         *        *         *         *    (ARGM-TMP*         *       -
+bc/cnn/00/cnn_0001   11   18          he   PRP        (S(NP*)        -    -    -    Chris_Lawrence         *        *         *         *             *    (ARG1*)    (92)
+bc/cnn/00/cnn_0001   11   19        died   VBD    (VP*)))))))       die  01    1    Chris_Lawrence         *        *)        *         *             *)      (V*)      -
+bc/cnn/00/cnn_0001   11   20          /.     .            *))        -    -    -    Chris_Lawrence         *        *         *         *             *         *       -
+
+bc/cnn/00/cnn_0001   11    0           He   PRP   (TOP(S(NP*)        -    -   -    Chris_Lawrence  *      *        (ARG1*)   (ARG0*)   (137)
+bc/cnn/00/cnn_0001   11    1          was   VBD         (VP*         be  03   -    Chris_Lawrence  *    (V*)            *         *       -
+bc/cnn/00/cnn_0001   11    2         also    RB       (ADVP*)        -    -   -    Chris_Lawrence  *      *    (ARGM-ADV*)        *       -
+bc/cnn/00/cnn_0001   11    3    convicted   VBN         (VP*    convict  01   1    Chris_Lawrence  *      *           (V*)        *       -
+bc/cnn/00/cnn_0001   11    4           of    IN         (PP*         -    -   -    Chris_Lawrence  *      *        (ARG2*         *       -
+bc/cnn/00/cnn_0001   11    5      gunning   VBG       (S(VP*        gun  01   -    Chris_Lawrence  *      *             *       (V*)      -
+bc/cnn/00/cnn_0001   11    6         down    RP        (PRT*)        -    -   -    Chris_Lawrence  *      *             *         *       -
+bc/cnn/00/cnn_0001   11    7           an    DT      (NP(NP*         -    -   -    Chris_Lawrence  *      *             *    (ARG1*       -
+bc/cnn/00/cnn_0001   11    8       entire    JJ            *         -    -   -    Chris_Lawrence  *      *             *         *       -
+bc/cnn/00/cnn_0001   11    9       family    NN            *)    family   -   1    Chris_Lawrence  *      *             *         *       -
+bc/cnn/00/cnn_0001   11   10       father    NN         (NP*     father   -   -    Chris_Lawrence  *      *             *         *       -
+bc/cnn/00/cnn_0001   11   11       mother    NN            *     mother   -   -    Chris_Lawrence  *      *             *         *       -
+bc/cnn/00/cnn_0001   11   12          and    CC            *         -    -   -    Chris_Lawrence  *      *             *         *       -
+bc/cnn/00/cnn_0001   11   13     daughter    NN      *)))))))        -    -   -    Chris_Lawrence  *      *             *)        *)      -
+bc/cnn/00/cnn_0001   11   14           /.     .           *))        -    -   -    Chris_Lawrence  *      *             *         *       -
+
+bc/cnn/00/cnn_0001   11    0      Writing    VBG  (TOP(S(S(VP*        write  01   -    Wesley_McBride  *      (V*)     *        (ARG0*    (81)
+bc/cnn/00/cnn_0001   11    1            a     DT          (NP*           -    -   -    Wesley_McBride  *   (ARG1*      *             *      -
+bc/cnn/00/cnn_0001   11    2          few     JJ             *           -    -   -    Wesley_McBride  *        *      *             *      -
+bc/cnn/00/cnn_0001   11    3        books    NNS           *)))        book   -   1    Wesley_McBride  *        *)     *             *)     -
+bc/cnn/00/cnn_0001   11    4         does    VBZ          (VP*           do  01   -    Wesley_McBride  *        *    (V*)            *      -
+bc/cnn/00/cnn_0001   11    5          n't     RB             *           -    -   -    Wesley_McBride  *        *      *    (ARGM-NEG*)     -
+bc/cnn/00/cnn_0001   11    6    exonerate     VB          (VP*    exonerate  01   -    Wesley_McBride  *        *      *           (V*)     -
+bc/cnn/00/cnn_0001   11    7          you    PRP          (NP*)          -    -   -    Wesley_McBride  *        *      *        (ARG1*)     -
+bc/cnn/00/cnn_0001   11    8         from     IN          (PP*           -    -   -    Wesley_McBride  *        *      *        (ARG2*      -
+bc/cnn/00/cnn_0001   11    9         your   PRP$          (NP*           -    -   -    Wesley_McBride  *        *      *             *      -
+bc/cnn/00/cnn_0001   11   10       crimes    NNS          *))))       crime   -   1    Wesley_McBride  *        *      *             *)     -
+bc/cnn/00/cnn_0001   11   11           /.      .            *))          -    -   -    Wesley_McBride  *        *      *             *      -
+
+bc/cnn/00/cnn_0001   11   0          In    IN  (TOP(S(PP*      -   -   -    Chris_Lawrence         *      -
+bc/cnn/00/cnn_0001   11   1    Williams   NNP     (NP(NP*      -   -   -    Chris_Lawrence   (PERSON)  (137
+bc/cnn/00/cnn_0001   11   2           '   POS           *)     -   -   -    Chris_Lawrence         *    137)
+bc/cnn/00/cnn_0001   11   3        case    NN          *))   case  -   1    Chris_Lawrence         *      -
+bc/cnn/00/cnn_0001   11   4          it   PRP        (NP*)     -   -   -    Chris_Lawrence         *    (81)
+bc/cnn/00/cnn_0001   11   5          wo    MD        (VP*      -   -   -    Chris_Lawrence         *      -
+bc/cnn/00/cnn_0001   11   6         n't    RB           *)     -   -   -    Chris_Lawrence         *      -
+bc/cnn/00/cnn_0001   11   7          /.     .          *))     -   -   -    Chris_Lawrence         *      -
+
+bc/cnn/00/cnn_0001   11   0            On    IN  (TOP(S(PP*          -    -   -    Chris_Lawrence       *      *    (ARG3*         *       -
+bc/cnn/00/cnn_0001   11   1      December   NNP        (NP*          -    -   -    Chris_Lawrence  (DATE*      *         *         *       -
+bc/cnn/00/cnn_0001   11   2    thirteenth    NN          *))         -    -   -    Chris_Lawrence       *)     *         *)        *       -
+bc/cnn/00/cnn_0001   11   3            he   PRP        (NP*)         -    -   -    Chris_Lawrence       *      *    (ARG1*)   (ARG1*)   (137)
+bc/cnn/00/cnn_0001   11   4            's   VBZ        (VP*          be  03   9    Chris_Lawrence       *    (V*)        *         *       -
+bc/cnn/00/cnn_0001   11   5     scheduled   VBN        (VP*    schedule  01   1    Chris_Lawrence       *      *       (V*)        *       -
+bc/cnn/00/cnn_0001   11   6            to    TO      (S(VP*          -    -   -    Chris_Lawrence       *      *    (ARG2*         *       -
+bc/cnn/00/cnn_0001   11   7           die    VB    (VP*)))))        die  01   1    Chris_Lawrence       *      *         *)      (V*)      -
+bc/cnn/00/cnn_0001   11   8            /.     .          *))         -    -   -    Chris_Lawrence       *      *         *         *       -
+
+bc/cnn/00/cnn_0001   11    0            I   PRP   (TOP(S(NP*)          -    -   -    Unidentified_Male  *      *       (ARG0*)     *   -
+bc/cnn/00/cnn_0001   11    1           am   VBP         (VP*           be  03   -    Unidentified_Male  *    (V*)           *      *   -
+bc/cnn/00/cnn_0001   11    2           at    IN         (PP*           -    -   -    Unidentified_Male  *      *   (ARGM-TMP*      *   -
+bc/cnn/00/cnn_0001   11    3         this    DT         (NP*           -    -   -    Unidentified_Male  *      *            *      *   -
+bc/cnn/00/cnn_0001   11    4         time    NN           *))        time   -   1    Unidentified_Male  *      *            *)     *   -
+bc/cnn/00/cnn_0001   11    5      signing   VBG         (VP*         sign  01   1    Unidentified_Male  *      *          (V*)     *   -
+bc/cnn/00/cnn_0001   11    6            a    DT      (NP(NP*           -    -   -    Unidentified_Male  *      *       (ARG1*      *   -
+bc/cnn/00/cnn_0001   11    7      warrant    NN            *)     warrant   -   -    Unidentified_Male  *      *            *      *   -
+bc/cnn/00/cnn_0001   11    8           of    IN         (PP*           -    -   -    Unidentified_Male  *      *            *      *   -
+bc/cnn/00/cnn_0001   11    9    execution    NN     (NP*)))))   execution  01   1    Unidentified_Male  *      *            *)   (V*)  -
+bc/cnn/00/cnn_0001   11   10           /.     .           *))          -    -   -    Unidentified_Male  *      *            *      *   -
+
+bc/cnn/00/cnn_0001   11   0    Williams    NNP  (TOP(S(NP(NP*      -    -   -    Chris_Lawrence   (PERSON)  (ARG1*   (137|(171
+bc/cnn/00/cnn_0001   11   1           '    POS              *)     -    -   -    Chris_Lawrence         *        *         137)
+bc/cnn/00/cnn_0001   11   2       books    NNS              *)   book   -   1    Chris_Lawrence         *        *)        171)
+bc/cnn/00/cnn_0001   11   3         are    VBP           (VP*      be  01   2    Chris_Lawrence         *      (V*)          -
+bc/cnn/00/cnn_0001   11   4           a     DT        (NP(NP*      -    -   -    Chris_Lawrence         *   (ARG2*           -
+bc/cnn/00/cnn_0001   11   5        part     NN              *)   part   -   1    Chris_Lawrence         *        *           -
+bc/cnn/00/cnn_0001   11   6          of     IN           (PP*      -    -   -    Chris_Lawrence         *        *           -
+bc/cnn/00/cnn_0001   11   7         his   PRP$           (NP*      -    -   -    Chris_Lawrence         *        *    (50|(137)
+bc/cnn/00/cnn_0001   11   8      legacy     NN           *))))     -    -   -    Chris_Lawrence         *        *)         50)
+bc/cnn/00/cnn_0001   11   9          /.      .             *))     -    -   -    Chris_Lawrence         *        *           -
+
+bc/cnn/00/cnn_0001   11   0       so     RB   (TOP(SINV(ADVP*)   -    -   -    Chris_Lawrence  *    (ARG2*)     -
+bc/cnn/00/cnn_0001   11   1      are    VBP              (VP*)   be  01   2    Chris_Lawrence  *       (V*)     -
+bc/cnn/00/cnn_0001   11   2      the     DT              (NP*    -    -   -    Chris_Lawrence  *    (ARG1*   (109
+bc/cnn/00/cnn_0001   11   3    Crips   NNPS                 *)   -    -   -    Chris_Lawrence  *         *)   109)
+bc/cnn/00/cnn_0001   11   4       /.      .                *))   -    -   -    Chris_Lawrence  *         *      -
+
+bc/cnn/00/cnn_0001   11    0            In    IN       (TOP(S(PP*         -    -   -    Chris_Lawrence       *      *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0001   11    1        thirty    CD             (NP*         -    -   -    Chris_Lawrence  (DATE*      *            *       -
+bc/cnn/00/cnn_0001   11    2         years   NNS               *))        -    -   -    Chris_Lawrence       *)     *            *)      -
+bc/cnn/00/cnn_0001   11    3           the    DT             (NP*         -    -   -    Chris_Lawrence       *      *       (ARG1*    (109
+bc/cnn/00/cnn_0001   11    4          gang    NN                *)      gang   -   -    Chris_Lawrence       *      *            *)    109)
+bc/cnn/00/cnn_0001   11    5           has   VBZ             (VP*       have  01   -    Chris_Lawrence       *    (V*)           *       -
+bc/cnn/00/cnn_0001   11    6        spread   VBN             (VP*     spread  01   2    Chris_Lawrence       *      *          (V*)      -
+bc/cnn/00/cnn_0001   11    7          from    IN             (PP*         -    -   -    Chris_Lawrence       *      *   (ARGM-DIR*       -
+bc/cnn/00/cnn_0001   11    8    California   NNP            (NP*))        -    -   -    Chris_Lawrence    (GPE)     *            *)   (155)
+bc/cnn/00/cnn_0001   11    9            to    IN             (PP*         -    -   -    Chris_Lawrence       *      *   (ARGM-DIR*       -
+bc/cnn/00/cnn_0001   11   10          just    RB  (NP(NP(QP(ADVP*         -    -   -    Chris_Lawrence       *      *            *       -
+bc/cnn/00/cnn_0001   11   11         about    RB                *)        -    -   -    Chris_Lawrence       *      *            *       -
+bc/cnn/00/cnn_0001   11   12         every    DT                *)        -    -   -    Chris_Lawrence       *      *            *       -
+bc/cnn/00/cnn_0001   11   13         state    NN                *)     state   -   2    Chris_Lawrence       *      *            *       -
+bc/cnn/00/cnn_0001   11   14            in    IN             (PP*         -    -   -    Chris_Lawrence       *      *            *       -
+bc/cnn/00/cnn_0001   11   15           the    DT             (NP*         -    -   -    Chris_Lawrence       *      *            *    (133
+bc/cnn/00/cnn_0001   11   16       country    NN           *))))))   country   -   3    Chris_Lawrence       *      *            *)    133)
+bc/cnn/00/cnn_0001   11   17            /.     .               *))        -    -   -    Chris_Lawrence       *      *            *       -
+
+bc/cnn/00/cnn_0001   11    0          Fred   NNP      (TOP(S(NP*          -    -   -    Chris_Lawrence  (PERSON*   (ARG0*            *         *   (143
+bc/cnn/00/cnn_0001   11    1       Jackson   NNP               *)         -    -   -    Chris_Lawrence         *)       *)           *         *    143)
+bc/cnn/00/cnn_0001   11    2         works   VBZ            (VP*        work  01   1    Chris_Lawrence         *      (V*)           *         *      -
+bc/cnn/00/cnn_0001   11    3          with    IN            (PP*          -    -   -    Chris_Lawrence         *   (ARG3*            *         *      -
+bc/cnn/00/cnn_0001   11    4          kids   NNS         (NP(NP*)        kid   -   -    Chris_Lawrence         *        *       (ARG1*)        *   (175
+bc/cnn/00/cnn_0001   11    5           who    WP     (SBAR(WHNP*)         -    -   -    Chris_Lawrence         *        *     (R-ARG1*)   (ARG2*)     -
+bc/cnn/00/cnn_0001   11    6          grow   VBP          (S(VP*        grow  04   3    Chris_Lawrence         *        *          (V*)        *      -
+bc/cnn/00/cnn_0001   11    7            up    RP           (PRT*)         -    -   -    Chris_Lawrence         *        *            *         *      -
+bc/cnn/00/cnn_0001   11    8    surrounded   VBN          (S(VP*    surround  01   -    Chris_Lawrence         *        *   (ARGM-MNR*       (V*)     -
+bc/cnn/00/cnn_0001   11    9            by    IN            (PP*          -    -   -    Chris_Lawrence         *        *            *    (ARG1*      -
+bc/cnn/00/cnn_0001   11   10         gangs   NNS   (NP*))))))))))       gang   -   -    Chris_Lawrence         *        *)           *)        *)   175)
+bc/cnn/00/cnn_0001   11   11            /.     .              *))         -    -   -    Chris_Lawrence         *        *            *         *      -
+
+bc/cnn/00/cnn_0001   11    0            He   PRP    (TOP(S(NP*)       -    -   -    Chris_Lawrence         *    (ARG0*)            *      *             *    (143)
+bc/cnn/00/cnn_0001   11    1          says   VBZ          (VP*       say  01   1    Chris_Lawrence         *       (V*)            *      *             *       -
+bc/cnn/00/cnn_0001   11    2          they   PRP   (SBAR(S(NP*)       -    -   -    Chris_Lawrence         *    (ARG1*        (ARG0*)     *        (ARG0*)   (175)
+bc/cnn/00/cnn_0001   11    3        really    RB        (ADVP*)       -    -   -    Chris_Lawrence         *         *    (ARGM-ADV*)     *             *       -
+bc/cnn/00/cnn_0001   11    4        listen   VBP       (VP(VP*    listen  01   1    Chris_Lawrence         *         *           (V*)     *             *       -
+bc/cnn/00/cnn_0001   11    5            to    IN          (PP*        -    -   -    Chris_Lawrence         *         *        (ARG1*      *             *       -
+bc/cnn/00/cnn_0001   11    6      Williams   NNP        (NP*)))       -    -   -    Chris_Lawrence   (PERSON)        *             *)     *             *    (137)
+bc/cnn/00/cnn_0001   11    7            do   VBP          (VP*        do  01   -    Chris_Lawrence         *         *             *    (V*)            *       -
+bc/cnn/00/cnn_0001   11    8           n't    RB             *        -    -   -    Chris_Lawrence         *         *             *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   11    9          tune    VB          (VP*      tune  03   3    Chris_Lawrence         *         *             *      *           (V*)      -
+bc/cnn/00/cnn_0001   11   10           him   PRP          (NP*)       -    -   -    Chris_Lawrence         *         *             *      *        (ARG1*)   (137)
+bc/cnn/00/cnn_0001   11   11           out    RP         (PRT*)       -    -   -    Chris_Lawrence         *         *             *      *             *       -
+bc/cnn/00/cnn_0001   11   12          like    IN          (PP*        -    -   -    Chris_Lawrence         *         *             *      *    (ARGM-MNR*       -
+bc/cnn/00/cnn_0001   11   13          cops   NNS          (NP*       cop   -   -    Chris_Lawrence         *         *             *      *             *       -
+bc/cnn/00/cnn_0001   11   14            or    CC             *        -    -   -    Chris_Lawrence         *         *             *      *             *       -
+bc/cnn/00/cnn_0001   11   15    counselors   NNS      *))))))))       -    -   -    Chris_Lawrence         *         *)            *      *             *)      -
+bc/cnn/00/cnn_0001   11   16            /.     .            *))       -    -   -    Chris_Lawrence         *         *             *      *             *       -
+
+bc/cnn/00/cnn_0001   11    0          To    TO  (TOP(S(S(VP*       -    -   -    Fred_Jackson         *         *      *        (ARG0*       -
+bc/cnn/00/cnn_0001   11    1        kill    VB          (VP*     kill  01   1    Fred_Jackson         *       (V*)     *             *       -
+bc/cnn/00/cnn_0001   11    2        Stan   NNP       (NP*))))      -    -   -    Fred_Jackson   (PERSON)   (ARG1*)     *             *)   (137)
+bc/cnn/00/cnn_0001   11    3        will    MD          (VP*       -    -   -    Fred_Jackson         *         *      *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0001   11    4          be    VB          (VP*       be  03   -    Fred_Jackson         *         *    (V*)            *       -
+bc/cnn/00/cnn_0001   11    5    throwing   VBG          (VP*    throw  01   2    Fred_Jackson         *         *      *           (V*)      -
+bc/cnn/00/cnn_0001   11    6         the    DT          (NP*       -    -   -    Fred_Jackson         *         *      *        (ARG1*       -
+bc/cnn/00/cnn_0001   11    7        baby    NN             *)    baby   -   -    Fred_Jackson         *         *      *             *)      -
+bc/cnn/00/cnn_0001   11    8         out    IN         (PRT*)      -    -   -    Fred_Jackson         *         *      *        (ARG2*)      -
+bc/cnn/00/cnn_0001   11    9        with    IN          (PP*       -    -   -    Fred_Jackson         *         *      *    (ARGM-MNR*       -
+bc/cnn/00/cnn_0001   11   10         the    DT          (NP*       -    -   -    Fred_Jackson         *         *      *             *       -
+bc/cnn/00/cnn_0001   11   11        bath    NN             *     bath   -   -    Fred_Jackson         *         *      *             *       -
+bc/cnn/00/cnn_0001   11   12       water    NN         *)))))   water   -   -    Fred_Jackson         *         *      *             *)      -
+bc/cnn/00/cnn_0001   11   13          /.     .            *))      -    -   -    Fred_Jackson         *         *      *             *       -
+
+bc/cnn/00/cnn_0001   11   0      Jackson   NNP     (TOP(S(NP*)        -    -   -    Chris_Lawrence   (PERSON)   (ARG0*)        *        *    (143)
+bc/cnn/00/cnn_0001   11   1         says   VBZ           (VP*        say  01   1    Chris_Lawrence         *       (V*)        *        *       -
+bc/cnn/00/cnn_0001   11   2    executing   VBG  (SBAR(S(S(VP*    execute  01   1    Chris_Lawrence         *    (ARG1*       (V*)  (ARG0*       -
+bc/cnn/00/cnn_0001   11   3     Williams   NNP         (NP*)))        -    -   -    Chris_Lawrence   (PERSON)        *    (ARG1*)       *)   (137)
+bc/cnn/00/cnn_0001   11   4        sends   VBZ           (VP*       send  01   1    Chris_Lawrence         *         *         *      (V*)      -
+bc/cnn/00/cnn_0001   11   5          the    DT           (NP*         -    -   -    Chris_Lawrence         *         *         *   (ARG1*       -
+bc/cnn/00/cnn_0001   11   6        wrong    JJ              *         -    -   -    Chris_Lawrence         *         *         *        *       -
+bc/cnn/00/cnn_0001   11   7      message    NN          *)))))   message   -   1    Chris_Lawrence         *         *)        *        *)      -
+bc/cnn/00/cnn_0001   11   8           /.     .             *))        -    -   -    Chris_Lawrence         *         *         *        *       -
+
+bc/cnn/00/cnn_0001   11    0        You    PRP        (TOP(S(NP*)       -    -    -    Fred_Jackson  *      *        (ARG0*)     *        (ARG0*)            *   -
+bc/cnn/00/cnn_0001   11    1      would     MD              (VP*        -    -    -    Fred_Jackson  *      *    (ARGM-MOD*)     *             *             *   -
+bc/cnn/00/cnn_0001   11    2         be     VB              (VP*        be  03    -    Fred_Jackson  *    (V*)            *      *             *             *   -
+bc/cnn/00/cnn_0001   11    3    telling    VBG              (VP*      tell  01    1    Fred_Jackson  *      *           (V*)     *             *             *   -
+bc/cnn/00/cnn_0001   11    4       gang     NN           (NP(NP*      gang   -    -    Fred_Jackson  *      *        (ARG2*      *             *             *   -
+bc/cnn/00/cnn_0001   11    5    members    NNS                 *)   member   -    1    Fred_Jackson  *      *             *      *             *             *   -
+bc/cnn/00/cnn_0001   11    6         or     CC                 *        -    -    -    Fred_Jackson  *      *             *      *             *             *   -
+bc/cnn/00/cnn_0001   11    7      those     DT              (NP*        -    -    -    Fred_Jackson  *      *             *      *             *             *   -
+bc/cnn/00/cnn_0001   11    8    wannabe     JJ                 *        -    -    -    Fred_Jackson  *      *             *      *             *             *   -
+bc/cnn/00/cnn_0001   11    9       gang     NN                 *      gang   -    -    Fred_Jackson  *      *             *      *             *             *   -
+bc/cnn/00/cnn_0001   11   10    members    NNS                *))   member   -    1    Fred_Jackson  *      *             *)     *             *             *   -
+bc/cnn/00/cnn_0001   11   11         do    VBP          (S(S(VP*        do  01    -    Fred_Jackson  *      *        (ARG1*    (V*)            *             *   -
+bc/cnn/00/cnn_0001   11   12        n't     RB                 *        -    -    -    Fred_Jackson  *      *             *      *    (ARGM-NEG*)            *   -
+bc/cnn/00/cnn_0001   11   13       care     VB              (VP*      care  01    1    Fred_Jackson  *      *             *      *           (V*)            *   -
+bc/cnn/00/cnn_0001   11   14        how    WRB     (SBAR(WHADVP*)       -    -    -    Fred_Jackson  *      *             *      *        (ARG1*    (ARGM-MNR*)  -
+bc/cnn/00/cnn_0001   11   15        you    PRP            (S(NP*)       -    -    -    Fred_Jackson  *      *             *      *             *        (ARG0*)  -
+bc/cnn/00/cnn_0001   11   16       turn    VBP              (VP*      turn  01   13    Fred_Jackson  *      *             *      *             *           (V*)  -
+bc/cnn/00/cnn_0001   11   17       your   PRP$              (NP*        -    -    -    Fred_Jackson  *      *             *      *             *        (ARG1*   -
+bc/cnn/00/cnn_0001   11   18       life     NN                 *)     life   -    2    Fred_Jackson  *      *             *      *             *             *)  -
+bc/cnn/00/cnn_0001   11   19     around     RP   (PRT*)))))))))))       -    -    -    Fred_Jackson  *      *             *)     *             *)   (ARGM-DIR*)  -
+bc/cnn/00/cnn_0001   11   20         /.      .                *))       -    -    -    Fred_Jackson  *      *             *      *             *             *   -
+
+bc/cnn/00/cnn_0001   11   0     once    RB  (TOP(S(SBAR*    -    -   -    Fred_Jackson  *         *   (ARGM-TMP*   -
+bc/cnn/00/cnn_0001   11   1      you   PRP        (S(NP*)   -    -   -    Fred_Jackson  *    (ARG1*)           *   -
+bc/cnn/00/cnn_0001   11   2      are   VBP          (VP*    be  01   1    Fred_Jackson  *       (V*)           *   -
+bc/cnn/00/cnn_0001   11   3    stuck    JJ     (ADJP*))))   -    -   -    Fred_Jackson  *    (ARG2*)           *)  -
+bc/cnn/00/cnn_0001   11   4      you   PRP          (NP*)   -    -   -    Fred_Jackson  *         *       (ARG1*)  -
+bc/cnn/00/cnn_0001   11   5      are   VBP          (VP*    be  01   1    Fred_Jackson  *         *          (V*)  -
+bc/cnn/00/cnn_0001   11   6    stuck    JJ       (ADJP*))   -    -   -    Fred_Jackson  *         *       (ARG2*)  -
+bc/cnn/00/cnn_0001   11   7       /.     .            *))   -    -   -    Fred_Jackson  *         *            *   -
+
+bc/cnn/00/cnn_0001   11    0            No     DT  (TOP(S(NP*         -    -   -    Chris_Lawrence       *         *      *      *       (ARG2*       -
+bc/cnn/00/cnn_0001   11    1     condemned    VBN           *    condemn  01   -    Chris_Lawrence       *       (V*)     *      *            *       -
+bc/cnn/00/cnn_0001   11    2      murderer     NN           *)        -    -   -    Chris_Lawrence       *    (ARG1*)     *      *            *)      -
+bc/cnn/00/cnn_0001   11    3           has    VBZ        (VP*       have  01   -    Chris_Lawrence       *         *    (V*)     *            *       -
+bc/cnn/00/cnn_0001   11    4          been    VBN        (VP*         be  03   -    Chris_Lawrence       *         *      *    (V*)           *       -
+bc/cnn/00/cnn_0001   11    5       granted    VBN        (VP*      grant  01   1    Chris_Lawrence       *         *      *      *          (V*)      -
+bc/cnn/00/cnn_0001   11    6      clemency     NN        (NP*)        -    -   -    Chris_Lawrence       *         *      *      *       (ARG1*)      -
+bc/cnn/00/cnn_0001   11    7            in     IN        (PP*         -    -   -    Chris_Lawrence       *         *      *      *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0001   11    8    California    NNP       (NP*))        -    -   -    Chris_Lawrence    (GPE)        *      *      *            *)   (155)
+bc/cnn/00/cnn_0001   11    9         since     IN        (PP*         -    -   -    Chris_Lawrence       *         *      *      *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0001   11   10      nineteen     CD        (NP*         -    -   -    Chris_Lawrence  (DATE*         *      *      *            *       -
+bc/cnn/00/cnn_0001   11   11         sixty     CD           *         -    -   -    Chris_Lawrence       *         *      *      *            *       -
+bc/cnn/00/cnn_0001   11   12            -    HYPH           *         -    -   -    Chris_Lawrence       *         *      *      *            *       -
+bc/cnn/00/cnn_0001   11   13         seven     CD       *)))))        -    -   -    Chris_Lawrence       *)        *      *      *            *)      -
+bc/cnn/00/cnn_0001   11   14            /.      .          *))        -    -   -    Chris_Lawrence       *         *      *      *            *       -
+
+bc/cnn/00/cnn_0001   11    0          The    DT     (TOP(S(NP*          -    -   -    Chris_Lawrence              *   (ARG1*      *           *           -
+bc/cnn/00/cnn_0001   11    1         odds   NNS              *)         -    -   -    Chris_Lawrence              *        *)     *           *           -
+bc/cnn/00/cnn_0001   11    2          are   VBP           (VP*          be  01   1    Chris_Lawrence              *      (V*)     *           *           -
+bc/cnn/00/cnn_0001   11    3      against    IN           (PP*          -    -   -    Chris_Lawrence              *   (ARG2*      *           *           -
+bc/cnn/00/cnn_0001   11    4          any    DT        (NP(NP*          -    -   -    Chris_Lawrence              *        *      *           *           -
+bc/cnn/00/cnn_0001   11    5          man    NN              *)        man   -   1    Chris_Lawrence              *        *      *           *           -
+bc/cnn/00/cnn_0001   11    6         even    RB        (NP(NP*          -    -   -    Chris_Lawrence              *        *      *           *           -
+bc/cnn/00/cnn_0001   11    7          one    CD              *)         -    -   -    Chris_Lawrence              *        *      *           *           -
+bc/cnn/00/cnn_0001   11    8         like    IN           (PP*          -    -   -    Chris_Lawrence              *        *      *           *           -
+bc/cnn/00/cnn_0001   11    9       Tookie   NNP        (NP(NP*          -    -   -    Chris_Lawrence        (PERSON)       *      *      (ARG1*        (137
+bc/cnn/00/cnn_0001   11   10     Williams   NNP              *)         -    -   -    Chris_Lawrence              *        *      *           *)          -
+bc/cnn/00/cnn_0001   11   11          who    WP    (SBAR(WHNP*)         -    -   -    Chris_Lawrence              *        *      *    (R-ARG1*)          -
+bc/cnn/00/cnn_0001   11   12          was   VBD         (S(VP*          be  03   -    Chris_Lawrence              *        *    (V*)          *           -
+bc/cnn/00/cnn_0001   11   13    nominated   VBN           (VP*    nominate  01   1    Chris_Lawrence              *        *      *         (V*)          -
+bc/cnn/00/cnn_0001   11   14          for    IN           (PP*          -    -   -    Chris_Lawrence              *        *      *      (ARG2*           -
+bc/cnn/00/cnn_0001   11   15            a    DT           (NP*          -    -   -    Chris_Lawrence  (WORK_OF_ART*        *      *           *        (131
+bc/cnn/00/cnn_0001   11   16        Nobel   NNP              *          -    -   -    Chris_Lawrence              *        *      *           *           -
+bc/cnn/00/cnn_0001   11   17        Peace   NNP              *          -    -   -    Chris_Lawrence              *        *      *           *           -
+bc/cnn/00/cnn_0001   11   18        prize   NNP   *))))))))))))         -    -   -    Chris_Lawrence              *)       *)     *           *)   137)|131)
+bc/cnn/00/cnn_0001   11   19           /.     .             *))         -    -   -    Chris_Lawrence              *        *      *           *           -
+
+bc/cnn/00/cnn_0001   11   0    But    CC  (TOP(S*     -    -   -    Wesley_McBride  *      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   11   1     he   PRP     (NP*)    -    -   -    Wesley_McBride  *      *        (ARG0*)   (137)
+bc/cnn/00/cnn_0001   11   2    did   VBD     (VP*     do  01   -    Wesley_McBride  *    (V*)            *       -
+bc/cnn/00/cnn_0001   11   3    n't    RB        *     -    -   -    Wesley_McBride  *      *    (ARGM-NEG*)      -
+bc/cnn/00/cnn_0001   11   4    win    VB     (VP*    win  01   2    Wesley_McBride  *      *           (V*)      -
+bc/cnn/00/cnn_0001   11   5     it   PRP   (NP*)))    -    -   -    Wesley_McBride  *      *        (ARG1*)   (131)
+bc/cnn/00/cnn_0001   11   6     /.     .       *))    -    -   -    Wesley_McBride  *      *             *       -
+
+bc/cnn/00/cnn_0001   11    0          You   PRP   (TOP(SQ(PRN(S(NP*)        -    -   -    Wesley_McBride  *    (ARG0*)     *      *             *      *             *         *       -
+bc/cnn/00/cnn_0001   11    1         know   VBP              (VP*)))      know  01   1    Wesley_McBride  *       (V*)     *      *             *      *             *         *       -
+bc/cnn/00/cnn_0001   11    2          and    CC                   *         -    -   -    Wesley_McBride  *         *      *      *    (ARGM-DIS*)     *             *         *       -
+bc/cnn/00/cnn_0001   11    3         even    RB         (SBAR(ADVP*)        -    -   -    Wesley_McBride  *         *      *      *    (ARGM-ADV*      *             *         *       -
+bc/cnn/00/cnn_0001   11    4           if    IN                   *         -    -   -    Wesley_McBride  *         *      *      *             *      *             *         *       -
+bc/cnn/00/cnn_0001   11    5           he   PRP              (S(NP*)        -    -   -    Wesley_McBride  *         *      *      *             *      *             *         *    (137)
+bc/cnn/00/cnn_0001   11    6          did   VBD              (VP*)))        do  01   -    Wesley_McBride  *         *    (V*)     *             *)     *             *         *       -
+bc/cnn/00/cnn_0001   11    7         does   VBZ                   *         do  01   -    Wesley_McBride  *         *      *    (V*)            *      *             *         *       -
+bc/cnn/00/cnn_0001   11    8         that    DT                (NP*)        -    -   -    Wesley_McBride  *         *      *      *        (ARG0*)     *             *         *       -
+bc/cnn/00/cnn_0001   11    9         mean    VB                (VP*       mean  01   4    Wesley_McBride  *         *      *      *           (V*)     *             *         *       -
+bc/cnn/00/cnn_0001   11   10           uh    UH       (SBAR(S(INTJ*)        -    -   -    Wesley_McBride  *         *      *      *        (ARG1*      *    (ARGM-DIS*)        *       -
+bc/cnn/00/cnn_0001   11   11          you   PRP                (NP*)        -    -   -    Wesley_McBride  *         *      *      *             *      *        (ARG1*)   (ARG0*)      -
+bc/cnn/00/cnn_0001   11   12          're   VBP                (VP*         be  03   -    Wesley_McBride  *         *      *      *             *    (V*)            *         *       -
+bc/cnn/00/cnn_0001   11   13     forgiven   VBN                (VP*    forgive  01   -    Wesley_McBride  *         *      *      *             *      *           (V*)        *       -
+bc/cnn/00/cnn_0001   11   14          for    IN                (PP*         -    -   -    Wesley_McBride  *         *      *      *             *      *        (ARG2*         *       -
+bc/cnn/00/cnn_0001   11   15    murdering   VBG              (S(VP*     murder  01   1    Wesley_McBride  *         *      *      *             *      *             *       (V*)      -
+bc/cnn/00/cnn_0001   11   16            a    DT                (NP*         -    -   -    Wesley_McBride  *         *      *      *             *      *             *    (ARG1*       -
+bc/cnn/00/cnn_0001   11   17        whole    JJ                   *         -    -   -    Wesley_McBride  *         *      *      *             *      *             *         *       -
+bc/cnn/00/cnn_0001   11   18       family    NN           *)))))))))    family   -   1    Wesley_McBride  *         *      *      *             *)     *             *)        *)      -
+bc/cnn/00/cnn_0001   11   19           /?     .                  *))        -    -   -    Wesley_McBride  *         *      *      *             *      *             *         *       -
+
+bc/cnn/00/cnn_0001   11   0       No    UH   (TOP(S(INTJ*)      -    -   -    Wesley_McBride  *      *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0001   11   1        I   PRP           (NP*)      -    -   -    Wesley_McBride  *      *        (ARG0*)   (4)
+bc/cnn/00/cnn_0001   11   2       do   VBP           (VP*       do  01   -    Wesley_McBride  *    (V*)            *     -
+bc/cnn/00/cnn_0001   11   3      n't    RB              *       -    -   -    Wesley_McBride  *      *    (ARGM-NEG*)    -
+bc/cnn/00/cnn_0001   11   4    think    VB           (VP*    think  01   1    Wesley_McBride  *      *           (V*)    -
+bc/cnn/00/cnn_0001   11   5       so    RB       (ADVP*)))      -    -   -    Wesley_McBride  *      *        (ARG1*)    -
+bc/cnn/00/cnn_0001   11   6       /.     .             *))      -    -   -    Wesley_McBride  *      *             *     -
+
+bc/cnn/00/cnn_0001   11    0           Like     IN  (TOP(S(PP*      -    -    -    Chris_Lawrence         *    (ARGM-MNR*          -
+bc/cnn/00/cnn_0001   11    1            his   PRP$        (NP*      -    -    -    Chris_Lawrence         *             *    (8|(137)
+bc/cnn/00/cnn_0001   11    2           life     NN          *))   life   -   11    Chris_Lawrence         *             *)         8)
+bc/cnn/00/cnn_0001   11    3         Tookie    NNP     (NP(NP*      -    -    -    Chris_Lawrence  (PERSON*        (ARG1*   (50|(137
+bc/cnn/00/cnn_0001   11    4       Williams    NNP           *      -    -    -    Chris_Lawrence         *             *          -
+bc/cnn/00/cnn_0001   11    5              '    POS           *)     -    -    -    Chris_Lawrence         *)            *        137)
+bc/cnn/00/cnn_0001   11    6         legacy     NN           *)     -    -    -    Chris_Lawrence         *             *)        50)
+bc/cnn/00/cnn_0001   11    7           will     MD        (VP*      -    -    -    Chris_Lawrence         *    (ARGM-MOD*)         -
+bc/cnn/00/cnn_0001   11    8             be     VB        (VP*      be  01    1    Chris_Lawrence         *           (V*)         -
+bc/cnn/00/cnn_0001   11    9    complicated     JJ    (ADJP*)))     -    -    -    Chris_Lawrence         *        (ARG2*)         -
+bc/cnn/00/cnn_0001   11   10             /.      .          *))     -    -    -    Chris_Lawrence         *             *          -
+
+bc/cnn/00/cnn_0001   11   0       Chris   NNP  (TOP(FRAG(NP*   -   -   -    Chris_Lawrence  (PERSON*   (169
+bc/cnn/00/cnn_0001   11   1    Lawrence   NNP              *)  -   -   -    Chris_Lawrence         *)   169)
+bc/cnn/00/cnn_0001   11   2         CNN   NNP           (NP*)  -   -   -    Chris_Lawrence      (ORG)   (64)
+bc/cnn/00/cnn_0001   11   3         Los   NNP           (NP*   -   -   -    Chris_Lawrence     (GPE*      -
+bc/cnn/00/cnn_0001   11   4     Angeles   NNP              *)  -   -   -    Chris_Lawrence         *)     -
+bc/cnn/00/cnn_0001   11   5          /.     .             *))  -   -   -    Chris_Lawrence         *      -

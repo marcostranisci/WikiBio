@@ -1,0 +1,671 @@
+bc/cnn/00/cnn_0002   8    0              A    DT  (TOP(S(ADVP(ADVP(NP*           -    -   -    Anderson_Cooper       *   (ARGM-TMP*      -
+bc/cnn/00/cnn_0002   8    1         little    JJ                     *           -    -   -    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8    2            bit    NN                     *)        bite   -   -    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8    3           more   RBR                     *)          -    -   -    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8    4           than    IN                  (PP*           -    -   -    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8    5              a    DT             (ADVP(NP*           -    -   -    Anderson_Cooper  (DATE*            *      -
+bc/cnn/00/cnn_0002   8    6         decade    NN                     *)      decade   -   1    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8    7            ago    RB                   *)))          -    -   -    Anderson_Cooper       *)           *)     -
+bc/cnn/00/cnn_0002   8    8             in    IN                  (PP*           -    -   -    Anderson_Cooper       *   (ARGM-LOC*      -
+bc/cnn/00/cnn_0002   8    9            the    DT               (NP(NP*           -    -   -    Anderson_Cooper       *            *   (134
+bc/cnn/00/cnn_0002   8   10        central    JJ                (ADJP*           -    -   -    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8   11        African    JJ                     *)          -    -   -    Anderson_Cooper    (LOC)           *      -
+bc/cnn/00/cnn_0002   8   12         nation    NN                     *)      nation   -   1    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8   13             of    IN                  (PP*           -    -   -    Anderson_Cooper       *            *      -
+bc/cnn/00/cnn_0002   8   14         Rwanda   NNP               (NP*))))          -    -   -    Anderson_Cooper    (GPE)           *)   134)
+bc/cnn/00/cnn_0002   8   15      something    NN               (NP(NP*)   something   -   4    Anderson_Cooper       *       (ARG1*   (168
+bc/cnn/00/cnn_0002   8   16    unspeakable    JJ               (ADJP*))          -    -   -    Anderson_Cooper       *            *)   168)
+bc/cnn/00/cnn_0002   8   17       happened   VBD                  (VP*)      happen  01   1    Anderson_Cooper       *          (V*)     -
+bc/cnn/00/cnn_0002   8   18             /.     .                    *))          -    -   -    Anderson_Cooper       *            *      -
+
+bc/cnn/00/cnn_0002   8    0    Genocide    NN   (TOP(FRAG(NP*)       -    -   -    Anderson_Cooper          *            *         *    (168)
+bc/cnn/00/cnn_0002   8    1      though    IN          (SBAR*        -    -   -    Anderson_Cooper          *            *         *       -
+bc/cnn/00/cnn_0002   8    2         the    DT          (S(NP*        -    -   -    Anderson_Cooper          *       (ARG0*    (ARG0*       -
+bc/cnn/00/cnn_0002   8    3          US   NNP               *)       -    -   -    Anderson_Cooper       (GPE)           *)        *)      -
+bc/cnn/00/cnn_0002   8    4     refused   VBD            (VP*    refuse  01   1    Anderson_Cooper          *          (V*)        *       -
+bc/cnn/00/cnn_0002   8    5          to    TO          (S(VP*        -    -   -    Anderson_Cooper          *       (ARG1*         *       -
+bc/cnn/00/cnn_0002   8    6        call    VB            (VP*      call  01   5    Anderson_Cooper          *            *       (V*)      -
+bc/cnn/00/cnn_0002   8    7          it   PRP            (NP*)       -    -   -    Anderson_Cooper          *            *    (ARG1*)   (168)
+bc/cnn/00/cnn_0002   8    8        that    DT      (S(NP*)))))       -    -   -    Anderson_Cooper          *            *)   (ARG2*)      -
+bc/cnn/00/cnn_0002   8    9          at    IN            (PP*        -    -   -    Anderson_Cooper          *   (ARGM-TMP*         *       -
+bc/cnn/00/cnn_0002   8   10       first    RB      (ADVP*)))))       -    -   -    Anderson_Cooper   (ORDINAL)           *)        *       -
+bc/cnn/00/cnn_0002   8   11          /.     .              *))       -    -   -    Anderson_Cooper          *            *         *       -
+
+bc/cnn/00/cnn_0002   8    0       Eight    CD  (TOP(S(NP(NP(NP(QP*        -    -   -    Anderson_Cooper  (CARDINAL*      *        (ARG1*       (ARG1*   (ARG1*   (ARG1*       -
+bc/cnn/00/cnn_0002   8    1     hundred    CD                    *        -    -   -    Anderson_Cooper           *      *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    2    thousand    CD                    *)       -    -   -    Anderson_Cooper           *)     *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    3      people   NNS                    *)   people   -   1    Anderson_Cooper           *      *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    4          at    IN               (ADVP*        -    -   -    Anderson_Cooper           *      *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    5       least   JJS                   *))       -    -   -    Anderson_Cooper           *      *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    6       women   NNS                 (NP*     woman   -   1    Anderson_Cooper           *      *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    7         men   NNS                    *       man   -   1    Anderson_Cooper           *      *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    8         and    CC                    *        -    -   -    Anderson_Cooper           *      *             *            *        *        *       -
+bc/cnn/00/cnn_0002   8    9    children   NNS                   *))    child   -   1    Anderson_Cooper           *      *             *)           *)       *)       *)      -
+bc/cnn/00/cnn_0002   8   10        were   VBD                 (VP*        be  03   -    Anderson_Cooper           *    (V*)            *            *        *        *       -
+bc/cnn/00/cnn_0002   8   11    brutally    RB               (ADVP*)       -    -   -    Anderson_Cooper           *      *    (ARGM-MNR*)           *        *        *       -
+bc/cnn/00/cnn_0002   8   12      killed   VBN                 (VP*      kill  01   -    Anderson_Cooper           *      *           (V*)           *        *        *    (168)
+bc/cnn/00/cnn_0002   8   13      hacked   VBN            (S(VP(VP*      hack  01   -    Anderson_Cooper           *      *    (ARGM-PRD*          (V*)       *        *       -
+bc/cnn/00/cnn_0002   8   14          to    IN                 (PP*        -    -   -    Anderson_Cooper           *      *             *   (ARGM-PRD*        *        *       -
+bc/cnn/00/cnn_0002   8   15       death    NN               (NP*)))    death   -   1    Anderson_Cooper           *      *             *            *)       *        *       -
+bc/cnn/00/cnn_0002   8   16     stabbed   VBN                 (VP*)     stab  01   1    Anderson_Cooper           *      *             *            *      (V*)       *       -
+bc/cnn/00/cnn_0002   8   17      thrown   VBN                 (VP*     throw  01   -    Anderson_Cooper           *      *             *            *        *      (V*)      -
+bc/cnn/00/cnn_0002   8   18        into    IN                 (PP*        -    -   -    Anderson_Cooper           *      *             *            *        *   (ARG2*       -
+bc/cnn/00/cnn_0002   8   19      rivers   NNS           (NP*)))))))       -    -   -    Anderson_Cooper           *      *             *)           *        *        *)      -
+bc/cnn/00/cnn_0002   8   20          /.     .                   *))       -    -   -    Anderson_Cooper           *      *             *            *        *        *       -
+
+bc/cnn/00/cnn_0002   8    0        Today    NN   (TOP(S(NP*)    today   -   1    Anderson_Cooper   (DATE)     *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   8    1          the    DT      (NP(NP*        -    -   -    Anderson_Cooper       *      *        (ARG0*    (168
+bc/cnn/00/cnn_0002   8    2     genocide    NN            *        -    -   -    Anderson_Cooper       *      *             *       -
+bc/cnn/00/cnn_0002   8    3           's   POS            *)       -    -   -    Anderson_Cooper       *      *             *     168)
+bc/cnn/00/cnn_0002   8    4      effects   NNS            *)   effect   -   1    Anderson_Cooper       *      *             *)      -
+bc/cnn/00/cnn_0002   8    5          are   VBP         (VP*        be  03   -    Anderson_Cooper       *    (V*)            *       -
+bc/cnn/00/cnn_0002   8    6        still    RB       (ADVP*)       -    -   -    Anderson_Cooper       *      *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   8    7     haunting   VBG         (VP*     haunt  01   1    Anderson_Cooper       *      *           (V*)      -
+bc/cnn/00/cnn_0002   8    8         both    CC      (NP(NP*        -    -   -    Anderson_Cooper       *      *        (ARG1*       -
+bc/cnn/00/cnn_0002   8    9          the    DT         (NP*        -    -   -    Anderson_Cooper       *      *             *       -
+bc/cnn/00/cnn_0002   8   10    survivors   NNS            *)       -    -   -    Anderson_Cooper       *      *             *       -
+bc/cnn/00/cnn_0002   8   11          and    CC            *        -    -   -    Anderson_Cooper       *      *             *       -
+bc/cnn/00/cnn_0002   8   12          the    DT         (NP*        -    -   -    Anderson_Cooper       *      *             *       -
+bc/cnn/00/cnn_0002   8   13     wildlife    NN           *))       -    -   -    Anderson_Cooper       *      *             *       -
+bc/cnn/00/cnn_0002   8   14           in    IN         (PP*        -    -   -    Anderson_Cooper       *      *             *       -
+bc/cnn/00/cnn_0002   8   15       Rwanda   NNP     (NP*)))))       -    -   -    Anderson_Cooper    (GPE)     *             *)   (134)
+bc/cnn/00/cnn_0002   8   16           /.     .           *))       -    -   -    Anderson_Cooper       *      *             *       -
+
+bc/cnn/00/cnn_0002   8    0        You   PRP   (TOP(S(PRN(S(NP*)       -    -   -    Anderson_Cooper  *    (ARG0*)          *   (ARGM-DIS*       -
+bc/cnn/00/cnn_0002   8    1        see   VBP             (VP*)))      see  03   2    Anderson_Cooper  *       (V*)          *            *)      -
+bc/cnn/00/cnn_0002   8    2       many    JJ            (NP(NP*)       -    -   -    Anderson_Cooper  *         *           *            *       -
+bc/cnn/00/cnn_0002   8    3         of    IN               (PP*        -    -   -    Anderson_Cooper  *         *           *            *       -
+bc/cnn/00/cnn_0002   8    4      those    DT            (NP(NP*)       -    -   -    Anderson_Cooper  *         *      (ARG0*)           *    (136
+bc/cnn/00/cnn_0002   8    5        who    WP        (SBAR(WHNP*)       -    -   -    Anderson_Cooper  *         *    (R-ARG0*)           *       -
+bc/cnn/00/cnn_0002   8    6       fled   VBD        (S(VP*))))))     flee  01   1    Anderson_Cooper  *         *         (V*)           *     136)
+bc/cnn/00/cnn_0002   8    7       some    DT            (NP(NP*)       -    -   -    Anderson_Cooper  *         *           *       (ARG1*       -
+bc/cnn/00/cnn_0002   8    8         of    IN               (PP*        -    -   -    Anderson_Cooper  *         *           *            *       -
+bc/cnn/00/cnn_0002   8    9       them   PRP             (NP*)))       -    -   -    Anderson_Cooper  *         *           *            *)   (136)
+bc/cnn/00/cnn_0002   8   10    settled   VBD               (VP*    settle  03   3    Anderson_Cooper  *         *           *          (V*)      -
+bc/cnn/00/cnn_0002   8   11         in    IN               (PP*        -    -   -    Anderson_Cooper  *         *           *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   8   12         an    DT               (NP*        -    -   -    Anderson_Cooper  *         *           *            *     (16
+bc/cnn/00/cnn_0002   8   13     animal    NN                  *        -    -   -    Anderson_Cooper  *         *           *            *       -
+bc/cnn/00/cnn_0002   8   14     refuge    NN                *)))   refuge   -   1    Anderson_Cooper  *         *           *            *)     16)
+bc/cnn/00/cnn_0002   8   15         /.     .                 *))       -    -   -    Anderson_Cooper  *         *           *            *       -
+
+bc/cnn/00/cnn_0002   8    0         Renown    JJ  (TOP(S(NP(NP(NML*          -    -   -    Anderson_Cooper         *        (ARG0*   (ARG0*      *             *    (150
+bc/cnn/00/cnn_0002   8    1       wildlife    NN                  *          -    -   -    Anderson_Cooper         *             *        *      *             *       -
+bc/cnn/00/cnn_0002   8    2       advocate    NN                  *)   advocate   -   1    Anderson_Cooper         *             *        *      *             *       -
+bc/cnn/00/cnn_0002   8    3           Jack   NNP                  *          -    -   -    Anderson_Cooper  (PERSON*             *        *      *             *       -
+bc/cnn/00/cnn_0002   8    4         Hannah   NNP                  *)         -    -   -    Anderson_Cooper         *)            *        *      *             *       -
+bc/cnn/00/cnn_0002   8    5       director    NN            (NP(NP*)   director   -   1    Anderson_Cooper         *             *        *      *             *       -
+bc/cnn/00/cnn_0002   8    6             of    IN               (PP*          -    -   -    Anderson_Cooper         *             *        *      *             *       -
+bc/cnn/00/cnn_0002   8    7            the    DT               (NP*          -    -   -    Anderson_Cooper     (ORG*             *        *      *             *       -
+bc/cnn/00/cnn_0002   8    8       Columbus   NNP                  *          -    -   -    Anderson_Cooper         *             *        *      *             *       -
+bc/cnn/00/cnn_0002   8    9            Zoo   NNP               *))))         -    -   -    Anderson_Cooper         *)            *)       *)     *             *     150)
+bc/cnn/00/cnn_0002   8   10       recently    RB             (ADVP*)         -    -   -    Anderson_Cooper         *    (ARGM-TMP*)       *      *             *       -
+bc/cnn/00/cnn_0002   8   11           went   VBD               (VP*          go  02   1    Anderson_Cooper         *           (V*)       *      *             *       -
+bc/cnn/00/cnn_0002   8   12             to    IN               (PP*          -    -   -    Anderson_Cooper         *        (ARG4*        *      *             *       -
+bc/cnn/00/cnn_0002   8   13         Rwanda   NNP              (NP*))         -    -   -    Anderson_Cooper      (GPE)            *)       *      *             *    (134)
+bc/cnn/00/cnn_0002   8   14             to    TO             (S(VP*          -    -   -    Anderson_Cooper         *    (ARGM-PRP*        *      *             *       -
+bc/cnn/00/cnn_0002   8   15            see    VB               (VP*         see  01   3    Anderson_Cooper         *             *      (V*)     *             *       -
+bc/cnn/00/cnn_0002   8   16            how   WRB      (SBAR(WHADVP*)         -    -   -    Anderson_Cooper         *             *   (ARG1*      *    (ARGM-MNR*)      -
+bc/cnn/00/cnn_0002   8   17            the    DT             (S(NP*          -    -   -    Anderson_Cooper         *             *        *      *        (ARG1*       -
+bc/cnn/00/cnn_0002   8   18         people   NNS                  *      people   -   1    Anderson_Cooper         *             *        *      *             *       -
+bc/cnn/00/cnn_0002   8   19            and    CC                  *          -    -   -    Anderson_Cooper         *             *        *      *             *       -
+bc/cnn/00/cnn_0002   8   20        animals   NNS                  *)         -    -   -    Anderson_Cooper         *             *        *      *             *)      -
+bc/cnn/00/cnn_0002   8   21            are   VBP               (VP*          be  03   -    Anderson_Cooper         *             *        *    (V*)            *       -
+bc/cnn/00/cnn_0002   8   22    co-existing   VBG        (VP*))))))))   co-exist  01   -    Anderson_Cooper         *             *)       *)     *           (V*)      -
+bc/cnn/00/cnn_0002   8   23             /.     .                 *))         -    -   -    Anderson_Cooper         *             *        *      *             *       -
+
+bc/cnn/00/cnn_0002   8    0            Rwanda    NNP   (TOP(S(NP(NP*)        -    -   -    Anderson_Cooper   (GPE)     *       (ARG1*            *   (134
+bc/cnn/00/cnn_0002   8    1              this     DT            (NP*         -    -   -    Anderson_Cooper      *      *            *            *      -
+bc/cnn/00/cnn_0002   8    2    breathtakingly     RB          (ADJP*         -    -   -    Anderson_Cooper      *      *            *            *      -
+bc/cnn/00/cnn_0002   8    3         beautiful     JJ               *)        -    -   -    Anderson_Cooper      *      *            *            *      -
+bc/cnn/00/cnn_0002   8    4              land     NN              *))      land   -   3    Anderson_Cooper      *      *            *)           *    134)
+bc/cnn/00/cnn_0002   8    5                is    VBZ            (VP*         be  03   -    Anderson_Cooper      *    (V*)           *            *      -
+bc/cnn/00/cnn_0002   8    6            soaked    VBN            (VP*       soak  01   -    Anderson_Cooper      *      *          (V*)           *      -
+bc/cnn/00/cnn_0002   8    7                in     IN            (PP*         -    -   -    Anderson_Cooper      *      *   (ARGM-MNR*            *      -
+bc/cnn/00/cnn_0002   8    8             blood     NN           (NP*))     blood   -   -    Anderson_Cooper      *      *            *)           *      -
+bc/cnn/00/cnn_0002   8    9               the     DT          (S(NP*         -    -   -    Anderson_Cooper      *      *   (ARGM-ADV*       (ARG0*     (1
+bc/cnn/00/cnn_0002   8   10            people    NNS               *)    people   -   2    Anderson_Cooper      *      *            *            *)     1)
+bc/cnn/00/cnn_0002   8   11            living    VBG            (VP*       live  02   1    Anderson_Cooper      *      *            *          (V*)     -
+bc/cnn/00/cnn_0002   8   12              with     IN            (PP*         -    -   -    Anderson_Cooper      *      *            *   (ARGM-MNR*      -
+bc/cnn/00/cnn_0002   8   13               the     DT         (NP(NP*         -    -   -    Anderson_Cooper      *      *            *            *      -
+bc/cnn/00/cnn_0002   8   14              pain     NN               *)      pain   -   2    Anderson_Cooper      *      *            *            *      -
+bc/cnn/00/cnn_0002   8   15                of     IN            (PP*         -    -   -    Anderson_Cooper      *      *            *            *      -
+bc/cnn/00/cnn_0002   8   16             their   PRP$            (NP*         -    -   -    Anderson_Cooper      *      *            *            *     (1)
+bc/cnn/00/cnn_0002   8   17           history     NN        *))))))))   history   -   1    Anderson_Cooper      *      *            *)           *)     -
+bc/cnn/00/cnn_0002   8   18                /.      .              *))        -    -   -    Anderson_Cooper      *      *            *            *      -
+
+bc/cnn/00/cnn_0002   8    0        Akagera    NNP         (TOP(S(NP(NP*         -    -   -    Anderson_Cooper   (FAC*        (ARG1*           *            *         *             *    (16
+bc/cnn/00/cnn_0002   8    1       National    NNP                     *         -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8    2           Park    NNP                     *)        -    -   -    Anderson_Cooper       *)            *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8    3           once     RB            (RRC(ADVP*)        -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8    4              a     DT                  (NP*         -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8    5    spectacular     JJ                     *         -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8    6       wildlife     NN                     *         -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8    7         refuge     NN                   *)))    refuge   -   -    Anderson_Cooper       *             *)          *            *         *             *     16)
+bc/cnn/00/cnn_0002   8    8             is    VBZ                  (VP*         be  01   1    Anderson_Cooper       *           (V*)          *            *         *             *      -
+bc/cnn/00/cnn_0002   8    9            now     RB                (ADVP*)        -    -   -    Anderson_Cooper       *    (ARGM-TMP*)          *            *         *             *      -
+bc/cnn/00/cnn_0002   8   10              a     DT               (NP(NP*         -    -   -    Anderson_Cooper       *        (ARG2*           *            *         *             *      -
+bc/cnn/00/cnn_0002   8   11         refuge     NN                     *)    refuge   -   1    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8   12             to     IN                  (PP*         -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8   13           many     JJ               (NP(NP*         -    -   -    Anderson_Cooper       *             *      (ARG0*       (ARG1*         *             *    (92
+bc/cnn/00/cnn_0002   8   14       Rwandans   NNPS                     *)        -    -   -    Anderson_Cooper   (NORP)            *           *)           *)        *             *      -
+bc/cnn/00/cnn_0002   8   15            who     WP           (SBAR(WHNP*)        -    -   -    Anderson_Cooper       *             *    (R-ARG0*)    (R-ARG1*)   (ARG0*)       (ARG0*)     -
+bc/cnn/00/cnn_0002   8   16       survived    VBD             (S(VP(VP*    survive  01   1    Anderson_Cooper       *             *         (V*)           *         *             *      -
+bc/cnn/00/cnn_0002   8   17            the     DT                  (NP*         -    -   -    Anderson_Cooper       *             *      (ARG1*            *         *             *   (168
+bc/cnn/00/cnn_0002   8   18       genocide     NN                    *))        -    -   -    Anderson_Cooper       *             *           *)           *         *             *    168)
+bc/cnn/00/cnn_0002   8   19            and     CC                     *         -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8   20       returned    VBD                  (VP*     return  01   1    Anderson_Cooper       *             *           *          (V*)        *             *      -
+bc/cnn/00/cnn_0002   8   21             to     IN                  (PP*         -    -   -    Anderson_Cooper       *             *           *       (ARG4*         *             *      -
+bc/cnn/00/cnn_0002   8   22          their   PRP$                  (NP*         -    -   -    Anderson_Cooper       *             *           *            *         *             *    (92)
+bc/cnn/00/cnn_0002   8   23         native     JJ                     *         -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+bc/cnn/00/cnn_0002   8   24           land     NN                    *))      land   -   3    Anderson_Cooper       *             *           *            *)        *             *      -
+bc/cnn/00/cnn_0002   8   25         trying    VBG                (S(VP*        try  01   1    Anderson_Cooper       *             *           *   (ARGM-ADV*       (V*)            *      -
+bc/cnn/00/cnn_0002   8   26             to     TO                (S(VP*         -    -   -    Anderson_Cooper       *             *           *            *    (ARG1*             *      -
+bc/cnn/00/cnn_0002   8   27          start     VB                  (VP*      start  01   2    Anderson_Cooper       *             *           *            *         *           (V*)     -
+bc/cnn/00/cnn_0002   8   28           life     NN                  (NP*)      life   -   2    Anderson_Cooper       *             *           *            *         *        (ARG1*)     -
+bc/cnn/00/cnn_0002   8   29           anew     RB   (ADVP*))))))))))))))        -    -   -    Anderson_Cooper       *             *)          *            *)        *)   (ARGM-MNR*)    92)
+bc/cnn/00/cnn_0002   8   30             /.      .                    *))        -    -   -    Anderson_Cooper       *             *           *            *         *             *      -
+
+bc/cnn/00/cnn_0002   8    0       There     EX    (TOP(S(NP*)       -    -    -    Anderson_Cooper           *        *      *         *       -
+bc/cnn/00/cnn_0002   8    1         are    VBP          (VP*        be  02    4    Anderson_Cooper           *      (V*)     *         *       -
+bc/cnn/00/cnn_0002   8    2          so     RB  (NP(NP(ADJP*        -    -    -    Anderson_Cooper           *   (ARG1*      *         *    (152
+bc/cnn/00/cnn_0002   8    3        many     JJ             *)       -    -    -    Anderson_Cooper           *        *      *         *       -
+bc/cnn/00/cnn_0002   8    4      people    NNS             *)   people   -    1    Anderson_Cooper           *        *      *         *     152)
+bc/cnn/00/cnn_0002   8    5          in     IN          (PP*        -    -    -    Anderson_Cooper           *        *      *         *       -
+bc/cnn/00/cnn_0002   8    6      Rwanda    NNP         (NP*))       -    -    -    Anderson_Cooper        (GPE)       *      *         *    (134)
+bc/cnn/00/cnn_0002   8    7         now     RB        (ADVP*)       -    -    -    Anderson_Cooper           *        *      *         *       -
+bc/cnn/00/cnn_0002   8    8        they    PRP   (SBAR(S(NP*)       -    -    -    Anderson_Cooper           *        *      *    (ARG0*)   (152)
+bc/cnn/00/cnn_0002   8    9         've    VBP          (VP*      have  01   12    Anderson_Cooper           *        *    (V*)        *       -
+bc/cnn/00/cnn_0002   8   10       taken    VBN          (VP*      take  12    9    Anderson_Cooper           *        *      *       (V*)    (49)
+bc/cnn/00/cnn_0002   8   11        over     RP         (PRT*)       -    -    -    Anderson_Cooper  (CARDINAL*        *      *         *       -
+bc/cnn/00/cnn_0002   8   12         two     CD       (NP(NP*        -    -    -    Anderson_Cooper           *        *      *    (ARG1*       -
+bc/cnn/00/cnn_0002   8   13          -    HYPH             *        -    -    -    Anderson_Cooper           *        *      *         *       -
+bc/cnn/00/cnn_0002   8   14      thirds    NNS             *)       -    -    -    Anderson_Cooper           *)       *      *         *       -
+bc/cnn/00/cnn_0002   8   15          of     IN          (PP*        -    -    -    Anderson_Cooper           *        *      *         *       -
+bc/cnn/00/cnn_0002   8   16         the     DT          (NP*        -    -    -    Anderson_Cooper           *        *      *         *     (16
+bc/cnn/00/cnn_0002   8   17    national     JJ             *        -    -    -    Anderson_Cooper           *        *      *         *       -
+bc/cnn/00/cnn_0002   8   18        park     NN     *)))))))))     park   -    1    Anderson_Cooper           *        *)     *         *)     16)
+bc/cnn/00/cnn_0002   8   19          /.      .            *))       -    -    -    Anderson_Cooper           *        *      *         *       -
+
+bc/cnn/00/cnn_0002   8   0        And    CC  (TOP(S*         -    -   -    Anderson_Cooper      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   8   1    because    IN     (PP*         -    -   -    Anderson_Cooper      *    (ARGM-CAU*       -
+bc/cnn/00/cnn_0002   8   2         of    IN        *         -    -   -    Anderson_Cooper      *             *       -
+bc/cnn/00/cnn_0002   8   3       that    DT    (NP*))        -    -   -    Anderson_Cooper      *             *)    (49)
+bc/cnn/00/cnn_0002   8   4     Rwanda   NNP     (NP*)        -    -   -    Anderson_Cooper   (GPE)       (ARG0*)   (134)
+bc/cnn/00/cnn_0002   8   5        now    RB   (ADVP*)        -    -   -    Anderson_Cooper      *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   8   6      faces   VBZ     (VP*       face  01   1    Anderson_Cooper      *           (V*)      -
+bc/cnn/00/cnn_0002   8   7          a    DT     (NP*         -    -   -    Anderson_Cooper      *        (ARG1*       -
+bc/cnn/00/cnn_0002   8   8    problem    NN       *))   problem   -   1    Anderson_Cooper      *             *)      -
+bc/cnn/00/cnn_0002   8   9         /.     .       *))        -    -   -    Anderson_Cooper      *             *       -
+
+bc/cnn/00/cnn_0002   8   0        What   WP   (TOP(SBARQ(WHNP*)       -    -   -    Anderson_Cooper  *        (ARG1*)  -
+bc/cnn/00/cnn_0002   8   1        will   MD               (SQ*        -    -   -    Anderson_Cooper  *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0002   8   2      happen   VB               (VP*    happen  01   1    Anderson_Cooper  *           (V*)  -
+bc/cnn/00/cnn_0002   8   3          to   IN               (PP*        -    -   -    Anderson_Cooper  *        (ARG2*   -
+bc/cnn/00/cnn_0002   8   4         the   DT               (NP*        -    -   -    Anderson_Cooper  *             *   -
+bc/cnn/00/cnn_0002   8   5    wildlife   NN               *))))       -    -   -    Anderson_Cooper  *             *)  -
+bc/cnn/00/cnn_0002   8   6          /?    .                 *))       -    -   -    Anderson_Cooper  *             *   -
+
+bc/cnn/00/cnn_0002   8   0         How   WRB   (TOP(SBARQ(WHADVP*)         -    -   -    Anderson_Cooper  *    (ARGM-MNR*)      -
+bc/cnn/00/cnn_0002   8   1        will    MD                 (SQ*          -    -   -    Anderson_Cooper  *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   8   2         the    DT                 (NP*          -    -   -    Anderson_Cooper  *        (ARG1*       -
+bc/cnn/00/cnn_0002   8   3     animals   NNS                    *)         -    -   -    Anderson_Cooper  *             *)      -
+bc/cnn/00/cnn_0002   8   4    co-exist    VB                 (VP*    co-exist  01   -    Anderson_Cooper  *           (V*)   (118)
+bc/cnn/00/cnn_0002   8   5        with    IN                 (PP*          -    -   -    Anderson_Cooper  *        (ARG2*       -
+bc/cnn/00/cnn_0002   8   6      humans   NNS              (NP*))))         -    -   -    Anderson_Cooper  *             *)      -
+bc/cnn/00/cnn_0002   8   7          /?     .                   *))         -    -   -    Anderson_Cooper  *             *       -
+
+bc/cnn/00/cnn_0002   8    0         That    DT    (TOP(S(NP*)         -    -   -    Anderson_Cooper         *    (ARG1*)           *         *            *        *    (118)
+bc/cnn/00/cnn_0002   8    1           's   VBZ          (VP*          be  01   2    Anderson_Cooper         *       (V*)           *         *            *        *       -
+bc/cnn/00/cnn_0002   8    2         what    WP   (SBAR(WHNP*)         -    -   -    Anderson_Cooper         *    (ARG2*            *    (ARG1*)           *        *       -
+bc/cnn/00/cnn_0002   8    3         Jack   NNP     (S(NP(NP*          -    -   -    Anderson_Cooper  (PERSON*         *       (ARG0*    (ARG0*            *        *    (150
+bc/cnn/00/cnn_0002   8    4       Hannah   NNP             *)         -    -   -    Anderson_Cooper         *)        *            *         *            *        *       -
+bc/cnn/00/cnn_0002   8    5          the    DT          (NP*          -    -   -    Anderson_Cooper         *         *            *         *            *        *       -
+bc/cnn/00/cnn_0002   8    6       renown    JJ             *          -    -   -    Anderson_Cooper         *         *            *         *            *        *       -
+bc/cnn/00/cnn_0002   8    7     wildlife    NN             *          -    -   -    Anderson_Cooper         *         *            *         *            *        *       -
+bc/cnn/00/cnn_0002   8    8     advocate    NN            *))   advocate   -   1    Anderson_Cooper         *         *            *)        *)           *        *     150)
+bc/cnn/00/cnn_0002   8    9       wanted   VBD          (VP*        want  01   1    Anderson_Cooper         *         *          (V*)        *            *        *       -
+bc/cnn/00/cnn_0002   8   10           to    TO        (S(VP*          -    -   -    Anderson_Cooper         *         *       (ARG1*         *            *        *       -
+bc/cnn/00/cnn_0002   8   11         find    VB          (VP*        find  03   1    Anderson_Cooper         *         *            *       (V*)           *        *       -
+bc/cnn/00/cnn_0002   8   12          out    RP      (PRT*))))         -    -   -    Anderson_Cooper         *         *            *)        *            *        *       -
+bc/cnn/00/cnn_0002   8   13           as    IN        (SBAR*          -    -   -    Anderson_Cooper         *         *   (ARGM-TMP*         *            *        *       -
+bc/cnn/00/cnn_0002   8   14           he   PRP        (S(NP*)         -    -   -    Anderson_Cooper         *         *            *         *       (ARG0*)       *    (150)
+bc/cnn/00/cnn_0002   8   15         went   VBD          (VP*          go  02   1    Anderson_Cooper         *         *            *         *          (V*)       *       -
+bc/cnn/00/cnn_0002   8   16           in    IN          (PP*          -    -   -    Anderson_Cooper         *         *            *         *   (ARGM-PRP*        *       -
+bc/cnn/00/cnn_0002   8   17       search    NN       (NP(NP*)     search  01   1    Anderson_Cooper         *         *            *         *            *      (V*)      -
+bc/cnn/00/cnn_0002   8   18           of    IN          (PP*          -    -   -    Anderson_Cooper         *         *            *         *            *   (ARG1*       -
+bc/cnn/00/cnn_0002   8   19         wild    JJ          (NP*          -    -   -    Anderson_Cooper         *         *            *         *            *        *       -
+bc/cnn/00/cnn_0002   8   20    elephants   NNS   *)))))))))))         -    -   -    Anderson_Cooper         *         *)           *)        *            *)       *)      -
+bc/cnn/00/cnn_0002   8   21           /.     .            *))         -    -   -    Anderson_Cooper         *         *            *         *            *        *       -
+
+bc/cnn/00/cnn_0002   8   0        There    EX    (TOP(S(NP*)    -    -   -    Anderson_Cooper           *      *        *        *      -
+bc/cnn/00/cnn_0002   8   1           's   VBZ          (VP*     be  03   3    Anderson_Cooper           *    (V*)       *        *      -
+bc/cnn/00/cnn_0002   8   2         said   VBN          (VP*    say  01   -    Anderson_Cooper           *      *      (V*)       *      -
+bc/cnn/00/cnn_0002   8   3           to    TO        (S(VP*     -    -   -    Anderson_Cooper           *      *   (ARG1*        *      -
+bc/cnn/00/cnn_0002   8   4           be    VB          (VP*     be  02   3    Anderson_Cooper           *      *        *      (V*)     -
+bc/cnn/00/cnn_0002   8   5       eighty    CD       (NP(NP*     -    -   -    Anderson_Cooper   (CARDINAL)     *        *   (ARG1*      -
+bc/cnn/00/cnn_0002   8   6    elephants   NNS             *)    -    -   -    Anderson_Cooper           *      *        *        *      -
+bc/cnn/00/cnn_0002   8   7           in    IN          (PP*     -    -   -    Anderson_Cooper           *      *        *        *      -
+bc/cnn/00/cnn_0002   8   8      Akagera   NNP   (NP*))))))))    -    -   -    Anderson_Cooper        (FAC)     *        *)       *)   (16)
+bc/cnn/00/cnn_0002   8   9           /.     .            *))    -    -   -    Anderson_Cooper           *      *        *        *      -
+
+bc/cnn/00/cnn_0002   8    0           but     CC     (TOP(S*        -    -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8    1           for     IN        (PP*        -    -   -    Anderson_Cooper           *        *   (ARGM-ADV*        *            -
+bc/cnn/00/cnn_0002   8    2        Hannah    NNP     (NP(NP*)       -    -   -    Anderson_Cooper     (PERSON)  (ARG0*            *        *    (174|(150)
+bc/cnn/00/cnn_0002   8    3           and     CC           *        -    -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8    4           his   PRP$        (NP*        -    -   -    Anderson_Cooper           *        *            *        *     (63|(150)
+bc/cnn/00/cnn_0002   8    5          crew     NN         *)))     crow   -   -    Anderson_Cooper           *        *)           *)       *      174)|63)
+bc/cnn/00/cnn_0002   8    6       finding    VBG      (S(VP*      find  01   1    Anderson_Cooper           *      (V*)      (ARG1*        *            -
+bc/cnn/00/cnn_0002   8    7          even     RB        (NP*        -    -   -    Anderson_Cooper           *   (ARG1*            *        *            -
+bc/cnn/00/cnn_0002   8    8           one     CD         *)))       -    -   -    Anderson_Cooper   (CARDINAL)       *)           *)       *            -
+bc/cnn/00/cnn_0002   8    9           was    VBD        (VP*        be  01   1    Anderson_Cooper           *        *          (V*)       *            -
+bc/cnn/00/cnn_0002   8   10           not     RB   (PP(ADVP*)       -    -   -    Anderson_Cooper           *        *       (ARG2*        *            -
+bc/cnn/00/cnn_0002   8   11        unlike     IN           *        -    -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8   12       looking    VBG      (S(VP*      look  01   1    Anderson_Cooper           *        *            *      (V*)           -
+bc/cnn/00/cnn_0002   8   13           for     IN        (PP*        -    -   -    Anderson_Cooper           *        *            *   (ARG1*            -
+bc/cnn/00/cnn_0002   8   14          that     DT     (NP(NP*        -    -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8   15    proverbial     JJ           *        -    -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8   16        needle     NN           *)   needle   -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8   17            in     IN        (PP*        -    -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8   18             a     DT        (NP*        -    -   -    Anderson_Cooper           *        *            *        *            -
+bc/cnn/00/cnn_0002   8   19      haystack     NN    *))))))))       -    -   -    Anderson_Cooper           *        *            *)       *)           -
+bc/cnn/00/cnn_0002   8   20            /.      .          *))       -    -   -    Anderson_Cooper           *        *            *        *            -
+
+bc/cnn/00/cnn_0002   8   0         Now    UH   (TOP(SQ(S(INTJ*)    -    -   -    Jack_Hannah  *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0002   8   1         the    DT              (NP*     -    -   -    Jack_Hannah  *        (ARG1*   (29
+bc/cnn/00/cnn_0002   8   2    elephant    NN                 *)    -    -   -    Jack_Hannah  *             *)   29)
+bc/cnn/00/cnn_0002   8   3          's   VBZ              (VP*     be  01   4    Jack_Hannah  *           (V*)    -
+bc/cnn/00/cnn_0002   8   4        back    RB              (NP*     -    -   -    Jack_Hannah  *        (ARG2*     -
+bc/cnn/00/cnn_0002   8   5        that    DT                 *     -    -   -    Jack_Hannah  *             *     -
+bc/cnn/00/cnn_0002   8   6         way    NN               *)))   way   -   5    Jack_Hannah  *             *)    -
+bc/cnn/00/cnn_0002   8   7           ,     ,                 *     -    -   -    Jack_Hannah  *             *     -
+bc/cnn/00/cnn_0002   8   8       right    JJ        (SQ(ADJP*))    -    -   -    Jack_Hannah  *             *     -
+bc/cnn/00/cnn_0002   8   9          /?     .                *))    -    -   -    Jack_Hannah  *             *     -
+
+bc/cnn/00/cnn_0002   8    0      Hannah   NNP        (TOP(S(NP*)        -    -   -    Anderson_Cooper   (PERSON)   (ARG0*)        *      *               *        *    (150)
+bc/cnn/00/cnn_0002   8    1       hired   VBD              (VP*       hire  01   1    Anderson_Cooper         *       (V*)        *      *               *        *       -
+bc/cnn/00/cnn_0002   8    2           a    DT           (NP(NP*         -    -   -    Anderson_Cooper         *    (ARG1*    (ARG0*      *               *        *       -
+bc/cnn/00/cnn_0002   8    3        boat    NN                 *)      boat   -   -    Anderson_Cooper         *         *         *)     *               *        *       -
+bc/cnn/00/cnn_0002   8    4          to    TO       (SBAR(S(VP*         -    -   -    Anderson_Cooper         *         *         *      *               *        *       -
+bc/cnn/00/cnn_0002   8    5        take    VB              (VP*       take  01   4    Anderson_Cooper         *         *       (V*)     *               *        *       -
+bc/cnn/00/cnn_0002   8    6         him   PRP              (NP*)        -    -   -    Anderson_Cooper         *         *    (ARG1*)     *               *        *    (150)
+bc/cnn/00/cnn_0002   8    7          to    IN              (PP*         -    -   -    Anderson_Cooper         *         *    (ARG2*      *               *        *       -
+bc/cnn/00/cnn_0002   8    8           a    DT           (NP(NP*         -    -   -    Anderson_Cooper         *         *         *      *      (ARGM-LOC*        *       -
+bc/cnn/00/cnn_0002   8    9     fishing    NN                 *       fish   -   -    Anderson_Cooper         *         *         *      *               *        *       -
+bc/cnn/00/cnn_0002   8   10     village    NN                 *)   village   -   2    Anderson_Cooper         *         *         *      *               *)       *       -
+bc/cnn/00/cnn_0002   8   11       where   WRB     (SBAR(WHADVP*)        -    -   -    Anderson_Cooper         *         *         *      *    (R-ARGM-LOC*)       *       -
+bc/cnn/00/cnn_0002   8   12       there    EX            (S(NP*)        -    -   -    Anderson_Cooper         *         *         *      *               *        *       -
+bc/cnn/00/cnn_0002   8   13         had   VBD              (VP*       have  01   -    Anderson_Cooper         *         *         *    (V*)              *        *       -
+bc/cnn/00/cnn_0002   8   14        been   VBN              (VP*         be  02   3    Anderson_Cooper         *         *         *      *             (V*)       *       -
+bc/cnn/00/cnn_0002   8   15     reports   NNS           (NP(NP*)    report  01   2    Anderson_Cooper         *         *         *      *          (ARG1*      (V*)      -
+bc/cnn/00/cnn_0002   8   16          of    IN              (PP*         -    -   -    Anderson_Cooper         *         *         *      *               *   (ARG1*       -
+bc/cnn/00/cnn_0002   8   17           a    DT              (NP*         -    -   -    Anderson_Cooper         *         *         *      *               *        *     (29
+bc/cnn/00/cnn_0002   8   18        male    JJ                 *         -    -   -    Anderson_Cooper         *         *         *      *               *        *       -
+bc/cnn/00/cnn_0002   8   19    elephant    NN   *)))))))))))))))        -    -   -    Anderson_Cooper         *         *)        *)     *               *)       *)     29)
+bc/cnn/00/cnn_0002   8   20          /.     .                *))        -    -   -    Anderson_Cooper         *         *         *      *               *        *       -
+
+bc/cnn/00/cnn_0002   8   0      They   PRP   (TOP(S(NP*)       -    -   -    Anderson_Cooper       *       (ARG0*)   (174)
+bc/cnn/00/cnn_0002   8   1    search   VBP         (VP*    search  01   1    Anderson_Cooper       *          (V*)      -
+bc/cnn/00/cnn_0002   8   2       for    IN         (PP*        -    -   -    Anderson_Cooper       *   (ARGM-TMP*       -
+bc/cnn/00/cnn_0002   8   3     hours   NNS         (NP*      hour   -   1    Anderson_Cooper  (TIME*            *       -
+bc/cnn/00/cnn_0002   8   4       and    CC            *        -    -   -    Anderson_Cooper       *            *       -
+bc/cnn/00/cnn_0002   8   5     hours   NNS          *)))     hour   -   1    Anderson_Cooper       *)           *)      -
+bc/cnn/00/cnn_0002   8   6        /.     .           *))       -    -   -    Anderson_Cooper       *            *       -
+
+bc/cnn/00/cnn_0002   8   0        and   CC  (TOP(S*   -   -   -    Anderson_Cooper  *   -
+bc/cnn/00/cnn_0002   8   1    finally   RB   (ADVP*)  -   -   -    Anderson_Cooper  *   -
+bc/cnn/00/cnn_0002   8   2        /-     .       *))  -   -   -    Anderson_Cooper  *   -
+
+bc/cnn/00/cnn_0002   8   0      Oh    UH  (TOP(S(INTJ*     -    -   -    Jack_Hannah  *   (ARGM-DIS*       -
+bc/cnn/00/cnn_0002   8   1    yeah    UH             *)    -    -   -    Jack_Hannah  *            *)      -
+bc/cnn/00/cnn_0002   8   2       I   PRP          (NP*)    -    -   -    Jack_Hannah  *       (ARG0*)   (150)
+bc/cnn/00/cnn_0002   8   3     see   VBP          (VP*    see  01   1    Jack_Hannah  *          (V*)      -
+bc/cnn/00/cnn_0002   8   4      it   PRP         (NP*))    -    -   -    Jack_Hannah  *       (ARG1*)    (29)
+bc/cnn/00/cnn_0002   8   5      /.     .            *))    -    -   -    Jack_Hannah  *            *       -
+
+bc/cnn/00/cnn_0002   8    0          But    CC     (TOP(S*          -    -   -    Anderson_Cooper         *    (ARGM-DIS*)           *        *       -
+bc/cnn/00/cnn_0002   8    1         even    RB     (NP(NP*          -    -   -    Anderson_Cooper         *        (ARG1*       (ARG0*        *       -
+bc/cnn/00/cnn_0002   8    2            a    DT           *          -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8    3     wildlife    NN           *          -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8    4       expert    NN           *)         -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8    5         like    IN        (PP*          -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8    6       Hannah   NNP      (NP*)))         -    -   -    Anderson_Cooper   (PERSON)            *)           *)       *    (150)
+bc/cnn/00/cnn_0002   8    7          was   VBD        (VP*          be  01   1    Anderson_Cooper         *           (V*)           *        *       -
+bc/cnn/00/cnn_0002   8    8    surprised    JJ      (ADJP*          -    -   -    Anderson_Cooper         *        (ARG2*            *        *       -
+bc/cnn/00/cnn_0002   8    9           to    TO      (S(VP*          -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8   10         find    VB        (VP*        find  01   1    Anderson_Cooper         *             *          (V*)       *       -
+bc/cnn/00/cnn_0002   8   11         such   PDT        (NP*          -    -   -    Anderson_Cooper         *             *       (ARG1*   (ARG1*       -
+bc/cnn/00/cnn_0002   8   12            a    DT           *          -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8   13       mighty    JJ           *          -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8   14     creature    NN           *)         -    -   -    Anderson_Cooper         *             *            *)       *)      -
+bc/cnn/00/cnn_0002   8   15    submerged   VBN      (S(VP*    submerge  01   -    Anderson_Cooper         *             *   (ARGM-LOC*      (V*)   (216)
+bc/cnn/00/cnn_0002   8   16           in    IN        (PP*          -    -   -    Anderson_Cooper         *             *            *   (ARG2*       -
+bc/cnn/00/cnn_0002   8   17         lake    NN        (NP*          -    -   -    Anderson_Cooper         *             *            *        *       -
+bc/cnn/00/cnn_0002   8   18        water    NN   *)))))))))      water   -   1    Anderson_Cooper         *             *)           *)       *)      -
+bc/cnn/00/cnn_0002   8   19           /.     .          *))         -    -   -    Anderson_Cooper         *             *            *        *       -
+
+bc/cnn/00/cnn_0002   8   0          It   PRP   (TOP(S(NP*)          -    -   -    Anderson_Cooper  *    (ARG1*)   (216)
+bc/cnn/00/cnn_0002   8   1         was   VBD         (VP*           be  01   1    Anderson_Cooper  *       (V*)      -
+bc/cnn/00/cnn_0002   8   2        very    RB    (NP(ADJP*           -    -   -    Anderson_Cooper  *    (ARG2*       -
+bc/cnn/00/cnn_0002   8   3     unusual    JJ            *)          -    -   -    Anderson_Cooper  *         *       -
+bc/cnn/00/cnn_0002   8   4    behavior    NN           *))   behaviour   -   2    Anderson_Cooper  *         *)      -
+bc/cnn/00/cnn_0002   8   5          /.     .           *))          -    -   -    Anderson_Cooper  *         *       -
+
+bc/cnn/00/cnn_0002   8   0    Look   VB  (TOP(S(VP*    look  01   1    Jack_Hannah  *      (V*)  -
+bc/cnn/00/cnn_0002   8   1      at   IN        (PP*      -    -   -    Jack_Hannah  *   (ARG1*   -
+bc/cnn/00/cnn_0002   8   2    that   DT      (NP*)))     -    -   -    Jack_Hannah  *        *)  -
+bc/cnn/00/cnn_0002   8   3      /.    .          *))     -    -   -    Jack_Hannah  *        *   -
+
+bc/cnn/00/cnn_0002   8   0           he   PRP   (TOP(S(NP*)          -    -   -    Jack_Hannah  *    (ARG1*)   (29)
+bc/cnn/00/cnn_0002   8   1           's   VBZ         (VP*           be  01   1    Jack_Hannah  *       (V*)     -
+bc/cnn/00/cnn_0002   8   2         like    IN         (PP*           -    -   -    Jack_Hannah  *    (ARG2*      -
+bc/cnn/00/cnn_0002   8   3            a    DT         (NP*           -    -   -    Jack_Hannah  *         *      -
+bc/cnn/00/cnn_0002   8   4    submarine    NN          *)))   submarine   -   1    Jack_Hannah  *         *)     -
+bc/cnn/00/cnn_0002   8   5           /.     .           *))          -    -   -    Jack_Hannah  *         *      -
+
+bc/cnn/00/cnn_0002   8   0       he    PRP   (TOP(S(NP*)    -    -   -    Jack_Hannah  *      *      *    (ARG0*)   (29)
+bc/cnn/00/cnn_0002   8   1       's    VBZ         (VP*     be  03   9    Jack_Hannah  *    (V*)     *         *      -
+bc/cnn/00/cnn_0002   8   2    going    VBG         (VP*     go  04   7    Jack_Hannah  *      *    (V*)        *      -
+bc/cnn/00/cnn_0002   8   3       to     TO       (S(VP*     -    -   -    Jack_Hannah  *      *      *         *      -
+bc/cnn/00/cnn_0002   8   4      use     VB         (VP*    use  01   1    Jack_Hannah  *      *      *       (V*)     -
+bc/cnn/00/cnn_0002   8   5      his   PRP$         (NP*     -    -   -    Jack_Hannah  *      *      *    (ARG1*    (29)
+bc/cnn/00/cnn_0002   8   6    trunk     NN       *))))))    -    -   -    Jack_Hannah  *      *      *         *)     -
+bc/cnn/00/cnn_0002   8   7       /.      .           *))    -    -   -    Jack_Hannah  *      *      *         *      -
+
+bc/cnn/00/cnn_0002   8   0    Whoa   UH   (TOP(S(INTJ*)     -    -   -    Jack_Hannah  *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0002   8   1    look   VB           (VP*    look  01   1    Jack_Hannah  *           (V*)  -
+bc/cnn/00/cnn_0002   8   2      at   IN           (PP*      -    -   -    Jack_Hannah  *        (ARG1*   -
+bc/cnn/00/cnn_0002   8   3    that   DT         (NP*)))     -    -   -    Jack_Hannah  *             *)  -
+bc/cnn/00/cnn_0002   8   4      /.    .             *))     -    -   -    Jack_Hannah  *             *   -
+
+bc/cnn/00/cnn_0002   8   0    look    VB  (TOP(S(VP*    look  01   1    Jack_Hannah  *      (V*)        *      -
+bc/cnn/00/cnn_0002   8   1      at    IN      (SBAR*      -    -   -    Jack_Hannah  *   (ARG1*         *      -
+bc/cnn/00/cnn_0002   8   2     him   PRP      (S(NP*)     -    -   -    Jack_Hannah  *        *    (ARG0*)   (29)
+bc/cnn/00/cnn_0002   8   3    move    VB        (VP*    move  01   1    Jack_Hannah  *        *       (V*)     -
+bc/cnn/00/cnn_0002   8   4   tha-     XX    (NP*)))))     -    -   -    Jack_Hannah  *        *)   (ARG1*)     -
+bc/cnn/00/cnn_0002   8   5     /-      .          *))     -    -   -    Jack_Hannah  *        *         *      -
+
+bc/cnn/00/cnn_0002   8   0       He   PRP   (TOP(S(NP*)   -    -   -    Jack_Hannah  *      *        (ARG1*)   (29)
+bc/cnn/00/cnn_0002   8   1       is   VBZ         (VP*    be  03   -    Jack_Hannah  *    (V*)            *      -
+bc/cnn/00/cnn_0002   8   2    going   VBG         (VP*    go  01   4    Jack_Hannah  *      *           (V*)     -
+bc/cnn/00/cnn_0002   8   3     fast    RB     (ADVP*)))   -    -   -    Jack_Hannah  *      *    (ARGM-MNR*)     -
+bc/cnn/00/cnn_0002   8   4       /.     .           *))   -    -   -    Jack_Hannah  *      *             *      -
+
+bc/cnn/00/cnn_0002   8   0    That    DT   (TOP(S(NP*)   -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   8   1      is   VBZ         (VP*    be  01   1    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   8   2    fast    JJ      (ADJP*))   -    -   -    Jack_Hannah  *    (ARG2*)  -
+bc/cnn/00/cnn_0002   8   3      /.     .           *))   -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   8   0         Big   JJ  (TOP(NP*   -   -   -    Jack_Hannah  *   (29
+bc/cnn/00/cnn_0002   8   1    elephant   NN         *   -   -   -    Jack_Hannah  *     -
+bc/cnn/00/cnn_0002   8   2          /.    .        *))  -   -   -    Jack_Hannah  *    29)
+
+bc/cnn/00/cnn_0002   8    0           An    DT  (TOP(S(S(ADJP(NP*          -    -   -    Anderson_Cooper  (QUANTITY*           *        *   (R-ARG1*      *             *       -
+bc/cnn/00/cnn_0002   8    1    estimated   VBN                  *    estimate  01   1    Anderson_Cooper           *         (V*)       *          *      *             *       -
+bc/cnn/00/cnn_0002   8    2       eleven    CD                  *          -    -   -    Anderson_Cooper           *      (ARG1*)       *          *      *             *       -
+bc/cnn/00/cnn_0002   8    3         feet   NNS                  *)       foot   -   2    Anderson_Cooper           *)   (C-ARG1*)       *          *      *             *       -
+bc/cnn/00/cnn_0002   8    4         tall    JJ                 *))         -    -   -    Anderson_Cooper           *           *        *          *)     *             *       -
+bc/cnn/00/cnn_0002   8    5            ,     ,                  *          -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8    6     weighing   VBG             (S(VP*       weigh  01   1    Anderson_Cooper           *           *      (V*)  (R-ARG1*      *             *       -
+bc/cnn/00/cnn_0002   8    7      perhaps    RB            (NP(QP*          -    -   -    Anderson_Cooper  (QUANTITY*           *   (ARG3*          *      *             *       -
+bc/cnn/00/cnn_0002   8    8     fourteen    CD                  *          -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8    9     thousand    CD                  *)         -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8   10       pounds   NNS                *)))      pound   -   1    Anderson_Cooper           *)          *        *)         *)     *             *       -
+bc/cnn/00/cnn_0002   8   11          the    DT               (NP*          -    -   -    Anderson_Cooper           *           *   (ARG1*     (ARG1*      *             *     (29
+bc/cnn/00/cnn_0002   8   12       mature    JJ                  *          -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8   13         bull    NN                  *        bull   -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8   14     elephant    NN                  *)         -    -   -    Anderson_Cooper           *           *        *)         *)     *             *      29)
+bc/cnn/00/cnn_0002   8   15          was   VBD               (VP*          be  01   1    Anderson_Cooper           *           *        *        (V*)     *             *       -
+bc/cnn/00/cnn_0002   8   16           as    RB        (ADJP(ADJP*          -    -   -    Anderson_Cooper           *           *        *     (ARG2*      *             *       -
+bc/cnn/00/cnn_0002   8   17          big    JJ                  *          -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8   18          and    CC                  *          -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8   19        angry    JJ                  *)         -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8   20           as    IN               (PP*          -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+bc/cnn/00/cnn_0002   8   21          any    DT            (NP(NP*)         -    -   -    Anderson_Cooper           *           *        *          *      *        (ARG1*)      -
+bc/cnn/00/cnn_0002   8   22       they'd   PRP        (SBAR(S(NP*)         -    -   -    Anderson_Cooper           *           *        *          *      *        (ARG0*)   (174)
+bc/cnn/00/cnn_0002   8   23           'd   VBD               (VP*        have  01   -    Anderson_Cooper           *           *        *          *    (V*)            *       -
+bc/cnn/00/cnn_0002   8   24         seen   VBN               (VP*         see  01   1    Anderson_Cooper           *           *        *          *      *           (V*)      -
+bc/cnn/00/cnn_0002   8   25       before    RB     (ADVP*)))))))))         -    -   -    Anderson_Cooper           *           *        *          *)     *    (ARGM-TMP*)      -
+bc/cnn/00/cnn_0002   8   26           /.     .                 *))         -    -   -    Anderson_Cooper           *           *        *          *      *             *       -
+
+bc/cnn/00/cnn_0002   8   0        And    CC    (TOP(S*        -    -   -    Anderson_Cooper  *    (ARGM-DIS*)        *       -
+bc/cnn/00/cnn_0002   8   1         he   PRP       (NP*)       -    -   -    Anderson_Cooper  *        (ARG0*)   (ARG0*)    (29)
+bc/cnn/00/cnn_0002   8   2    started   VBD       (VP*     start  01   2    Anderson_Cooper  *           (V*)        *       -
+bc/cnn/00/cnn_0002   8   3         to    TO     (S(VP*        -    -   -    Anderson_Cooper  *        (ARG1*         *       -
+bc/cnn/00/cnn_0002   8   4     pursue    VB       (VP*    pursue  01   2    Anderson_Cooper  *             *       (V*)      -
+bc/cnn/00/cnn_0002   8   5       them   PRP   (NP*)))))       -    -   -    Anderson_Cooper  *             *)   (ARG1*)   (174)
+bc/cnn/00/cnn_0002   8   6         /.     .         *))       -    -   -    Anderson_Cooper  *             *         *       -
+
+bc/cnn/00/cnn_0002   8   0    That    DT   (TOP(S(NP*)   -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   8   1      is   VBZ         (VP*    be  01   1    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   8   2    fast    JJ      (ADJP*))   -    -   -    Jack_Hannah  *    (ARG2*)  -
+bc/cnn/00/cnn_0002   8   3      /.     .           *))   -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   8   0     Remember    VB    (TOP(S(VP*    remember  01   1    Jack_Hannah  *           (V*)            *      -
+bc/cnn/00/cnn_0002   8   1    elephants   NNS   (SBAR(S(NP*)         -    -   -    Jack_Hannah  *        (ARG1*        (ARG0*)   (62)
+bc/cnn/00/cnn_0002   8   2          can    MD          (VP*          -    -   -    Jack_Hannah  *             *    (ARGM-MOD*)     -
+bc/cnn/00/cnn_0002   8   3         swim    VB       (VP*))))       swim  01   1    Jack_Hannah  *             *)          (V*)     -
+bc/cnn/00/cnn_0002   8   4    everybody    NN         (NP*))         -    -   -    Jack_Hannah  *    (ARGM-DIS*)            *      -
+bc/cnn/00/cnn_0002   8   5           /.     .            *))         -    -   -    Jack_Hannah  *             *             *      -
+
+bc/cnn/00/cnn_0002   8   0          And    CC  (TOP(S*     -    -   -    Jack_Hannah  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   8   1         they   PRP     (NP*)    -    -   -    Jack_Hannah  *        (ARG0*)   (62)
+bc/cnn/00/cnn_0002   8   2          got   VBD     (VP*    get  01   1    Jack_Hannah  *           (V*)     -
+bc/cnn/00/cnn_0002   8   3         like    UH   (INTJ*)    -    -   -    Jack_Hannah  *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   8   4            a    DT     (NP*     -    -   -    Jack_Hannah  *        (ARG1*      -
+bc/cnn/00/cnn_0002   8   5    periscope    NN       *))    -    -   -    Jack_Hannah  *             *)     -
+bc/cnn/00/cnn_0002   8   6           /.     .       *))    -    -   -    Jack_Hannah  *             *      -
+
+bc/cnn/00/cnn_0002   8    0           I   PRP   (TOP(S(NP*)     -    -   -    Jack_Hannah  *      *        (ARG0*)     *         *         *    (150)
+bc/cnn/00/cnn_0002   8    1          do   VBP         (VP*      do  01   -    Jack_Hannah  *    (V*)            *      *         *         *       -
+bc/cnn/00/cnn_0002   8    2         n't    RB            *      -    -   -    Jack_Hannah  *      *    (ARGM-NEG*)     *         *         *       -
+bc/cnn/00/cnn_0002   8    3        know    VB         (VP*    know  01   1    Jack_Hannah  *      *           (V*)     *         *         *       -
+bc/cnn/00/cnn_0002   8    4          if    IN       (SBAR*      -    -   -    Jack_Hannah  *      *        (ARG1*      *         *         *       -
+bc/cnn/00/cnn_0002   8    5          he   PRP       (S(NP*)     -    -   -    Jack_Hannah  *      *             *      *    (ARG0*)   (ARG0*)    (29)
+bc/cnn/00/cnn_0002   8    6          's   VBZ         (VP*      be  03   9    Jack_Hannah  *      *             *    (V*)        *         *       -
+bc/cnn/00/cnn_0002   8    7     walking   VBG         (VP*    walk  01   1    Jack_Hannah  *      *             *      *       (V*)        *       -
+bc/cnn/00/cnn_0002   8    8          or    CC            *      -    -   -    Jack_Hannah  *      *             *      *         *         *       -
+bc/cnn/00/cnn_0002   8    9    swimming   VBG       *))))))   swim  01   1    Jack_Hannah  *      *             *)     *         *       (V*)      -
+bc/cnn/00/cnn_0002   8   10          /.     .           *))     -    -   -    Jack_Hannah  *      *             *      *         *         *       -
+
+bc/cnn/00/cnn_0002   8   0       but    CC  (TOP(S*      -    -   -    Jack_Hannah  *      *    (ARGM-DIS*)     -
+bc/cnn/00/cnn_0002   8   1        he   PRP     (NP*)     -    -   -    Jack_Hannah  *      *        (ARG0*)   (29)
+bc/cnn/00/cnn_0002   8   2        's   VBZ     (VP*      be  03   9    Jack_Hannah  *    (V*)            *      -
+bc/cnn/00/cnn_0002   8   3    moving   VBG    (VP*))   move  01   1    Jack_Hannah  *      *           (V*)     -
+bc/cnn/00/cnn_0002   8   4        /.     .       *))     -    -   -    Jack_Hannah  *      *             *      -
+
+bc/cnn/00/cnn_0002   8    0       Hannah    NNP     (TOP(S(NP(NP*)        -    -    -    Anderson_Cooper   (PERSON)      (ARG0*   (ARG0*      *            *        *         *    (174|(150)
+bc/cnn/00/cnn_0002   8    1          and     CC                 *         -    -    -    Anderson_Cooper         *            *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8    2          his   PRP$              (NP*         -    -    -    Anderson_Cooper         *            *        *      *            *        *         *     (63|(150)
+bc/cnn/00/cnn_0002   8    3         crew     NN                *))      crow   -    -    Anderson_Cooper         *            *)       *)     *            *        *         *      174)|63)
+bc/cnn/00/cnn_0002   8    4         beat    VBP              (VP*       beat  03   12    Anderson_Cooper         *          (V*)       *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8    5           it    PRP              (NP*)        -    -    -    Anderson_Cooper         *       (ARG1*)       *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8    6           to     IN           (PP(PP*         -    -    -    Anderson_Cooper         *   (ARGM-LOC*        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8    7        shore     NN             (NP*))     shore   -    1    Anderson_Cooper         *            *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8    8          and     CC                 *         -    -    -    Anderson_Cooper         *            *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8    9           to     IN              (PP*         -    -    -    Anderson_Cooper         *            *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   10       safety     NN            (NP*)))    safety   -    -    Anderson_Cooper         *            *)       *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   11          not     RB               (S*         -    -    -    Anderson_Cooper         *   (ARGM-ADV*        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   12    realizing    VBG              (VP*    realize  01    1    Anderson_Cooper         *            *      (V*)     *            *        *         *            -
+bc/cnn/00/cnn_0002   8   13         that     IN            (SBAR*         -    -    -    Anderson_Cooper         *            *   (ARG1*      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   14           in     IN            (S(PP*         -    -    -    Anderson_Cooper         *            *        *      *   (ARGM-TMP*        *         *            -
+bc/cnn/00/cnn_0002   8   15        April    NNP             (NP*))        -    -    -    Anderson_Cooper     (DATE)           *        *      *            *)       *         *            -
+bc/cnn/00/cnn_0002   8   16          the     DT           (NP(NP*         -    -    -    Anderson_Cooper         *            *        *      *       (ARG0*        *         *            -
+bc/cnn/00/cnn_0002   8   17           US    NNP                 *         -    -    -    Anderson_Cooper      (GPE)           *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   18      embassy     NN                 *)        -    -    -    Anderson_Cooper         *            *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   19           in     IN              (PP*         -    -    -    Anderson_Cooper         *            *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   20       Kigali    NNP            (NP*)))        -    -    -    Anderson_Cooper      (GPE)           *        *      *            *)       *         *            -
+bc/cnn/00/cnn_0002   8   21          had    VBD              (VP*       have  01    -    Anderson_Cooper         *            *        *    (V*)           *        *         *            -
+bc/cnn/00/cnn_0002   8   22       issued    VBN              (VP*      issue  01    1    Anderson_Cooper         *            *        *      *          (V*)       *         *            -
+bc/cnn/00/cnn_0002   8   23            a     DT           (NP(NP*         -    -    -    Anderson_Cooper         *            *        *      *       (ARG1*        *         *            -
+bc/cnn/00/cnn_0002   8   24      warning     NN                 *)   warning  01    1    Anderson_Cooper         *            *        *      *            *      (V*)        *            -
+bc/cnn/00/cnn_0002   8   25           to     IN              (PP*         -    -    -    Anderson_Cooper         *            *        *      *            *   (ARG2*         *            -
+bc/cnn/00/cnn_0002   8   26     American     JJ              (NP*         -    -    -    Anderson_Cooper     (NORP)           *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   27     tourists    NNS                *))        -    -    -    Anderson_Cooper         *            *        *      *            *        *)        *            -
+bc/cnn/00/cnn_0002   8   28        about     IN              (PP*         -    -    -    Anderson_Cooper         *            *        *      *            *   (ARG1*         *            -
+bc/cnn/00/cnn_0002   8   29            a     DT            (S(NP*         -    -    -    Anderson_Cooper         *            *        *      *            *        *    (ARG0*            -
+bc/cnn/00/cnn_0002   8   30        rogue     NN                 *         -    -    -    Anderson_Cooper         *            *        *      *            *        *         *            -
+bc/cnn/00/cnn_0002   8   31     elephant     NN                 *)        -    -    -    Anderson_Cooper         *            *        *      *            *        *         *)           -
+bc/cnn/00/cnn_0002   8   32     charging    VBG              (VP*     charge  02    5    Anderson_Cooper         *            *        *      *            *        *       (V*)           -
+bc/cnn/00/cnn_0002   8   33     visitors    NNS   (NP*))))))))))))        -    -    -    Anderson_Cooper         *            *)       *)     *            *)       *)   (ARG1*)           -
+bc/cnn/00/cnn_0002   8   34           /.      .                *))        -    -    -    Anderson_Cooper         *            *        *      *            *        *         *            -
+
+bc/cnn/00/cnn_0002   8   0     your   PRP$  (TOP(X(NP*    -    -   -    Jack_Hannah  *   (ARG0*   -
+bc/cnn/00/cnn_0002   8   1    trunk     NN           *)   -    -   -    Jack_Hannah  *        *)  -
+bc/cnn/00/cnn_0002   8   2       go     VB        (VP*    go  23   1    Jack_Hannah  *      (V*)  -
+bc/cnn/00/cnn_0002   8   3     like     IN        (PP*    -    -   -    Jack_Hannah  *   (ARG1*   -
+bc/cnn/00/cnn_0002   8   4     this     DT      (NP*)))   -    -   -    Jack_Hannah  *        *)  -
+bc/cnn/00/cnn_0002   8   5       /.      .          *))   -    -   -    Jack_Hannah  *        *   -
+
+bc/cnn/00/cnn_0002   8   0         On    IN  (TOP(S(PP*       -    -   -    Anderson_Cooper         *      *   (ARGM-LOC*       -
+bc/cnn/00/cnn_0002   8   1      shore    NN       (NP*))   shore   -   1    Anderson_Cooper         *      *            *)      -
+bc/cnn/00/cnn_0002   8   2     Hannah   NNP        (NP*)      -    -   -    Anderson_Cooper   (PERSON)     *       (ARG1*)   (150)
+bc/cnn/00/cnn_0002   8   3        was   VBD        (VP*       be  03   -    Anderson_Cooper         *    (V*)           *       -
+bc/cnn/00/cnn_0002   8   4    greeted   VBN        (VP*    greet  01   1    Anderson_Cooper         *      *          (V*)      -
+bc/cnn/00/cnn_0002   8   5         by    IN        (PP*       -    -   -    Anderson_Cooper         *      *       (ARG0*       -
+bc/cnn/00/cnn_0002   8   6      local    JJ        (NP*       -    -   -    Anderson_Cooper         *      *            *     (74
+bc/cnn/00/cnn_0002   8   7       kids   NNS        *))))     kid   -   -    Anderson_Cooper         *      *            *)     74)
+bc/cnn/00/cnn_0002   8   8         /.     .          *))      -    -   -    Anderson_Cooper         *      *            *       -
+
+bc/cnn/00/cnn_0002   8   0    Trunk   NN  (TOP(NP*   -   -   -    Jack_Hannah  *   -
+bc/cnn/00/cnn_0002   8   1       /.    .        *))  -   -   -    Jack_Hannah  *   -
+
+bc/cnn/00/cnn_0002   8   0    that    DT   (TOP(S(NP*)   -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   8   1      's   VBZ         (VP*    be  01   2    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   8   2      it   PRP        (NP*))   -    -   -    Jack_Hannah  *    (ARG2*)  -
+bc/cnn/00/cnn_0002   8   3      /.     .           *))   -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   8   0    that    DT   (TOP(S(NP*)   -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   8   1      's   VBZ         (VP*    be  01   2    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   8   2      it   PRP        (NP*))   -    -   -    Jack_Hannah  *    (ARG2*)  -
+bc/cnn/00/cnn_0002   8   3      /.     .           *))   -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   8    0         And     CC   (TOP(S*          -    -   -    Anderson_Cooper  *        *    (ARGM-DIS*)            *          -
+bc/cnn/00/cnn_0002   8    1          in     IN      (PP*          -    -   -    Anderson_Cooper  *        *    (ARGM-PRP*             *          -
+bc/cnn/00/cnn_0002   8    2    exchange     NN   (NP(NP*)   exchange  01   1    Anderson_Cooper  *      (V*)            *             *          -
+bc/cnn/00/cnn_0002   8    3         for     IN      (PP*          -    -   -    Anderson_Cooper  *   (ARG3*             *             *          -
+bc/cnn/00/cnn_0002   8    4         his   PRP$      (NP*          -    -   -    Anderson_Cooper  *        *             *             *       (150)
+bc/cnn/00/cnn_0002   8    5    kindness     NN      *))))         -    -   -    Anderson_Cooper  *        *)            *)            *          -
+bc/cnn/00/cnn_0002   8    6        they    PRP      (NP*)         -    -   -    Anderson_Cooper  *        *        (ARG0*)            *        (74)
+bc/cnn/00/cnn_0002   8    7      shared    VBD      (VP*       share  01   3    Anderson_Cooper  *        *           (V*)            *          -
+bc/cnn/00/cnn_0002   8    8           a     DT   (NP(NP*          -    -   -    Anderson_Cooper  *        *        (ARG1*             *       (127
+bc/cnn/00/cnn_0002   8    9      little     RB    (ADJP*          -    -   -    Anderson_Cooper  *        *             *    (ARGM-ADV*)         -
+bc/cnn/00/cnn_0002   8   10       known    VBN         *)       know  01   -    Anderson_Cooper  *        *             *           (V*)         -
+bc/cnn/00/cnn_0002   8   11      secret     NN         *)         -    -   -    Anderson_Cooper  *        *             *        (ARG1*)         -
+bc/cnn/00/cnn_0002   8   12       about     IN      (PP*          -    -   -    Anderson_Cooper  *        *             *             *          -
+bc/cnn/00/cnn_0002   8   13         the     DT      (NP*          -    -   -    Anderson_Cooper  *        *             *             *        (29
+bc/cnn/00/cnn_0002   8   14       rogue     NN         *          -    -   -    Anderson_Cooper  *        *             *             *          -
+bc/cnn/00/cnn_0002   8   15    elephant     NN      *))))         -    -   -    Anderson_Cooper  *        *             *)            *    127)|29)
+bc/cnn/00/cnn_0002   8   16          /.      .        *))         -    -   -    Anderson_Cooper  *        *             *             *          -
+
+bc/cnn/00/cnn_0002   8    0       Turns   VBZ      (TOP(S(VP*      turn  11   6    Anderson_Cooper  *      (V*)           *       -
+bc/cnn/00/cnn_0002   8    1         out    RP           (PRT*)       -    -   -    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8    2        this    DT  (SBAR(S(NP(NP*        -    -   -    Anderson_Cooper  *   (ARG1*       (ARG1*     (29
+bc/cnn/00/cnn_0002   8    3     monster    NN               *)       -    -   -    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8    4          of    IN            (PP*        -    -   -    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8    5         the    DT            (NP*        -    -   -    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8    6        deep    NN             *)))       -    -   -    Anderson_Cooper  *        *            *)     29)
+bc/cnn/00/cnn_0002   8    7         was   VBD            (VP*        be  01   1    Anderson_Cooper  *        *          (V*)   (127)
+bc/cnn/00/cnn_0002   8    8          in    IN            (PP*        -    -   -    Anderson_Cooper  *        *   (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   8    9        fact    NN           (NP*))     fact   -   5    Anderson_Cooper  *        *            *)      -
+bc/cnn/00/cnn_0002   8   10          an    DT         (NP(NP*        -    -   -    Anderson_Cooper  *        *       (ARG2*       -
+bc/cnn/00/cnn_0002   8   11         old    JJ               *        -    -   -    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8   12      friend    NN               *)   friend   -   -    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8   13          of    IN            (PP*        -    -   -    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8   14         the    DT            (NP*        -    -   -    Anderson_Cooper  *        *            *     (74
+bc/cnn/00/cnn_0002   8   15    children   NNS               *     child   -   1    Anderson_Cooper  *        *            *       -
+bc/cnn/00/cnn_0002   8   16          's   POS         *)))))))       -    -   -    Anderson_Cooper  *        *)           *)     74)
+bc/cnn/00/cnn_0002   8   17          /.     .              *))       -    -   -    Anderson_Cooper  *        *            *       -
+
+bc/cnn/00/cnn_0002   8    0         and    CC   (TOP(S*       -    -   -    Anderson_Cooper  *         *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0002   8    1          to    TO    (S(VP*       -    -   -    Anderson_Cooper  *         *      (R-ARG0*       -
+bc/cnn/00/cnn_0002   8    2       prove    VB      (VP*    prove  01   1    Anderson_Cooper  *       (V*)            *       -
+bc/cnn/00/cnn_0002   8    3          it   PRP   (NP*))))      -    -   -    Anderson_Cooper  *    (ARG1*)            *)   (127)
+bc/cnn/00/cnn_0002   8    4        they   PRP      (NP*)      -    -   -    Anderson_Cooper  *    (ARG0*)       (ARG0*)    (74)
+bc/cnn/00/cnn_0002   8    5       lured   VBD      (VP*     lure  01   2    Anderson_Cooper  *         *           (V*)      -
+bc/cnn/00/cnn_0002   8    6         him   PRP      (NP*)      -    -   -    Anderson_Cooper  *         *        (ARG1*)    (29)
+bc/cnn/00/cnn_0002   8    7          in    RB    (ADVP*)      -    -   -    Anderson_Cooper  *         *    (ARGM-PRD*)      -
+bc/cnn/00/cnn_0002   8    8        with    IN      (PP*       -    -   -    Anderson_Cooper  *         *        (ARG2*       -
+bc/cnn/00/cnn_0002   8    9       sweet    JJ   (NP(NP*       -    -   -    Anderson_Cooper  *         *             *       -
+bc/cnn/00/cnn_0002   8   10       words   NNS         *)    word   -   2    Anderson_Cooper  *         *             *       -
+bc/cnn/00/cnn_0002   8   11         and    CC         *       -    -   -    Anderson_Cooper  *         *             *       -
+bc/cnn/00/cnn_0002   8   12       sweet    JJ      (NP*       -    -   -    Anderson_Cooper  *         *             *       -
+bc/cnn/00/cnn_0002   8   13    potatoes   NNS      *))))      -    -   -    Anderson_Cooper  *         *             *)      -
+bc/cnn/00/cnn_0002   8   14          /.     .        *))      -    -   -    Anderson_Cooper  *         *             *       -
+
+bc/cnn/00/cnn_0002   8   0    Thank   VBP  (TOP(S(VP*    thank  01   1    Jack_Hannah  *          (V*)  -
+bc/cnn/00/cnn_0002   8   1      you   PRP        (NP*)      -    -   -    Jack_Hannah  *       (ARG1*)  -
+bc/cnn/00/cnn_0002   8   2       so    RB      (ADVP*       -    -   -    Jack_Hannah  *   (ARGM-ADV*   -
+bc/cnn/00/cnn_0002   8   3     much    RB          *))      -    -   -    Jack_Hannah  *            *)  -
+bc/cnn/00/cnn_0002   8   4       /.     .          *))      -    -   -    Jack_Hannah  *            *   -
+
+bc/cnn/00/cnn_0002   8   0    thank   VBP  (TOP(S(VP*    thank  01   1    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   8   1      you   PRP       (NP*))      -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   8   2       /.     .          *))      -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   8   0    thank   VBP  (TOP(S(VP*    thank  01   1    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   8   1      you   PRP       (NP*))      -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   8   2       /.     .          *))      -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   8   0         that    DT   (TOP(S(NP*)          -    -   -    Jack_Hannah  *    (ARG1*)  -
+bc/cnn/00/cnn_0002   8   1           's   VBZ         (VP*           be  01   1    Jack_Hannah  *       (V*)  -
+bc/cnn/00/cnn_0002   8   2    something    NN         (NP*    something   -   4    Jack_Hannah  *    (ARG2*   -
+bc/cnn/00/cnn_0002   8   3         else    RB           *))          -    -   -    Jack_Hannah  *         *)  -
+bc/cnn/00/cnn_0002   8   4           /.     .           *))          -    -   -    Jack_Hannah  *         *   -
+
+bc/cnn/00/cnn_0002   8   0    That    DT    (TOP(S(NP*)     -    -   -    Jack_Hannah  *    (ARG1*)            *       -
+bc/cnn/00/cnn_0002   8   1      's   VBZ          (VP*      be  01   2    Jack_Hannah  *       (V*)            *       -
+bc/cnn/00/cnn_0002   8   2     all    DT       (NP(NP*)     -    -   -    Jack_Hannah  *    (ARG2*             *       -
+bc/cnn/00/cnn_0002   8   3       I   PRP   (SBAR(S(NP*)     -    -   -    Jack_Hannah  *         *        (ARG0*)   (150)
+bc/cnn/00/cnn_0002   8   4     can    MD          (VP*      -    -   -    Jack_Hannah  *         *    (ARGM-MOD*)      -
+bc/cnn/00/cnn_0002   8   5    tell    VB          (VP*    tell  01   1    Jack_Hannah  *         *           (V*)      -
+bc/cnn/00/cnn_0002   8   6     you   PRP    (NP*)))))))     -    -   -    Jack_Hannah  *         *)       (ARG2*)      -
+bc/cnn/00/cnn_0002   8   7      /.     .            *))     -    -   -    Jack_Hannah  *         *             *       -
+
+bc/cnn/00/cnn_0002   8    0     Akagera   NNP    (TOP(S(NP*    -    -   -    Anderson_Cooper  (FAC*        (ARG1*             *    (16
+bc/cnn/00/cnn_0002   8    1    National   NNP             *    -    -   -    Anderson_Cooper      *             *             *      -
+bc/cnn/00/cnn_0002   8    2        Park   NNP             *)   -    -   -    Anderson_Cooper      *)            *)            *     16)
+bc/cnn/00/cnn_0002   8    3         may    MD          (VP*    -    -   -    Anderson_Cooper      *    (ARGM-MOD*)            *      -
+bc/cnn/00/cnn_0002   8    4         not    RB             *    -    -   -    Anderson_Cooper      *    (ARGM-NEG*)            *      -
+bc/cnn/00/cnn_0002   8    5          be    VB          (VP*    be  01   1    Anderson_Cooper      *           (V*)            *      -
+bc/cnn/00/cnn_0002   8    6         all    DT       (NP(NP*)   -    -   -    Anderson_Cooper      *        (ARG2*        (ARG2*)     -
+bc/cnn/00/cnn_0002   8    7        that   WDT   (SBAR(WHNP*)   -    -   -    Anderson_Cooper      *             *      (R-ARG2*)     -
+bc/cnn/00/cnn_0002   8    8          it   PRP        (S(NP*)   -    -   -    Anderson_Cooper      *             *        (ARG1*)   (16)
+bc/cnn/00/cnn_0002   8    9        once    RB        (ADVP*)   -    -   -    Anderson_Cooper      *             *    (ARGM-TMP*)     -
+bc/cnn/00/cnn_0002   8   10         was   VBD     (VP*))))))   be  01   1    Anderson_Cooper      *             *)          (V*)     -
+bc/cnn/00/cnn_0002   8   11          /.     .            *))   -    -   -    Anderson_Cooper      *             *             *      -
+
+bc/cnn/00/cnn_0002   8   0       nor    CC  (TOP(SINV*        -    -    -    Anderson_Cooper      *            *       -
+bc/cnn/00/cnn_0002   8   1        of    IN        (PP*        -    -    -    Anderson_Cooper      *   (ARGM-ADV*       -
+bc/cnn/00/cnn_0002   8   2    course    NN       (NP*))   course   -   13    Anderson_Cooper      *            *)      -
+bc/cnn/00/cnn_0002   8   3        is   VBZ        (VP*)       be  01    1    Anderson_Cooper      *          (V*)      -
+bc/cnn/00/cnn_0002   8   4    Rwanda   NNP        (NP*)       -    -    -    Anderson_Cooper   (GPE)      (ARG1*)   (134)
+bc/cnn/00/cnn_0002   8   5        /.     .          *))       -    -    -    Anderson_Cooper      *            *       -
+
+bc/cnn/00/cnn_0002   8    0          but    CC         (TOP(S*          -    -   -    Anderson_Cooper         *    (ARGM-DIS*)       *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8    1         Jack   NNP            (NP*          -    -   -    Anderson_Cooper  (PERSON*        (ARG0*        *             *            *      *             *      *   (150
+bc/cnn/00/cnn_0002   8    2       Hannah   NNP               *)         -    -   -    Anderson_Cooper         *)            *)       *             *            *      *             *      *    150)
+bc/cnn/00/cnn_0002   8    3         says   VBZ            (VP*         say  01   1    Anderson_Cooper         *           (V*)       *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8    4         that    IN          (SBAR*          -    -   -    Anderson_Cooper         *        (ARG1*        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8    5        there    EX        (S(S(NP*)         -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8    6           is   VBZ            (VP*          be  02   3    Anderson_Cooper         *             *      (V*)            *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8    7            a    DT         (NP(NP*          -    -   -    Anderson_Cooper         *             *   (ARG1*             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8    8        sense    NN               *)      sense   -   1    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8    9           of    IN            (PP*          -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   10      healing    NN        (NP*)))))       heal   -   -    Anderson_Cooper         *             *        *)            *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   11          and    CC               *          -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   12           as    IN          (S(PP*          -    -   -    Anderson_Cooper         *             *        *             *   (ARGM-MNR*      *             *      *      -
+bc/cnn/00/cnn_0002   8   13           in    IN            (PP*          -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   14          the    DT         (NP(NP*          -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   15       mighty    JJ               *          -    -   -    Anderson_Cooper         *             *        *    (ARGM-MNR*)           *      *             *      *      -
+bc/cnn/00/cnn_0002   8   16        steps   NNS               *)       step  01   3    Anderson_Cooper         *             *        *           (V*)           *      *             *      *      -
+bc/cnn/00/cnn_0002   8   17           of    IN            (PP*          -    -   -    Anderson_Cooper         *             *        *        (ARG1*            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   18    elephants   NNS        (NP*)))))         -    -   -    Anderson_Cooper         *             *        *             *)           *)     *             *      *      -
+bc/cnn/00/cnn_0002   8   19        there    EX            (NP*)         -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   20          are   VBP            (VP*          be  02   -    Anderson_Cooper         *             *        *             *          (V*)     *             *      *      -
+bc/cnn/00/cnn_0002   8   21        small    JJ         (NP(NP*          -    -   -    Anderson_Cooper         *             *        *             *       (ARG1*      *             *      *      -
+bc/cnn/00/cnn_0002   8   22        steps   NNS               *)       step   -   1    Anderson_Cooper         *             *        *             *            *      *    (ARGM-PRR*)     *      -
+bc/cnn/00/cnn_0002   8   23        being   VBG            (VP*          be  03   -    Anderson_Cooper         *             *        *             *            *    (V*)            *      *      -
+bc/cnn/00/cnn_0002   8   24         made   VBN            (VP*        make   LV  1    Anderson_Cooper         *             *        *             *            *      *           (V*)     *      -
+bc/cnn/00/cnn_0002   8   25      towards    IN            (PP*          -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -
+bc/cnn/00/cnn_0002   8   26     recovery    NN   (NP*))))))))))   recovery  01   3    Anderson_Cooper         *             *)       *             *            *)     *             *    (V*)     -
+bc/cnn/00/cnn_0002   8   27           /.     .              *))         -    -   -    Anderson_Cooper         *             *        *             *            *      *             *      *      -

@@ -1,0 +1,138 @@
+bc/cnn/00/cnn_0001   0   0       Sunday   NNP   (TOP(FRAG(NP*)          -    -   -    Larry     (DATE)       *   -
+bc/cnn/00/cnn_0001   0   1          the    DT         (NP(NP*           -    -   -    Larry         *        *   -
+bc/cnn/00/cnn_0001   0   2    interview    NN               *)   interview  01   1    Larry         *      (V*)  -
+bc/cnn/00/cnn_0001   0   3         with    IN            (PP*           -    -   -    Larry         *   (ARG1*   -
+bc/cnn/00/cnn_0001   0   4          Bob   NNP            (NP*           -    -   -    Larry  (PERSON*        *   -
+bc/cnn/00/cnn_0001   0   5      Shapiro   NNP             *)))          -    -   -    Larry         *)       *)  -
+bc/cnn/00/cnn_0001   0   6           /.     .              *))          -    -   -    Larry         *        *   -
+
+bc/cnn/00/cnn_0001   0   0    Newsnight   NNP   (TOP(S(NP*)       -    -   -    Larry   (WORK_OF_ART)       (ARG1*)    (85)
+bc/cnn/00/cnn_0001   0   1      returns   VBZ         (VP*    return  03   1    Larry              *           (V*)      -
+bc/cnn/00/cnn_0001   0   2           to    IN         (PP*        -    -   -    Larry              *        (ARG2*       -
+bc/cnn/00/cnn_0001   0   3          duo    JJ         (NP*        -    -   -    Larry              *             *       -
+bc/cnn/00/cnn_0001   0   4       action    NN           *))   action   -   3    Larry              *             *)      -
+bc/cnn/00/cnn_0001   0   5      tonight    NN        (NP*))       -    -   -    Larry          (TIME)   (ARGM-TMP*)   (175)
+bc/cnn/00/cnn_0001   0   6           /.     .           *))       -    -   -    Larry              *             *       -
+
+bc/cnn/00/cnn_0001   0   0         The    DT  (TOP(S(NP*    -    -   -    Larry         *   (ARG1*           -
+bc/cnn/00/cnn_0001   0   1    co-hosts   NNS           *)   -    -   -    Larry         *        *)          -
+bc/cnn/00/cnn_0001   0   2         are   VBP        (VP*    be  01   2    Larry         *      (V*)          -
+bc/cnn/00/cnn_0001   0   3        Kira   NNP     (NP(NP*    -    -   -    Larry  (PERSON*   (ARG2*   (134|(165
+bc/cnn/00/cnn_0001   0   4    Phillips   NNP           *)   -    -   -    Larry         *)       *         165)
+bc/cnn/00/cnn_0001   0   5         and    CC           *    -    -   -    Larry         *        *           -
+bc/cnn/00/cnn_0001   0   6        Rick   NNP        (NP*    -    -   -    Larry  (PERSON*        *          (2
+bc/cnn/00/cnn_0001   0   7     Sanchez   NNP         *)))   -    -   -    Larry         *)       *)     134)|2)
+bc/cnn/00/cnn_0001   0   8          /.     .          *))   -    -   -    Larry         *        *           -
+
+bc/cnn/00/cnn_0001   0    0     that    DT   (TOP(S(NP*)      -    -   -    Larry         *    (ARG1*)          -
+bc/cnn/00/cnn_0001   0    1       's   VBZ         (VP*       be  01   2    Larry         *       (V*)          -
+bc/cnn/00/cnn_0001   0    2     Rick    NN   (NP(NP(NP*)    rick   -   -    Larry   (PERSON)   (ARG2*     (2|(134
+bc/cnn/00/cnn_0001   0    3       on    IN         (PP*       -    -   -    Larry         *         *           -
+bc/cnn/00/cnn_0001   0    4      the    DT         (NP*       -    -   -    Larry         *         *           -
+bc/cnn/00/cnn_0001   0    5     left    JJ          *)))      -    -   -    Larry         *         *           2)
+bc/cnn/00/cnn_0001   0    6     Kira   NNP      (NP(NP*)      -    -   -    Larry   (PERSON)        *        (165
+bc/cnn/00/cnn_0001   0    7       on    IN         (PP*       -    -   -    Larry         *         *           -
+bc/cnn/00/cnn_0001   0    8      the    DT         (NP*       -    -   -    Larry         *         *           -
+bc/cnn/00/cnn_0001   0    9    right    NN        *)))))   right   -   2    Larry         *         *)   165)|134)
+bc/cnn/00/cnn_0001   0   10       /.     .           *))      -    -   -    Larry         *         *           -
+
+bc/cnn/00/cnn_0001   0   0        and    CC  (TOP(S*    -    -   -    Larry      *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   0   1       they   PRP     (NP*)   -    -   -    Larry      *        (ARG1*)   (134)
+bc/cnn/00/cnn_0001   0   2        are   VBP     (VP*    be  01   4    Larry      *           (V*)      -
+bc/cnn/00/cnn_0001   0   3         in    IN     (PP*    -    -   -    Larry      *        (ARG2*       -
+bc/cnn/00/cnn_0001   0   4    Atlanta   NNP   (NP*)))   -    -   -    Larry   (GPE)            *)      -
+bc/cnn/00/cnn_0001   0   5         /.     .       *))   -    -   -    Larry      *             *       -
+
+bc/cnn/00/cnn_0001   0   0     Double   JJ  (TOP(NP*         -   -   -    Kyra_Phillips  *   -
+bc/cnn/00/cnn_0001   0   1    trouble   NN         *    trouble  -   1    Kyra_Phillips  *   -
+bc/cnn/00/cnn_0001   0   2         /.    .        *))        -   -   -    Kyra_Phillips  *   -
+
+bc/cnn/00/cnn_0001   0   0       watch    VB  (TOP(S(VP*    watch  01   2    Rick_Sanchez         *           (V*)      -
+bc/cnn/00/cnn_0001   0   1         for    IN        (PP*       -    -   -    Rick_Sanchez         *        (ARG1*       -
+bc/cnn/00/cnn_0001   0   2         the    DT        (NP*       -    -   -    Rick_Sanchez         *             *       -
+bc/cnn/00/cnn_0001   0   3    dolphins   NNS          *))      -    -   -    Rick_Sanchez         *             *)      -
+bc/cnn/00/cnn_0001   0   4       Larry   NNP       (NP*))      -    -   -    Rick_Sanchez   (PERSON)   (ARGM-DIS*)   (114)
+bc/cnn/00/cnn_0001   0   5          /.     .          *))      -    -   -    Rick_Sanchez         *             *       -
+
+bc/cnn/00/cnn_0001   0   0    Carry   VB  (TOP(S(VP*    carry  02   8    Larry  *    (V*)  -
+bc/cnn/00/cnn_0001   0   1       on   RP      (PRT*))      -    -   -    Larry  *      *   -
+bc/cnn/00/cnn_0001   0   2       /.    .          *))      -    -   -    Larry  *      *   -
+
+bc/cnn/00/cnn_0001   0    0               I    PRP      (TOP(S(NP*)       -    -   -    Rick_Sanchez      *      *    (ARG2*)       *          *      (2)
+bc/cnn/00/cnn_0001   0    1              'm    VBP            (VP*        be  03   -    Rick_Sanchez      *    (V*)        *        *          *       -
+bc/cnn/00/cnn_0001   0    2            told    VBN            (VP*      tell  01   -    Rick_Sanchez      *      *       (V*)       *          *       -
+bc/cnn/00/cnn_0001   0    3            this     DT  (SBAR(X(NP(NP*        -    -   -    Rick_Sanchez      *      *    (ARG1*   (ARG0*     (ARG1*       -
+bc/cnn/00/cnn_0001   0    4             guy     NN               *)      guy   -   -    Rick_Sanchez      *      *         *        *          *       -
+bc/cnn/00/cnn_0001   0    5              in     IN            (PP*        -    -   -    Rick_Sanchez      *      *         *        *          *       -
+bc/cnn/00/cnn_0001   0    6           Miami    NNP          (NP*)))       -    -   -    Rick_Sanchez   (GPE)     *         *        *)         *)      -
+bc/cnn/00/cnn_0001   0    7          saving    VBG               *      save  02   1    Rick_Sanchez      *      *         *      (V*)         *       -
+bc/cnn/00/cnn_0001   0    8              is    VBZ            (VP*        be  01   1    Rick_Sanchez      *      *         *        *        (V*)      -
+bc/cnn/00/cnn_0001   0    9    schula-esque     JJ         (ADJP*))       -    -   -    Rick_Sanchez      *      *         *        *     (ARG2*)      -
+bc/cnn/00/cnn_0001   0   10            your   PRP$            (NP*        -    -   -    Rick_Sanchez      *      *         *        *   (R-ARG1*    (114)
+bc/cnn/00/cnn_0001   0   11          friend     NN           *)))))   friend   -   -    Rick_Sanchez      *      *         *)       *          *)      -
+bc/cnn/00/cnn_0001   0   12              /.      .              *))       -    -   -    Rick_Sanchez      *      *         *        *          *       -
+
+bc/cnn/00/cnn_0001   0   0      Yeah   UH   (TOP(FRAG(INTJ*)  -   -   -    Larry  *   -
+bc/cnn/00/cnn_0001   0   1       not   RB              (NP*   -   -   -    Larry  *   -
+bc/cnn/00/cnn_0001   0   2      this   DT                 *   -   -   -    Larry  *   -
+bc/cnn/00/cnn_0001   0   3      year   NN                 *)  -   -   -    Larry  *   -
+bc/cnn/00/cnn_0001   0   4    though   RB            (ADVP*)  -   -   -    Larry  *   -
+bc/cnn/00/cnn_0001   0   5        /.    .                *))  -   -   -    Larry  *   -
+
+bc/cnn/00/cnn_0001   0   0     Well    UH   (TOP(S(INTJ*)     -    -   -    Rick_Sanchez       *    (ARGM-DIS*)  -
+bc/cnn/00/cnn_0001   0   1       it   PRP           (NP*)     -    -   -    Rick_Sanchez       *        (ARG0*)  -
+bc/cnn/00/cnn_0001   0   2    might    MD           (VP*      -    -   -    Rick_Sanchez       *    (ARGM-MOD*)  -
+bc/cnn/00/cnn_0001   0   3     take    VB           (VP*    take  10   3    Rick_Sanchez       *           (V*)  -
+bc/cnn/00/cnn_0001   0   4        a    DT           (NP*      -    -   -    Rick_Sanchez  (DATE*        (ARG1*   -
+bc/cnn/00/cnn_0001   0   5     year    NN            *)))     -    -   -    Rick_Sanchez       *)            *)  -
+bc/cnn/00/cnn_0001   0   6       /.     .             *))     -    -   -    Rick_Sanchez       *             *   -
+
+bc/cnn/00/cnn_0001   0   0    Good   JJ   (TOP(FRAG(ADJP*)     -    -   -    Rick_Sanchez  *      *   -
+bc/cnn/00/cnn_0001   0   1      to   TO            (S(VP*      -    -   -    Rick_Sanchez  *      *   -
+bc/cnn/00/cnn_0001   0   2    talk   VB            (VP*)))   talk  01   1    Rick_Sanchez  *    (V*)  -
+bc/cnn/00/cnn_0001   0   3      /.    .                *))     -    -   -    Rick_Sanchez  *      *   -
+
+bc/cnn/00/cnn_0001   0   0      Go    VB  (TOP(S(VP*     go  05   1    Larry  *      (V*)        *   -
+bc/cnn/00/cnn_0001   0   1     get    VB      (S(VP*    get  01   1    Larry  *   (ARG1*       (V*)  -
+bc/cnn/00/cnn_0001   0   2    them   PRP     (NP*))))    -    -   -    Larry  *        *)   (ARG1*)  -
+bc/cnn/00/cnn_0001   0   3      /.     .          *))    -    -   -    Larry  *        *         *   -
+
+bc/cnn/00/cnn_0001   0   0    Bye   UH  (TOP(INTJ*   -   -   -    Larry  *   -
+bc/cnn/00/cnn_0001   0   1     /.    .          *))  -   -   -    Larry  *   -
+
+bc/cnn/00/cnn_0001   0   0    Alright   UH  (TOP(INTJ*   -   -   -    Rick_Sanchez  *   -
+bc/cnn/00/cnn_0001   0   1         /.    .          *))  -   -   -    Rick_Sanchez  *   -
+
+bc/cnn/00/cnn_0001   0   0    Thanks   NNS   (TOP(FRAG(NP*)   thanks  01   1    Kyra_Phillips         *       (V*)      -
+bc/cnn/00/cnn_0001   0   1     Larry   NNP            (NP*)       -    -   -    Kyra_Phillips   (PERSON)   (ARG1*)   (114)
+bc/cnn/00/cnn_0001   0   2        /.     .              *))       -    -   -    Kyra_Phillips         *         *       -
+
+bc/cnn/00/cnn_0001   0   0           Well     UH   (TOP(FRAG(INTJ*)  -   -   -    Kyra_Phillips       *       -
+bc/cnn/00/cnn_0001   0   1        tonight     NN              (NP*)  -   -   -    Kyra_Phillips   (TIME)   (175)
+bc/cnn/00/cnn_0001   0   2              a     DT              (NP*   -   -   -    Kyra_Phillips       *       -
+bc/cnn/00/cnn_0001   0   3            Wal    NNP             (NML*   -   -   -    Kyra_Phillips   (ORG*       -
+bc/cnn/00/cnn_0001   0   4             -    HYPH                 *   -   -   -    Kyra_Phillips       *       -
+bc/cnn/00/cnn_0001   0   5           Mart    NNP                 *)  -   -   -    Kyra_Phillips       *)      -
+bc/cnn/00/cnn_0001   0   6    controversy     NN                 *)  -   -   -    Kyra_Phillips       *       -
+bc/cnn/00/cnn_0001   0   7             /.      .                *))  -   -   -    Kyra_Phillips       *       -
+
+bc/cnn/00/cnn_0001   0   0        Good    JJ  (TOP(S(INTJ*      -    -   -    Kyra_Phillips         *   (ARGM-DIS*       -
+bc/cnn/00/cnn_0001   0   1     evening    NN             *)   even   -   -    Kyra_Phillips     (TIME)           *)      -
+bc/cnn/00/cnn_0001   0   2           I   PRP          (NP*)     -    -   -    Kyra_Phillips         *       (ARG1*)   (165)
+bc/cnn/00/cnn_0001   0   3          'm   VBP          (VP*      be  01   2    Kyra_Phillips         *          (V*)      -
+bc/cnn/00/cnn_0001   0   4        Kyra   NNP          (NP*      -    -   -    Kyra_Phillips  (PERSON*       (ARG2*       -
+bc/cnn/00/cnn_0001   0   5    Phillips   NNP            *))     -    -   -    Kyra_Phillips         *)           *)      -
+bc/cnn/00/cnn_0001   0   6          /.     .            *))     -    -   -    Kyra_Phillips         *            *       -
+
+bc/cnn/00/cnn_0001   0   0        And    CC  (TOP(S*    -    -   -    Rick_Sanchez         *    (ARGM-DIS*)    -
+bc/cnn/00/cnn_0001   0   1          I   PRP     (NP*)   -    -   -    Rick_Sanchez         *        (ARG1*)   (2)
+bc/cnn/00/cnn_0001   0   2         'm   VBP     (VP*    be  01   2    Rick_Sanchez         *           (V*)    -
+bc/cnn/00/cnn_0001   0   3       Rick   NNP     (NP*    -    -   -    Rick_Sanchez  (PERSON*        (ARG2*     -
+bc/cnn/00/cnn_0001   0   4    Sanchez   NNP       *))   -    -   -    Rick_Sanchez         *)            *)    -
+bc/cnn/00/cnn_0001   0   5         /.     .       *))   -    -   -    Rick_Sanchez         *             *     -
+
+bc/cnn/00/cnn_0001   0   0    Newsnight   NNP   (TOP(S(NP*)      -    -   -    Rick_Sanchez   (WORK_OF_ART)      (ARG1*)   (85)
+bc/cnn/00/cnn_0001   0   1       begins   VBZ         (VP*    begin  01   1    Rick_Sanchez              *          (V*)     -
+bc/cnn/00/cnn_0001   0   2        right    RB       (ADVP*       -    -   -    Rick_Sanchez              *   (ARGM-TMP*      -
+bc/cnn/00/cnn_0001   0   3          now    RB           *))      -    -   -    Rick_Sanchez              *            *)     -
+bc/cnn/00/cnn_0001   0   4           /.     .           *))      -    -   -    Rick_Sanchez              *            *      -

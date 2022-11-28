@@ -1,0 +1,87 @@
+bc/msnbc/00/msnbc_0003   4    0            When    WRB   (TOP(FRAG(SBAR(WHADVP*)             -    -   -    Chris_Matthews         *    (ARGM-TMP*)       *         *           -
+bc/msnbc/00/msnbc_0003   4    1              we    PRP                   (S(NP*)             -    -   -    Chris_Matthews         *        (ARG1*)       *         *           -
+bc/msnbc/00/msnbc_0003   4    2            come    VBP                     (VP*            come  01   1    Chris_Matthews         *           (V*)       *         *           -
+bc/msnbc/00/msnbc_0003   4    3            back     RB                (ADVP*))))             -    -   -    Chris_Matthews         *    (ARGM-DIR*)       *         *           -
+bc/msnbc/00/msnbc_0003   4    4        reaction     NN              (UCP(NP(NP*)       reaction  01   2    Chris_Matthews         *             *      (V*)        *           -
+bc/msnbc/00/msnbc_0003   4    5            from     IN                     (PP*              -    -   -    Chris_Matthews         *             *   (ARG0*         *           -
+bc/msnbc/00/msnbc_0003   4    6       Democrats   NNPS                    (NP*))             -    -   -    Chris_Matthews     (NORP)            *        *)        *           -
+bc/msnbc/00/msnbc_0003   4    7              to     IN                     (PP*              -    -   -    Chris_Matthews         *             *   (ARG1*         *           -
+bc/msnbc/00/msnbc_0003   4    8       President    NNP               (NP(NP(NP*              -    -   -    Chris_Matthews         *             *        *         *   (209|(213
+bc/msnbc/00/msnbc_0003   4    9            Bush    NNP                        *              -    -   -    Chris_Matthews   (PERSON)            *        *         *           -
+bc/msnbc/00/msnbc_0003   4   10              's    POS                        *)             -    -   -    Chris_Matthews         *             *        *         *         209)
+bc/msnbc/00/msnbc_0003   4   11          recent     JJ                        *              -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   12          recess     NN                        *          recess   -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   13     appointment     NN                        *)             -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   14              of     IN                     (PP*              -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   15            John    NNP                     (NP*              -    -   -    Chris_Matthews  (PERSON*             *        *         *        (137
+bc/msnbc/00/msnbc_0003   4   16          Bolton    NNP                    *)))))             -    -   -    Chris_Matthews         *)            *        *)        *    213)|137)
+bc/msnbc/00/msnbc_0003   4   17            plus     CC                        *              -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   18            what     WP             (SBARQ(WHNP*)             -    -   -    Chris_Matthews         *             *        *    (ARG2*)          -
+bc/msnbc/00/msnbc_0003   4   19              is    VBZ                     (SQ*              be  01   1    Chris_Matthews         *             *        *       (V*)          -
+bc/msnbc/00/msnbc_0003   4   20             the     DT                  (NP(NP*              -    -   -    Chris_Matthews         *             *        *    (ARG1*           -
+bc/msnbc/00/msnbc_0003   4   21    significance     NN                        *)   significance   -   2    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   22              of     IN                     (PP*              -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   23             the     DT                  (NP(NP*              -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   24          timing     NN                        *)           time   -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   25              of     IN                     (PP*              -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   26           today     NN                  (NP(NP*           today   -   2    Chris_Matthews     (DATE)            *        *         *        (213
+bc/msnbc/00/msnbc_0003   4   27              's    POS                        *)             -    -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   28          Bolton    NNP                        *              -    -   -    Chris_Matthews   (PERSON)            *        *         *        (137)
+bc/msnbc/00/msnbc_0003   4   29          recess     NN                        *          recess   -   -    Chris_Matthews         *             *        *         *           -
+bc/msnbc/00/msnbc_0003   4   30     appointment     NN                 *))))))))             -    -   -    Chris_Matthews         *             *        *         *)        213)
+bc/msnbc/00/msnbc_0003   4   31              /?      .                       *))             -    -   -    Chris_Matthews         *             *        *         *           -
+
+bc/msnbc/00/msnbc_0003   4   0     That    DT   (TOP(S(NP*)   -    -   -    Chris_Matthews  *    (ARG1*)  -
+bc/msnbc/00/msnbc_0003   4   1       's   VBZ         (VP*    be  01   4    Chris_Matthews  *       (V*)  -
+bc/msnbc/00/msnbc_0003   4   2    ahead    RB      (ADVP*))   -    -   -    Chris_Matthews  *    (ARG2*)  -
+bc/msnbc/00/msnbc_0003   4   3       /.     .           *))   -    -   -    Chris_Matthews  *         *   -
+
+bc/msnbc/00/msnbc_0003   4   0         You   PRP   (TOP(S(NP*)      -    -   -    Chris_Matthews              *      *    (ARG0*)     -
+bc/msnbc/00/msnbc_0003   4   1         're   VBP         (VP*       be  03   -    Chris_Matthews              *    (V*)        *      -
+bc/msnbc/00/msnbc_0003   4   2    watching   VBG         (VP*    watch  01   1    Chris_Matthews              *      *       (V*)     -
+bc/msnbc/00/msnbc_0003   4   3    Hardball   NNP      (NP(NP*)      -    -   -    Chris_Matthews   (WORK_OF_ART)     *    (ARG1*   (214
+bc/msnbc/00/msnbc_0003   4   4        only    RB    (PP(ADVP*)      -    -   -    Chris_Matthews              *      *         *      -
+bc/msnbc/00/msnbc_0003   4   5          on    IN            *       -    -   -    Chris_Matthews              *      *         *      -
+bc/msnbc/00/msnbc_0003   4   6       MSNBC   NNP     (NP*)))))      -    -   -    Chris_Matthews           (ORG)     *         *)   214)
+bc/msnbc/00/msnbc_0003   4   7          /.     .           *))      -    -   -    Chris_Matthews              *      *         *      -
+
+bc/msnbc/00/msnbc_0003   4    0       Coming   VBG  (TOP(FRAG(S(VP*      come  11   2    Chris_Matthews         *    (V*)  (ARGM-ADV*        *      -
+bc/msnbc/00/msnbc_0003   4    1           up    RP          (PRT*)))       -    -   -    Chris_Matthews         *      *            *)       *      -
+bc/msnbc/00/msnbc_0003   4    2            ,     ,                *        -    -   -    Chris_Matthews         *      *            *        *      -
+bc/msnbc/00/msnbc_0003   4    3    President   NNP           (S(NP*        -    -   -    Chris_Matthews         *      *       (ARG0*        *   (209
+bc/msnbc/00/msnbc_0003   4    4         Bush   NNP                *)       -    -   -    Chris_Matthews   (PERSON)     *            *)       *    209)
+bc/msnbc/00/msnbc_0003   4    5         says   VBZ             (VP*       say  01   1    Chris_Matthews         *      *          (V*)       *      -
+bc/msnbc/00/msnbc_0003   4    6         John   NNP      (SBAR(S(NP*        -    -   -    Chris_Matthews  (PERSON*      *       (ARG1*   (ARG1*   (137
+bc/msnbc/00/msnbc_0003   4    7       Bolton   NNP                *)       -    -   -    Chris_Matthews         *)     *            *        *)   137)
+bc/msnbc/00/msnbc_0003   4    8           is   VBZ             (VP*        be  01   2    Chris_Matthews         *      *            *      (V*)     -
+bc/msnbc/00/msnbc_0003   4    9          the    DT          (NP(NP*        -    -   -    Chris_Matthews         *      *            *   (ARG2*      -
+bc/msnbc/00/msnbc_0003   4   10        right    JJ                *        -    -   -    Chris_Matthews         *      *            *        *      -
+bc/msnbc/00/msnbc_0003   4   11       person    NN                *)   person   -   1    Chris_Matthews         *      *            *        *      -
+bc/msnbc/00/msnbc_0003   4   12          for    IN             (PP*        -    -   -    Chris_Matthews         *      *            *        *      -
+bc/msnbc/00/msnbc_0003   4   13          the    DT             (NP*        -    -   -    Chris_Matthews         *      *            *        *      -
+bc/msnbc/00/msnbc_0003   4   14          job    NN         *))))))))      job   -   2    Chris_Matthews         *      *            *)       *)     -
+bc/msnbc/00/msnbc_0003   4   15           /.     .               *))       -    -   -    Chris_Matthews         *      *            *        *      -
+
+bc/msnbc/00/msnbc_0003   4   0          but     CC  (TOP(S*        -    -   -    Chris_Matthews       *    (ARGM-DIS*)        *       -
+bc/msnbc/00/msnbc_0003   4   1    Democrats   NNPS     (NP*)       -    -   -    Chris_Matthews   (NORP)       (ARG0*)        *       -
+bc/msnbc/00/msnbc_0003   4   2         call    VBP     (VP*      call  01   5    Chris_Matthews       *           (V*)        *       -
+bc/msnbc/00/msnbc_0003   4   3          him    PRP     (NP*)       -    -   -    Chris_Matthews       *        (ARG1*)        *    (137)
+bc/msnbc/00/msnbc_0003   4   4      damaged    VBN   (S(NP*    damage  01   -    Chris_Matthews       *        (ARG2*       (V*)      -
+bc/msnbc/00/msnbc_0003   4   5        goods    NNS      *)))       -    -   -    Chris_Matthews       *             *)   (ARG1*)      -
+bc/msnbc/00/msnbc_0003   4   6           /.      .       *))       -    -   -    Chris_Matthews       *             *         *       -
+
+bc/msnbc/00/msnbc_0003   4    0            The    DT  (TOP(FRAG(NP(NP*        -    -   -    Chris_Matthews              *        *             *           -
+bc/msnbc/00/msnbc_0003   4    1          fight    NN                 *)    fight  01   2    Chris_Matthews              *      (V*)            *           -
+bc/msnbc/00/msnbc_0003   4    2           over    IN              (PP*        -    -   -    Chris_Matthews              *   (ARG2*             *           -
+bc/msnbc/00/msnbc_0003   4    3           John   NNP        (NP(NP(NP*        -    -   -    Chris_Matthews       (PERSON*        *             *   (137|(213
+bc/msnbc/00/msnbc_0003   4    4         Bolton   NNP                 *        -    -   -    Chris_Matthews              *        *             *           -
+bc/msnbc/00/msnbc_0003   4    5             's   POS                 *)       -    -   -    Chris_Matthews              *)       *             *         137)
+bc/msnbc/00/msnbc_0003   4    6         recess    NN                 *    recess   -   -    Chris_Matthews              *        *             *           -
+bc/msnbc/00/msnbc_0003   4    7    appointment    NN                 *)       -    -   -    Chris_Matthews              *        *             *           -
+bc/msnbc/00/msnbc_0003   4    8             to    IN              (PP*        -    -   -    Chris_Matthews              *        *             *           -
+bc/msnbc/00/msnbc_0003   4    9            the    DT              (NP*        -    -   -    Chris_Matthews              *        *             *           -
+bc/msnbc/00/msnbc_0003   4   10             UN   NNP             *)))))       -    -   -    Chris_Matthews           (ORG)       *)            *         213)
+bc/msnbc/00/msnbc_0003   4   11           when   WRB     (SBAR(WHADVP*)       -    -   -    Chris_Matthews              *        *    (ARGM-TMP*)          -
+bc/msnbc/00/msnbc_0003   4   12       Hardball   NNP            (S(NP*)       -    -   -    Chris_Matthews   (WORK_OF_ART)       *        (ARG1*)       (214)
+bc/msnbc/00/msnbc_0003   4   13        returns   VBZ            (VP*)))   return  03   1    Chris_Matthews              *        *           (V*)          -
+bc/msnbc/00/msnbc_0003   4   14             /.     .                *))       -    -   -    Chris_Matthews              *        *             *           -
