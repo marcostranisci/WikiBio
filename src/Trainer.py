@@ -61,11 +61,12 @@ class Report():
 
 
 class Trainer():
-    def __init__(self,model,train,eval,report,EPOCHS=3,LEARNING_RATE=1e-6):
+    def __init__(self,model,train,eval,test,report,EPOCHS=10,LEARNING_RATE=1e-6):
 
         self.model = model
         self.train = train
         self.eval = eval
+        self.test = test
         self.report = report
         self.EPOCHS = EPOCHS
         self.LEARNING_RATE = LEARNING_RATE
@@ -108,6 +109,7 @@ class Trainer():
             total_fscore_train = 0
 
             self.model.train()
+            print(self.train)
             length_train = sum([len(x['features']) for x in self.train])
 
 
@@ -209,11 +211,58 @@ class Trainer():
 
             }
             )
+        self.model.eval()
+        length_test = sum([len(x['features']) for x in self.test])
+
+        total_acc_test = 0
+        total_loss_test = 0
+        total_prec_test = 0
+        total_rec_test = 0
+        total_fscore_test = 0
+        for i,batch in enumerate(tqdm(self.test,total=len(self.test))):
+
+            test_label = batch['targets'].to(device)
+            mask = batch['attention_mask'].squeeze(1).to(device)
+            input_id = batch['features'].squeeze(1).to(device)
+
+            with torch.no_grad():
+                loss, logits = self.model(features=input_id, attention_mask=mask,labels=test_label)
+
+            for i in range(logits.shape[0]):
+                logits_clean = logits[i][test_label[i] != -100]
+                label_clean = test_label[i][test_label[i] != -100]
+                predictions = logits_clean.argmax(dim=1)
+                acc = (predictions == label_clean).float().mean()
+                total_acc_test += acc
+                total_loss_test += loss.item()
+                precision,recall,fscore,support = precision_recall_fscore_support(label_clean.cpu(),predictions.cpu(),average='macro',zero_division=0)
+                total_prec_test +=precision
+                total_rec_test+=recall
+                total_fscore_test+=fscore
 
 
-            '''early_stopping(total_loss_train/length_train,total_loss_val/length_eval)
-            log.info(f"the delta between training and evaluation is {early_stopping.min_delta}")
-            torch.save(self.model.state_dict(),'./fine_tuning_output/boh.pth')
-            if early_stopping.early_stop:
 
-                break'''
+        log.info(
+        f"Epochs: {epoch_num + 1} | Test_Loss: {total_loss_test / length_test: .3f} | Accuracy: {total_acc_test / length_test: .3f} | Precision: {total_prec_test / length_test: .3f} | Recall: {total_rec_test / length_test: .3f} | F-Score: {total_fscore_test / length_test: .3f}"
+        )
+
+        rep.make_report(
+        {'time':time.time(),
+        'epoch':epoch_num+1,
+        'type' : 'eval',
+        'loss' : total_loss_test / length_test,
+        'accuracy': float(total_acc_test / length_test),
+        'precision' : total_prec_test / length_test,
+        'recall': total_rec_test / length_test,
+        'f_score' : total_fscore_test / length_test,
+
+        }
+        )
+
+
+        '''early_stopping(total_loss_train/length_train,total_loss_val/length_eval)
+        log.info(f"the delta between training and evaluation is {early_stopping.min_delta}")
+        torch.save(self.model.state_dict(),'./fine_tuning_output/boh.pth')
+        if early_stopping.early_stop:
+
+            break'''

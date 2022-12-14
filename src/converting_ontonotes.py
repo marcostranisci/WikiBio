@@ -99,12 +99,12 @@ def modify_onto(a_list):
                                 jsn[sent]['labels'][i+lemmas.index(lemma)]='EVENT'
                                 is_name = True
                                 a+=1
-                        '''if is_name is False:
-                            for lemma in lemmas:
-                                if re.search('JJ',pos[lemmas.index(lemma)]):
-                                    jsn[sent]['labels'][i]=0
-                                    jsn[sent]['labels'][i+lemmas.index(lemma)]='EVENT'
-                                    b+=1'''
+                            if is_name is False:
+                                for lemma in lemmas:
+                                    if re.search('JJ',pos[lemmas.index(lemma)]):
+                                        jsn[sent]['labels'][i]=0
+                                        jsn[sent]['labels'][i+lemmas.index(lemma)]='EVENT'
+                                        b+=1
             except Exception as e:print(f"Houston we've got a {e}")
     print(a,b)
     return a_list
