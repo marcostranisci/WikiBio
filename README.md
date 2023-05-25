@@ -42,4 +42,4 @@ Wikipedia documents
 
 ## G. ANNOTATORS' COMPENSATION
 
-Annotators' activity is part of their effort related to the development of the present work, which was economically recognized within their contracts with the University of Turin. 
+Annotators' activity is part of their effort related to the development of the present work, which was economically recognized within their contracts with the Academic Institution they are working for. 
