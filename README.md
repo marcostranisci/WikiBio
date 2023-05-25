@@ -12,7 +12,7 @@ Data set name: WikiBio
 
 WikiBio is a Corpus of 20 writers' biographies annotated for the biographical event detection task.
 
-- Data Collection Process. All the annotated documents were gathered from the English Wikipedia. In order to retain only relevant document we relied on Wikidata for the collection of all the entities having as occupation `writer', `novelist', or `poet', born in an African country or being African-American. We then selected only ones belonging to the Silent Generation (born between 1928 and 1945). From that collection we sampled 10 African writers and 10 African American Writers whose biographies' length were higher than 200.000 tokens. 
+- Data Collection Process. All the annotated documents were gathered from the English Wikipedia. In order to retain only relevant document we relied on Wikidata for the collection of all the entities having as occupation "writer", "novelist", or "poet", born in an African country or being African-American. We then selected only ones belonging to the Silent Generation (born between 1928 and 1945). From that collection we sampled 10 African writers and 10 African American Writers whose biographies' length were higher than 200.000 tokens. 
 - Time Period. All documents have been gathered from English Wikipedia in Winter 2021.
 
 ## B. LANGUAGE VARIETY
