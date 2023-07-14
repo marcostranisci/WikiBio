@@ -1,4 +1,4 @@
-# WikiBio
+# WikiBio @ ACL 2023
 
 This is the repository of the WikiBio corpus, which is described in the following paper:
 
