@@ -4,6 +4,13 @@ This is the repository of the WikiBio corpus, which is described in the followin
 
 > Wikibio: a Semantic Resource for the Intersectional Analysis of Biographical Events
 
+Please use this reference to cite our work
+> @article{stranisci2023wikibio,
+>  title={Wikibio: a Semantic Resource for the Intersectional Analysis of Biographical Events},
+> author={Stranisci, Marco Antonio and Damiano, Rossana and Mensa, Enrico and Patti, Viviana and Radicioni, Daniele and Caselli, Tommaso},
+> journal={arXiv preprint arXiv:2306.09505},
+> year={2023}}
+
 # Data Statement for WikiBio corpus
 
 Data set name: WikiBio
@@ -43,3 +50,11 @@ Wikipedia documents
 ## G. ANNOTATORS' COMPENSATION
 
 Annotators' activity is part of their effort related to the development of the present work, which was economically recognized within their contracts with the Academic Institution they are working for. 
+
+# Beware of the homonyms
+On Github there is a folder with the same name, but it is related to another work 
+> Neural Text Generation from Structured Data with Application to the Biography Domain
+> Rémi Lebret, David Grangier and Michael Auli, EMNLP 16,
+> 
+If you are looking for it, you can find it [here](https://github.com/DavidGrangier/wikipedia-biography-dataset).
+
