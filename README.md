@@ -7,11 +7,11 @@ This is the repository of the WikiBio corpus, which is described in the followin
 Please use this reference to cite our work
 > @inproceedings{stranisci-etal-2023-wikibio,\
 >     title = "{W}iki{B}io: a Semantic Resource for the Intersectional Analysis of Biographical Events",\
->     author = "Stranisci, Marco Antonio  and \
->       Damiano, Rossana  and \
->       Mensa, Enrico  and \
->       Patti, Viviana  and \
->       Radicioni, Daniele  and \
+>     author = "Stranisci, Marco Antonio  and
+>       Damiano, Rossana  and
+>       Mensa, Enrico  and
+>       Patti, Viviana  and
+>       Radicioni, Daniele  and
 >       Caselli, Tommaso", \
 >     booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)", \
 >     month = jul, \
